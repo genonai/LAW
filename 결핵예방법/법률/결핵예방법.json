@@ -1836,7 +1836,14 @@
         "changed": "N",
         "article_key": "0013001",
         "images": [],
-        "provision_id": "law:결핵예방법#JO0013"
+        "provision_id": "law:결핵예방법#JO0013",
+        "scheduled": [
+          {
+            "enforcement_date": "20270421",
+            "change": "개정",
+            "content": "제13조(업무종사의 일시 제한)\n① 특별자치시장ㆍ특별자치도지사 또는 시장ㆍ군수ㆍ구청장은 전염성결핵환자에 대하여 접객업이나 그 밖에 사람들과 접촉이 많은 업무에 종사하거나 제19조제1항제2호에 따른 집단생활시설에서 수행하는 업무에 종사하는 것을 보건복지부령으로 정하는 바에 따라 전염성 소실(消失)의 판정을 받을 때까지 정지하거나 금지하도록 명하여야 한다. <개정 2014.1.28, 2019.12.3>\n② 제1항에 따라 업무종사 정지 또는 금지 명령을 받은 환자는 전염성 소실 판정을 받을 때까지 업무에 종사할 수 없다. <신설 2016.2.3>\n③ 제1항에 따라 업무종사 정지 또는 금지 명령을 받은 환자의 사업주 또는 고용주는 해당 환자가 전염성 소실 판정을 받을 때까지 업무 종사를 금지하여야 한다. <신설 2016.2.3>\n④ 사업주 또는 고용주는 비전염성결핵환자 및 잠복결핵감염자에 대하여 결핵환자 또는 잠복결핵감염자라는 이유만으로 취업을 거부할 수 없다. <개정 2016.2.3, 2026.10.20>\n⑤ 제1항에 따라 취업이 정지되거나 금지되는 업무에 대하여는 보건복지부령으로 정한다. <개정 2016.2.3>"
+          }
+        ]
       },
       {
         "article_no": "제14조",
@@ -4008,6 +4015,19 @@
       "source_version_uid": "001791:277213:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22094",
+      "addendum_key": "2026102022094",
+      "content": "부칙 <제22094호,2026.10.20>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:결핵예방법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291343",
+      "source_version_uid": "001791:291343:20270421",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270421",
+      "enforcement_date": "20270421"
     }
   ],
   "appendices": [],
@@ -4363,8 +4383,10 @@
   "provision_id": "law:결핵예방법#DOC",
   "addendum_provision_id": "law:결핵예방법#ADDENDUM",
   "amendment_provision_id": "law:결핵예방법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270421"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "결핵예방법/법률/결핵예방법.json"
 }
