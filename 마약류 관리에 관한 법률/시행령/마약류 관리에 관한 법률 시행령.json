@@ -6249,7 +6249,14 @@
         "changed": "N",
         "article_key": "0012021",
         "images": [],
-        "provision_id": "law:마약류관리에관한법률시행령#JO0012_02"
+        "provision_id": "law:마약류관리에관한법률시행령#JO0012_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20270211",
+            "change": "개정",
+            "content": "제12조의2(마약류취급자의 준수사항) 법 제38조제3항에 따라 마약류취급자는 다음 각 호의 사항을 준수하여야 한다. <개정 2016.11.1, 2026.11.10>\n1. 마약류취급자가 보관ㆍ소지 또는 관리하는 의료용 마약류의 입고ㆍ출고 및 사용에 대한 기록을 작성하고 2년간 보관할 것. 다만, 법 제11조에 따라 마약류취급자가 보관ㆍ소지 또는 관리하는 의료용 마약류의 입고ㆍ출고 및 사용에 대하여 식품의약품안전처장에게 보고한 경우는 제외한다.\n2. 의료용 마약류의 저장시설에는 마약류취급자 또는 마약류취급자가 지정한 종업원 외의 사람을 출입시켜서는 아니 되며, 저장시설을 주 1회 이상 점검하여 점검부를 작성ㆍ비치하고 이를 2년간 보존할 것\n3. 종업원에 대한 지도ㆍ감독을 철저히 하여 의료용 마약류의 도난 또는 유출 사고가 발생하지 않도록 할 것"
+          }
+        ]
       },
       {
         "article_no": "제13조",
@@ -14535,8 +14542,10 @@
   "provision_id": "law:마약류관리에관한법률시행령#DOC",
   "addendum_provision_id": "law:마약류관리에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:마약류관리에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270211"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "마약류 관리에 관한 법률/시행령/마약류 관리에 관한 법률 시행령.json"
 }
