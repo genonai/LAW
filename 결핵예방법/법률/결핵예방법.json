@@ -1726,7 +1726,14 @@
         "changed": "N",
         "article_key": "0012001",
         "images": [],
-        "provision_id": "law:결핵예방법#JO0012"
+        "provision_id": "law:결핵예방법#JO0012",
+        "scheduled": [
+          {
+            "enforcement_date": "20271021",
+            "change": "개정",
+            "content": "제12조(결핵예방접종) 결핵예방접종에 관한 사항은 「예방접종관리법」을 준용한다. 이 경우 \"예방접종\"은 \"결핵예방접종\"으로 본다. <개정 2026.10.20>"
+          }
+        ]
       },
       {
         "article_no": "제13조",
@@ -4048,6 +4055,19 @@
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20270421",
       "enforcement_date": "20270421"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22103",
+      "addendum_key": "2026102022103",
+      "content": "부칙(예방접종관리법) <제22103호,2026.10.20>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법률의 개정) ① 및 ② 생략\n③ 결핵예방법 일부를 다음과 같이 개정한다.\n제12조 전단 중 \"「감염병의 예방 및 관리에 관한 법률」 제24조부터 제33조까지의 규정을\"을 \"「예방접종관리법」을\"로 한다.\n④부터 ⑪까지 생략\n제7조 생략",
+      "provision_id": "law:결핵예방법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291297",
+      "source_version_uid": "001791:291297:20271021",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20271021",
+      "enforcement_date": "20271021"
     }
   ],
   "appendices": [],
@@ -4405,9 +4425,10 @@
   "amendment_provision_id": "law:결핵예방법#AMENDMENT",
   "future_enforcement_dates": [
     "20270421",
-    "20270610"
+    "20270610",
+    "20271021"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "결핵예방법/법률/결핵예방법.json"
 }
