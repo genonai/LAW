@@ -3324,7 +3324,14 @@
         "changed": "N",
         "article_key": "0028001",
         "images": [],
-        "provision_id": "law:지역보건법#JO0028"
+        "provision_id": "law:지역보건법#JO0028",
+        "scheduled": [
+          {
+            "enforcement_date": "20270121",
+            "change": "개정",
+            "content": "제28조(개인정보의 누설금지) 지역보건의료기관(「농어촌 등 보건의료를 위한 특별조치법」 제2조제4호에 따른 보건진료소를 포함한다)의 기능 수행과 관련한 업무에 종사하였거나 종사하고 있는 사람 또는 지역보건의료정보시스템을 구축ㆍ운영하였거나 구축ㆍ운영하고 있는 자(제30조제3항 및 제5항에 따라 위탁받거나 대행하는 업무에 종사하거나 종사하였던 자를 포함한다)는 업무상 알게 된 다음 각 호의 정보를 업무 외의 목적으로 사용하거나 다른 사람에게 제공 또는 누설하여서는 아니 된다. <개정 2023.3.28, 2026.10.20>\n1. 보건의료인이 진료과정(건강검진을 포함한다)에서 알게 된 개인 및 가족의 진료 정보\n2. 제5조에 따라 수집ㆍ관리ㆍ보유하거나 제공받은 자료 또는 정보\n3. 제20조에 따라 조사하거나 제출받은 다음 각 호의 정보\n가. 금융정보(「국민기초생활 보장법」 제21조제5항제1호의 금융정보를 말한다. 이하 같다)\n나. 신용정보 또는 보험정보(「국민기초생활 보장법」 제21조제5항제2호ㆍ제3호의 신용정보 및 보험정보를 말한다. 이하 같다)\n4. 제1호부터 제3호까지에 따른 자료 또는 정보를 제외한 개인정보(「개인정보 보호법」 제2조제1호의 개인정보를 말한다. 이하 같다)"
+          }
+        ]
       },
       {
         "article_no": "제29조",
@@ -4003,6 +4010,19 @@
       "source_version_uid": "000236:265479:20250621",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20250621"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22087",
+      "addendum_key": "2026102022087",
+      "content": "부칙(국민기초생활 보장법) <제22087호,2026.10.20>\n제1조(시행일) 이 법은 공포 후 3개월이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) ① 및 ② 생략\n③ 지역보건법 일부를 다음과 같이 개정한다.\n제28조제3호가목 및 나목 중 \"「국민기초생활 보장법」 제21조제3항\"을 각각 \"「국민기초생활 보장법」 제21조제5항\"으로 한다.",
+      "provision_id": "law:지역보건법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291217",
+      "source_version_uid": "000236:291217:20270121",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20270121",
+      "enforcement_date": "20270121"
     }
   ],
   "appendices": [],
@@ -8360,8 +8380,10 @@
   "provision_id": "law:지역보건법#DOC",
   "addendum_provision_id": "law:지역보건법#ADDENDUM",
   "amendment_provision_id": "law:지역보건법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270121"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지역보건법/법률/지역보건법.json"
 }
