@@ -190,7 +190,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:소상공인기본법#JO0003"
+        "provision_id": "law:소상공인기본법#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20270421",
+            "change": "개정",
+            "content": "제3조(정부와 지방자치단체의 책무)\n① 정부는 소상공인의 보호와 자주적 육성을 위하여 전자상거래 확산 등 국내외 경제환경의 변화를 고려한 종합적인 소상공인시책을 수립ㆍ시행하여야 한다. <개정 2026.10.20>\n② 지방자치단체는 제1항에 따른 소상공인시책에 따라 관할 지역의 특성을 고려하여 그 지역의 소상공인시책을 수립ㆍ시행하여야 한다.\n③ 정부와 지방자치단체는 소상공인 보호ㆍ육성에 필요한 재원을 지속적이고 안정적으로 확보하여야 한다.\n④ 정부와 지방자치단체는 상호 간의 협력과 소상공인시책의 연계를 통하여 소상공인에 대한 지원의 효과를 높일 수 있도록 노력하여야 한다."
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -1412,6 +1419,19 @@
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20270330",
       "enforcement_date": "20270330"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22110",
+      "addendum_key": "2026102022110",
+      "content": "부칙 <제22110호,2026.10.20>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:소상공인기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291331",
+      "source_version_uid": "013671:291331:20270421",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270421",
+      "enforcement_date": "20270421"
     }
   ],
   "appendices": [],
@@ -1446,9 +1466,10 @@
   "addendum_provision_id": "law:소상공인기본법#ADDENDUM",
   "amendment_provision_id": "law:소상공인기본법#AMENDMENT",
   "future_enforcement_dates": [
-    "20270330"
+    "20270330",
+    "20270421"
   ],
   "has_future": true,
-  "version_count": 2,
+  "version_count": 3,
   "git_path": "소상공인기본법/법률/소상공인기본법.json"
 }
