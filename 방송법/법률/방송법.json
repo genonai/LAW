@@ -131,7 +131,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n최근 방송미디어통신위원회의 구성이 지연되어 재허가ㆍ재승인 심의가 불가능하여 방송사업자의 허가ㆍ승인 유효기간이 만료되는 상황이 발생하고 있는바, 방송미디어통신위원회 미구성 등 방송사업자의 책임 없는 사유로 인하여 허가ㆍ승인 유효기간 내 재허가ㆍ재승인 결정이 완료되지 못한 경우에는 재허가ㆍ재승인 결정이 이루어질 때까지 허가ㆍ승인이 유효한 것으로 간주하되, 이 법 시행 당시 종전의 허가ㆍ승인의 유효기간이 만료된 방송사업자 등에 대해서도 이 법을 적용하도록 하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 144,
+    "article_count": 145,
     "articles": [
       {
         "article_no": "제1조",
@@ -12896,6 +12896,30 @@
         "provision_id": "law:방송법#JO0092_03"
       },
       {
+        "article_no": "제92조의4",
+        "article_title": "중소 전문편성 방송채널사용사업자의 지원",
+        "chapter": "제7장 방송발전의 지원",
+        "chapter_path": "제7장 방송발전의 지원",
+        "content": "제92조의4(중소 전문편성 방송채널사용사업자의 지원) 정부는 채널의 전문성과 다양성을 구현하기 위하여 「중소기업기본법」 제2조에 따른 중소기업에 해당하는 방송채널사용사업자(종합편성이나 보도에 관한 전문편성 또는 상품소개와 판매에 관한 전문편성을 하는 자는 제외한다)에 대하여 대통령령으로 정하는 바에 따라 방송프로그램 제작 등에 필요한 지원을 할 수 있다.",
+        "enforcement_date": "20270421",
+        "relations": [],
+        "note": "[본조신설 2026.10.20]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0092041",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:방송법#JO0092_04",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20270421",
+            "change": "신설",
+            "content": "제92조의4(중소 전문편성 방송채널사용사업자의 지원) 정부는 채널의 전문성과 다양성을 구현하기 위하여 「중소기업기본법」 제2조에 따른 중소기업에 해당하는 방송채널사용사업자(종합편성이나 보도에 관한 전문편성 또는 상품소개와 판매에 관한 전문편성을 하는 자는 제외한다)에 대하여 대통령령으로 정하는 바에 따라 방송프로그램 제작 등에 필요한 지원을 할 수 있다."
+          }
+        ]
+      },
+      {
         "article_no": "제93조",
         "article_title": "방송프로그램의 보관 및 활용",
         "chapter": "제7장 방송발전의 지원",
@@ -17039,6 +17063,19 @@
       "source_version_uid": "000794:285487:20260421",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260421"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22111",
+      "addendum_key": "2026102022111",
+      "content": "부칙 <제22111호,2026.10.20>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:방송법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291333",
+      "source_version_uid": "000794:291333:20270421",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270421",
+      "enforcement_date": "20270421"
     }
   ],
   "appendices": [
@@ -17115,8 +17152,10 @@
   "provision_id": "law:방송법#DOC",
   "addendum_provision_id": "law:방송법#ADDENDUM",
   "amendment_provision_id": "law:방송법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270421"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "방송법/법률/방송법.json"
 }
