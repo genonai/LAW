@@ -2173,7 +2173,14 @@
         "changed": "N",
         "article_key": "0011001",
         "images": [],
-        "provision_id": "law:국민기초생활보장법#JO0011"
+        "provision_id": "law:국민기초생활보장법#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20280101",
+            "change": "개정",
+            "content": "제11조(주거급여)\n① 주거급여는 수급자에게 주거 안정에 필요한 임차료, 수선유지비, 관리비, 그 밖의 수급품을 지급하는 것으로 한다. <개정 2014.12.30, 2026.10.20>\n② 주거급여에 관하여 필요한 사항은 따로 법률에서 정한다. <개정 2014.12.30>"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -13632,9 +13639,10 @@
   "amendment_provision_id": "law:국민기초생활보장법#AMENDMENT",
   "future_enforcement_dates": [
     "20270121",
-    "20270316"
+    "20270316",
+    "20280101"
   ],
   "has_future": true,
-  "version_count": 3,
+  "version_count": 4,
   "git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
 }
