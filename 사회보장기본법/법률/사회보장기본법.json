@@ -119,7 +119,14 @@
         "changed": "N",
         "article_key": "0005001",
         "images": [],
-        "provision_id": "law:사회보장기본법#JO0005"
+        "provision_id": "law:사회보장기본법#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20270121",
+            "change": "개정",
+            "content": "제5조(국가와 지방자치단체의 책임)\n① 국가와 지방자치단체는 모든 국민의 인간다운 생활을 유지ㆍ증진하는 책임을 가진다.\n② 국가와 지방자치단체는 사회보장에 관한 책임과 역할을 합리적으로 분담하여야 한다.\n③ 국가와 지방자치단체는 국가 발전수준에 부응하고 사회환경의 변화에 선제적으로 대응하며 지속가능한 사회보장제도를 확립하고 매년 이에 필요한 재원을 조달하여야 한다.\n④ 삭제 <2024.12.20>\n⑤ 국가와 지방자치단체는 모든 국민의 사회보장에 관한 권리 보장을 위하여 사회보장의 사각지대가 해소될 수 있도록 적극 노력하여야 하며, 사회적 위험에 놓인 국민을 선제적으로 발굴하여 지원하는 등 필요한 조치를 하여야 한다. <신설 2026.10.20>"
+          }
+        ]
       },
       {
         "article_no": "제6조",
@@ -203,7 +210,14 @@
         "changed": "N",
         "article_key": "0011001",
         "images": [],
-        "provision_id": "law:사회보장기본법#JO0011"
+        "provision_id": "law:사회보장기본법#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20270121",
+            "change": "개정",
+            "content": "제11조(사회보장급여의 신청 등)\n① 사회보장급여를 받으려는 사람은 관계 법령에서 정하는 바에 따라 국가나 지방자치단체에 신청하여야 한다. 다만, 관계 법령에서 따로 정하는 경우에는 국가나 지방자치단체가 신청을 대신할 수 있다.\n② 사회보장급여를 신청하는 사람이 다른 기관에 신청한 경우에는 그 기관은 지체 없이 이를 정당한 권한이 있는 기관에 이송하여야 한다. 이 경우 정당한 권한이 있는 기관에 이송된 날을 사회보장급여의 신청일로 본다.\n③ 제1항에 따른 신청이 없더라도 국가와 지방자치단체는 관계 법령에서 정하는 바에 따라 조사ㆍ확인ㆍ심사 등 필요한 절차를 거쳐 사회보장급여를 지급할 수 있다. <신설 2026.10.20>"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -2804,6 +2818,19 @@
       "source_version_uid": "000204:289735:20260915",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260915"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22100",
+      "addendum_key": "2026102022100",
+      "content": "부칙 <제22100호,2026.10.20>\n이 법은 공포 후 3개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:사회보장기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291355",
+      "source_version_uid": "000204:291355:20270121",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20270121",
+      "enforcement_date": "20270121"
     }
   ],
   "appendices": [],
@@ -2837,8 +2864,10 @@
   "provision_id": "law:사회보장기본법#DOC",
   "addendum_provision_id": "law:사회보장기본법#ADDENDUM",
   "amendment_provision_id": "law:사회보장기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20270121"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사회보장기본법/법률/사회보장기본법.json"
 }
