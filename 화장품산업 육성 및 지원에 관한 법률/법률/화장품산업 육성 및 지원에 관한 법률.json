@@ -484,7 +484,14 @@
         "article_key": "0029001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:화장품산업육성및지원에관한법률#JO0029"
+        "provision_id": "law:화장품산업육성및지원에관한법률#JO0029",
+        "scheduled": [
+          {
+            "enforcement_date": "20271021",
+            "change": "개정",
+            "content": "제29조(화장품산업통합정보시스템의 구축ㆍ운영)\n① 보건복지부장관은 화장품산업의 육성ㆍ지원에 필요한 각종 자료 또는 정보를 효율적으로 관리ㆍ제공하기 위하여 화장품산업통합정보시스템(이하 \"통합정보시스템\"이라 한다)을 구축ㆍ운영할 수 있다. 이 경우 식품의약품안전처장과 협의를 거쳐 「화장품법」 제33조의4에 따른 화장품통합정보시스템과 상호연계할 수 있다. <개정 2026.10.20>\n② 보건복지부장관은 통합정보시스템의 구축ㆍ운영을 위하여 국가기관 및 지방자치단체의 장과 관계 기관ㆍ단체의 장에게 관련 자료의 제공 및 관계 전산망 이용을 요청할 수 있다.\n③ 제2항에 따른 요청을 받은 기관ㆍ단체의 장은 정당한 사유가 없으면 그 요청에 따라야 한다.\n④ 보건복지부장관은 통합정보시스템의 구축ㆍ운영 업무를 관계 전문기관 또는 단체에 위탁할 수 있다. 이 경우 보건복지부장관은 통합정보시스템의 구축ㆍ운영 업무에 소요되는 비용의 전부 또는 일부를 지원할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제30조",
@@ -650,6 +657,19 @@
       "source_version_uid": "015210:289743:20270916",
       "source_revision_type": "제정",
       "version_enforcement_date": "20270916"
+    },
+    {
+      "promulgation_date": "20261020",
+      "promulgation_no": "22113",
+      "addendum_key": "2026102022113",
+      "content": "부칙(화장품법) <제22113호,2026.10.20>\n제1조(시행일) 이 법은 공포한 날부터 시행한다. 다만, ㆍㆍㆍ<생략>ㆍㆍㆍ부칙 제2조는 공포 후 1년이 경과한 날부터 시행한다.\n제2조(다른 법률의 개정) 법률 제21939호 화장품산업 육성 및 지원에 관한 법률 일부를 다음과 같이 개정한다.\n제29조제1항 후단 중 \"「화장품법」 제33조의3\"을 \"「화장품법」 제33조의4\"로 한다.",
+      "provision_id": "law:화장품산업육성및지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291339",
+      "source_version_uid": "015210:291339:20271021",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20271021",
+      "enforcement_date": "20271021"
     }
   ],
   "appendices": [],
@@ -677,8 +697,10 @@
   "provision_id": "law:화장품산업육성및지원에관한법률#DOC",
   "addendum_provision_id": "law:화장품산업육성및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:화장품산업육성및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20271021"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "화장품산업 육성 및 지원에 관한 법률/법률/화장품산업 육성 및 지원에 관한 법률.json"
 }
