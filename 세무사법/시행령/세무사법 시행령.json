@@ -1,7 +1,7 @@
 {
   "law_id": "003940",
   "mst": "207824",
-  "version_uid": "003940:207824:20190212",
+  "version_uid": "003940:207824:20190701",
   "law_name": "세무사법 시행령",
   "law_abbr": "",
   "name_aliases": [
@@ -10,7 +10,7 @@
   "law_type": "대통령령",
   "promulgation_no": "29542",
   "promulgation_date": "20190212",
-  "enforcement_date": "20190212",
+  "enforcement_date": "20190701",
   "revision_date": "20190212",
   "revision_type": "일부개정",
   "is_current": false,
@@ -33,7 +33,7 @@
       "content": "대통령령",
       "법종구분코드": "A0007"
     },
-    "시행일자": "20190212",
+    "시행일자": "20190701",
     "별표편집여부": "편집",
     "연락부서": {
       "부서단위": {
@@ -54,7 +54,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n세무사는 전년도에 처리한 업무실적 내역서를 작성ㆍ보관하고 이를 한국세무사회에 제출하도록 하는 등의 내용으로 「세무사법」이 개정됨에 따라, 업무실적 내역서를 5년간 사무소에 보관하도록 하는 등 법률에서 위임된 사항과 그 시행에 필요한 사항을 정하는 한편, 세무사자격심의위원회 위원의 지명권자 또는 위촉권자는 위원이 직무와 관련된 비위사실이 있는 등의 경우에는 해당 위원의 지명을 철회하거나 해촉(解囑)할 수 있도록 하는 등 현행 제도의 운영상 나타난 일부 미비점을 개선ㆍ보완하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 69,
+    "article_count": 70,
     "articles": [
       {
         "article_no": "제1조",
@@ -82,7 +82,7 @@
         "relations": [],
         "note": "[전문개정 2011.9.16][제목개정 2019.2.12]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0001021",
         "moved": "000000",
         "images": [],
@@ -399,7 +399,7 @@
         ],
         "note": "[전문개정 2011.9.16]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0012001",
         "moved": "000000",
         "images": [],
@@ -490,7 +490,7 @@
         ],
         "note": "[전문개정 2019.2.12]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0013001",
         "moved": "000000",
         "images": [],
@@ -506,11 +506,47 @@
         "relations": [],
         "note": "[전문개정 2011.9.16]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014001",
         "moved": "000000",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014"
+      },
+      {
+        "article_no": "제14조의2",
+        "article_title": "(업무실적 보고)",
+        "chapter": "제2장의2 세무사의 권리ㆍ의무 <신설 2019.2.12>",
+        "chapter_path": "제2장의2 세무사의 권리ㆍ의무 <신설 2019.2.12>",
+        "content": "제14조의2(업무실적 보고)\n① 법 제14조제1항에 따른 업무실적 내역서는 기획재정부령으로 정한다.\n② 세무사는 제1항에 따른 업무실적 내역서를 법 제14조제1항에 따라 그 제출기한이 지난 날부터 5년간 사무소에 보관해야 한다. 다만, 「전자문서 및 전자거래 기본법」에 따라 전자문서로 작성한 경우에는 같은 법에 따라 보관할 수 있다.",
+        "enforcement_date": "20190701",
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제14조의2",
+            "source_clause": "제14조의2제1항",
+            "link_text": "재정경제부령",
+            "line_text": "재정경제부령",
+            "target_law_name": "세무사법 시행규칙",
+            "target_article_no": "제13조",
+            "target_article_title": "업무실적 내역서",
+            "target_mst": "284985",
+            "target_url": "https://www.law.go.kr/법령/세무사법 시행규칙/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:세무사법시행령#JO0014_02",
+            "reference_id": "law:세무사법시행규칙#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "세무사법/시행규칙/세무사법 시행규칙.json"
+          }
+        ],
+        "note": "[본조신설 2019.2.12][종전 제14조의2는 제14조의3으로 이동 <2019.2.12>]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0014021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:세무사법시행령#JO0014_02"
       },
       {
         "article_no": "제14조의3",
@@ -522,9 +558,9 @@
         "relations": [],
         "note": "[전문개정 2011.9.16][제14조의2에서 이동, 종전 제14조의3은 제14조의4로 이동 <2019.2.12>]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014031",
-        "moved": "000000",
+        "moved": "001402",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_03"
       },
@@ -538,9 +574,9 @@
         "relations": [],
         "note": "[전문개정 2011.9.16][제14조의3에서 이동, 종전 제14조의4는 제14조의5로 이동 <2019.2.12>]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014041",
-        "moved": "000000",
+        "moved": "001403",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_04"
       },
@@ -581,9 +617,9 @@
         ],
         "note": "[전문개정 2011.9.16][제14조의4에서 이동, 종전 제14조의5는 제14조의6으로 이동 <2019.2.12>]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014051",
-        "moved": "000000",
+        "moved": "001404",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_05"
       },
@@ -655,9 +691,9 @@
         ],
         "note": "[전문개정 2011.9.16][제14조의5에서 이동, 종전 제14조의6은 제14조의7로 이동 <2019.2.12>]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014061",
-        "moved": "000000",
+        "moved": "001405",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_06"
       },
@@ -671,9 +707,9 @@
         "relations": [],
         "note": "[전문개정 2011.9.16][제14조의6에서 이동, 종전 제14조의7은 제14조의8로 이동 <2019.2.12>]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0014071",
-        "moved": "000000",
+        "moved": "001406",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_07"
       },
@@ -689,7 +725,7 @@
         "revision_type": "일부개정",
         "changed": "N",
         "article_key": "0014081",
-        "moved": "000000",
+        "moved": "001407",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0014_08"
       },
@@ -735,7 +771,7 @@
         "relations": [],
         "note": "[본조신설 2015.12.31]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0016021",
         "moved": "000000",
         "images": [],
@@ -1437,7 +1473,7 @@
         "relations": [],
         "note": "[전문개정 2011.9.16]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0033051",
         "moved": "000000",
         "images": [],
@@ -1469,7 +1505,7 @@
         "relations": [],
         "note": "[전문개정 2011.9.16]",
         "revision_type": "일부개정",
-        "changed": "Y",
+        "changed": "N",
         "article_key": "0034021",
         "moved": "000000",
         "images": [],
@@ -1506,27 +1542,6 @@
         "moved": "000000",
         "images": [],
         "provision_id": "law:세무사법시행령#JO0035"
-      }
-    ],
-    "unmatched_relations": [
-      {
-        "relation_type": "delegation",
-        "delegation_type": "시행규칙",
-        "target_category": "법령",
-        "source_article_no": "제14조의2",
-        "source_clause": "제14조의2제1항",
-        "link_text": "재정경제부령",
-        "line_text": "재정경제부령",
-        "target_law_name": "세무사법 시행규칙",
-        "target_article_no": "제13조",
-        "target_article_title": "업무실적 내역서",
-        "target_mst": "284985",
-        "target_url": "https://www.law.go.kr/법령/세무사법 시행규칙/제13조",
-        "resolve_method": "delegation",
-        "source_provision_id": "law:세무사법시행령#DOC",
-        "reference_id": "law:세무사법시행규칙#JO0013",
-        "target_repo": "LAW",
-        "target_git_path_guess": "세무사법/시행규칙/세무사법 시행규칙.json"
       }
     ]
   },
@@ -1816,9 +1831,9 @@
     "by_relation_type": {
       "delegation": 19
     },
-    "articles_total": 69,
-    "articles_with_relations": 12,
-    "unmatched_relations": 1,
+    "articles_total": 70,
+    "articles_with_relations": 13,
+    "unmatched_relations": 0,
     "phantom_self_refs": 0,
     "phantom_self_ref_samples": [],
     "ordinance_groups": 0,
