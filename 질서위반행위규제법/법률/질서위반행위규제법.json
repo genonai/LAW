@@ -35,13 +35,22 @@
     },
     "시행일자": "20210101",
     "연락부서": {
-      "부서단위": {
-        "부서연락처": "02-2110-3164",
-        "부서키": "409103",
-        "부서명": "법무심의관실",
-        "소관부처명": "법무부",
-        "소관부처코드": "1270000"
-      }
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3164",
+          "부서키": "430863",
+          "부서명": "법무심의관실",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-3164",
+          "부서키": "431071",
+          "부서명": "법무심의관실",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
     },
     "법령명_한자": "질서위반행위규제법",
     "법령명약칭": "",
@@ -94,9 +103,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0002",
             "reference_id": "law:질서위반행위규제법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -115,9 +122,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0002",
             "reference_id": "law:질서위반행위규제법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -272,9 +277,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:질서위반행위규제법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -293,9 +296,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:질서위반행위규제법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -314,9 +315,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:질서위반행위규제법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -335,9 +334,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:질서위반행위규제법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "citation",
@@ -356,9 +353,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -377,9 +372,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -398,9 +391,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -419,9 +410,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -440,9 +429,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#JO0160",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -461,9 +448,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0011",
             "reference_id": "law:도로교통법#JO0160",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -543,9 +528,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0015",
             "reference_id": "law:국세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
-            "target_git_path": "국세기본법/법률/국세기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
           },
           {
             "relation_type": "citation",
@@ -564,9 +547,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0015",
             "reference_id": "law:국세기본법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세기본법/법률/국세기본법.json",
-            "target_git_path": "국세기본법/법률/국세기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세기본법/법률/국세기본법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -601,9 +582,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0016",
             "reference_id": "law:질서위반행위규제법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -622,9 +601,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0016",
             "reference_id": "law:질서위반행위규제법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -643,9 +620,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0016",
             "reference_id": "law:질서위반행위규제법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -664,9 +639,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0016",
             "reference_id": "law:질서위반행위규제법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -701,9 +674,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0017",
             "reference_id": "law:질서위반행위규제법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -722,9 +693,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0017",
             "reference_id": "law:질서위반행위규제법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -759,9 +728,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0017_02",
             "reference_id": "law:질서위반행위규제법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -780,9 +747,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0017_02",
             "reference_id": "law:질서위반행위규제법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -801,9 +766,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0017_02",
             "reference_id": "law:질서위반행위규제법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "note": "[본조신설 2016.12.2]",
@@ -839,9 +802,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0018",
             "reference_id": "law:질서위반행위규제법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -860,9 +821,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0018",
             "reference_id": "law:질서위반행위규제법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -897,9 +856,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0019",
             "reference_id": "law:질서위반행위규제법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -918,9 +875,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0019",
             "reference_id": "law:질서위반행위규제법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -955,9 +910,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0020",
             "reference_id": "law:질서위반행위규제법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -976,9 +929,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0020",
             "reference_id": "law:질서위반행위규제법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -997,9 +948,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0020",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1018,9 +967,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0020",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1055,9 +1002,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0021",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1076,9 +1021,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0021",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1113,9 +1056,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0022",
             "reference_id": "law:질서위반행위규제법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1134,9 +1075,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0022",
             "reference_id": "law:질서위반행위규제법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1171,9 +1110,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0023",
             "reference_id": "law:질서위반행위규제법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1208,9 +1145,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1229,9 +1164,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1266,9 +1199,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_02",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1287,9 +1218,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_02",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1308,9 +1237,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_02",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1329,9 +1256,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_02",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "note": "[본조신설 2011.4.5]",
@@ -1367,9 +1292,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1388,9 +1311,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1409,9 +1330,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
-            "target_git_path": "의료급여법/법률/의료급여법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
           },
           {
             "relation_type": "citation",
@@ -1430,9 +1349,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:한부모가족지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
           },
           {
             "relation_type": "citation",
@@ -1451,9 +1368,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
-            "target_git_path": "장애인복지법/법률/장애인복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
           },
           {
             "relation_type": "citation",
@@ -1472,9 +1387,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
-            "target_git_path": "장애인복지법/법률/장애인복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
           },
           {
             "relation_type": "citation",
@@ -1493,9 +1406,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
-            "target_git_path": "장애인복지법/법률/장애인복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
           },
           {
             "relation_type": "citation",
@@ -1514,9 +1425,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1529,15 +1438,13 @@
             "target_law_name": "고용보험법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283373",
+            "target_mst": "284449",
             "target_url": "https://www.law.go.kr/법령/고용보험법",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:고용보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용보험법/법률/고용보험법.json",
-            "target_git_path": "고용보험법/법률/고용보험법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고용보험법/법률/고용보험법.json"
           },
           {
             "relation_type": "delegation",
@@ -1556,9 +1463,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1577,9 +1482,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1598,9 +1501,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1619,9 +1520,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1640,9 +1539,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1661,9 +1558,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1682,9 +1577,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_03",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "note": "[본조신설 2016.12.2]",
@@ -1720,9 +1613,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_04",
             "reference_id": "law:질서위반행위규제법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1741,9 +1632,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_04",
             "reference_id": "law:질서위반행위규제법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -1762,9 +1651,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0024_04",
             "reference_id": "law:질서위반행위규제법시행령#JO0007_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "note": "[본조신설 2018.12.18]",
@@ -1788,14 +1675,7 @@
         "article_key": "0025001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:질서위반행위규제법#JO0025",
-        "scheduled": [
-          {
-            "enforcement_date": "20280301",
-            "change": "개정",
-            "content": "제25조(관할 법원)\n① 과태료 사건은 다른 법령에 특별한 규정이 있는 경우를 제외하고는 당사자의 주소지의 지방법원 또는 그 지원의 관할로 한다. <개정 2026.3.17>\n② 제1항에도 불구하고 「법원조직법」 제40조의10제1항제2호에 따른 해사공법에 의한 과태료 사건은 당사자의 주소지를 관할하는 지방법원 및 그 지원(해사국제상사법원이 위치한 지방법원 및 그 지원은 제외한다) 또는 해사국제상사법원의 관할로 한다. <신설 2026.3.17>"
-          }
-        ]
+        "provision_id": "law:질서위반행위규제법#JO0025"
       },
       {
         "article_no": "제26조",
@@ -1822,9 +1702,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0026",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1843,9 +1721,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0026",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1864,9 +1740,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0026",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1916,9 +1790,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -1937,9 +1809,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -1958,9 +1828,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -1979,9 +1847,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2000,9 +1866,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2021,9 +1885,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2042,9 +1904,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2063,9 +1923,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2084,9 +1942,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           },
           {
             "relation_type": "citation",
@@ -2105,9 +1961,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0028",
             "reference_id": "law:비송사건절차법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
-            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2142,9 +1996,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0029",
             "reference_id": "law:민사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2179,9 +2031,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0030",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2200,9 +2050,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0030",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2221,9 +2069,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0030",
             "reference_id": "law:질서위반행위규제법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2288,9 +2134,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0033",
             "reference_id": "law:민사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2355,9 +2199,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0036",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2376,9 +2218,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0036",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2413,9 +2253,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0037",
             "reference_id": "law:민사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2480,9 +2318,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0040",
             "reference_id": "law:민사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2532,9 +2368,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "citation",
@@ -2553,9 +2387,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2574,9 +2406,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2595,9 +2425,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2616,9 +2444,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2637,9 +2463,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2658,9 +2482,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2679,9 +2501,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2700,9 +2520,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0042",
             "reference_id": "law:질서위반행위규제법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2752,9 +2570,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0044",
             "reference_id": "law:질서위반행위규제법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2773,9 +2589,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0044",
             "reference_id": "law:질서위반행위규제법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2810,9 +2624,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0045",
             "reference_id": "law:질서위반행위규제법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2847,9 +2659,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0046",
             "reference_id": "law:질서위반행위규제법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -2868,9 +2678,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0046",
             "reference_id": "law:질서위반행위규제법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -2905,9 +2713,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0047",
             "reference_id": "law:질서위반행위규제법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2926,9 +2732,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0047",
             "reference_id": "law:질서위반행위규제법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2947,9 +2751,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0047",
             "reference_id": "law:질서위반행위규제법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2968,9 +2770,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0047",
             "reference_id": "law:질서위반행위규제법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "delegation",
@@ -2989,9 +2789,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0047",
             "reference_id": "law:질서위반행위규제법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3041,9 +2839,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0049",
             "reference_id": "law:질서위반행위규제법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3078,9 +2874,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0050",
             "reference_id": "law:질서위반행위규제법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3099,9 +2893,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0050",
             "reference_id": "law:질서위반행위규제법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3151,9 +2943,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0052",
             "reference_id": "law:질서위반행위규제법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3172,9 +2962,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0052",
             "reference_id": "law:질서위반행위규제법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3209,9 +2997,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
-            "target_git_path": "국세징수법/법률/국세징수법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
           },
           {
             "relation_type": "citation",
@@ -3230,9 +3016,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:국세징수법#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
-            "target_git_path": "국세징수법/법률/국세징수법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
           },
           {
             "relation_type": "citation",
@@ -3245,15 +3029,13 @@
             "target_law_name": "신용정보의 이용 및 보호에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "285955",
+            "target_mst": "283841",
             "target_url": "https://www.law.go.kr/법령/신용정보의 이용 및 보호에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3266,15 +3048,13 @@
             "target_law_name": "신용정보의 이용 및 보호에 관한 법률",
             "target_article_no": "제25조",
             "target_article_title": "신용정보집중기관",
-            "target_mst": "285955",
+            "target_mst": "283841",
             "target_url": "https://www.law.go.kr/법령/신용정보의 이용 및 보호에 관한 법률/제25조",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3287,15 +3067,13 @@
             "target_law_name": "신용정보의 이용 및 보호에 관한 법률",
             "target_article_no": "제25조",
             "target_article_title": "신용정보집중기관",
-            "target_mst": "285955",
+            "target_mst": "283841",
             "target_url": "https://www.law.go.kr/법령/신용정보의 이용 및 보호에 관한 법률/제25조",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3308,15 +3086,13 @@
             "target_law_name": "신용정보의 이용 및 보호에 관한 법률",
             "target_article_no": "제25조",
             "target_article_title": "신용정보집중기관",
-            "target_mst": "285955",
+            "target_mst": "283841",
             "target_url": "https://www.law.go.kr/법령/신용정보의 이용 및 보호에 관한 법률/제25조",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3335,9 +3111,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
-            "target_git_path": "국세징수법/법률/국세징수법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
           },
           {
             "relation_type": "citation",
@@ -3356,9 +3130,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:국세징수법#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
-            "target_git_path": "국세징수법/법률/국세징수법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
           },
           {
             "relation_type": "delegation",
@@ -3377,9 +3149,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0053",
             "reference_id": "law:질서위반행위규제법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3414,9 +3184,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0054",
             "reference_id": "law:질서위반행위규제법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3435,9 +3203,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0054",
             "reference_id": "law:과태료체납자에대한감치의재판에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과태료 체납자에 대한 감치의 재판에 관한 규칙/법률/과태료 체납자에 대한 감치의 재판에 관한 규칙.json",
-            "target_git_path": "과태료 체납자에 대한 감치의 재판에 관한 규칙/법률/과태료 체납자에 대한 감치의 재판에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "과태료 체납자에 대한 감치의 재판에 관한 규칙/법률/과태료 체납자에 대한 감치의 재판에 관한 규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3472,9 +3238,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:자동차관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
-            "target_git_path": "자동차관리법/법률/자동차관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
           },
           {
             "relation_type": "citation",
@@ -3493,9 +3257,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
-            "target_git_path": "자동차관리법/법률/자동차관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
           },
           {
             "relation_type": "citation",
@@ -3514,9 +3276,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:자동차관리법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json",
-            "target_git_path": "자동차관리법/법률/자동차관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자동차관리법/법률/자동차관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -3535,9 +3295,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:질서위반행위규제법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3556,9 +3314,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:질서위반행위규제법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3577,9 +3333,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0055",
             "reference_id": "law:질서위반행위규제법시행령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_git_path": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/시행령/질서위반행위규제법 시행령.json"
           }
         ],
         "note": "[본조신설 2011.4.5][종전 제55조는 제57조로 이동 <2011.4.5>]",
@@ -3615,9 +3369,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0056",
             "reference_id": "law:질서위반행위규제법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "citation",
@@ -3630,15 +3382,13 @@
             "target_law_name": "전자정부법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "268103",
+            "target_mst": "283701",
             "target_url": "https://www.law.go.kr/법령/전자정부법",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0056",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
-            "target_git_path": "전자정부법/법률/전자정부법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
           },
           {
             "relation_type": "citation",
@@ -3651,15 +3401,13 @@
             "target_law_name": "전자정부법",
             "target_article_no": "제36조",
             "target_article_title": "행정정보의 효율적 관리 및 이용",
-            "target_mst": "268103",
+            "target_mst": "283701",
             "target_url": "https://www.law.go.kr/법령/전자정부법/제36조",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0056",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
-            "target_git_path": "전자정부법/법률/전자정부법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
           },
           {
             "relation_type": "citation",
@@ -3672,15 +3420,13 @@
             "target_law_name": "전자정부법",
             "target_article_no": "제36조",
             "target_article_title": "행정정보의 효율적 관리 및 이용",
-            "target_mst": "268103",
+            "target_mst": "283701",
             "target_url": "https://www.law.go.kr/법령/전자정부법/제36조",
             "resolve_method": "pop",
             "source_provision_id": "law:질서위반행위규제법#JO0056",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
-            "target_git_path": "전자정부법/법률/전자정부법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
           }
         ],
         "note": "[본조신설 2011.4.5]",
@@ -3716,9 +3462,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0057",
             "reference_id": "law:질서위반행위규제법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3737,9 +3481,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0057",
             "reference_id": "law:질서위반행위규제법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3758,9 +3500,7 @@
             "source_provision_id": "law:질서위반행위규제법#JO0057",
             "reference_id": "law:질서위반행위규제법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질서위반행위규제법/법률/질서위반행위규제법.json"
           }
         ],
         "note": "[제55조에서 이동 <2011.4.5>]",
@@ -3790,7 +3530,7 @@
       "promulgation_date": "20090401",
       "promulgation_no": "09617",
       "addendum_key": "2009040109617",
-      "content": "부칙(신용정보의 이용 및 보호에 관한 법률) <제9617호,2009.4.1>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 부터 제11조까지 생략\n제12조(다른 법률의 개정) ① 부터 <19> 까지 생략\n<20> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 중 \"신용정보업자 또는 신용정보집중기관\"을 \"신용정보회사 또는 같은 법 제25조에 따른 신용정보집중기관\"으로 하고, 같은 조 제2항 중 \"신용정보업자\"를 \"신용정보회사\"로 한다.\n<21> 부터 <24> 까지 생략\n제13조 생략",
+      "content": "부칙(신용정보의 이용 및 보호에 관한 법률) <제9617호,2009.4.1>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조부터 제11조까지 생략\n제12조(다른 법률의 개정) ① 부터 <19> 까지 생략\n<20> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 중 \"신용정보업자 또는 신용정보집중기관\"을 \"신용정보회사 또는 같은 법 제25조에 따른 신용정보집중기관\"으로 하고, 같은 조 제2항 중 \"신용정보업자\"를 \"신용정보회사\"로 한다.\n<21> 부터 <24> 까지 생략\n제13조 생략",
       "provision_id": "law:질서위반행위규제법#ADDENDUM",
       "is_future": false,
       "source_mst": "224847",
@@ -3838,7 +3578,7 @@
       "promulgation_date": "20200204",
       "promulgation_no": "16957",
       "addendum_key": "2020020416957",
-      "content": "부칙(신용정보의 이용 및 보호에 관한 법률) <제16957호,2020.2.4>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제11조까지 생략\n제12조(다른 법률의 개정) ①부터 <24>까지 생략\n<25> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 전단 중 \"「신용정보의 이용 및 보호에 관한 법률」 제2조에 따른 신용정보회사 또는 같은 법 제25조에 따른 신용정보집중기관\"을 \"「신용정보의 이용 및 보호에 관한 법률」 제25조제2항제1호에 따른 종합신용정보집중기관\"으로 하고, 같은 조 제2항 중 \"신용정보회사 또는 신용정보집중기관\"을 \"신용정보집중기관\"으로 한다.\n<26>부터 <29>까지 생략\n제13조 생략",
+      "content": "부칙(신용정보의 이용 및 보호에 관한 법률) <제16957호,2020.2.4>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조부터 제11조까지 생략\n제12조(다른 법률의 개정) ①부터 <24>까지 생략\n<25> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 전단 중 \"「신용정보의 이용 및 보호에 관한 법률」 제2조에 따른 신용정보회사 또는 같은 법 제25조에 따른 신용정보집중기관\"을 \"「신용정보의 이용 및 보호에 관한 법률」 제25조제2항제1호에 따른 종합신용정보집중기관\"으로 하고, 같은 조 제2항 중 \"신용정보회사 또는 신용정보집중기관\"을 \"신용정보집중기관\"으로 한다.\n<26>부터 <29>까지 생략\n제13조 생략",
       "provision_id": "law:질서위반행위규제법#ADDENDUM",
       "is_future": false,
       "source_mst": "224847",
@@ -3850,26 +3590,13 @@
       "promulgation_date": "20201229",
       "promulgation_no": "17758",
       "addendum_key": "2020122917758",
-      "content": "부칙(국세징수법) <제17758호,2020.12.29>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조 부터 제23조까지 생략\n제24조(다른 법률의 개정) ①부터 <20>까지 생략\n<21> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 전단 및 후단 중 \"「국세징수법」 제7조의2\"를 각각 \"「국세징수법」 제110조\"로 한다.\n<22> 생략\n제25조 및 제26조 생략",
+      "content": "부칙(국세징수법) <제17758호,2020.12.29>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조부터 제23조까지 생략\n제24조(다른 법률의 개정) ①부터 <20>까지 생략\n<21> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제53조제1항 전단 및 후단 중 \"「국세징수법」 제7조의2\"를 각각 \"「국세징수법」 제110조\"로 한다.\n<22> 생략\n제25조 및 제26조 생략",
       "provision_id": "law:질서위반행위규제법#ADDENDUM",
       "is_future": false,
       "source_mst": "224847",
       "source_version_uid": "010592:224847:20210101",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20210101"
-    },
-    {
-      "promulgation_date": "20260317",
-      "promulgation_no": "21460",
-      "addendum_key": "2026031721460",
-      "content": "부칙 <제21460호,2026.3.17>\n제1조(시행일) 이 법은 2028년 3월 1일부터 시행한다.\n제2조(계속 중인 사건의 관할에 대한 경과조치) 이 법 시행 당시 법원에 계속 중인 사건의 관할에 대해서는 종전의 규정에 따른다.",
-      "provision_id": "law:질서위반행위규제법#ADDENDUM",
-      "is_future": true,
-      "source_mst": "284425",
-      "source_version_uid": "010592:284425:20280301",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20280301",
-      "enforcement_date": "20280301"
     }
   ],
   "appendices": [],
@@ -3903,11 +3630,8 @@
   "provision_id": "law:질서위반행위규제법#DOC",
   "addendum_provision_id": "law:질서위반행위규제법#ADDENDUM",
   "amendment_provision_id": "law:질서위반행위규제법#AMENDMENT",
-  "future_enforcement_dates": [
-    "20280301"
-  ],
-  "has_future": true,
-  "version_count": 2,
-  "git_path": "질서위반행위규제법/법률/질서위반행위규제법.json",
-  "_schlpub_id_suffix": "법률"
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "질서위반행위규제법/법률/질서위반행위규제법.json"
 }
