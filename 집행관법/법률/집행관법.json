@@ -35,13 +35,22 @@
     },
     "시행일자": "20210421",
     "연락부서": {
-      "부서단위": {
-        "부서연락처": "02-2110-3164",
-        "부서키": "209067",
-        "부서명": "법무심의관실",
-        "소관부처명": "법무부",
-        "소관부처코드": "1270000"
-      }
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3164",
+          "부서키": "430861",
+          "부서명": "법무심의관실",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-3164",
+          "부서키": "431069",
+          "부서명": "법무심의관실",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
     },
     "법령명_한자": "집행관법",
     "법령명약칭": "",
@@ -79,9 +88,7 @@
             "source_provision_id": "law:집행관법#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
-            "target_git_path": "법원조직법/법률/법원조직법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
           },
           {
             "relation_type": "citation",
@@ -100,9 +107,7 @@
             "source_provision_id": "law:집행관법#JO0001",
             "reference_id": "law:법원조직법#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
-            "target_git_path": "법원조직법/법률/법원조직법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -170,9 +175,7 @@
             "source_provision_id": "law:집행관법#JO0004",
             "reference_id": "law:집행관규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -256,9 +259,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -277,9 +278,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -298,9 +297,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -319,9 +316,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -340,9 +335,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -361,9 +354,7 @@
             "source_provision_id": "law:집행관법#JO0008",
             "reference_id": "law:집행관규칙#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -495,9 +486,7 @@
             "source_provision_id": "law:집행관법#JO0015",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "citation",
@@ -516,9 +505,7 @@
             "source_provision_id": "law:집행관법#JO0015",
             "reference_id": "law:민사집행법#JO0200",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -554,9 +541,7 @@
             "source_provision_id": "law:집행관법#JO0016",
             "reference_id": "law:집행관법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -575,9 +560,7 @@
             "source_provision_id": "law:집행관법#JO0016",
             "reference_id": "law:집행관법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -613,9 +596,7 @@
             "source_provision_id": "law:집행관법#JO0017",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "citation",
@@ -634,9 +615,7 @@
             "source_provision_id": "law:집행관법#JO0017",
             "reference_id": "law:민사집행법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "citation",
@@ -655,9 +634,7 @@
             "source_provision_id": "law:집행관법#JO0017",
             "reference_id": "law:민사집행법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -693,9 +670,7 @@
             "source_provision_id": "law:집행관법#JO0018",
             "reference_id": "law:집행관규칙#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -731,9 +706,7 @@
             "source_provision_id": "law:집행관법#JO0019",
             "reference_id": "law:집행관수수료규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관수수료규칙/법률/집행관수수료규칙.json",
-            "target_git_path": "집행관수수료규칙/법률/집행관수수료규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관수수료규칙/법률/집행관수수료규칙.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -769,9 +742,7 @@
             "source_provision_id": "law:집행관법#JO0020",
             "reference_id": "law:집행관법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -790,9 +761,7 @@
             "source_provision_id": "law:집행관법#JO0020",
             "reference_id": "law:집행관법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -811,9 +780,7 @@
             "source_provision_id": "law:집행관법#JO0020",
             "reference_id": "law:집행관법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -832,9 +799,7 @@
             "source_provision_id": "law:집행관법#JO0020",
             "reference_id": "law:집행관법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -902,9 +867,7 @@
             "source_provision_id": "law:집행관법#JO0023",
             "reference_id": "law:집행관법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -923,9 +886,7 @@
             "source_provision_id": "law:집행관법#JO0023",
             "reference_id": "law:집행관법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -977,9 +938,7 @@
             "source_provision_id": "law:집행관법#JO0025",
             "reference_id": "law:집행관법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -998,9 +957,7 @@
             "source_provision_id": "law:집행관법#JO0025",
             "reference_id": "law:집행관법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -1036,9 +993,7 @@
             "source_provision_id": "law:집행관법#JO0026",
             "reference_id": "law:집행관법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1057,9 +1012,7 @@
             "source_provision_id": "law:집행관법#JO0026",
             "reference_id": "law:집행관법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1078,9 +1031,7 @@
             "source_provision_id": "law:집행관법#JO0026",
             "reference_id": "law:집행관법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관법/법률/집행관법.json",
-            "target_git_path": "집행관법/법률/집행관법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관법/법률/집행관법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -1116,9 +1067,7 @@
             "source_provision_id": "law:집행관법#JO0027",
             "reference_id": "law:집행관규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json",
-            "target_git_path": "집행관규칙/법률/집행관규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "집행관규칙/법률/집행관규칙.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -1227,6 +1176,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "집행관법/법률/집행관법.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "집행관법/법률/집행관법.json"
 }
