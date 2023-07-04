@@ -18,7 +18,7 @@
   "basic_info": {
     "법령명_한글": "자전거 이용 활성화에 관한 법률",
     "공포번호": "19162",
-    "전화번호": "044-205-3547",
+    "전화번호": "044-205-3532",
     "언어": "한글",
     "제개정구분": "일부개정",
     "법령ID": "000993",
@@ -35,7 +35,7 @@
     "시행일자": "20230704",
     "연락부서": {
       "부서단위": {
-        "부서연락처": "044-205-3547",
+        "부서연락처": "044-205-3532",
         "부서키": "423571",
         "부서명": "주소정보혁신과",
         "소관부처명": "행정안전부",
@@ -87,15 +87,13 @@
             "target_law_name": "도로법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "280119",
+            "target_mst": "284465",
             "target_url": "https://www.law.go.kr/법령/도로법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0002",
             "reference_id": "law:도로법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json",
-            "target_git_path": "도로법/법률/도로법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로법/법률/도로법.json"
           },
           {
             "relation_type": "citation",
@@ -114,9 +112,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0002",
             "reference_id": "law:농어촌도로정비법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농어촌도로 정비법/법률/농어촌도로 정비법.json",
-            "target_git_path": "농어촌도로 정비법/법률/농어촌도로 정비법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농어촌도로 정비법/법률/농어촌도로 정비법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -135,9 +131,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0002",
             "reference_id": "law:자전거이용활성화에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -156,9 +150,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0002",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -166,14 +158,7 @@
         "changed": "N",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:자전거이용활성화에관한법률#JO0002",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다. <개정 2014.11.19, 2017.3.21, 2017.7.26, 2026.7.7>\n1. \"자전거\"란 사람의 힘으로 페달이나 손페달을 사용하여 움직이는 구동장치(驅動裝置)와 조향장치(操向裝置)가 있는 바퀴가 둘 이상인 차를 말한다.\n1의2. \"전기자전거\"란 자전거로서 사람의 힘을 보충하기 위하여 전동기를 장착하고 다음 각 목의 요건을 모두 충족하는 것을 말한다.\n가. 페달(손페달을 포함한다)과 전동기의 동시 동력으로 움직이며, 전동기만으로는 움직이지 아니할 것\n나. 시속 25킬로미터 이상으로 움직일 경우 전동기가 작동하지 아니할 것\n다. 부착된 장치의 무게를 포함한 자전거의 전체 중량이 30킬로그램 미만일 것\n2. \"자전거이용시설\"이란 자전거도로, 자전거 주차장, 전기자전거 충전소와 그 밖에 자전거의 이용과 관련되는 시설로서 대통령령으로 정하는 것을 말한다.\n3. \"자전거이용시설의 정비\"란 자전거이용시설의 개설ㆍ확장 및 포장(鋪裝)과 유지ㆍ관리를 말한다.\n4. \"도로관리청\"이란 「도로법」에 따른 도로 관리청과 「농어촌도로 정비법」에 따라 농어촌도로의 정비를 담당하는 지방자치단체의 장, 제7조에 따른 자전거도로의 노선을 지정ㆍ고시한 지방자치단체의 장 및 중앙행정기관의 장을 말한다."
-          }
-        ]
+        "provision_id": "law:자전거이용활성화에관한법률#JO0002"
       },
       {
         "article_no": "제3조",
@@ -194,15 +179,13 @@
             "target_law_name": "도로교통법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281875",
+            "target_mst": "291133",
             "target_url": "https://www.law.go.kr/법령/도로교통법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0003",
             "reference_id": "law:도로교통법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -215,15 +198,13 @@
             "target_law_name": "도로교통법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "281875",
+            "target_mst": "291133",
             "target_url": "https://www.law.go.kr/법령/도로교통법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0003",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "citation",
@@ -236,15 +217,13 @@
             "target_law_name": "도로교통법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "281875",
+            "target_mst": "291133",
             "target_url": "https://www.law.go.kr/법령/도로교통법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0003",
             "reference_id": "law:도로교통법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로교통법/법률/도로교통법.json",
-            "target_git_path": "도로교통법/법률/도로교통법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로교통법/법률/도로교통법.json"
           },
           {
             "relation_type": "delegation",
@@ -263,9 +242,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0003",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -300,9 +277,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0004",
             "reference_id": "law:보조금관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
-            "target_git_path": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보조금 관리에 관한 법률/법률/보조금 관리에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -337,9 +312,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0004_02",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -368,15 +341,13 @@
             "target_law_name": "도로법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "280119",
+            "target_mst": "284465",
             "target_url": "https://www.law.go.kr/법령/도로법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:도로법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json",
-            "target_git_path": "도로법/법률/도로법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로법/법률/도로법.json"
           },
           {
             "relation_type": "citation",
@@ -389,15 +360,13 @@
             "target_law_name": "도로법",
             "target_article_no": "제23조",
             "target_article_title": "도로관리청",
-            "target_mst": "280119",
+            "target_mst": "284465",
             "target_url": "https://www.law.go.kr/법령/도로법/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:도로법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json",
-            "target_git_path": "도로법/법률/도로법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로법/법률/도로법.json"
           },
           {
             "relation_type": "citation",
@@ -410,15 +379,13 @@
             "target_law_name": "도로법",
             "target_article_no": "제23조",
             "target_article_title": "도로관리청",
-            "target_mst": "280119",
+            "target_mst": "284465",
             "target_url": "https://www.law.go.kr/법령/도로법/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:도로법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json",
-            "target_git_path": "도로법/법률/도로법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로법/법률/도로법.json"
           },
           {
             "relation_type": "citation",
@@ -431,15 +398,13 @@
             "target_law_name": "도로법",
             "target_article_no": "제23조",
             "target_article_title": "도로관리청",
-            "target_mst": "280119",
+            "target_mst": "284465",
             "target_url": "https://www.law.go.kr/법령/도로법/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:도로법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json",
-            "target_git_path": "도로법/법률/도로법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도로법/법률/도로법.json"
           },
           {
             "relation_type": "citation",
@@ -458,9 +423,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:국토의계획및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
-            "target_git_path": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -479,9 +442,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -500,9 +461,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -521,9 +480,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -542,9 +499,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -563,9 +518,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -584,9 +537,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -622,9 +573,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005_02",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -643,9 +592,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0005_02",
             "reference_id": "law:자전거이용활성화에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2023.1.3]",
@@ -681,9 +628,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0006",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -696,15 +641,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -717,15 +660,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제10조",
             "target_article_title": "행정시의 폐지ㆍ설치ㆍ분리ㆍ합병 등",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제10조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -738,15 +679,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제10조",
             "target_article_title": "행정시의 폐지ㆍ설치ㆍ분리ㆍ합병 등",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제10조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -781,9 +720,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0007",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -818,9 +755,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0007_02",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[본조신설 2020.6.9]",
@@ -855,9 +790,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0008",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -876,9 +809,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0008",
             "reference_id": "law:국토의계획및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
-            "target_git_path": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -897,9 +828,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0008",
             "reference_id": "law:도시교통정비촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시교통정비 촉진법/법률/도시교통정비 촉진법.json",
-            "target_git_path": "도시교통정비 촉진법/법률/도시교통정비 촉진법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "도시교통정비 촉진법/법률/도시교통정비 촉진법.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -934,9 +863,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0009",
             "reference_id": "law:자전거이용시설의구조시설기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙/법률/자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙.json",
-            "target_git_path": "자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙/법률/자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙/법률/자전거 이용시설의 구조ㆍ시설 기준에 관한 규칙.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -986,9 +913,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0010_02",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0006_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2014.1.28]",
@@ -1017,15 +942,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1038,15 +961,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "제7조",
             "target_article_title": "노상주차장의 설치 및 폐지",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법/제7조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1059,15 +980,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1080,15 +999,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "제12조",
             "target_article_title": "노외주차장의 설치 등",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법/제12조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1101,15 +1018,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "제12조의3",
             "target_article_title": "단지조성사업등에 따른 노외주차장",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법/제12조의3",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1122,15 +1037,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1143,15 +1056,13 @@
             "target_law_name": "주차장법",
             "target_article_no": "제19조",
             "target_article_title": "부설주차장의 설치ㆍ지정",
-            "target_mst": "280143",
+            "target_mst": "283743",
             "target_url": "https://www.law.go.kr/법령/주차장법/제19조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주차장법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "주차장법/법률/주차장법.json",
-            "target_git_path": "주차장법/법률/주차장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주차장법/법률/주차장법.json"
           },
           {
             "relation_type": "citation",
@@ -1164,15 +1075,13 @@
             "target_law_name": "주택법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283191",
+            "target_mst": "289171",
             "target_url": "https://www.law.go.kr/법령/주택법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json",
-            "target_git_path": "주택법/법률/주택법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택법/법률/주택법.json"
           },
           {
             "relation_type": "citation",
@@ -1185,15 +1094,13 @@
             "target_law_name": "주택법",
             "target_article_no": "제35조",
             "target_article_title": "주택건설기준 등",
-            "target_mst": "283191",
+            "target_mst": "289171",
             "target_url": "https://www.law.go.kr/법령/주택법/제35조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:주택법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json",
-            "target_git_path": "주택법/법률/주택법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주택법/법률/주택법.json"
           },
           {
             "relation_type": "delegation",
@@ -1212,9 +1119,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1233,9 +1138,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1254,9 +1157,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1275,9 +1176,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1296,9 +1195,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -1348,9 +1245,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011_03",
             "reference_id": "law:대중교통의육성및이용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_git_path": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1369,9 +1264,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011_03",
             "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_git_path": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1390,9 +1283,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011_03",
             "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_git_path": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1411,9 +1302,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011_03",
             "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_git_path": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1432,9 +1321,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0011_03",
             "reference_id": "law:대중교통의육성및이용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_git_path": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대중교통의 육성 및 이용촉진에 관한 법률/법률/대중교통의 육성 및 이용촉진에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2016.1.27]",
@@ -1484,9 +1371,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0012",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1505,9 +1390,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0012",
             "reference_id": "law:자전거이용활성화에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1526,9 +1409,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0012",
             "reference_id": "law:자전거이용활성화에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -1563,9 +1444,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0013",
             "reference_id": "law:자전거이용활성화에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -1584,9 +1463,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0013",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -1636,9 +1513,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자전거이용활성화에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1651,15 +1526,13 @@
             "target_law_name": "하천법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1672,15 +1545,13 @@
             "target_law_name": "하천법",
             "target_article_no": "제30조",
             "target_article_title": "하천관리청이 아닌 자의 하천공사",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법/제30조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1693,15 +1564,13 @@
             "target_law_name": "하천법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1714,15 +1583,13 @@
             "target_law_name": "하천법",
             "target_article_no": "제33조",
             "target_article_title": "하천의 점용허가 등",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법/제33조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1735,15 +1602,13 @@
             "target_law_name": "하천법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1756,15 +1621,13 @@
             "target_law_name": "하천법",
             "target_article_no": "제50조",
             "target_article_title": "하천수의 사용허가 등",
-            "target_mst": "276805",
+            "target_mst": "284435",
             "target_url": "https://www.law.go.kr/법령/하천법/제50조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:하천법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "하천법/법률/하천법.json",
-            "target_git_path": "하천법/법률/하천법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "하천법/법률/하천법.json"
           },
           {
             "relation_type": "citation",
@@ -1777,15 +1640,13 @@
             "target_law_name": "공유수면 관리 및 매립에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "259903",
+            "target_mst": "284343",
             "target_url": "https://www.law.go.kr/법령/공유수면 관리 및 매립에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:공유수면관리및매립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_git_path": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1798,15 +1659,13 @@
             "target_law_name": "공유수면 관리 및 매립에 관한 법률",
             "target_article_no": "제8조",
             "target_article_title": "공유수면의 점용ㆍ사용허가",
-            "target_mst": "259903",
+            "target_mst": "284343",
             "target_url": "https://www.law.go.kr/법령/공유수면 관리 및 매립에 관한 법률/제8조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:공유수면관리및매립에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_git_path": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1819,15 +1678,13 @@
             "target_law_name": "공유수면 관리 및 매립에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "259903",
+            "target_mst": "284343",
             "target_url": "https://www.law.go.kr/법령/공유수면 관리 및 매립에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:공유수면관리및매립에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_git_path": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1840,15 +1697,13 @@
             "target_law_name": "공유수면 관리 및 매립에 관한 법률",
             "target_article_no": "제28조",
             "target_article_title": "매립면허",
-            "target_mst": "259903",
+            "target_mst": "284343",
             "target_url": "https://www.law.go.kr/법령/공유수면 관리 및 매립에 관한 법률/제28조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:공유수면관리및매립에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_git_path": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공유수면 관리 및 매립에 관한 법률/법률/공유수면 관리 및 매립에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1867,9 +1722,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림자원의조성및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1888,9 +1741,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림자원의조성및관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1909,9 +1760,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림자원의조성및관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1930,9 +1779,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1951,9 +1798,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1972,9 +1817,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:산림보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1993,9 +1836,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:사방사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사방사업법/법률/사방사업법.json",
-            "target_git_path": "사방사업법/법률/사방사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사방사업법/법률/사방사업법.json"
           },
           {
             "relation_type": "citation",
@@ -2014,9 +1855,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:사방사업법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "사방사업법/법률/사방사업법.json",
-            "target_git_path": "사방사업법/법률/사방사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사방사업법/법률/사방사업법.json"
           },
           {
             "relation_type": "citation",
@@ -2035,9 +1874,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:사방사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사방사업법/법률/사방사업법.json",
-            "target_git_path": "사방사업법/법률/사방사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사방사업법/법률/사방사업법.json"
           },
           {
             "relation_type": "citation",
@@ -2056,9 +1893,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:사방사업법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "사방사업법/법률/사방사업법.json",
-            "target_git_path": "사방사업법/법률/사방사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사방사업법/법률/사방사업법.json"
           },
           {
             "relation_type": "citation",
@@ -2071,15 +1906,13 @@
             "target_law_name": "농지법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "286901",
+            "target_mst": "284301",
             "target_url": "https://www.law.go.kr/법령/농지법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:농지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농지법/법률/농지법.json",
-            "target_git_path": "농지법/법률/농지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농지법/법률/농지법.json"
           },
           {
             "relation_type": "citation",
@@ -2092,15 +1925,13 @@
             "target_law_name": "농지법",
             "target_article_no": "제34조",
             "target_article_title": "농지의 전용허가ㆍ협의",
-            "target_mst": "286901",
+            "target_mst": "284301",
             "target_url": "https://www.law.go.kr/법령/농지법/제34조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:농지법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "농지법/법률/농지법.json",
-            "target_git_path": "농지법/법률/농지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농지법/법률/농지법.json"
           },
           {
             "relation_type": "citation",
@@ -2113,15 +1944,13 @@
             "target_law_name": "농지법",
             "target_article_no": "제34조",
             "target_article_title": "농지의 전용허가ㆍ협의",
-            "target_mst": "286901",
+            "target_mst": "284301",
             "target_url": "https://www.law.go.kr/법령/농지법/제34조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:농지법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "농지법/법률/농지법.json",
-            "target_git_path": "농지법/법률/농지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농지법/법률/농지법.json"
           },
           {
             "relation_type": "citation",
@@ -2140,9 +1969,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자연공원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자연공원법/법률/자연공원법.json",
-            "target_git_path": "자연공원법/법률/자연공원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자연공원법/법률/자연공원법.json"
           },
           {
             "relation_type": "citation",
@@ -2161,9 +1988,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자연공원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "자연공원법/법률/자연공원법.json",
-            "target_git_path": "자연공원법/법률/자연공원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자연공원법/법률/자연공원법.json"
           },
           {
             "relation_type": "citation",
@@ -2182,9 +2007,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자연공원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "자연공원법/법률/자연공원법.json",
-            "target_git_path": "자연공원법/법률/자연공원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자연공원법/법률/자연공원법.json"
           },
           {
             "relation_type": "citation",
@@ -2203,9 +2026,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자연공원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "자연공원법/법률/자연공원법.json",
-            "target_git_path": "자연공원법/법률/자연공원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자연공원법/법률/자연공원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2224,9 +2045,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014",
             "reference_id": "law:자전거이용활성화에관한법률#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -2276,9 +2095,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0014_03",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2016.1.27]",
@@ -2383,9 +2200,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0020",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -2420,9 +2235,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0020_02",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[본조신설 2017.3.21]",
@@ -2430,14 +2243,7 @@
         "changed": "N",
         "article_key": "0020021",
         "images": [],
-        "provision_id": "law:자전거이용활성화에관한법률#JO0020_02",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제20조의2(자전거의 안전요건 등)\n① 자전거(경륜장 등 행정안전부령으로 정하는 장소에서 이용하는 자전거는 제외한다. 이하 제2항에서 같다)는 구조, 장치와 성능 등이 행정안전부령으로 정하는 안전요건에 적합하여야 한다. 이 경우 자전거는 앞바퀴와 뒷바퀴에 각각 1개 이상의 제동장치를 장착하여야 하며, 각 제동장치는 서로 독립적으로 작동하여야 한다. <개정 2017.7.26, 2026.7.7>\n② 누구든지 자전거를 안전요건에 적합하지 아니하도록 개조하여서는 아니 된다. <개정 2026.7.7>\n③ 누구든지 안전요건에 적합하지 아니한 자전거를 자전거도로에서 운행하여서는 아니 된다. <개정 2026.7.7>\n④ 도로관리청은 자전거도로에서 자전거 이용자 및 보행자의 안전을 위하여 자전거도로의 일정 구간을 지정하여 행정안전부령으로 정하는 크기를 초과하는 자전거의 통행을 제한할 수 있다. 이 경우 통행제한구간 지정에 관하여는 제7조의2제2항부터 제4항까지를 준용한다. <신설 2026.7.7>"
-          }
-        ]
+        "provision_id": "law:자전거이용활성화에관한법률#JO0020_02"
       },
       {
         "article_no": "제21조",
@@ -2458,15 +2264,13 @@
             "target_law_name": "초ㆍ중등교육법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "286065",
+            "target_mst": "285599",
             "target_url": "https://www.law.go.kr/법령/초ㆍ중등교육법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0021",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
-            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -2474,14 +2278,7 @@
         "changed": "N",
         "article_key": "0021001",
         "images": [],
-        "provision_id": "law:자전거이용활성화에관한법률#JO0021",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제21조(자전거 타기 교육 등)\n① 초등학교와 중학교의 장은 「초ㆍ중등교육법」에서 정하는 범위에서 자전거 이용과 관련된 교통안전교육을 하여야 한다.\n② 시ㆍ도지사 및 시장ㆍ군수ㆍ구청장은 주민에 대하여 자전거 이용과 관련한 교통안전교육 및 홍보를 하여야 한다. <개정 2026.7.7>\n③ 제1항 및 제2항에 따른 교통안전교육에는 다음 각 호의 내용이 포함되어야 한다. <신설 2017.10.24, 2026.7.7>\n1. 자전거 통행원칙 및 통행방법\n2. 운전자의 준수사항 등 자전거 관련 교통법규\n3. 자전거의 점검 및 관리 방법\n4. 자전거의 안전요건 및 불법 개조 행위의 위험성\n5. 그 밖에 안전한 자전거 이용을 위하여 필요한 사항"
-          }
-        ]
+        "provision_id": "law:자전거이용활성화에관한법률#JO0021"
       },
       {
         "article_no": "제22조",
@@ -2502,15 +2299,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -2523,15 +2318,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제11조",
             "target_article_title": "행정시장",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제11조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -2544,15 +2337,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제11조",
             "target_article_title": "행정시장",
-            "target_mst": "285627",
+            "target_mst": "291149",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제11조",
             "resolve_method": "pop",
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2571,9 +2362,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:자전거이용활성화에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2592,9 +2381,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:자전거이용활성화에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -2613,9 +2400,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -2634,9 +2419,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0022",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2014.1.28][제목개정 2016.1.27]",
@@ -2686,9 +2469,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0023",
             "reference_id": "law:자전거이용활성화에관한법률시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행규칙/자전거 이용 활성화에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2707,9 +2488,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0023",
             "reference_id": "law:자전거이용활성화에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2014.1.28]",
@@ -2744,9 +2523,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0024",
             "reference_id": "law:자전거이용활성화에관한법률#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2765,9 +2542,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0024",
             "reference_id": "law:자전거이용활성화에관한법률#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2017.3.21]",
@@ -2775,14 +2550,7 @@
         "changed": "N",
         "article_key": "0024001",
         "images": [],
-        "provision_id": "law:자전거이용활성화에관한법률#JO0024",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제24조(벌칙) 제20조의2제2항을 위반하여 자전거의 안전요건에 적합하지 아니하도록 자전거를 개조한 자는 6개월 이하의 징역 또는 500만원 이하의 벌금에 처한다. <개정 2026.7.7>"
-          }
-        ]
+        "provision_id": "law:자전거이용활성화에관한법률#JO0024"
       },
       {
         "article_no": "제25조",
@@ -2809,9 +2577,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0025",
             "reference_id": "law:자전거이용활성화에관한법률#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2830,9 +2596,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0025",
             "reference_id": "law:자전거이용활성화에관한법률#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -2851,9 +2615,7 @@
             "source_provision_id": "law:자전거이용활성화에관한법률#JO0025",
             "reference_id": "law:자전거이용활성화에관한법률시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_git_path": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "자전거 이용 활성화에 관한 법률/시행령/자전거 이용 활성화에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2017.3.21]",
@@ -2861,14 +2623,7 @@
         "changed": "N",
         "article_key": "0025001",
         "images": [],
-        "provision_id": "law:자전거이용활성화에관한법률#JO0025",
-        "scheduled": [
-          {
-            "enforcement_date": "20270108",
-            "change": "개정",
-            "content": "제25조(과태료)\n① 제20조의2제3항을 위반하여 자전거의 안전요건에 적합하지 아니한 자전거를 자전거도로에서 운행한 자에게는 50만원 이하의 과태료를 부과한다. <개정 2026.7.7>\n② 제1항에 따른 과태료는 대통령령으로 정하는 바에 따라 시ㆍ도지사, 시장ㆍ군수ㆍ구청장이 부과ㆍ징수한다."
-          }
-        ]
+        "provision_id": "law:자전거이용활성화에관한법률#JO0025"
       },
       {
         "article_no": "제26조",
@@ -3360,19 +3115,6 @@
       "source_version_uid": "000993:247235:20230704",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20230704"
-    },
-    {
-      "promulgation_date": "20260707",
-      "promulgation_no": "21833",
-      "addendum_key": "2026070721833",
-      "content": "부칙 <제21833호,2026.7.7>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
-      "provision_id": "law:자전거이용활성화에관한법률#ADDENDUM",
-      "is_future": true,
-      "source_mst": "287987",
-      "source_version_uid": "000993:287987:20270108",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20270108",
-      "enforcement_date": "20270108"
     }
   ],
   "appendices": [],
@@ -3383,7 +3125,7 @@
       "target_category": "자치법규",
       "source_article_no": "제4조",
       "link_text": "조례로",
-      "ordinance_count": 242,
+      "ordinance_count": 243,
       "ordinances": [
         {
           "target_law_name": "영광군  자전거 이용 활성화에 관한 조례",
@@ -3414,6 +3156,11 @@
           "target_law_name": "양주시 자전거이용 활성화에 관한 조례",
           "target_mst": "2130611",
           "target_url": "https://www.law.go.kr/자치법규/양주시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "양양군 자전거이용 활성화에 관한 조례",
+          "target_mst": "2030139",
+          "target_url": "https://www.law.go.kr/자치법규/양양군 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "영동군 자전거 이용 활성화에 관한 조례",
@@ -3451,13 +3198,8 @@
           "target_url": "https://www.law.go.kr/자치법규/예천군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1516317",
-          "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "의정부시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1944687",
+          "target_mst": "2169859",
           "target_url": "https://www.law.go.kr/자치법규/의정부시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -3512,7 +3254,7 @@
         },
         {
           "target_law_name": "울산광역시 남구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2076183",
+          "target_mst": "2173829",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -3541,9 +3283,9 @@
           "target_url": "https://www.law.go.kr/자치법규/옥천군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "양양군 자전거이용 활성화에 관한 조례",
-          "target_mst": "2030139",
-          "target_url": "https://www.law.go.kr/자치법규/양양군 자전거이용 활성화에 관한 조례"
+          "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2168759",
+          "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "양산시 자전거이용 활성화에 관한 조례",
@@ -3556,64 +3298,9 @@
           "target_url": "https://www.law.go.kr/자치법규/양구군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "서울특별시 마포구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1629813",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 서대문구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1625843",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 서초구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1970889",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 성동구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1295715",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 성북구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2085005",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 송파구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1768169",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 양천구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1941329",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 양천구 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
-          "target_mst": "1635821",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 영등포구 자전거이용 활성화에 관한 조례",
-          "target_mst": "2107229",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 용산구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1871941",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 은평구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1629763",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147699",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "서울특별시 중구 자전거이용 활성화에 관한 조례",
+          "target_mst": "2059545",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서울특별시 종로구 자전거 이용 활성화에 관한 조례",
@@ -3621,9 +3308,69 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "서울특별시 중구 자전거이용 활성화에 관한 조례",
-          "target_mst": "2059545",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 자전거이용 활성화에 관한 조례"
+          "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2171767",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1629763",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 용산구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1871941",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 영등포구 자전거이용 활성화에 관한 조례",
+          "target_mst": "2107229",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 영등포구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1635821",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 양천구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1941329",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 양천구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 송파구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1768169",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 송파구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성북구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2085005",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성북구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 성동구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1295715",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서초구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1970889",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 서대문구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1625843",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 서대문구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 마포구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1629813",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 마포구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 동작구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1542287",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서울특별시 중랑구 자전거 이용 활성화에 관한 조례",
@@ -3636,69 +3383,9 @@
           "target_url": "https://www.law.go.kr/자치법규/서천군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "성남시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1962931",
-          "target_url": "https://www.law.go.kr/자치법규/성남시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "성주군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1755481",
-          "target_url": "https://www.law.go.kr/자치법규/성주군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "세종특별자치시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2092627",
-          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "속초시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1431851",
-          "target_url": "https://www.law.go.kr/자치법규/속초시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "수원시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2020367",
-          "target_url": "https://www.law.go.kr/자치법규/수원시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "순창군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1401936",
-          "target_url": "https://www.law.go.kr/자치법규/순창군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "순천시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1986233",
-          "target_url": "https://www.law.go.kr/자치법규/순천시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "시흥시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1919845",
-          "target_url": "https://www.law.go.kr/자치법규/시흥시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "신안군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1866269",
-          "target_url": "https://www.law.go.kr/자치법규/신안군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "아산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1993199",
-          "target_url": "https://www.law.go.kr/자치법규/아산시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "안동시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1968051",
-          "target_url": "https://www.law.go.kr/자치법규/안동시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "안동시 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
-          "target_mst": "1872597",
-          "target_url": "https://www.law.go.kr/자치법규/안동시 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "안산시 자전거이용활성화에 관한 조례",
-          "target_mst": "1917701",
-          "target_url": "https://www.law.go.kr/자치법규/안산시 자전거이용활성화에 관한 조례"
+          "target_law_name": "안양시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1971725",
+          "target_url": "https://www.law.go.kr/자치법규/안양시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "안성시 자전거 이용 활성화에 관한 조례",
@@ -3706,9 +3393,69 @@
           "target_url": "https://www.law.go.kr/자치법규/안성시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "안양시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1971725",
-          "target_url": "https://www.law.go.kr/자치법규/안양시 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "안산시 자전거이용활성화에 관한 조례",
+          "target_mst": "1917701",
+          "target_url": "https://www.law.go.kr/자치법규/안산시 자전거이용활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1872597",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1968051",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "아산시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2175201",
+          "target_url": "https://www.law.go.kr/자치법규/아산시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "신안군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1866269",
+          "target_url": "https://www.law.go.kr/자치법규/신안군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "시흥시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1919845",
+          "target_url": "https://www.law.go.kr/자치법규/시흥시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "순천시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1986233",
+          "target_url": "https://www.law.go.kr/자치법규/순천시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "순창군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1401936",
+          "target_url": "https://www.law.go.kr/자치법규/순창군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "수원시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2020367",
+          "target_url": "https://www.law.go.kr/자치법규/수원시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "속초시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1431851",
+          "target_url": "https://www.law.go.kr/자치법규/속초시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "세종특별자치시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2092627",
+          "target_url": "https://www.law.go.kr/자치법규/세종특별자치시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "성주군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1755481",
+          "target_url": "https://www.law.go.kr/자치법규/성주군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "성남시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1962931",
+          "target_url": "https://www.law.go.kr/자치법규/성남시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "이천시 자전거이용 활성화에 관한 조례",
@@ -3721,64 +3468,14 @@
           "target_url": "https://www.law.go.kr/자치법규/익산시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "익산시 전기자전거 보급 촉진 및 이용 활성화 조례",
-          "target_mst": "1953261",
-          "target_url": "https://www.law.go.kr/자치법규/익산시 전기자전거 보급 촉진 및 이용 활성화 조례"
+          "target_law_name": "파주시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2073593",
+          "target_url": "https://www.law.go.kr/자치법규/파주시 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "천안시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1859577",
-          "target_url": "https://www.law.go.kr/자치법규/천안시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "철원군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1573033",
-          "target_url": "https://www.law.go.kr/자치법규/철원군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "청도군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106365",
-          "target_url": "https://www.law.go.kr/자치법규/청도군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "청양군 자전거이용 활성화에 관한 조례",
-          "target_mst": "2092175",
-          "target_url": "https://www.law.go.kr/자치법규/청양군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "청주시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2055983",
-          "target_url": "https://www.law.go.kr/자치법규/청주시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "춘천시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1963331",
-          "target_url": "https://www.law.go.kr/자치법규/춘천시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "충주시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1898749",
-          "target_url": "https://www.law.go.kr/자치법규/충주시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "충청남도 자전거이용 활성화에 관한 조례",
-          "target_mst": "2064177",
-          "target_url": "https://www.law.go.kr/자치법규/충청남도 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "충청북도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2083091",
-          "target_url": "https://www.law.go.kr/자치법규/충청북도 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "칠곡군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2098115",
-          "target_url": "https://www.law.go.kr/자치법규/칠곡군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "태백시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1323980",
-          "target_url": "https://www.law.go.kr/자치법규/태백시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "통영시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2180017",
+          "target_url": "https://www.law.go.kr/자치법규/통영시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "태안군 자전거 이용 활성화에 관한 조례",
@@ -3786,14 +3483,64 @@
           "target_url": "https://www.law.go.kr/자치법규/태안군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "통영시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1763137",
-          "target_url": "https://www.law.go.kr/자치법규/통영시 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "태백시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1323980",
+          "target_url": "https://www.law.go.kr/자치법규/태백시 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "파주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2073593",
-          "target_url": "https://www.law.go.kr/자치법규/파주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "칠곡군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2098115",
+          "target_url": "https://www.law.go.kr/자치법규/칠곡군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "충청북도 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2083091",
+          "target_url": "https://www.law.go.kr/자치법규/충청북도 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "충청남도 자전거이용 활성화에 관한 조례",
+          "target_mst": "2064177",
+          "target_url": "https://www.law.go.kr/자치법규/충청남도 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "충주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1898749",
+          "target_url": "https://www.law.go.kr/자치법규/충주시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "춘천시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1963331",
+          "target_url": "https://www.law.go.kr/자치법규/춘천시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "청주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2055983",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "청양군 자전거이용 활성화에 관한 조례",
+          "target_mst": "2092175",
+          "target_url": "https://www.law.go.kr/자치법규/청양군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "청도군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2106365",
+          "target_url": "https://www.law.go.kr/자치법규/청도군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "철원군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1573033",
+          "target_url": "https://www.law.go.kr/자치법규/철원군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "천안시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1859577",
+          "target_url": "https://www.law.go.kr/자치법규/천안시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "창원시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1774655",
+          "target_url": "https://www.law.go.kr/자치법규/창원시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "평창군 자전거이용 활성화에 관한 조례",
@@ -3806,69 +3553,9 @@
           "target_url": "https://www.law.go.kr/자치법규/평택시 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "포천시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1738891",
-          "target_url": "https://www.law.go.kr/자치법규/포천시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "포항시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1034131",
-          "target_url": "https://www.law.go.kr/자치법규/포항시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "하남시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1812695",
-          "target_url": "https://www.law.go.kr/자치법규/하남시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "하동군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2159063",
-          "target_url": "https://www.law.go.kr/자치법규/하동군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "함안군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1889009",
-          "target_url": "https://www.law.go.kr/자치법규/함안군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "함양군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1778255",
-          "target_url": "https://www.law.go.kr/자치법규/함양군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "함평군 자전거 이용활성화에 관한 조례",
-          "target_mst": "1875591",
-          "target_url": "https://www.law.go.kr/자치법규/함평군 자전거 이용활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "합천군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1272656",
-          "target_url": "https://www.law.go.kr/자치법규/합천군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "해남군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1038852",
-          "target_url": "https://www.law.go.kr/자치법규/해남군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "홍성군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2092243",
-          "target_url": "https://www.law.go.kr/자치법규/홍성군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "홍천군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2007689",
-          "target_url": "https://www.law.go.kr/자치법규/홍천군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "화성시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2036877",
-          "target_url": "https://www.law.go.kr/자치법규/화성시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "화순군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1855855",
-          "target_url": "https://www.law.go.kr/자치법규/화순군 자전거이용 활성화에 관한 조례"
+          "target_law_name": "횡성군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1857601",
+          "target_url": "https://www.law.go.kr/자치법규/횡성군 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "화천군 자전거이용 활성화에 관한 조례",
@@ -3876,14 +3563,69 @@
           "target_url": "https://www.law.go.kr/자치법규/화천군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "횡성군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1857601",
-          "target_url": "https://www.law.go.kr/자치법규/횡성군 자전거이용 활성화에 관한 조례"
+          "target_law_name": "화순군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1855855",
+          "target_url": "https://www.law.go.kr/자치법규/화순군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "창원시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1774655",
-          "target_url": "https://www.law.go.kr/자치법규/창원시 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "화성시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2036877",
+          "target_url": "https://www.law.go.kr/자치법규/화성시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "홍천군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2007689",
+          "target_url": "https://www.law.go.kr/자치법규/홍천군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "홍성군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2092243",
+          "target_url": "https://www.law.go.kr/자치법규/홍성군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "해남군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1038852",
+          "target_url": "https://www.law.go.kr/자치법규/해남군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "합천군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1272656",
+          "target_url": "https://www.law.go.kr/자치법규/합천군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "함평군 자전거 이용활성화에 관한 조례",
+          "target_mst": "1875591",
+          "target_url": "https://www.law.go.kr/자치법규/함평군 자전거 이용활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "함양군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1778255",
+          "target_url": "https://www.law.go.kr/자치법규/함양군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "함안군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1889009",
+          "target_url": "https://www.law.go.kr/자치법규/함안군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "하동군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2159063",
+          "target_url": "https://www.law.go.kr/자치법규/하동군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "하남시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1812695",
+          "target_url": "https://www.law.go.kr/자치법규/하남시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "포항시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1034131",
+          "target_url": "https://www.law.go.kr/자치법규/포항시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "포천시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1738891",
+          "target_url": "https://www.law.go.kr/자치법규/포천시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "창녕군 자전거 이용 활성화에 관한 조례",
@@ -3896,64 +3638,9 @@
           "target_url": "https://www.law.go.kr/자치법규/진천군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "인제군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1278604",
-          "target_url": "https://www.law.go.kr/자치법규/인제군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 검단구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2144467",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 계양구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1853793",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 미추홀구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1983873",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 서해구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2135443",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 연수구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1543551",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 영종구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2145233",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 자전거 이용 활성화 및 자전거 주차장의 관리ㆍ운영 등에 관한 조례",
-          "target_mst": "2104415",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 자전거 이용 활성화 및 자전거 주차장의 관리ㆍ운영 등에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시 중구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1729401",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시동구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2072713",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시동구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "인천광역시부평구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2098951",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "임실군 자전거이용 활성화에 관한 조례",
-          "target_mst": "2015137",
-          "target_url": "https://www.law.go.kr/자치법규/임실군 자전거이용 활성화에 관한 조례"
+          "target_law_name": "장수군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1752133",
+          "target_url": "https://www.law.go.kr/자치법규/장수군 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "장성군 자전거이용 활성화에 관한 조례",
@@ -3961,9 +3648,69 @@
           "target_url": "https://www.law.go.kr/자치법규/장성군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "장수군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1752133",
-          "target_url": "https://www.law.go.kr/자치법규/장수군 자전거이용 활성화에 관한 조례"
+          "target_law_name": "임실군 자전거이용 활성화에 관한 조례",
+          "target_mst": "2015137",
+          "target_url": "https://www.law.go.kr/자치법규/임실군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시부평구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2098951",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시부평구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시동구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2072713",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시동구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 중구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1729401",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 중구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 자전거 이용 활성화 및 자전거 주차장의 관리ㆍ운영 등에 관한 조례",
+          "target_mst": "2104415",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 자전거 이용 활성화 및 자전거 주차장의 관리ㆍ운영 등에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 영종구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2145233",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 영종구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 연수구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1543551",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 연수구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 서해구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2135443",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 서해구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 미추홀구 자전거이용 활성화에 관한 조례",
+          "target_mst": "2173661",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1853793",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 검단구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2144467",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 검단구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인제군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1278604",
+          "target_url": "https://www.law.go.kr/자치법규/인제군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "익산시 전기자전거 보급 촉진 및 이용 활성화 조례",
+          "target_mst": "1953261",
+          "target_url": "https://www.law.go.kr/자치법규/익산시 전기자전거 보급 촉진 및 이용 활성화 조례"
         },
         {
           "target_law_name": "장흥군 자전거이용 활성화에 관한 조례",
@@ -3976,69 +3723,9 @@
           "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 광산구 자전거이용활성화에 관한 조례"
         },
         {
-          "target_law_name": "전남광주통합특별시 남구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2141741",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전남광주통합특별시 동구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2149107",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전남광주통합특별시 북구 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147201",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전남광주통합특별시 서구 자전거이용 활성화에 관한 조례",
-          "target_mst": "2132463",
-          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전라남도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2080329",
-          "target_url": "https://www.law.go.kr/자치법규/전라남도 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전북특별자치도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1902133",
-          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "전주시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1981529",
-          "target_url": "https://www.law.go.kr/자치법규/전주시 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "정선군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1314844",
-          "target_url": "https://www.law.go.kr/자치법규/정선군 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "정읍시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1912835",
-          "target_url": "https://www.law.go.kr/자치법규/정읍시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "제주특별자치도 자전거이용 활성화에 관한 조례",
-          "target_mst": "2059497",
-          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "제주특별자치도 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
-          "target_mst": "1904713",
-          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "제주특별자치도교육청 자전거이용 활성화에 관한 조례",
-          "target_mst": "1605079",
-          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도교육청 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "제천시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2035719",
-          "target_url": "https://www.law.go.kr/자치법규/제천시 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "진주시 자전거이용 활성화에 관한 조례",
+          "target_mst": "862813",
+          "target_url": "https://www.law.go.kr/자치법규/진주시 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "증평군 자전거 이용 활성화에 관한 조례",
@@ -4046,14 +3733,69 @@
           "target_url": "https://www.law.go.kr/자치법규/증평군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "진주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "862813",
-          "target_url": "https://www.law.go.kr/자치법규/진주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "제천시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2035719",
+          "target_url": "https://www.law.go.kr/자치법규/제천시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "서울특별시 동작구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1542287",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 동작구 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "제주특별자치도교육청 자전거이용 활성화에 관한 조례",
+          "target_mst": "1605079",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도교육청 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 전기자전거 보급 촉진 및 이용 활성화에 관한 조례",
+          "target_mst": "1904713",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 전기자전거 보급 촉진 및 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "제주특별자치도 자전거이용 활성화에 관한 조례",
+          "target_mst": "2059497",
+          "target_url": "https://www.law.go.kr/자치법규/제주특별자치도 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "정읍시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1912835",
+          "target_url": "https://www.law.go.kr/자치법규/정읍시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "정선군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1314844",
+          "target_url": "https://www.law.go.kr/자치법규/정선군 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1981529",
+          "target_url": "https://www.law.go.kr/자치법규/전주시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전북특별자치도 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1902133",
+          "target_url": "https://www.law.go.kr/자치법규/전북특별자치도 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전라남도 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2080329",
+          "target_url": "https://www.law.go.kr/자치법규/전라남도 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 서구 자전거이용 활성화에 관한 조례",
+          "target_mst": "2132463",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 서구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 북구 자전거이용 활성화에 관한 조례",
+          "target_mst": "2147201",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 북구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 동구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2149107",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 동구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "전남광주통합특별시 남구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2141741",
+          "target_url": "https://www.law.go.kr/자치법규/전남광주통합특별시 남구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서울특별시 동대문구 자전거이용 활성화에 관한 조례",
@@ -4092,7 +3834,7 @@
         },
         {
           "target_law_name": "군포시 자전거이용활성화에 관한 조례",
-          "target_mst": "1830923",
+          "target_mst": "2179757",
           "target_url": "https://www.law.go.kr/자치법규/군포시 자전거이용활성화에 관한 조례"
         },
         {
@@ -4162,7 +3904,7 @@
         },
         {
           "target_law_name": "담양군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2072651",
+          "target_mst": "2176197",
           "target_url": "https://www.law.go.kr/자치법규/담양군 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -4242,7 +3984,7 @@
         },
         {
           "target_law_name": "경기도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106567",
+          "target_mst": "2178495",
           "target_url": "https://www.law.go.kr/자치법규/경기도 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -4301,9 +4043,9 @@
           "target_url": "https://www.law.go.kr/자치법규/곡성군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "공주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1849935",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "공주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2181649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "과천시 자전거 이용 활성화에 관한 조례",
@@ -4336,9 +4078,9 @@
           "target_url": "https://www.law.go.kr/자치법규/대구광역시 서구 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "부산광역시 북구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1816807",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 자전거 이용 활성화에 관한 조례"
+          "target_law_name": "대구광역시 수성구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1759117",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "부산광역시 사상구 자전거 이용 활성화에 관한 조례",
@@ -4362,8 +4104,13 @@
         },
         {
           "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2112161",
+          "target_mst": "2170593",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 중구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2180999",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 중구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "부산광역시 해운대구 자전거이용 활성화에 관한 조례",
@@ -4461,6 +4208,11 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 노원구 자전거이용 활성화에 관한 조례"
         },
         {
+          "target_law_name": "부산광역시 북구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1816807",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 북구 자전거 이용 활성화에 관한 조례"
+        },
+        {
           "target_law_name": "부산광역시 부산진구 자전거 이용 활성화에 관한 조례",
           "target_mst": "2078385",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 부산진구 자전거 이용 활성화에 관한 조례"
@@ -4469,16 +4221,6 @@
           "target_law_name": "부산광역시 동구 자전거 이용 활성화에 관한 조례",
           "target_mst": "2053935",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 동구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "부산광역시 남구 자전거 이용 활성화 조례",
-          "target_mst": "2041619",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 자전거 이용 활성화 조례"
-        },
-        {
-          "target_law_name": "대구광역시 수성구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1759117",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 수성구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "대구광역시 자전거 이용 활성화 조례",
@@ -4517,7 +4259,7 @@
         },
         {
           "target_law_name": "대전광역시 자전거 이용 활성화 조례",
-          "target_mst": "2098251",
+          "target_mst": "2165919",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 자전거 이용 활성화 조례"
         },
         {
@@ -4544,6 +4286,16 @@
           "target_law_name": "무안군 자전거 이용 활성화에 관한 조례",
           "target_mst": "1873493",
           "target_url": "https://www.law.go.kr/자치법규/무안군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "무주군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1576019",
+          "target_url": "https://www.law.go.kr/자치법규/무주군 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "부산광역시 남구 자전거 이용 활성화 조례",
+          "target_mst": "2041619",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 남구 자전거 이용 활성화 조례"
         },
         {
           "target_law_name": "부산광역시 기장군 자전거 이용 활성화에 관한 조례",
@@ -4589,11 +4341,6 @@
           "target_law_name": "문경시 자전거이용 활성화에 관한 조례",
           "target_mst": "1641783",
           "target_url": "https://www.law.go.kr/자치법규/문경시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "무주군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1576019",
-          "target_url": "https://www.law.go.kr/자치법규/무주군 자전거 이용 활성화에 관한 조례"
         }
       ],
       "resolve_method": "delegation"
@@ -4643,7 +4390,7 @@
         },
         {
           "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1516317",
+          "target_mst": "2168759",
           "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -4673,7 +4420,7 @@
         },
         {
           "target_law_name": "울산광역시 남구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2076183",
+          "target_mst": "2173829",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -4718,7 +4465,7 @@
         },
         {
           "target_law_name": "의정부시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1944687",
+          "target_mst": "2169859",
           "target_url": "https://www.law.go.kr/자치법규/의정부시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -4758,7 +4505,7 @@
         },
         {
           "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147699",
+          "target_mst": "2171767",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -4828,7 +4575,7 @@
         },
         {
           "target_law_name": "아산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1993199",
+          "target_mst": "2175201",
           "target_url": "https://www.law.go.kr/자치법규/아산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -4883,7 +4630,7 @@
         },
         {
           "target_law_name": "인천광역시 미추홀구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1983873",
+          "target_mst": "2173661",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자전거이용 활성화에 관한 조례"
         },
         {
@@ -4923,7 +4670,7 @@
         },
         {
           "target_law_name": "통영시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1763137",
+          "target_mst": "2180017",
           "target_url": "https://www.law.go.kr/자치법규/통영시 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -5178,7 +4925,7 @@
         },
         {
           "target_law_name": "군포시 자전거이용활성화에 관한 조례",
-          "target_mst": "1830923",
+          "target_mst": "2179757",
           "target_url": "https://www.law.go.kr/자치법규/군포시 자전거이용활성화에 관한 조례"
         },
         {
@@ -5233,7 +4980,7 @@
         },
         {
           "target_law_name": "담양군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2072651",
+          "target_mst": "2176197",
           "target_url": "https://www.law.go.kr/자치법규/담양군 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -5313,7 +5060,7 @@
         },
         {
           "target_law_name": "경기도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106567",
+          "target_mst": "2178495",
           "target_url": "https://www.law.go.kr/자치법규/경기도 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -5362,9 +5109,9 @@
           "target_url": "https://www.law.go.kr/자치법규/고흥군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "공주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1849935",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "공주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2181649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "과천시 자전거 이용 활성화에 관한 조례",
@@ -5538,7 +5285,7 @@
         },
         {
           "target_law_name": "대전광역시 자전거 이용 활성화 조례",
-          "target_mst": "2098251",
+          "target_mst": "2165919",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 자전거 이용 활성화 조례"
         },
         {
@@ -5628,7 +5375,7 @@
         },
         {
           "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2112161",
+          "target_mst": "2170593",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -5648,9 +5395,14 @@
       "ordinance_count": 250,
       "ordinances": [
         {
-          "target_law_name": "서울특별시 은평구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1629763",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 자전거이용 활성화에 관한 조례"
+          "target_law_name": "서울특별시 용산구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1871941",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "보령시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2100569",
+          "target_url": "https://www.law.go.kr/자치법규/보령시 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "보성군 자전거 이용 활성화에 관한 조례",
@@ -5718,16 +5470,6 @@
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 연제구 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2112161",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "보령시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2100569",
-          "target_url": "https://www.law.go.kr/자치법규/보령시 자전거이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "밀양시 자전거 이용 활성화에 관한 조례",
           "target_mst": "1116305",
           "target_url": "https://www.law.go.kr/자치법규/밀양시 자전거 이용 활성화에 관한 조례"
@@ -5774,7 +5516,7 @@
         },
         {
           "target_law_name": "대전광역시 자전거 이용 활성화 조례",
-          "target_mst": "2098251",
+          "target_mst": "2165919",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 자전거 이용 활성화 조례"
         },
         {
@@ -5808,19 +5550,19 @@
           "target_url": "https://www.law.go.kr/자치법규/대구광역시 중구 자전거 이용 활성화에 관한 조례"
         },
         {
+          "target_law_name": "대구광역시 자전거 이용 활성화 조례",
+          "target_mst": "1734787",
+          "target_url": "https://www.law.go.kr/자치법규/대구광역시 자전거 이용 활성화 조례"
+        },
+        {
+          "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2170593",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
+        },
+        {
           "target_law_name": "부산광역시 해운대구 자전거이용 활성화에 관한 조례",
           "target_mst": "1601259",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 해운대구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "부산광역시동래구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2136357",
-          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 용산구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1871941",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 용산구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서울특별시 영등포구 자전거이용 활성화에 관한 조례",
@@ -5848,19 +5590,19 @@
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 성동구 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147699",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 종로구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1713901",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 자전거 이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "서울특별시 서초구 자전거 이용 활성화에 관한 조례",
           "target_mst": "1970889",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 서초구 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 은평구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1629763",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 은평구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
+          "target_mst": "2171767",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서울특별시 서대문구 자전거이용 활성화에 관한 조례",
@@ -5973,9 +5715,9 @@
           "target_url": "https://www.law.go.kr/자치법규/부안군 자전거 이용 활성화 조례"
         },
         {
-          "target_law_name": "대구광역시 자전거 이용 활성화 조례",
-          "target_mst": "1734787",
-          "target_url": "https://www.law.go.kr/자치법규/대구광역시 자전거 이용 활성화 조례"
+          "target_law_name": "부산광역시동래구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2136357",
+          "target_url": "https://www.law.go.kr/자치법규/부산광역시동래구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "대구광역시 수성구 자전거 이용 활성화에 관한 조례",
@@ -5993,9 +5735,9 @@
           "target_url": "https://www.law.go.kr/자치법규/과천시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "공주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1849935",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "공주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2181649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "곡성군 자전거이용 활성화에 관한 조례",
@@ -6064,7 +5806,7 @@
         },
         {
           "target_law_name": "경기도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106567",
+          "target_mst": "2178495",
           "target_url": "https://www.law.go.kr/자치법규/경기도 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -6159,7 +5901,7 @@
         },
         {
           "target_law_name": "담양군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2072651",
+          "target_mst": "2176197",
           "target_url": "https://www.law.go.kr/자치법규/담양군 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -6244,7 +5986,7 @@
         },
         {
           "target_law_name": "군포시 자전거이용활성화에 관한 조례",
-          "target_mst": "1830923",
+          "target_mst": "2179757",
           "target_url": "https://www.law.go.kr/자치법규/군포시 자전거이용활성화에 관한 조례"
         },
         {
@@ -6263,14 +6005,14 @@
           "target_url": "https://www.law.go.kr/자치법규/김천시 자전거이용 활성화에 관한 조례"
         },
         {
+          "target_law_name": "서울특별시 종로구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1713901",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 종로구 자전거 이용 활성화에 관한 조례"
+        },
+        {
           "target_law_name": "서울특별시 중구 자전거이용 활성화에 관한 조례",
           "target_mst": "2059545",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 중구 자전거이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "서울특별시 중랑구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2011021",
-          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "철원군 자전거이용 활성화에 관한 조례",
@@ -6414,8 +6156,13 @@
         },
         {
           "target_law_name": "인천광역시 미추홀구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1983873",
+          "target_mst": "2173661",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "인천광역시 계양구 자전거이용 활성화에 관한 조례",
+          "target_mst": "1853793",
+          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "청도군 자전거 이용 활성화에 관한 조례",
@@ -6428,18 +6175,13 @@
           "target_url": "https://www.law.go.kr/자치법규/청양군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "청주시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2055983",
-          "target_url": "https://www.law.go.kr/자치법규/청주시 자전거 이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "횡성군 자전거이용 활성화에 관한 조례",
           "target_mst": "1857601",
           "target_url": "https://www.law.go.kr/자치법규/횡성군 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "화천군 주차장 설치 및 관리 조례",
-          "target_mst": "2083865",
+          "target_mst": "2169503",
           "target_url": "https://www.law.go.kr/자치법규/화천군 주차장 설치 및 관리 조례"
         },
         {
@@ -6539,7 +6281,7 @@
         },
         {
           "target_law_name": "통영시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1763137",
+          "target_mst": "2180017",
           "target_url": "https://www.law.go.kr/자치법규/통영시 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -6578,9 +6320,9 @@
           "target_url": "https://www.law.go.kr/자치법규/춘천시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "인천광역시 계양구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1853793",
-          "target_url": "https://www.law.go.kr/자치법규/인천광역시 계양구 자전거이용 활성화에 관한 조례"
+          "target_law_name": "청주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2055983",
+          "target_url": "https://www.law.go.kr/자치법규/청주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "인제군 자전거이용 활성화에 관한 조례",
@@ -6591,6 +6333,11 @@
           "target_law_name": "익산시 자전거 이용 활성화에 관한 조례",
           "target_mst": "1801617",
           "target_url": "https://www.law.go.kr/자치법규/익산시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "안성시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "1912401",
+          "target_url": "https://www.law.go.kr/자치법규/안성시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "안양시 자전거 이용 활성화에 관한 조례",
@@ -6668,16 +6415,6 @@
           "target_url": "https://www.law.go.kr/자치법규/영동군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "영암군 자전거 이용 활성화에 관한 조례",
-          "target_mst": "789756",
-          "target_url": "https://www.law.go.kr/자치법규/영암군 자전거 이용 활성화에 관한 조례"
-        },
-        {
-          "target_law_name": "안성시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1912401",
-          "target_url": "https://www.law.go.kr/자치법규/안성시 자전거 이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "안산시 주차장 조례",
           "target_mst": "2126431",
           "target_url": "https://www.law.go.kr/자치법규/안산시 주차장 조례"
@@ -6686,6 +6423,16 @@
           "target_law_name": "안산시 자전거이용활성화에 관한 조례",
           "target_mst": "1917701",
           "target_url": "https://www.law.go.kr/자치법규/안산시 자전거이용활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "안동시 자전거이용 활성화에 관한 조례",
+          "target_mst": "1968051",
+          "target_url": "https://www.law.go.kr/자치법규/안동시 자전거이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "서울특별시 중랑구 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2011021",
+          "target_url": "https://www.law.go.kr/자치법규/서울특별시 중랑구 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "서천군 자전거이용 활성화에 관한 조례",
@@ -6699,7 +6446,7 @@
         },
         {
           "target_law_name": "성남시 주차장 설치 및 관리 운영에 관한 조례",
-          "target_mst": "2122295",
+          "target_mst": "2170951",
           "target_url": "https://www.law.go.kr/자치법규/성남시 주차장 설치 및 관리 운영에 관한 조례"
         },
         {
@@ -6729,7 +6476,7 @@
         },
         {
           "target_law_name": "수원시 주차장 조례",
-          "target_mst": "2054111",
+          "target_mst": "2172423",
           "target_url": "https://www.law.go.kr/자치법규/수원시 주차장 조례"
         },
         {
@@ -6759,13 +6506,13 @@
         },
         {
           "target_law_name": "아산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1993199",
+          "target_mst": "2175201",
           "target_url": "https://www.law.go.kr/자치법규/아산시 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "안동시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1968051",
-          "target_url": "https://www.law.go.kr/자치법규/안동시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "영암군 자전거 이용 활성화에 관한 조례",
+          "target_mst": "789756",
+          "target_url": "https://www.law.go.kr/자치법규/영암군 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "영월군 자전거이용 활성화에 관한 조례",
@@ -6789,7 +6536,7 @@
         },
         {
           "target_law_name": "울산광역시 남구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2076183",
+          "target_mst": "2173829",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -6844,7 +6591,7 @@
         },
         {
           "target_law_name": "의정부시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1944687",
+          "target_mst": "2169859",
           "target_url": "https://www.law.go.kr/자치법규/의정부시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -6873,14 +6620,14 @@
           "target_url": "https://www.law.go.kr/자치법규/옥천군 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "예산군 자전거이용 활성화에 관한 조례",
-          "target_mst": "1996811",
-          "target_url": "https://www.law.go.kr/자치법규/예산군 자전거이용 활성화에 관한 조례"
-        },
-        {
           "target_law_name": "영주시 자전거 이용 활성화에 관한 조례",
           "target_mst": "829923",
           "target_url": "https://www.law.go.kr/자치법규/영주시 자전거 이용 활성화에 관한 조례"
+        },
+        {
+          "target_law_name": "예산군 자전거이용 활성화에 관한 조례",
+          "target_mst": "1996811",
+          "target_url": "https://www.law.go.kr/자치법규/예산군 자전거이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "예천군 자전거 이용 활성화에 관한 조례",
@@ -6889,7 +6636,7 @@
         },
         {
           "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1516317",
+          "target_mst": "2168759",
           "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -6940,7 +6687,7 @@
         },
         {
           "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1516317",
+          "target_mst": "2168759",
           "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7050,7 +6797,7 @@
         },
         {
           "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147699",
+          "target_mst": "2171767",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7060,7 +6807,7 @@
         },
         {
           "target_law_name": "경기도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106567",
+          "target_mst": "2178495",
           "target_url": "https://www.law.go.kr/자치법규/경기도 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -7074,9 +6821,9 @@
           "target_url": "https://www.law.go.kr/자치법규/고양시 자전거 이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "공주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1849935",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "공주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2181649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "과천시 자전거 이용 활성화에 관한 조례",
@@ -7170,7 +6917,7 @@
         },
         {
           "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2112161",
+          "target_mst": "2170593",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7180,7 +6927,7 @@
         },
         {
           "target_law_name": "대전광역시 자전거 이용 활성화 조례",
-          "target_mst": "2098251",
+          "target_mst": "2165919",
           "target_url": "https://www.law.go.kr/자치법규/대전광역시 자전거 이용 활성화 조례"
         },
         {
@@ -7211,7 +6958,7 @@
         },
         {
           "target_law_name": "오산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1516317",
+          "target_mst": "2168759",
           "target_url": "https://www.law.go.kr/자치법규/오산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7251,7 +6998,7 @@
         },
         {
           "target_law_name": "울산광역시 남구 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2076183",
+          "target_mst": "2173829",
           "target_url": "https://www.law.go.kr/자치법규/울산광역시 남구 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -7381,7 +7128,7 @@
         },
         {
           "target_law_name": "아산시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1993199",
+          "target_mst": "2175201",
           "target_url": "https://www.law.go.kr/자치법규/아산시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7461,7 +7208,7 @@
         },
         {
           "target_law_name": "통영시 자전거 이용 활성화에 관한 조례",
-          "target_mst": "1763137",
+          "target_mst": "2180017",
           "target_url": "https://www.law.go.kr/자치법규/통영시 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -7546,7 +7293,7 @@
         },
         {
           "target_law_name": "인천광역시 미추홀구 자전거이용 활성화에 관한 조례",
-          "target_mst": "1983873",
+          "target_mst": "2173661",
           "target_url": "https://www.law.go.kr/자치법규/인천광역시 미추홀구 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7641,7 +7388,7 @@
         },
         {
           "target_law_name": "서울특별시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2147699",
+          "target_mst": "2171767",
           "target_url": "https://www.law.go.kr/자치법규/서울특별시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -7651,7 +7398,7 @@
         },
         {
           "target_law_name": "군포시 자전거이용활성화에 관한 조례",
-          "target_mst": "1830923",
+          "target_mst": "2179757",
           "target_url": "https://www.law.go.kr/자치법규/군포시 자전거이용활성화에 관한 조례"
         },
         {
@@ -7791,7 +7538,7 @@
         },
         {
           "target_law_name": "경기도 자전거 이용 활성화에 관한 조례",
-          "target_mst": "2106567",
+          "target_mst": "2178495",
           "target_url": "https://www.law.go.kr/자치법규/경기도 자전거 이용 활성화에 관한 조례"
         },
         {
@@ -7835,9 +7582,9 @@
           "target_url": "https://www.law.go.kr/자치법규/곡성군 자전거이용 활성화에 관한 조례"
         },
         {
-          "target_law_name": "공주시 자전거이용 활성화에 관한 조례",
-          "target_mst": "1849935",
-          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거이용 활성화에 관한 조례"
+          "target_law_name": "공주시 자전거 이용 활성화에 관한 조례",
+          "target_mst": "2181649",
+          "target_url": "https://www.law.go.kr/자치법규/공주시 자전거 이용 활성화에 관한 조례"
         },
         {
           "target_law_name": "과천시 자전거 이용 활성화에 관한 조례",
@@ -8066,7 +7813,7 @@
         },
         {
           "target_law_name": "부산광역시 자전거이용 활성화에 관한 조례",
-          "target_mst": "2112161",
+          "target_mst": "2170593",
           "target_url": "https://www.law.go.kr/자치법규/부산광역시 자전거이용 활성화에 관한 조례"
         },
         {
@@ -8109,7 +7856,7 @@
     "phantom_self_refs": 0,
     "phantom_self_ref_samples": [],
     "ordinance_groups": 5,
-    "ordinance_docs_total": 932,
+    "ordinance_docs_total": 933,
     "addenda_count": 36,
     "appendices_count": 0,
     "pop_miss": 0,
@@ -8122,11 +7869,8 @@
   "provision_id": "law:자전거이용활성화에관한법률#DOC",
   "addendum_provision_id": "law:자전거이용활성화에관한법률#ADDENDUM",
   "amendment_provision_id": "law:자전거이용활성화에관한법률#AMENDMENT",
-  "future_enforcement_dates": [
-    "20270108"
-  ],
-  "has_future": true,
-  "version_count": 2,
-  "git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json",
-  "_schlpub_id_suffix": "법률"
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "자전거 이용 활성화에 관한 법률/법률/자전거 이용 활성화에 관한 법률.json"
 }
