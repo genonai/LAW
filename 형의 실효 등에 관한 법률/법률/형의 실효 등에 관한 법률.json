@@ -36,13 +36,22 @@
     },
     "시행일자": "20230706",
     "연락부서": {
-      "부서단위": {
-        "부서연락처": "02-2110-3545",
-        "부서키": "324631",
-        "부서명": "형사기획과",
-        "소관부처명": "법무부",
-        "소관부처코드": "1270000"
-      }
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3545",
+          "부서키": "430869",
+          "부서명": "형사기획과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-3545",
+          "부서키": "431061",
+          "부서명": "형사기획과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
     },
     "법령명_한자": "형의 실효 등에 관한 법률",
     "법령명약칭": "형실효법",
@@ -95,9 +104,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0002",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -116,9 +123,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0002",
             "reference_id": "law:형법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -168,9 +173,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0004",
             "reference_id": "law:형의실효등에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -189,9 +192,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0004",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -210,9 +211,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0004",
             "reference_id": "law:형법#JO0081",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -247,9 +246,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0005",
             "reference_id": "law:형의실효등에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -299,9 +296,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -320,9 +315,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -341,9 +334,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -362,9 +353,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -383,9 +372,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -404,9 +391,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -425,9 +410,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:국가정보원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "citation",
@@ -446,9 +429,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "citation",
@@ -467,9 +448,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "delegation",
@@ -488,9 +467,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -509,9 +486,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -530,9 +505,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -551,9 +524,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -572,9 +543,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:보안업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -593,9 +562,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0006",
             "reference_id": "law:형의실효등에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -646,9 +613,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008",
             "reference_id": "law:형의실효등에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -667,9 +632,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -688,9 +651,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008",
             "reference_id": "law:형법#JO0081",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "delegation",
@@ -709,9 +670,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008",
             "reference_id": "law:형의실효등에관한법률시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -746,9 +705,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008_02",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -767,9 +724,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008_02",
             "reference_id": "law:소년법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "delegation",
@@ -788,9 +743,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0008_02",
             "reference_id": "law:형의실효등에관한법률시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_git_path": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/시행령/형의 실효 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2010.3.31][2023.7.6 법률 제19515호에 의하여 2021.6.24. 헌법재판소에서 헌법불합치 결정된 이 조를 개정함.]",
@@ -856,9 +809,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -877,9 +828,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -898,9 +847,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -919,9 +866,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -940,9 +885,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -961,9 +904,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -982,9 +923,7 @@
             "source_provision_id": "law:형의실효등에관한법률#JO0010",
             "reference_id": "law:형의실효등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2010.3.31]",
@@ -1123,7 +1062,7 @@
       "promulgation_date": "20070517",
       "promulgation_no": "08435",
       "addendum_key": "2007051708435",
-      "content": "부칙(가족관계의 등록 등에 관한 법률) <제8435호,2007.5.17>\n제1조 (시행일) 이 법은 2008년 1월 1일부터 시행한다. <단서 생략>\n제2조 부터 제7조까지 생략\n제8조 (다른 법률의 개정) ①부터 <35>까지 생략\n<36> 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제2조제3호 및 제4조제1항 중 \"본적지\"를 각각 \"등록기준지\"로 한다.\n<37>부터 <39>까지 생략\n제9조 생략",
+      "content": "부칙(가족관계의 등록 등에 관한 법률) <제8435호,2007.5.17>\n제1조 (시행일) 이 법은 2008년 1월 1일부터 시행한다. <단서 생략>\n제2조부터 제7조까지 생략\n제8조 (다른 법률의 개정) ①부터 <35>까지 생략\n<36> 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제2조제3호 및 제4조제1항 중 \"본적지\"를 각각 \"등록기준지\"로 한다.\n<37>부터 <39>까지 생략\n제9조 생략",
       "provision_id": "law:형의실효등에관한법률#ADDENDUM",
       "is_future": false,
       "source_mst": "252635",
@@ -1159,7 +1098,7 @@
       "promulgation_date": "20130604",
       "promulgation_no": "11849",
       "addendum_key": "2013060411849",
-      "content": "부칙(병역법) <제11849호,2013.6.4>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <18>까지 생략\n<19> 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제6조제1항제8호 중 \"공익근무요원\"을 \"사회복무요원\"으로 한다.",
+      "content": "부칙(병역법) <제11849호,2013.6.4>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <18>까지 생략\n<19> 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제6조제1항제8호 중 \"공익근무요원\"을 \"사회복무요원\"으로 한다.",
       "provision_id": "law:형의실효등에관한법률#ADDENDUM",
       "is_future": false,
       "source_mst": "252635",
@@ -1195,7 +1134,7 @@
       "promulgation_date": "20201215",
       "promulgation_no": "17646",
       "addendum_key": "2020121517646",
-      "content": "부칙(국가정보원법) <제17646호,2020.12.15>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다. <단서 생략>\n제2조 부터 제4조까지 생략\n제5조(다른 법률의 개정) ①부터 ⑨까지 생략\n⑩ 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제6조제1항제5호 중 \"「국가정보원법」 제3조제2항\"을 \"「국가정보원법」 제4조제3항\"으로 한다.\n제6조 생략",
+      "content": "부칙(국가정보원법) <제17646호,2020.12.15>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략\n제5조(다른 법률의 개정) ①부터 ⑨까지 생략\n⑩ 형의 실효 등에 관한 법률 일부를 다음과 같이 개정한다.\n제6조제1항제5호 중 \"「국가정보원법」 제3조제2항\"을 \"「국가정보원법」 제4조제3항\"으로 한다.\n제6조 생략",
       "provision_id": "law:형의실효등에관한법률#ADDENDUM",
       "is_future": false,
       "source_mst": "252635",
@@ -1262,6 +1201,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "형의 실효 등에 관한 법률/법률/형의 실효 등에 관한 법률.json"
 }
