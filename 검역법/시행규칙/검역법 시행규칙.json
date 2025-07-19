@@ -34,7 +34,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "043-719-9210",
-        "부서키": "379781",
+        "부서키": "427527",
         "부서명": "검역정책과",
         "소관부처명": "질병관리청",
         "소관부처코드": "1790387"
@@ -76,9 +76,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0001",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -97,9 +95,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0001",
             "reference_id": "law:검역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행령/검역법 시행령.json",
-            "target_git_path": "검역법/시행령/검역법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행령/검역법 시행령.json"
           }
         ],
         "revision_type": "타법개정",
@@ -135,9 +131,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0001_02",
             "reference_id": "admrul:감염병매개체의범위지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "감염병 매개체의 범위 지정/감염병 매개체의 범위 지정.json",
-            "target_git_path": "감염병 매개체의 범위 지정/감염병 매개체의 범위 지정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "감염병 매개체의 범위 지정/감염병 매개체의 범위 지정.json"
           },
           {
             "relation_type": "citation",
@@ -156,9 +150,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0001_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -177,9 +169,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0001_02",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -198,9 +188,26 @@
             "source_provision_id": "law:검역법시행규칙#JO0001_02",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제1조의2",
+            "source_clause": "제1조의2",
+            "link_text": "질병관리청장이 정하여 고시하는",
+            "line_text": "제1조의2(감염병 매개체의 범위) 「검역법」(이하 \"법\"이라 한다) 제2조제6호에서 \"보건복지부령으로 정하는 것\"이란 쥐, 모기, 그 밖에 공중보건에 위해한 감염성 병원체를 전파할 수 있는 설치류나 해충으로서 질병관리청장이 정하여 고시하는 것을 말한다.",
+            "target_law_name": "감염병 매개체의 범위 지정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/감염병 매개체의 범위 지정",
+            "resolve_method": "render",
+            "source_provision_id": "law:검역법시행규칙#JO0001_02",
+            "reference_id": "admrul:감염병매개체의범위지정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "감염병 매개체의 범위 지정/감염병 매개체의 범위 지정.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -235,9 +242,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -256,9 +261,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002",
             "reference_id": "law:검역법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -293,9 +296,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -314,9 +315,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002_02",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -335,9 +334,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002_02",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -356,9 +353,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0002_02",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[전문개정 2021.3.5]",
@@ -393,9 +388,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -414,9 +407,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -435,9 +426,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -456,9 +445,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -477,9 +464,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행령/검역법 시행령.json",
-            "target_git_path": "검역법/시행령/검역법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행령/검역법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -498,9 +483,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행령/검역법 시행령.json",
-            "target_git_path": "검역법/시행령/검역법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행령/검역법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -519,9 +502,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0003",
             "reference_id": "law:검역법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행령/검역법 시행령.json",
-            "target_git_path": "검역법/시행령/검역법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행령/검역법 시행령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -545,10 +526,7 @@
             "target_unit": "FORM0001",
             "reference_id": "law:검역법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식1_검역조사 생략 신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -572,10 +550,7 @@
             "target_unit": "FORM0002",
             "reference_id": "law:검역법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식2_외항선(입항,출항)통보서 (최초,변경,최종,취소).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -609,9 +584,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0004",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -630,9 +603,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0004",
             "reference_id": "law:검역법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -651,9 +622,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0004",
             "reference_id": "law:검역법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -677,10 +646,7 @@
             "target_unit": "FORM0002",
             "reference_id": "law:검역법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식2_외항선(입항,출항)통보서 (최초,변경,최종,취소).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -704,10 +670,7 @@
             "target_unit": "FORM0003",
             "reference_id": "law:검역법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식3_항공기 도착(출발) 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -731,10 +694,7 @@
             "target_unit": "FORM0004",
             "reference_id": "law:검역법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식4_열차ㆍ자동차 도착(출발) 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2021.3.5]",
@@ -769,9 +729,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -790,9 +748,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -811,9 +767,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -837,10 +791,7 @@
             "target_unit": "BYL0001",
             "reference_id": "law:검역법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/별표/별표1_검역 장소(제5조제1항 관련).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -859,9 +810,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -880,9 +829,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -901,9 +848,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -916,15 +861,13 @@
             "target_law_name": "질병관리청과 그 소속기관 직제 시행규칙",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288275",
+            "target_mst": "289151",
             "target_url": "https://www.law.go.kr/법령/질병관리청과 그 소속기관 직제 시행규칙",
             "resolve_method": "pop",
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:질병관리청과그소속기관직제시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_git_path": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -937,15 +880,13 @@
             "target_law_name": "질병관리청과 그 소속기관 직제 시행규칙",
             "target_article_no": "제23조",
             "target_article_title": "국립검역소",
-            "target_mst": "288275",
+            "target_mst": "289151",
             "target_url": "https://www.law.go.kr/법령/질병관리청과 그 소속기관 직제 시행규칙/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:질병관리청과그소속기관직제시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_git_path": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -958,15 +899,13 @@
             "target_law_name": "질병관리청과 그 소속기관 직제 시행규칙",
             "target_article_no": "제23조",
             "target_article_title": "국립검역소",
-            "target_mst": "288275",
+            "target_mst": "289151",
             "target_url": "https://www.law.go.kr/법령/질병관리청과 그 소속기관 직제 시행규칙/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:질병관리청과그소속기관직제시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_git_path": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "질병관리청과 그 소속기관 직제/시행규칙/질병관리청과 그 소속기관 직제 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -985,9 +924,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1006,9 +943,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1027,9 +962,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1048,9 +981,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1069,9 +1000,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1090,9 +1019,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1111,9 +1038,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1132,9 +1057,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:남북교류협력에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_git_path": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1153,9 +1076,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:남북교류협력에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_git_path": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1174,9 +1095,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005",
             "reference_id": "law:남북교류협력에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_git_path": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "남북교류협력에 관한 법률/법률/남북교류협력에 관한 법률.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1210,9 +1129,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1231,9 +1148,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005_02",
             "reference_id": "law:검역법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1252,9 +1167,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0005_02",
             "reference_id": "law:검역법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -1289,9 +1202,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1310,9 +1221,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1331,9 +1240,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1352,9 +1259,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1373,9 +1278,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1394,9 +1297,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1415,9 +1316,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1436,9 +1335,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1457,9 +1354,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1493,9 +1388,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1514,9 +1407,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1535,9 +1426,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1561,10 +1450,7 @@
             "target_unit": "FORM0004_02",
             "reference_id": "law:검역법시행규칙#FORM0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식4의2_검역관리지역등 체류 ㆍ 경유 신고서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1583,9 +1469,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1604,9 +1488,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1625,9 +1507,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1646,9 +1526,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1667,9 +1545,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1688,9 +1564,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1714,10 +1588,7 @@
             "target_unit": "FORM0007",
             "reference_id": "law:검역법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식7_건강상태 질문서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1736,9 +1607,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1757,9 +1626,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1778,9 +1645,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_02",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1804,10 +1669,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:검역법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식6_승무원 및 승객 명부.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -1842,9 +1704,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1863,9 +1723,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1884,9 +1742,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1905,9 +1761,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1926,9 +1780,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1947,9 +1799,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1968,9 +1818,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -1989,9 +1837,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2010,9 +1856,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2031,9 +1875,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2052,9 +1894,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2073,9 +1913,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2094,9 +1932,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_03",
             "reference_id": "law:검역법#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -2131,9 +1967,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2152,9 +1986,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2173,9 +2005,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2199,10 +2029,7 @@
             "target_unit": "FORM0005",
             "reference_id": "law:검역법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식5_항공기 보건상태 신고서(출국용_입국용).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2226,10 +2053,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:검역법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식6_승무원 및 승객 명부.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2253,10 +2077,7 @@
             "target_unit": "FORM0007",
             "reference_id": "law:검역법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식7_건강상태 질문서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2275,9 +2096,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2296,9 +2115,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2317,9 +2134,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2338,9 +2153,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2359,9 +2172,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2380,9 +2191,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2401,9 +2210,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2422,9 +2229,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2443,9 +2248,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2464,9 +2267,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2485,9 +2286,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_04",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -2522,9 +2321,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2543,9 +2340,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2564,9 +2359,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2590,10 +2383,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:검역법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식6_승무원 및 승객 명부.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2617,10 +2407,7 @@
             "target_unit": "FORM0007",
             "reference_id": "law:검역법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식7_건강상태 질문서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2644,10 +2431,7 @@
             "target_unit": "FORM0008",
             "reference_id": "law:검역법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식8_선박 보건상태 신고서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2666,9 +2450,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2687,9 +2469,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2708,9 +2488,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2729,9 +2507,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2750,9 +2526,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2771,9 +2545,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법시행규칙#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -2792,9 +2564,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2813,9 +2583,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2834,9 +2602,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2855,9 +2621,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2876,9 +2640,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2897,9 +2659,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2918,9 +2678,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2939,9 +2697,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -2960,9 +2716,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_05",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -2997,9 +2751,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3018,9 +2770,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#JO0012_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3039,9 +2789,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#JO0012_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3065,10 +2813,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:검역법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식6_승무원 및 승객 명부.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3092,10 +2837,7 @@
             "target_unit": "FORM0009",
             "reference_id": "law:검역법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식9_열차ㆍ자동차 보건상태 신고서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3119,10 +2861,7 @@
             "target_unit": "FORM0010",
             "reference_id": "law:검역법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식10_개인검역신고서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -3141,9 +2880,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3162,9 +2899,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#JO0012_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3183,9 +2918,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법#JO0012_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3204,9 +2937,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3225,9 +2956,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0006_06",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -3262,9 +2991,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3283,9 +3010,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3304,9 +3029,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3330,10 +3053,7 @@
             "target_unit": "FORM0011",
             "reference_id": "law:검역법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식11_검역 전 승선ㆍ탑승 허가 신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -3352,9 +3072,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3373,9 +3091,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3394,9 +3110,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3415,9 +3129,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3436,9 +3148,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3457,9 +3167,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3478,9 +3186,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3499,9 +3205,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3520,9 +3224,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0007",
             "reference_id": "law:검역법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -3585,9 +3287,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0010",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3606,9 +3306,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0010",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3627,9 +3325,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0010",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3648,9 +3344,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0010",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[전문개정 2021.3.5]",
@@ -3685,9 +3379,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3706,9 +3398,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3727,9 +3417,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3748,9 +3436,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3769,9 +3455,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3795,10 +3479,7 @@
             "target_unit": "FORM0013",
             "reference_id": "law:검역법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식13_소독시행 명령서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3822,10 +3503,7 @@
             "target_unit": "BYL0002",
             "reference_id": "law:검역법시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/별표/별표2_소독기준(제11조제2항 관련).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -3859,9 +3537,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3880,9 +3556,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011_02",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3901,9 +3575,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011_02",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3922,9 +3594,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0011_02",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2019.9.24]",
@@ -3959,9 +3629,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -3980,9 +3648,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4001,9 +3667,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4022,9 +3686,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4043,9 +3705,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4064,9 +3724,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4085,9 +3743,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4106,9 +3762,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4127,9 +3781,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:감염병의예방및관리에관한법률#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4148,9 +3800,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
-            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4169,9 +3819,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json",
-            "target_git_path": "화학물질관리법/법률/화학물질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/법률/화학물질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4190,9 +3838,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행령/화학물질관리법 시행령.json",
-            "target_git_path": "화학물질관리법/시행령/화학물질관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/시행령/화학물질관리법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -4211,9 +3857,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행령/화학물질관리법 시행령.json",
-            "target_git_path": "화학물질관리법/시행령/화학물질관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/시행령/화학물질관리법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -4232,9 +3876,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
-            "target_git_path": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -4253,9 +3895,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0012",
             "reference_id": "law:화학물질관리법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
-            "target_git_path": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "화학물질관리법/시행규칙/화학물질관리법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4279,10 +3919,7 @@
             "target_unit": "FORM0014",
             "reference_id": "law:검역법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식14_소독 실시 계획서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4306,10 +3943,7 @@
             "target_unit": "FORM0015",
             "reference_id": "law:검역법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식15_소독 결과 보고서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -4343,9 +3977,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0013",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4364,9 +3996,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0013",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4385,9 +4015,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0013",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4406,9 +4034,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0013",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4427,9 +4053,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0013",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4453,10 +4077,7 @@
             "target_unit": "FORM0016",
             "reference_id": "law:검역법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식16_격리통지서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2021.3.5]",
@@ -4491,9 +4112,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4512,9 +4131,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4533,9 +4150,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -4570,9 +4185,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4591,9 +4204,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_02",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4612,9 +4223,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_02",
             "reference_id": "law:검역법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4638,10 +4247,7 @@
             "target_unit": "FORM0016_02",
             "reference_id": "law:검역법시행규칙#FORM0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식16의2_접촉 허가 신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2013.10.24]",
@@ -4676,9 +4282,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4697,9 +4301,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4718,9 +4320,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4739,9 +4339,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4760,9 +4358,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4781,9 +4377,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4802,9 +4396,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4823,9 +4415,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4844,9 +4434,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4865,9 +4453,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4886,9 +4472,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0014_03",
             "reference_id": "law:검역법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -4923,9 +4507,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4944,9 +4526,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -4965,9 +4545,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4991,10 +4569,7 @@
             "target_unit": "FORM0017",
             "reference_id": "law:검역법시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식17_오염운송수단 등의 이동금지 등의 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5013,9 +4588,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5034,9 +4607,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -5055,9 +4626,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
-            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
           },
           {
             "relation_type": "citation",
@@ -5076,9 +4645,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:폐기물관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
-            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
           },
           {
             "relation_type": "citation",
@@ -5097,9 +4664,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5118,9 +4683,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5139,9 +4702,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0015",
             "reference_id": "law:검역법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -5175,9 +4736,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0016",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5196,9 +4755,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0016",
             "reference_id": "law:검역법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -5233,9 +4790,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0017",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5254,9 +4809,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0017",
             "reference_id": "law:검역법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5280,10 +4833,7 @@
             "target_unit": "FORM0018",
             "reference_id": "law:검역법시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식18_검역증.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -5302,9 +4852,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0017",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5323,9 +4871,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0017",
             "reference_id": "law:검역법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5344,9 +4890,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0017",
             "reference_id": "law:검역법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5370,10 +4914,7 @@
             "target_unit": "FORM0019",
             "reference_id": "law:검역법시행규칙#FORM0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식19_조건부 검역증.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -5407,9 +4948,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0018",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5428,9 +4967,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0018",
             "reference_id": "law:검역법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5449,9 +4986,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0018",
             "reference_id": "law:검역법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5475,10 +5010,7 @@
             "target_unit": "FORM0020",
             "reference_id": "law:검역법시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식20_이동 지시서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -5513,9 +5045,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0019",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5534,9 +5064,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0019",
             "reference_id": "law:검역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5555,9 +5083,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0019",
             "reference_id": "law:검역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -5592,9 +5118,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0020",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5613,9 +5137,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0020",
             "reference_id": "law:검역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5634,9 +5156,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0020",
             "reference_id": "law:검역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5660,10 +5180,7 @@
             "target_unit": "FORM0021",
             "reference_id": "law:검역법시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식21_사망경위서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -5682,9 +5199,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0020",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5703,9 +5218,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0020",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -5740,9 +5253,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0021",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5761,9 +5272,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0021",
             "reference_id": "law:검역법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5782,9 +5291,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0021",
             "reference_id": "law:검역법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5808,10 +5315,7 @@
             "target_unit": "FORM0022",
             "reference_id": "law:검역법시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식22_신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5835,10 +5339,7 @@
             "target_unit": "FORM0023",
             "reference_id": "law:검역법시행규칙#FORM0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식23_신청서 부표.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5862,10 +5363,7 @@
             "target_unit": "FORM0024",
             "reference_id": "law:검역법시행규칙#FORM0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식24_선박위생관리 점검표.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5889,10 +5387,7 @@
             "target_unit": "FORM0025",
             "reference_id": "law:검역법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식25_선박위생관리 면제증명서,선박위생관리 증명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -5927,9 +5422,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -5948,9 +5441,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -5974,10 +5465,7 @@
             "target_unit": "FORM0022",
             "reference_id": "law:검역법시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식22_신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6001,10 +5489,7 @@
             "target_unit": "FORM0023",
             "reference_id": "law:검역법시행규칙#FORM0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식23_신청서 부표.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6023,9 +5508,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6044,9 +5527,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6065,9 +5546,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6091,10 +5570,7 @@
             "target_unit": "FORM0026",
             "reference_id": "law:검역법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식26_감염병 매개체 구제증명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6113,9 +5589,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6134,9 +5608,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6155,9 +5627,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6176,9 +5646,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6202,10 +5670,7 @@
             "target_unit": "FORM0027",
             "reference_id": "law:검역법시행규칙#FORM0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식27_소독증명확인서(물품).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6224,9 +5689,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6245,9 +5708,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6266,9 +5727,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6287,9 +5746,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6313,10 +5770,7 @@
             "target_unit": "FORM0028",
             "reference_id": "law:검역법시행규칙#FORM0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식28_병원체 검사증명서(물품).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6335,9 +5789,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6356,9 +5808,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6377,9 +5827,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6403,10 +5851,7 @@
             "target_unit": "FORM0029",
             "reference_id": "law:검역법시행규칙#FORM0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식29_병원체 검사증명서(사람).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6425,9 +5870,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6446,9 +5889,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6467,9 +5908,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0022",
             "reference_id": "law:검역법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6493,10 +5932,7 @@
             "target_unit": "FORM0030",
             "reference_id": "law:검역법시행규칙#FORM0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식30_소독증명서(선박_항공기_열차_자동차).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -6530,9 +5966,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6551,9 +5985,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6572,9 +6004,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6598,10 +6028,7 @@
             "target_unit": "FORM0031",
             "reference_id": "law:검역법시행규칙#FORM0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식31_국제공인예방접종증명서 발급신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6625,10 +6052,7 @@
             "target_unit": "FORM0032",
             "reference_id": "law:검역법시행규칙#FORM0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식32_국제공인예방접종증명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6647,9 +6071,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:감염병의예방및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/법률/감염병의 예방 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6668,9 +6090,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6689,9 +6109,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6710,9 +6128,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:감염병의예방및관리에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6731,9 +6147,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:감염병의예방및관리에관한법률시행규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json",
-            "target_git_path": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감염병의 예방 및 관리에 관한 법률/시행규칙/감염병의 예방 및 관리에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6757,10 +6171,7 @@
             "target_unit": "FORM0033",
             "reference_id": "law:검역법시행규칙#FORM0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식33_예방접종증명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -6784,10 +6195,7 @@
             "target_unit": "FORM0034",
             "reference_id": "law:검역법시행규칙#FORM0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식34_국제공인예방접종증명서 발급 처리부.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -6806,9 +6214,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6827,9 +6233,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6848,9 +6252,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6869,9 +6271,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6890,9 +6290,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6911,9 +6309,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6932,9 +6328,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0023",
             "reference_id": "law:검역법#JO0028_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[제목개정 2021.3.5]",
@@ -6969,9 +6363,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -6990,9 +6382,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#JO0028_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7011,9 +6401,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#JO0028_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -7037,10 +6425,7 @@
             "target_unit": "FORM0035",
             "reference_id": "law:검역법시행규칙#FORM0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식35_국제공인 예방접종기관 지정신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -7059,9 +6444,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7080,9 +6463,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#JO0028_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7101,9 +6482,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#JO0028_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7122,9 +6501,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7143,9 +6520,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0024",
             "reference_id": "law:검역법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[전문개정 2014.9.19]",
@@ -7185,10 +6560,7 @@
             "target_unit": "FORM0036",
             "reference_id": "law:검역법시행규칙#FORM0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식36_증인.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7207,9 +6579,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025",
             "reference_id": "law:검역법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7228,9 +6598,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025",
             "reference_id": "law:검역법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -7254,10 +6622,7 @@
             "target_unit": "FORM0037",
             "reference_id": "law:검역법시행규칙#FORM0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식37_국제공인예방접종확인 증인.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "note": "[제목개정 2019.9.24]",
@@ -7292,9 +6657,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7313,9 +6676,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7334,9 +6695,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7355,9 +6714,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7376,9 +6733,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7397,9 +6752,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7418,9 +6771,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7439,9 +6790,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_02",
             "reference_id": "law:검역법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5][종전 제25조의2는 제25조의3으로 이동 <2021.3.5>]",
@@ -7476,9 +6825,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7497,9 +6844,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7518,9 +6863,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7539,9 +6882,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7560,9 +6901,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7581,9 +6920,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7602,9 +6939,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7623,9 +6958,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7644,9 +6977,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7665,9 +6996,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7686,9 +7015,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7707,9 +7034,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7728,9 +7053,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0006_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7749,9 +7072,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7770,9 +7091,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7791,9 +7110,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7812,9 +7129,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7833,9 +7148,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7854,9 +7167,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7875,9 +7186,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -7896,9 +7205,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7917,9 +7224,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7938,9 +7243,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7959,9 +7262,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -7980,9 +7281,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8001,9 +7300,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8022,9 +7319,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8043,9 +7338,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8064,9 +7357,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:해운법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json",
-            "target_git_path": "해운법/법률/해운법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해운법/법률/해운법.json"
           },
           {
             "relation_type": "citation",
@@ -8085,9 +7376,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:해운법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "해운법/법률/해운법.json",
-            "target_git_path": "해운법/법률/해운법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해운법/법률/해운법.json"
           },
           {
             "relation_type": "citation",
@@ -8106,9 +7395,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8127,9 +7414,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8148,9 +7433,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8169,9 +7452,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:검역법#JO0029_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8190,9 +7471,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:선박의입항및출항등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_git_path": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -8211,9 +7490,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:선박의입항및출항등에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_git_path": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -8232,9 +7509,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:선박의입항및출항등에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_git_path": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "선박의 입항 및 출항 등에 관한 법률/법률/선박의 입항 및 출항 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -8253,9 +7528,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
-            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
           },
           {
             "relation_type": "citation",
@@ -8274,9 +7547,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
-            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
           },
           {
             "relation_type": "citation",
@@ -8295,9 +7566,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "law:전기통신사업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
-            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
           },
           {
             "relation_type": "delegation",
@@ -8316,11 +7585,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "admrul:감염병관리통합정보시스템등의관리기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json",
-            "target_git_path": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json"
           },
           {
             "relation_type": "delegation",
@@ -8346,9 +7611,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_03",
             "reference_id": "admrul:감염병관리통합정보시스템등의관리기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json",
-            "target_git_path": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "감염병관리통합정보시스템 등의 관리 기준/감염병관리통합정보시스템 등의 관리 기준.json"
           }
         ],
         "note": "[제목개정 2016.8.4][제25조의2에서 이동, 종전 제25조의3은 삭제 <2021.3.5>]",
@@ -8383,9 +7646,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:공항시설법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
-            "target_git_path": "공항시설법/법률/공항시설법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
           },
           {
             "relation_type": "citation",
@@ -8404,9 +7665,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:공항시설법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
-            "target_git_path": "공항시설법/법률/공항시설법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
           },
           {
             "relation_type": "citation",
@@ -8425,9 +7684,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:공항시설법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공항시설법/법률/공항시설법.json",
-            "target_git_path": "공항시설법/법률/공항시설법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공항시설법/법률/공항시설법.json"
           },
           {
             "relation_type": "citation",
@@ -8446,9 +7703,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json",
-            "target_git_path": "항만법/법률/항만법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "항만법/법률/항만법.json"
           },
           {
             "relation_type": "citation",
@@ -8467,9 +7722,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json",
-            "target_git_path": "항만법/법률/항만법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "항만법/법률/항만법.json"
           },
           {
             "relation_type": "citation",
@@ -8488,9 +7741,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:항만법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json",
-            "target_git_path": "항만법/법률/항만법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "항만법/법률/항만법.json"
           },
           {
             "relation_type": "citation",
@@ -8509,9 +7760,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8530,9 +7779,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#JO0029_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8551,9 +7798,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#JO0029_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8572,9 +7817,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8593,9 +7836,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#JO0029_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8614,9 +7855,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_04",
             "reference_id": "law:검역법#JO0029_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2016.8.4][제목개정 2021.3.5]",
@@ -8651,9 +7890,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_05",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8672,9 +7909,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_05",
             "reference_id": "law:검역법#JO0029_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8693,9 +7928,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_05",
             "reference_id": "law:검역법#JO0029_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -8730,9 +7963,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8751,9 +7982,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#JO0029_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8772,9 +8001,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8793,9 +8020,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8814,9 +8039,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8835,9 +8058,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8856,9 +8077,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0025_06",
             "reference_id": "law:검역법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "note": "[본조신설 2021.3.5]",
@@ -8893,9 +8112,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8914,9 +8131,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8935,9 +8150,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8956,9 +8169,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8977,9 +8188,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -8998,9 +8207,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0026",
             "reference_id": "law:검역법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -9034,9 +8241,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9055,9 +8260,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:검역법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9076,9 +8279,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:검역법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9097,9 +8298,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:구급차의기준및응급환자이송업의시설등기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "구급차의 기준 및 응급환자 이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자 이송업의 시설 등 기준에 관한 규칙.json",
-            "target_git_path": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "구급차의 기준 및 응급환자 이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자 이송업의 시설 등 기준에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -9118,9 +8317,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:구급차의기준및응급환자이송업의시설등기준에관한규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json",
-            "target_git_path": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json"
           },
           {
             "relation_type": "citation",
@@ -9139,9 +8336,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0027",
             "reference_id": "law:구급차의기준및응급환자이송업의시설등기준에관한규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json",
-            "target_git_path": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙/법률/구급차의 기준 및 응급환자이송업의 시설 등 기준에 관한 규칙.json"
           }
         ],
         "note": "[제목개정 2019.9.24]",
@@ -9176,9 +8371,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0028",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9197,9 +8390,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0028",
             "reference_id": "law:검역법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9218,9 +8409,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0028",
             "reference_id": "law:검역법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -9244,10 +8433,7 @@
             "target_unit": "FORM0038",
             "reference_id": "law:검역법시행규칙#FORM0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/서식/서식38_검역공무원증.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           }
         ],
         "revision_type": "타법개정",
@@ -9281,9 +8467,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "citation",
@@ -9302,9 +8486,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:검역법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json",
-            "target_git_path": "검역법/법률/검역법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/법률/검역법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -9328,10 +8510,7 @@
             "target_unit": "BYL0003",
             "reference_id": "law:검역법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/별표/별표3_수수료 징수기준 (제29조제1항 관련).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -9355,10 +8534,7 @@
             "target_unit": "BYL0003",
             "reference_id": "law:검역법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_path": "검역법/시행규칙/검역법 시행규칙.json",
-            "target_git_file_path": "검역법/시행규칙/별표/별표3_수수료 징수기준 (제29조제1항 관련).hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검역법/시행규칙/검역법 시행규칙.json"
           },
           {
             "relation_type": "citation",
@@ -9377,9 +8553,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:해외이주법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외이주법/법률/해외이주법.json",
-            "target_git_path": "해외이주법/법률/해외이주법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해외이주법/법률/해외이주법.json"
           },
           {
             "relation_type": "citation",
@@ -9398,9 +8572,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:해외이주법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외이주법/법률/해외이주법.json",
-            "target_git_path": "해외이주법/법률/해외이주법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해외이주법/법률/해외이주법.json"
           },
           {
             "relation_type": "citation",
@@ -9419,9 +8591,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:해외이주법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외이주법/법률/해외이주법.json",
-            "target_git_path": "해외이주법/법률/해외이주법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해외이주법/법률/해외이주법.json"
           },
           {
             "relation_type": "citation",
@@ -9440,9 +8610,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:국제입양에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_git_path": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -9461,9 +8629,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:국제입양에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_git_path": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -9482,9 +8648,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:국제입양에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_git_path": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -9503,9 +8667,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:국제입양에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_git_path": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제입양에 관한 법률/법률/국제입양에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -9524,9 +8686,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
-            "target_git_path": "출입국관리법/법률/출입국관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
           },
           {
             "relation_type": "citation",
@@ -9545,9 +8705,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:출입국관리법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
-            "target_git_path": "출입국관리법/법률/출입국관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
           },
           {
             "relation_type": "citation",
@@ -9566,9 +8724,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:아동복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동복지법/법률/아동복지법.json",
-            "target_git_path": "아동복지법/법률/아동복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "아동복지법/법률/아동복지법.json"
           },
           {
             "relation_type": "citation",
@@ -9587,9 +8743,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:아동복지법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동복지법/법률/아동복지법.json",
-            "target_git_path": "아동복지법/법률/아동복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "아동복지법/법률/아동복지법.json"
           },
           {
             "relation_type": "citation",
@@ -9608,9 +8762,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:아동복지법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동복지법/법률/아동복지법.json",
-            "target_git_path": "아동복지법/법률/아동복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "아동복지법/법률/아동복지법.json"
           },
           {
             "relation_type": "citation",
@@ -9629,9 +8781,7 @@
             "source_provision_id": "law:검역법시행규칙#JO0029",
             "reference_id": "law:아동복지법#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "아동복지법/법률/아동복지법.json",
-            "target_git_path": "아동복지법/법률/아동복지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "아동복지법/법률/아동복지법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -9687,7 +8837,7 @@
       "promulgation_date": "20130323",
       "promulgation_no": "00185",
       "addendum_key": "2013032300185",
-      "content": "부칙(보건복지부와 그 소속기관 직제 시행규칙) <제185호,2013.3.23>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 ③까지 생략\n④ 검역법 시행규칙 일부를 다음과 같이 개정한다.\n별표 3 제5호 중 \"「식품의약품안전청 및 질병관리본부 시험의뢰규칙」\"을 \"「질병관리본부 시험의뢰규칙」\"으로 한다.\n⑤부터 <22>까지 생략",
+      "content": "부칙(보건복지부와 그 소속기관 직제 시행규칙) <제185호,2013.3.23>\n제1조(시행일) 이 규칙은 공포한 날부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 ③까지 생략\n④ 검역법 시행규칙 일부를 다음과 같이 개정한다.\n별표 3 제5호 중 \"「식품의약품안전청 및 질병관리본부 시험의뢰규칙」\"을 \"「질병관리본부 시험의뢰규칙」\"으로 한다.\n⑤부터 <22>까지 생략",
       "provision_id": "law:검역법시행규칙#ADDENDUM",
       "is_future": false,
       "source_mst": "271105",
@@ -9735,7 +8885,7 @@
       "promulgation_date": "20141224",
       "promulgation_no": "00583",
       "addendum_key": "2014122400583",
-      "content": "부칙(화학물질관리법 시행규칙) <제583호,2014.12.24>\n제1조(시행일) 이 규칙은 2015년 1월 1일부터 시행한다.\n제2조 부터 제13조까지 생략\n제14조(다른 법령의 개정) ① 생략\n② 검역법 시행규칙 일부를 다음과 같이 개정한다.\n제12조제1항제1호를 다음과 같이 한다.\n1. 「화학물질관리법」 제32조, 같은 법 시행령 제12조 및 같은 법 시행규칙 제34조에 따른 유해화학물질관리자의 자격이 있는 사람 1명\n③부터 <20>까지 생략\n제15조 생략",
+      "content": "부칙(화학물질관리법 시행규칙) <제583호,2014.12.24>\n제1조(시행일) 이 규칙은 2015년 1월 1일부터 시행한다.\n제2조부터 제13조까지 생략\n제14조(다른 법령의 개정) ① 생략\n② 검역법 시행규칙 일부를 다음과 같이 개정한다.\n제12조제1항제1호를 다음과 같이 한다.\n1. 「화학물질관리법」 제32조, 같은 법 시행령 제12조 및 같은 법 시행규칙 제34조에 따른 유해화학물질관리자의 자격이 있는 사람 1명\n③부터 <20>까지 생략\n제15조 생략",
       "provision_id": "law:검역법시행규칙#ADDENDUM",
       "is_future": false,
       "source_mst": "271105",
@@ -11696,14 +10846,14 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 408,
+    "relations_total": 409,
     "by_category": {
       "법령": 405,
-      "행정규칙": 3
+      "행정규칙": 4
     },
     "by_relation_type": {
       "citation": 314,
-      "delegation": 3,
+      "delegation": 4,
       "appendix_ref": 51,
       "internal_ref": 40
     },
@@ -11729,6 +10879,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검역법/시행규칙/검역법 시행규칙.json",
-  "_schlpub_id_suffix": "시행규칙"
+  "git_path": "검역법/시행규칙/검역법 시행규칙.json"
 }
