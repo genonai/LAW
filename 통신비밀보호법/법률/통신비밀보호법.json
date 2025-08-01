@@ -38,14 +38,14 @@
       "부서단위": [
         {
           "부서연락처": "02-2110-3280",
-          "부서키": "425311",
+          "부서키": "430555",
           "부서명": "공공형사과",
           "소관부처명": "법무부",
           "소관부처코드": "1270000"
         },
         {
           "부서연락처": "044-202-6663, 6664",
-          "부서키": "425309",
+          "부서키": "430553",
           "부서명": "통신자원정책과",
           "소관부처명": "과학기술정보통신부",
           "소관부처코드": "1721000"
@@ -102,9 +102,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0002",
             "reference_id": "law:우편법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "delegation",
@@ -123,9 +121,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0002",
             "reference_id": "law:통신비밀보호법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "revision_type": "일부개정",
@@ -159,9 +155,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -180,9 +174,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:우편법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "citation",
@@ -201,9 +193,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:우편법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "citation",
@@ -222,9 +212,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:우편법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "citation",
@@ -243,9 +231,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:우편법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "citation",
@@ -264,9 +250,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:우편법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "우편법/법률/우편법.json",
-            "target_git_path": "우편법/법률/우편법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "우편법/법률/우편법.json"
           },
           {
             "relation_type": "citation",
@@ -285,9 +269,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json",
-            "target_git_path": "관세법/법률/관세법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "관세법/법률/관세법.json"
           },
           {
             "relation_type": "citation",
@@ -306,9 +288,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:관세법#JO0256",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json",
-            "target_git_path": "관세법/법률/관세법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "관세법/법률/관세법.json"
           },
           {
             "relation_type": "citation",
@@ -327,9 +307,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:관세법#JO0257",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json",
-            "target_git_path": "관세법/법률/관세법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "관세법/법률/관세법.json"
           },
           {
             "relation_type": "citation",
@@ -348,9 +326,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -369,9 +345,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형사소송법#JO0091",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -390,9 +364,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:군사법원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           },
           {
             "relation_type": "citation",
@@ -411,9 +383,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:군사법원법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           },
           {
             "relation_type": "citation",
@@ -432,9 +402,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -453,9 +421,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -474,9 +440,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -495,9 +459,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -516,9 +478,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:군에서의형의집행및군수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_git_path": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -537,9 +497,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:군에서의형의집행및군수용자의처우에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_git_path": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -558,9 +516,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -579,9 +535,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:군에서의형의집행및군수용자의처우에관한법률#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_git_path": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률/법률/군에서의 형의 집행 및 군수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -600,9 +554,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -621,9 +573,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:채무자회생및파산에관한법률#JO0484",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -642,9 +592,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json",
-            "target_git_path": "전파법/법률/전파법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전파법/법률/전파법.json"
           },
           {
             "relation_type": "citation",
@@ -663,9 +611,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0003",
             "reference_id": "law:전파법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json",
-            "target_git_path": "전파법/법률/전파법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전파법/법률/전파법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -699,9 +645,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0004",
             "reference_id": "law:통신비밀보호법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -735,9 +679,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -756,9 +698,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:형법#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -777,9 +717,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:군형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -798,9 +736,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
-            "target_git_path": "국가보안법/법률/국가보안법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
           },
           {
             "relation_type": "citation",
@@ -819,9 +755,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:군사기밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀 보호법/법률/군사기밀 보호법.json",
-            "target_git_path": "군사기밀 보호법/법률/군사기밀 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사기밀 보호법/법률/군사기밀 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -840,9 +774,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:군사기지및군사시설보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기지 및 군사시설 보호법/법률/군사기지 및 군사시설 보호법.json",
-            "target_git_path": "군사기지 및 군사시설 보호법/법률/군사기지 및 군사시설 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사기지 및 군사시설 보호법/법률/군사기지 및 군사시설 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -855,15 +787,13 @@
             "target_law_name": "마약류 관리에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "277145",
+            "target_mst": "286167",
             "target_url": "https://www.law.go.kr/법령/마약류 관리에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -876,15 +806,13 @@
             "target_law_name": "마약류 관리에 관한 법률",
             "target_article_no": "제58조",
             "target_article_title": "벌칙",
-            "target_mst": "277145",
+            "target_mst": "286167",
             "target_url": "https://www.law.go.kr/법령/마약류 관리에 관한 법률/제58조",
             "resolve_method": "pop",
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:마약류관리에관한법률#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -903,9 +831,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:폭력행위등처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -924,9 +850,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:폭력행위등처벌에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -945,9 +869,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:총포도검화약류등의안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
-            "target_git_path": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률/법률/총포ㆍ도검ㆍ화약류 등의 안전관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -966,9 +888,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -987,9 +907,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1008,9 +926,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1029,9 +945,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:통신비밀보호법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1050,9 +964,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:특정경제범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1071,9 +983,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:특정경제범죄가중처벌등에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정경제범죄 가중처벌 등에 관한 법률/법률/특정경제범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1092,9 +1002,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:국제상거래에있어서외국공무원에대한뇌물방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json",
-            "target_git_path": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json"
           },
           {
             "relation_type": "citation",
@@ -1113,9 +1021,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:국제상거래에있어서외국공무원에대한뇌물방지법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json",
-            "target_git_path": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국제상거래에 있어서 외국공무원에 대한 뇌물방지법/법률/국제상거래에 있어서 외국공무원에 대한 뇌물방지법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1134,9 +1040,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0005",
             "reference_id": "law:통신비밀보호법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[2020.3.24, 법률 제17090호에 의하여 2018.8.30 헌법재판소의 헌법불합치 결정과 관련하여 제12조의2를 신설함.]",
@@ -1171,9 +1075,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1192,9 +1094,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1213,9 +1113,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1234,9 +1132,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1255,9 +1151,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1276,9 +1170,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1297,9 +1189,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1318,9 +1208,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1339,9 +1227,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1360,9 +1246,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1381,9 +1265,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0093",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1402,9 +1284,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1423,9 +1303,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0095",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1444,9 +1322,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1465,9 +1341,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0097",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1486,9 +1360,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1507,9 +1379,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1528,9 +1398,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0100",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1549,9 +1417,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0101",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1570,9 +1436,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0107",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1591,9 +1455,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0108",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1612,9 +1474,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0111",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1633,9 +1493,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0112",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1654,9 +1512,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0113",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1675,9 +1531,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:형법#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1696,9 +1550,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -1717,9 +1569,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군형법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -1738,9 +1588,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군형법#JO0080",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -1759,9 +1607,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군형법#JO0081",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -1780,9 +1626,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
-            "target_git_path": "국가보안법/법률/국가보안법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
           },
           {
             "relation_type": "citation",
@@ -1801,9 +1645,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군사기밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀보호법/법률/군사기밀보호법.json",
-            "target_git_path": "군사기밀 보호법/법률/군사기밀 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사기밀보호법/법률/군사기밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1822,9 +1664,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0006",
             "reference_id": "law:군사기지및군사시설보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기지 및 군사시설보호법/법률/군사기지 및 군사시설보호법.json",
-            "target_git_path": "군사기지 및 군사시설 보호법/법률/군사기지 및 군사시설 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사기지 및 군사시설보호법/법률/군사기지 및 군사시설보호법.json"
           }
         ],
         "note": "[제목개정 2019.12.31][2019.12.31 법률 제16849호에 의하여 2010.12.28 헌법재판소에서 헌법불합치 결정된 이 조 제7항을 개정함.]",
@@ -1859,9 +1699,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:국민보호와공공안전을위한테러방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_git_path": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json"
           },
           {
             "relation_type": "citation",
@@ -1880,9 +1718,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:국민보호와공공안전을위한테러방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_git_path": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json"
           },
           {
             "relation_type": "citation",
@@ -1901,9 +1737,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:국민보호와공공안전을위한테러방지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_git_path": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민보호와 공공안전을 위한 테러방지법/법률/국민보호와 공공안전을 위한 테러방지법.json"
           },
           {
             "relation_type": "citation",
@@ -1922,9 +1756,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:군용전기통신법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군용전기통신법/법률/군용전기통신법.json",
-            "target_git_path": "군용전기통신법/법률/군용전기통신법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군용전기통신법/법률/군용전기통신법.json"
           },
           {
             "relation_type": "citation",
@@ -1943,9 +1775,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:군용전기통신법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군용전기통신법/법률/군용전기통신법.json",
-            "target_git_path": "군용전기통신법/법률/군용전기통신법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군용전기통신법/법률/군용전기통신법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1964,9 +1794,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1985,9 +1813,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2006,9 +1832,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2027,9 +1851,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2048,9 +1870,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2069,9 +1889,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2090,9 +1908,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2111,9 +1927,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2132,9 +1946,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "delegation",
@@ -2153,9 +1965,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2174,9 +1984,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0007",
             "reference_id": "law:통신비밀보호법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[제목개정 2019.12.31]",
@@ -2211,9 +2019,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2232,9 +2038,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2253,9 +2057,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2274,9 +2076,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2295,9 +2095,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2316,9 +2114,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2337,9 +2133,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2358,9 +2152,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2379,9 +2171,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2400,9 +2190,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2421,9 +2209,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2442,9 +2228,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2463,9 +2247,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2484,9 +2266,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2505,9 +2285,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0008",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[전문개정 2001.12.29]",
@@ -2542,9 +2320,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2563,9 +2339,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2584,9 +2358,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2605,9 +2377,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2626,9 +2396,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2647,9 +2415,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2668,9 +2434,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2689,9 +2453,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2710,9 +2472,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2731,9 +2491,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "delegation",
@@ -2752,9 +2510,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2773,9 +2529,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009",
             "reference_id": "law:통신비밀보호법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "revision_type": "일부개정",
@@ -2809,9 +2563,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2830,9 +2582,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2851,9 +2601,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2872,9 +2620,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -2893,9 +2639,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2914,9 +2658,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2935,9 +2677,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2956,9 +2696,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2977,9 +2715,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2998,9 +2734,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3019,9 +2753,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3040,9 +2772,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3061,9 +2791,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3082,9 +2810,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3103,9 +2829,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3124,9 +2848,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2001.12.29]",
@@ -3161,9 +2883,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3182,9 +2902,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3203,9 +2921,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0009_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2009.5.28]",
@@ -3240,9 +2956,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010",
             "reference_id": "law:통신비밀보호법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3261,9 +2975,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010",
             "reference_id": "law:통신비밀보호법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3282,9 +2994,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010",
             "reference_id": "law:통신비밀보호법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3303,9 +3013,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010",
             "reference_id": "law:통신비밀보호법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3324,9 +3032,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010",
             "reference_id": "law:통신비밀보호법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[제목개정 2025.1.31]",
@@ -3362,9 +3068,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_02",
             "reference_id": "law:통신비밀보호법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3383,9 +3087,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_02",
             "reference_id": "law:통신비밀보호법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[본조신설 2001.12.29]",
@@ -3420,9 +3122,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3441,9 +3141,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3462,9 +3160,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3483,9 +3179,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3504,9 +3198,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3525,9 +3217,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -3546,9 +3236,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_03",
             "reference_id": "law:통신비밀보호법시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[본조신설 2004.1.29]",
@@ -3583,9 +3271,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_04",
             "reference_id": "law:통신비밀보호법#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3604,9 +3290,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_04",
             "reference_id": "law:통신비밀보호법#JO0010_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2004.1.29]",
@@ -3641,9 +3325,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0010_05",
             "reference_id": "law:통신비밀보호법#JO0010_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2004.1.29]",
@@ -3678,9 +3360,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0011",
             "reference_id": "law:통신제한조치허가등규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신제한조치허가 등 규칙/법률/통신제한조치허가 등 규칙.json",
-            "target_git_path": "통신제한조치허가 등 규칙/법률/통신제한조치허가 등 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신제한조치허가 등 규칙/법률/통신제한조치허가 등 규칙.json"
           }
         ],
         "note": "[전문개정 2001.12.29]",
@@ -3715,9 +3395,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3736,9 +3414,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3757,9 +3433,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -3793,9 +3467,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3814,9 +3486,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3835,9 +3505,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3856,9 +3524,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3877,9 +3543,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3898,9 +3562,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3919,9 +3581,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3940,9 +3600,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3961,9 +3619,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3982,9 +3638,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0012_02",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2020.3.24]",
@@ -4019,9 +3673,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
-            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4040,9 +3692,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4061,9 +3711,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4082,9 +3730,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4103,9 +3749,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4124,9 +3768,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4145,9 +3787,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2001.12.29][제목개정 2005.5.26][2019.12.31 법률 제16849호에 의하여 2018.6.28 헌법재판소에서 헌법불합치 결정된 이 조를 개정함.]",
@@ -4182,9 +3822,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_02",
             "reference_id": "law:민사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4203,9 +3841,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_02",
             "reference_id": "law:민사소송법#JO0294",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사소송법/법률/민사소송법.json",
-            "target_git_path": "민사소송법/법률/민사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사소송법/법률/민사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4224,9 +3860,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_02",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4245,9 +3879,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_02",
             "reference_id": "law:형사소송법#JO0272",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "note": "[본조신설 2001.12.29]",
@@ -4282,9 +3914,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -4303,9 +3933,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4324,9 +3952,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4345,9 +3971,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4366,9 +3990,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4387,9 +4009,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#JO0245_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4408,9 +4028,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#JO0245_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4429,9 +4047,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4450,9 +4066,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4471,9 +4085,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4492,9 +4104,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -4513,9 +4123,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4534,9 +4142,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4555,9 +4161,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:고위공직자범죄수사처설치및운영에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_git_path": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고위공직자범죄수사처 설치 및 운영에 관한 법률/법률/고위공직자범죄수사처 설치 및 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4576,9 +4180,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4597,9 +4199,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#JO0245_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4618,9 +4218,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:형사소송법#JO0245_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4639,9 +4237,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4660,9 +4256,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4681,9 +4275,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_03",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2005.5.26][2019.12.31 법률 제16849호에 의하여 2018.6.28 헌법재판소에서 헌법불합치 결정된 이 조를 개정함.]",
@@ -4691,14 +4283,7 @@
         "changed": "N",
         "article_key": "0013031",
         "images": [],
-        "provision_id": "law:통신비밀보호법#JO0013_03",
-        "scheduled": [
-          {
-            "enforcement_date": "20261002",
-            "change": "개정",
-            "content": "제13조의3(범죄수사를 위한 통신사실 확인자료제공의 통지)\n① 검사 또는 사법경찰관은 제13조에 따라 통신사실 확인자료제공을 받은 사건에 관하여 다음 각 호의 구분에 따라 정한 기간 내에 통신사실 확인자료제공을 받은 사실과 제공요청기관 및 그 기간 등을 통신사실 확인자료제공의 대상이 된 당사자에게 서면으로 통지하여야 한다. <개정 2019.12.31, 2021.1.5, 2021.3.16, 2026.8.4>\n1. 공소를 제기하거나, 공소제기ㆍ검찰송치를 하지 아니하는 처분(기소중지ㆍ참고인중지 또는 수사중지 결정은 제외한다) 또는 입건을 하지 아니하는 처분을 한 경우: 그 처분을 한 날부터 30일 이내. 다만, 다음 각 목의 어느 하나에 해당하는 경우 그 통보를 받은 날부터 30일 이내\n가. 수사처검사가 「고위공직자범죄수사처 설치 및 운영에 관한 법률」 제26조제1항에 따라 서울중앙지방검찰청 소속 검사에게 관계 서류와 증거물을 송부한 사건에 관하여 이를 처리하는 검사로부터 공소를 제기하거나 제기하지 아니하는 처분(기소중지 또는 참고인중지 결정은 제외한다)의 통보를 받은 경우\n나. 사법경찰관이 「형사소송법」 제245조의5제1항제1호에 따라 검사에게 송치한 사건으로서 검사로부터 공소를 제기하거나 제기하지 아니하는 처분(기소중지 또는 참고인중지 결정은 제외한다)의 통보를 받은 경우\n2. 기소중지ㆍ참고인중지 또는 수사중지 결정을 한 경우: 그 결정을 한 날부터 1년(제6조제8항 각 호의 어느 하나에 해당하는 범죄인 경우에는 3년)이 경과한 때부터 30일 이내. 다만, 다음 각 목의 어느 하나에 해당하는 경우 그 통보를 받은 날로부터 1년(제6조제8항 각 호의 어느 하나에 해당하는 범죄인 경우에는 3년)이 경과한 때부터 30일 이내\n가. 수사처검사가 「고위공직자범죄수사처 설치 및 운영에 관한 법률」 제26조제1항에 따라 서울중앙지방검찰청 소속 검사에게 관계 서류와 증거물을 송부한 사건에 관하여 이를 처리하는 검사로부터 기소중지 또는 참고인중지 결정의 통보를 받은 경우\n나. 사법경찰관이 「형사소송법」 제245조의5제1항제1호에 따라 검사에게 송치한 사건으로서 검사로부터 기소중지 또는 참고인중지 결정의 통보를 받은 경우\n3. 수사가 진행 중인 경우: 통신사실 확인자료제공을 받은 날부터 1년(제6조제8항 각 호의 어느 하나에 해당하는 범죄인 경우에는 3년)이 경과한 때부터 30일 이내\n② 제1항제2호 및 제3호에도 불구하고 다음 각 호의 어느 하나에 해당하는 사유가 있는 경우에는 그 사유가 해소될 때까지 같은 항에 따른 통지를 유예할 수 있다. <신설 2019.12.31>\n1. 국가의 안전보장, 공공의 안녕질서를 위태롭게 할 우려가 있는 경우\n2. 피해자 또는 그 밖의 사건관계인의 생명이나 신체의 안전을 위협할 우려가 있는 경우\n3. 증거인멸, 도주, 증인 위협 등 공정한 사법절차의 진행을 방해할 우려가 있는 경우\n4. 피의자, 피해자 또는 그 밖의 사건관계인의 명예나 사생활을 침해할 우려가 있는 경우\n③ 검사 또는 사법경찰관은 제2항에 따라 통지를 유예하려는 경우에는 소명자료를 첨부하여 미리 관할 지방검찰청 검사장의 승인을 받아야 한다. 다만, 수사처검사가 제2항에 따라 통지를 유예하려는 경우에는 소명자료를 첨부하여 미리 수사처장의 승인을 받아야 한다. <신설 2019.12.31, 2021.1.5>\n④ 검사 또는 사법경찰관은 제2항 각 호의 사유가 해소된 때에는 그 날부터 30일 이내에 제1항에 따른 통지를 하여야 한다. <신설 2019.12.31>\n⑤ 제1항 또는 제4항에 따라 검사 또는 사법경찰관으로부터 통신사실 확인자료제공을 받은 사실 등을 통지받은 당사자는 해당 통신사실 확인자료제공을 요청한 사유를 알려주도록 서면으로 신청할 수 있다. <신설 2019.12.31>\n⑥ 제5항에 따른 신청을 받은 검사 또는 사법경찰관은 제2항 각 호의 어느 하나에 해당하는 경우를 제외하고는 그 신청을 받은 날부터 30일 이내에 해당 통신사실 확인자료제공 요청의 사유를 서면으로 통지하여야 한다. <신설 2019.12.31>\n⑦제1항부터 제5항까지에서 규정한 사항 외에 통신사실 확인자료제공을 받은 사실 등에 관하여는 제9조의2(제3항은 제외한다)를 준용한다. <개정 2019.12.31>"
-          }
-        ]
+        "provision_id": "law:통신비밀보호법#JO0013_03"
       },
       {
         "article_no": "제13조의4",
@@ -4725,9 +4310,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4746,9 +4329,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4767,9 +4348,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4788,9 +4367,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4809,9 +4386,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4830,9 +4405,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4851,9 +4424,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4872,9 +4443,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_04",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2005.5.26]",
@@ -4909,9 +4478,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_05",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4930,9 +4497,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_05",
             "reference_id": "law:통신비밀보호법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4951,9 +4516,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_05",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4972,9 +4535,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0013_05",
             "reference_id": "law:통신비밀보호법#JO0013_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2005.5.26]",
@@ -5009,9 +4570,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5030,9 +4589,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5051,9 +4608,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5072,9 +4627,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5093,9 +4646,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5114,9 +4665,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5135,9 +4684,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5156,9 +4703,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5177,9 +4722,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0014",
             "reference_id": "law:통신비밀보호법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -5213,9 +4756,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015",
             "reference_id": "law:통신비밀보호법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "delegation",
@@ -5234,9 +4775,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015",
             "reference_id": "law:통신비밀보호법시행령#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[전문개정 2001.12.29]",
@@ -5271,9 +4810,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_02",
             "reference_id": "law:통신비밀보호법시행령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[본조신설 2005.5.26]",
@@ -5308,9 +4845,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_03",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5329,9 +4864,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_03",
             "reference_id": "law:통신비밀보호법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[본조신설 2024.1.23]",
@@ -5366,9 +4899,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_04",
             "reference_id": "law:통신비밀보호법#JO0015_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5387,9 +4918,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_04",
             "reference_id": "law:통신비밀보호법#JO0015_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "delegation",
@@ -5408,9 +4937,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0015_04",
             "reference_id": "law:통신비밀보호법시행령#JO0041_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_git_path": "통신비밀보호법/시행령/통신비밀보호법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/시행령/통신비밀보호법 시행령.json"
           }
         ],
         "note": "[본조신설 2024.1.23]",
@@ -5445,9 +4972,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5466,9 +4991,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5487,9 +5010,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5508,9 +5029,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5529,9 +5048,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5550,9 +5067,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5571,9 +5086,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5592,9 +5105,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0013_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5613,9 +5124,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5634,9 +5143,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5655,9 +5162,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0013_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5676,9 +5181,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5697,9 +5200,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5718,9 +5219,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5739,9 +5238,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5760,9 +5257,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0016",
             "reference_id": "law:통신비밀보호법#JO0013_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[전문개정 2001.12.29]",
@@ -5797,9 +5292,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5818,9 +5311,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5839,9 +5330,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5860,9 +5349,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5881,9 +5368,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5902,9 +5387,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5923,9 +5406,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5944,9 +5425,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5965,9 +5444,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5986,9 +5463,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6007,9 +5482,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6028,9 +5501,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6049,9 +5520,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6070,9 +5539,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6091,9 +5558,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6112,9 +5577,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6133,9 +5596,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6154,9 +5615,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6175,9 +5634,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6196,9 +5653,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6217,9 +5672,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6238,9 +5691,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6259,9 +5710,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6280,9 +5729,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0015_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6301,9 +5748,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6322,9 +5767,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6343,9 +5786,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0017",
             "reference_id": "law:통신비밀보호법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "note": "[전문개정 2001.12.29]",
@@ -6380,9 +5821,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0018",
             "reference_id": "law:통신비밀보호법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6401,9 +5840,7 @@
             "source_provision_id": "law:통신비밀보호법#JO0018",
             "reference_id": "law:통신비밀보호법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -6894,19 +6331,6 @@
       "source_version_uid": "000036:268703:20250801",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250801"
-    },
-    {
-      "promulgation_date": "20260804",
-      "promulgation_no": "21857",
-      "addendum_key": "2026080421857",
-      "content": "부칙(형사소송법) <제21857호,2026.8.4>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. 다만, 다음 각 호의 개정규정은 해당 각 호의 구분에 따른 날부터 시행한다.\n1. 제197조의4, 제260조제1항(지방공소청에 관한 부분은 제외한다), 제261조(지방공소청에 관한 부분은 제외한다) 및 부칙 제15조에 따라 개정되는 법률(제260조제1항의 개정규정과 관련된 부분으로 한정한다)의 개정규정: 공포 후 6개월이 경과한 날\n2. 및 3. 생략\n제2조부터 제10조까지 생략\n제11조(재정신청 확대에 관한 적용례) 제260조제1항제2호부터 제6호까지의 개정규정은 같은 개정규정 시행 이후 검사로부터 공소를 제기하지 아니한다는 통지를 받은 고발인부터 적용한다.\n제12조 생략\n제13조(계속 중인 재정신청 사건의 관할에 대한 경과조치) 이 법 시행 당시 법원에 계속 중인 재정신청 사건의 관할에 대해서는 제260조제1항 본문의 개정규정에도 불구하고 종전의 규정을 적용한다.\n제14조 생략\n제15조(다른 법률의 개정) ①부터 <20>까지 생략\n<21> 통신비밀보호법 일부를 다음과 같이 개정한다.\n제13조의3제1항제1호나목 및 같은 항 제2호나목 중 \"「형사소송법」 제245조의5제1호\"를 각각 \"「형사소송법」 제245조의5제1항제1호\"로 한다.\n<22>부터 <25>까지 생략",
-      "provision_id": "law:통신비밀보호법#ADDENDUM",
-      "is_future": true,
-      "source_mst": "288621",
-      "source_version_uid": "000036:288621:20261002",
-      "source_revision_type": "타법개정",
-      "version_enforcement_date": "20261002",
-      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -6942,11 +6366,8 @@
   "provision_id": "law:통신비밀보호법#DOC",
   "addendum_provision_id": "law:통신비밀보호법#ADDENDUM",
   "amendment_provision_id": "law:통신비밀보호법#AMENDMENT",
-  "future_enforcement_dates": [
-    "20261002"
-  ],
-  "has_future": true,
-  "version_count": 2,
-  "git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-  "_schlpub_id_suffix": "법률"
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "통신비밀보호법/법률/통신비밀보호법.json"
 }
