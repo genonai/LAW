@@ -35,14 +35,14 @@
       "부서단위": [
         {
           "부서연락처": "044-203-6497",
-          "부서키": "398951",
+          "부서키": "430073",
           "부서명": "교원정책과-초중등교원",
           "소관부처명": "교육부",
           "소관부처코드": "1342000"
         },
         {
           "부서연락처": "044-203-6938",
-          "부서키": "398949",
+          "부서키": "430071",
           "부서명": "대학정책과",
           "소관부처명": "교육부",
           "소관부처코드": "1342000"
@@ -85,9 +85,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:교육공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -106,9 +104,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:교육공무원법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -127,9 +123,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:교육공무원법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -148,9 +142,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -169,9 +161,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -190,9 +180,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -211,9 +199,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0001",
             "reference_id": "law:지방공무원법#JO0069_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "note": "[전문개정 2019.2.26]",
@@ -242,15 +228,13 @@
             "target_law_name": "고등교육법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283297",
+            "target_mst": "283883",
             "target_url": "https://www.law.go.kr/법령/고등교육법",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0001_02",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
-            "target_git_path": "고등교육법/법률/고등교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
           },
           {
             "relation_type": "citation",
@@ -263,15 +247,13 @@
             "target_law_name": "고등교육법",
             "target_article_no": "제2조",
             "target_article_title": "학교의 종류",
-            "target_mst": "283297",
+            "target_mst": "283883",
             "target_url": "https://www.law.go.kr/법령/고등교육법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0001_02",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
-            "target_git_path": "고등교육법/법률/고등교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
           }
         ],
         "note": "[본조신설 1988.5.10]",
@@ -306,9 +288,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -327,9 +307,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -348,9 +326,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -369,9 +345,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:지방공무원법#JO0069_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -390,9 +364,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:교육공무원징계령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -411,9 +383,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:교육공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -432,9 +402,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:교육공무원법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -453,9 +421,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:교육공무원법#JO0051",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
-            "target_git_path": "교육공무원법/법률/교육공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -474,9 +440,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -495,9 +459,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -516,9 +478,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -537,9 +497,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -558,9 +516,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -579,9 +535,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -594,15 +548,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "285627",
+            "target_mst": "284321",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -615,15 +567,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제10조",
             "target_article_title": "행정시의 폐지ㆍ설치ㆍ분리ㆍ합병 등",
-            "target_mst": "285627",
+            "target_mst": "284321",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제10조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           },
           {
             "relation_type": "citation",
@@ -636,15 +586,13 @@
             "target_law_name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
             "target_article_no": "제10조",
             "target_article_title": "행정시의 폐지ㆍ설치ㆍ분리ㆍ합병 등",
-            "target_mst": "285627",
+            "target_mst": "284321",
             "target_url": "https://www.law.go.kr/법령/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/제10조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0002",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -686,15 +634,13 @@
             "target_law_name": "초ㆍ중등교육법 시행령",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "286321",
+            "target_mst": "289439",
             "target_url": "https://www.law.go.kr/법령/초ㆍ중등교육법 시행령",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:초중등교육법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
-            "target_git_path": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -707,15 +653,13 @@
             "target_law_name": "초ㆍ중등교육법 시행령",
             "target_article_no": "제59조",
             "target_article_title": "위원의 선출 등",
-            "target_mst": "286321",
+            "target_mst": "289439",
             "target_url": "https://www.law.go.kr/법령/초ㆍ중등교육법 시행령/제59조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:초중등교육법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
-            "target_git_path": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "초ㆍ중등교육법/시행령/초ㆍ중등교육법 시행령.json"
           },
           {
             "relation_type": "citation",
@@ -734,9 +678,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -755,9 +697,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -776,9 +716,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -797,9 +735,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -818,9 +754,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -839,9 +773,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:지방교육행정기관의행정기구와정원기준등에관한규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_git_path": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방교육행정기관의 행정기구와 정원기준 등에 관한 규정/법률/지방교육행정기관의 행정기구와 정원기준 등에 관한 규정.json"
           },
           {
             "relation_type": "citation",
@@ -860,9 +792,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -881,9 +811,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -896,15 +824,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -917,15 +843,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -938,15 +862,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -980,9 +902,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1001,9 +921,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1022,9 +940,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1043,9 +959,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1064,9 +978,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1085,9 +997,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1106,9 +1016,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1127,9 +1035,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1148,9 +1054,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1169,9 +1073,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0004_02",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2015.10.6]",
@@ -1225,10 +1127,7 @@
             "target_unit": "FORM0001",
             "reference_id": "law:교육공무원징계령#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식1_교육공무원 징계 의결 또는 징계부가금 부과 의결 요구(신청)서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1252,10 +1151,7 @@
             "target_unit": "FORM0002",
             "reference_id": "law:교육공무원징계령#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식2_확인서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -1274,9 +1170,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1295,9 +1189,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1316,9 +1208,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1337,9 +1227,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1358,9 +1246,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1379,9 +1265,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1400,9 +1284,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1421,9 +1303,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1447,10 +1327,7 @@
             "target_unit": "FORM0002_02",
             "reference_id": "law:교육공무원징계령#FORM0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식2의2_성폭력 또는 성희롱 비위 사건에 대한 전문가 의견서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -1469,9 +1346,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1490,9 +1365,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1511,9 +1384,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1532,9 +1403,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0083_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1553,9 +1422,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1574,9 +1441,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1595,9 +1460,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1616,9 +1479,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1637,9 +1498,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1658,9 +1517,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1679,9 +1536,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1700,9 +1555,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1721,9 +1574,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1742,9 +1593,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1763,9 +1612,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1784,9 +1631,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0006",
             "reference_id": "law:지방공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "note": "[제목개정 2019.2.26]",
@@ -1816,15 +1661,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1837,15 +1680,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1858,15 +1699,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1885,9 +1724,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1906,9 +1743,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1927,9 +1762,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1948,9 +1781,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0007",
             "reference_id": "law:지방공무원법#JO0073",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "note": "[제목개정 2019.2.26]",
@@ -1990,10 +1821,7 @@
             "target_unit": "FORM0003",
             "reference_id": "law:교육공무원징계령#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식3_출석통지서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[제목개정 2019.2.26]",
@@ -2028,9 +1856,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2049,9 +1875,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2075,10 +1899,7 @@
             "target_unit": "FORM0003_02",
             "reference_id": "law:교육공무원징계령#FORM0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식3의2_의견서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2097,9 +1918,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2118,9 +1937,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2139,9 +1956,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2160,9 +1975,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0009",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           }
         ],
         "revision_type": "일부개정",
@@ -2216,10 +2029,7 @@
             "target_unit": "FORM0003_03",
             "reference_id": "law:교육공무원징계령#FORM0003_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식3의3_우선심사 신청서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2019.2.26][제9조의2에서 이동 <2019.8.6>]",
@@ -2259,10 +2069,7 @@
             "target_unit": "FORM0004",
             "reference_id": "law:교육공무원징계령#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식4_징계 또는 징계부가금 의결서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2281,9 +2088,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2302,9 +2107,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2323,9 +2126,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2344,9 +2145,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2365,9 +2164,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2386,9 +2183,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2407,9 +2202,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0010",
             "reference_id": "law:교육공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[전문개정 1974.12.12][제목개정 2019.2.26]",
@@ -2533,9 +2326,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0015_02",
             "reference_id": "law:교육공무원징계양정등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계양정 등에 관한 규칙/법률/교육공무원 징계양정 등에 관한 규칙.json",
-            "target_git_path": "교육공무원 징계양정 등에 관한 규칙/법률/교육공무원 징계양정 등에 관한 규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계양정 등에 관한 규칙/법률/교육공무원 징계양정 등에 관한 규칙.json"
           }
         ],
         "note": "[본조신설 2019.2.26]",
@@ -2590,10 +2381,7 @@
             "target_unit": "FORM0005",
             "reference_id": "law:교육공무원징계령#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식5_(징계처분, 징계부가금 부과처분) 사유설명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2612,9 +2400,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -2633,9 +2419,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -2648,15 +2432,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2669,15 +2451,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2690,15 +2470,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2717,9 +2495,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:공무원징계령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2738,9 +2514,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2759,9 +2533,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2780,9 +2552,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2801,9 +2571,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2822,9 +2590,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2843,9 +2609,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2864,9 +2628,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:지방공무원법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2885,9 +2647,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0017",
             "reference_id": "law:지방공무원법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2911,10 +2671,7 @@
             "target_unit": "FORM0005_02",
             "reference_id": "law:교육공무원징계령#FORM0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식5의2_징계처분결과 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[제목개정 2019.2.26]",
@@ -2993,9 +2750,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3014,9 +2769,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3035,9 +2788,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3056,9 +2807,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3077,9 +2826,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:지방공무원법#JO0062",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3098,9 +2845,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020",
             "reference_id": "law:지방공무원법#JO0062",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "note": "[전문개정 1998.8.11][제목개정 2019.2.26]",
@@ -3135,9 +2880,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3156,9 +2899,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3177,9 +2918,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3198,9 +2937,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3219,9 +2956,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3240,9 +2975,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3261,9 +2994,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0020_02",
             "reference_id": "law:교육공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[본조신설 1982.5.8]",
@@ -3303,10 +3034,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:교육공무원징계령#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_file_path": "교육공무원 징계령/법률/서식/서식6_징계 또는 징계부가금 처리 대장.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[본조신설 1998.8.11][제목개정 2019.2.26]",
@@ -3341,9 +3069,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0021",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3362,9 +3088,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0021",
             "reference_id": "law:지방공무원법#JO0069_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           }
         ],
         "note": "[전문개정 1997.2.25]",
@@ -3429,9 +3153,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3450,9 +3172,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3471,9 +3191,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3492,9 +3210,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3513,9 +3229,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3534,9 +3248,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3555,9 +3267,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3576,9 +3286,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3597,9 +3305,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0009_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3618,9 +3324,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3639,9 +3343,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3660,9 +3362,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3681,9 +3381,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3702,9 +3400,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3723,9 +3419,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3744,9 +3438,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3765,9 +3457,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3786,9 +3476,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3807,9 +3495,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3828,9 +3514,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3849,9 +3533,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3870,9 +3552,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3891,9 +3571,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3912,9 +3590,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3933,9 +3609,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3954,9 +3628,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3975,9 +3647,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3996,9 +3666,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4017,9 +3685,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4038,9 +3704,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4059,9 +3723,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4080,9 +3742,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4101,9 +3761,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4122,9 +3780,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4143,9 +3799,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4164,9 +3818,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4185,9 +3837,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4206,9 +3856,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4227,9 +3875,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4248,9 +3894,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4269,9 +3913,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4290,9 +3932,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4311,9 +3951,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4332,9 +3970,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4353,9 +3989,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4374,9 +4008,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4395,9 +4027,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4416,9 +4046,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4437,9 +4065,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4458,9 +4084,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0024",
             "reference_id": "law:교육공무원징계령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2019.2.26]",
@@ -4495,9 +4119,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0025",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4516,9 +4138,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0025",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[본조신설 2023.3.28]",
@@ -4568,9 +4188,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4589,9 +4207,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4610,9 +4226,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4631,9 +4245,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4652,9 +4264,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4673,9 +4283,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4694,9 +4302,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4715,9 +4321,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4736,9 +4340,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4757,9 +4359,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0009_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4778,9 +4378,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4799,9 +4397,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4820,9 +4416,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4841,9 +4435,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4862,9 +4454,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4883,9 +4473,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4904,9 +4492,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4925,9 +4511,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4946,9 +4530,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4967,9 +4549,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4988,9 +4568,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5009,9 +4587,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5030,9 +4606,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5051,9 +4625,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5072,9 +4644,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5093,9 +4663,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5114,9 +4682,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5135,9 +4701,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5156,9 +4720,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5177,9 +4739,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5198,9 +4758,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5219,9 +4777,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5240,9 +4796,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5261,9 +4815,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5282,9 +4834,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5303,9 +4853,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5324,9 +4872,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5345,9 +4891,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5366,9 +4910,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5387,9 +4929,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5408,9 +4948,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5429,9 +4967,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5450,9 +4986,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5471,9 +5005,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5492,9 +5024,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -5513,9 +5043,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5534,9 +5062,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5555,9 +5081,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5576,9 +5100,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5597,9 +5119,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5618,9 +5138,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5639,9 +5157,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5660,9 +5176,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5681,9 +5195,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5702,9 +5214,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5723,9 +5233,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5744,9 +5252,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0073",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5765,9 +5271,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5786,9 +5290,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5807,9 +5309,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5828,9 +5328,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5849,9 +5347,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5870,9 +5366,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5891,9 +5385,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5912,9 +5404,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5933,9 +5423,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5954,9 +5442,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5975,9 +5461,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -5996,9 +5480,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6017,9 +5499,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6038,9 +5518,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6059,9 +5537,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6080,9 +5556,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6101,9 +5575,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6122,9 +5594,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6143,9 +5613,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6164,9 +5632,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -6185,9 +5651,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6206,9 +5670,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6227,9 +5689,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6248,9 +5708,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6269,9 +5727,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6290,9 +5746,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:지방공무원법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
-            "target_git_path": "지방공무원법/법률/지방공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6311,9 +5765,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6332,9 +5784,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -6353,9 +5803,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6374,9 +5822,7 @@
             "source_provision_id": "law:교육공무원징계령#JO0027",
             "reference_id": "law:교육공무원징계령#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "교육공무원 징계령/법률/교육공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2023.3.28]",
@@ -6645,7 +6091,7 @@
       "promulgation_date": "20080229",
       "promulgation_no": "20740",
       "addendum_key": "2008022920740",
-      "content": "부칙(교육과학기술부와 그 소속기관 직제) <제20740호,2008.2.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조 부터 제6조까지 생략\n제7조(다른 법령의 개정) ① 부터 ⑫ 까지 생략\n⑬ 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제3항제5호 중 \"교육인적자원부\"를 \"교육과학기술부\"로 한다.\n제3조제1항 중 \"교육인적자원부\"를 \"교육과학기술부\"로 하고, 같은 조 제3항 중 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n제4조제2항 중 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로, \"교육인적자원부차관\"을 \"교육과학기술부차관\"으로, \"법무부차관ㆍ행정자치부차관ㆍ과학기술부차관ㆍ문화관광부차관\"을 \"법무부차관ㆍ행정안전부차관ㆍ문화체육관광부차관\"으로 하고, 같은 조 제3항 중 \"교육인적자원부차관\"을 \"교육과학기술부차관\"으로, \"교육인적자원부\"을 \"교육과학기술부\"으로, \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n제13조제4항 후단, 제14조, 제24조 후단 중 각각 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n⑭ 부터 <102> 까지 생략",
+      "content": "부칙(교육과학기술부와 그 소속기관 직제) <제20740호,2008.2.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다.\n제2조부터 제6조까지 생략\n제7조(다른 법령의 개정) ① 부터 ⑫ 까지 생략\n⑬ 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제3항제5호 중 \"교육인적자원부\"를 \"교육과학기술부\"로 한다.\n제3조제1항 중 \"교육인적자원부\"를 \"교육과학기술부\"로 하고, 같은 조 제3항 중 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n제4조제2항 중 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로, \"교육인적자원부차관\"을 \"교육과학기술부차관\"으로, \"법무부차관ㆍ행정자치부차관ㆍ과학기술부차관ㆍ문화관광부차관\"을 \"법무부차관ㆍ행정안전부차관ㆍ문화체육관광부차관\"으로 하고, 같은 조 제3항 중 \"교육인적자원부차관\"을 \"교육과학기술부차관\"으로, \"교육인적자원부\"을 \"교육과학기술부\"으로, \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n제13조제4항 후단, 제14조, 제24조 후단 중 각각 \"교육인적자원부장관\"을 \"교육과학기술부장관\"으로 한다.\n⑭ 부터 <102> 까지 생략",
       "provision_id": "law:교육공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "280455",
@@ -6717,7 +6163,7 @@
       "promulgation_date": "20130323",
       "promulgation_no": "24423",
       "addendum_key": "2013032324423",
-      "content": "부칙(교육부와 그 소속기관 직제) <제24423호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 부터 제6조까지 생략\n제7조(다른 법령의 개정) ①부터 <16>까지 생략\n<17> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제3항제5호 및 제3조제1항 중 \"교육과학기술부\"를 각각 \"교육부\"로 한다.\n제3조제3항, 제4조제2항, 제13조제4항 후단, 제14조 및 제24조 후단 중 \"교육과학기술부장관\"을 각각 \"교육부장관\"으로 한다.\n제4조제2항 중 \"교육과학기술부 제1차관\"을 \"교육부차관\"으로, \"교육과학기술부 제2차관\"을 \"미래창조과학부 제1차관\"으로, \"행정안전부 제1차관\"을 \"안전행정부 제1차관\"으로 한다.\n제4조제3항 중 \"교육과학기술부 제1차관\"을 \"교육부차관\"으로, \"교육과학기술부 소속\"을 \"교육부 소속\"으로, \"교육과학기술부장관\"을 \"교육부장관\"으로 한다.\n<18>부터 <105>까지 생략",
+      "content": "부칙(교육부와 그 소속기관 직제) <제24423호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법령의 개정) ①부터 <16>까지 생략\n<17> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제3항제5호 및 제3조제1항 중 \"교육과학기술부\"를 각각 \"교육부\"로 한다.\n제3조제3항, 제4조제2항, 제13조제4항 후단, 제14조 및 제24조 후단 중 \"교육과학기술부장관\"을 각각 \"교육부장관\"으로 한다.\n제4조제2항 중 \"교육과학기술부 제1차관\"을 \"교육부차관\"으로, \"교육과학기술부 제2차관\"을 \"미래창조과학부 제1차관\"으로, \"행정안전부 제1차관\"을 \"안전행정부 제1차관\"으로 한다.\n제4조제3항 중 \"교육과학기술부 제1차관\"을 \"교육부차관\"으로, \"교육과학기술부 소속\"을 \"교육부 소속\"으로, \"교육과학기술부장관\"을 \"교육부장관\"으로 한다.\n<18>부터 <105>까지 생략",
       "provision_id": "law:교육공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "280455",
@@ -6729,7 +6175,7 @@
       "promulgation_date": "20141119",
       "promulgation_no": "25751",
       "addendum_key": "2014111925751",
-      "content": "부칙(행정자치부와 그 소속기관 직제) <제25751호,2014.11.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <49>까지 생략\n<50> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항 중 \"안전행정부 제1차관, 문화체육관광부 제1차관\"을 \"문화체육관광부 제1차관, 인사혁신처차장\"으로 한다.\n<51>부터 <418>까지 생략",
+      "content": "부칙(행정자치부와 그 소속기관 직제) <제25751호,2014.11.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <49>까지 생략\n<50> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항 중 \"안전행정부 제1차관, 문화체육관광부 제1차관\"을 \"문화체육관광부 제1차관, 인사혁신처차장\"으로 한다.\n<51>부터 <418>까지 생략",
       "provision_id": "law:교육공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "280455",
@@ -6789,7 +6235,7 @@
       "promulgation_date": "20170726",
       "promulgation_no": "28211",
       "addendum_key": "2017072628211",
-      "content": "부칙(행정안전부와 그 소속기관 직제) <제28211호,2017.7.26>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제8조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제7조까지 생략\n제8조(다른 법령의 개정) ①부터 <37>까지 생략\n<38> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항 중 \"미래창조과학부\"를 \"과학기술정보통신부\"로 한다.\n<39>부터 <388>까지 생략",
+      "content": "부칙(행정안전부와 그 소속기관 직제) <제28211호,2017.7.26>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제8조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제7조까지 생략\n제8조(다른 법령의 개정) ①부터 <37>까지 생략\n<38> 교육공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항 중 \"미래창조과학부\"를 \"과학기술정보통신부\"로 한다.\n<39>부터 <388>까지 생략",
       "provision_id": "law:교육공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "280455",
@@ -7302,6 +6748,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "교육공무원 징계령/법률/교육공무원 징계령.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "교육공무원 징계령/법률/교육공무원 징계령.json"
 }
