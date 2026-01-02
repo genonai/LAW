@@ -1095,6 +1095,25 @@
             "delegation_type": "위임행정규칙",
             "target_category": "행정규칙",
             "source_article_no": "제14조",
+            "source_clause": "제14조",
+            "link_text": "보건복지부장관이 정하여 고시한다",
+            "line_text": "②제1항의 규정에 의한 표시방법 등에 관하여 필요한 사항은 보건복지부장관이 정하여 고시한다. <개정 2008.2.29, 2010.3.15>",
+            "target_law_name": "우수한약 관리 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/우수한약 관리 등에 관한 규정",
+            "resolve_method": "render",
+            "source_provision_id": "law:한의약육성법시행령#JO0014",
+            "reference_id": "admrul:우수한약관리등에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "우수한약 관리 등에 관한 규정/우수한약 관리 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제14조",
             "source_clause": "제14조제2항",
             "link_text": "보건복지부장관이 정하여 고시한다",
             "line_text": "표시방법 등에 관하여 필요한 사항은 보건복지부장관이 정하여 고시한다.",
@@ -1361,15 +1380,15 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 43,
+    "relations_total": 44,
     "by_category": {
       "법령": 40,
-      "행정규칙": 3
+      "행정규칙": 4
     },
     "by_relation_type": {
       "citation": 38,
       "internal_ref": 2,
-      "delegation": 3
+      "delegation": 4
     },
     "articles_total": 18,
     "articles_with_relations": 11,
