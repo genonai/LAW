@@ -37,7 +37,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "111",
-        "부서키": "389769",
+        "부서키": "431083",
         "부서명": "국가정보원",
         "소관부처명": "국가정보원",
         "소관부처코드": "1030000"
@@ -121,9 +121,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -142,9 +140,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:군형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군형법/법률/군형법.json",
-            "target_git_path": "군형법/법률/군형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군형법/법률/군형법.json"
           },
           {
             "relation_type": "citation",
@@ -163,9 +159,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:군사기밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사기밀 보호법/법률/군사기밀 보호법.json",
-            "target_git_path": "군사기밀 보호법/법률/군사기밀 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사기밀 보호법/법률/군사기밀 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -184,9 +178,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
-            "target_git_path": "국가보안법/법률/국가보안법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
           },
           {
             "relation_type": "citation",
@@ -205,9 +197,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:행정기관소속위원회의설치운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
-            "target_git_path": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "행정기관 소속 위원회의 설치ㆍ운영에 관한 법률/법률/행정기관 소속 위원회의 설치ㆍ운영에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -226,9 +216,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -238,18 +226,16 @@
             "source_clause": "제4조제1항제4호다목",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정하는",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "방첩업무 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
+            "reference_id": "law:방첩업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -268,9 +254,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -280,60 +264,16 @@
             "source_clause": "제4조제4항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "방첩업무 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
+            "reference_id": "law:방첩업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제4항",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정한다",
-            "target_law_name": "사이버안보 업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "261003",
-            "target_url": "https://www.law.go.kr/법령/사이버안보 업무규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:사이버안보업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제4항",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -352,9 +292,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -364,60 +302,16 @@
             "source_clause": "제4조제4항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "방첩업무 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
+            "reference_id": "law:방첩업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제4항",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정한다",
-            "target_law_name": "사이버안보 업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "261003",
-            "target_url": "https://www.law.go.kr/법령/사이버안보 업무규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:사이버안보업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제4항",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
-            "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -436,9 +330,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -448,18 +340,16 @@
             "source_clause": "제4조제4항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "방첩업무 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
+            "reference_id": "law:방첩업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -478,9 +368,7 @@
             "source_provision_id": "law:국가정보원법#JO0004",
             "reference_id": "law:사이버안보업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_git_path": "사이버안보 업무규정/법률/사이버안보 업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
           },
           {
             "relation_type": "delegation",
@@ -490,18 +378,130 @@
             "source_clause": "제4조제4항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정한다",
-            "target_law_name": "보안업무규정",
+            "target_law_name": "방첩업무 규정",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "225717",
-            "target_url": "https://www.law.go.kr/법령/보안업무규정",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
             "resolve_method": "delegation",
             "source_provision_id": "law:국가정보원법#JO0004",
-            "reference_id": "law:보안업무규정#DOC",
+            "reference_id": "law:방첩업무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보안업무규정/법률/보안업무규정.json",
-            "target_git_path": "보안업무규정/법률/보안업무규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "사이버안보 업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "261003",
+            "target_url": "https://www.law.go.kr/법령/사이버안보 업무규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:사이버안보업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "방첩업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:방첩업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "사이버안보 업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "261003",
+            "target_url": "https://www.law.go.kr/법령/사이버안보 업무규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:사이버안보업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "방첩업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:방첩업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "사이버안보 업무규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "261003",
+            "target_url": "https://www.law.go.kr/법령/사이버안보 업무규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:사이버안보업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "사이버안보 업무규정/법률/사이버안보 업무규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "방첩업무 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "225715",
+            "target_url": "https://www.law.go.kr/법령/방첩업무 규정",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:국가정보원법#JO0004",
+            "reference_id": "law:방첩업무규정#DOC",
+            "target_repo": "LAW",
+            "target_git_path_guess": "방첩업무 규정/법률/방첩업무 규정.json"
           }
         ],
         "revision_type": "타법개정",
@@ -535,9 +535,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -556,9 +554,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -577,9 +573,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -598,9 +592,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -619,9 +611,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -640,9 +630,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -661,9 +649,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -682,9 +668,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -703,9 +687,7 @@
             "source_provision_id": "law:국가정보원법#JO0005",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "note": "[시행일:2024.1.1] 제5조제2항(제4조제1항제1호다목 및 라목과 관련된 조사에 한정한다)",
@@ -740,9 +722,7 @@
             "source_provision_id": "law:국가정보원법#JO0006",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -804,9 +784,7 @@
             "source_provision_id": "law:국가정보원법#JO0009",
             "reference_id": "law:국가정보원직원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_git_path": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -848,15 +826,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -869,15 +845,13 @@
             "target_law_name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "282481",
+            "target_mst": "283843",
             "target_url": "https://www.law.go.kr/법령/정보통신망 이용촉진 및 정보보호 등에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -896,9 +870,7 @@
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:국가정보원직원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_git_path": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json"
           },
           {
             "relation_type": "citation",
@@ -917,9 +889,7 @@
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:국가정보원직원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_git_path": "국가정보원직원법/법률/국가정보원직원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원직원법/법률/국가정보원직원법.json"
           },
           {
             "relation_type": "citation",
@@ -932,15 +902,13 @@
             "target_law_name": "공익신고자 보호법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "268861",
+            "target_mst": "284345",
             "target_url": "https://www.law.go.kr/법령/공익신고자 보호법",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:공익신고자보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -953,15 +921,13 @@
             "target_law_name": "공익신고자 보호법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "268861",
+            "target_mst": "284345",
             "target_url": "https://www.law.go.kr/법령/공익신고자 보호법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:공익신고자보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json"
           },
           {
             "relation_type": "citation",
@@ -974,15 +940,13 @@
             "target_law_name": "공익신고자 보호법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "268861",
+            "target_mst": "284345",
             "target_url": "https://www.law.go.kr/법령/공익신고자 보호법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0011",
             "reference_id": "law:공익신고자보호법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_git_path": "공익신고자 보호법/법률/공익신고자 보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공익신고자 보호법/법률/공익신고자 보호법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1044,9 +1008,7 @@
             "source_provision_id": "law:국가정보원법#JO0014",
             "reference_id": "law:통신비밀보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_git_path": "통신비밀보호법/법률/통신비밀보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "통신비밀보호법/법률/통신비밀보호법.json"
           },
           {
             "relation_type": "citation",
@@ -1065,9 +1027,7 @@
             "source_provision_id": "law:국가정보원법#JO0014",
             "reference_id": "law:위치정보의보호및이용등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "위치정보의 보호 및 이용 등에 관한 법률/법률/위치정보의 보호 및 이용 등에 관한 법률.json",
-            "target_git_path": "위치정보의 보호 및 이용 등에 관한 법률/법률/위치정보의 보호 및 이용 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "위치정보의 보호 및 이용 등에 관한 법률/법률/위치정보의 보호 및 이용 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1086,9 +1046,7 @@
             "source_provision_id": "law:국가정보원법#JO0014",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -1107,9 +1065,7 @@
             "source_provision_id": "law:국가정보원법#JO0014",
             "reference_id": "law:군사법원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1151,15 +1107,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -1172,15 +1126,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "제40조",
             "target_article_title": "독립기관의 예산",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법/제40조",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -1193,15 +1145,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -1214,15 +1164,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "제21조",
             "target_article_title": "세입세출예산의 구분",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법/제21조",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -1235,15 +1183,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           },
           {
             "relation_type": "citation",
@@ -1256,15 +1202,13 @@
             "target_law_name": "국가재정법",
             "target_article_no": "제34조",
             "target_article_title": "예산안의 첨부서류",
-            "target_mst": "288569",
+            "target_mst": "283845",
             "target_url": "https://www.law.go.kr/법령/국가재정법/제34조",
             "resolve_method": "pop",
             "source_provision_id": "law:국가정보원법#JO0016",
             "reference_id": "law:국가재정법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
-            "target_git_path": "국가재정법/법률/국가재정법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1299,9 +1243,7 @@
             "source_provision_id": "law:국가정보원법#JO0017",
             "reference_id": "law:국회에서의증언감정등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회에서의 증언ㆍ감정 등에 관한 법률/법률/국회에서의 증언ㆍ감정 등에 관한 법률.json",
-            "target_git_path": "국회에서의 증언ㆍ감정 등에 관한 법률/법률/국회에서의 증언ㆍ감정 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국회에서의 증언ㆍ감정 등에 관한 법률/법률/국회에서의 증언ㆍ감정 등에 관한 법률.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1349,9 +1291,7 @@
             "source_provision_id": "law:국가정보원법#JO0019",
             "reference_id": "law:국가정보원법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1385,9 +1325,7 @@
             "source_provision_id": "law:국가정보원법#JO0020",
             "reference_id": "law:경찰관직무집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
-            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
           },
           {
             "relation_type": "citation",
@@ -1406,9 +1344,7 @@
             "source_provision_id": "law:국가정보원법#JO0020",
             "reference_id": "law:경찰관직무집행법#JO0010_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
-            "target_git_path": "경찰관 직무집행법/법률/경찰관 직무집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰관 직무집행법/법률/경찰관 직무집행법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1442,9 +1378,7 @@
             "source_provision_id": "law:국가정보원법#JO0021",
             "reference_id": "law:국가정보원법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1478,9 +1412,7 @@
             "source_provision_id": "law:국가정보원법#JO0022",
             "reference_id": "law:국가정보원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1514,9 +1446,7 @@
             "source_provision_id": "law:국가정보원법#JO0023",
             "reference_id": "law:국가정보원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1535,9 +1465,7 @@
             "source_provision_id": "law:국가정보원법#JO0023",
             "reference_id": "law:국가정보원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1571,9 +1499,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:국가정보원법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1592,9 +1518,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:국가정보원법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1613,9 +1537,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:국가정보원법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json",
-            "target_git_path": "국가정보원법/법률/국가정보원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가정보원법/법률/국가정보원법.json"
           },
           {
             "relation_type": "citation",
@@ -1634,9 +1556,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -1655,9 +1575,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:형사소송법#JO0249",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -1676,9 +1594,7 @@
             "source_provision_id": "law:국가정보원법#JO0024",
             "reference_id": "law:형사소송법#JO0249",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1718,7 +1634,7 @@
       "promulgation_date": "20251001",
       "promulgation_no": "21065",
       "addendum_key": "2025100121065",
-      "content": "부칙(정부조직법) <제21065호,2025.10.1>\n제1조(시행일) 이 법은 공포한 날부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행하고, 다음 각 호의 개정규정은 해당 호에서 정하는 날부터 시행한다.\n1. 다음 각 목의 개정규정은 2026년 1월 2일부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다) 중 본문에 따른 시행일 전에 공포되었으나 본문에 따른 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n가. 제19조제4항, 제23조, 제29조제1항제1호 및 제30조의 개정규정\n나. 제12조제2항, 제19조제3항, 제22조 및 제29조제2항 단서의 개정규정(재정경제부장관 및 재정경제부에 관한 부분으로 한정한다)\n다. 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다)\n2. 생략\n제2조 부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <621>까지 생략\n<622> 국가정보원법 일부를 다음과 같이 개정한다.\n제16조제2항 중 \"기획재정부장관\"을 \"기획예산처장관\"으로 한다.\n<623>부터 <626>까지 생략\n제8조 생략",
+      "content": "부칙(정부조직법) <제21065호,2025.10.1>\n제1조(시행일) 이 법은 공포한 날부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률 중 이 법 시행 전에 공포되었으나 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행하고, 다음 각 호의 개정규정은 해당 호에서 정하는 날부터 시행한다.\n1. 다음 각 목의 개정규정은 2026년 1월 2일부터 시행한다. 다만, 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다) 중 본문에 따른 시행일 전에 공포되었으나 본문에 따른 시행일이 도래하지 아니한 법률을 개정한 부분은 각각 해당 법률의 시행일부터 시행한다.\n가. 제19조제4항, 제23조, 제29조제1항제1호 및 제30조의 개정규정\n나. 제12조제2항, 제19조제3항, 제22조 및 제29조제2항 단서의 개정규정(재정경제부장관 및 재정경제부에 관한 부분으로 한정한다)\n다. 부칙 제7조에 따라 개정되는 법률(가목 및 나목의 개정규정과 관련되는 부분으로 한정한다)\n2. 생략\n제2조부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <621>까지 생략\n<622> 국가정보원법 일부를 다음과 같이 개정한다.\n제16조제2항 중 \"기획재정부장관\"을 \"기획예산처장관\"으로 한다.\n<623>부터 <626>까지 생략\n제8조 생략",
       "provision_id": "law:국가정보원법#ADDENDUM",
       "is_future": false,
       "source_mst": "277293",
@@ -1730,12 +1646,12 @@
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 61,
+    "relations_total": 63,
     "by_category": {
-      "법령": 61
+      "법령": 63
     },
     "by_relation_type": {
-      "delegation": 15,
+      "delegation": 17,
       "citation": 28,
       "internal_ref": 18
     },
@@ -1761,6 +1677,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국가정보원법/법률/국가정보원법.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "국가정보원법/법률/국가정보원법.json"
 }
