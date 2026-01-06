@@ -36,7 +36,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "02-2110-4210",
-        "부서키": "404319",
+        "부서키": "429719",
         "부서명": "검찰과",
         "소관부처명": "법무부",
         "소관부처코드": "1270000"
@@ -78,9 +78,7 @@
             "source_provision_id": "law:검사정원법시행령#JO0001",
             "reference_id": "law:검사정원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/법률/검사정원법.json",
-            "target_git_path": "검사정원법/법률/검사정원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검사정원법/법률/검사정원법.json"
           },
           {
             "relation_type": "citation",
@@ -99,9 +97,7 @@
             "source_provision_id": "law:검사정원법시행령#JO0001",
             "reference_id": "law:검사정원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/법률/검사정원법.json",
-            "target_git_path": "검사정원법/법률/검사정원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "검사정원법/법률/검사정원법.json"
           }
         ],
         "note": "[전문개정 2011.7.25]",
@@ -1109,6 +1105,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검사정원법/시행령/검사정원법 시행령.json",
-  "_schlpub_id_suffix": "시행령"
+  "git_path": "검사정원법/시행령/검사정원법 시행령.json"
 }
