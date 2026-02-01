@@ -35,13 +35,22 @@
     },
     "시행일자": "20260201",
     "연락부서": {
-      "부서단위": {
-        "부서연락처": "032-835-2223",
-        "부서키": "372769",
-        "부서명": "혁신행정법무담당관",
-        "소관부처명": "해양경찰청",
-        "소관부처코드": "1532000"
-      }
+      "부서단위": [
+        {
+          "부서연락처": "032-835-2223",
+          "부서키": "430867",
+          "부서명": "혁신행정법무담당관",
+          "소관부처명": "해양경찰청",
+          "소관부처코드": "1532000"
+        },
+        {
+          "부서연락처": "032-835-2223",
+          "부서키": "431075",
+          "부서명": "혁신행정법무담당관",
+          "소관부처명": "해양경찰청",
+          "소관부처코드": "1532000"
+        }
+      ]
     },
     "법령명_한자": "해양경찰법",
     "법령명약칭": "",
@@ -107,9 +116,7 @@
             "source_provision_id": "law:해양경찰법#JO0003",
             "reference_id": "law:대한민국헌법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국헌법/법률/대한민국헌법.json",
-            "target_git_path": "대한민국헌법/법률/대한민국헌법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "대한민국헌법/법률/대한민국헌법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -171,9 +178,7 @@
             "source_provision_id": "law:해양경찰법#JO0006",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -192,9 +197,7 @@
             "source_provision_id": "law:해양경찰법#JO0006",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -228,9 +231,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:해양경찰법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -249,9 +250,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:해양경찰법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -270,9 +269,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:해양경찰법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -291,9 +288,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:해양경찰법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           },
           {
             "relation_type": "citation",
@@ -312,9 +307,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -333,9 +326,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:국가공무원법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -354,9 +345,7 @@
             "source_provision_id": "law:해양경찰법#JO0007",
             "reference_id": "law:국가공무원법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -390,9 +379,7 @@
             "source_provision_id": "law:해양경찰법#JO0008",
             "reference_id": "law:해양경찰법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -411,9 +398,7 @@
             "source_provision_id": "law:해양경찰법#JO0008",
             "reference_id": "law:해양경찰법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json",
-            "target_git_path": "해양경찰법/법률/해양경찰법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법/법률/해양경찰법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -461,9 +446,7 @@
             "source_provision_id": "law:해양경찰법#JO0010",
             "reference_id": "law:해양경찰위원회규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰위원회 규정/법률/해양경찰위원회 규정.json",
-            "target_git_path": "해양경찰위원회 규정/법률/해양경찰위원회 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰위원회 규정/법률/해양경찰위원회 규정.json"
           }
         ],
         "revision_type": "타법개정",
@@ -497,9 +480,7 @@
             "source_provision_id": "law:해양경찰법#JO0011",
             "reference_id": "law:해양경찰법제11조제5항단서에따른긴급하고중요한사건의범위등에관한규정#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_git_path": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -518,9 +499,7 @@
             "source_provision_id": "law:해양경찰법#JO0011",
             "reference_id": "law:해양경찰법제11조제5항단서에따른긴급하고중요한사건의범위등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_git_path": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json"
           }
         ],
         "revision_type": "타법개정",
@@ -568,9 +547,7 @@
             "source_provision_id": "law:해양경찰법#JO0013",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -589,9 +566,7 @@
             "source_provision_id": "law:해양경찰법#JO0013",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -653,9 +628,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -674,9 +647,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -695,9 +666,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -716,9 +685,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -737,9 +704,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -758,9 +723,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:국가공무원법#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -773,15 +736,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -794,15 +755,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "제4조",
             "target_article_title": "공공기관",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제4조",
             "resolve_method": "pop",
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -821,9 +780,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -842,9 +799,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -863,9 +818,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -884,9 +837,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -905,9 +856,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:경찰공무원법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "delegation",
@@ -926,9 +875,7 @@
             "source_provision_id": "law:해양경찰법#JO0015_02",
             "reference_id": "law:해양경찰법제11조제5항단서에따른긴급하고중요한사건의범위등에관한규정#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_git_path": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정/법률/해양경찰법 제11조제5항 단서에 따른 긴급하고 중요한 사건의 범위 등에 관한 규정.json"
           }
         ],
         "note": "[본조신설 2021.1.13]",
@@ -1005,9 +952,7 @@
             "source_provision_id": "law:해양경찰법#JO0019",
             "reference_id": "law:경찰공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json",
-            "target_git_path": "경찰공무원법/법률/경찰공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "경찰공무원법/법률/경찰공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1026,9 +971,7 @@
             "source_provision_id": "law:해양경찰법#JO0019",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1076,9 +1019,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:특정연구기관육성법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
-            "target_git_path": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json"
           },
           {
             "relation_type": "citation",
@@ -1097,9 +1038,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:특정연구기관육성법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
-            "target_git_path": "특정연구기관 육성법/법률/특정연구기관 육성법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정연구기관 육성법/법률/특정연구기관 육성법.json"
           },
           {
             "relation_type": "citation",
@@ -1118,9 +1057,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:과학기술분야정부출연연구기관등의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
-            "target_git_path": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1133,15 +1070,13 @@
             "target_law_name": "고등교육법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283297",
+            "target_mst": "283883",
             "target_url": "https://www.law.go.kr/법령/고등교육법",
             "resolve_method": "pop",
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
-            "target_git_path": "고등교육법/법률/고등교육법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
           },
           {
             "relation_type": "citation",
@@ -1160,9 +1095,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           },
           {
             "relation_type": "citation",
@@ -1181,9 +1114,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:기업부설연구소등의연구개발지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_git_path": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1202,9 +1133,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:기업부설연구소등의연구개발지원에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_git_path": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1223,9 +1152,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:기업부설연구소등의연구개발지원에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_git_path": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "기업부설연구소등의 연구개발 지원에 관한 법률/법률/기업부설연구소등의 연구개발 지원에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -1244,9 +1171,7 @@
             "source_provision_id": "law:해양경찰법#JO0021",
             "reference_id": "law:해양경찰분야과학기술진흥에관한규정#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "해양경찰 분야 과학기술진흥에 관한 규정/법률/해양경찰 분야 과학기술진흥에 관한 규정.json",
-            "target_git_path": "해양경찰 분야 과학기술진흥에 관한 규정/법률/해양경찰 분야 과학기술진흥에 관한 규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "해양경찰 분야 과학기술진흥에 관한 규정/법률/해양경찰 분야 과학기술진흥에 관한 규정.json"
           }
         ],
         "revision_type": "타법개정",
@@ -1275,7 +1200,7 @@
       "promulgation_date": "20201222",
       "promulgation_no": "17689",
       "addendum_key": "2020122217689",
-      "content": "부칙(국가경찰과 자치경찰의 조직 및 운영에 관한 법률) <제17689호,2020.12.22>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조 부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <51>까지 생략\n<52> 해양경찰법 일부를 다음과 같이 개정한다.\n제12조, 제13조제1항 및 제2항 중 \"국가경찰공무원\"을 각각 \"경찰공무원\"으로 한다.\n<53> 생략\n제8조 생략",
+      "content": "부칙(국가경찰과 자치경찰의 조직 및 운영에 관한 법률) <제17689호,2020.12.22>\n제1조(시행일) 이 법은 2021년 1월 1일부터 시행한다.\n제2조부터 제6조까지 생략\n제7조(다른 법률의 개정) ①부터 <51>까지 생략\n<52> 해양경찰법 일부를 다음과 같이 개정한다.\n제12조, 제13조제1항 및 제2항 중 \"국가경찰공무원\"을 각각 \"경찰공무원\"으로 한다.\n<53> 생략\n제8조 생략",
       "provision_id": "law:해양경찰법#ADDENDUM",
       "is_future": false,
       "source_mst": "268817",
@@ -1299,7 +1224,7 @@
       "promulgation_date": "20250131",
       "promulgation_no": "20727",
       "addendum_key": "2025013120727",
-      "content": "부칙(기업부설연구소등의 연구개발 지원에 관한 법률) <제20727호,2025.1.31>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법률의 개정) ①부터 <29>까지 생략\n<30> 해양경찰법 일부를 다음과 같이 개정한다.\n제21조제2항제6호를 다음과 같이 한다.\n6. 「기업부설연구소등의 연구개발 지원에 관한 법률」 제7조제1항에 따라 인정받은 기업부설연구소 또는 연구개발전담부서\n<31>부터 <35>까지 생략\n제7조 생략",
+      "content": "부칙(기업부설연구소등의 연구개발 지원에 관한 법률) <제20727호,2025.1.31>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법률의 개정) ①부터 <29>까지 생략\n<30> 해양경찰법 일부를 다음과 같이 개정한다.\n제21조제2항제6호를 다음과 같이 한다.\n6. 「기업부설연구소등의 연구개발 지원에 관한 법률」 제7조제1항에 따라 인정받은 기업부설연구소 또는 연구개발전담부서\n<31>부터 <35>까지 생략\n제7조 생략",
       "provision_id": "law:해양경찰법#ADDENDUM",
       "is_future": false,
       "source_mst": "268817",
@@ -1342,6 +1267,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "해양경찰법/법률/해양경찰법.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "해양경찰법/법률/해양경찰법.json"
 }
