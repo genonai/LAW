@@ -36,13 +36,22 @@
     },
     "시행일자": "20260201",
     "연락부서": {
-      "부서단위": {
-        "부서연락처": "02-2110-3789",
-        "부서키": "429395",
-        "부서명": "보호관찰과",
-        "소관부처명": "법무부",
-        "소관부처코드": "1270000"
-      }
+      "부서단위": [
+        {
+          "부서연락처": "02-2110-3789",
+          "부서키": "431055",
+          "부서명": "보호관찰과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        },
+        {
+          "부서연락처": "02-2110-3789",
+          "부서키": "430871",
+          "부서명": "보호관찰과",
+          "소관부처명": "법무부",
+          "소관부처코드": "1270000"
+        }
+      ]
     },
     "법령명_한자": "보호관찰 등에 관한 법률",
     "법령명약칭": "보호관찰법",
@@ -53,7 +62,7 @@
   "revision_reason": "[제정]\n◇ 제정이유\n산림재난으로부터 국민의 생명ㆍ신체 및 재산을 보호하고 산림자원을 보전하기 위하여 산림재난의 예방ㆍ대비ㆍ대응과 산림재난으로 발생한 피해의 복구 등에 필요한 사항을 규정함.\n◇ 주요내용\n가. 산림재난방지 기본계획 및 지역계획을 5년마다 수립ㆍ시행하고, 산림청장 및 산림재난방지기관의 장은 산림재난방지 시행계획 및 지역시행계획을 매년 수립ㆍ시행하도록 함(제7조 및 제8조).\n나. 산림청장이 산림재난정보시스템을 구축ㆍ운영할 수 있도록 하고, 산림재난정보를 산림재난방지기관의 장에게 제공하여 공동활용하도록 하며, 산림청장이 산림재난정보의 수집ㆍ전파, 상황관리, 산림재난 발생 시 초동조치 및 지휘 등의 업무를 수행하기 위하여 중앙산림재난상황실을 상시 구성ㆍ운영하도록 함(제11조 및 제12조).\n다. 효율적인 산림재난 피해의 예방과 대응을 위하여 산림재난방지기관의 장이 산불예방진화대 및 산불재난특수진화대, 산사태현장예방단 및 산림병해충예찰방제단을 산림재난대응단으로 통합하여 구성ㆍ운영할 수 있도록 함(제13조).\n라. 산불방지대책본부, 산사태예방지원본부, 산림병해충예찰ㆍ방제대책본부의 설치ㆍ운영 및 산불ㆍ산사태ㆍ산림병해충의 예방ㆍ예찰 활동 및 이를 위한 행위 제한, 취약지역의 지정ㆍ해제에 관한 사항 등 산림재난 예방에 관한 사항을 규정함(제14조부터 제29조까지).\n마. 산불현장 통합지휘본부의 설치ㆍ운영, 산불진화단ㆍ산사태대응팀ㆍ산림병해충대응팀의 구성ㆍ운영, 경보 발령, 신고 및 안전조치, 대피ㆍ방제 명령, 산불 진화ㆍ산림병해충 방제ㆍ산사태 긴급점검, 특별방제구역의 지정ㆍ해제 등 산림재난 대응에 관한 사항을 규정함(제30조부터 제47조까지).\n바. 산불ㆍ산사태ㆍ산림병해충 조사, 산림병해충 방제효과의 조사, 산불ㆍ산사태 피해복구 등 산림재난 조사 및 복구에 관한 사항을 규정함(제48조부터 제53조까지).\n사. 산악기상관측망 구축ㆍ운영, 산림항공기 운용, 산림재난방지 교육ㆍ연구사업 및 국제협력 등 산림재난방지 기반조성에 관한 사항을 규정함(제54조부터 제57조까지).\n아. 산림재난방지를 위한 연구ㆍ조사, 교육ㆍ훈련 및 기술ㆍ정보의 국제교류 등의 업무를 수행하는 한국산림재난안전기술공단의 설립 근거를 마련하고, 공단의 정관, 임직원, 임원의 결격사유, 사업, 운영비 및 예산ㆍ결산, 산림청장의 지도ㆍ감독 등에 관한 사항을 규정함(제58조부터 제66조까지).\n자. 산림재난방지 또는 인명구조작업으로 사망하거나 부상을 입은 사람에 대한 보상, 산림재난 관련 보험ㆍ공제의 가입 권장, 산림재난 신고자에 대한 포상, 산림재난방지 영상정보처리기기의 설치ㆍ운영, 산림재난방지 지시 위반에 대한 징계 요구 등에 관한 사항을 규정함(제67조부터 제75조까지).\n차. 타인 소유의 산림에 불을 지른 사람 등에 대한 벌칙 및 과태료를 규정함(제76조부터 제79조까지).\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 116,
+    "article_count": 114,
     "articles": [
       {
         "article_no": "제1조",
@@ -95,9 +104,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0002",
             "reference_id": "law:보호관찰등에관한법률#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -132,9 +139,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -153,9 +158,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#JO0059_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -174,9 +177,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -195,9 +196,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -216,9 +215,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -237,9 +234,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -258,9 +253,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -279,9 +272,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -300,9 +291,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -321,9 +310,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -342,9 +329,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -363,9 +348,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -384,9 +367,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -405,9 +386,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -426,9 +405,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -447,9 +424,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0003",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -499,9 +474,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0005",
             "reference_id": "law:법무부와그소속기관직제#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
-            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -536,9 +509,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0006",
             "reference_id": "law:보호소년등의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_git_path": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -557,9 +528,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0006",
             "reference_id": "law:보호소년등의처우에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_git_path": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -578,9 +547,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0006",
             "reference_id": "law:보호소년등의처우에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_git_path": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -603,14 +570,7 @@
         "changed": "N",
         "article_key": "0007001",
         "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0007",
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "개정",
-            "content": "제7조(구성)\n① 심사위원회는 위원장을 포함하여 5명 이상 9명 이하의 위원으로 구성한다.\n② 심사위원회의 위원장은 고등검찰청 검사장 또는 고등검찰청 소속 검사 중에서 법무부장관이 임명한다.\n③ 심사위원회의 위원은 판사, 검사, 변호사, 보호관찰소장, 제14조제1항 후단의 기관의 장, 지방교정청장, 교도소장, 소년원장 및 보호관찰에 관한 지식과 경험이 풍부한 사람 중에서 법무부장관이 임명하거나 위촉한다. <개정 2026.9.22>\n④ 심사위원회의 위원 중 3명 이내의 상임위원을 둔다."
-          }
-        ]
+        "provision_id": "law:보호관찰등에관한법률#JO0007"
       },
       {
         "article_no": "제8조",
@@ -667,9 +627,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0010",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -688,9 +646,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0010",
             "reference_id": "law:국가공무원법#JO0026_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "delegation",
@@ -709,9 +665,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0010",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -746,9 +700,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0011",
             "reference_id": "law:보호관찰등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -783,9 +735,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0012",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -820,9 +770,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0012_02",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -841,9 +789,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0012_02",
             "reference_id": "law:형법#JO0127",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -862,9 +808,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0012_02",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[본조신설 2016.1.6]",
@@ -899,9 +843,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0013",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -920,9 +862,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0013",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -941,9 +881,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0013",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -962,9 +900,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0013",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -983,9 +919,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0013",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1008,14 +942,7 @@
         "changed": "N",
         "article_key": "0014001",
         "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0014",
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "개정",
-            "content": "제14조(보호관찰소의 설치)\n① 보호관찰, 사회봉사, 수강 및 갱생보호에 관한 사무를 관장하기 위하여 법무부장관 소속으로 보호관찰소를 둔다. 이 경우 법무부장관은 보호관찰소와는 별도로 「소년법」 제2조에 따른 소년(이하 \"소년\"이라 한다)의 보호관찰, 사회봉사, 수강 및 갱생보호에 관한 사무를 전문적으로 관장하기 위한 기관을 설치할 수 있다. <개정 2026.9.22>\n② 보호관찰소(제1항 후단의 기관을 포함한다)의 사무 일부를 처리하게 하기 위하여 그 관할 구역에 지소를 둘 수 있다. <개정 2026.9.22>"
-          }
-        ]
+        "provision_id": "law:보호관찰등에관한법률#JO0014"
       },
       {
         "article_no": "제15조",
@@ -1042,9 +969,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0015",
             "reference_id": "law:보호관찰등에관한법률#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1052,62 +977,7 @@
         "changed": "N",
         "article_key": "0015001",
         "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0015",
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "개정",
-            "content": "제15조(보호관찰소의 관장 사무) 보호관찰소(보호관찰지소를 포함한다. 이하 이 조에서 같다)는 다음 각 호의 사무를 관장한다. 다만, 제14조제1항 후단의 기관이 설치된 경우에는 소년을 대상으로 하는 다음 각 호의 사무는 제14조제1항 후단의 기관이 관장한다. <개정 2026.9.22>\n1. 보호관찰, 사회봉사명령 및 수강명령의 집행\n2. 갱생보호\n3. 검사가 보호관찰관이 선도(善導)함을 조건으로 공소제기를 유예하고 위탁한 선도 업무\n4. 제18조에 따른 범죄예방 자원봉사위원에 대한 교육훈련 및 업무지도\n5. 범죄예방활동\n6. 이 법 또는 다른 법령에서 보호관찰소의 관장 사무로 규정된 사항"
-          }
-        ]
-      },
-      {
-        "article_no": "제15조의2",
-        "article_title": "소년에 대한 전문 기관의 관장 사무",
-        "chapter": "제2절 보호관찰소 <개정 2009.5.28>",
-        "chapter_path": "제2장 보호관찰기관 <개정 2009.5.28> > 제2절 보호관찰소 <개정 2009.5.28>",
-        "content": "제15조의2(소년에 대한 전문 기관의 관장 사무) 제14조제1항 후단의 기관은 소년에 대한 다음 각 호의 사무를 관장한다.\n1. 제15조 각 호의 사무 중 소년과 관련된 사항\n2. 「소년법」에 따라 보호처분을 받은 사람에 대한 교육\n3. 검사가 기소유예처분을 한 사람 및 교육장이 의뢰한 소년에 대한 교육\n4. 「소년법」에 따라 보호처분을 받은 사람의 보호자 및 교육장이 의뢰한 보호자에 대한 교육\n5. 소년에 대한 법 교육\n6. 그 밖에 대통령령으로 정하는 사무",
-        "enforcement_date": "20270323",
-        "relations": [],
-        "note": "[본조신설 2026.9.22]",
-        "revision_type": "일부개정",
-        "changed": "Y",
-        "article_key": "0015021",
-        "moved": "000000",
-        "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0015_02",
-        "future_only": true,
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "신설",
-            "content": "제15조의2(소년에 대한 전문 기관의 관장 사무) 제14조제1항 후단의 기관은 소년에 대한 다음 각 호의 사무를 관장한다.\n1. 제15조 각 호의 사무 중 소년과 관련된 사항\n2. 「소년법」에 따라 보호처분을 받은 사람에 대한 교육\n3. 검사가 기소유예처분을 한 사람 및 교육장이 의뢰한 소년에 대한 교육\n4. 「소년법」에 따라 보호처분을 받은 사람의 보호자 및 교육장이 의뢰한 보호자에 대한 교육\n5. 소년에 대한 법 교육\n6. 그 밖에 대통령령으로 정하는 사무"
-          }
-        ]
-      },
-      {
-        "article_no": "제15조의3",
-        "article_title": "준용 규정",
-        "chapter": "제2절 보호관찰소 <개정 2009.5.28>",
-        "chapter_path": "제2장 보호관찰기관 <개정 2009.5.28> > 제2절 보호관찰소 <개정 2009.5.28>",
-        "content": "제15조의3(준용 규정) 제14조제1항 후단의 기관에 대하여는 제19조, 제19조의2, 제20조, 제26조, 제27조, 제29조, 제31조, 제32조, 제33조의2, 제35조, 제36조, 제36조의2, 제37조부터 제44조까지, 제46조, 제46조의2부터 제46조의5까지, 제47조부터 제50조까지, 제52조부터 제55조까지, 제55조의2, 제55조의3, 제60조, 제62조, 제64조 및 제66조를 준용한다. 이 경우 \"보호관찰소\"는 \"제14조제1항 후단의 기관\"으로, \"보호관찰소의 장\"은 \"제14조제1항 후단의 기관의 장\"으로 본다.",
-        "enforcement_date": "20270323",
-        "relations": [],
-        "note": "[본조신설 2026.9.22]",
-        "revision_type": "일부개정",
-        "changed": "Y",
-        "article_key": "0015031",
-        "moved": "000000",
-        "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0015_03",
-        "future_only": true,
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "신설",
-            "content": "제15조의3(준용 규정) 제14조제1항 후단의 기관에 대하여는 제19조, 제19조의2, 제20조, 제26조, 제27조, 제29조, 제31조, 제32조, 제33조의2, 제35조, 제36조, 제36조의2, 제37조부터 제44조까지, 제46조, 제46조의2부터 제46조의5까지, 제47조부터 제50조까지, 제52조부터 제55조까지, 제55조의2, 제55조의3, 제60조, 제62조, 제64조 및 제66조를 준용한다. 이 경우 \"보호관찰소\"는 \"제14조제1항 후단의 기관\"으로, \"보호관찰소의 장\"은 \"제14조제1항 후단의 기관의 장\"으로 본다."
-          }
-        ]
+        "provision_id": "law:보호관찰등에관한법률#JO0015"
       },
       {
         "article_no": "제16조",
@@ -1134,9 +1004,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0016",
             "reference_id": "law:보호관찰등에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1144,14 +1012,7 @@
         "changed": "N",
         "article_key": "0016001",
         "images": [],
-        "provision_id": "law:보호관찰등에관한법률#JO0016",
-        "scheduled": [
-          {
-            "enforcement_date": "20270323",
-            "change": "개정",
-            "content": "제16조(보호관찰관)\n① 보호관찰소(보호관찰지소와 제14조제1항 후단의 기관 및 그 지소를 포함한다. 이하 같다. 다만, 제28조제2항부터 제4항까지에서는 제14조제1항 후단의 기관 및 그 지소는 제외한다)에는 제15조 각 호의 사무를 처리하기 위하여 보호관찰관을 둔다. <개정 2026.9.22>\n② 보호관찰관은 형사정책학, 행형학, 범죄학, 사회사업학, 교육학, 심리학, 그 밖에 보호관찰에 필요한 전문적 지식을 갖춘 사람이어야 한다."
-          }
-        ]
+        "provision_id": "law:보호관찰등에관한법률#JO0016"
       },
       {
         "article_no": "제17조",
@@ -1178,9 +1039,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0017",
             "reference_id": "law:법무부와그소속기관직제#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
-            "target_git_path": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "법무부와 그 소속기관 직제/법률/법무부와 그 소속기관 직제.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1215,9 +1074,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0018",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -1236,9 +1093,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0018",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -1257,9 +1112,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0018",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -1278,9 +1131,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0018",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -1299,9 +1150,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0018",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1336,9 +1185,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0019",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1357,9 +1204,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0019",
             "reference_id": "law:형법#JO0059_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1378,9 +1223,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0019",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1415,9 +1258,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0019_02",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -1436,9 +1277,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0019_02",
             "reference_id": "law:소년법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[본조신설 2008.12.26]",
@@ -1473,9 +1312,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0020",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1494,9 +1331,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0020",
             "reference_id": "law:형법#JO0059_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -1515,9 +1350,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0020",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1552,9 +1385,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0021",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -1573,9 +1404,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0021",
             "reference_id": "law:소년법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1610,9 +1439,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0022",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -1631,9 +1458,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0022",
             "reference_id": "law:소년법#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1652,9 +1477,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0022",
             "reference_id": "law:보호관찰등에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1673,9 +1496,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0022",
             "reference_id": "law:보호관찰등에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -1694,9 +1515,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0022",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1731,9 +1550,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0023",
             "reference_id": "law:보호관찰등에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1752,9 +1569,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0023",
             "reference_id": "law:보호관찰등에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1773,9 +1588,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0023",
             "reference_id": "law:보호관찰등에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1794,9 +1607,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0023",
             "reference_id": "law:보호관찰등에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1815,9 +1626,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0023",
             "reference_id": "law:보호관찰등에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1852,9 +1661,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0024",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1873,9 +1680,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0024",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0122",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1894,9 +1699,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0024",
             "reference_id": "law:보호관찰등에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1931,9 +1734,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0025",
             "reference_id": "law:보호관찰등에관한법률#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1952,9 +1753,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0025",
             "reference_id": "law:보호관찰등에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2008.12.26]",
@@ -1989,9 +1788,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0026",
             "reference_id": "law:보호소년등의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_git_path": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호소년 등의 처우에 관한 법률/법률/보호소년 등의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2010,9 +1807,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0026",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2031,9 +1826,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0026",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2052,9 +1845,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0026",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2073,9 +1864,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0026",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2110,9 +1899,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0027",
             "reference_id": "law:보호관찰등에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2147,9 +1934,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0028",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2168,9 +1953,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0028",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2189,9 +1972,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0028",
             "reference_id": "law:보호관찰등에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2210,9 +1991,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0028",
             "reference_id": "law:보호관찰등에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2247,9 +2026,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0029",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2284,9 +2061,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -2305,9 +2080,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:형법#JO0073_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -2326,9 +2099,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2347,9 +2118,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2368,9 +2137,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2389,9 +2156,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2410,9 +2175,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2431,9 +2194,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -2452,9 +2213,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0030",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2504,9 +2263,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0032",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류관리에 관한 법률/법률/마약류관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류관리에 관한 법률/법률/마약류관리에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -2525,9 +2282,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0032",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2562,9 +2317,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0033",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2599,9 +2352,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0033_02",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0019_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2009.5.28]",
@@ -2651,9 +2402,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0035",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2688,9 +2437,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036",
             "reference_id": "law:보호관찰등에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2709,9 +2456,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036",
             "reference_id": "law:보호관찰등에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2730,9 +2475,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036",
             "reference_id": "law:보호관찰등에관한법률#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2751,9 +2494,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036",
             "reference_id": "law:보호관찰등에관한법률#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2772,9 +2513,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036",
             "reference_id": "law:보호관찰등에관한법률#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2008.12.26]",
@@ -2809,9 +2548,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:정신건강증진및정신질환자복지서비스지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_git_path": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2830,9 +2567,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:정신건강증진및정신질환자복지서비스지원에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_git_path": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2851,9 +2586,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:정신건강증진및정신질환자복지서비스지원에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_git_path": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2872,9 +2605,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:정신건강증진및정신질환자복지서비스지원에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_git_path": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2893,9 +2624,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:정신건강증진및정신질환자복지서비스지원에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_git_path": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률/법률/정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -2914,9 +2643,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0036_02",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2021.7.20]",
@@ -2966,9 +2693,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0038",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3003,9 +2728,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0039",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3024,9 +2747,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0039",
             "reference_id": "law:보호관찰등에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3045,9 +2766,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0039",
             "reference_id": "law:보호관찰등에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3082,9 +2801,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0040",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3103,9 +2820,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0040",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3124,9 +2839,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0040",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3145,9 +2858,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0040",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3182,9 +2893,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0041",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3203,9 +2912,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0041",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3224,9 +2931,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0041",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3245,9 +2950,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0041",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3266,9 +2969,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0041",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3303,9 +3004,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0042",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3324,9 +3023,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0042",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3345,9 +3042,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0042",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3366,9 +3061,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0042",
             "reference_id": "law:보호관찰등에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3387,9 +3080,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0042",
             "reference_id": "law:보호관찰등에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3424,9 +3115,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3445,9 +3134,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3466,9 +3153,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3487,9 +3172,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3508,9 +3191,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3529,9 +3210,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3550,9 +3229,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3571,9 +3248,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3592,9 +3267,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3613,9 +3286,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3634,9 +3305,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3655,9 +3324,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0043",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3692,9 +3359,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3713,9 +3378,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3734,9 +3397,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3755,9 +3416,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3776,9 +3435,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3797,9 +3454,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3818,9 +3473,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0044",
             "reference_id": "law:보호관찰등에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3855,9 +3508,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0045",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3906,9 +3557,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -3927,9 +3576,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -3948,9 +3595,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -3969,9 +3614,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -3990,9 +3633,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4011,9 +3652,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4032,9 +3671,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4053,9 +3690,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4074,9 +3709,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0085",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4095,9 +3728,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0086",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4116,9 +3747,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0087",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4137,9 +3766,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4158,9 +3785,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0204",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4179,9 +3804,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0214_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4200,9 +3823,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046",
             "reference_id": "law:형사소송법#JO0214_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -4237,9 +3858,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4258,9 +3877,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4279,9 +3896,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4300,9 +3915,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4321,9 +3934,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4342,9 +3953,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -4363,9 +3972,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_02",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[본조신설 2019.4.16]",
@@ -4400,9 +4007,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4421,9 +4026,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4442,9 +4045,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4463,9 +4064,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4484,9 +4083,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4505,9 +4102,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4526,9 +4121,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4547,9 +4140,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4568,9 +4159,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_03",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2019.4.16]",
@@ -4605,9 +4194,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4626,9 +4213,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4647,9 +4232,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4668,9 +4251,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4689,9 +4270,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4710,9 +4289,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4731,9 +4308,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_04",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2019.4.16]",
@@ -4768,9 +4343,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_05",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4789,9 +4362,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0046_05",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[본조신설 2019.4.16]",
@@ -4826,9 +4397,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4847,9 +4416,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4868,9 +4435,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#JO0061",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4889,9 +4454,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4910,9 +4473,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4931,9 +4492,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -4952,9 +4511,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           },
           {
             "relation_type": "citation",
@@ -4973,9 +4530,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0047",
             "reference_id": "law:형사소송법#JO0335",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5010,9 +4565,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0048",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5047,9 +4600,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5068,9 +4619,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5089,9 +4638,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5110,9 +4657,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5131,9 +4676,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5152,9 +4695,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:보호관찰등에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5173,9 +4714,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5194,9 +4733,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5215,9 +4752,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5236,9 +4771,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5257,9 +4790,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0049",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5294,9 +4825,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0050",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5315,9 +4844,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0050",
             "reference_id": "law:소년법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5336,9 +4863,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0050",
             "reference_id": "law:소년법#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5357,9 +4882,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0050",
             "reference_id": "law:소년법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           },
           {
             "relation_type": "citation",
@@ -5378,9 +4901,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0050",
             "reference_id": "law:소년법#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "소년법/법률/소년법.json",
-            "target_git_path": "소년법/법률/소년법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "소년법/법률/소년법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5415,9 +4936,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5436,9 +4955,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:형법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5457,9 +4974,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:형법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5478,9 +4993,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:보호관찰등에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5499,9 +5012,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:보호관찰등에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5520,9 +5031,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:보호관찰등에관한법률#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5541,9 +5050,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0051",
             "reference_id": "law:보호관찰등에관한법률#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5593,9 +5100,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0053",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5614,9 +5119,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0053",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5681,9 +5184,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_02",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0036_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2014.1.7]",
@@ -5718,9 +5219,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:전자장치부착등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_git_path": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5739,9 +5238,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:전자장치부착등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_git_path": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5760,9 +5257,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:전자장치부착등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_git_path": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5781,9 +5276,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:전자장치부착등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_git_path": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5802,9 +5295,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:전자장치부착등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_git_path": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "전자장치 부착 등에 관한 법률/법률/전자장치 부착 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -5823,9 +5314,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5844,9 +5333,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0287",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5865,9 +5352,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0288",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5886,9 +5371,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0289",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5907,9 +5390,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0290",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5928,9 +5409,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0291",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5949,9 +5428,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0292",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5970,9 +5447,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0294",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -5991,9 +5466,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6012,9 +5485,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0324_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6033,9 +5504,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0324_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6054,9 +5523,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6075,9 +5542,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0336",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6096,9 +5561,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6117,9 +5580,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6138,9 +5599,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:폭력행위등처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6159,9 +5618,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:폭력행위등처벌에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6180,9 +5637,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:폭력행위등처벌에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6201,9 +5656,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6222,9 +5675,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6243,9 +5694,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6264,9 +5713,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0164",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6285,9 +5732,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0165",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6306,9 +5751,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0166",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6327,9 +5770,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0167",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6348,9 +5789,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0168",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6369,9 +5808,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0172",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6390,9 +5827,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0172_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6411,9 +5846,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0173",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6432,9 +5865,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:형법#JO0174",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -6453,9 +5884,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림자원의조성및관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6474,9 +5903,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림자원의조성및관리에관한법률#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_git_path": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림자원의 조성 및 관리에 관한 법률/법률/산림자원의 조성 및 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6495,9 +5922,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -6516,9 +5941,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림보호법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -6537,9 +5960,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림보호법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -6558,9 +5979,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림보호법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림보호법/법률/산림보호법.json",
-            "target_git_path": "산림보호법/법률/산림보호법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림보호법/법률/산림보호법.json"
           },
           {
             "relation_type": "citation",
@@ -6579,9 +5998,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림재난방지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json",
-            "target_git_path": "산림재난방지법/법률/산림재난방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json"
           },
           {
             "relation_type": "citation",
@@ -6600,9 +6017,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림재난방지법#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json",
-            "target_git_path": "산림재난방지법/법률/산림재난방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json"
           },
           {
             "relation_type": "citation",
@@ -6621,9 +6036,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:산림재난방지법#JO0076",
             "target_repo": "LAW",
-            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json",
-            "target_git_path": "산림재난방지법/법률/산림재난방지법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "산림재난방지법/법률/산림재난방지법.json"
           },
           {
             "relation_type": "citation",
@@ -6642,9 +6055,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6663,9 +6074,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6684,9 +6093,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6705,9 +6112,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6726,9 +6131,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6747,9 +6150,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6768,9 +6169,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6789,9 +6188,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6810,9 +6207,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6831,9 +6226,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류관리에관한법률#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6852,9 +6245,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류불법거래방지에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_git_path": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -6873,9 +6264,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류불법거래방지에관한특례법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_git_path": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -6894,9 +6283,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류불법거래방지에관한특례법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_git_path": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -6915,9 +6302,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류불법거래방지에관한특례법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_git_path": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -6936,9 +6321,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:마약류불법거래방지에관한특례법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_git_path": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "마약류 불법거래 방지에 관한 특례법/법률/마약류 불법거래 방지에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -6957,9 +6340,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -6978,9 +6359,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -6999,9 +6378,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0055_03",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0036_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2014.12.30]",
@@ -7052,9 +6429,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0056",
             "reference_id": "law:군사법원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           },
           {
             "relation_type": "citation",
@@ -7073,9 +6448,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0056",
             "reference_id": "law:군사법원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           },
           {
             "relation_type": "citation",
@@ -7094,9 +6467,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0056",
             "reference_id": "law:군사법원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군사법원법/법률/군사법원법.json",
-            "target_git_path": "군사법원법/법률/군사법원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "군사법원법/법률/군사법원법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7131,9 +6502,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0057",
             "reference_id": "law:형사소송법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형사소송법/법률/형사소송법.json",
-            "target_git_path": "형사소송법/법률/형사소송법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형사소송법/법률/형사소송법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7168,9 +6537,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:보호관찰등에관한법률#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -7189,9 +6556,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:형의집행및수용자의처우에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -7210,9 +6575,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0119",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -7231,9 +6594,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0120",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -7252,9 +6613,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0121",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -7273,9 +6632,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0058",
             "reference_id": "law:형의집행및수용자의처우에관한법률#JO0122",
             "target_repo": "LAW",
-            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_git_path": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형의 집행 및 수용자의 처우에 관한 법률/법률/형의 집행 및 수용자의 처우에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7310,9 +6667,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0059",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -7331,9 +6686,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0059",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7368,9 +6721,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0060",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -7389,9 +6740,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0060",
             "reference_id": "law:형법#JO0062_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7441,9 +6790,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0062",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -7462,9 +6809,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0062",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7499,9 +6844,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0063",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -7520,9 +6863,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0063",
             "reference_id": "law:형법#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           },
           {
             "relation_type": "citation",
@@ -7541,9 +6882,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0063",
             "reference_id": "law:형법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -7578,9 +6917,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7599,9 +6936,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7620,9 +6955,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7641,9 +6974,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7662,9 +6993,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7683,9 +7012,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0055_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7704,9 +7031,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7725,9 +7050,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7746,9 +7069,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7767,9 +7088,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7788,9 +7107,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7809,9 +7126,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7830,9 +7145,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7851,9 +7164,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7872,9 +7183,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7893,9 +7202,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7914,9 +7221,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7935,9 +7240,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7956,9 +7259,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7977,9 +7278,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0046_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -7998,9 +7297,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0046_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8019,9 +7316,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0046_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8040,9 +7335,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8061,9 +7354,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0064",
             "reference_id": "law:보호관찰등에관한법률#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8098,9 +7389,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8119,9 +7408,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -8140,9 +7427,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8161,9 +7446,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8182,9 +7465,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0041_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8203,9 +7484,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0041_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8224,9 +7503,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8245,9 +7522,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8266,9 +7541,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0045_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8287,9 +7560,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0045_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8308,9 +7579,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0045_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8329,9 +7598,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0045_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8350,9 +7617,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -8371,9 +7636,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0065",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8408,9 +7671,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0066",
             "reference_id": "law:보호관찰등에관한법률#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8429,9 +7690,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0066",
             "reference_id": "law:보호관찰등에관한법률#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -8450,9 +7709,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0066",
             "reference_id": "law:보호관찰등에관한법률#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8487,9 +7744,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0067",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8539,9 +7794,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0069",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0071",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8576,9 +7829,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0070",
             "reference_id": "law:보호관찰등에관한법률#JO0069",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8613,9 +7864,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0070_02",
             "reference_id": "law:보호관찰등에관한법률#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8680,11 +7929,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0073",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           },
           {
             "relation_type": "delegation",
@@ -8703,11 +7948,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0073",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           },
           {
             "relation_type": "delegation",
@@ -8733,9 +7974,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0073",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           },
           {
             "relation_type": "delegation",
@@ -8761,9 +8000,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0073",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8858,9 +8095,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0078",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -8879,9 +8114,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0078",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8916,9 +8149,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0079",
             "reference_id": "law:보호관찰등에관한법률#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -8975,9 +8206,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0081",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           },
           {
             "relation_type": "delegation",
@@ -8996,11 +8225,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0081",
             "reference_id": "SchlPubRul:한국법무보호복지공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_git_path": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json",
-            "target_source_repository": "SCHLPUBRUL",
-            "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_git_path_guess": "한국법무보호복지공단 정관/한국법무보호복지공단 정관.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9065,9 +8290,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0084",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -9086,9 +8309,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0084",
             "reference_id": "law:보호관찰등에관한법률시행규칙#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행규칙/보호관찰 등에 관한 법률 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9123,9 +8344,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0085",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2014.12.30]",
@@ -9190,9 +8409,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0088",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -9211,9 +8428,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0088",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -9232,9 +8447,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0088",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9269,9 +8482,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0089",
             "reference_id": "law:보호관찰등에관한법률#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9336,9 +8547,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0092",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json",
-            "target_git_path": "민법/법률/민법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민법/법률/민법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9373,9 +8582,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0093",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json",
-            "target_git_path": "형법/법률/형법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "형법/법률/형법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9425,9 +8632,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0095",
             "reference_id": "law:조세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json",
-            "target_git_path": "조세특례제한법/법률/조세특례제한법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "조세특례제한법/법률/조세특례제한법.json"
           },
           {
             "relation_type": "citation",
@@ -9446,9 +8651,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0095",
             "reference_id": "law:지방세특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방세특례제한법/법률/지방세특례제한법.json",
-            "target_git_path": "지방세특례제한법/법률/지방세특례제한법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방세특례제한법/법률/지방세특례제한법.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9528,9 +8731,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0099",
             "reference_id": "law:보호관찰등에관한법률#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -9549,9 +8750,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0099",
             "reference_id": "law:보호관찰등에관한법률#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "internal_ref",
@@ -9570,9 +8769,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0099",
             "reference_id": "law:보호관찰등에관한법률#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -9607,9 +8804,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0100",
             "reference_id": "law:보호관찰등에관한법률#JO0099",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           }
         ],
         "note": "[전문개정 2008.12.26]",
@@ -9644,9 +8839,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0101",
             "reference_id": "law:보호관찰등에관한법률#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -9665,9 +8858,7 @@
             "source_provision_id": "law:보호관찰등에관한법률#JO0101",
             "reference_id": "law:보호관찰등에관한법률시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_git_path": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "보호관찰 등에 관한 법률/시행령/보호관찰 등에 관한 법률 시행령.json"
           }
         ],
         "note": "[본조신설 2008.12.26]",
@@ -9919,19 +9110,6 @@
       "source_version_uid": "001123:268863:20260201",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260201"
-    },
-    {
-      "promulgation_date": "20260922",
-      "promulgation_no": "21957",
-      "addendum_key": "2026092221957",
-      "content": "부칙 <제21957호,2026.9.22>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
-      "provision_id": "law:보호관찰등에관한법률#ADDENDUM",
-      "is_future": true,
-      "source_mst": "289907",
-      "source_version_uid": "001123:289907:20270323",
-      "source_revision_type": "일부개정",
-      "version_enforcement_date": "20270323",
-      "enforcement_date": "20270323"
     }
   ],
   "appendices": [],
@@ -9968,11 +9146,8 @@
   "provision_id": "law:보호관찰등에관한법률#DOC",
   "addendum_provision_id": "law:보호관찰등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:보호관찰등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [
-    "20270323"
-  ],
-  "has_future": true,
-  "version_count": 2,
-  "git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json",
-  "_schlpub_id_suffix": "법률"
+  "future_enforcement_dates": [],
+  "has_future": false,
+  "version_count": 1,
+  "git_path": "보호관찰 등에 관한 법률/법률/보호관찰 등에 관한 법률.json"
 }
