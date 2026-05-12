@@ -1306,25 +1306,6 @@
             "delegation_type": "위임행정규칙",
             "target_category": "행정규칙",
             "source_article_no": "제6조",
-            "source_clause": "제6조",
-            "link_text": "고시해야 한다",
-            "line_text": "③ 고용노동부장관은 제2항에 따라 정한 대지급금 상한액의 내용을 관보 및 인터넷 홈페이지에 고시해야 한다.",
-            "target_law_name": "체불 임금등 대지급금 상한액 고시",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "target_url": "https://www.law.go.kr/행정규칙/체불 임금등 대지급금 상한액 고시",
-            "resolve_method": "render",
-            "source_provision_id": "law:임금채권보장법시행령#JO0006",
-            "reference_id": "admrul:체불임금등대지급금상한액고시#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "체불 임금등 대지급금 상한액 고시/체불 임금등 대지급금 상한액 고시.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임행정규칙",
-            "target_category": "행정규칙",
-            "source_article_no": "제6조",
             "source_clause": "제6조제2항",
             "link_text": "정한다",
             "line_text": "대지급금의 상한액을 정하는 경우만 해당한다) 등을 고려하여 고용노동부장관이 기획예산처장관과 협의하여 정한다",
@@ -11995,15 +11976,15 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 567,
+    "relations_total": 566,
     "by_category": {
       "법령": 555,
-      "행정규칙": 12
+      "행정규칙": 11
     },
     "by_relation_type": {
       "citation": 504,
       "internal_ref": 42,
-      "delegation": 19,
+      "delegation": 18,
       "appendix_ref": 2
     },
     "articles_total": 39,
