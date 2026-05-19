@@ -2388,6 +2388,25 @@
             "delegation_type": "위임행정규칙",
             "target_category": "행정규칙",
             "source_article_no": "제10조",
+            "source_clause": "제10조",
+            "link_text": "산림청장이 정하여 고시하는",
+            "line_text": "① 법 제13조제1항 본문의 육림업에 이용되는 산지는 법 제17조제2항에 따른 등록신청 연도의 직전 10년 이내에 육림업 직접지불금 지급대상자(배우자 또는 직계존비속을 포함한다)가 실시한 조림ㆍ숲가꾸기 등 산림청장이 정하여 고시하는 육림 실적이 있는 산지로 한다.",
+            "target_law_name": "공익직접지불금 지급대상 산지 및 지급대상자의 세부사항 등에 관한 규정",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/공익직접지불금 지급대상 산지 및 지급대상자의 세부사항 등에 관한 규정",
+            "resolve_method": "render",
+            "source_provision_id": "law:임업산림공익기능증진을위한직접지불제도운영에관한법률시행규칙#JO0010",
+            "reference_id": "admrul:공익직접지불금지급대상산지및지급대상자의세부사항등에관한규정#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "공익직접지불금 지급대상 산지 및 지급대상자의 세부사항 등에 관한 규정/공익직접지불금 지급대상 산지 및 지급대상자의 세부사항 등에 관한 규정.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제10조",
             "source_clause": "제10조제1항",
             "link_text": "산림청장이 정하여 고시하는",
             "line_text": "산림청장이 정하여 고시하는 육림 실적이 있는 산지로 한다.",
@@ -7400,14 +7419,14 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 326,
+    "relations_total": 327,
     "by_category": {
       "법령": 315,
-      "행정규칙": 11
+      "행정규칙": 12
     },
     "by_relation_type": {
       "citation": 280,
-      "delegation": 11,
+      "delegation": 12,
       "internal_ref": 20,
       "appendix_ref": 15
     },
