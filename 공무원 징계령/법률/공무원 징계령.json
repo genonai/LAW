@@ -34,7 +34,7 @@
     "연락부서": {
       "부서단위": {
         "부서연락처": "044-201-8434",
-        "부서키": "423147",
+        "부서키": "429955",
         "부서명": "복무과",
         "소관부처명": "인사혁신처",
         "소관부처코드": "1760000"
@@ -76,9 +76,7 @@
             "source_provision_id": "law:공무원징계령#JO0001",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[본조신설 2013.12.11][종전 제1조는 제1조의2로 이동 <2013.12.11>]",
@@ -113,9 +111,7 @@
             "source_provision_id": "law:공무원징계령#JO0001_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제1조에서 이동, 종전 제1조의2는 제1조의3으로 이동 <2013.12.11>]",
@@ -149,25 +145,42 @@
         "enforcement_date": "20260630",
         "relations": [
           {
-            "relation_type": "internal_ref",
+            "relation_type": "citation",
             "delegation_type": null,
             "target_category": "법령",
             "source_article_no": "제2조",
             "source_clause": "제2조",
             "link_text": "법",
             "line_text": "② 중앙징계위원회는 다음 각 호의 징계 또는 법 제78조의2에 따른 징계부가금(이하 \"징계부가금\"이라 한다) 사건을 심의ㆍ의결한다. <개정 2010.6.15, 2013.12.11, 2013.12.16, 2017.1.10, 2026.6.30>",
-            "target_law_name": "공무원 징계령",
+            "target_law_name": "국가공무원법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "287529",
-            "target_url": "https://www.law.go.kr/법령/공무원 징계령",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0002",
-            "reference_id": "law:공무원징계령#DOC",
+            "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+          },
+          {
+            "relation_type": "citation",
+            "delegation_type": null,
+            "target_category": "법령",
+            "source_article_no": "제2조",
+            "source_clause": "제2조",
+            "link_text": "제78조의2",
+            "line_text": "② 중앙징계위원회는 다음 각 호의 징계 또는 법 제78조의2에 따른 징계부가금(이하 \"징계부가금\"이라 한다) 사건을 심의ㆍ의결한다. <개정 2010.6.15, 2013.12.11, 2013.12.16, 2017.1.10, 2026.6.30>",
+            "target_law_name": "국가공무원법",
+            "target_article_no": "제78조의2",
+            "target_article_title": "징계부가금",
+            "target_mst": "286457",
+            "target_url": "https://www.law.go.kr/법령/국가공무원법/제78조의2",
+            "resolve_method": "pop",
+            "source_provision_id": "law:공무원징계령#JO0002",
+            "reference_id": "law:국가공무원법#JO0078_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -203,11 +216,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립과천과학관보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json",
-            "target_git_path": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json"
           },
           {
             "relation_type": "delegation",
@@ -226,11 +235,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립과학수사연구원공무원보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json",
-            "target_git_path": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -249,11 +254,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립재난안전연구원보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json",
-            "target_git_path": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json"
           },
           {
             "relation_type": "delegation",
@@ -272,11 +273,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:대한민국역사박물관보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json",
-            "target_git_path": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json"
           },
           {
             "relation_type": "delegation",
@@ -295,11 +292,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:문화체육관광부및그소속기관의보통징계위원회설치및운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_git_path": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -318,11 +311,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:법무부와그소속기관의보통징계위원회설치및운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_git_path": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -341,11 +330,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:식품의약품안전처보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json",
-            "target_git_path": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -364,11 +349,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:질병관리청보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json",
-            "target_git_path": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -389,9 +370,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:질병관리청보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json",
-            "target_git_path": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "질병관리청 보통징계위원회 규정/질병관리청 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -412,9 +391,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:식품의약품안전처보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json",
-            "target_git_path": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "식품의약품안전처 보통징계위원회 규정/식품의약품안전처 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -435,9 +412,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:법무부와그소속기관의보통징계위원회설치및운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_git_path": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/법무부와 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -463,9 +438,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:문화체육관광부및그소속기관의보통징계위원회설치및운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_git_path": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정/문화체육관광부 및 그 소속기관의 보통징계위원회 설치 및 운영에 관한 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -486,9 +459,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:대한민국역사박물관보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json",
-            "target_git_path": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "대한민국역사박물관 보통징계위원회 운영규정/대한민국역사박물관 보통징계위원회 운영규정.json"
           },
           {
             "relation_type": "delegation",
@@ -509,9 +480,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립재난안전연구원보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json",
-            "target_git_path": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국립재난안전연구원 보통징계위원회 운영규정/국립재난안전연구원 보통징계위원회 운영규정.json"
           },
           {
             "relation_type": "delegation",
@@ -537,9 +506,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립과학수사연구원공무원보통징계위원회규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json",
-            "target_git_path": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국립과학수사연구원 공무원 보통징계위원회 규정/국립과학수사연구원 공무원 보통징계위원회 규정.json"
           },
           {
             "relation_type": "delegation",
@@ -560,9 +527,7 @@
             "source_provision_id": "law:공무원징계령#JO0003",
             "reference_id": "admrul:국립과천과학관보통징계위원회운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json",
-            "target_git_path": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국립과천과학관 보통징계위원회 운영규정/국립과천과학관 보통징계위원회 운영규정.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -597,9 +562,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:직무분석규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json",
-            "target_git_path": "직무분석규정/법률/직무분석규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json"
           },
           {
             "relation_type": "citation",
@@ -618,9 +581,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:직무분석규정#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json",
-            "target_git_path": "직무분석규정/법률/직무분석규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json"
           },
           {
             "relation_type": "citation",
@@ -639,9 +600,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:직무분석규정#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json",
-            "target_git_path": "직무분석규정/법률/직무분석규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "직무분석규정/법률/직무분석규정.json"
           },
           {
             "relation_type": "citation",
@@ -660,9 +619,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -681,9 +638,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -702,9 +657,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -723,9 +676,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -744,9 +695,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -765,9 +714,7 @@
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -780,15 +727,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -801,15 +746,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -822,15 +765,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0004",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           }
         ],
         "note": "[전문개정 2013.5.31]",
@@ -865,9 +806,7 @@
             "source_provision_id": "law:공무원징계령#JO0005",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -886,9 +825,7 @@
             "source_provision_id": "law:공무원징계령#JO0005",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -901,15 +838,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0005",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -922,15 +857,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0005",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -943,15 +876,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0005",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           }
         ],
         "note": "[전문개정 2015.11.18]",
@@ -986,9 +917,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_02",
             "reference_id": "law:공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1007,9 +936,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_02",
             "reference_id": "law:공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1028,9 +955,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_02",
             "reference_id": "law:공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1049,9 +974,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_02",
             "reference_id": "law:공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2011.1.24]",
@@ -1086,9 +1009,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1107,9 +1028,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1128,9 +1047,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1149,9 +1066,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1170,9 +1085,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1191,9 +1104,7 @@
             "source_provision_id": "law:공무원징계령#JO0005_03",
             "reference_id": "law:공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2015.11.18]",
@@ -1243,9 +1154,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1264,9 +1173,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1285,9 +1192,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1306,9 +1211,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1327,9 +1230,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1348,9 +1249,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1369,9 +1268,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1390,9 +1287,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -1411,9 +1306,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1432,9 +1325,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:국가공무원법#JO0079",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1458,10 +1349,7 @@
             "target_unit": "FORM0001",
             "reference_id": "law:공무원징계령#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식1_공무원 징계의결 또는 징계부가금 부과 의결 요구서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1485,10 +1373,7 @@
             "target_unit": "FORM0001_03",
             "reference_id": "law:공무원징계령#FORM0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식1의3_성폭력 또는 성희롱 비위 사건에 대한 전문가 의견서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -1507,9 +1392,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -1528,9 +1411,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
           },
           {
             "relation_type": "citation",
@@ -1543,15 +1424,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1564,15 +1443,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "citation",
@@ -1585,15 +1462,13 @@
             "target_law_name": "양성평등기본법",
             "target_article_no": "제3조",
             "target_article_title": "정의",
-            "target_mst": "281959",
+            "target_mst": "283895",
             "target_url": "https://www.law.go.kr/법령/양성평등기본법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:양성평등기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json",
-            "target_git_path": "양성평등기본법/법률/양성평등기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양성평등기본법/법률/양성평등기본법.json"
           },
           {
             "relation_type": "delegation",
@@ -1612,9 +1487,7 @@
             "source_provision_id": "law:공무원징계령#JO0007",
             "reference_id": "law:공무원징계령시행규칙#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -1649,9 +1522,7 @@
             "source_provision_id": "law:공무원징계령#JO0008",
             "reference_id": "law:공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1670,9 +1541,7 @@
             "source_provision_id": "law:공무원징계령#JO0008",
             "reference_id": "law:공무원징계령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -1707,9 +1576,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1728,9 +1595,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_02",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1749,9 +1614,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_02",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1770,9 +1633,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_02",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1791,9 +1652,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_02",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -1817,10 +1676,7 @@
             "target_unit": "FORM0001_04",
             "reference_id": "law:공무원징계령#FORM0001_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식1의4_징계등 절차 진행 중지 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2023.10.10]",
@@ -1855,9 +1711,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_03",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1876,9 +1730,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_03",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1897,9 +1749,7 @@
             "source_provision_id": "law:공무원징계령#JO0008_03",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[본조신설 2025.6.30]",
@@ -1934,9 +1784,7 @@
             "source_provision_id": "law:공무원징계령#JO0009",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -1955,9 +1803,7 @@
             "source_provision_id": "law:공무원징계령#JO0009",
             "reference_id": "law:국가공무원법#JO0083",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -1997,10 +1843,7 @@
             "target_unit": "FORM0002",
             "reference_id": "law:공무원징계령#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식2_출석통지서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -2035,9 +1878,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2056,9 +1897,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2082,10 +1921,7 @@
             "target_unit": "FORM0002_02",
             "reference_id": "law:공무원징계령#FORM0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식2의2_의견서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2104,9 +1940,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:감사원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2125,9 +1959,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2146,9 +1978,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           },
           {
             "relation_type": "citation",
@@ -2167,9 +1997,7 @@
             "source_provision_id": "law:공무원징계령#JO0011",
             "reference_id": "law:감사원법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "감사원법/법률/감사원법.json",
-            "target_git_path": "감사원법/법률/감사원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "감사원법/법률/감사원법.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -2219,9 +2047,7 @@
             "source_provision_id": "law:공무원징계령#JO0011_03",
             "reference_id": "law:공무원징계령시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           }
         ],
         "note": "[본조신설 2015.8.3][제11조의2에서 이동 <2019.4.16>]",
@@ -2261,10 +2087,7 @@
             "target_unit": "FORM0003",
             "reference_id": "law:공무원징계령#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식3_징계 또는 징계부가금 의결서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2283,9 +2106,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2304,9 +2125,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2325,9 +2144,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2346,9 +2163,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2367,9 +2182,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2388,9 +2201,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "law:공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "delegation",
@@ -2409,11 +2220,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -2439,9 +2246,7 @@
             "source_provision_id": "law:공무원징계령#JO0012",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -2476,11 +2281,7 @@
             "source_provision_id": "law:공무원징계령#JO0012_02",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -2506,9 +2307,7 @@
             "source_provision_id": "law:공무원징계령#JO0012_02",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           }
         ],
         "note": "[본조신설 2020.7.28]",
@@ -2618,9 +2417,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2639,9 +2436,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2660,9 +2455,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2681,9 +2474,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2702,9 +2493,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2723,9 +2512,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2744,9 +2531,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2765,9 +2550,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2786,9 +2569,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2807,9 +2588,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2828,9 +2607,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2849,9 +2626,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -2875,10 +2650,7 @@
             "target_unit": "FORM0003_02",
             "reference_id": "law:공무원징계령#FORM0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식3의2_징계부가금 감면 의결 요구서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -2897,9 +2669,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2918,9 +2688,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -2939,9 +2707,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2960,9 +2726,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2981,9 +2745,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_02",
             "reference_id": "law:공무원징계령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2010.6.15]",
@@ -3018,9 +2780,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_03",
             "reference_id": "law:공무원징계령시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3039,9 +2799,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_03",
             "reference_id": "law:공무원징계령시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3060,9 +2818,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_03",
             "reference_id": "law:공무원징계령시행규칙#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3081,9 +2837,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_03",
             "reference_id": "law:공무원징계령시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3102,9 +2856,7 @@
             "source_provision_id": "law:공무원징계령#JO0017_03",
             "reference_id": "law:공무원징계령시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_git_path": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/시행규칙/공무원 징계령 시행규칙.json"
           }
         ],
         "note": "[본조신설 2018.5.15]",
@@ -3144,10 +2896,7 @@
             "target_unit": "FORM0003_03",
             "reference_id": "law:공무원징계령#FORM0003_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식3의3_징계부가금 감면 의결서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -3182,9 +2931,7 @@
             "source_provision_id": "law:공무원징계령#JO0018_02",
             "reference_id": "law:공무원징계령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3208,10 +2955,7 @@
             "target_unit": "FORM0003_04",
             "reference_id": "law:공무원징계령#FORM0003_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식3의4_(징계의결서, 징계부가금 의결서, 징계부가금 감면의결서)경정결정서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[본조신설 2015.8.3]",
@@ -3251,10 +2995,7 @@
             "target_unit": "FORM0004",
             "reference_id": "law:공무원징계령#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식4_(징계처분, 징계부가금 부과처분, 징계부가금 감면처분)사유설명서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3273,9 +3014,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원징계령#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3294,9 +3033,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원징계령#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -3315,9 +3052,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3336,9 +3071,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3357,9 +3090,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3378,9 +3109,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3399,9 +3128,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
           },
           {
             "relation_type": "citation",
@@ -3420,9 +3147,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원행동강령#JO0013_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
           },
           {
             "relation_type": "citation",
@@ -3435,15 +3160,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3456,15 +3179,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "제4조",
             "target_article_title": "공공기관",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제4조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3477,15 +3198,13 @@
             "target_law_name": "공공기관의 운영에 관한 법률",
             "target_article_no": "제4조",
             "target_article_title": "공공기관",
-            "target_mst": "276057",
+            "target_mst": "289811",
             "target_url": "https://www.law.go.kr/법령/공공기관의 운영에 관한 법률/제4조",
             "resolve_method": "pop",
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3504,9 +3223,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공직자윤리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json",
-            "target_git_path": "공직자윤리법/법률/공직자윤리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json"
           },
           {
             "relation_type": "citation",
@@ -3525,9 +3242,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공직자윤리법#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json",
-            "target_git_path": "공직자윤리법/법률/공직자윤리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json"
           },
           {
             "relation_type": "citation",
@@ -3546,9 +3261,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공직자윤리법#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json",
-            "target_git_path": "공직자윤리법/법률/공직자윤리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공직자윤리법/법률/공직자윤리법.json"
           },
           {
             "relation_type": "citation",
@@ -3567,9 +3280,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
           },
           {
             "relation_type": "citation",
@@ -3588,9 +3299,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원행동강령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
           },
           {
             "relation_type": "citation",
@@ -3609,9 +3318,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:공무원행동강령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
           },
           {
             "relation_type": "citation",
@@ -3630,9 +3337,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3651,9 +3356,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3672,9 +3375,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "law:국가공무원법#JO0075",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -3698,10 +3399,7 @@
             "target_unit": "FORM0004_02",
             "reference_id": "law:공무원징계령#FORM0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식4의2_징계처분결과 통보서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "delegation",
@@ -3720,11 +3418,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -3743,11 +3437,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -3773,9 +3463,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -3801,9 +3489,7 @@
             "source_provision_id": "law:공무원징계령#JO0019",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2012.9.5]",
@@ -3838,9 +3524,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:공무원징계령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3859,9 +3543,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3880,9 +3562,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:공무원징계령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -3901,9 +3581,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3922,9 +3600,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3943,9 +3619,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3964,9 +3638,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -3985,9 +3657,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4006,9 +3676,7 @@
             "source_provision_id": "law:공무원징계령#JO0019_02",
             "reference_id": "law:국가공무원법#JO0078_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           }
         ],
         "note": "[본조신설 2010.6.15]",
@@ -4088,9 +3756,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4109,9 +3775,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4130,9 +3794,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#JO0070",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4156,10 +3818,7 @@
             "target_unit": "FORM0004_03",
             "reference_id": "law:공무원징계령#FORM0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식4의3_직권 면직(의견,동의)요구서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -4178,9 +3837,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4199,9 +3856,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#JO0078_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4220,51 +3875,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:국가공무원법#JO0078_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제23조",
-            "source_clause": "제23조",
-            "link_text": "제78조의4",
-            "line_text": "② 징계위원회는 다른 징계등 사건(법 제78조의3제2항 및 제78조의4제2항에 따라 징계의결등이 요구된 사건은 제외한다)에 우선하여 직권 면직에 관하여 제시할 의견이나 동의 여부에 대하여 의결해야 한다. <신설 2012.9.5, 2020.7.28>",
-            "target_law_name": "국가공무원법",
-            "target_article_no": "제78조의4",
-            "target_article_title": "퇴직을 희망하는 공무원의 징계사유 확인 및 퇴직 제한 등",
-            "target_mst": "286457",
-            "target_url": "https://www.law.go.kr/법령/국가공무원법/제78조의4",
-            "resolve_method": "pop",
-            "source_provision_id": "law:공무원징계령#JO0023",
-            "reference_id": "law:국가공무원법#JO0078_04",
-            "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "citation",
-            "delegation_type": null,
-            "target_category": "법령",
-            "source_article_no": "제23조",
-            "source_clause": "제23조",
-            "link_text": "제2항",
-            "line_text": "①법 제70조제2항에 따라 임용권자가 직권 면직에 대한 징계위원회의 의견을 들어야 하는 경우에는 이 영에 따른 경징계 요구사건의 징계 관할에 따라, 징계위원회의 동의를 받아야 하는 경우에는 이 영에 따른 중징계 요구사건의 징계 관할에 따라, 관할 징계위원회에 별지 제4호의3서식의 직권 면직 의견ㆍ동의 요구서로 그 의견 또는 동의를 요구하여야 한다. <개정 2012.9.5, 2019.4.16>",
-            "target_law_name": "국가공무원법",
-            "target_article_no": "제78조의4",
-            "target_article_title": "퇴직을 희망하는 공무원의 징계사유 확인 및 퇴직 제한 등",
-            "target_mst": "286457",
-            "target_url": "https://www.law.go.kr/법령/국가공무원법/제78조의4",
-            "resolve_method": "pop",
-            "source_provision_id": "law:공무원징계령#JO0023",
-            "reference_id": "law:국가공무원법#JO0078_04",
-            "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4288,10 +3899,7 @@
             "target_unit": "FORM0004_04",
             "reference_id": "law:공무원징계령#FORM0004_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식4의4_직권 면직(의견,동의)의결서.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4310,9 +3918,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4331,9 +3937,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4352,9 +3956,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4373,9 +3975,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4394,9 +3994,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4415,9 +4013,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4436,9 +4032,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4457,9 +4051,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4478,9 +4070,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4499,9 +4089,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4520,9 +4108,7 @@
             "source_provision_id": "law:공무원징계령#JO0023",
             "reference_id": "law:공무원징계령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -4557,9 +4143,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4578,9 +4162,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4599,9 +4181,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4620,9 +4200,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4641,9 +4219,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#JO0078_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4662,9 +4238,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "law:국가공무원법#JO0078_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "delegation",
@@ -4683,11 +4257,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           },
           {
             "relation_type": "delegation",
@@ -4713,9 +4283,7 @@
             "source_provision_id": "law:공무원징계령#JO0023_02",
             "reference_id": "admrul:국가공무원복무징계관련예규#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_git_path": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "국가공무원 복무·징계 관련 예규/국가공무원 복무·징계 관련 예규.json"
           }
         ],
         "note": "[본조신설 2020.7.28]",
@@ -4750,9 +4318,7 @@
             "source_provision_id": "law:공무원징계령#JO0024",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4771,9 +4337,7 @@
             "source_provision_id": "law:공무원징계령#JO0024",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "citation",
@@ -4792,9 +4356,7 @@
             "source_provision_id": "law:공무원징계령#JO0024",
             "reference_id": "law:국가공무원법#JO0082",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
-            "target_git_path": "국가공무원법/법률/국가공무원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4813,9 +4375,7 @@
             "source_provision_id": "law:공무원징계령#JO0024",
             "reference_id": "law:공무원징계령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           }
         ],
         "note": "[전문개정 2009.3.18]",
@@ -4855,10 +4415,7 @@
             "target_unit": "FORM0005",
             "reference_id": "law:공무원징계령#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식5_징계 또는 징계부가금 처리 대장.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "appendix_ref",
@@ -4882,10 +4439,7 @@
             "target_unit": "FORM0006",
             "reference_id": "law:공무원징계령#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_path": "공무원 징계령/법률/공무원 징계령.json",
-            "target_git_file_path": "공무원 징계령/법률/서식/서식6_징계부가금 관리대장.hwp",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공무원 징계령/법률/공무원 징계령.json"
           },
           {
             "relation_type": "citation",
@@ -4904,9 +4458,7 @@
             "source_provision_id": "law:공무원징계령#JO0025",
             "reference_id": "law:디지털인사관리규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_git_path": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json"
           },
           {
             "relation_type": "citation",
@@ -4925,9 +4477,7 @@
             "source_provision_id": "law:공무원징계령#JO0025",
             "reference_id": "law:디지털인사관리규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_git_path": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json"
           },
           {
             "relation_type": "citation",
@@ -4946,9 +4496,7 @@
             "source_provision_id": "law:공무원징계령#JO0025",
             "reference_id": "law:디지털인사관리규정#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_git_path": "디지털인사관리규정/법률/디지털인사관리규정.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "디지털인사관리규정/법률/디지털인사관리규정.json"
           }
         ],
         "note": "[전문개정 2009.3.18][제목개정 2010.6.15]",
@@ -5185,7 +4733,7 @@
       "promulgation_date": "20080229",
       "promulgation_no": "20741",
       "addendum_key": "2008022920741",
-      "content": "부칙(행정안전부와 그 소속기관 직제) <제20741호,2008.2.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 부터 <17> 까지 생략\n<18> 공무원징계령 일부를 다음과 같이 개정한다.\n제2조제2항제1호, 제4조제3항 및 제26조 중 \"행정자치부령\"을 각각 \"행정안전부령\"으로 한다.\n제4조제2항, 제6조제2항 및 제25조의2제1항ㆍ제2항 중 \"행정자치부장관\"을 각각 \"행정안전부장관\"으로 한다.\n제4조제3항 중 \"행정자치부차관\"을 \"행정안전부차관\"으로 한다.\n<19> 부터 <105> 까지 생략",
+      "content": "부칙(행정안전부와 그 소속기관 직제) <제20741호,2008.2.29>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ① 부터 <17> 까지 생략\n<18> 공무원징계령 일부를 다음과 같이 개정한다.\n제2조제2항제1호, 제4조제3항 및 제26조 중 \"행정자치부령\"을 각각 \"행정안전부령\"으로 한다.\n제4조제2항, 제6조제2항 및 제25조의2제1항ㆍ제2항 중 \"행정자치부장관\"을 각각 \"행정안전부장관\"으로 한다.\n제4조제3항 중 \"행정자치부차관\"을 \"행정안전부차관\"으로 한다.\n<19> 부터 <105> 까지 생략",
       "provision_id": "law:공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "287529",
@@ -5281,7 +4829,7 @@
       "promulgation_date": "20130323",
       "promulgation_no": "24425",
       "addendum_key": "2013032324425",
-      "content": "부칙(안전행정부와 그 소속기관 직제) <제24425호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <23>까지 생략\n<24> 공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항, 제6조제2항, 제25조의2제1항 및 제2항 중 \"행정안전부 장관\"을 각각 \"안전행정부장관\"으로 한다.\n제4조제2항 중 \"행정안전부차관\"을 \"안전행정부차관\"으로 한다.\n제6조제3항 중 \"외교통상부\"를 \"외교부\"로 한다.\n<25>부터 <129>까지 생략",
+      "content": "부칙(안전행정부와 그 소속기관 직제) <제24425호,2013.3.23>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제6조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제5조까지 생략\n제6조(다른 법령의 개정) ①부터 <23>까지 생략\n<24> 공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제2항, 제6조제2항, 제25조의2제1항 및 제2항 중 \"행정안전부 장관\"을 각각 \"안전행정부장관\"으로 한다.\n제4조제2항 중 \"행정안전부차관\"을 \"안전행정부차관\"으로 한다.\n제6조제3항 중 \"외교통상부\"를 \"외교부\"로 한다.\n<25>부터 <129>까지 생략",
       "provision_id": "law:공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "287529",
@@ -5317,7 +4865,7 @@
       "promulgation_date": "20131216",
       "promulgation_no": "25000",
       "addendum_key": "2013121625000",
-      "content": "부칙(공무원임용령) <제25000호,2013.12.16>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조 부터 제7조까지 생략\n제8조(다른 법령의 개정) ① 생략\n② 공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제2항제1호의2마목 및 같은 항 제3호마목 중 \"시간제전문임기제공무원\"을 각각 \"시간선택제전문임기제공무원\"으로 한다.\n③부터 ⑩까지 생략",
+      "content": "부칙(공무원임용령) <제25000호,2013.12.16>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. <단서 생략>\n제2조부터 제7조까지 생략\n제8조(다른 법령의 개정) ① 생략\n② 공무원 징계령 일부를 다음과 같이 개정한다.\n제2조제2항제1호의2마목 및 같은 항 제3호마목 중 \"시간제전문임기제공무원\"을 각각 \"시간선택제전문임기제공무원\"으로 한다.\n③부터 ⑩까지 생략",
       "provision_id": "law:공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "287529",
@@ -5329,7 +4877,7 @@
       "promulgation_date": "20141119",
       "promulgation_no": "25751",
       "addendum_key": "2014111925751",
-      "content": "부칙(행정자치부와 그 소속기관 직제) <제25751호,2014.11.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조 부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <124>까지 생략\n<125> 공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제1항 전단 중 \"위원장 1명과 부위원장 1명\"을 \"위원장 1명\"으로 한다.\n제4조제4항을 다음과 같이 한다.\n④ 중앙징계위원회의 위원장은 인사혁신처장이 된다.\n제6조제2항 중 \"안전행정부장관\"을 \"인사혁신처장\"으로 한다.\n제14조 중 \"부위원장, 위원장\"을 \"위원장\"으로 한다.\n<126>부터 <418>까지 생략",
+      "content": "부칙(행정자치부와 그 소속기관 직제) <제25751호,2014.11.19>\n제1조(시행일) 이 영은 공포한 날부터 시행한다. 다만, 부칙 제5조에 따라 개정되는 대통령령 중 이 영 시행 전에 공포되었으나 시행일이 도래하지 아니한 대통령령을 개정한 부분은 각각 해당 대통령령의 시행일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) ①부터 <124>까지 생략\n<125> 공무원 징계령 일부를 다음과 같이 개정한다.\n제4조제1항 전단 중 \"위원장 1명과 부위원장 1명\"을 \"위원장 1명\"으로 한다.\n제4조제4항을 다음과 같이 한다.\n④ 중앙징계위원회의 위원장은 인사혁신처장이 된다.\n제6조제2항 중 \"안전행정부장관\"을 \"인사혁신처장\"으로 한다.\n제14조 중 \"부위원장, 위원장\"을 \"위원장\"으로 한다.\n<126>부터 <418>까지 생략",
       "provision_id": "law:공무원징계령#ADDENDUM",
       "is_future": false,
       "source_mst": "287529",
@@ -6114,15 +5662,15 @@
   ],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 196,
+    "relations_total": 195,
     "by_category": {
-      "법령": 170,
+      "법령": 169,
       "행정규칙": 26
     },
     "by_relation_type": {
       "citation": 107,
-      "internal_ref": 41,
       "delegation": 33,
+      "internal_ref": 40,
       "appendix_ref": 15
     },
     "articles_total": 41,
@@ -6134,9 +5682,9 @@
     "ordinance_docs_total": 0,
     "addenda_count": 44,
     "appendices_count": 16,
-    "pop_miss": 1,
+    "pop_miss": 2,
     "pop_miss_by_reason": {
-      "target_article_missing": 1
+      "target_article_missing": 2
     },
     "pop_skipped_addendum": 0
   },
@@ -6149,6 +5697,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공무원 징계령/법률/공무원 징계령.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "공무원 징계령/법률/공무원 징계령.json"
 }
