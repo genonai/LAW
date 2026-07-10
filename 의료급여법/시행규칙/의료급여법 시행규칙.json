@@ -2490,44 +2490,6 @@
             "target_category": "행정규칙",
             "source_article_no": "제3조",
             "source_clause": "제3조",
-            "link_text": "보건복지부장관이 정하여 고시하는",
-            "line_text": "3. 영 제3조제2항제1호다목에 따라 보건복지부장관이 정하여 고시하는 결핵질환, 희귀난치성질환 또는 중증질환을 가진 사람이 의료급여를 받으려는 경우",
-            "target_law_name": "의료급여수가의 기준 및 일반기준",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "target_url": "https://www.law.go.kr/행정규칙/의료급여수가의 기준 및 일반기준",
-            "resolve_method": "render",
-            "source_provision_id": "law:의료급여법시행규칙#JO0003",
-            "reference_id": "admrul:의료급여수가의기준및일반기준#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "의료급여수가의 기준 및 일반기준/의료급여수가의 기준 및 일반기준.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임행정규칙",
-            "target_category": "행정규칙",
-            "source_article_no": "제3조",
-            "source_clause": "제3조",
-            "link_text": "보건복지부장관이 정하여 고시하는",
-            "line_text": "3. 영 제3조제2항제1호다목에 따라 보건복지부장관이 정하여 고시하는 결핵질환, 희귀난치성질환 또는 중증질환을 가진 사람이 의료급여를 받으려는 경우",
-            "target_law_name": "코로나바이러스감염증-19 의료급여 절차 예외 인정기준",
-            "target_article_no": "",
-            "target_article_title": "",
-            "target_mst": "",
-            "target_url": "https://www.law.go.kr/행정규칙/코로나바이러스감염증-19 의료급여 절차 예외 인정기준",
-            "resolve_method": "render",
-            "source_provision_id": "law:의료급여법시행규칙#JO0003",
-            "reference_id": "admrul:코로나바이러스감염증-19의료급여절차예외인정기준#DOC",
-            "target_repo": "ADMRUL",
-            "target_git_path_guess": "코로나바이러스감염증-19 의료급여 절차 예외 인정기준/코로나바이러스감염증-19 의료급여 절차 예외 인정기준.json"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "위임행정규칙",
-            "target_category": "행정규칙",
-            "source_article_no": "제3조",
-            "source_clause": "제3조",
             "link_text": "보건복지부장관이 정하여 고시한다",
             "line_text": "⑧ 제1항부터 제7항까지에서 규정한 사항 외에 의료급여의 의뢰, 수급권자의 회송, 진료 의뢰ㆍ회송 중계시스템의 운영 방법 등에 필요한 사항은 보건복지부장관이 정하여 고시한다. <신설 2020.6.29>",
             "target_law_name": "진료의뢰·회송 중계시스템 운영 등에 관한 세부사항",
@@ -15775,14 +15737,14 @@
     }
   ],
   "relation_stats": {
-    "relations_total": 545,
+    "relations_total": 543,
     "by_category": {
       "법령": 478,
-      "행정규칙": 67
+      "행정규칙": 65
     },
     "by_relation_type": {
       "citation": 345,
-      "delegation": 67,
+      "delegation": 65,
       "internal_ref": 73,
       "appendix_ref": 60
     },
