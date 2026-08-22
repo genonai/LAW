@@ -692,6 +692,8 @@
   "version_signature": "3db9b7f937e77773"
  },
  "law:eflaw:000117": {
+  "collected_signature": "2150724f25ccd959",
+  "content_hash": "1ab6d5688e70cf6f52d5264c95e1b6e99d0f9e2ae2c703870d09a8ac1c93ff87",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247245&type=HTML&mobileYn=&efYd=20230704",
   "doc_domain": "law",
   "doc_id": "000117",
@@ -699,11 +701,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230704",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:07.158187+00:00",
+  "last_collected_at": "2026-08-22T21:10:33.431279+00:00",
   "ministry": "고용노동부",
   "mst": "247245",
   "name": "국민 평생 직업능력 개발법",
+  "payload_law_id": "000117",
   "promulgation_date": "20230103",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2150724f25ccd959"
  },
@@ -11508,6 +11513,8 @@
   "version_signature": "b5167f3233fce5de"
  },
  "law:eflaw:001971": {
+  "collected_signature": "d7563de25b9caf37",
+  "content_hash": "935caae1fc1331563f8983e32326e47d2cf976d1c67408f5c90b36161bda6d25",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276651&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001971",
@@ -11515,12 +11522,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:09.199777+00:00",
+  "last_collected_at": "2026-08-22T21:16:27.054238+00:00",
   "ministry": "보건복지부",
   "mst": "276651",
   "name": "국민건강보험법",
+  "payload_law_id": "001971",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 5,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d7563de25b9caf37"
  },
  "law:eflaw:001972": {
@@ -16604,6 +16614,8 @@
   "version_signature": "9464014a14240c78"
  },
  "law:eflaw:003069": {
+  "collected_signature": "5e42c015f945a18b",
+  "content_hash": "06154bbe2ed5f75f6ea5b18a476cd6d8203487f3e289b2cc267ca9ea7286d116",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288451&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "003069",
@@ -16611,11 +16623,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260804",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:08.005258+00:00",
+  "last_collected_at": "2026-08-22T21:10:52.467432+00:00",
   "ministry": "고용노동부",
   "mst": "288451",
   "name": "국민 평생 직업능력 개발법 시행령",
+  "payload_law_id": "003069",
   "promulgation_date": "20260803",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5e42c015f945a18b"
  },
@@ -32198,6 +32213,8 @@
   "version_signature": "338373a14fd0e308"
  },
  "law:eflaw:006697": {
+  "collected_signature": "8417cc1bf569ab48",
+  "content_hash": "83dbdc6582d0a739bf3283ae012c9013ca392a6f0bb745f5d939f80feb017733",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285513&type=HTML&mobileYn=&efYd=20260415",
   "doc_domain": "law",
   "doc_id": "006697",
@@ -32205,11 +32222,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260415",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:08.561480+00:00",
+  "last_collected_at": "2026-08-22T21:14:07.203535+00:00",
   "ministry": "보건복지부",
   "mst": "285513",
   "name": "국민건강보험 요양급여의 기준에 관한 규칙",
+  "payload_law_id": "006697",
   "promulgation_date": "20260415",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8417cc1bf569ab48"
  },
@@ -32875,6 +32895,8 @@
   "version_signature": "c5fc1360071caa83"
  },
  "law:eflaw:006865": {
+  "collected_signature": "54f3904c03126337",
+  "content_hash": "172b08e65fc55886406694ed1f113175710fdd4fcc6c79dc44f2cbaf0c6d853c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286973&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "006865",
@@ -32882,11 +32904,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:07.607048+00:00",
+  "last_collected_at": "2026-08-22T21:10:57.137871+00:00",
   "ministry": "고용노동부",
   "mst": "286973",
   "name": "국민 평생 직업능력 개발법 시행규칙",
+  "payload_law_id": "006865",
   "promulgation_date": "20260617",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "54f3904c03126337"
  },
@@ -42082,6 +42107,8 @@
   "version_signature": "44b5848096bac230"
  },
  "law:eflaw:009285": {
+  "collected_signature": "b8711ad1a380c82a",
+  "content_hash": "56c96f9f0de401d7702ed61f5553a8a4b73ac0aa8b615b4a0ef1a765d4d8d4e3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244419&type=HTML&mobileYn=&efYd=20220829",
   "doc_domain": "law",
   "doc_id": "009285",
@@ -42089,11 +42116,14 @@
   "doc_type": "감사원규칙",
   "enforcement_date": "20220829",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:08.215600+00:00",
+  "last_collected_at": "2026-08-22T21:04:00.363283+00:00",
   "ministry": "감사원",
   "mst": "244419",
   "name": "국민감사청구ㆍ부패행위신고등처리에관한규칙",
+  "payload_law_id": "009285",
   "promulgation_date": "20220829",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b8711ad1a380c82a"
  },
@@ -50774,6 +50804,8 @@
   "version_signature": "b508f5ffbda0eaa2"
  },
  "law:eflaw:010212": {
+  "collected_signature": "811b67320458f448",
+  "content_hash": "3fe73de18aa128f59f706b0978178b41cfc58196bcce8d9ba62bd0b3ff6762cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277707&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010212",
@@ -50781,11 +50813,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:09.880062+00:00",
+  "last_collected_at": "2026-08-22T21:11:04.895884+00:00",
   "ministry": "행정안전부",
   "mst": "277707",
   "name": "국민 제안 규정",
+  "payload_law_id": "010212",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "811b67320458f448"
  },
@@ -50806,6 +50841,8 @@
   "version_signature": "1bb873bb693f4c35"
  },
  "law:eflaw:010214": {
+  "collected_signature": "c0a4860a46c75901",
+  "content_hash": "6a149b1b521f502762dc5a2164ee9967bb46eb6d6a6805c2fefcdf467bd69c2d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243861&type=HTML&mobileYn=&efYd=20220712",
   "doc_domain": "law",
   "doc_id": "010214",
@@ -50813,11 +50850,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20220712",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:03:10.374957+00:00",
+  "last_collected_at": "2026-08-22T21:10:42.546161+00:00",
   "ministry": "행정안전부",
   "mst": "243861",
   "name": "국민 제안 규정 시행규칙",
+  "payload_law_id": "010214",
   "promulgation_date": "20220711",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c0a4860a46c75901"
  },
