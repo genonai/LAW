@@ -7018,6 +7018,8 @@
   "version_signature": "75c1b4b48a347fca"
  },
  "law:eflaw:001344": {
+  "collected_signature": "696ede44facddacc",
+  "content_hash": "a26d13c7fc4838acec0d7c231cfa8ae935955314840b9d1edee424d1ae673fb9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=241913&type=HTML&mobileYn=&efYd=20221027",
   "doc_domain": "law",
   "doc_id": "001344",
@@ -7025,11 +7027,14 @@
   "doc_type": "법률",
   "enforcement_date": "20221027",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:41.081874+00:00",
+  "last_collected_at": "2026-08-22T14:03:06.797850+00:00",
   "ministry": "행정안전부",
   "mst": "241913",
   "name": "공무원직장협의회의 설립ㆍ운영에 관한 법률",
+  "payload_law_id": "001344",
   "promulgation_date": "20220426",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "696ede44facddacc"
  },
@@ -13532,6 +13537,8 @@
   "version_signature": "729babcf6fc9af4b"
  },
  "law:eflaw:002315": {
+  "collected_signature": "ed04a9fe4122a190",
+  "content_hash": "cbcec4cbede260723a01f89fabbff88876bcd0a2fc0bfb8f828e378bfdfbd03f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285403&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "002315",
@@ -13539,15 +13546,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:41.264134+00:00",
+  "last_collected_at": "2026-08-22T14:18:44.180187+00:00",
   "ministry": "인사혁신처",
   "mst": "285403",
   "name": "공무원임용령",
+  "payload_law_id": "002315",
   "promulgation_date": "20260407",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ed04a9fe4122a190"
  },
  "law:eflaw:002317": {
+  "collected_signature": "6bcb26af864a759a",
+  "content_hash": "1379aca09dc547b93ca5e1f9dc6d732ff8a3fb897c4bb9fb9984ca9a07b9ad23",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287531&type=HTML&mobileYn=&efYd=20260801",
   "doc_domain": "law",
   "doc_id": "002317",
@@ -13555,12 +13567,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260801",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:42.714974+00:00",
+  "last_collected_at": "2026-08-22T14:11:39.969287+00:00",
   "ministry": "인사혁신처",
   "mst": "287531",
   "name": "공무원임용시험령",
+  "payload_law_id": "002317",
   "promulgation_date": "20260630",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "6bcb26af864a759a"
  },
  "law:eflaw:002321": {
@@ -13580,6 +13595,8 @@
   "version_signature": "8e52ea893a112aa6"
  },
  "law:eflaw:002322": {
+  "collected_signature": "2b1a21da02f7bc13",
+  "content_hash": "3117e78e0196a853578af3a776374e8a55c2b221f0a2bfc76971720975c28b29",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245067&type=HTML&mobileYn=&efYd=20221027",
   "doc_domain": "law",
   "doc_id": "002322",
@@ -13587,11 +13604,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20221027",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:42.416541+00:00",
+  "last_collected_at": "2026-08-22T14:05:26.699789+00:00",
   "ministry": "행정안전부",
   "mst": "245067",
   "name": "공무원직장협의회의 설립ㆍ운영에 관한 법률 시행령",
+  "payload_law_id": "002322",
   "promulgation_date": "20221025",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2b1a21da02f7bc13"
  },
@@ -65844,6 +65864,8 @@
   "version_signature": "eb408e2bed78ee92"
  },
  "law:eflaw:011858": {
+  "collected_signature": "bbc607c03c9731fb",
+  "content_hash": "c60d133eb6c39d4a21249eb04a34f6f1af019eb88e16c151287cd72bc662250a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=230205&type=HTML&mobileYn=&efYd=20220317",
   "doc_domain": "law",
   "doc_id": "011858",
@@ -65851,11 +65873,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220317",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:40.733520+00:00",
+  "last_collected_at": "2026-08-22T14:02:42.046096+00:00",
   "ministry": "국토교통부",
   "mst": "230205",
   "name": "공사중단 장기방치 건축물의 정비 등에 관한 특별조치법",
+  "payload_law_id": "011858",
   "promulgation_date": "20210316",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bbc607c03c9731fb"
  },
@@ -79962,6 +79987,8 @@
   "version_signature": "32572949daa1273f"
  },
  "law:eflaw:013879": {
+  "collected_signature": "6126b29e0980acb4",
+  "content_hash": "1efdfdb3c50bad0ca5c967657a9399230f104424b0f1635b6005af866eb99cf4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249557&type=HTML&mobileYn=&efYd=20230605",
   "doc_domain": "law",
   "doc_id": "013879",
@@ -79969,11 +79996,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230605",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:43.336723+00:00",
+  "last_collected_at": "2026-08-22T14:02:51.470086+00:00",
   "ministry": "법무부,재외동포청",
   "mst": "249557",
   "name": "공문서에 대한 아포스티유 및 본부영사확인서 발급에 관한 규정",
+  "payload_law_id": "013879",
   "promulgation_date": "20230405",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6126b29e0980acb4"
  },
@@ -81745,6 +81775,8 @@
   "version_signature": "94ac4df948394888"
  },
  "law:eflaw:014073": {
+  "collected_signature": "7071ac7d108605ae",
+  "content_hash": "76aeb2a5dab3df4f8dfe544f3b82326f62378ef7af4a9952acc9632bf0c55c57",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273415&type=HTML&mobileYn=&efYd=20250819",
   "doc_domain": "law",
   "doc_id": "014073",
@@ -81752,11 +81784,14 @@
   "doc_type": "외교부령",
   "enforcement_date": "20250819",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:43.179194+00:00",
+  "last_collected_at": "2026-08-22T14:05:14.532268+00:00",
   "ministry": "법무부,재외동포청",
   "mst": "273415",
   "name": "공문서에 대한 아포스티유 및 본부영사확인서 발급에 관한 규정 시행규칙",
+  "payload_law_id": "014073",
   "promulgation_date": "20250819",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7071ac7d108605ae"
  },
@@ -91761,6 +91796,8 @@
   "version_signature": "138c92d772598cb1"
  },
  "law:eflaw:015067": {
+  "collected_signature": "3d14c9a0a538dbf5",
+  "content_hash": "38b9abfb1ea9fb656b0abb42381bb41cc16b8c6d5813f68c3e55d9aa4227f9aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284453&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "015067",
@@ -91768,11 +91805,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260918",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:01:46.342430+00:00",
+  "last_collected_at": "2026-08-22T14:01:50.235280+00:00",
   "ministry": "고용노동부",
   "mst": "284453",
   "name": "공무직위원회 설치 및 운영에 관한 법률",
+  "payload_law_id": "015067",
   "promulgation_date": "20260317",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3d14c9a0a538dbf5"
  },
