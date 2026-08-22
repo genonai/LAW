@@ -6551,6 +6551,8 @@
   "version_signature": "78f7b6d7a561dc3c"
  },
  "law:eflaw:001256": {
+  "collected_signature": "bab79484f6a49ba7",
+  "content_hash": "10745db03b8828b8262bc5d6854f75d1ed56d5380a89905b92911ec67e4e9f09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276273&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001256",
@@ -6558,11 +6560,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:35.809728+00:00",
+  "last_collected_at": "2026-08-22T14:57:10.210008+00:00",
   "ministry": "법무부",
   "mst": "276273",
   "name": "공장 및 광업재단 저당법",
+  "payload_law_id": "001256",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bab79484f6a49ba7"
  },
@@ -8748,6 +8753,8 @@
   "version_signature": "032ae04cf1361077"
  },
  "law:eflaw:001592": {
+  "collected_signature": "4941dedcb1b67482",
+  "content_hash": "ee984cc09a4fbd92bbb6c9d7910dd39d3dfcae3658666cf62e7c3b72fe6488ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258791&type=HTML&mobileYn=&efYd=20240116",
   "doc_domain": "law",
   "doc_id": "001592",
@@ -8755,11 +8762,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240116",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:35.419297+00:00",
+  "last_collected_at": "2026-08-22T14:58:38.523801+00:00",
   "ministry": "금융위원회",
   "mst": "258791",
   "name": "공인회계사법",
+  "payload_law_id": "001592",
   "promulgation_date": "20240116",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4941dedcb1b67482"
  },
@@ -13783,6 +13793,8 @@
   "version_signature": "69284882ab7b3c80"
  },
  "law:eflaw:002367": {
+  "collected_signature": "af177fcf4bdd8459",
+  "content_hash": "cb6e290227ac26a50bb18115cf3ebeb4635ac5226228e9619b28c83660b495bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271153&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "002367",
@@ -13790,11 +13802,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:36.225558+00:00",
+  "last_collected_at": "2026-08-22T14:59:15.161952+00:00",
   "ministry": "금융위원회",
   "mst": "271153",
   "name": "공인회계사법 시행령",
+  "payload_law_id": "002367",
   "promulgation_date": "20250520",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "af177fcf4bdd8459"
  },
@@ -18480,6 +18495,8 @@
   "version_signature": "fb193e25973f1ec2"
  },
  "law:eflaw:003673": {
+  "collected_signature": "71c9ac2da6498e05",
+  "content_hash": "694bc6261fd6d95e76a90de7db251ed33a8e11c19fc18acbe12b5691d3d9536f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279243&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "003673",
@@ -18487,12 +18504,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:35.693449+00:00",
+  "last_collected_at": "2026-08-22T14:58:58.212447+00:00",
   "ministry": "국토교통부",
   "mst": "279243",
   "name": "공인중개사법 시행령",
+  "payload_law_id": "003673",
   "promulgation_date": "20251021",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "71c9ac2da6498e05"
  },
  "law:eflaw:003682": {
@@ -27452,6 +27472,8 @@
   "version_signature": "cd0e8f596b9b844d"
  },
  "law:eflaw:005920": {
+  "collected_signature": "16beb639b29ad600",
+  "content_hash": "af2a5322abdbf57137bb857cf9176f2098b45893ad7c523dbb88650dd9d97ff5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266765&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "005920",
@@ -27459,11 +27481,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:37.529709+00:00",
+  "last_collected_at": "2026-08-22T14:57:06.592817+00:00",
   "ministry": "대법원",
   "mst": "266765",
   "name": "공장 및 광업재단 저당등기 규칙",
+  "payload_law_id": "005920",
   "promulgation_date": "20241129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "16beb639b29ad600"
  },
@@ -30079,6 +30104,8 @@
   "version_signature": "a93144d07dd97391"
  },
  "law:eflaw:006350": {
+  "collected_signature": "050fbca61e9894ca",
+  "content_hash": "5e221f4c8fa66f314ee7175422ffbb7269e35cb881777230944b7f405f3796fe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273111&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "006350",
@@ -30086,11 +30113,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:37.902739+00:00",
+  "last_collected_at": "2026-08-22T14:57:41.093891+00:00",
   "ministry": "금융위원회",
   "mst": "273111",
   "name": "공인회계사법 시행규칙",
+  "payload_law_id": "006350",
   "promulgation_date": "20250801",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "050fbca61e9894ca"
  },
@@ -39823,6 +39853,8 @@
   "version_signature": "aed2250d90e453db"
  },
  "law:eflaw:009156": {
+  "collected_signature": "73aa15c6d21a756a",
+  "content_hash": "c83d0e8b6d6dc1d8e84861788aab9bb21cb1e4b71cef3e23e4f826e4c7bf54c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277237&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009156",
@@ -39830,11 +39862,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:34.221874+00:00",
+  "last_collected_at": "2026-08-22T14:54:30.631115+00:00",
   "ministry": "금융위원회",
   "mst": "277237",
   "name": "공적자금관리 특별법",
+  "payload_law_id": "009156",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "73aa15c6d21a756a"
  },
@@ -48371,6 +48406,8 @@
   "version_signature": "1762dd4bdf77f7e5"
  },
  "law:eflaw:010106": {
+  "collected_signature": "a2107b2ed16c5d9a",
+  "content_hash": "d580c11cdcfcb0280c238d19942f5f8dff2f1379cf82886354e045769849d557",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244751&type=HTML&mobileYn=&efYd=20230101",
   "doc_domain": "law",
   "doc_id": "010106",
@@ -48378,11 +48415,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20230101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:53:34.887000+00:00",
+  "last_collected_at": "2026-08-22T14:57:06.227624+00:00",
   "ministry": "대법원",
   "mst": "244751",
   "name": "공인중개사의 매수신청대리인 등록 등에 관한 규칙",
+  "payload_law_id": "010106",
   "promulgation_date": "20220929",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a2107b2ed16c5d9a"
  },
