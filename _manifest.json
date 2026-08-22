@@ -59502,6 +59502,8 @@
   "version_signature": "24793c5a2c582e1b"
  },
  "law:eflaw:011357": {
+  "collected_signature": "c70cf449e989b3f5",
+  "content_hash": "1a99caad32942f9b6ed96d251a2fa999f64e41456bf74fcf32058cede366dac5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270351&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "011357",
@@ -59509,12 +59511,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:52.477713+00:00",
+  "last_collected_at": "2026-08-22T07:39:23.836062+00:00",
   "ministry": "개인정보보호위원회",
   "mst": "270351",
   "name": "개인정보 보호법",
+  "payload_law_id": "011357",
   "promulgation_date": "20250401",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c70cf449e989b3f5"
  },
  "law:eflaw:011358": {
@@ -60690,6 +60695,8 @@
   "version_signature": "9484ebe9c0f349ef"
  },
  "law:eflaw:011467": {
+  "collected_signature": "5b89be9d3ba523a0",
+  "content_hash": "97ca1820ec46d906937004584104a6000797a4cb237a7e7c8e9a7c37d3dd7968",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=117412&type=HTML&mobileYn=&efYd=20110930",
   "doc_domain": "law",
   "doc_id": "011467",
@@ -60697,15 +60704,20 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20110930",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:50.949021+00:00",
+  "last_collected_at": "2026-08-22T07:36:05.410403+00:00",
   "ministry": "대법원",
   "mst": "117412",
   "name": "개인정보 단체소송규칙",
+  "payload_law_id": "011467",
   "promulgation_date": "20110928",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5b89be9d3ba523a0"
  },
  "law:eflaw:011468": {
+  "collected_signature": "4f56a55d93856e04",
+  "content_hash": "18a820a83482e7817b5b8b87d04d21727e055af0269cea3c1b2bfb05f8841f4e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283503&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "011468",
@@ -60713,11 +60725,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:50.167702+00:00",
+  "last_collected_at": "2026-08-22T07:42:52.397151+00:00",
   "ministry": "개인정보보호위원회",
   "mst": "283503",
   "name": "개인정보 보호법 시행령",
+  "payload_law_id": "011468",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4f56a55d93856e04"
  },
@@ -74932,6 +74947,8 @@
   "version_signature": "f6aaa7c72962dffc"
  },
  "law:eflaw:013246": {
+  "collected_signature": "46d31cc8c5dd96a7",
+  "content_hash": "bc2f0b2f5a854678a6894624263e8423c07c28ddc59ddf881608a1e2dc76995b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277057&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013246",
@@ -74939,11 +74956,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:52.224594+00:00",
+  "last_collected_at": "2026-08-22T07:39:05.301773+00:00",
   "ministry": "해양수산부",
   "mst": "277057",
   "name": "갯벌 및 그 주변지역의 지속가능한 관리와 복원에 관한 법률",
+  "payload_law_id": "013246",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "46d31cc8c5dd96a7"
  },
@@ -76323,6 +76343,8 @@
   "version_signature": "ccf53882b118a422"
  },
  "law:eflaw:013647": {
+  "collected_signature": "84c78eee5450b297",
+  "content_hash": "25912daf6f7a79ba0aa99c464ca31e9a03b046e8bb1072d389f90e4813c27479",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270439&type=HTML&mobileYn=&efYd=20250401",
   "doc_domain": "law",
   "doc_id": "013647",
@@ -76330,11 +76352,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250401",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:49.594122+00:00",
+  "last_collected_at": "2026-08-22T07:38:47.794311+00:00",
   "ministry": "해양수산부",
   "mst": "270439",
   "name": "갯벌 및 그 주변지역의 지속가능한 관리와 복원에 관한 법률 시행령",
+  "payload_law_id": "013647",
   "promulgation_date": "20250401",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "84c78eee5450b297"
  },
@@ -76371,6 +76396,8 @@
   "version_signature": "fe264f0323625fd0"
  },
  "law:eflaw:013651": {
+  "collected_signature": "60ef98b1575cfdd2",
+  "content_hash": "cca6978e23754bb24975638017e383394f26c26e495130809883016e2d17f947",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239189&type=HTML&mobileYn=&efYd=20220103",
   "doc_domain": "law",
   "doc_id": "013651",
@@ -76378,11 +76405,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20220103",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:50.438577+00:00",
+  "last_collected_at": "2026-08-22T07:34:23.299840+00:00",
   "ministry": "해양수산부",
   "mst": "239189",
   "name": "갯벌 및 그 주변지역의 지속가능한 관리와 복원에 관한 법률 시행규칙",
+  "payload_law_id": "013651",
   "promulgation_date": "20220103",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "60ef98b1575cfdd2"
  },
@@ -77843,6 +77873,8 @@
   "version_signature": "a32c870a9e48b463"
  },
  "law:eflaw:013821": {
+  "collected_signature": "7458ab2175c10fef",
+  "content_hash": "f2f5933335c9b7208394f90127d67cbf1047830906eca557c336aee6df532d08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284641&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "013821",
@@ -77850,11 +77882,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:52.119621+00:00",
+  "last_collected_at": "2026-08-22T07:35:24.570605+00:00",
   "ministry": "개인정보보호위원회,행정안전부",
   "mst": "284641",
   "name": "개인정보 보호위원회 직제",
+  "payload_law_id": "013821",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7458ab2175c10fef"
  },
@@ -77891,6 +77926,8 @@
   "version_signature": "ca59c03d642f0cbe"
  },
  "law:eflaw:013827": {
+  "collected_signature": "3abcfae809cac9cc",
+  "content_hash": "29466d8ba0f7677334764a914a6fb1229f981603b53e500a7e86255e102a2ec1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286655&type=HTML&mobileYn=&efYd=20260529",
   "doc_domain": "law",
   "doc_id": "013827",
@@ -77898,11 +77935,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20260529",
   "is_active": true,
+  "last_checked_at": "2026-08-22T07:33:52.916030+00:00",
+  "last_collected_at": "2026-08-22T07:35:25.526989+00:00",
   "ministry": "개인정보보호위원회",
   "mst": "286655",
   "name": "개인정보 보호위원회 직제 시행규칙",
+  "payload_law_id": "013827",
   "promulgation_date": "20260529",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3abcfae809cac9cc"
  },
