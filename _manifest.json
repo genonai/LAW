@@ -4870,6 +4870,8 @@
   "version_signature": "9859cda2995f3e71"
  },
  "law:eflaw:000946": {
+  "collected_signature": "1fabc6abb5af917b",
+  "content_hash": "6a9ae442e9afbc6a16b577908e2ffa506b119711ee220bb5b29b8a7c50cd9a03",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=231369&type=HTML&mobileYn=&efYd=20211014",
   "doc_domain": "law",
   "doc_id": "000946",
@@ -4877,11 +4879,14 @@
   "doc_type": "법률",
   "enforcement_date": "20211014",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:29.658409+00:00",
+  "last_collected_at": "2026-08-22T20:26:26.458797+00:00",
   "ministry": "국방부",
   "mst": "231369",
   "name": "국군간호사관학교 설치법",
+  "payload_law_id": "000946",
   "promulgation_date": "20210413",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1fabc6abb5af917b"
  },
@@ -7588,6 +7593,8 @@
   "version_signature": "d3575f73fcabe62a"
  },
  "law:eflaw:001424": {
+  "collected_signature": "cd1c861b4daad3e8",
+  "content_hash": "7b2b76899956a93fa80a9ab2ed594493b02766013d5657c7bbe18957a812f7b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=165523&type=HTML&mobileYn=&efYd=20141230",
   "doc_domain": "law",
   "doc_id": "001424",
@@ -7595,11 +7602,14 @@
   "doc_type": "법률",
   "enforcement_date": "20141230",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:32.776169+00:00",
+  "last_collected_at": "2026-08-22T20:25:38.874586+00:00",
   "ministry": "행정안전부",
   "mst": "165523",
   "name": "국경일에 관한 법률",
+  "payload_law_id": "001424",
   "promulgation_date": "20141230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cd1c861b4daad3e8"
  },
@@ -27931,6 +27941,8 @@
   "version_signature": "883e990c110b53e8"
  },
  "law:eflaw:005908": {
+  "collected_signature": "33579210da80eb13",
+  "content_hash": "6a55615bc310daf2995780cb949b4b4d2a51137fe51a61da1f9e2812ac6a3c55",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273617&type=HTML&mobileYn=&efYd=20250901",
   "doc_domain": "law",
   "doc_id": "005908",
@@ -27938,11 +27950,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250901",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:30.768379+00:00",
+  "last_collected_at": "2026-08-22T20:25:45.996047+00:00",
   "ministry": "대법원",
   "mst": "273617",
   "name": "국고금관리법 등의 위임사항 등에 관한 규칙",
+  "payload_law_id": "005908",
   "promulgation_date": "20250901",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "33579210da80eb13"
  },
@@ -29043,6 +29058,8 @@
   "version_signature": "f9b668f9cb847331"
  },
  "law:eflaw:006073": {
+  "collected_signature": "22fdb4b19ce58981",
+  "content_hash": "3f8d3467f01f0e65059f4579a33133ce3febcf97eb7df50e90b04bd46222bc08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280325&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "006073",
@@ -29050,11 +29067,14 @@
   "doc_type": "헌법재판소규칙",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:31.580467+00:00",
+  "last_collected_at": "2026-08-22T20:26:54.974841+00:00",
   "ministry": "헌법재판소",
   "mst": "280325",
   "name": "국고금 관리법의 관직지정에 관한 규칙",
+  "payload_law_id": "006073",
   "promulgation_date": "20251215",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "22fdb4b19ce58981"
  },
@@ -43076,6 +43096,8 @@
   "version_signature": "49292701707366de"
  },
  "law:eflaw:009409": {
+  "collected_signature": "a133456f5fde20a0",
+  "content_hash": "f22004dae61e37d6144ac0ff3a941fdd2ebe32c108de721ac74412bd5d54d58d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276079&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009409",
@@ -43083,12 +43105,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:29.915071+00:00",
+  "last_collected_at": "2026-08-22T20:28:01.925401+00:00",
   "ministry": "재정경제부",
   "mst": "276079",
   "name": "국고금 관리법",
+  "payload_law_id": "009409",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a133456f5fde20a0"
  },
  "law:eflaw:009410": {
@@ -43193,6 +43218,8 @@
   "version_signature": "ae37d996e0e3a4d7"
  },
  "law:eflaw:009450": {
+  "collected_signature": "56864847262e846b",
+  "content_hash": "b54bf7b1ce05630c66ba7ef4b8ff27cc2d86d4721e49a0865f72461bb08b122e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280813&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009450",
@@ -43200,11 +43227,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:32.660633+00:00",
+  "last_collected_at": "2026-08-22T20:30:07.442637+00:00",
   "ministry": "재정경제부",
   "mst": "280813",
   "name": "국고금 관리법 시행령",
+  "payload_law_id": "009450",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "56864847262e846b"
  },
@@ -43283,6 +43313,8 @@
   "version_signature": "df905cd047da51aa"
  },
  "law:eflaw:009472": {
+  "collected_signature": "cdf5ed054d0aa9d0",
+  "content_hash": "3e89a516a377f60e7ce905ebc3e97af328f9e709fb8dbf607d492f5feb991a84",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282615&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009472",
@@ -43290,11 +43322,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:31.481193+00:00",
+  "last_collected_at": "2026-08-22T20:28:19.356192+00:00",
   "ministry": "재정경제부",
   "mst": "282615",
   "name": "국고금 관리법 시행규칙",
+  "payload_law_id": "009472",
   "promulgation_date": "20260102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cdf5ed054d0aa9d0"
  },
@@ -58095,6 +58130,8 @@
   "version_signature": "c7a8bcc6acfbf390"
  },
  "law:eflaw:010939": {
+  "collected_signature": "8bd3ee72d64cb1f9",
+  "content_hash": "44741c4dcab10f7b3c529be6661384a0cff0e0f35298756d285ea76b2ef25a8c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280811&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "010939",
@@ -58102,11 +58139,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T20:25:30.412012+00:00",
+  "last_collected_at": "2026-08-22T20:26:58.909364+00:00",
   "ministry": "재정경제부",
   "mst": "280811",
   "name": "국가회계법 시행령",
+  "payload_law_id": "010939",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8bd3ee72d64cb1f9"
  },
