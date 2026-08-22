@@ -3064,6 +3064,8 @@
   "version_signature": "981d7ce5e1406119"
  },
  "law:eflaw:000665": {
+  "collected_signature": "78083ff1bdc1168a",
+  "content_hash": "02bbd8a32ee44e73673c11d8b3dff385054619fe54740c999f42e401391750c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276061&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000665",
@@ -3071,11 +3073,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:27.246263+00:00",
+  "last_collected_at": "2026-08-22T12:57:19.980715+00:00",
   "ministry": "재정경제부",
   "mst": "276061",
   "name": "공공차관의 도입 및 관리에 관한 법률",
+  "payload_law_id": "000665",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "78083ff1bdc1168a"
  },
@@ -13187,6 +13192,8 @@
   "version_signature": "5ba01d4d3d7753e9"
  },
  "law:eflaw:002260": {
+  "collected_signature": "330a1b4bf2524076",
+  "content_hash": "55babf842ef4a895fa76fd255b6b525abda13c23392d6c7cf0ddfdbc8ed8ddf8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280789&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002260",
@@ -13194,11 +13201,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:26.468120+00:00",
+  "last_collected_at": "2026-08-22T12:47:12.930844+00:00",
   "ministry": "재정경제부",
   "mst": "280789",
   "name": "공공자금관리기금법 시행령",
+  "payload_law_id": "002260",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "330a1b4bf2524076"
  },
@@ -29684,6 +29694,8 @@
   "version_signature": "225ed93377e67e6d"
  },
  "law:eflaw:006298": {
+  "collected_signature": "433182f174a39e96",
+  "content_hash": "1c4ad75370a13c75ec960f80f89c047fc917f89969c84f905ea0cc03003347c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282595&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "006298",
@@ -29691,11 +29703,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:25.466161+00:00",
+  "last_collected_at": "2026-08-22T12:55:52.028643+00:00",
   "ministry": "재정경제부",
   "mst": "282595",
   "name": "공공차관의 도입 및 관리에 관한 법률 시행규칙",
+  "payload_law_id": "006298",
   "promulgation_date": "20260102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "433182f174a39e96"
  },
@@ -43344,6 +43359,8 @@
   "version_signature": "1dfe2a87f2fa4ca4"
  },
  "law:eflaw:009595": {
+  "collected_signature": "2c683c9a2e6cb79e",
+  "content_hash": "d3e8ed96a815f17a0aeee2d220991f8a036f6618a08eefb715f37495aa1375a2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276937&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009595",
@@ -43351,11 +43368,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:27.362117+00:00",
+  "last_collected_at": "2026-08-22T13:02:30.788022+00:00",
   "ministry": "국토교통부",
   "mst": "276937",
   "name": "공공주택 특별법",
+  "payload_law_id": "009595",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2c683c9a2e6cb79e"
  },
@@ -44590,6 +44610,8 @@
   "version_signature": "9fbfe6a93331324f"
  },
  "law:eflaw:009724": {
+  "collected_signature": "32ffcdd5dc535397",
+  "content_hash": "533be901c4e5ef4f2a5faaf01288b075fef390168461882bcbb768c411c707d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287455&type=HTML&mobileYn=&efYd=20260622",
   "doc_domain": "law",
   "doc_id": "009724",
@@ -44597,11 +44619,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260622",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:26.617074+00:00",
+  "last_collected_at": "2026-08-22T12:59:28.073823+00:00",
   "ministry": "국토교통부",
   "mst": "287455",
   "name": "공공주택 특별법 시행규칙",
+  "payload_law_id": "009724",
   "promulgation_date": "20260622",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "32ffcdd5dc535397"
  },
@@ -44622,6 +44647,8 @@
   "version_signature": "cc461b722507e799"
  },
  "law:eflaw:009727": {
+  "collected_signature": "4c38760639e5382d",
+  "content_hash": "c9306886a3ad3e56082fc0452cf8373da8ecdf004d4f375cad627b226efe8f59",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285441&type=HTML&mobileYn=&efYd=20260414",
   "doc_domain": "law",
   "doc_id": "009727",
@@ -44629,11 +44656,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260414",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:28.305678+00:00",
+  "last_collected_at": "2026-08-22T13:01:15.861894+00:00",
   "ministry": "국토교통부",
   "mst": "285441",
   "name": "공공주택 특별법 시행령",
+  "payload_law_id": "009727",
   "promulgation_date": "20260414",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4c38760639e5382d"
  },
@@ -76241,6 +76271,8 @@
   "version_signature": "55e08299ad8a7be2"
  },
  "law:eflaw:013463": {
+  "collected_signature": "3b63628a0b274914",
+  "content_hash": "74754263fb728e759c68b3149ff5c70dfcd5689441cf65b715406f977c134cb0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261479&type=HTML&mobileYn=&efYd=20240927",
   "doc_domain": "law",
   "doc_id": "013463",
@@ -76248,11 +76280,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240927",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:27.510950+00:00",
+  "last_collected_at": "2026-08-22T12:57:22.767546+00:00",
   "ministry": "국민권익위원회",
   "mst": "261479",
   "name": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률",
+  "payload_law_id": "013463",
   "promulgation_date": "20240326",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3b63628a0b274914"
  },
@@ -77386,6 +77421,8 @@
   "version_signature": "07b5aa73fda5b072"
  },
  "law:eflaw:013639": {
+  "collected_signature": "6fa9388dfff7ffc7",
+  "content_hash": "befd9ea1a1b06d0b975f0da2179f4f5c9ac07fac44c47ecd65e76bf09bda6683",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265453&type=HTML&mobileYn=&efYd=20240927",
   "doc_domain": "law",
   "doc_id": "013639",
@@ -77393,11 +77430,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240927",
   "is_active": true,
+  "last_checked_at": "2026-08-22T12:45:25.871789+00:00",
+  "last_collected_at": "2026-08-22T12:46:56.498430+00:00",
   "ministry": "국민권익위원회",
   "mst": "265453",
   "name": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률 시행령",
+  "payload_law_id": "013639",
   "promulgation_date": "20240926",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6fa9388dfff7ffc7"
  },
