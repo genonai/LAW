@@ -10580,6 +10580,8 @@
   "version_signature": "20398c4e0d2f35b5"
  },
  "law:eflaw:001781": {
+  "collected_signature": "4c906edd2ff7079f",
+  "content_hash": "1af13966edffe8d98ddddcb15d4ae70abcfc8d00055224427e4b67702e324915",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280269&type=HTML&mobileYn=&efYd=20260617",
   "doc_domain": "law",
   "doc_id": "001781",
@@ -10587,12 +10589,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260617",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:25.828385+00:00",
+  "last_collected_at": "2026-08-22T22:14:10.290040+00:00",
   "ministry": "보건복지부",
   "mst": "280269",
   "name": "국민연금법",
+  "payload_law_id": "001781",
   "promulgation_date": "20251216",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "4c906edd2ff7079f"
  },
  "law:eflaw:001783": {
@@ -15684,6 +15689,8 @@
   "version_signature": "22468285a529de82"
  },
  "law:eflaw:002833": {
+  "collected_signature": "f7712e4f0bc31742",
+  "content_hash": "2f3f18b821ac5c04fa4f6a4949fd499eee2b9336028582cd5b9a772ce30485fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272577&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "002833",
@@ -15691,11 +15698,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:23.870759+00:00",
+  "last_collected_at": "2026-08-22T22:17:42.003299+00:00",
   "ministry": "보건복지부",
   "mst": "272577",
   "name": "국민연금법 시행령",
+  "payload_law_id": "002833",
   "promulgation_date": "20250625",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f7712e4f0bc31742"
  },
@@ -32316,6 +32326,8 @@
   "version_signature": "27f72279d3267601"
  },
  "law:eflaw:006709": {
+  "collected_signature": "3aefc4b20fc3ba23",
+  "content_hash": "1a64526fe0aca8615277732895585dd133c61401413f5f922d0f4890e61830c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283561&type=HTML&mobileYn=&efYd=20260213",
   "doc_domain": "law",
   "doc_id": "006709",
@@ -32323,11 +32335,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260213",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:24.903525+00:00",
+  "last_collected_at": "2026-08-22T22:12:37.620978+00:00",
   "ministry": "보건복지부",
   "mst": "283561",
   "name": "국민연금법 시행규칙",
+  "payload_law_id": "006709",
   "promulgation_date": "20260213",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3aefc4b20fc3ba23"
  },
@@ -59340,6 +59355,8 @@
   "version_signature": "68d995dfe7cc2e37"
  },
  "law:eflaw:011057": {
+  "collected_signature": "d0ae3375e8006a27",
+  "content_hash": "b0062b649b42a5f4eeb4132bd410585de86f8b262e67ca998ac31de1c286ae89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281155&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011057",
@@ -59347,11 +59364,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:24.819283+00:00",
+  "last_collected_at": "2026-08-22T22:09:00.576637+00:00",
   "ministry": "보건복지부",
   "mst": "281155",
   "name": "국민연금과 직역연금의 연계에 관한 법률 시행령",
+  "payload_law_id": "011057",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d0ae3375e8006a27"
  },
@@ -59372,6 +59392,8 @@
   "version_signature": "92fdfd11f737e106"
  },
  "law:eflaw:011059": {
+  "collected_signature": "a10e792496a12cf8",
+  "content_hash": "13d9edbbe687cfa376018112ae38f8372efc4c1272ed1caeb6043f062e75061c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240833&type=HTML&mobileYn=&efYd=20220218",
   "doc_domain": "law",
   "doc_id": "011059",
@@ -59379,11 +59401,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20220218",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:23.304655+00:00",
+  "last_collected_at": "2026-08-22T22:08:35.332440+00:00",
   "ministry": "보건복지부",
   "mst": "240833",
   "name": "국민연금과 직역연금의 연계에 관한 법률 시행규칙",
+  "payload_law_id": "011059",
   "promulgation_date": "20220218",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a10e792496a12cf8"
  },
@@ -60694,6 +60719,8 @@
   "version_signature": "d389ebe97b304899"
  },
  "law:eflaw:011175": {
+  "collected_signature": "d7ea3455b5be9cb9",
+  "content_hash": "8f3cbd53a28bd4cff37cad991d77e11542ee0df6be62eca2a8aeda366b607950",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257757&type=HTML&mobileYn=&efYd=20240703",
   "doc_domain": "law",
   "doc_id": "011175",
@@ -60701,11 +60728,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240703",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:25.709750+00:00",
+  "last_collected_at": "2026-08-22T22:09:10.679853+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "257757",
   "name": "국민영양관리법",
+  "payload_law_id": "011175",
   "promulgation_date": "20240102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d7ea3455b5be9cb9"
  },
@@ -61629,6 +61659,8 @@
   "version_signature": "338cdfc3587e15f3"
  },
  "law:eflaw:011280": {
+  "collected_signature": "051a8d4569c1164b",
+  "content_hash": "0b83454e09bdfc5ea6109b3342ba22ff6296ee7dbabfde71535f1171ff12c67b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=255025&type=HTML&mobileYn=&efYd=20230929",
   "doc_domain": "law",
   "doc_id": "011280",
@@ -61636,15 +61668,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230929",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:22.697515+00:00",
+  "last_collected_at": "2026-08-22T22:03:11.907205+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "255025",
   "name": "국민영양관리법 시행령",
+  "payload_law_id": "011280",
   "promulgation_date": "20230926",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "051a8d4569c1164b"
  },
  "law:eflaw:011281": {
+  "collected_signature": "4725db9782a28bc7",
+  "content_hash": "a16d970f9b76dd553e3ac16990630b862eb10a670b8850de8c8a9a685100d741",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276029&type=HTML&mobileYn=&efYd=20250930",
   "doc_domain": "law",
   "doc_id": "011281",
@@ -61652,11 +61689,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20250930",
   "is_active": true,
+  "last_checked_at": "2026-08-22T22:02:23.620826+00:00",
+  "last_collected_at": "2026-08-22T22:09:16.154004+00:00",
   "ministry": "보건복지부",
   "mst": "276029",
   "name": "국민영양관리법 시행규칙",
+  "payload_law_id": "011281",
   "promulgation_date": "20250930",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4725db9782a28bc7"
  },
