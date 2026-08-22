@@ -11560,6 +11560,8 @@
   "version_signature": "f9a8f9a8bee55564"
  },
  "law:eflaw:001973": {
+  "collected_signature": "6272196c96b73772",
+  "content_hash": "7094d353423845218cb1b6785fac0bb0bb1062ad9f0c594147029b20dcbefdd2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276653&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001973",
@@ -11567,11 +11569,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:12.512431+00:00",
+  "last_collected_at": "2026-08-22T21:58:32.142969+00:00",
   "ministry": "보건복지부",
   "mst": "276653",
   "name": "국민기초생활 보장법",
+  "payload_law_id": "001973",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6272196c96b73772"
  },
@@ -15658,6 +15663,8 @@
   "version_signature": "8e33aa6081e0d16e"
  },
  "law:eflaw:002820": {
+  "collected_signature": "22468285a529de82",
+  "content_hash": "cbb8591150d92c22b7eff748322b4289387d65d3e8a3285a41758a14cc0d2b5e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281585&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002820",
@@ -15665,11 +15672,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:11.812297+00:00",
+  "last_collected_at": "2026-08-22T22:00:00.767296+00:00",
   "ministry": "보건복지부",
   "mst": "281585",
   "name": "국민기초생활 보장법 시행령",
+  "payload_law_id": "002820",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "22468285a529de82"
  },
@@ -32285,6 +32295,8 @@
   "version_signature": "ab8212f5d30ba8f0"
  },
  "law:eflaw:006699": {
+  "collected_signature": "27f72279d3267601",
+  "content_hash": "b9795a617053c8431302c81508aab6eaeb5bf7d4f134e0589d9a96dceae583ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269175&type=HTML&mobileYn=&efYd=20250321",
   "doc_domain": "law",
   "doc_id": "006699",
@@ -32292,11 +32304,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20250321",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:12.678910+00:00",
+  "last_collected_at": "2026-08-22T21:58:20.317056+00:00",
   "ministry": "보건복지부",
   "mst": "269175",
   "name": "국민기초생활 보장법 시행규칙",
+  "payload_law_id": "006699",
   "promulgation_date": "20250217",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "27f72279d3267601"
  },
@@ -55857,6 +55872,8 @@
   "version_signature": "40cdda58998e4cca"
  },
  "law:eflaw:010684": {
+  "collected_signature": "310dfb1ad8e4f973",
+  "content_hash": "b17e6de801cd5fcf7eb80b41c177d680a444b31acefb09574d6163426c80a9bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283027&type=HTML&mobileYn=&efYd=20260127",
   "doc_domain": "law",
   "doc_id": "010684",
@@ -55864,11 +55881,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260127",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:13.454451+00:00",
+  "last_collected_at": "2026-08-22T21:57:29.831262+00:00",
   "ministry": "국민권익위원회,행정안전부",
   "mst": "283027",
   "name": "국민권익위원회와 그 소속기관 직제",
+  "payload_law_id": "010684",
   "promulgation_date": "20260127",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "310dfb1ad8e4f973"
  },
@@ -55926,6 +55946,8 @@
   "version_signature": "ff0714f2999767bc"
  },
  "law:eflaw:010695": {
+  "collected_signature": "3358e1ec699262e3",
+  "content_hash": "0bf1333729bf14f6d58e2ca44842a61f7a3cc933296b54035217874243555a88",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283097&type=HTML&mobileYn=&efYd=20260127",
   "doc_domain": "law",
   "doc_id": "010695",
@@ -55933,11 +55955,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20260127",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:10.996779+00:00",
+  "last_collected_at": "2026-08-22T21:58:42.055829+00:00",
   "ministry": "국민권익위원회",
   "mst": "283097",
   "name": "국민권익위원회와 그 소속기관 직제 시행규칙",
+  "payload_law_id": "010695",
   "promulgation_date": "20260127",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3358e1ec699262e3"
  },
@@ -72419,6 +72444,8 @@
   "version_signature": "61358de789eaf6b6"
  },
  "law:eflaw:012346": {
+  "collected_signature": "87ef191103c0f2b9",
+  "content_hash": "b4b6f6cb848d6c056dc035724fe809332cea38558bb6e5169e2edafbc6030280",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=173962&type=HTML&mobileYn=&efYd=20150807",
   "doc_domain": "law",
   "doc_id": "012346",
@@ -72426,11 +72453,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20150807",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:11.189689+00:00",
+  "last_collected_at": "2026-08-22T21:52:28.465333+00:00",
   "ministry": "국민권익위원회",
   "mst": "173962",
   "name": "국민권익위원회 소관 비영리법인의 설립 및 감독에 관한 규칙",
+  "payload_law_id": "012346",
   "promulgation_date": "20150807",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "87ef191103c0f2b9"
  },
@@ -73802,6 +73832,8 @@
   "version_signature": "0fb96b767046bb85"
  },
  "law:eflaw:012508": {
+  "collected_signature": "b11e17c27c7f0fd7",
+  "content_hash": "e563a91236f6258e21a92576827ad47ff4a1fbc78f2208efbf430fb13c43ca09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=253319&type=HTML&mobileYn=&efYd=20240209",
   "doc_domain": "law",
   "doc_id": "012508",
@@ -73809,11 +73841,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240209",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:11.520525+00:00",
+  "last_collected_at": "2026-08-22T21:56:50.053542+00:00",
   "ministry": "국가정보원,국무조정실",
   "mst": "253319",
   "name": "국민보호와 공공안전을 위한 테러방지법",
+  "payload_law_id": "012508",
   "promulgation_date": "20230808",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b11e17c27c7f0fd7"
  },
@@ -74334,6 +74369,8 @@
   "version_signature": "f6fdbae337f9d094"
  },
  "law:eflaw:012575": {
+  "collected_signature": "e0168bfcb32be582",
+  "content_hash": "805746d430815416b8748b2cce03db8c780c34ea808abbb1704396dc93199c9b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272963&type=HTML&mobileYn=&efYd=20250729",
   "doc_domain": "law",
   "doc_id": "012575",
@@ -74341,11 +74378,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20250729",
   "is_active": true,
+  "last_checked_at": "2026-08-22T21:52:10.526607+00:00",
+  "last_collected_at": "2026-08-22T21:56:47.914164+00:00",
   "ministry": "국가정보원,국무조정실",
   "mst": "272963",
   "name": "국민보호와 공공안전을 위한 테러방지법 시행규칙",
+  "payload_law_id": "012575",
   "promulgation_date": "20250729",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e0168bfcb32be582"
  },
