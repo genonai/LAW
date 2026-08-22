@@ -8893,6 +8893,8 @@
   "version_signature": "7fba976ad6d2a298"
  },
  "law:eflaw:001613": {
+  "collected_signature": "30be9f74943efa69",
+  "content_hash": "28b114f21e51598c4b93e5df4ec5aa495f5eba0dd381faae876e32db490eb8fd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265897&type=HTML&mobileYn=&efYd=20250423",
   "doc_domain": "law",
   "doc_id": "001613",
@@ -8900,12 +8902,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250423",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:07.821535+00:00",
+  "last_collected_at": "2026-08-22T14:23:51.127640+00:00",
   "ministry": "문화체육관광부",
   "mst": "265897",
   "name": "공연법",
+  "payload_law_id": "001613",
   "promulgation_date": "20241022",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "30be9f74943efa69"
  },
  "law:eflaw:001615": {
@@ -13674,6 +13679,8 @@
   "version_signature": "7c2286e018ea7423"
  },
  "law:eflaw:002357": {
+  "collected_signature": "d57a15b5ba34bb15",
+  "content_hash": "905d72c7af24f057fdf9685d6113bf49aabb98263416dc147905b0e4a645962d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286835&type=HTML&mobileYn=&efYd=20260609",
   "doc_domain": "law",
   "doc_id": "002357",
@@ -13681,11 +13688,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260609",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:06.585183+00:00",
+  "last_collected_at": "2026-08-22T14:23:37.396660+00:00",
   "ministry": "문화체육관광부",
   "mst": "286835",
   "name": "공연법 시행령",
+  "payload_law_id": "002357",
   "promulgation_date": "20260609",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d57a15b5ba34bb15"
  },
@@ -29934,6 +29944,8 @@
   "version_signature": "1e3ef64e6ca5baa0"
  },
  "law:eflaw:006329": {
+  "collected_signature": "29e1bb5c619425b8",
+  "content_hash": "3e42bee7f06dfe2f97c4fd071b795d973878a0849a0ae63b985de873fd180b09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=35068&type=HTML&mobileYn=&efYd=19690823",
   "doc_domain": "law",
   "doc_id": "006329",
@@ -29941,11 +29953,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "19690823",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:04.950192+00:00",
+  "last_collected_at": "2026-08-22T14:21:22.514640+00:00",
   "ministry": "법무부",
   "mst": "35068",
   "name": "공소보류자관찰규칙",
+  "payload_law_id": "006329",
   "promulgation_date": "19690823",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "29e1bb5c619425b8"
  },
@@ -29966,6 +29981,8 @@
   "version_signature": "4646a405c6dcb200"
  },
  "law:eflaw:006338": {
+  "collected_signature": "08ef5929b7da3b6c",
+  "content_hash": "7e229b40673d8e5b1c80b44d445334147060748baec8bd9538c1f87780ba75fd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288509&type=HTML&mobileYn=&efYd=20260730",
   "doc_domain": "law",
   "doc_id": "006338",
@@ -29973,11 +29990,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20260730",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:07.481344+00:00",
+  "last_collected_at": "2026-08-22T14:22:58.525370+00:00",
   "ministry": "문화체육관광부",
   "mst": "288509",
   "name": "공연법 시행규칙",
+  "payload_law_id": "006338",
   "promulgation_date": "20260730",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "08ef5929b7da3b6c"
  },
@@ -67365,6 +67385,8 @@
   "version_signature": "a3b66d0a9f4b499a"
  },
  "law:eflaw:012043": {
+  "collected_signature": "1c4126c6392c069f",
+  "content_hash": "b6a08f7979d2bd5caa7ec86b02d4c21e86826404a9e200186549cc9707692e93",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270067&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "012043",
@@ -67372,15 +67394,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260326",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:05.307199+00:00",
+  "last_collected_at": "2026-08-22T14:21:56.937408+00:00",
   "ministry": "국토교통부",
   "mst": "270067",
   "name": "공사중단 장기방치 건축물의 정비 등에 관한 특별조치법 시행령",
+  "payload_law_id": "012043",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1c4126c6392c069f"
  },
  "law:eflaw:012044": {
+  "collected_signature": "d87ccb8b9a26d955",
+  "content_hash": "20a817ae51ecdf20d3341c83a9580582685a0743ca87d9860964b97390eb87f4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=241457&type=HTML&mobileYn=&efYd=20220317",
   "doc_domain": "law",
   "doc_id": "012044",
@@ -67388,11 +67415,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20220317",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:04.559685+00:00",
+  "last_collected_at": "2026-08-22T14:19:22.130712+00:00",
   "ministry": "국토교통부",
   "mst": "241457",
   "name": "공사중단 장기방치 건축물의 정비 등에 관한 특별조치법 시행규칙",
+  "payload_law_id": "012044",
   "promulgation_date": "20220317",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d87ccb8b9a26d955"
  },
@@ -69728,6 +69758,8 @@
   "version_signature": "027b7c5ea8857901"
  },
  "law:eflaw:012292": {
+  "collected_signature": "b5a691b3e64a8c4e",
+  "content_hash": "5b2eff18270a12a91641537076ecd8008fc4ae22b5e021c3c058246bbc136ebb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=171102&type=HTML&mobileYn=&efYd=20151119",
   "doc_domain": "law",
   "doc_id": "012292",
@@ -69735,11 +69767,14 @@
   "doc_type": "법률",
   "enforcement_date": "20151119",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:06.692682+00:00",
+  "last_collected_at": "2026-08-22T14:21:04.733410+00:00",
   "ministry": "문화체육관광부",
   "mst": "171102",
   "name": "공예문화산업 진흥법",
+  "payload_law_id": "012292",
   "promulgation_date": "20150518",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b5a691b3e64a8c4e"
  },
@@ -91982,6 +92017,8 @@
   "version_signature": "cc52e4dbe37790f1"
  },
  "law:eflaw:015092": {
+  "collected_signature": "2acd255a094395c0",
+  "content_hash": "de99bdcec811675245a30425809c5c24d33d4ab54167aae02aeb71cfefcb8efa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285045&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015092",
@@ -91989,11 +92026,14 @@
   "doc_type": "법률",
   "enforcement_date": "20261002",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:19:06.004195+00:00",
+  "last_collected_at": "2026-08-22T14:19:08.982996+00:00",
   "ministry": "법무부",
   "mst": "285045",
   "name": "공소청법",
+  "payload_law_id": "015092",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2acd255a094395c0"
  },
