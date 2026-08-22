@@ -6715,6 +6715,8 @@
   "version_signature": "cf38f710f832fe66"
  },
  "law:eflaw:001275": {
+  "collected_signature": "b6589e7108d00b99",
+  "content_hash": "0b0c03c2fb21cfde4145dc8401b97b5574aea2bf769ea2448fa21ec59642a287",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=199495&type=HTML&mobileYn=&efYd=20180620",
   "doc_domain": "law",
   "doc_id": "001275",
@@ -6722,11 +6724,14 @@
   "doc_type": "법률",
   "enforcement_date": "20180620",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:12.904834+00:00",
+  "last_collected_at": "2026-08-22T15:22:52.831260+00:00",
   "ministry": "법무부",
   "mst": "199495",
   "name": "공증인법",
+  "payload_law_id": "001275",
   "promulgation_date": "20171212",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b6589e7108d00b99"
  },
@@ -9833,6 +9838,8 @@
   "version_signature": "40b181bf82aa4aa6"
  },
  "law:eflaw:001725": {
+  "collected_signature": "a577bdb4a382e7ea",
+  "content_hash": "8f08f12544260b251032174a435dd2aac4ad2f3c5ab807402b4a719121e04382",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285629&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001725",
@@ -9840,12 +9847,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:11.768263+00:00",
+  "last_collected_at": "2026-08-22T15:30:23.562780+00:00",
   "ministry": "중앙선거관리위원회",
   "mst": "285629",
   "name": "공직선거법",
+  "payload_law_id": "001725",
   "promulgation_date": "20260422",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a577bdb4a382e7ea"
  },
  "law:eflaw:001728": {
@@ -13887,6 +13897,8 @@
   "version_signature": "7e2220638f9c0ad8"
  },
  "law:eflaw:002378": {
+  "collected_signature": "d00a485f619775ab",
+  "content_hash": "c2326fecf5e11ecc033bd303703821cd870f9dbe27cb5f5878d09966b49f02ec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252063&type=HTML&mobileYn=&efYd=20230627",
   "doc_domain": "law",
   "doc_id": "002378",
@@ -13894,11 +13906,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230627",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:13.195095+00:00",
+  "last_collected_at": "2026-08-22T15:24:01.270544+00:00",
   "ministry": "법무부",
   "mst": "252063",
   "name": "공증인법 시행령",
+  "payload_law_id": "002378",
   "promulgation_date": "20230627",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d00a485f619775ab"
  },
@@ -28142,6 +28157,8 @@
   "version_signature": "3c47bc15e0b6e24d"
  },
  "law:eflaw:006033": {
+  "collected_signature": "c319829e09434d0a",
+  "content_hash": "c5997533eda6d3dd1c298199fd8fca3f18a039ccd0adccce6b594c3da8bce556",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288265&type=HTML&mobileYn=&efYd=20260720",
   "doc_domain": "law",
   "doc_id": "006033",
@@ -28149,11 +28166,14 @@
   "doc_type": "중앙선거관리위원회규칙",
   "enforcement_date": "20260720",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:14.090520+00:00",
+  "last_collected_at": "2026-08-22T15:23:51.115136+00:00",
   "ministry": "중앙선거관리위원회",
   "mst": "288265",
   "name": "공직선거관리규칙",
+  "payload_law_id": "006033",
   "promulgation_date": "20260720",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c319829e09434d0a"
  },
@@ -30234,6 +30254,8 @@
   "version_signature": "d27849e0c9ce4832"
  },
  "law:eflaw:006361": {
+  "collected_signature": "795801c0e830ff9c",
+  "content_hash": "13fe527e278ae541c9e33ce01ea28135624353e9274fb1cda178ab711e12088c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240211&type=HTML&mobileYn=&efYd=20220207",
   "doc_domain": "law",
   "doc_id": "006361",
@@ -30241,11 +30263,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20220207",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:14.217254+00:00",
+  "last_collected_at": "2026-08-22T15:21:34.902433+00:00",
   "ministry": "법무부",
   "mst": "240211",
   "name": "공증서식의 사용 등에 관한 규칙",
+  "payload_law_id": "006361",
   "promulgation_date": "20220207",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "795801c0e830ff9c"
  },
@@ -30271,6 +30296,8 @@
   "version_signature": "33f5bfaf7f974dfa"
  },
  "law:eflaw:006364": {
+  "collected_signature": "f8636ad5f86b8941",
+  "content_hash": "ad074a2f543927807af1af64af08a7476cc85ee9036ca46cbbf3712317b5ed1c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=102646&type=HTML&mobileYn=&efYd=20100207",
   "doc_domain": "law",
   "doc_id": "006364",
@@ -30278,15 +30305,20 @@
   "doc_type": "법무부령",
   "enforcement_date": "20100207",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:11.983997+00:00",
+  "last_collected_at": "2026-08-22T15:12:35.827669+00:00",
   "ministry": "법무부",
   "mst": "102646",
   "name": "공증인 수수료 규칙",
+  "payload_law_id": "006364",
   "promulgation_date": "20100205",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f8636ad5f86b8941"
  },
  "law:eflaw:006365": {
+  "collected_signature": "d9515ca6ae06e3f4",
+  "content_hash": "afec3615e1123b94fad57bf51a4c5b7cf133c2ed59029daae709c8eb2789b0cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=102647&type=HTML&mobileYn=&efYd=20100207",
   "doc_domain": "law",
   "doc_id": "006365",
@@ -30294,11 +30326,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20100207",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:12.572892+00:00",
+  "last_collected_at": "2026-08-22T15:22:02.533302+00:00",
   "ministry": "법무부",
   "mst": "102647",
   "name": "공증인의 정원 및 신원보증금에 관한 규칙",
+  "payload_law_id": "006365",
   "promulgation_date": "20100205",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d9515ca6ae06e3f4"
  },
@@ -59026,6 +59061,8 @@
   "version_signature": "67ca9a9d28c0fc04"
  },
  "law:eflaw:011156": {
+  "collected_signature": "e862f45865225285",
+  "content_hash": "e13be37ee543a15030891d862edc218893b6096dba5012a1831cfa0c2252b7af",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240209&type=HTML&mobileYn=&efYd=20220207",
   "doc_domain": "law",
   "doc_id": "011156",
@@ -59033,11 +59070,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20220207",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:12:13.037382+00:00",
+  "last_collected_at": "2026-08-22T15:12:38.334415+00:00",
   "ministry": "법무부",
   "mst": "240209",
   "name": "공증사무 이의신청사건의 처리에 관한 규칙",
+  "payload_law_id": "011156",
   "promulgation_date": "20220207",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e862f45865225285"
  },
