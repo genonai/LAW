@@ -714,6 +714,8 @@
   "version_signature": "199d1acf11a45bf6"
  },
  "law:eflaw:000121": {
+  "collected_signature": "ca70d0b032786a40",
+  "content_hash": "deefb1b64bf174dd8cf6847abfbf02d78b6c9e5d296cbde716ee960324a52044",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243057&type=HTML&mobileYn=&efYd=20220610",
   "doc_domain": "law",
   "doc_id": "000121",
@@ -721,11 +723,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220610",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:06.739834+00:00",
+  "last_collected_at": "2026-08-22T11:54:53.377888+00:00",
   "ministry": "고용노동부",
   "mst": "243057",
   "name": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률",
+  "payload_law_id": "000121",
   "promulgation_date": "20220610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ca70d0b032786a40"
  },
@@ -746,6 +751,8 @@
   "version_signature": "b5cadae52f83559c"
  },
  "law:eflaw:000123": {
+  "collected_signature": "8c02d9bf84f813d0",
+  "content_hash": "5f4bd02727ccc62588f0159ea995e310098af5cf80bf4823213a219fae8498a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276847&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000123",
@@ -753,11 +760,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:04.669195+00:00",
+  "last_collected_at": "2026-08-22T11:56:11.870288+00:00",
   "ministry": "고용노동부",
   "mst": "276847",
   "name": "고용정책 기본법",
+  "payload_law_id": "000123",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8c02d9bf84f813d0"
  },
@@ -10101,6 +10111,8 @@
   "version_signature": "3011813d783fe15a"
  },
  "law:eflaw:001761": {
+  "collected_signature": "d8fab509ef4cd4bf",
+  "content_hash": "c96b1e712eaefd669d5cda01eb0b40501c67590b662dc2048689cef85d8387b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283373&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "001761",
@@ -10108,12 +10120,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:05.135804+00:00",
+  "last_collected_at": "2026-08-22T12:00:01.307416+00:00",
   "ministry": "고용노동부",
   "mst": "283373",
   "name": "고용보험법",
+  "payload_law_id": "001761",
   "promulgation_date": "20260219",
-  "status": "pending",
-  "version_count": 5,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d8fab509ef4cd4bf"
  },
  "law:eflaw:001763": {
@@ -12958,6 +12973,8 @@
   "version_signature": "99d07c2531a7f438"
  },
  "law:eflaw:002237": {
+  "collected_signature": "f7220e736f3f8039",
+  "content_hash": "6b00b96232f8b784d05248341a890cbd80b9d109c3b919e3e529c3a623289b64",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267181&type=HTML&mobileYn=&efYd=20250101",
   "doc_domain": "law",
   "doc_id": "002237",
@@ -12965,11 +12982,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:05.809615+00:00",
+  "last_collected_at": "2026-08-22T11:54:55.619352+00:00",
   "ministry": "고용노동부",
   "mst": "267181",
   "name": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률 시행령",
+  "payload_law_id": "002237",
   "promulgation_date": "20241224",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f7220e736f3f8039"
  },
@@ -13016,6 +13036,8 @@
   "version_signature": "4b4c1518766882fb"
  },
  "law:eflaw:002249": {
+  "collected_signature": "6ac24eb7758f0990",
+  "content_hash": "1f45190611dc17f7cba4e47cd4da6e01349e01257032b1e074784549138001be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287489&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "002249",
@@ -13023,12 +13045,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:07.119754+00:00",
+  "last_collected_at": "2026-08-22T12:06:05.572270+00:00",
   "ministry": "고용노동부",
   "mst": "287489",
   "name": "고용보험법 시행령",
+  "payload_law_id": "002249",
   "promulgation_date": "20260630",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "6ac24eb7758f0990"
  },
  "law:eflaw:002250": {
@@ -29394,6 +29419,8 @@
   "version_signature": "5d4834bd88022f89"
  },
  "law:eflaw:006279": {
+  "collected_signature": "a587e616ed24513d",
+  "content_hash": "ad048a6c19052b3f052e2b60e1306d66ee3c549d467eb514d61f173d6400262c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282393&type=HTML&mobileYn=&efYd=20251231",
   "doc_domain": "law",
   "doc_id": "006279",
@@ -29401,11 +29428,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20251231",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:06.477695+00:00",
+  "last_collected_at": "2026-08-22T11:54:42.589986+00:00",
   "ministry": "고용노동부",
   "mst": "282393",
   "name": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률 시행규칙",
+  "payload_law_id": "006279",
   "promulgation_date": "20251231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a587e616ed24513d"
  },
@@ -29473,6 +29503,8 @@
   "version_signature": "2817e333745b827c"
  },
  "law:eflaw:006288": {
+  "collected_signature": "4be2e7def07f1e8c",
+  "content_hash": "7eb1dcb779eba4c9b46d0493d749c173e6de349f5a55d87aaba4b47251306fc1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288723&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "006288",
@@ -29480,12 +29512,15 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:06.165262+00:00",
+  "last_collected_at": "2026-08-22T12:03:06.137182+00:00",
   "ministry": "고용노동부",
   "mst": "288723",
   "name": "고용보험법 시행규칙",
+  "payload_law_id": "006288",
   "promulgation_date": "20260819",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "4be2e7def07f1e8c"
  },
  "law:eflaw:006291": {
@@ -56088,6 +56123,8 @@
   "version_signature": "a87503f6bd254499"
  },
  "law:eflaw:010900": {
+  "collected_signature": "0cedd1a2ddc0c956",
+  "content_hash": "f00c78c143dae38857ddcf6e4e232600600921541839611d5369f180ffab0f64",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=91137&type=HTML&mobileYn=&efYd=20090107",
   "doc_domain": "law",
   "doc_id": "010900",
@@ -56095,11 +56132,14 @@
   "doc_type": "법률",
   "enforcement_date": "20090107",
   "is_active": true,
+  "last_checked_at": "2026-08-22T11:42:05.078054+00:00",
+  "last_collected_at": "2026-08-22T11:42:24.311339+00:00",
   "ministry": "고용노동부",
   "mst": "91137",
   "name": "고용보험ㆍ산업재해보상보험의 보험관계 성립신고 등의 촉진을 위한 특별조치법",
+  "payload_law_id": "010900",
   "promulgation_date": "20090107",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0cedd1a2ddc0c956"
  },
