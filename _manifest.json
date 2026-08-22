@@ -6750,6 +6750,8 @@
   "version_signature": "66b931c93521ba01"
  },
  "law:eflaw:001300": {
+  "collected_signature": "46289404178fd2df",
+  "content_hash": "a480cf73d7f693177f4d918d8be57d80e5961bfbeb564da59b17a7848ef94f40",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268137&type=HTML&mobileYn=&efYd=20250107",
   "doc_domain": "law",
   "doc_id": "001300",
@@ -6757,11 +6759,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250107",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:28.926867+00:00",
+  "last_collected_at": "2026-08-22T06:20:51.550379+00:00",
   "ministry": "대법원",
   "mst": "268137",
   "name": "각급 법원 판사 정원법",
+  "payload_law_id": "001300",
   "promulgation_date": "20250107",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "46289404178fd2df"
  },
@@ -7971,6 +7976,8 @@
   "version_signature": "dc4fe8160941856b"
  },
  "law:eflaw:001504": {
+  "collected_signature": "b60756945ff60c00",
+  "content_hash": "11d04eaf7dcf1a36218ed1a3f18a36fd5014ebcb39f17197813057148e64d8f8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272861&type=HTML&mobileYn=&efYd=20260123",
   "doc_domain": "law",
   "doc_id": "001504",
@@ -7978,12 +7985,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260123",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:29.643440+00:00",
+  "last_collected_at": "2026-08-22T06:31:33.193435+00:00",
   "ministry": "농림축산식품부",
   "mst": "272861",
   "name": "가축전염병 예방법",
+  "payload_law_id": "001504",
   "promulgation_date": "20250722",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b60756945ff60c00"
  },
  "law:eflaw:001507": {
@@ -11901,6 +11911,8 @@
   "version_signature": "ca5b69169b76de29"
  },
  "law:eflaw:002058": {
+  "collected_signature": "52ca6bddd30005af",
+  "content_hash": "82507f33155373eec5724362657c487e73cb6727db8e695a0d5df047482b0d3c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285559&type=HTML&mobileYn=&efYd=20260421",
   "doc_domain": "law",
   "doc_id": "002058",
@@ -11908,11 +11920,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260421",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:29.957381+00:00",
+  "last_collected_at": "2026-08-22T06:31:43.224576+00:00",
   "ministry": "농림축산식품부",
   "mst": "285559",
   "name": "가축전염병 예방법 시행령",
+  "payload_law_id": "002058",
   "promulgation_date": "20260421",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "52ca6bddd30005af"
  },
@@ -25355,6 +25370,8 @@
   "version_signature": "9bc407dc227baba6"
  },
  "law:eflaw:005699": {
+  "collected_signature": "fc42a35ce220619f",
+  "content_hash": "e52fd16350e1d5572e691103135d18faea550e66872d25dfce67fb1e2dfce1a8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283815&type=HTML&mobileYn=&efYd=20260303",
   "doc_domain": "law",
   "doc_id": "005699",
@@ -25362,11 +25379,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20260303",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:27.268287+00:00",
+  "last_collected_at": "2026-08-22T06:22:43.347765+00:00",
   "ministry": "대법원",
   "mst": "283815",
   "name": "각급 법원에 배치할 판사의 수에 관한 규칙",
+  "payload_law_id": "005699",
   "promulgation_date": "20260303",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fc42a35ce220619f"
  },
@@ -28112,6 +28132,8 @@
   "version_signature": "36b96ab370c56fd8"
  },
  "law:eflaw:006128": {
+  "collected_signature": "7e385c5061f06a75",
+  "content_hash": "7dce90bea7b67c4fd56f8bc323c48eed807fdd48dee39f59bc5d8813f1929043",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285745&type=HTML&mobileYn=&efYd=20260724",
   "doc_domain": "law",
   "doc_id": "006128",
@@ -28119,11 +28141,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20260724",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:28.678400+00:00",
+  "last_collected_at": "2026-08-22T06:32:19.995833+00:00",
   "ministry": "농림축산식품부",
   "mst": "285745",
   "name": "가축전염병 예방법 시행규칙",
+  "payload_law_id": "006128",
   "promulgation_date": "20260423",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7e385c5061f06a75"
  },
@@ -51357,6 +51382,8 @@
   "version_signature": "2cab19ff47e1e1b0"
  },
  "law:eflaw:010527": {
+  "collected_signature": "f18a5c0006645624",
+  "content_hash": "45e9bb7a11a48cd818d069efbf4226a597101ba0f6c3cab38ab72735697f1680",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288401&type=HTML&mobileYn=&efYd=20260728",
   "doc_domain": "law",
   "doc_id": "010527",
@@ -51364,11 +51391,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260728",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:28.290966+00:00",
+  "last_collected_at": "2026-08-22T06:25:52.265772+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288401",
   "name": "가축분뇨의 관리 및 이용에 관한 법률 시행령",
+  "payload_law_id": "010527",
   "promulgation_date": "20260728",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f18a5c0006645624"
  },
@@ -51421,6 +51451,8 @@
   "version_signature": "7bb58ee623270815"
  },
  "law:eflaw:010532": {
+  "collected_signature": "0443f38dc6068742",
+  "content_hash": "c40bcabd9177fb47275ab7030633f0158caad52758d3ec7e0524db8d2de2c134",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288513&type=HTML&mobileYn=&efYd=20260730",
   "doc_domain": "law",
   "doc_id": "010532",
@@ -51428,11 +51460,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260730",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:27.952411+00:00",
+  "last_collected_at": "2026-08-22T06:24:30.163906+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288513",
   "name": "가축분뇨의 관리 및 이용에 관한 법률 시행규칙",
+  "payload_law_id": "010532",
   "promulgation_date": "20260730",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0443f38dc6068742"
  },
@@ -51821,6 +51856,8 @@
   "version_signature": "7e876d5569dbad29"
  },
  "law:eflaw:010566": {
+  "collected_signature": "edfe95cac162dadc",
+  "content_hash": "bd27c360911b14d351c85332e9634100838ce8f20757e2422e733c3b039fae39",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245045&type=HTML&mobileYn=&efYd=20221020",
   "doc_domain": "law",
   "doc_id": "010566",
@@ -51828,11 +51865,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20221020",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:20:27.517924+00:00",
+  "last_collected_at": "2026-08-22T06:21:02.691343+00:00",
   "ministry": "농림축산식품부",
   "mst": "245045",
   "name": "가축분뇨의 자원화 및 이용 촉진에 관한 규칙",
+  "payload_law_id": "010566",
   "promulgation_date": "20221020",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "edfe95cac162dadc"
  },
