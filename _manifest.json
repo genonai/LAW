@@ -868,6 +868,8 @@
   "version_signature": "b16e58d4dcb5ec7d"
  },
  "law:eflaw:000134": {
+  "collected_signature": "72ead4d9586741b1",
+  "content_hash": "3148166a428b6ee0621e1cb3bf0bb17ff2997a0b372a362c5e7e2867f2757d3f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243059&type=HTML&mobileYn=&efYd=20221211",
   "doc_domain": "law",
   "doc_id": "000134",
@@ -875,11 +877,14 @@
   "doc_type": "법률",
   "enforcement_date": "20221211",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:21.517852+00:00",
+  "last_collected_at": "2026-08-22T14:51:57.105037+00:00",
   "ministry": "고용노동부",
   "mst": "243059",
   "name": "공인노무사법",
+  "payload_law_id": "000134",
   "promulgation_date": "20220610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "72ead4d9586741b1"
  },
@@ -9265,6 +9270,8 @@
   "version_signature": "7c230dd6669c8f3b"
  },
  "law:eflaw:001654": {
+  "collected_signature": "5120d11e4c3e6b8f",
+  "content_hash": "4afb19a5c89fdff1e9dbac0372af50c523c29cd19efc9d72c2ca43e630de51d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273341&type=HTML&mobileYn=&efYd=20260215",
   "doc_domain": "law",
   "doc_id": "001654",
@@ -9272,12 +9279,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260215",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:19.976550+00:00",
+  "last_collected_at": "2026-08-22T14:52:01.308454+00:00",
   "ministry": "국토교통부",
   "mst": "273341",
   "name": "공인중개사법",
+  "payload_law_id": "001654",
   "promulgation_date": "20250814",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "5120d11e4c3e6b8f"
  },
  "law:eflaw:001655": {
@@ -13752,6 +13762,8 @@
   "version_signature": "bf5466cfe6948b93"
  },
  "law:eflaw:002366": {
+  "collected_signature": "69284882ab7b3c80",
+  "content_hash": "8ef05668b1ad557434eb03e7a8b5f37d9632dbf41a98f53adfd59e908a818625",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265549&type=HTML&mobileYn=&efYd=20240926",
   "doc_domain": "law",
   "doc_id": "002366",
@@ -13759,11 +13771,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240926",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:21.452056+00:00",
+  "last_collected_at": "2026-08-22T14:53:23.767301+00:00",
   "ministry": "고용노동부",
   "mst": "265549",
   "name": "공인노무사법 시행령",
+  "payload_law_id": "002366",
   "promulgation_date": "20240926",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "69284882ab7b3c80"
  },
@@ -30043,6 +30058,8 @@
   "version_signature": "987b877eb9326922"
  },
  "law:eflaw:006349": {
+  "collected_signature": "a93144d07dd97391",
+  "content_hash": "409af0ed847b5ddc6cf89e54536dd998ffa63573b9dca2389cdb3ddd1a6cdaaf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247371&type=HTML&mobileYn=&efYd=20221230",
   "doc_domain": "law",
   "doc_id": "006349",
@@ -30050,11 +30067,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20221230",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:19.579747+00:00",
+  "last_collected_at": "2026-08-22T14:51:52.429621+00:00",
   "ministry": "고용노동부",
   "mst": "247371",
   "name": "공인노무사법 시행규칙",
+  "payload_law_id": "006349",
   "promulgation_date": "20221230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a93144d07dd97391"
  },
@@ -33850,6 +33870,8 @@
   "version_signature": "0d1402a68c530989"
  },
  "law:eflaw:007292": {
+  "collected_signature": "ea93abf5e814e4f3",
+  "content_hash": "b64164536b9a9c38a3548b9aaead2cb5f48837b9e9e757a85e7a4a87c29aad07",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263573&type=HTML&mobileYn=&efYd=20240710",
   "doc_domain": "law",
   "doc_id": "007292",
@@ -33857,12 +33879,15 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20240710",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:17.850623+00:00",
+  "last_collected_at": "2026-08-22T14:51:33.928018+00:00",
   "ministry": "국토교통부",
   "mst": "263573",
   "name": "공인중개사법 시행규칙",
+  "payload_law_id": "007292",
   "promulgation_date": "20240702",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "ea93abf5e814e4f3"
  },
  "law:eflaw:007303": {
@@ -62123,6 +62148,8 @@
   "version_signature": "9f96a82d9a3d7043"
  },
  "law:eflaw:011473": {
+  "collected_signature": "313c2c30d280db6f",
+  "content_hash": "f8ed877ddce4f49192c7a96c152ef817871cf378dca0549b9dc9f2f6ca92c72d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264451&type=HTML&mobileYn=&efYd=20240807",
   "doc_domain": "law",
   "doc_id": "011473",
@@ -62130,11 +62157,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240807",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:19.122397+00:00",
+  "last_collected_at": "2026-08-22T14:51:05.904722+00:00",
   "ministry": "국민권익위원회",
   "mst": "264451",
   "name": "공익신고자 보호법 시행령",
+  "payload_law_id": "011473",
   "promulgation_date": "20240730",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "313c2c30d280db6f"
  },
@@ -67327,6 +67357,8 @@
   "version_signature": "8c2119c8b3b07c19"
  },
  "law:eflaw:012018": {
+  "collected_signature": "f9f39a410dbfa11b",
+  "content_hash": "27e85f29a37312d2ee7676b6db92edb6f704d281fca635144849fb50eab3abdc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=198547&type=HTML&mobileYn=&efYd=20181101",
   "doc_domain": "law",
   "doc_id": "012018",
@@ -67334,11 +67366,14 @@
   "doc_type": "법률",
   "enforcement_date": "20181101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:19.472732+00:00",
+  "last_collected_at": "2026-08-22T14:50:24.760361+00:00",
   "ministry": "법무부",
   "mst": "198547",
   "name": "공익신탁법",
+  "payload_law_id": "012018",
   "promulgation_date": "20171031",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f9f39a410dbfa11b"
  },
@@ -69482,6 +69517,8 @@
   "version_signature": "3096da2ce662dc63"
  },
  "law:eflaw:012261": {
+  "collected_signature": "a24a54ebb167c0ea",
+  "content_hash": "711a6b9e565aabcf2b96f77bf978e7228662e7571065e34ce9034d32ed205fe4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=169302&type=HTML&mobileYn=&efYd=20150319",
   "doc_domain": "law",
   "doc_id": "012261",
@@ -69489,11 +69526,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20150319",
   "is_active": true,
+  "last_checked_at": "2026-08-22T14:46:18.481505+00:00",
+  "last_collected_at": "2026-08-22T14:50:21.849975+00:00",
   "ministry": "법무부",
   "mst": "169302",
   "name": "공익신탁법 시행령",
+  "payload_law_id": "012261",
   "promulgation_date": "20150317",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a24a54ebb167c0ea"
  },
