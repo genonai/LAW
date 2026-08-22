@@ -9010,6 +9010,8 @@
   "version_signature": "53df1be40c08cb1a"
  },
  "law:eflaw:001616": {
+  "collected_signature": "c5bc0cf47a2910a3",
+  "content_hash": "c84c7b22e33172201f14b1e178e8e340809f9ed48d27b7d210f1f62af3c7e289",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273345&type=HTML&mobileYn=&efYd=20260215",
   "doc_domain": "law",
   "doc_id": "001616",
@@ -9017,12 +9019,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260215",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:56.315964+00:00",
+  "last_collected_at": "2026-08-22T18:07:30.541668+00:00",
   "ministry": "교육부",
   "mst": "273345",
   "name": "교육공무원법",
+  "payload_law_id": "001616",
   "promulgation_date": "20250814",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c5bc0cf47a2910a3"
  },
  "law:eflaw:001618": {
@@ -14602,6 +14607,8 @@
   "version_signature": "c1ae7e50d8f97852"
  },
  "law:eflaw:002583": {
+  "collected_signature": "06119515a3123fc7",
+  "content_hash": "51cbed3ddb4532497023d3c008a04b9ce1c8a4534135d63449dc73e0050f03f1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273697&type=HTML&mobileYn=&efYd=20250919",
   "doc_domain": "law",
   "doc_id": "002583",
@@ -14609,15 +14616,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250919",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:57.653916+00:00",
+  "last_collected_at": "2026-08-22T18:09:38.270693+00:00",
   "ministry": "교육부",
   "mst": "273697",
   "name": "교육공무원임용령",
+  "payload_law_id": "002583",
   "promulgation_date": "20250916",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "06119515a3123fc7"
  },
  "law:eflaw:002586": {
+  "collected_signature": "267d4d780a6e1158",
+  "content_hash": "790df969088efbca1f7406774133fed016804e5083f481810a878b1e028e58cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280455&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "002586",
@@ -14625,11 +14637,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251223",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:58.074538+00:00",
+  "last_collected_at": "2026-08-22T18:02:43.427553+00:00",
   "ministry": "교육부",
   "mst": "280455",
   "name": "교육공무원 징계령",
+  "payload_law_id": "002586",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "267d4d780a6e1158"
  },
@@ -31105,6 +31120,8 @@
   "version_signature": "fb804dcc95ac3791"
  },
  "law:eflaw:006546": {
+  "collected_signature": "d25114ee48cf9fb0",
+  "content_hash": "fafa9648c7ae0df8e5b84e7dbaba164445dd30eb4e64548dcd25999fea888ed6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280727&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "006546",
@@ -31112,11 +31129,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20251223",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:55.784221+00:00",
+  "last_collected_at": "2026-08-22T17:59:10.222009+00:00",
   "ministry": "교육부",
   "mst": "280727",
   "name": "교육공무원 징계양정 등에 관한 규칙",
+  "payload_law_id": "006546",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d25114ee48cf9fb0"
  },
@@ -52587,6 +52607,8 @@
   "version_signature": "eacd0576be1890bb"
  },
  "law:eflaw:010452": {
+  "collected_signature": "ccd72e10f14cf76c",
+  "content_hash": "092e995becc64c2011d8254062152acc0bde6c50d462d8619ffcd8165ff6c244",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=233995&type=HTML&mobileYn=&efYd=20220721",
   "doc_domain": "law",
   "doc_id": "010452",
@@ -52594,11 +52616,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220721",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:58.862309+00:00",
+  "last_collected_at": "2026-08-22T18:00:54.836710+00:00",
   "ministry": "교육부",
   "mst": "233995",
   "name": "교육관련기관의 정보공개에 관한 특례법",
+  "payload_law_id": "010452",
   "promulgation_date": "20210720",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ccd72e10f14cf76c"
  },
@@ -56885,6 +56910,8 @@
   "version_signature": "e6d3cb355e796020"
  },
  "law:eflaw:010865": {
+  "collected_signature": "c16cd50b858b2575",
+  "content_hash": "3f5612723fc6a207d6a188d53651d9662f7e8472634da0d51715fb5e33a76af2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268971&type=HTML&mobileYn=&efYd=20250211",
   "doc_domain": "law",
   "doc_id": "010865",
@@ -56892,11 +56919,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250211",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:56.979830+00:00",
+  "last_collected_at": "2026-08-22T18:01:16.910233+00:00",
   "ministry": "교육부",
   "mst": "268971",
   "name": "교육관련기관의 정보공개에 관한 특례법 시행령",
+  "payload_law_id": "010865",
   "promulgation_date": "20250211",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c16cd50b858b2575"
  },
@@ -63538,6 +63568,8 @@
   "version_signature": "5e9016edc3668df1"
  },
  "law:eflaw:011529": {
+  "collected_signature": "95717b91847d9f70",
+  "content_hash": "9075201044e693437ea534bcdc9bf617a1e65e7fe96338847fac2a6119d953d8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=230359&type=HTML&mobileYn=&efYd=20210323",
   "doc_domain": "law",
   "doc_id": "011529",
@@ -63545,11 +63577,14 @@
   "doc_type": "법률",
   "enforcement_date": "20210323",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:58.256937+00:00",
+  "last_collected_at": "2026-08-22T18:01:54.611386+00:00",
   "ministry": "교육부",
   "mst": "230359",
   "name": "교육국제화특구의 지정ㆍ운영 및 육성에 관한 특별법",
+  "payload_law_id": "011529",
   "promulgation_date": "20210323",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "95717b91847d9f70"
  },
@@ -64945,6 +64980,8 @@
   "version_signature": "0f53b1bde3531ecd"
  },
  "law:eflaw:011658": {
+  "collected_signature": "f81022c27ec1c512",
+  "content_hash": "81855f67f74eb217228a7cb9adb2109ce7d6226be119c08eae1bd1cc5abbe9a4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281437&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011658",
@@ -64952,11 +64989,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T17:57:55.377501+00:00",
+  "last_collected_at": "2026-08-22T18:02:03.750978+00:00",
   "ministry": "교육부",
   "mst": "281437",
   "name": "교육국제화특구의 지정ㆍ운영 및 육성에 관한 특별법 시행령",
+  "payload_law_id": "011658",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f81022c27ec1c512"
  },
