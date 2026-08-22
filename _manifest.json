@@ -10264,6 +10264,8 @@
   "version_signature": "24cadd762faf9362"
  },
  "law:eflaw:001755": {
+  "collected_signature": "d5bd503afb49d0c2",
+  "content_hash": "208ab009bd21013ad5e36a5d9abd4e1c5744479adc05b91d07c6c46a1b0a18f5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=254099&type=HTML&mobileYn=&efYd=20240817",
   "doc_domain": "law",
   "doc_id": "001755",
@@ -10271,11 +10273,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240817",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:01.784796+00:00",
+  "last_collected_at": "2026-08-22T18:29:06.888757+00:00",
   "ministry": "국토교통부",
   "mst": "254099",
   "name": "교통안전법",
+  "payload_law_id": "001755",
   "promulgation_date": "20230816",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d5bd503afb49d0c2"
  },
@@ -11948,6 +11953,8 @@
   "version_signature": "138b536884286047"
  },
  "law:eflaw:002020": {
+  "collected_signature": "b788d02124638f46",
+  "content_hash": "1259ed73269c774768631de301aca6e21253e81f177c7c8f93f35e723583a74e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251785&type=HTML&mobileYn=&efYd=20250614",
   "doc_domain": "law",
   "doc_id": "002020",
@@ -11955,11 +11962,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250614",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:02.456161+00:00",
+  "last_collected_at": "2026-08-22T18:26:28.047175+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "251785",
   "name": "구강보건법",
+  "payload_law_id": "002020",
   "promulgation_date": "20230613",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b788d02124638f46"
  },
@@ -14774,6 +14784,8 @@
   "version_signature": "bcd3fcb3770bdf29"
  },
  "law:eflaw:002621": {
+  "collected_signature": "2d823de17ab1abf6",
+  "content_hash": "fc5d614be3e2c4d036424484225454221a0774b2536e42ac122289cb241c3c2f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281255&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002621",
@@ -14781,11 +14793,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:01.435983+00:00",
+  "last_collected_at": "2026-08-22T18:33:37.066886+00:00",
   "ministry": "국토교통부",
   "mst": "281255",
   "name": "교통안전법 시행령",
+  "payload_law_id": "002621",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2d823de17ab1abf6"
  },
@@ -31317,6 +31332,8 @@
   "version_signature": "dcaf9e224763ea3b"
  },
  "law:eflaw:006577": {
+  "collected_signature": "6fd81f934804baa1",
+  "content_hash": "8a1b71ca788cb8ee76ba26d047161c3193983e5bf881646926d4b695220d814e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266903&type=HTML&mobileYn=&efYd=20241129",
   "doc_domain": "law",
   "doc_id": "006577",
@@ -31324,15 +31341,20 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20241129",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:02.638326+00:00",
+  "last_collected_at": "2026-08-22T18:31:16.023676+00:00",
   "ministry": "국토교통부",
   "mst": "266903",
   "name": "교통안전법 시행규칙",
+  "payload_law_id": "006577",
   "promulgation_date": "20241129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6fd81f934804baa1"
  },
  "law:eflaw:006579": {
+  "collected_signature": "78a1991feef00215",
+  "content_hash": "bd4898e90d9fdd3826dc2a0a7d2481b10814d4263fb8482b6a4e263a6652aaf4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247981&type=HTML&mobileYn=&efYd=20230126",
   "doc_domain": "law",
   "doc_id": "006579",
@@ -31340,11 +31362,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20230126",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:01.195750+00:00",
+  "last_collected_at": "2026-08-22T18:24:53.715838+00:00",
   "ministry": "보건복지부",
   "mst": "247981",
   "name": "구강보건법 시행규칙",
+  "payload_law_id": "006579",
   "promulgation_date": "20230126",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "78a1991feef00215"
  },
@@ -46792,6 +46817,8 @@
   "version_signature": "5fd2b51f30b1f1ff"
  },
  "law:eflaw:009886": {
+  "collected_signature": "4ff8d8aafbf7de27",
+  "content_hash": "d050eed50405b6bf00356bbced386f26f18ec0f149fde54715c9e0a08664a6fd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268757&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "009886",
@@ -46799,11 +46826,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:02.746731+00:00",
+  "last_collected_at": "2026-08-22T18:32:03.264302+00:00",
   "ministry": "국토교통부",
   "mst": "268757",
   "name": "교통약자의 이동편의 증진법",
+  "payload_law_id": "009886",
   "promulgation_date": "20250131",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4ff8d8aafbf7de27"
  },
@@ -49367,6 +49397,8 @@
   "version_signature": "499b291a9a1a72e7"
  },
  "law:eflaw:010156": {
+  "collected_signature": "3f85adb9bd4ad4ff",
+  "content_hash": "d1b6eaa8ad78995bfc7d58de5198db4b7e2da19993288818a4cf0e96ef393414",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283221&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "010156",
@@ -49374,11 +49406,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:03.450416+00:00",
+  "last_collected_at": "2026-08-22T18:29:57.395682+00:00",
   "ministry": "국토교통부",
   "mst": "283221",
   "name": "교통약자의 이동편의 증진법 시행규칙",
+  "payload_law_id": "010156",
   "promulgation_date": "20260130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3f85adb9bd4ad4ff"
  },
@@ -49431,6 +49466,8 @@
   "version_signature": "b5133e76469bbeb8"
  },
  "law:eflaw:010161": {
+  "collected_signature": "78fcef692b19389b",
+  "content_hash": "e8eabb711d0dcbc52fe3efdf3c12dbb4186dc88542a6241c84e447e3d6a65284",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282895&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "010161",
@@ -49438,12 +49475,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-22T18:24:03.482563+00:00",
+  "last_collected_at": "2026-08-22T18:31:26.475413+00:00",
   "ministry": "국토교통부",
   "mst": "282895",
   "name": "교통약자의 이동편의 증진법 시행령",
+  "payload_law_id": "010161",
   "promulgation_date": "20260127",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "78fcef692b19389b"
  },
  "law:eflaw:010162": {
