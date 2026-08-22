@@ -4958,6 +4958,8 @@
   "version_signature": "83d5ac050977626b"
  },
  "law:eflaw:000980": {
+  "collected_signature": "c94bf1540ca21b01",
+  "content_hash": "9af0e4891fdbf366b5a10a52db43c6249a3f4790bcc5d52e556903b253d738bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268091&type=HTML&mobileYn=&efYd=20260108",
   "doc_domain": "law",
   "doc_id": "000980",
@@ -4965,12 +4967,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260108",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:36.393038+00:00",
+  "last_collected_at": "2026-08-22T10:14:55.882682+00:00",
   "ministry": "경찰청",
   "mst": "268091",
   "name": "경비업법",
+  "payload_law_id": "000980",
   "promulgation_date": "20250107",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c94bf1540ca21b01"
  },
  "law:eflaw:000981": {
@@ -12530,6 +12535,8 @@
   "version_signature": "1e0fd8ec57048667"
  },
  "law:eflaw:002146": {
+  "collected_signature": "037168d25fa85807",
+  "content_hash": "9807fcb6edaaa33b17e1c912ddb0c3572b9baf900730611d6df9faa3d375c278",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280451&type=HTML&mobileYn=&efYd=20260108",
   "doc_domain": "law",
   "doc_id": "002146",
@@ -12537,11 +12544,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260108",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:36.881156+00:00",
+  "last_collected_at": "2026-08-22T10:14:21.466516+00:00",
   "ministry": "경찰청",
   "mst": "280451",
   "name": "경비업법 시행령",
+  "payload_law_id": "002146",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "037168d25fa85807"
  },
@@ -29024,6 +29034,8 @@
   "version_signature": "20b7785545c6beb1"
  },
  "law:eflaw:006221": {
+  "collected_signature": "7665fe011ca6471e",
+  "content_hash": "6a4d8104660a72bc69a7114358157fd39c3e121a5178eadbfb1665a897309412",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264977&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "006221",
@@ -29031,11 +29043,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:37.315348+00:00",
+  "last_collected_at": "2026-08-22T10:13:15.494607+00:00",
   "ministry": "경찰청",
   "mst": "264977",
   "name": "경비업법 시행규칙",
+  "payload_law_id": "006221",
   "promulgation_date": "20240814",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7665fe011ca6471e"
  },
@@ -71223,6 +71238,8 @@
   "version_signature": "2a296ae6e414de26"
  },
  "law:eflaw:012557": {
+  "collected_signature": "a1934d3ed716cb69",
+  "content_hash": "dfecbe688663ea30df61dffa46fd943520e70f1d008789a8b7475452d8a36575",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=183520&type=HTML&mobileYn=&efYd=20161130",
   "doc_domain": "law",
   "doc_id": "012557",
@@ -71230,11 +71247,14 @@
   "doc_type": "법률",
   "enforcement_date": "20161130",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:35.060126+00:00",
+  "last_collected_at": "2026-08-22T10:07:55.023484+00:00",
   "ministry": "법무부",
   "mst": "183520",
   "name": "경비교도대 폐지에 따른 보상 등에 관한 법률",
+  "payload_law_id": "012557",
   "promulgation_date": "20160529",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a1934d3ed716cb69"
  },
@@ -72198,6 +72218,8 @@
   "version_signature": "f318aebcd4d1eabe"
  },
  "law:eflaw:012676": {
+  "collected_signature": "9a4adeaaf2ee4b9f",
+  "content_hash": "24bec8f9dda23a9ee73fe1b66ba64c55929a78482959cbd88f15aeadc06972ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261779&type=HTML&mobileYn=&efYd=20240416",
   "doc_domain": "law",
   "doc_id": "012676",
@@ -72205,11 +72227,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240416",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:35.614060+00:00",
+  "last_collected_at": "2026-08-22T10:08:00.109663+00:00",
   "ministry": "법무부",
   "mst": "261779",
   "name": "경비교도대 폐지에 따른 보상 등에 관한 법률 시행령",
+  "payload_law_id": "012676",
   "promulgation_date": "20240416",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9a4adeaaf2ee4b9f"
  },
@@ -83865,6 +83890,8 @@
   "version_signature": "0cbe96af86c9667f"
  },
  "law:eflaw:014378": {
+  "collected_signature": "c50fd0fa2d5ba1c5",
+  "content_hash": "88853d54db5e1b3af21a242dfe9a00421e694c3f850fba18b2d4956258cadd34",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247229&type=HTML&mobileYn=&efYd=20230701",
   "doc_domain": "law",
   "doc_id": "014378",
@@ -83872,11 +83899,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:34.675247+00:00",
+  "last_collected_at": "2026-08-22T10:07:38.790371+00:00",
   "ministry": "행정안전부",
   "mst": "247229",
   "name": "경상북도와 대구광역시 간 관할구역 변경에 관한 법률",
+  "payload_law_id": "014378",
   "promulgation_date": "20230103",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c50fd0fa2d5ba1c5"
  },
@@ -89647,6 +89677,8 @@
   "version_signature": "18ba29fafbb2f1fc"
  },
  "law:eflaw:014952": {
+  "collected_signature": "67979299422ec612",
+  "content_hash": "6cfbc83dc271c51cc44ab570c84647eecc82f5de835fa6e97330a7c2144859c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279289&type=HTML&mobileYn=&efYd=20260129",
   "doc_domain": "law",
   "doc_id": "014952",
@@ -89654,11 +89686,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260129",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:35.364797+00:00",
+  "last_collected_at": "2026-08-22T10:12:03.495020+00:00",
   "ministry": "농림축산식품부,산림청,행정안전부",
   "mst": "279289",
   "name": "경북ㆍ경남ㆍ울산 초대형산불 피해구제 및 지원 등을 위한 특별법",
+  "payload_law_id": "014952",
   "promulgation_date": "20251028",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "67979299422ec612"
  },
@@ -90276,6 +90311,8 @@
   "version_signature": "88de6e7aa0209b69"
  },
  "law:eflaw:015037": {
+  "collected_signature": "7db61fc665fda2a3",
+  "content_hash": "8c6eb10155f0d355bd919012993b300e87d25021076ab557db7ec6b50c401d54",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283031&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "015037",
@@ -90283,12 +90320,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-22T10:07:36.536284+00:00",
+  "last_collected_at": "2026-08-22T10:12:04.337269+00:00",
   "ministry": "농림축산식품부,산림청,행정안전부",
   "mst": "283031",
   "name": "경북ㆍ경남ㆍ울산 초대형산불 피해구제 및 지원 등을 위한 특별법 시행령",
+  "payload_law_id": "015037",
   "promulgation_date": "20260127",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7db61fc665fda2a3"
  },
  "law:eflaw:015039": {
