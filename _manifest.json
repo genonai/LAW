@@ -6710,6 +6710,8 @@
   "version_signature": "e0e0a5d7b53821af"
  },
  "law:eflaw:001286": {
+  "collected_signature": "eae5949f19e31fb9",
+  "content_hash": "bd208866822bb519728bc755ab97417808e6a6844aa6ec0127603c60af0fa427",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=242095&type=HTML&mobileYn=&efYd=20220910",
   "doc_domain": "law",
   "doc_id": "001286",
@@ -6717,12 +6719,15 @@
   "doc_type": "법률",
   "enforcement_date": "20220910",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:45.691007+00:00",
+  "last_collected_at": "2026-08-22T09:56:02.259613+00:00",
   "ministry": "법무부",
   "mst": "242095",
   "name": "검찰청법",
+  "payload_law_id": "001286",
   "promulgation_date": "20220509",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "eae5949f19e31fb9"
  },
  "law:eflaw:001291": {
@@ -10297,6 +10302,8 @@
   "version_signature": "1fdc0d1ad5a5b678"
  },
  "law:eflaw:001791": {
+  "collected_signature": "f15ff5b470dbf8fa",
+  "content_hash": "80470c79087aca45fc0c0d5684b04fe6f5c638780a69d2d71c9fa8d8d1fa7ba3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277213&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001791",
@@ -10304,12 +10311,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:44.287566+00:00",
+  "last_collected_at": "2026-08-22T09:52:27.405687+00:00",
   "ministry": "질병관리청",
   "mst": "277213",
   "name": "결핵예방법",
+  "payload_law_id": "001791",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "f15ff5b470dbf8fa"
  },
  "law:eflaw:001792": {
@@ -12426,6 +12436,8 @@
   "version_signature": "1ccbda286d56cae4"
  },
  "law:eflaw:002132": {
+  "collected_signature": "ac71f773ef51eba4",
+  "content_hash": "1613978bc0ff5cfc71ea5594c3730a765462fbe0c0f76f55c1f96fd90ee9064a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286405&type=HTML&mobileYn=&efYd=20260529",
   "doc_domain": "law",
   "doc_id": "002132",
@@ -12433,11 +12445,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260529",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:45.042893+00:00",
+  "last_collected_at": "2026-08-22T10:00:17.748062+00:00",
   "ministry": "법무부,행정안전부",
   "mst": "286405",
   "name": "검찰청 사무기구에 관한 규정",
+  "payload_law_id": "002132",
   "promulgation_date": "20260529",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ac71f773ef51eba4"
  },
@@ -45583,6 +45598,8 @@
   "version_signature": "72419666fd30aac9"
  },
  "law:eflaw:009913": {
+  "collected_signature": "a28361b514d6b292",
+  "content_hash": "68b8066355f34947befa8cc599115347157fbe5ef459d0e83e7da69308132245",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261639&type=HTML&mobileYn=&efYd=20240328",
   "doc_domain": "law",
   "doc_id": "009913",
@@ -45590,11 +45607,14 @@
   "doc_type": "헌법재판소규칙",
   "enforcement_date": "20240328",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:46.684473+00:00",
+  "last_collected_at": "2026-08-22T09:54:52.250637+00:00",
   "ministry": "헌법재판소",
   "mst": "261639",
   "name": "결정서ㆍ사건기록 및 심판사무 관련장부의 보존 등에 관한 규칙",
+  "payload_law_id": "009913",
   "promulgation_date": "20240328",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a28361b514d6b292"
  },
@@ -48472,6 +48492,8 @@
   "version_signature": "6db7ba056b1ae1d2"
  },
  "law:eflaw:010196": {
+  "collected_signature": "c3aca8b9bbbfeaf8",
+  "content_hash": "06ef9f3a8b1af06123c65610de1fb12d299dd98b7e8f3ee3106d7137f7690e3e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265811&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "010196",
@@ -48479,11 +48501,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251023",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:44.512107+00:00",
+  "last_collected_at": "2026-08-22T09:57:44.812416+00:00",
   "ministry": "문화체육관광부",
   "mst": "265811",
   "name": "게임산업진흥에 관한 법률",
+  "payload_law_id": "010196",
   "promulgation_date": "20241022",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c3aca8b9bbbfeaf8"
  },
@@ -49661,6 +49686,8 @@
   "version_signature": "8b58f1088eca36a7"
  },
  "law:eflaw:010307": {
+  "collected_signature": "6a3f843991a58564",
+  "content_hash": "ea541719c41a52bb206ccfc6847b3400c50ea19a73b15692aed018c1c092309e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284663&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "010307",
@@ -49668,11 +49695,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:45.228596+00:00",
+  "last_collected_at": "2026-08-22T09:57:37.182042+00:00",
   "ministry": "문화체육관광부",
   "mst": "284663",
   "name": "게임산업진흥에 관한 법률 시행령",
+  "payload_law_id": "010307",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6a3f843991a58564"
  },
@@ -49725,6 +49755,8 @@
   "version_signature": "a3528da3f52ebe5f"
  },
  "law:eflaw:010313": {
+  "collected_signature": "e98da41713ea8575",
+  "content_hash": "1897412226107f267bfaa625fddc2823e34a81a0c1d60e0981f77e4365f23643",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279203&type=HTML&mobileYn=&efYd=20251009",
   "doc_domain": "law",
   "doc_id": "010313",
@@ -49732,11 +49764,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20251009",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:46.580430+00:00",
+  "last_collected_at": "2026-08-22T09:55:19.175799+00:00",
   "ministry": "문화체육관광부",
   "mst": "279203",
   "name": "게임산업진흥에 관한 법률 시행규칙",
+  "payload_law_id": "010313",
   "promulgation_date": "20251002",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e98da41713ea8575"
  },
@@ -50813,6 +50848,8 @@
   "version_signature": "0be3b91a1f415fdd"
  },
  "law:eflaw:010432": {
+  "collected_signature": "83e045a174537b01",
+  "content_hash": "61513144d77b16ef1ef760fcd676552a735cab650a2b1f3ecf396c6a23c01f49",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=238041&type=HTML&mobileYn=&efYd=20211221",
   "doc_domain": "law",
   "doc_id": "010432",
@@ -50820,11 +50857,14 @@
   "doc_type": "법률",
   "enforcement_date": "20211221",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:50:46.003612+00:00",
+  "last_collected_at": "2026-08-22T09:55:00.224100+00:00",
   "ministry": "통일부",
   "mst": "238041",
   "name": "겨레말큰사전남북공동편찬사업회법",
+  "payload_law_id": "010432",
   "promulgation_date": "20211221",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "83e045a174537b01"
  },
