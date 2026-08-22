@@ -1486,6 +1486,8 @@
   "version_signature": "7365d7c24e90b27f"
  },
  "law:eflaw:000216": {
+  "collected_signature": "c8fda70aa32cf1e5",
+  "content_hash": "23bb3a2ceb79b191e5f67caf24ef600df1494e3f2b265a9f105541aedb5a6d62",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259905&type=HTML&mobileYn=&efYd=20250807",
   "doc_domain": "law",
   "doc_id": "000216",
@@ -1493,11 +1495,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250807",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:37.203852+00:00",
+  "last_collected_at": "2026-08-22T15:05:25.682423+00:00",
   "ministry": "보건복지부",
   "mst": "259905",
   "name": "공중보건장학을 위한 특례법",
+  "payload_law_id": "000216",
   "promulgation_date": "20240206",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c8fda70aa32cf1e5"
  },
@@ -30172,6 +30177,8 @@
   "version_signature": "b15228b7236b545b"
  },
  "law:eflaw:006357": {
+  "collected_signature": "e8b9715466501f17",
+  "content_hash": "f7ae2dc67d004ec77060e9a254c3223f1991dc38fd4d2c013fa0799bea4f8bb9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270605&type=HTML&mobileYn=&efYd=20250404",
   "doc_domain": "law",
   "doc_id": "006357",
@@ -30179,11 +30186,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20250404",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:33.469125+00:00",
+  "last_collected_at": "2026-08-22T15:04:11.711997+00:00",
   "ministry": "보건복지부",
   "mst": "270605",
   "name": "공중보건장학을 위한 특례법 시행규칙",
+  "payload_law_id": "006357",
   "promulgation_date": "20250404",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e8b9715466501f17"
  },
@@ -49085,6 +49095,8 @@
   "version_signature": "96caaec549e8e325"
  },
  "law:eflaw:010179": {
+  "collected_signature": "eb4aeaf15e3a9fce",
+  "content_hash": "562722ce6221b72d77119e92accacbddfa3d0cd3f3c84ed7ab34cf1dae19c00f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214129&type=HTML&mobileYn=&efYd=20200211",
   "doc_domain": "law",
   "doc_id": "010179",
@@ -49092,12 +49104,15 @@
   "doc_type": "법률",
   "enforcement_date": "20200211",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:34.322340+00:00",
+  "last_collected_at": "2026-08-22T15:06:26.984356+00:00",
   "ministry": "농림축산식품부",
   "mst": "214129",
   "name": "공중방역수의사에 관한 법률",
+  "payload_law_id": "010179",
   "promulgation_date": "20200211",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "eb4aeaf15e3a9fce"
  },
  "law:eflaw:010180": {
@@ -50151,6 +50166,8 @@
   "version_signature": "abf3ffba59f64dc2"
  },
  "law:eflaw:010275": {
+  "collected_signature": "f956b23ed1aa3944",
+  "content_hash": "b049a76db47cc0eabd62d2270d9c84003e6ab9f3a89d33ff138b2fe57b07011c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235953&type=HTML&mobileYn=&efYd=20211008",
   "doc_domain": "law",
   "doc_id": "010275",
@@ -50158,15 +50175,20 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20211008",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:36.439272+00:00",
+  "last_collected_at": "2026-08-22T15:04:59.949832+00:00",
   "ministry": "농림축산식품부",
   "mst": "235953",
   "name": "공중방역수의사에 관한 법률 시행규칙",
+  "payload_law_id": "010275",
   "promulgation_date": "20211008",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f956b23ed1aa3944"
  },
  "law:eflaw:010276": {
+  "collected_signature": "bee9ce9844c3ab42",
+  "content_hash": "e8679914288bf08bd9b5aba1dc7a5357cf5e4fb44ec21d9b1c7111919542f266",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269339&type=HTML&mobileYn=&efYd=20250225",
   "doc_domain": "law",
   "doc_id": "010276",
@@ -50174,11 +50196,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250225",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:33.890480+00:00",
+  "last_collected_at": "2026-08-22T15:06:13.610303+00:00",
   "ministry": "농림축산식품부",
   "mst": "269339",
   "name": "공중방역수의사에 관한 법률 시행령",
+  "payload_law_id": "010276",
   "promulgation_date": "20250225",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bee9ce9844c3ab42"
  },
@@ -81469,6 +81494,8 @@
   "version_signature": "65b333fdae3f5a80"
  },
  "law:eflaw:014033": {
+  "collected_signature": "7926f2055be0eddc",
+  "content_hash": "de4f829e6e5bc7b73c36b2de8d3b7d3503497c02f3acc1a5ca74f23acad03562",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277141&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014033",
@@ -81476,12 +81503,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:37.127945+00:00",
+  "last_collected_at": "2026-08-22T15:06:22.611759+00:00",
   "ministry": "식품의약품안전처",
   "mst": "277141",
   "name": "공중보건 위기대응 의료제품의 개발 촉진 및 긴급 공급을 위한 특별법",
+  "payload_law_id": "014033",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7926f2055be0eddc"
  },
  "law:eflaw:014035": {
@@ -82813,6 +82843,8 @@
   "version_signature": "d7b437e54ec064f8"
  },
  "law:eflaw:014142": {
+  "collected_signature": "abe20ac8c86d6c62",
+  "content_hash": "fd2d35b68c933122fec887874182947ae21a02a9a67e5d59e763f00f790ff839",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281349&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014142",
@@ -82820,11 +82852,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:35.160929+00:00",
+  "last_collected_at": "2026-08-22T15:04:44.884818+00:00",
   "ministry": "식품의약품안전처",
   "mst": "281349",
   "name": "공중보건 위기대응 의료제품의 개발 촉진 및 긴급 공급을 위한 특별법 시행령",
+  "payload_law_id": "014142",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "abe20ac8c86d6c62"
  },
@@ -83302,6 +83337,8 @@
   "version_signature": "7fc1150a0ac5890a"
  },
  "law:eflaw:014187": {
+  "collected_signature": "07f204c3473f1aeb",
+  "content_hash": "22dd07df5dc2a4c9d09030df400e6f34531751e809447c839eacf3200031595f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236927&type=HTML&mobileYn=&efYd=20211123",
   "doc_domain": "law",
   "doc_id": "014187",
@@ -83309,11 +83346,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20211123",
   "is_active": true,
+  "last_checked_at": "2026-08-22T15:03:34.878681+00:00",
+  "last_collected_at": "2026-08-22T15:06:05.953503+00:00",
   "ministry": "식품의약품안전처",
   "mst": "236927",
   "name": "공중보건 위기대응 의료제품의 개발 촉진 및 긴급 공급을 위한 특별법 시행규칙",
+  "payload_law_id": "014187",
   "promulgation_date": "20211123",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "07f204c3473f1aeb"
  },
