@@ -7222,6 +7222,8 @@
   "version_signature": "a8d3e71607fcbeea"
  },
  "law:eflaw:001351": {
+  "collected_signature": "cdb3ac606ccd32b0",
+  "content_hash": "af9ad3f1530c9dd58248eab97a8fa662241ce13dfe0788348707875a2340fae1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236273&type=HTML&mobileYn=&efYd=20220420",
   "doc_domain": "law",
   "doc_id": "001351",
@@ -7229,12 +7231,15 @@
   "doc_type": "법률",
   "enforcement_date": "20220420",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:41.056743+00:00",
+  "last_collected_at": "2026-08-22T19:58:29.241159+00:00",
   "ministry": "국가정보원",
   "mst": "236273",
   "name": "국가정보원직원법",
+  "payload_law_id": "001351",
   "promulgation_date": "20211019",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "cdb3ac606ccd32b0"
  },
  "law:eflaw:001357": {
@@ -7339,6 +7344,8 @@
   "version_signature": "bfea1f513a43c79e"
  },
  "law:eflaw:001371": {
+  "collected_signature": "da18611e90d93730",
+  "content_hash": "acb6e4ec844987cfddb441c81dbf0bdce56ca16db074eeb654e4d9ff79f08e82",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277293&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001371",
@@ -7346,11 +7353,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:43.006537+00:00",
+  "last_collected_at": "2026-08-22T20:01:58.507250+00:00",
   "ministry": "국가정보원",
   "mst": "277293",
   "name": "국가정보원법",
+  "payload_law_id": "001371",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "da18611e90d93730"
  },
@@ -7594,6 +7604,8 @@
   "version_signature": "cd1c861b4daad3e8"
  },
  "law:eflaw:001425": {
+  "collected_signature": "66b58399921482f3",
+  "content_hash": "570362faef2f1da452e3e27246cc3bd73ebc1900ecb325976a5c1a51e3af40ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=195068&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "001425",
@@ -7601,11 +7613,14 @@
   "doc_type": "법률",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:41.861890+00:00",
+  "last_collected_at": "2026-08-22T19:57:58.363819+00:00",
   "ministry": "행정안전부",
   "mst": "195068",
   "name": "국가장법",
+  "payload_law_id": "001425",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "66b58399921482f3"
  },
@@ -15814,6 +15829,8 @@
   "version_signature": "2a760ce2d4313619"
  },
  "law:eflaw:002920": {
+  "collected_signature": "9d8891b8e4469d3b",
+  "content_hash": "00552f1132fbfba7d527d98e9898074cf8c2a02eff0cc8e4950a9f73097f9da0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=195583&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "002920",
@@ -15821,11 +15838,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:44.954137+00:00",
+  "last_collected_at": "2026-08-22T20:01:31.339080+00:00",
   "ministry": "행정안전부",
   "mst": "195583",
   "name": "국가장법 시행령",
+  "payload_law_id": "002920",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9d8891b8e4469d3b"
  },
@@ -51414,6 +51434,8 @@
   "version_signature": "dd8a3fc9f21513ea"
  },
  "law:eflaw:010301": {
+  "collected_signature": "b4f4aa0996e62a34",
+  "content_hash": "c531d24522fd9764a370ed25b1648a4140247a716fa23ffb2d99506a99262a77",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288569&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "010301",
@@ -51421,12 +51443,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260811",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:41.264021+00:00",
+  "last_collected_at": "2026-08-22T20:06:49.158730+00:00",
   "ministry": "기획예산처,재정경제부",
   "mst": "288569",
   "name": "국가재정법",
+  "payload_law_id": "010301",
   "promulgation_date": "20260811",
-  "status": "pending",
-  "version_count": 5,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b4f4aa0996e62a34"
  },
  "law:eflaw:010302": {
@@ -51962,6 +51987,8 @@
   "version_signature": "fe422425d90eb04f"
  },
  "law:eflaw:010374": {
+  "collected_signature": "ed620da0bdfabd69",
+  "content_hash": "cd86bbf3c9e9e07c96d3da24a8d37058c1c8eb4b5ee84435968332021a3cccef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288443&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "010374",
@@ -51969,11 +51996,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260811",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:42.575946+00:00",
+  "last_collected_at": "2026-08-22T20:04:03.648625+00:00",
   "ministry": "기획예산처,재정경제부",
   "mst": "288443",
   "name": "국가재정법 시행령",
+  "payload_law_id": "010374",
   "promulgation_date": "20260730",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ed620da0bdfabd69"
  },
@@ -86797,6 +86827,8 @@
   "version_signature": "5612bfc7549151db"
  },
  "law:eflaw:014409": {
+  "collected_signature": "11d11da838af2d61",
+  "content_hash": "518d49ad338f01e76703abd6933a1982b3d4d8f0a4522260d25f6a87993c8a8d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283415&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "014409",
@@ -86804,11 +86836,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:44.001355+00:00",
+  "last_collected_at": "2026-08-22T20:01:37.255784+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "283415",
   "name": "국가전략기술 육성에 관한 특별법",
+  "payload_law_id": "014409",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "11d11da838af2d61"
  },
@@ -87632,6 +87667,8 @@
   "version_signature": "a45e0ebc47d06e76"
  },
  "law:eflaw:014504": {
+  "collected_signature": "245eb2e0ada2a296",
+  "content_hash": "36288af4c7419aef7b0f9af88b2731355b2629f2a828d49550c1589ca293c493",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288775&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "014504",
@@ -87639,11 +87676,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T19:57:43.686585+00:00",
+  "last_collected_at": "2026-08-22T20:01:37.324628+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "288775",
   "name": "국가전략기술 육성에 관한 특별법 시행령",
+  "payload_law_id": "014504",
   "promulgation_date": "20260818",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "245eb2e0ada2a296"
  },
