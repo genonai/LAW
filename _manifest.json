@@ -1216,6 +1216,8 @@
   "version_signature": "33ce9f2599cbb4f0"
  },
  "law:eflaw:000182": {
+  "collected_signature": "a4c280b52514ad02",
+  "content_hash": "c43d6aa2c042d02d276379ea32062ffa8878212a4099eff0389f7f26817137a2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285393&type=HTML&mobileYn=&efYd=20260708",
   "doc_domain": "law",
   "doc_id": "000182",
@@ -1223,11 +1225,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260708",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:37.155400+00:00",
+  "last_collected_at": "2026-08-22T06:06:32.854758+00:00",
   "ministry": "성평등가족부",
   "mst": "285393",
   "name": "가정폭력방지 및 피해자보호 등에 관한 법률",
+  "payload_law_id": "000182",
   "promulgation_date": "20260407",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a4c280b52514ad02"
  },
@@ -11849,6 +11854,8 @@
   "version_signature": "209fdf374514e7ac"
  },
  "law:eflaw:002049": {
+  "collected_signature": "313f359af2b68b09",
+  "content_hash": "fe66ba732604c05ef91df137e2ef416da249848e0d4961b01d8587c4f2958eeb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243607&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "002049",
@@ -11856,11 +11863,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20220701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:37.381127+00:00",
+  "last_collected_at": "2026-08-22T06:01:11.784047+00:00",
   "ministry": "법무부",
   "mst": "243607",
   "name": "가석방자관리규정",
+  "payload_law_id": "002049",
   "promulgation_date": "20220630",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "313f359af2b68b09"
  },
@@ -25314,6 +25324,8 @@
   "version_signature": "cfa9e70b9513a211"
  },
  "law:eflaw:005698": {
+  "collected_signature": "9bc407dc227baba6",
+  "content_hash": "c7d9a6c6aeb29aed4bc3239cdabaecbf9fbb5385520cde4575bf3e600ed10fee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264543&type=HTML&mobileYn=&efYd=20250101",
   "doc_domain": "law",
   "doc_id": "005698",
@@ -25321,11 +25333,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250101",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:38.387766+00:00",
+  "last_collected_at": "2026-08-22T06:06:15.049263+00:00",
   "ministry": "대법원",
   "mst": "264543",
   "name": "가정보호심판규칙",
+  "payload_law_id": "005698",
   "promulgation_date": "20240726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9bc407dc227baba6"
  },
@@ -71923,6 +71938,8 @@
   "version_signature": "d1953f54fd3adcf3"
  },
  "law:eflaw:012804": {
+  "collected_signature": "88feee0cbeff8ee9",
+  "content_hash": "71ef048a913e20c455813cbddbd35265774950b73a1ec7c9d7f2091fbc776c9d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276691&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012804",
@@ -71930,12 +71947,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:39.035646+00:00",
+  "last_collected_at": "2026-08-22T06:05:23.792869+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276691",
   "name": "가습기살균제 피해구제를 위한 특별법",
+  "payload_law_id": "012804",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "88feee0cbeff8ee9"
  },
  "law:eflaw:012805": {
@@ -72803,6 +72823,8 @@
   "version_signature": "72d5458c3cf8df4b"
  },
  "law:eflaw:012969": {
+  "collected_signature": "32649bd3e1d0d880",
+  "content_hash": "23196197c4c4621f5dfc36faee0ae268afcd258e526482778cf7336993bdf7f5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278493&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012969",
@@ -72810,15 +72832,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:37.968832+00:00",
+  "last_collected_at": "2026-08-22T06:05:35.594884+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278493",
   "name": "가습기살균제 피해구제를 위한 특별법 시행령",
+  "payload_law_id": "012969",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "32649bd3e1d0d880"
  },
  "law:eflaw:012971": {
+  "collected_signature": "ddfc8b584a673bf9",
+  "content_hash": "d4824203718e866c48828d0f3291d6fc57bb10c4f91655dd93ef93cf248570e9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278867&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012971",
@@ -72826,11 +72853,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:39.692425+00:00",
+  "last_collected_at": "2026-08-22T06:01:49.214320+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278867",
   "name": "가습기살균제 피해구제를 위한 특별법 시행규칙",
+  "payload_law_id": "012971",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ddfc8b584a673bf9"
  },
@@ -83720,6 +83750,8 @@
   "version_signature": "a96f3b7782ce7fd5"
  },
  "law:eflaw:014474": {
+  "collected_signature": "42abc110050d2ead",
+  "content_hash": "c1dd523dab7ae8b93b23aa33fa603cd6fdee7c5966b637007cd927f4126561be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261099&type=HTML&mobileYn=&efYd=20240719",
   "doc_domain": "law",
   "doc_id": "014474",
@@ -83727,11 +83759,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240719",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:37.815912+00:00",
+  "last_collected_at": "2026-08-22T06:05:06.118260+00:00",
   "ministry": "금융위원회",
   "mst": "261099",
   "name": "가상자산 이용자 보호 등에 관한 법률",
+  "payload_law_id": "014474",
   "promulgation_date": "20240312",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "42abc110050d2ead"
  },
@@ -85877,6 +85912,8 @@
   "version_signature": "0d97bd1c4c651095"
  },
  "law:eflaw:014682": {
+  "collected_signature": "e67a1fe53255798d",
+  "content_hash": "e305ed93d6c1e77c0d2360354c3c636061a306b485bcca091cae769f4ec52f13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270729&type=HTML&mobileYn=&efYd=20250423",
   "doc_domain": "law",
   "doc_id": "014682",
@@ -85884,11 +85921,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250423",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:00:38.976047+00:00",
+  "last_collected_at": "2026-08-22T06:02:51.188611+00:00",
   "ministry": "금융위원회",
   "mst": "270729",
   "name": "가상자산 이용자 보호 등에 관한 법률 시행령",
+  "payload_law_id": "014682",
   "promulgation_date": "20250422",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e67a1fe53255798d"
  },
