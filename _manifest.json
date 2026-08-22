@@ -9421,6 +9421,8 @@
   "version_signature": "a431ff85f77a1ae2"
  },
  "law:eflaw:001709": {
+  "collected_signature": "585546dc392c10c3",
+  "content_hash": "193df6f8d4bd9c7ad206ce46cf97301eed5e8cce36ed885818ede224d3b99982",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284429&type=HTML&mobileYn=&efYd=20260317",
   "doc_domain": "law",
   "doc_id": "001709",
@@ -9428,12 +9430,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260317",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:37.997309+00:00",
+  "last_collected_at": "2026-08-22T06:35:26.983133+00:00",
   "ministry": "대법원",
   "mst": "284429",
   "name": "각급 법원의 설치와 관할구역에 관한 법률",
+  "payload_law_id": "001709",
   "promulgation_date": "20260317",
-  "status": "pending",
-  "version_count": 9,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "585546dc392c10c3"
  },
  "law:eflaw:001710": {
@@ -11932,6 +11937,8 @@
   "version_signature": "52ca6bddd30005af"
  },
  "law:eflaw:002061": {
+  "collected_signature": "741b3dd2d6d91abd",
+  "content_hash": "81864487b8c43e174beaf0729ce11ef461e411c5d0e62ceab78492687f68e7ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214023&type=HTML&mobileYn=&efYd=20200204",
   "doc_domain": "law",
   "doc_id": "002061",
@@ -11939,15 +11946,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20200204",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:39.791647+00:00",
+  "last_collected_at": "2026-08-22T06:34:27.699218+00:00",
   "ministry": "국방부",
   "mst": "214023",
   "name": "각병과사병의군사경찰직무보조에관한규정",
+  "payload_law_id": "002061",
   "promulgation_date": "20200204",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "741b3dd2d6d91abd"
  },
  "law:eflaw:002065": {
+  "collected_signature": "fd55ce38ec0f4479",
+  "content_hash": "67de1d7bab30d49efbe1ecea4eb7d931b4844b2bbe23360fb72e61fe09a1bf10",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281021&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002065",
@@ -11955,11 +11967,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:37.947917+00:00",
+  "last_collected_at": "2026-08-22T06:34:39.108959+00:00",
   "ministry": "행정안전부",
   "mst": "281021",
   "name": "각종 기념일 등에 관한 규정",
+  "payload_law_id": "002065",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fd55ce38ec0f4479"
  },
@@ -25391,6 +25406,8 @@
   "version_signature": "fc42a35ce220619f"
  },
  "law:eflaw:005701": {
+  "collected_signature": "e13d570281df2fd2",
+  "content_hash": "03dc65a7474056faceffe4a1757de462bcde1b22d18d247904d3fa551aec171c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=52364&type=HTML&mobileYn=&efYd=20020701",
   "doc_domain": "law",
   "doc_id": "005701",
@@ -25398,11 +25415,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20020701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:39.968553+00:00",
+  "last_collected_at": "2026-08-22T06:35:03.532500+00:00",
   "ministry": "대법원",
   "mst": "52364",
   "name": "각종분쟁조정위원회등의조정조서등에대한집행문부여에관한규칙",
+  "payload_law_id": "005701",
   "promulgation_date": "20020628",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e13d570281df2fd2"
  },
@@ -61134,6 +61154,8 @@
   "version_signature": "8672b81982e465db"
  },
  "law:eflaw:011522": {
+  "collected_signature": "7a0201882f030ff3",
+  "content_hash": "2778d669d4bff5e14938c71039d0faac054f0dd0297f2efa79efb98e92d52fa9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252833&type=HTML&mobileYn=&efYd=20230725",
   "doc_domain": "law",
   "doc_id": "011522",
@@ -61141,12 +61163,15 @@
   "doc_type": "법률",
   "enforcement_date": "20230725",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:37.400015+00:00",
+  "last_collected_at": "2026-08-22T06:35:49.449398+00:00",
   "ministry": "농림축산식품부",
   "mst": "252833",
   "name": "간척지의 농어업적 이용 및 관리에 관한 법률",
+  "payload_law_id": "011522",
   "promulgation_date": "20230725",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7a0201882f030ff3"
  },
  "law:eflaw:011523": {
@@ -66125,6 +66150,8 @@
   "version_signature": "9228a6211240e657"
  },
  "law:eflaw:012071": {
+  "collected_signature": "b0c1abfe158cfd96",
+  "content_hash": "b007b6722821b60a9be3305890232efe9e07e8643e93a782476095dcbec99e41",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276919&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012071",
@@ -66132,11 +66159,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:40.405514+00:00",
+  "last_collected_at": "2026-08-22T06:36:48.593385+00:00",
   "ministry": "국토교통부",
   "mst": "276919",
   "name": "간선급행버스체계의 건설 및 운영에 관한 특별법",
+  "payload_law_id": "012071",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b0c1abfe158cfd96"
  },
@@ -67138,6 +67168,8 @@
   "version_signature": "46d0b1a22fad50e6"
  },
  "law:eflaw:012179": {
+  "collected_signature": "1b9b4d5a1dc8d705",
+  "content_hash": "89ca53ce96b99cdecbb45be4f61995bdd9e6765376267e6b9dca93fc10795242",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281241&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012179",
@@ -67145,11 +67177,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:38.664135+00:00",
+  "last_collected_at": "2026-08-22T06:35:10.104452+00:00",
   "ministry": "국토교통부",
   "mst": "281241",
   "name": "간선급행버스체계의 건설 및 운영에 관한 특별법 시행령",
+  "payload_law_id": "012179",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1b9b4d5a1dc8d705"
  },
@@ -67234,6 +67269,8 @@
   "version_signature": "e457d9c72b7ede4b"
  },
  "law:eflaw:012188": {
+  "collected_signature": "92a0e3a075ba13a9",
+  "content_hash": "3aa708444e91d00bc83dba653e96641e380ff8d07031dbd83adb256b407b5994",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282021&type=HTML&mobileYn=&efYd=20251226",
   "doc_domain": "law",
   "doc_id": "012188",
@@ -67241,11 +67278,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20251226",
   "is_active": true,
+  "last_checked_at": "2026-08-22T06:32:39.324703+00:00",
+  "last_collected_at": "2026-08-22T06:35:15.345921+00:00",
   "ministry": "국토교통부",
   "mst": "282021",
   "name": "간선급행버스체계의 건설 및 운영에 관한 특별법 시행규칙",
+  "payload_law_id": "012188",
   "promulgation_date": "20251226",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "92a0e3a075ba13a9"
  },
