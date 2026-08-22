@@ -6631,6 +6631,8 @@
   "version_signature": "b6589e7108d00b99"
  },
  "law:eflaw:001281": {
+  "collected_signature": "01bfdca9cca7e1b0",
+  "content_hash": "159909fe07a3e3f16fa0ae189ce1e052906505f762f8cabf18c2b2613b0d8df9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271559&type=HTML&mobileYn=&efYd=20250610",
   "doc_domain": "law",
   "doc_id": "001281",
@@ -6638,11 +6640,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250610",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:25.391583+00:00",
+  "last_collected_at": "2026-08-22T09:35:09.918109+00:00",
   "ministry": "법무부",
   "mst": "271559",
   "name": "검사징계법",
+  "payload_law_id": "001281",
   "promulgation_date": "20250610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "01bfdca9cca7e1b0"
  },
@@ -6684,6 +6689,8 @@
   "version_signature": "c050ae7a7015db60"
  },
  "law:eflaw:001284": {
+  "collected_signature": "e0e0a5d7b53821af",
+  "content_hash": "4fb67ba343b09c9e0d480a6d191db0f0bf98d6eb0fba37d0cb462c91b2733cc5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=166367&type=HTML&mobileYn=&efYd=20141231",
   "doc_domain": "law",
   "doc_id": "001284",
@@ -6691,11 +6698,14 @@
   "doc_type": "법률",
   "enforcement_date": "20141231",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:25.888427+00:00",
+  "last_collected_at": "2026-08-22T09:35:21.149539+00:00",
   "ministry": "법무부",
   "mst": "166367",
   "name": "검사정원법",
+  "payload_law_id": "001284",
   "promulgation_date": "20141231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e0e0a5d7b53821af"
  },
@@ -10266,6 +10276,8 @@
   "version_signature": "be1a782847f6be99"
  },
  "law:eflaw:001790": {
+  "collected_signature": "1fdc0d1ad5a5b678",
+  "content_hash": "be4666913b8be1f3483d22993663312bda574641fac9249cdc1e3ad4506f8eef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281917&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001790",
@@ -10273,12 +10285,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:26.539772+00:00",
+  "last_collected_at": "2026-08-22T09:36:14.480810+00:00",
   "ministry": "질병관리청",
   "mst": "281917",
   "name": "검역법",
+  "payload_law_id": "001790",
   "promulgation_date": "20251230",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "1fdc0d1ad5a5b678"
  },
  "law:eflaw:001791": {
@@ -12369,6 +12384,8 @@
   "version_signature": "20e38e7a014c3a98"
  },
  "law:eflaw:002125": {
+  "collected_signature": "a00bc9b2f11112cb",
+  "content_hash": "2b5559ce61d530fbc59f2896a8aa9c96cae15e2a3bc312bbd47639c8a3759f33",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282489&type=HTML&mobileYn=&efYd=20260106",
   "doc_domain": "law",
   "doc_id": "002125",
@@ -12376,11 +12393,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260106",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:26.965284+00:00",
+  "last_collected_at": "2026-08-22T09:37:18.670637+00:00",
   "ministry": "법무부",
   "mst": "282489",
   "name": "검사정원법 시행령",
+  "payload_law_id": "002125",
   "promulgation_date": "20260106",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a00bc9b2f11112cb"
  },
@@ -28717,6 +28737,8 @@
   "version_signature": "ecb2ccef1f3705c9"
  },
  "law:eflaw:006197": {
+  "collected_signature": "54e18d56382192ff",
+  "content_hash": "47025f79c37f82e53efa81fa401722c712a2f406ae5d3ecb9fd71e57b27d2a43",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271105&type=HTML&mobileYn=&efYd=20250719",
   "doc_domain": "law",
   "doc_id": "006197",
@@ -28724,11 +28746,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20250719",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:22.983268+00:00",
+  "last_collected_at": "2026-08-22T09:36:42.830310+00:00",
   "ministry": "질병관리청",
   "mst": "271105",
   "name": "검역법 시행규칙",
+  "payload_law_id": "006197",
   "promulgation_date": "20250514",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "54e18d56382192ff"
  },
@@ -30269,6 +30294,8 @@
   "version_signature": "0ed0698cc284fe12"
  },
  "law:eflaw:006612": {
+  "collected_signature": "b36a752267a96e55",
+  "content_hash": "a611e4de7144cdae3ca595258e56788184bc3d7bb29da2cca0d79c0be8cbf6cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264383&type=HTML&mobileYn=&efYd=20240719",
   "doc_domain": "law",
   "doc_id": "006612",
@@ -30276,11 +30303,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20240719",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:27.432150+00:00",
+  "last_collected_at": "2026-08-22T09:34:42.803791+00:00",
   "ministry": "질병관리청",
   "mst": "264383",
   "name": "검역공무원 복제 규칙",
+  "payload_law_id": "006612",
   "promulgation_date": "20240719",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b36a752267a96e55"
  },
@@ -44773,6 +44803,8 @@
   "version_signature": "367cd23018daabf6"
  },
  "law:eflaw:009834": {
+  "collected_signature": "335b2b3e9dfc2b55",
+  "content_hash": "c41e3e8f5df295f163577c57722a25e9144b8b76a825ca8e81364cad80b49b03",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236767&type=HTML&mobileYn=&efYd=20211116",
   "doc_domain": "law",
   "doc_id": "009834",
@@ -44780,11 +44812,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20211116",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:25.735903+00:00",
+  "last_collected_at": "2026-08-22T09:33:49.530170+00:00",
   "ministry": "법무부",
   "mst": "236767",
   "name": "검사직무대리 운영규정",
+  "payload_law_id": "009834",
   "promulgation_date": "20211116",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "335b2b3e9dfc2b55"
  },
@@ -78705,6 +78740,8 @@
   "version_signature": "27dfae4111ad7dbc"
  },
  "law:eflaw:013872": {
+  "collected_signature": "3e8b94ad5b8297a3",
+  "content_hash": "a7593798b2aca6116eb9ddfc9d39ed9ded3cef812ac420e942e8febd35429be5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263971&type=HTML&mobileYn=&efYd=20241019",
   "doc_domain": "law",
   "doc_id": "013872",
@@ -78712,11 +78749,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20241019",
   "is_active": true,
+  "last_checked_at": "2026-08-22T09:33:23.850553+00:00",
+  "last_collected_at": "2026-08-22T09:34:52.434853+00:00",
   "ministry": "법무부",
   "mst": "263971",
   "name": "검사의 수사개시 범죄 범위에 관한 규정",
+  "payload_law_id": "013872",
   "promulgation_date": "20240716",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3e8b94ad5b8297a3"
  },
