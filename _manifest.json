@@ -9032,6 +9032,8 @@
   "version_signature": "056f8d7582811d7e"
  },
  "law:eflaw:001598": {
+  "collected_signature": "270d63aeed6fca36",
+  "content_hash": "df9153e86262dd04c09382fa3aa815c9a0d9b39fe6c92fa9b608cf8c01836fca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283349&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "001598",
@@ -9039,12 +9041,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:30.691870+00:00",
+  "last_collected_at": "2026-08-22T23:15:21.972840+00:00",
   "ministry": "재정경제부",
   "mst": "283349",
   "name": "국유재산법",
+  "payload_law_id": "001598",
   "promulgation_date": "20260219",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "270d63aeed6fca36"
  },
  "law:eflaw:001601": {
@@ -16086,6 +16091,8 @@
   "version_signature": "bf4dc08a220a53f4"
  },
  "law:eflaw:002900": {
+  "collected_signature": "0a014cbab88572b7",
+  "content_hash": "eb2508d5dd28dc2887c3764699228dbbab7de260d1ca4a28ff1b6a4c533aa3f2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284687&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "002900",
@@ -16093,11 +16100,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:30.608232+00:00",
+  "last_collected_at": "2026-08-22T23:12:39.436325+00:00",
   "ministry": "교육부",
   "mst": "284687",
   "name": "국외유학에 관한 규정",
+  "payload_law_id": "002900",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0a014cbab88572b7"
  },
@@ -32640,6 +32650,8 @@
   "version_signature": "80e9529153e870b5"
  },
  "law:eflaw:006749": {
+  "collected_signature": "815e80bc62e4fd64",
+  "content_hash": "e22500eb64543d2f0d929564e6c131ca88e2be1a3ce0269d2a0b2494046aba32",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=203450&type=HTML&mobileYn=&efYd=20180430",
   "doc_domain": "law",
   "doc_id": "006749",
@@ -32647,11 +32659,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20180430",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:29.701460+00:00",
+  "last_collected_at": "2026-08-22T23:08:26.734699+00:00",
   "ministry": "교육부",
   "mst": "203450",
   "name": "국외유학에 관한 규정 시행규칙",
+  "payload_law_id": "006749",
   "promulgation_date": "20180430",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "815e80bc62e4fd64"
  },
@@ -32672,6 +32687,8 @@
   "version_signature": "585f3527fc91f5bc"
  },
  "law:eflaw:006758": {
+  "collected_signature": "d099df7ee4ddf9aa",
+  "content_hash": "7b13a308c2cf801bea6ad12bb866887d6c9b43c3f9e410e40940a081b96852ef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282621&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "006758",
@@ -32679,11 +32696,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:30.000747+00:00",
+  "last_collected_at": "2026-08-22T23:14:10.600782+00:00",
   "ministry": "재정경제부",
   "mst": "282621",
   "name": "국유재산법 시행규칙",
+  "payload_law_id": "006758",
   "promulgation_date": "20260102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d099df7ee4ddf9aa"
  },
@@ -48646,6 +48666,8 @@
   "version_signature": "ff045f658894b0de"
  },
  "law:eflaw:009999": {
+  "collected_signature": "da447d295b3cec46",
+  "content_hash": "430aa59c8fd5fdff33831cc4e895464d9af4228c82a59097f5f2345a63e2dd42",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259071&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "009999",
@@ -48653,12 +48675,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:29.260458+00:00",
+  "last_collected_at": "2026-08-22T23:11:51.784865+00:00",
   "ministry": "산림청",
   "mst": "259071",
   "name": "국유림의 경영 및 관리에 관한 법률",
+  "payload_law_id": "009999",
   "promulgation_date": "20240123",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "da447d295b3cec46"
  },
  "law:eflaw:010000": {
@@ -48960,6 +48985,8 @@
   "version_signature": "ede204ea750a788f"
  },
  "law:eflaw:010025": {
+  "collected_signature": "7162e7a77b63dbd3",
+  "content_hash": "2da8d381269ca3c7cdd7f8f62ac0c521801f3580cc5a0e3fbe6cf73893daad00",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270625&type=HTML&mobileYn=&efYd=20250423",
   "doc_domain": "law",
   "doc_id": "010025",
@@ -48967,11 +48994,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250423",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:31.798319+00:00",
+  "last_collected_at": "2026-08-22T23:11:42.944740+00:00",
   "ministry": "문화체육관광부",
   "mst": "270625",
   "name": "국어기본법 시행령",
+  "payload_law_id": "010025",
   "promulgation_date": "20250415",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7162e7a77b63dbd3"
  },
@@ -51565,6 +51595,8 @@
   "version_signature": "6ffec847b6a4cfda"
  },
  "law:eflaw:010266": {
+  "collected_signature": "90e7137082869dcd",
+  "content_hash": "e7e8feddcadd998dbd9dfe6ed28b28c11c89df8b567a7f13592ee341887c2356",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264311&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "010266",
@@ -51572,12 +51604,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:30.150393+00:00",
+  "last_collected_at": "2026-08-22T23:13:04.224664+00:00",
   "ministry": "산림청",
   "mst": "264311",
   "name": "국유림의 경영 및 관리에 관한 법률 시행령",
+  "payload_law_id": "010266",
   "promulgation_date": "20240723",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "90e7137082869dcd"
  },
  "law:eflaw:010267": {
@@ -52187,6 +52222,8 @@
   "version_signature": "0a8ada7a11ad95f4"
  },
  "law:eflaw:010318": {
+  "collected_signature": "4fca8301351398c8",
+  "content_hash": "19a5f4859541b47f0a54850750ce12552e471a5bb6ec289c09f0477f50b27a2f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273723&type=HTML&mobileYn=&efYd=20250915",
   "doc_domain": "law",
   "doc_id": "010318",
@@ -52194,11 +52231,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20250915",
   "is_active": true,
+  "last_checked_at": "2026-08-22T23:07:31.980893+00:00",
+  "last_collected_at": "2026-08-22T23:13:42.823971+00:00",
   "ministry": "산림청",
   "mst": "273723",
   "name": "국유림의 경영 및 관리에 관한 법률 시행규칙",
+  "payload_law_id": "010318",
   "promulgation_date": "20250915",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4fca8301351398c8"
  },
