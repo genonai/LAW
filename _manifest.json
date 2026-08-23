@@ -9958,6 +9958,8 @@
   "version_signature": "c5bc0cf47a2910a3"
  },
  "law:eflaw:001618": {
+  "collected_signature": "a2b30b06c6836e6d",
+  "content_hash": "8e98aec227fe616c33a7e0209580701506dbe10cbc6542b78a3bf1926d66d76f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=238763&type=HTML&mobileYn=&efYd=20220705",
   "doc_domain": "law",
   "doc_id": "001618",
@@ -9965,11 +9967,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220705",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:07.440084+00:00",
+  "last_collected_at": "2026-08-23T20:30:41.190847+00:00",
   "ministry": "행정안전부",
   "mst": "238763",
   "name": "비상대비에 관한 법률",
+  "payload_law_id": "001618",
   "promulgation_date": "20220104",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a2b30b06c6836e6d"
  },
@@ -10561,6 +10566,8 @@
   "version_signature": "035fe14bf468902d"
  },
  "law:eflaw:001699": {
+  "collected_signature": "12d5f63958db0018",
+  "content_hash": "24af87aa207bb167187690eba42d0d44da8c267cc31ca10d0446eaf608cf8cb3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265395&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "001699",
@@ -10568,11 +10575,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:03.958009+00:00",
+  "last_collected_at": "2026-08-23T20:31:51.928989+00:00",
   "ministry": "대법원,법무부",
   "mst": "265395",
   "name": "비송사건절차법",
+  "payload_law_id": "001699",
   "promulgation_date": "20240920",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "12d5f63958db0018"
  },
@@ -21295,6 +21305,8 @@
   "version_signature": "0580f12a470b3332"
  },
  "law:eflaw:003706": {
+  "collected_signature": "1787932c9d4a696a",
+  "content_hash": "fc3518adc445783ac5e64097b1fba62e452ebeed334fbeaea52e696cac1c3521",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281523&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003706",
@@ -21302,11 +21314,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:05.599044+00:00",
+  "last_collected_at": "2026-08-23T20:31:15.244618+00:00",
   "ministry": "행정안전부",
   "mst": "281523",
   "name": "비상대비에 관한 법률 시행령",
+  "payload_law_id": "003706",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1787932c9d4a696a"
  },
@@ -30310,6 +30325,8 @@
   "version_signature": "da43044166145c3f"
  },
  "law:eflaw:005872": {
+  "collected_signature": "4813c4ae39f0f8d9",
+  "content_hash": "2cc0c8a7af22748e3a007d5dd56d8830b0f2457a37cc2a7de36a1d3ff4af6aa9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245095&type=HTML&mobileYn=&efYd=20221027",
   "doc_domain": "law",
   "doc_id": "005872",
@@ -30317,11 +30334,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20221027",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:05.157624+00:00",
+  "last_collected_at": "2026-08-23T20:31:20.101580+00:00",
   "ministry": "대법원",
   "mst": "245095",
   "name": "비밀보호규칙",
+  "payload_law_id": "005872",
   "promulgation_date": "20221027",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4813c4ae39f0f8d9"
  },
@@ -38339,6 +38359,8 @@
   "version_signature": "25a43832366d0925"
  },
  "law:eflaw:007309": {
+  "collected_signature": "7a58ada40c6af2c5",
+  "content_hash": "b43f6e06836b58c8d3f51be0cb02e71043ea38c1f4665a203d44a198565e7727",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243771&type=HTML&mobileYn=&efYd=20220705",
   "doc_domain": "law",
   "doc_id": "007309",
@@ -38346,11 +38368,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20220705",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:04.099577+00:00",
+  "last_collected_at": "2026-08-23T20:27:38.752536+00:00",
   "ministry": "행정안전부",
   "mst": "243771",
   "name": "비상대비에 관한 법률 시행규칙",
+  "payload_law_id": "007309",
   "promulgation_date": "20220705",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7a58ada40c6af2c5"
  },
@@ -84745,6 +84770,8 @@
   "version_signature": "5c82645053142354"
  },
  "law:eflaw:013244": {
+  "collected_signature": "26d102e5bbf90913",
+  "content_hash": "98206fd9e8632d423a553f1dbf850c7fae4bd25a1fa29bc67927af12e2eb6dcb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257783&type=HTML&mobileYn=&efYd=20240630",
   "doc_domain": "law",
   "doc_id": "013244",
@@ -84752,11 +84779,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240630",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:05.924034+00:00",
+  "last_collected_at": "2026-08-23T20:30:51.415719+00:00",
   "ministry": "해양수산부",
   "mst": "257783",
   "name": "비상사태등에 대비하기 위한 해운 및 항만 기능 유지에 관한 법률",
+  "payload_law_id": "013244",
   "promulgation_date": "20231229",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "26d102e5bbf90913"
  },
@@ -86354,6 +86384,8 @@
   "version_signature": "84c78eee5450b297"
  },
  "law:eflaw:013648": {
+  "collected_signature": "40928e4ae5b05378",
+  "content_hash": "37c7ec4dff81accebe1f72b65c27d60ae96790e3df1abd225ae48e73e00d0364",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278013&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013648",
@@ -86361,11 +86393,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:07.698459+00:00",
+  "last_collected_at": "2026-08-23T20:30:27.469881+00:00",
   "ministry": "해양수산부",
   "mst": "278013",
   "name": "비상사태등에 대비하기 위한 해운 및 항만 기능 유지에 관한 법률 시행령",
+  "payload_law_id": "013648",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "40928e4ae5b05378"
  },
@@ -86412,6 +86447,8 @@
   "version_signature": "60ef98b1575cfdd2"
  },
  "law:eflaw:013661": {
+  "collected_signature": "09f3b545e5ee6b98",
+  "content_hash": "4bc58f04874740a1505c09382c6a24b7a6b17cad96eb552b1c5513ebb8014c5c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263755&type=HTML&mobileYn=&efYd=20240630",
   "doc_domain": "law",
   "doc_id": "013661",
@@ -86419,11 +86456,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20240630",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:27:07.190370+00:00",
+  "last_collected_at": "2026-08-23T20:30:32.341757+00:00",
   "ministry": "해양수산부",
   "mst": "263755",
   "name": "비상사태등에 대비하기 위한 해운 및 항만 기능 유지에 관한 법률 시행규칙",
+  "payload_law_id": "013661",
   "promulgation_date": "20240628",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "09f3b545e5ee6b98"
  },
