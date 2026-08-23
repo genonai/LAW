@@ -596,6 +596,8 @@
   "version_signature": "48d86cebcfedaa59"
  },
  "law:eflaw:000096": {
+  "collected_signature": "b0f0b4ca9a397adc",
+  "content_hash": "7ebda59a013cf9cd5830241867f810ed241a1116d1f6951551c48bb740569c46",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260817&type=HTML&mobileYn=&efYd=20250828",
   "doc_domain": "law",
   "doc_id": "000096",
@@ -603,12 +605,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250828",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:43.247303+00:00",
+  "last_collected_at": "2026-08-23T02:05:04.184889+00:00",
   "ministry": "국토교통부",
   "mst": "260817",
   "name": "궤도운송법",
+  "payload_law_id": "000096",
   "promulgation_date": "20240227",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b0f0b4ca9a397adc"
  },
  "law:eflaw:000099": {
@@ -9390,6 +9395,8 @@
   "version_signature": "90596be611f3b001"
  },
  "law:eflaw:001624": {
+  "collected_signature": "e3fb4597926a7cda",
+  "content_hash": "9b25badd89f5720c108e25e4724c5bd7fbaffc346747935dec339bc4029a211d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235555&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "001624",
@@ -9397,11 +9404,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:41.184539+00:00",
+  "last_collected_at": "2026-08-23T02:03:15.109723+00:00",
   "ministry": "국방부",
   "mst": "235555",
   "name": "군형법",
+  "payload_law_id": "001624",
   "promulgation_date": "20210924",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e3fb4597926a7cda"
  },
@@ -20018,6 +20028,8 @@
   "version_signature": "b7257bc46ca7365c"
  },
  "law:eflaw:003763": {
+  "collected_signature": "586f63b135a76fc9",
+  "content_hash": "ae9e0243ece9ac46d2c810d8276a6724b4f34a157580f5eab2b76f20f6683062",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266307&type=HTML&mobileYn=&efYd=20241112",
   "doc_domain": "law",
   "doc_id": "003763",
@@ -20025,11 +20037,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20241112",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:43.455198+00:00",
+  "last_collected_at": "2026-08-23T02:04:39.049369+00:00",
   "ministry": "국토교통부",
   "mst": "266307",
   "name": "궤도운송법 시행령",
+  "payload_law_id": "003763",
   "promulgation_date": "20241112",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "586f63b135a76fc9"
  },
@@ -33614,6 +33629,8 @@
   "version_signature": "f875934dfb44e306"
  },
  "law:eflaw:006844": {
+  "collected_signature": "e607e7d092076e26",
+  "content_hash": "f3513ec30af9444489b53cdfe3426f1088c6e1e0c386fcb1f6f70392574f580f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249403&type=HTML&mobileYn=&efYd=20230323",
   "doc_domain": "law",
   "doc_id": "006844",
@@ -33621,11 +33638,14 @@
   "doc_type": "국방부령",
   "enforcement_date": "20230323",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:41.891552+00:00",
+  "last_collected_at": "2026-08-23T02:04:03.844440+00:00",
   "ministry": "국방부",
   "mst": "249403",
   "name": "군표창규칙",
+  "payload_law_id": "006844",
   "promulgation_date": "20230323",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e607e7d092076e26"
  },
@@ -33651,6 +33671,8 @@
   "version_signature": "d9460ac24aec45c3"
  },
  "law:eflaw:006846": {
+  "collected_signature": "16b008dc9accd0ff",
+  "content_hash": "5af6691dc86f541bd069f449f99478062196427b78339068594aeb98fb985236",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214095&type=HTML&mobileYn=&efYd=20200203",
   "doc_domain": "law",
   "doc_id": "006846",
@@ -33658,11 +33680,14 @@
   "doc_type": "국방부령",
   "enforcement_date": "20200203",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:44.104013+00:00",
+  "last_collected_at": "2026-08-23T02:04:16.985515+00:00",
   "ministry": "국방부",
   "mst": "214095",
   "name": "군혈액관리규칙",
+  "payload_law_id": "006846",
   "promulgation_date": "20200203",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "16b008dc9accd0ff"
  },
@@ -36060,6 +36085,8 @@
   "version_signature": "d3f5ef42dce221fb"
  },
  "law:eflaw:007343": {
+  "collected_signature": "28bf9024358054be",
+  "content_hash": "0fcd8e93820f69a0bb9af22c254a4ca512dfd7b37e024dde76356f488efbc053",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284533&type=HTML&mobileYn=&efYd=20260312",
   "doc_domain": "law",
   "doc_id": "007343",
@@ -36067,11 +36094,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260312",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:42.523461+00:00",
+  "last_collected_at": "2026-08-23T02:04:38.151275+00:00",
   "ministry": "국토교통부",
   "mst": "284533",
   "name": "궤도운송법 시행규칙",
+  "payload_law_id": "007343",
   "promulgation_date": "20260312",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "28bf9024358054be"
  },
@@ -56600,6 +56630,8 @@
   "version_signature": "484d6b99ca5cb666"
  },
  "law:eflaw:010651": {
+  "collected_signature": "59a17ad45334fd34",
+  "content_hash": "5c2bbe4ea4c7f937071c8e8ee64a0da8fb237d39d124c1c815bea2dfa5d58fbc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=181674&type=HTML&mobileYn=&efYd=20160308",
   "doc_domain": "law",
   "doc_id": "010651",
@@ -56607,11 +56639,14 @@
   "doc_type": "외교부령",
   "enforcement_date": "20160308",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:42.215869+00:00",
+  "last_collected_at": "2026-08-23T02:04:09.368618+00:00",
   "ministry": "외교부",
   "mst": "181674",
   "name": "귀국의무면제 통지사무 처리에 관한 규칙",
+  "payload_law_id": "010651",
   "promulgation_date": "20160308",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "59a17ad45334fd34"
  },
@@ -72311,6 +72346,8 @@
   "version_signature": "b13ee75f0c66dc61"
  },
  "law:eflaw:012238": {
+  "collected_signature": "122967a9677500e3",
+  "content_hash": "6eaabe1178dcc280b2071c76b9687278b9a78cfb843bd962e8899332f7e7a749",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286529&type=HTML&mobileYn=&efYd=20260602",
   "doc_domain": "law",
   "doc_id": "012238",
@@ -72318,11 +72355,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260602",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:01:41.051290+00:00",
+  "last_collected_at": "2026-08-23T02:04:34.143798+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "286529",
   "name": "귀농어ㆍ귀촌 활성화 및 지원에 관한 법률",
+  "payload_law_id": "012238",
   "promulgation_date": "20260602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "122967a9677500e3"
  },
