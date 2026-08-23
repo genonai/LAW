@@ -4601,6 +4601,8 @@
   "version_signature": "0ab12e762bc72776"
  },
  "law:eflaw:000912": {
+  "collected_signature": "e0e9d179e81dc214",
+  "content_hash": "6520ea23e6bbac2106bad3c83015e22c6509c14bdb39d44f52f5e908f1797665",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=213837&type=HTML&mobileYn=&efYd=20200204",
   "doc_domain": "law",
   "doc_id": "000912",
@@ -4608,11 +4610,14 @@
   "doc_type": "법률",
   "enforcement_date": "20200204",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:24.424023+00:00",
+  "last_collected_at": "2026-08-23T01:31:14.616260+00:00",
   "ministry": "국방부",
   "mst": "213837",
   "name": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률",
+  "payload_law_id": "000912",
   "promulgation_date": "20200204",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e0e9d179e81dc214"
  },
@@ -4797,6 +4802,8 @@
   "version_signature": "82dbeaef441b9042"
  },
  "law:eflaw:000936": {
+  "collected_signature": "ec47da9db6e93247",
+  "content_hash": "f3a7780b42d44e77e3b21bb0e8c878c8954f6e3243344b2acc7fe5895c1601ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276301&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000936",
@@ -4804,12 +4811,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:23.130217+00:00",
+  "last_collected_at": "2026-08-23T01:32:41.753696+00:00",
   "ministry": "국방부",
   "mst": "276301",
   "name": "군수품관리법",
+  "payload_law_id": "000936",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "ec47da9db6e93247"
  },
  "law:eflaw:000937": {
@@ -16700,6 +16710,8 @@
   "version_signature": "52271ac68086ad52"
  },
  "law:eflaw:003000": {
+  "collected_signature": "f382e2f644a7eedc",
+  "content_hash": "969b6ca90942413a2188e99f16174c3902788c687a5d47da0560cd685b5a9a17",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281007&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003000",
@@ -16707,11 +16719,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:25.791358+00:00",
+  "last_collected_at": "2026-08-23T01:32:45.529008+00:00",
   "ministry": "국방부",
   "mst": "281007",
   "name": "군수품관리법 시행령",
+  "payload_law_id": "003000",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f382e2f644a7eedc"
  },
@@ -33331,6 +33346,8 @@
   "version_signature": "fe3d59d735003545"
  },
  "law:eflaw:006811": {
+  "collected_signature": "baa20d07432c083d",
+  "content_hash": "24f879c5dc7a2cb6425fbae78c2b7b2788eecf00b84007c71f38645a92c8c23a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=113802&type=HTML&mobileYn=&efYd=20110601",
   "doc_domain": "law",
   "doc_id": "006811",
@@ -33338,15 +33355,20 @@
   "doc_type": "국방부령",
   "enforcement_date": "20110601",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:24.190450+00:00",
+  "last_collected_at": "2026-08-23T01:30:33.728731+00:00",
   "ministry": "국방부",
   "mst": "113802",
   "name": "군사학교 각종 증명수수료 규칙",
+  "payload_law_id": "006811",
   "promulgation_date": "20110601",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "baa20d07432c083d"
  },
  "law:eflaw:006815": {
+  "collected_signature": "07cc1d1ac2f5f693",
+  "content_hash": "0103e66e130dd872e3fc1c45db116656f3d67b5a27743f089dc750627a6e5b52",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236545&type=HTML&mobileYn=&efYd=20211025",
   "doc_domain": "law",
   "doc_id": "006815",
@@ -33354,11 +33376,14 @@
   "doc_type": "국방부령",
   "enforcement_date": "20211025",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:25.841742+00:00",
+  "last_collected_at": "2026-08-23T01:33:13.596885+00:00",
   "ministry": "국방부",
   "mst": "236545",
   "name": "군수품관리법 시행규칙",
+  "payload_law_id": "006815",
   "promulgation_date": "20211025",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "07cc1d1ac2f5f693"
  },
@@ -33480,6 +33505,8 @@
   "version_signature": "e607e7d092076e26"
  },
  "law:eflaw:006845": {
+  "collected_signature": "d9460ac24aec45c3",
+  "content_hash": "b100c337a86d0050a1e28cf4a06d43315ad58a125ec06472383a62a00312e196",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214087&type=HTML&mobileYn=&efYd=20200203",
   "doc_domain": "law",
   "doc_id": "006845",
@@ -33487,11 +33514,14 @@
   "doc_type": "국방부령",
   "enforcement_date": "20200203",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:24.474171+00:00",
+  "last_collected_at": "2026-08-23T01:33:25.447932+00:00",
   "ministry": "국방부",
   "mst": "214087",
   "name": "군에서의 형의 집행 및 군수용자의 처우에 관한 법률 시행규칙",
+  "payload_law_id": "006845",
   "promulgation_date": "20200203",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d9460ac24aec45c3"
  },
@@ -51216,6 +51246,8 @@
   "version_signature": "74f356d61043fcf1"
  },
  "law:eflaw:010189": {
+  "collected_signature": "70343d6add7b490a",
+  "content_hash": "d7f6d0d890bfde9218de1f8af3f456b01844e9995f9d794d7767603f6879fc9c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236543&type=HTML&mobileYn=&efYd=20211025",
   "doc_domain": "law",
   "doc_id": "010189",
@@ -51223,11 +51255,14 @@
   "doc_type": "국방부령",
   "enforcement_date": "20211025",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:23.338980+00:00",
+  "last_collected_at": "2026-08-23T01:30:40.575601+00:00",
   "ministry": "국방부",
   "mst": "236543",
   "name": "군수용마약류의 취급에 관한 규칙",
+  "payload_law_id": "010189",
   "promulgation_date": "20211025",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "70343d6add7b490a"
  },
@@ -55109,6 +55144,8 @@
   "version_signature": "ad9b77e4d2d47a20"
  },
  "law:eflaw:010542": {
+  "collected_signature": "c3cd29366d4a8b46",
+  "content_hash": "601e4c41e628396d6fbaac16ab53060633e91a5c9c85eee3754185e46e72137c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277639&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010542",
@@ -55116,11 +55153,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T01:30:26.891923+00:00",
+  "last_collected_at": "2026-08-23T01:32:41.154904+00:00",
   "ministry": "통일부",
   "mst": "277639",
   "name": "군사정전에 관한 협정 체결 이후 납북피해자의 보상 및 지원에 관한 법률 시행령",
+  "payload_law_id": "010542",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c3cd29366d4a8b46"
  },
