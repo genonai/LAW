@@ -1521,6 +1521,8 @@
   "version_signature": "e0dfa6d57168a929"
  },
  "law:eflaw:000201": {
+  "collected_signature": "c5370293892ee933",
+  "content_hash": "e549d4103b4fb9844c1f04bfcb0798a76d701f59d49f15ba7e93c9c47f2546c6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281925&type=HTML&mobileYn=&efYd=20260331",
   "doc_domain": "law",
   "doc_id": "000201",
@@ -1528,11 +1530,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260331",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:20.696375+00:00",
+  "last_collected_at": "2026-08-23T21:46:24.262246+00:00",
   "ministry": "보건복지부",
   "mst": "281925",
   "name": "사회복지공동모금회법",
+  "payload_law_id": "000201",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c5370293892ee933"
  },
@@ -1553,6 +1558,8 @@
   "version_signature": "9a6f80f24e5d8c6b"
  },
  "law:eflaw:000204": {
+  "collected_signature": "b22b3ba959430283",
+  "content_hash": "2b08f315451881da8f3cb223d0c678c105955906f9c4977aba0b9644643c6168",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276663&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000204",
@@ -1560,11 +1567,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:19.796924+00:00",
+  "last_collected_at": "2026-08-23T21:44:33.980654+00:00",
   "ministry": "보건복지부",
   "mst": "276663",
   "name": "사회보장기본법",
+  "payload_law_id": "000204",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b22b3ba959430283"
  },
@@ -21685,6 +21695,8 @@
   "version_signature": "8b999bfff1b79a6b"
  },
  "law:eflaw:003754": {
+  "collected_signature": "1ceb6ef53e3b6864",
+  "content_hash": "c192c1f6c444102fa850fdbe201aa76d3510c9dd550fc28ee40577ca0a461733",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281589&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003754",
@@ -21692,11 +21704,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:22.994351+00:00",
+  "last_collected_at": "2026-08-23T21:47:08.651884+00:00",
   "ministry": "보건복지부",
   "mst": "281589",
   "name": "사회보장기본법 시행령",
+  "payload_law_id": "003754",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1ceb6ef53e3b6864"
  },
@@ -38761,6 +38776,8 @@
   "version_signature": "4c109299951e5f0f"
  },
  "law:eflaw:007338": {
+  "collected_signature": "5924d6db8373ab0a",
+  "content_hash": "d906a3460918bf9de9c04ad2bdab9a06ea1d7ac1be9da0835be2c28b7a060032",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=246999&type=HTML&mobileYn=&efYd=20230101",
   "doc_domain": "law",
   "doc_id": "007338",
@@ -38768,11 +38785,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20230101",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:19.481098+00:00",
+  "last_collected_at": "2026-08-23T21:46:14.812079+00:00",
   "ministry": "보건복지부",
   "mst": "246999",
   "name": "사회복지법인 및 사회복지시설 재무ㆍ회계 규칙",
+  "payload_law_id": "007338",
   "promulgation_date": "20221228",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5924d6db8373ab0a"
  },
@@ -78251,6 +78271,8 @@
   "version_signature": "79d0dae660279dc5"
  },
  "law:eflaw:012322": {
+  "collected_signature": "319c65f49f128704",
+  "content_hash": "b4c4614207f4b6e0d568973d3b1347279d39437b191451fd8f583fa56a4ef1e1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285807&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "012322",
@@ -78258,11 +78280,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:21.270783+00:00",
+  "last_collected_at": "2026-08-23T21:52:07.223122+00:00",
   "ministry": "보건복지부",
   "mst": "285807",
   "name": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 시행령",
+  "payload_law_id": "012322",
   "promulgation_date": "20260506",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "319c65f49f128704"
  },
@@ -78341,6 +78366,8 @@
   "version_signature": "b6d2bf634dfae5bb"
  },
  "law:eflaw:012327": {
+  "collected_signature": "7fe7c2aba00fe224",
+  "content_hash": "e037f1a7782a0ec1a0dbcd16593475075f482aa03e391f636a1359fecb43eb89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263819&type=HTML&mobileYn=&efYd=20240703",
   "doc_domain": "law",
   "doc_id": "012327",
@@ -78348,11 +78375,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20240703",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:20.482398+00:00",
+  "last_collected_at": "2026-08-23T21:46:07.485250+00:00",
   "ministry": "보건복지부",
   "mst": "263819",
   "name": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 시행규칙",
+  "payload_law_id": "012327",
   "promulgation_date": "20240702",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7fe7c2aba00fe224"
  },
@@ -80749,6 +80779,8 @@
   "version_signature": "50ec278c7239ab91"
  },
  "law:eflaw:012582": {
+  "collected_signature": "6741a7c9e1896579",
+  "content_hash": "9b6391c155776681d42927d3cea1704f9d17abd0095b6ff981253068caf9f413",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=183954&type=HTML&mobileYn=&efYd=20160804",
   "doc_domain": "law",
   "doc_id": "012582",
@@ -80756,11 +80788,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20160804",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:22.029007+00:00",
+  "last_collected_at": "2026-08-23T21:45:41.939037+00:00",
   "ministry": "보건복지부",
   "mst": "183954",
   "name": "사회복지공동모금회법 시행규칙",
+  "payload_law_id": "012582",
   "promulgation_date": "20160615",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6741a7c9e1896579"
  },
@@ -92554,6 +92589,8 @@
   "version_signature": "74dc41581fe209fe"
  },
  "law:eflaw:014198": {
+  "collected_signature": "c296f7617c42f47e",
+  "content_hash": "632ef5b5ff64ea78519d9d96f1b8e2024c4b174f21a71bc97c3761a1fc18b63b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=237467&type=HTML&mobileYn=&efYd=20211209",
   "doc_domain": "law",
   "doc_id": "014198",
@@ -92561,11 +92598,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20211209",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:43:21.837025+00:00",
+  "last_collected_at": "2026-08-23T21:45:41.965780+00:00",
   "ministry": "보건복지부",
   "mst": "237467",
   "name": "사회보장기본법 시행규칙",
+  "payload_law_id": "014198",
   "promulgation_date": "20211206",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c296f7617c42f47e"
  },
