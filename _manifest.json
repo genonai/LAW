@@ -6658,6 +6658,8 @@
   "version_signature": "b901aafb7cca8572"
  },
  "law:eflaw:001184": {
+  "collected_signature": "8496491eab83b036",
+  "content_hash": "a6a6784135ee66afb8dc087b41ed4c9e3be0c97a9e27b2a09c3fda38d45113d8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265341&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "001184",
@@ -6665,11 +6667,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:49.096890+00:00",
+  "last_collected_at": "2026-08-23T16:23:55.759638+00:00",
   "ministry": "법무부",
   "mst": "265341",
   "name": "법인의 등기사항 등에 관한 특례법",
+  "payload_law_id": "001184",
   "promulgation_date": "20240920",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8496491eab83b036"
  },
@@ -20514,6 +20519,8 @@
   "version_signature": "1dcedb193054f9af"
  },
  "law:eflaw:003608": {
+  "collected_signature": "e6ea1228438ba221",
+  "content_hash": "7739bfe56462fc9edc88fb3d12ac59207514a6bc28e52e1f5692d14279165771",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283635&type=HTML&mobileYn=&efYd=20260227",
   "doc_domain": "law",
   "doc_id": "003608",
@@ -20521,12 +20528,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260227",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:51.129712+00:00",
+  "last_collected_at": "2026-08-23T17:17:29.594593+00:00",
   "ministry": "재정경제부",
   "mst": "283635",
   "name": "법인세법 시행령",
+  "payload_law_id": "003608",
   "promulgation_date": "20260227",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "e6ea1228438ba221"
  },
  "law:eflaw:003610": {
@@ -20551,6 +20561,8 @@
   "version_signature": "cbbecbd08e9c42cf"
  },
  "law:eflaw:003613": {
+  "collected_signature": "76d4cff54182f49c",
+  "content_hash": "57582a2e94dcecd8857855408e8b87c1eb36c6dd9de8470cdfc03a1faebf9b0f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285173&type=HTML&mobileYn=&efYd=20260331",
   "doc_domain": "law",
   "doc_id": "003613",
@@ -20558,11 +20570,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260331",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:47.831359+00:00",
+  "last_collected_at": "2026-08-23T16:26:42.151977+00:00",
   "ministry": "법제처",
   "mst": "285173",
   "name": "법제업무 운영규정",
+  "payload_law_id": "003613",
   "promulgation_date": "20260331",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "76d4cff54182f49c"
  },
@@ -28681,6 +28696,8 @@
   "version_signature": "b6e8f34bc226dc56"
  },
  "law:eflaw:005720": {
+  "collected_signature": "4292a7414ad3223a",
+  "content_hash": "3638f245b0931affda8cf17e8613f7e701052ec2f42652a9901f6cade865ca37",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=208326&type=HTML&mobileYn=&efYd=20190404",
   "doc_domain": "law",
   "doc_id": "005720",
@@ -28688,11 +28705,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20190404",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:51.028586+00:00",
+  "last_collected_at": "2026-08-23T16:23:58.053261+00:00",
   "ministry": "대법원",
   "mst": "208326",
   "name": "법정 좌석에 관한 규칙",
+  "payload_law_id": "005720",
   "promulgation_date": "20190404",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4292a7414ad3223a"
  },
@@ -29852,6 +29872,8 @@
   "version_signature": "76cb08d423c3837d"
  },
  "law:eflaw:005859": {
+  "collected_signature": "786e69bab0a69391",
+  "content_hash": "d2c9e578741bc7178ce596f7d5b7838f3104e4cd841f77d3aa3ec31283c02a0b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266773&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "005859",
@@ -29859,11 +29881,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:48.231024+00:00",
+  "last_collected_at": "2026-08-23T16:23:56.168202+00:00",
   "ministry": "대법원",
   "mst": "266773",
   "name": "법인의 등기사항 등에 관한 특례규칙",
+  "payload_law_id": "005859",
   "promulgation_date": "20241129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "786e69bab0a69391"
  },
@@ -29889,6 +29914,8 @@
   "version_signature": "3ed0cd7f111c9817"
  },
  "law:eflaw:005864": {
+  "collected_signature": "02a0b3ecfc5dd482",
+  "content_hash": "e4f1d5827491852cc470ab1839bdd2348a951af93571b81124ded08a84ea43ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228993&type=HTML&mobileYn=&efYd=20210129",
   "doc_domain": "law",
   "doc_id": "005864",
@@ -29896,15 +29923,20 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20210129",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:49.161970+00:00",
+  "last_collected_at": "2026-08-23T16:35:53.449873+00:00",
   "ministry": "대법원",
   "mst": "228993",
   "name": "법정등의질서유지를위한재판에관한규칙",
+  "payload_law_id": "005864",
   "promulgation_date": "20210129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "02a0b3ecfc5dd482"
  },
  "law:eflaw:005865": {
+  "collected_signature": "0da6cc0057768c0d",
+  "content_hash": "fac39b0ee8915c99ae764a89635fcdddb96ae9696f03be7eb267df186aed471a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=196523&type=HTML&mobileYn=&efYd=20170804",
   "doc_domain": "law",
   "doc_id": "005865",
@@ -29912,11 +29944,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20170804",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:50.437484+00:00",
+  "last_collected_at": "2026-08-23T16:24:01.229008+00:00",
   "ministry": "대법원",
   "mst": "196523",
   "name": "법정 방청 및 촬영 등에 관한 규칙",
+  "payload_law_id": "005865",
   "promulgation_date": "20170804",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0da6cc0057768c0d"
  },
@@ -37494,6 +37529,8 @@
   "version_signature": "94eb41d9319a86a7"
  },
  "law:eflaw:007229": {
+  "collected_signature": "f6deb2da314bdee9",
+  "content_hash": "da0f69a5c324420bda42167bb50e932759075b937c0a4b05d0f597e6fef0c6ca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287787&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "007229",
@@ -37501,12 +37538,15 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:23:48.639976+00:00",
+  "last_collected_at": "2026-08-23T16:47:08.175217+00:00",
   "ministry": "재정경제부",
   "mst": "287787",
   "name": "법인세법 시행규칙",
+  "payload_law_id": "007229",
   "promulgation_date": "20260701",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "f6deb2da314bdee9"
  },
  "law:eflaw:007230": {
