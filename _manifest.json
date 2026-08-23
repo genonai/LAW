@@ -961,6 +961,8 @@
   "version_signature": "42cdef9c18f378fb"
  },
  "law:eflaw:000141": {
+  "collected_signature": "e8f560d6708db993",
+  "content_hash": "a4ad23f4bafa6a6ce90b63f24aa76540e84664d8e30c253542886e852865be95",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243063&type=HTML&mobileYn=&efYd=20221211",
   "doc_domain": "law",
   "doc_id": "000141",
@@ -968,11 +970,14 @@
   "doc_type": "법률",
   "enforcement_date": "20221211",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:57.234311+00:00",
+  "last_collected_at": "2026-08-23T02:22:20.961332+00:00",
   "ministry": "고용노동부",
   "mst": "243063",
   "name": "근로자참여 및 협력증진에 관한 법률",
+  "payload_law_id": "000141",
   "promulgation_date": "20220610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e8f560d6708db993"
  },
@@ -11544,6 +11549,8 @@
   "version_signature": "0962e85443bea4c3"
  },
  "law:eflaw:001872": {
+  "collected_signature": "0c7eff3cb4b16466",
+  "content_hash": "ec74ad75811c759343162ae362764955b5998ad1047b623801bfb215e29af421",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283457&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "001872",
@@ -11551,12 +11558,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:59.534703+00:00",
+  "last_collected_at": "2026-08-23T02:24:43.215800+00:00",
   "ministry": "고용노동부",
   "mst": "283457",
   "name": "근로기준법",
+  "payload_law_id": "001872",
   "promulgation_date": "20260219",
-  "status": "pending",
-  "version_count": 7,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "0c7eff3cb4b16466"
  },
  "law:eflaw:001962": {
@@ -17138,6 +17148,8 @@
   "version_signature": "da954f2cf3eee81e"
  },
  "law:eflaw:003058": {
+  "collected_signature": "9464014a14240c78",
+  "content_hash": "377a0496aca7ab5c04cb1c620a5a72fce3181f67c01b83f16b8f4f4d7e27130b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270551&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "003058",
@@ -17145,11 +17157,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251023",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:58.943051+00:00",
+  "last_collected_at": "2026-08-23T02:25:11.167049+00:00",
   "ministry": "고용노동부",
   "mst": "270551",
   "name": "근로기준법 시행령",
+  "payload_law_id": "003058",
   "promulgation_date": "20250408",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9464014a14240c78"
  },
@@ -33733,6 +33748,8 @@
   "version_signature": "7801dfa463aa71c6"
  },
  "law:eflaw:006858": {
+  "collected_signature": "ecc829dbf35007bf",
+  "content_hash": "aabb96e73bd25d86b94a451b865c070d41152f9c7831dcdc5758f28a57068489",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=184050&type=HTML&mobileYn=&efYd=20160616",
   "doc_domain": "law",
   "doc_id": "006858",
@@ -33740,15 +33757,20 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20160616",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:57.800846+00:00",
+  "last_collected_at": "2026-08-23T02:16:13.082403+00:00",
   "ministry": "고용노동부",
   "mst": "184050",
   "name": "근로감독관증 규칙",
+  "payload_law_id": "006858",
   "promulgation_date": "20160616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ecc829dbf35007bf"
  },
  "law:eflaw:006859": {
+  "collected_signature": "c5fc1360071caa83",
+  "content_hash": "bc77b6f89871ff51cb3f682c4ee38510c7985d06af89fec6e8620b1a8c2278ed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269393&type=HTML&mobileYn=&efYd=20250223",
   "doc_domain": "law",
   "doc_id": "006859",
@@ -33756,11 +33778,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20250223",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:57.617470+00:00",
+  "last_collected_at": "2026-08-23T02:17:27.455094+00:00",
   "ministry": "고용노동부",
   "mst": "269393",
   "name": "근로기준법 시행규칙",
+  "payload_law_id": "006859",
   "promulgation_date": "20250221",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c5fc1360071caa83"
  },
@@ -42614,6 +42639,8 @@
   "version_signature": "544de5e173bf1d1d"
  },
  "law:eflaw:009252": {
+  "collected_signature": "841596f49f5e916d",
+  "content_hash": "65da782dde3ebf98d90fc2caea849fc9ebfbb49154e9c541ad477c78b4232810",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243061&type=HTML&mobileYn=&efYd=20230611",
   "doc_domain": "law",
   "doc_id": "009252",
@@ -42621,11 +42648,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230611",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:58.643100+00:00",
+  "last_collected_at": "2026-08-23T02:23:11.397541+00:00",
   "ministry": "고용노동부",
   "mst": "243061",
   "name": "근로복지기본법",
+  "payload_law_id": "009252",
   "promulgation_date": "20220610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "841596f49f5e916d"
  },
@@ -42774,6 +42804,8 @@
   "version_signature": "ad1428367c67e8cd"
  },
  "law:eflaw:009264": {
+  "collected_signature": "300db4dadfb5fe1c",
+  "content_hash": "a26b7bbabd4f685b098817c4299f4745e0fdccee223af0d41d7d7ffe65b38ac0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284691&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "009264",
@@ -42781,11 +42813,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:59.718342+00:00",
+  "last_collected_at": "2026-08-23T02:23:44.543779+00:00",
   "ministry": "고용노동부",
   "mst": "284691",
   "name": "근로복지기본법 시행령",
+  "payload_law_id": "009264",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "300db4dadfb5fe1c"
  },
@@ -42822,6 +42857,8 @@
   "version_signature": "5ba7173485ed8295"
  },
  "law:eflaw:009267": {
+  "collected_signature": "0d2a3288ed871d55",
+  "content_hash": "8d274ad78251540aedf7a02a876ffc15a952b07d271761ed8940f601bf449792",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278671&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009267",
@@ -42829,11 +42866,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T02:15:59.668193+00:00",
+  "last_collected_at": "2026-08-23T02:22:38.460433+00:00",
   "ministry": "고용노동부",
   "mst": "278671",
   "name": "근로복지기본법 시행규칙",
+  "payload_law_id": "009267",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0d2a3288ed871d55"
  },
