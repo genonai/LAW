@@ -2491,6 +2491,8 @@
   "version_signature": "99ffa400c559b456"
  },
  "law:eflaw:000398": {
+  "collected_signature": "7f2333a5497df97c",
+  "content_hash": "b9acd093a14eff8f6fb35f5aa393281030c86c4a6edcd0239dae8dd516fdb555",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268865&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "000398",
@@ -2498,11 +2500,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:24.510306+00:00",
+  "last_collected_at": "2026-08-23T21:15:17.571924+00:00",
   "ministry": "산림청",
   "mst": "268865",
   "name": "사방사업법",
+  "payload_law_id": "000398",
   "promulgation_date": "20250131",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7f2333a5497df97c"
  },
@@ -6041,6 +6046,8 @@
   "version_signature": "ac8cd3600bf92b27"
  },
  "law:eflaw:001109": {
+  "collected_signature": "e71b06793b74d1e2",
+  "content_hash": "842906608423024e4bb2d6bf04a61f490347d734293ab86c71b2d52a03aa5439",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235557&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "001109",
@@ -6048,11 +6055,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:22.057150+00:00",
+  "last_collected_at": "2026-08-23T21:14:03.082119+00:00",
   "ministry": "법무부",
   "mst": "235557",
   "name": "사면법",
+  "payload_law_id": "001109",
   "promulgation_date": "20210924",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e71b06793b74d1e2"
  },
@@ -10479,6 +10489,8 @@
   "version_signature": "384a658784583ab2"
  },
  "law:eflaw:001670": {
+  "collected_signature": "7e5348b78270824d",
+  "content_hash": "b0c78b226bdaba5760e2a926c0df0ef3b706fcb537b2f0fb725d57f7aeef94e9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283433&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "001670",
@@ -10486,12 +10498,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:22.978479+00:00",
+  "last_collected_at": "2026-08-23T21:23:43.526955+00:00",
   "ministry": "법무부",
   "mst": "283433",
   "name": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률",
+  "payload_law_id": "001670",
   "promulgation_date": "20260219",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7e5348b78270824d"
  },
  "law:eflaw:001671": {
@@ -21581,6 +21596,8 @@
   "version_signature": "45498738319bb9a9"
  },
  "law:eflaw:003731": {
+  "collected_signature": "27f1936cf4b8cb70",
+  "content_hash": "95190814cf35dcab41c5e6d0db2cb0ad4b16a651f09d336a364dd98c19007e73",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283127&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "003731",
@@ -21588,11 +21605,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:24.377282+00:00",
+  "last_collected_at": "2026-08-23T21:16:33.307390+00:00",
   "ministry": "산림청",
   "mst": "283127",
   "name": "사방사업법 시행령",
+  "payload_law_id": "003731",
   "promulgation_date": "20260130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "27f1936cf4b8cb70"
  },
@@ -30441,6 +30461,8 @@
   "version_signature": "4813c4ae39f0f8d9"
  },
  "law:eflaw:005874": {
+  "collected_signature": "a24be1a31084ad48",
+  "content_hash": "e15a988ea8ac88251fb0336c54916d124d23829132a03ce2a6531a43ead6edd4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251131&type=HTML&mobileYn=&efYd=20230616",
   "doc_domain": "law",
   "doc_id": "005874",
@@ -30448,11 +30470,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20230616",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:23.320350+00:00",
+  "last_collected_at": "2026-08-23T21:13:43.177272+00:00",
   "ministry": "대법원",
   "mst": "251131",
   "name": "사문서의 일자확정 청구 수수료 규칙",
+  "payload_law_id": "005874",
   "promulgation_date": "20230517",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a24be1a31084ad48"
  },
@@ -38617,6 +38642,8 @@
   "version_signature": "89271c4b10c73b9c"
  },
  "law:eflaw:007320": {
+  "collected_signature": "dd81701d4b94a827",
+  "content_hash": "9dc5d688e3ce9e78d2ed11ce2f67c4e3a781daa64456ed48b4fcfe9c9ba170ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283213&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "007320",
@@ -38624,11 +38651,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:21.946175+00:00",
+  "last_collected_at": "2026-08-23T21:14:17.258977+00:00",
   "ministry": "산림청",
   "mst": "283213",
   "name": "사방사업법 시행규칙",
+  "payload_law_id": "007320",
   "promulgation_date": "20260130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd81701d4b94a827"
  },
@@ -60934,6 +60964,8 @@
   "version_signature": "0e3241a3d9ae998b"
  },
  "law:eflaw:010720": {
+  "collected_signature": "fff1d56713b6aea6",
+  "content_hash": "18a1e37e65e814c3f30e3d09d48eb9c03fe0226e7b027afd3e39262d25b8e614",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=86357&type=HTML&mobileYn=&efYd=20080327",
   "doc_domain": "law",
   "doc_id": "010720",
@@ -60941,11 +60973,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20080327",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:22.845477+00:00",
+  "last_collected_at": "2026-08-23T21:13:47.308874+00:00",
   "ministry": "법무부",
   "mst": "86357",
   "name": "사면법 시행규칙",
+  "payload_law_id": "010720",
   "promulgation_date": "20080327",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fff1d56713b6aea6"
  },
@@ -79931,6 +79966,8 @@
   "version_signature": "704a4d9af37acc42"
  },
  "law:eflaw:012506": {
+  "collected_signature": "133c6c88f63b022c",
+  "content_hash": "d76036216554e2e5cb035fe88d228d836e27fc1ce20f038fffe9668b883ea167",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=181554&type=HTML&mobileYn=&efYd=20160229",
   "doc_domain": "law",
   "doc_id": "012506",
@@ -79938,11 +79975,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20160229",
   "is_active": true,
+  "last_checked_at": "2026-08-23T21:12:21.388195+00:00",
+  "last_collected_at": "2026-08-23T21:12:27.515050+00:00",
   "ministry": "대법원",
   "mst": "181554",
   "name": "사법발전을 위한 준비ㆍ실행위원회의 설치 및 운영에 관한 규칙",
+  "payload_law_id": "012506",
   "promulgation_date": "20160229",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "133c6c88f63b022c"
  },
