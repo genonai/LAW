@@ -1638,6 +1638,8 @@
   "version_signature": "53ec3569ad56639d"
  },
  "law:eflaw:000219": {
+  "collected_signature": "49ca75c6483fa69a",
+  "content_hash": "83a0aa90cce0578c84f50e17460844535a031cf482f207305ccd090064bc02bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279703&type=HTML&mobileYn=&efYd=20260212",
   "doc_domain": "law",
   "doc_id": "000219",
@@ -1645,11 +1647,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260212",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:16.241211+00:00",
+  "last_collected_at": "2026-08-23T18:24:28.714562+00:00",
   "ministry": "보건복지부",
   "mst": "279703",
   "name": "보건의료기술 진흥법",
+  "payload_law_id": "000219",
   "promulgation_date": "20251111",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "49ca75c6483fa69a"
  },
@@ -13121,6 +13126,8 @@
   "version_signature": "02eccd7a43e82633"
  },
  "law:eflaw:002029": {
+  "collected_signature": "b564b714bb5681ed",
+  "content_hash": "4a38016c65f979b444e5003c994728a21f77f155207d9c5ccacca7c5db415ebe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279701&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "002029",
@@ -13128,12 +13135,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:15.508206+00:00",
+  "last_collected_at": "2026-08-23T18:22:47.035935+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "279701",
   "name": "보건의료기본법",
+  "payload_law_id": "002029",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b564b714bb5681ed"
  },
  "law:eflaw:002031": {
@@ -20801,6 +20811,8 @@
   "version_signature": "3de521993944d66f"
  },
  "law:eflaw:003637": {
+  "collected_signature": "5b35d292f96b4242",
+  "content_hash": "5a1754e593b8f65c18abf3e0d4c2190fc5e87a896dc7748d781af4ccb2be8421",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282961&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "003637",
@@ -20808,11 +20820,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:14.167630+00:00",
+  "last_collected_at": "2026-08-23T18:25:44.302500+00:00",
   "ministry": "보건복지부",
   "mst": "282961",
   "name": "보건의료기술 진흥법 시행령",
+  "payload_law_id": "003637",
   "promulgation_date": "20260127",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5b35d292f96b4242"
  },
@@ -37924,6 +37939,8 @@
   "version_signature": "0915e1bf84a0dcac"
  },
  "law:eflaw:007270": {
+  "collected_signature": "927cc320474f556f",
+  "content_hash": "0d55d1d9e16acd1f3860878b80d94934e31517db500bf9c4507e1e967264ef2d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264101&type=HTML&mobileYn=&efYd=20240717",
   "doc_domain": "law",
   "doc_id": "007270",
@@ -37931,11 +37948,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20240717",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:16.765700+00:00",
+  "last_collected_at": "2026-08-23T18:24:14.883898+00:00",
   "ministry": "보건복지부",
   "mst": "264101",
   "name": "보건의료기술 진흥법 시행규칙",
+  "payload_law_id": "007270",
   "promulgation_date": "20240717",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "927cc320474f556f"
  },
@@ -43946,6 +43966,8 @@
   "version_signature": "2f885f6afb8a7fc7"
  },
  "law:eflaw:009137": {
+  "collected_signature": "2901a279f4cbde7d",
+  "content_hash": "ae6c9a7abce168be8a6b79559dc5134b13f0ecda4d4e5f46db39f5ab42c61be9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283555&type=HTML&mobileYn=&efYd=20260227",
   "doc_domain": "law",
   "doc_id": "009137",
@@ -43953,11 +43975,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260227",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:16.440885+00:00",
+  "last_collected_at": "2026-08-23T18:23:44.396270+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "283555",
   "name": "보건의료기본법 시행령",
+  "payload_law_id": "009137",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2901a279f4cbde7d"
  },
@@ -59961,6 +59986,8 @@
   "version_signature": "5dbf437acb2891bb"
  },
  "law:eflaw:010673": {
+  "collected_signature": "b448c95c15667114",
+  "content_hash": "dbca2d24277fdb3cc08f680c039c26579c8e5ed3c231c3d7a70bc35c4961f5d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288161&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "010673",
@@ -59968,11 +59995,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:14.976314+00:00",
+  "last_collected_at": "2026-08-23T18:27:08.326498+00:00",
   "ministry": "보건복지부,행정안전부",
   "mst": "288161",
   "name": "보건복지부와 그 소속기관 직제",
+  "payload_law_id": "010673",
   "promulgation_date": "20260721",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b448c95c15667114"
  },
@@ -60061,6 +60091,8 @@
   "version_signature": "665a655d7642d14b"
  },
  "law:eflaw:010691": {
+  "collected_signature": "ff0714f2999767bc",
+  "content_hash": "6e84ef69e38746d5425c7bd46c92ed6b2ee7bde401b8c8628394eb2dd83a0719",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288317&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "010691",
@@ -60068,11 +60100,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:15.808174+00:00",
+  "last_collected_at": "2026-08-23T18:27:04.866769+00:00",
   "ministry": "보건복지부",
   "mst": "288317",
   "name": "보건복지부와 그 소속기관 직제 시행규칙",
+  "payload_law_id": "010691",
   "promulgation_date": "20260721",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ff0714f2999767bc"
  },
@@ -88352,6 +88387,8 @@
   "version_signature": "cdee2d3a0a504606"
  },
  "law:eflaw:013905": {
+  "collected_signature": "df424500b4fc0ac9",
+  "content_hash": "d356d3bf592a93318c00732bb03e39b5445147858e07715e5c47ab16c5fd29f8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288319&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "013905",
@@ -88359,11 +88396,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260721",
   "is_active": true,
+  "last_checked_at": "2026-08-23T18:21:14.600981+00:00",
+  "last_collected_at": "2026-08-23T18:21:24.624298+00:00",
   "ministry": "보건복지부",
   "mst": "288319",
   "name": "보건복지부장관의 소속 청장 지휘에 관한 규칙",
+  "payload_law_id": "013905",
   "promulgation_date": "20260721",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "df424500b4fc0ac9"
  },
