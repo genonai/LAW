@@ -1352,6 +1352,8 @@
   "version_signature": "a4c280b52514ad02"
  },
  "law:eflaw:000183": {
+  "collected_signature": "a7398f7be844081e",
+  "content_hash": "cf86dcac4babe86bec3cf4d3ca35187ec42bff9ef2b4c92edcbdbf3643839f0d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270399&type=HTML&mobileYn=&efYd=20250401",
   "doc_domain": "law",
   "doc_id": "000183",
@@ -1359,12 +1361,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250401",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:29.448999+00:00",
+  "last_collected_at": "2026-08-23T12:19:14.028077+00:00",
   "ministry": "보건복지부",
   "mst": "270399",
   "name": "모자보건법",
+  "payload_law_id": "000183",
   "promulgation_date": "20250401",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a7398f7be844081e"
  },
  "law:eflaw:000184": {
@@ -19533,6 +19538,8 @@
   "version_signature": "4b24212b23efc5a1"
  },
  "law:eflaw:003473": {
+  "collected_signature": "8e4fe43c0c4eca87",
+  "content_hash": "d9fae3f12e68aa360397d59b803456c0529ea2fa9d08f80f581a95b3e2773a76",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227443&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "003473",
@@ -19540,15 +19547,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20210105",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:26.195924+00:00",
+  "last_collected_at": "2026-08-23T12:15:47.344535+00:00",
   "ministry": "외교부",
   "mst": "227443",
   "name": "명예영사의 임명 및 직무범위 등에 관한 규정",
+  "payload_law_id": "003473",
   "promulgation_date": "20210105",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8e4fe43c0c4eca87"
  },
  "law:eflaw:003474": {
+  "collected_signature": "db8f4fa6bc059414",
+  "content_hash": "f2f4843d273f95a00a865a98d50cea8a93cf12dab143f746bdde918909419fec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283717&type=HTML&mobileYn=&efYd=20260303",
   "doc_domain": "law",
   "doc_id": "003474",
@@ -19556,11 +19568,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260303",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:29.316410+00:00",
+  "last_collected_at": "2026-08-23T12:16:48.469193+00:00",
   "ministry": "행정안전부",
   "mst": "283717",
   "name": "모범공무원 규정",
+  "payload_law_id": "003474",
   "promulgation_date": "20260303",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "db8f4fa6bc059414"
  },
@@ -29541,6 +29556,8 @@
   "version_signature": "33579210da80eb13"
  },
  "law:eflaw:005910": {
+  "collected_signature": "af6d04b3249d6e0f",
+  "content_hash": "50096a836a0081f5467104c889fe74bf52b39001dc75c050586d0fea73e72b19",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287395&type=HTML&mobileYn=&efYd=20260625",
   "doc_domain": "law",
   "doc_id": "005910",
@@ -29548,11 +29565,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20260625",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:25.854665+00:00",
+  "last_collected_at": "2026-08-23T12:15:42.262814+00:00",
   "ministry": "대법원",
   "mst": "287395",
   "name": "모범공무원 수당규칙",
+  "payload_law_id": "005910",
   "promulgation_date": "20260625",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "af6d04b3249d6e0f"
  },
@@ -36328,6 +36348,8 @@
   "version_signature": "000d25cfb27dbdd4"
  },
  "law:eflaw:007137": {
+  "collected_signature": "66caca5b81340ff8",
+  "content_hash": "18a5a11c2e2b4d7b59f21afe607abb8bf607b09a7a27891cd4ecc30e9ca58c0f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283857&type=HTML&mobileYn=&efYd=20260304",
   "doc_domain": "law",
   "doc_id": "007137",
@@ -36335,11 +36357,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260304",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:25.480125+00:00",
+  "last_collected_at": "2026-08-23T12:18:41.050098+00:00",
   "ministry": "보건복지부",
   "mst": "283857",
   "name": "모자보건법 시행규칙",
+  "payload_law_id": "007137",
   "promulgation_date": "20260304",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "66caca5b81340ff8"
  },
@@ -92247,6 +92272,8 @@
   "version_signature": "a5008ba4d09ca59a"
  },
  "law:eflaw:014426": {
+  "collected_signature": "fbbd0e169d299dfd",
+  "content_hash": "c6e5102654ec283854e8628d9b856bbc8e22d706300b3c53b18abe67cad420fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276989&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014426",
@@ -92254,11 +92281,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:26.670270+00:00",
+  "last_collected_at": "2026-08-23T12:15:59.614984+00:00",
   "ministry": "국토교통부",
   "mst": "276989",
   "name": "모빌리티 혁신 및 활성화 지원에 관한 법률",
+  "payload_law_id": "014426",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fbbd0e169d299dfd"
  },
@@ -92999,6 +93029,8 @@
   "version_signature": "1f6be952b305e29f"
  },
  "law:eflaw:014501": {
+  "collected_signature": "a45e0ebc47d06e76",
+  "content_hash": "ed941816e1bab03a6fead5359547a6f76a9b78c47a4414979c892e1781023137",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281663&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014501",
@@ -93006,11 +93038,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:28.683762+00:00",
+  "last_collected_at": "2026-08-23T12:18:00.396715+00:00",
   "ministry": "국토교통부",
   "mst": "281663",
   "name": "모빌리티 혁신 및 활성화 지원에 관한 법률 시행령",
+  "payload_law_id": "014501",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a45e0ebc47d06e76"
  },
@@ -93247,6 +93282,8 @@
   "version_signature": "c45f21d379baf816"
  },
  "law:eflaw:014522": {
+  "collected_signature": "9862c40d96906be8",
+  "content_hash": "e01b102f51cde1f40bd86d402cd27f1ca0d085ae7ed200002a17ba6822d00fb4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266043&type=HTML&mobileYn=&efYd=20241019",
   "doc_domain": "law",
   "doc_id": "014522",
@@ -93254,11 +93291,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20241019",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:15:27.877095+00:00",
+  "last_collected_at": "2026-08-23T12:17:19.519608+00:00",
   "ministry": "국토교통부",
   "mst": "266043",
   "name": "모빌리티 혁신 및 활성화 지원에 관한 법률 시행규칙",
+  "payload_law_id": "014522",
   "promulgation_date": "20241017",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9862c40d96906be8"
  },
