@@ -1529,6 +1529,8 @@
   "version_signature": "b22b3ba959430283"
  },
  "law:eflaw:000207": {
+  "collected_signature": "75b8016795387ed1",
+  "content_hash": "44e7f2b241d9dadda87c8e01cbb114bb6163b209413e8fdfa490d9b08768778e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276659&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000207",
@@ -1536,11 +1538,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:34.816020+00:00",
+  "last_collected_at": "2026-08-23T08:45:29.104634+00:00",
   "ministry": "보건복지부",
   "mst": "276659",
   "name": "대한적십자사 조직법",
+  "payload_law_id": "000207",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "75b8016795387ed1"
  },
@@ -5221,6 +5226,8 @@
   "version_signature": "2c946ef802308cc3"
  },
  "law:eflaw:000955": {
+  "collected_signature": "0b70de8c74320d52",
+  "content_hash": "a46d68a71b0b4d460650587203f00886441fafacdf3b4611a46f1cb11cc6f66e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=202889&type=HTML&mobileYn=&efYd=20180928",
   "doc_domain": "law",
   "doc_id": "000955",
@@ -5228,11 +5235,14 @@
   "doc_type": "법률",
   "enforcement_date": "20180928",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:33.442921+00:00",
+  "last_collected_at": "2026-08-23T08:44:50.006630+00:00",
   "ministry": "소방청",
   "mst": "202889",
   "name": "대한소방공제회법",
+  "payload_law_id": "000955",
   "promulgation_date": "20180327",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0b70de8c74320d52"
  },
@@ -5794,6 +5804,8 @@
   "version_signature": "19be7ace61f47d8a"
  },
  "law:eflaw:001106": {
+  "collected_signature": "f5b5100a193a2d76",
+  "content_hash": "5de249978badfa146cec006770729998242f92c830e076ae455ef210c5e37ce5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257199&type=HTML&mobileYn=&efYd=20231226",
   "doc_domain": "law",
   "doc_id": "001106",
@@ -5801,11 +5813,14 @@
   "doc_type": "법률",
   "enforcement_date": "20231226",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:33.676003+00:00",
+  "last_collected_at": "2026-08-23T08:44:40.805369+00:00",
   "ministry": "행정안전부",
   "mst": "257199",
   "name": "대한지방행정공제회법",
+  "payload_law_id": "001106",
   "promulgation_date": "20231226",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f5b5100a193a2d76"
  },
@@ -18909,6 +18924,8 @@
   "version_signature": "93d14551679dc11c"
  },
  "law:eflaw:003381": {
+  "collected_signature": "d24b9931eb45b3bb",
+  "content_hash": "bf5296a20d79055ade006959dfc5fc7807cb55c3c158fbd52f96ff2be9178c84",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=233367&type=HTML&mobileYn=&efYd=20210630",
   "doc_domain": "law",
   "doc_id": "003381",
@@ -18916,11 +18933,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20210630",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:32.702016+00:00",
+  "last_collected_at": "2026-08-23T08:44:45.119982+00:00",
   "ministry": "보건복지부",
   "mst": "233367",
   "name": "대한적십자사 조직법 시행령",
+  "payload_law_id": "003381",
   "promulgation_date": "20210629",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d24b9931eb45b3bb"
  },
@@ -81131,6 +81151,8 @@
   "version_signature": "1081076b153dd552"
  },
  "law:eflaw:013138": {
+  "collected_signature": "7d1f158bc1e5808a",
+  "content_hash": "9be8153533140695bca9b3ff05d8b6e6548a74e516c274252e610c642140e138",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287813&type=HTML&mobileYn=&efYd=20260707",
   "doc_domain": "law",
   "doc_id": "013138",
@@ -81138,12 +81160,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260707",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:35.157594+00:00",
+  "last_collected_at": "2026-08-23T08:45:28.630249+00:00",
   "ministry": "기후에너지환경부",
   "mst": "287813",
   "name": "댐 주변지역 친환경 보전 및 활용에 관한 특별법",
+  "payload_law_id": "013138",
   "promulgation_date": "20260707",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7d1f158bc1e5808a"
  },
  "law:eflaw:013139": {
@@ -82427,6 +82452,8 @@
   "version_signature": "d6e3ddb7b6ea956b"
  },
  "law:eflaw:013495": {
+  "collected_signature": "359c88aded0cf041",
+  "content_hash": "00e2d1240cc577c184db795471652ee532109ec266fc6b55162fd16b2f9e77ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278897&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013495",
@@ -82434,11 +82461,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:32.135648+00:00",
+  "last_collected_at": "2026-08-23T08:43:47.814472+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278897",
   "name": "댐 주변지역 친환경 보전 및 활용에 관한 특별법 시행규칙",
+  "payload_law_id": "013495",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "359c88aded0cf041"
  },
@@ -96066,6 +96096,8 @@
   "version_signature": "06fe66d677b5bf25"
  },
  "law:eflaw:014855": {
+  "collected_signature": "64da9fb95df60646",
+  "content_hash": "77710877677db2ef35b54237cdea1294627fb62688c2e2902025d46460420b53",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269941&type=HTML&mobileYn=&efYd=20250919",
   "doc_domain": "law",
   "doc_id": "014855",
@@ -96073,11 +96105,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250919",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:34.033840+00:00",
+  "last_collected_at": "2026-08-23T08:44:18.516661+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "269941",
   "name": "대형가속기 구축 및 지원에 관한 법률",
+  "payload_law_id": "014855",
   "promulgation_date": "20250318",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "64da9fb95df60646"
  },
@@ -96824,6 +96859,8 @@
   "version_signature": "98493512b8cb2f38"
  },
  "law:eflaw:014917": {
+  "collected_signature": "c0447a3a5a036a4d",
+  "content_hash": "8505707cee3e4a2599543941f314d61309a48057f0440c622e93390ac50e13b1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273711&type=HTML&mobileYn=&efYd=20250919",
   "doc_domain": "law",
   "doc_id": "014917",
@@ -96831,11 +96868,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250919",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:43:35.748111+00:00",
+  "last_collected_at": "2026-08-23T08:43:59.090531+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "273711",
   "name": "대형가속기 구축 및 지원에 관한 법률 시행령",
+  "payload_law_id": "014917",
   "promulgation_date": "20250916",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c0447a3a5a036a4d"
  },
