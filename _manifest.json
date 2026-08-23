@@ -5611,6 +5611,8 @@
   "version_signature": "85aa0834e30993f3"
  },
  "law:eflaw:001113": {
+  "collected_signature": "1d43dd8ca6e78c2f",
+  "content_hash": "d951bd8e63caad090b59a5154f17dbf6cf6bbbbd38ba54b081f1d3f1f0a12daa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228083&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "001113",
@@ -5618,11 +5620,14 @@
   "doc_type": "법률",
   "enforcement_date": "20210105",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:09.638241+00:00",
+  "last_collected_at": "2026-08-23T00:05:08.362704+00:00",
   "ministry": "법무부",
   "mst": "228083",
   "name": "국제형사사법 공조법",
+  "payload_law_id": "001113",
   "promulgation_date": "20210105",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1d43dd8ca6e78c2f"
  },
@@ -27154,6 +27159,8 @@
   "version_signature": "8704b2d54f624858"
  },
  "law:eflaw:005727": {
+  "collected_signature": "4a831cf560283271",
+  "content_hash": "fb9e9740225933dfce244c1345e6f448d02db56978c8804955cf701b88ba808a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=33523&type=HTML&mobileYn=&efYd=19910614",
   "doc_domain": "law",
   "doc_id": "005727",
@@ -27161,11 +27168,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "19910614",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:07.358523+00:00",
+  "last_collected_at": "2026-08-23T00:02:15.718972+00:00",
   "ministry": "대법원",
   "mst": "33523",
   "name": "국제형사사법공조규칙",
+  "payload_law_id": "005727",
   "promulgation_date": "19910614",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4a831cf560283271"
  },
@@ -54317,6 +54327,8 @@
   "version_signature": "6d89ce31681fecd7"
  },
  "law:eflaw:010508": {
+  "collected_signature": "d3806a522cbe790a",
+  "content_hash": "d553e8fca66f8b311933cf65541246fd0fbc9a09c30ed6b135df3bbf7e556aaf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259267&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "010508",
@@ -54324,11 +54336,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:07.633104+00:00",
+  "last_collected_at": "2026-08-23T00:05:42.734623+00:00",
   "ministry": "해양수산부",
   "mst": "259267",
   "name": "국제항해선박 및 항만시설의 보안에 관한 법률",
+  "payload_law_id": "010508",
   "promulgation_date": "20240123",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d3806a522cbe790a"
  },
@@ -55980,6 +55995,8 @@
   "version_signature": "cc2b4869e49d90ec"
  },
  "law:eflaw:010648": {
+  "collected_signature": "c43684d9405c814e",
+  "content_hash": "a7cf4b97c14df4438bcf35e8bbb9a86be514fc70197fac4e8378d2c2867dbf5d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266305&type=HTML&mobileYn=&efYd=20241112",
   "doc_domain": "law",
   "doc_id": "010648",
@@ -55987,11 +56004,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20241112",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:08.157131+00:00",
+  "last_collected_at": "2026-08-23T00:05:47.862967+00:00",
   "ministry": "해양수산부",
   "mst": "266305",
   "name": "국제항해선박 및 항만시설의 보안에 관한 법률 시행령",
+  "payload_law_id": "010648",
   "promulgation_date": "20241112",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c43684d9405c814e"
  },
@@ -56097,6 +56117,8 @@
   "version_signature": "3457af0f94d8a1e8"
  },
  "law:eflaw:010657": {
+  "collected_signature": "79fb9d3317968335",
+  "content_hash": "fc7899b5ae7a98157b8a3564e25d72b0b28cc85ea521b6450a92beef0ccc1647",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285039&type=HTML&mobileYn=&efYd=20260325",
   "doc_domain": "law",
   "doc_id": "010657",
@@ -56104,11 +56126,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20260325",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:08.525040+00:00",
+  "last_collected_at": "2026-08-23T00:07:23.214441+00:00",
   "ministry": "해양수산부",
   "mst": "285039",
   "name": "국제항해선박 및 항만시설의 보안에 관한 법률 시행규칙",
+  "payload_law_id": "010657",
   "promulgation_date": "20260325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "79fb9d3317968335"
  },
@@ -81499,6 +81524,8 @@
   "version_signature": "bc8a03aa671ad913"
  },
  "law:eflaw:013758": {
+  "collected_signature": "9a88616b9e17be06",
+  "content_hash": "923270abf788be7120084511ba5a75154759c5b65eb6c96488a21cf69ca017e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248487&type=HTML&mobileYn=&efYd=20230605",
   "doc_domain": "law",
   "doc_id": "013758",
@@ -81506,11 +81533,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230605",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:09.313576+00:00",
+  "last_collected_at": "2026-08-23T00:04:56.403156+00:00",
   "ministry": "외교부",
   "mst": "248487",
   "name": "국제협력요원 제도 폐지에 따른 순직 심사 등에 관한 법률",
+  "payload_law_id": "013758",
   "promulgation_date": "20230304",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9a88616b9e17be06"
  },
@@ -82764,6 +82794,8 @@
   "version_signature": "426661c35911719f"
  },
  "law:eflaw:013888": {
+  "collected_signature": "a0a7c26167f991b4",
+  "content_hash": "134d9e63082b2141576e89913889d754b2be441588a0c3e70d62e4c749c7fad6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249601&type=HTML&mobileYn=&efYd=20230605",
   "doc_domain": "law",
   "doc_id": "013888",
@@ -82771,11 +82803,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230605",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:10.211992+00:00",
+  "last_collected_at": "2026-08-23T00:02:30.436220+00:00",
   "ministry": "외교부",
   "mst": "249601",
   "name": "국제협력요원 제도 폐지에 따른 순직 심사 등에 관한 법률 시행령",
+  "payload_law_id": "013888",
   "promulgation_date": "20230411",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a0a7c26167f991b4"
  },
@@ -95107,6 +95142,8 @@
   "version_signature": "2acd255a094395c0"
  },
  "law:eflaw:015094": {
+  "collected_signature": "50b2af680b874f5c",
+  "content_hash": "aea1422ba12120e471725934bf79318e481d29fef83cce41a405e59b25f282ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285209&type=HTML&mobileYn=&efYd=20270401",
   "doc_domain": "law",
   "doc_id": "015094",
@@ -95114,11 +95151,14 @@
   "doc_type": "법률",
   "enforcement_date": "20270401",
   "is_active": true,
+  "last_checked_at": "2026-08-23T00:02:09.471852+00:00",
+  "last_collected_at": "2026-08-23T00:02:12.682834+00:00",
   "ministry": "해양수산부",
   "mst": "285209",
   "name": "국제항해선박의 안전하고 환경친화적인 재활용을 위한 법률",
+  "payload_law_id": "015094",
   "promulgation_date": "20260331",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "50b2af680b874f5c"
  },
