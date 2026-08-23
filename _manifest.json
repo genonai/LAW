@@ -3439,6 +3439,8 @@
   "version_signature": "0e7645c8e3cbe039"
  },
  "law:eflaw:000709": {
+  "collected_signature": "c25708f30514c103",
+  "content_hash": "4328d41ee3bfa2decf192719806bfe70f3407853b95dc8077c5b32a3cbc8b385",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276101&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000709",
@@ -3446,11 +3448,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:27.422483+00:00",
+  "last_collected_at": "2026-08-23T08:17:48.907330+00:00",
   "ministry": "재정경제부",
   "mst": "276101",
   "name": "대외경제협력기금법",
+  "payload_law_id": "000709",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c25708f30514c103"
  },
@@ -8370,6 +8375,8 @@
   "version_signature": "5e02e46928718b28"
  },
  "law:eflaw:001467": {
+  "collected_signature": "082b52a59134c997",
+  "content_hash": "907a8fed6dd54edfdf87e9578ef0b3f71757506351f94ccbdfc2fc58b5d921ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276491&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001467",
@@ -8377,12 +8384,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:27.670390+00:00",
+  "last_collected_at": "2026-08-23T08:19:24.707291+00:00",
   "ministry": "산업통상부",
   "mst": "276491",
   "name": "대외무역법",
+  "payload_law_id": "001467",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "082b52a59134c997"
  },
  "law:eflaw:001469": {
@@ -18599,6 +18609,8 @@
   "version_signature": "5a96d1c07f3ec879"
  },
  "law:eflaw:003311": {
+  "collected_signature": "93ed9c73d1f34cc5",
+  "content_hash": "5a94e3e5e94d9290599bcbed8dc3fcad6f7579913de134173a17fc061e941a68",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280843&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003311",
@@ -18606,15 +18618,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:27.054134+00:00",
+  "last_collected_at": "2026-08-23T08:16:48.700318+00:00",
   "ministry": "재정경제부",
   "mst": "280843",
   "name": "대외경제협력기금법 시행령",
+  "payload_law_id": "003311",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "93ed9c73d1f34cc5"
  },
  "law:eflaw:003313": {
+  "collected_signature": "5d9bd472c1e96996",
+  "content_hash": "f67fbfa1f876362cf45d8c55e4a8ac35f119fc9eb7c4df276b250618d3c4c7fb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288381&type=HTML&mobileYn=&efYd=20260731",
   "doc_domain": "law",
   "doc_id": "003313",
@@ -18622,11 +18639,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260731",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:28.876780+00:00",
+  "last_collected_at": "2026-08-23T08:23:17.457309+00:00",
   "ministry": "산업통상부",
   "mst": "288381",
   "name": "대외무역법 시행령",
+  "payload_law_id": "003313",
   "promulgation_date": "20260728",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5d9bd472c1e96996"
  },
@@ -35294,6 +35314,8 @@
   "version_signature": "c598572352d42ef2"
  },
  "law:eflaw:007043": {
+  "collected_signature": "e7fc2d80b01fd2d6",
+  "content_hash": "f759f32fdbb3baebed724ee03f4b2332a75276e435843cba861ba47da6e931b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282639&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "007043",
@@ -35301,11 +35323,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:28.011462+00:00",
+  "last_collected_at": "2026-08-23T08:17:02.343613+00:00",
   "ministry": "재정경제부",
   "mst": "282639",
   "name": "대외경제협력기금법 시행규칙",
+  "payload_law_id": "007043",
   "promulgation_date": "20260102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e7fc2d80b01fd2d6"
  },
@@ -43341,6 +43366,8 @@
   "version_signature": "00bb9b33906392fe"
  },
  "law:eflaw:009247": {
+  "collected_signature": "b22cfdb808e32806",
+  "content_hash": "1bca21d1a115cfed593c7143c8741ec3ba0f65c40debbf163f49adf9dd24c46d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286179&type=HTML&mobileYn=&efYd=20260519",
   "doc_domain": "law",
   "doc_id": "009247",
@@ -43348,11 +43375,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260519",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:26.480093+00:00",
+  "last_collected_at": "2026-08-23T08:15:47.214770+00:00",
   "ministry": "재정경제부",
   "mst": "286179",
   "name": "대외경제장관회의규정",
+  "payload_law_id": "009247",
   "promulgation_date": "20260519",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b22cfdb808e32806"
  },
@@ -55547,6 +55577,8 @@
   "version_signature": "01200d2f53b35db5"
  },
  "law:eflaw:010467": {
+  "collected_signature": "d460968d0eda276a",
+  "content_hash": "0cde8c37b27ffedf83e52d5c7b60cf384565c1160ad27204135b8faad8ffce35",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284717&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "010467",
@@ -55554,11 +55586,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:28.129824+00:00",
+  "last_collected_at": "2026-08-23T08:17:41.240699+00:00",
   "ministry": "교육부",
   "mst": "284717",
   "name": "대안학교의 설립ㆍ운영에 관한 규정",
+  "payload_law_id": "010467",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d460968d0eda276a"
  },
@@ -63026,6 +63061,8 @@
   "version_signature": "ab943d2370578136"
  },
  "law:eflaw:011169": {
+  "collected_signature": "cc4e8f780a5d1b59",
+  "content_hash": "5ade81c0c6c57b2df75d09f6fd64fa9109afa33a7f89a2b9c5ca5fe278dd90f0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=204775&type=HTML&mobileYn=&efYd=20190117",
   "doc_domain": "law",
   "doc_id": "011169",
@@ -63033,11 +63070,14 @@
   "doc_type": "법률",
   "enforcement_date": "20190117",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:15:26.271961+00:00",
+  "last_collected_at": "2026-08-23T08:17:41.616352+00:00",
   "ministry": "행정안전부",
   "mst": "204775",
   "name": "대일항쟁기 강제동원 피해조사 및 국외강제동원 희생자 등 지원에 관한 특별법",
+  "payload_law_id": "011169",
   "promulgation_date": "20181016",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cc4e8f780a5d1b59"
  },
