@@ -7341,6 +7341,8 @@
   "version_signature": "6aecf6dc333b5480"
  },
  "law:eflaw:001270": {
+  "collected_signature": "cf38f710f832fe66",
+  "content_hash": "9d9dd589e25fc20ba3cc685a5d97af45e3f160933c3df924a8e1cde38cab3109",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239375&type=HTML&mobileYn=&efYd=20230112",
   "doc_domain": "law",
   "doc_id": "001270",
@@ -7348,11 +7350,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230112",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:15.658220+00:00",
+  "last_collected_at": "2026-08-23T15:21:57.107649+00:00",
   "ministry": "법무부",
   "mst": "239375",
   "name": "법률구조법",
+  "payload_law_id": "001270",
   "promulgation_date": "20220111",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cf38f710f832fe66"
  },
@@ -20426,6 +20431,8 @@
   "version_signature": "01fd289af7943f4b"
  },
  "law:eflaw:003596": {
+  "collected_signature": "5173e1579660555b",
+  "content_hash": "a30b186020a92e239efd4c7d3a97ad029e5c6e7009be880576ef30e23b893060",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=242387&type=HTML&mobileYn=&efYd=20220818",
   "doc_domain": "law",
   "doc_id": "003596",
@@ -20433,11 +20440,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20220818",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:14.635462+00:00",
+  "last_collected_at": "2026-08-23T15:22:06.452514+00:00",
   "ministry": "법무부",
   "mst": "242387",
   "name": "법률구조법 시행령",
+  "payload_law_id": "003596",
   "promulgation_date": "20220509",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5173e1579660555b"
  },
@@ -37245,6 +37255,8 @@
   "version_signature": "937a7a09753b0b76"
  },
  "law:eflaw:007215": {
+  "collected_signature": "5fea9579954100f2",
+  "content_hash": "de0e0414b21c0d2d8d67f6e96a319ec88c02ff3165294e80e6dac94c7cdc4f2c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=250191&type=HTML&mobileYn=&efYd=20230417",
   "doc_domain": "law",
   "doc_id": "007215",
@@ -37252,11 +37264,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20230417",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:13.039430+00:00",
+  "last_collected_at": "2026-08-23T15:21:37.691240+00:00",
   "ministry": "법무부",
   "mst": "250191",
   "name": "법률구조법 시행규칙",
+  "payload_law_id": "007215",
   "promulgation_date": "20230417",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5fea9579954100f2"
  },
@@ -37277,6 +37292,8 @@
   "version_signature": "5feae952a5a9f4b4"
  },
  "law:eflaw:007225": {
+  "collected_signature": "6aaa785d6b0f9935",
+  "content_hash": "d464d0f8912311be8ef01ed188a9341c678ea5066055ab9ca056635f71acded7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=193053&type=HTML&mobileYn=&efYd=20170330",
   "doc_domain": "law",
   "doc_id": "007225",
@@ -37284,11 +37301,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20170330",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:12.598649+00:00",
+  "last_collected_at": "2026-08-23T15:21:09.652319+00:00",
   "ministry": "법무부",
   "mst": "193053",
   "name": "법무부 소관 비영리법인의 설립 및 감독에 관한 규칙",
+  "payload_law_id": "007225",
   "promulgation_date": "20170330",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6aaa785d6b0f9935"
  },
@@ -84753,6 +84773,8 @@
   "version_signature": "db0a528c9e7527ae"
  },
  "law:eflaw:013596": {
+  "collected_signature": "cb0412e66c2fc405",
+  "content_hash": "28e8be1b8aaff54afd8cfcf812d48df7c75b1d5cafe49ab1093140855537aa06",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=210844&type=HTML&mobileYn=&efYd=20191017",
   "doc_domain": "law",
   "doc_id": "013596",
@@ -84760,11 +84782,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20191017",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:14.038736+00:00",
+  "last_collected_at": "2026-08-23T15:21:09.719619+00:00",
   "ministry": "교육부",
   "mst": "210844",
   "name": "법률지원단의 구성 및 운영에 관한 규칙",
+  "payload_law_id": "013596",
   "promulgation_date": "20191017",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cb0412e66c2fc405"
  },
@@ -87536,6 +87561,8 @@
   "version_signature": "3e8b94ad5b8297a3"
  },
  "law:eflaw:013873": {
+  "collected_signature": "32572949daa1273f",
+  "content_hash": "003fc1cbef71b3d37bb1831db2cf769c4ff3d61c4fd04cb2d16c2d08d81620de",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222287&type=HTML&mobileYn=&efYd=20201007",
   "doc_domain": "law",
   "doc_id": "013873",
@@ -87543,11 +87570,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20201007",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:13.920723+00:00",
+  "last_collected_at": "2026-08-23T15:21:16.036262+00:00",
   "ministry": "법무부",
   "mst": "222287",
   "name": "법률 제16908호 검찰청법 일부개정법률 및 법률 제16924호 형사소송법 일부개정법률의 시행일에 관한 규정",
+  "payload_law_id": "013873",
   "promulgation_date": "20201007",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "32572949daa1273f"
  },
@@ -87589,6 +87619,8 @@
   "version_signature": "e568def3237ec86b"
  },
  "law:eflaw:013886": {
+  "collected_signature": "426661c35911719f",
+  "content_hash": "649721811e77ce69c19c37cf56f02942c200d1b156e18fbc693e55a02feeb82d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273657&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "013886",
@@ -87596,11 +87628,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:13.504934+00:00",
+  "last_collected_at": "2026-08-23T15:21:26.144557+00:00",
   "ministry": "법제처",
   "mst": "273657",
   "name": "법령정보의 관리 및 제공에 관한 법률 시행령",
+  "payload_law_id": "013886",
   "promulgation_date": "20250909",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "426661c35911719f"
  },
@@ -96870,6 +96905,8 @@
   "version_signature": "27b66178b53e9ea7"
  },
  "law:eflaw:014723": {
+  "collected_signature": "14e266245bff2253",
+  "content_hash": "9713b7660b02308afd674eb77ec53116c7e85e59f98408e028e68ee1fb125678",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264971&type=HTML&mobileYn=&efYd=20240820",
   "doc_domain": "law",
   "doc_id": "014723",
@@ -96877,11 +96914,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240820",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:20:15.109267+00:00",
+  "last_collected_at": "2026-08-23T15:20:21.390995+00:00",
   "ministry": "국토교통부",
   "mst": "264971",
   "name": "법률 제16500호 택시운송사업의 발전에 관한 법률 일부개정법률의 시행일에 관한 규정",
+  "payload_law_id": "014723",
   "promulgation_date": "20240820",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "14e266245bff2253"
  },
