@@ -9340,6 +9340,8 @@
   "version_signature": "32a6e53067dea65d"
  },
  "law:eflaw:001563": {
+  "collected_signature": "05dc9fe41410c975",
+  "content_hash": "580e591f5b9c4e09bc4a9ff8ac379eb081df0e44ccc2b1d985be0c53f04f8a41",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280349&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001563",
@@ -9347,12 +9349,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:22.932084+00:00",
+  "last_collected_at": "2026-08-23T16:23:11.014683+00:00",
   "ministry": "재정경제부",
   "mst": "280349",
   "name": "법인세법",
+  "payload_law_id": "001563",
   "promulgation_date": "20251223",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "05dc9fe41410c975"
  },
  "law:eflaw:001565": {
@@ -20525,6 +20530,8 @@
   "version_signature": "e6ea1228438ba221"
  },
  "law:eflaw:003610": {
+  "collected_signature": "cbbecbd08e9c42cf",
+  "content_hash": "24c53f9f3926cf0db586e494ed5611563c26b3aa7d49279de57ebe7d887e4193",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=246561&type=HTML&mobileYn=&efYd=20230101",
   "doc_domain": "law",
   "doc_id": "003610",
@@ -20532,11 +20539,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230101",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:26.205759+00:00",
+  "last_collected_at": "2026-08-23T16:06:36.121857+00:00",
   "ministry": "국토교통부,법무부",
   "mst": "246561",
   "name": "법인 아닌 사단ㆍ재단 및 외국인의 부동산등기용 등록번호 부여절차에 관한 규정",
+  "payload_law_id": "003610",
   "promulgation_date": "20221227",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cbbecbd08e9c42cf"
  },
@@ -29800,6 +29810,8 @@
   "version_signature": "a3a9757109ea4866"
  },
  "law:eflaw:005854": {
+  "collected_signature": "eb295ee8b6281f9a",
+  "content_hash": "16e253e7cb9e5947b607fbd102e0f75b064b2cd16e2866637acbacb0a42d861c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=83084&type=HTML&mobileYn=&efYd=20080218",
   "doc_domain": "law",
   "doc_id": "005854",
@@ -29807,15 +29819,20 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20080218",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:24.165995+00:00",
+  "last_collected_at": "2026-08-23T16:07:36.389200+00:00",
   "ministry": "대법원",
   "mst": "83084",
   "name": "법원통계규칙",
+  "payload_law_id": "005854",
   "promulgation_date": "20080218",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "eb295ee8b6281f9a"
  },
  "law:eflaw:005857": {
+  "collected_signature": "76cb08d423c3837d",
+  "content_hash": "348a2d829aeef8a2f50242516b39c2352ae0412d82a0f07f6b596cdc86e5a7e9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=209848&type=HTML&mobileYn=&efYd=20190704",
   "doc_domain": "law",
   "doc_id": "005857",
@@ -29823,11 +29840,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20190704",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:23.066317+00:00",
+  "last_collected_at": "2026-08-23T16:05:25.943237+00:00",
   "ministry": "대법원",
   "mst": "209848",
   "name": "법원행정처 행정심판규칙",
+  "payload_law_id": "005857",
   "promulgation_date": "20190704",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "76cb08d423c3837d"
  },
@@ -29848,6 +29868,8 @@
   "version_signature": "786e69bab0a69391"
  },
  "law:eflaw:005861": {
+  "collected_signature": "3ed0cd7f111c9817",
+  "content_hash": "55a9eb69f796eef3701deb63572b4064662d79ba8a97854acd53880b43af805d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279347&type=HTML&mobileYn=&efYd=20251103",
   "doc_domain": "law",
   "doc_id": "005861",
@@ -29855,11 +29877,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20251103",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:23.881131+00:00",
+  "last_collected_at": "2026-08-23T16:08:36.953162+00:00",
   "ministry": "대법원",
   "mst": "279347",
   "name": "법인 및 재외국민의 부동산등기용등록번호 부여에 관한 규칙",
+  "payload_law_id": "005861",
   "promulgation_date": "20251031",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3ed0cd7f111c9817"
  },
@@ -37485,6 +37510,8 @@
   "version_signature": "f6deb2da314bdee9"
  },
  "law:eflaw:007230": {
+  "collected_signature": "e4e045703ffc56d7",
+  "content_hash": "a077a389f67d5d550e157e925126f94608ae46e911309f24aebb86e6aec25722",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247035&type=HTML&mobileYn=&efYd=20221227",
   "doc_domain": "law",
   "doc_id": "007230",
@@ -37492,11 +37519,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20221227",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:25.347880+00:00",
+  "last_collected_at": "2026-08-23T16:06:21.054475+00:00",
   "ministry": "국토교통부,법무부",
   "mst": "247035",
   "name": "법인 아닌 사단ㆍ재단 및 외국인의 부동산등기용 등록번호 부여절차에 관한 규정 시행규칙",
+  "payload_law_id": "007230",
   "promulgation_date": "20221227",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e4e045703ffc56d7"
  },
@@ -54364,6 +54394,8 @@
   "version_signature": "9e4068a8a3e72b1b"
  },
  "law:eflaw:010210": {
+  "collected_signature": "b508f5ffbda0eaa2",
+  "content_hash": "6684a770c78b975004dc5158ef7d9ae43dda9e7296ceddf2bacd6820d995018f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=161926&type=HTML&mobileYn=&efYd=20141106",
   "doc_domain": "law",
   "doc_id": "010210",
@@ -54371,11 +54403,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20141106",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:25.498429+00:00",
+  "last_collected_at": "2026-08-23T16:05:53.677284+00:00",
   "ministry": "대법원",
   "mst": "161926",
   "name": "법원행정처소관 비영리법인의 설립 및 감독에 관한 규칙",
+  "payload_law_id": "010210",
   "promulgation_date": "20141106",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b508f5ffbda0eaa2"
  },
@@ -91803,6 +91838,8 @@
   "version_signature": "a26cc8bdd28aaefc"
  },
  "law:eflaw:014239": {
+  "collected_signature": "bfb9fb35495d77e5",
+  "content_hash": "ebc7a88d3e05efb7250c07e3c4d00b173b15b9209d80c960b8c1abc14a6e72e3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245685&type=HTML&mobileYn=&efYd=20221223",
   "doc_domain": "law",
   "doc_id": "014239",
@@ -91810,11 +91847,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20221223",
   "is_active": true,
+  "last_checked_at": "2026-08-23T16:04:24.056378+00:00",
+  "last_collected_at": "2026-08-23T16:05:50.438690+00:00",
   "ministry": "대법원",
   "mst": "245685",
   "name": "법원청원규칙",
+  "payload_law_id": "014239",
   "promulgation_date": "20221201",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bfb9fb35495d77e5"
  },
