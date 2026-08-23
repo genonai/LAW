@@ -9065,6 +9065,8 @@
   "version_signature": "f1fce4c49c703262"
  },
  "law:eflaw:001498": {
+  "collected_signature": "e41fb93514002cbe",
+  "content_hash": "73d90fa171f667304145421a81f4a5f339d01d3c7ee869a677db4227f0c05aa2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286911&type=HTML&mobileYn=&efYd=20260616",
   "doc_domain": "law",
   "doc_id": "001498",
@@ -9072,12 +9074,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260616",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:10.294565+00:00",
+  "last_collected_at": "2026-08-23T22:36:20.521252+00:00",
   "ministry": "산림청",
   "mst": "286911",
   "name": "산림조합법",
+  "payload_law_id": "001498",
   "promulgation_date": "20260616",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "e41fb93514002cbe"
  },
  "law:eflaw:001499": {
@@ -21763,6 +21768,8 @@
   "version_signature": "586f63b135a76fc9"
  },
  "law:eflaw:003773": {
+  "collected_signature": "ad853d32c5eb30f0",
+  "content_hash": "56fe13b332bb8026c033693ea3b8a86431359288d5f14b10f908de6828ac26f6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288247&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "003773",
@@ -21770,11 +21777,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260721",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:08.302074+00:00",
+  "last_collected_at": "2026-08-23T22:34:28.552969+00:00",
   "ministry": "산림청,행정안전부",
   "mst": "288247",
   "name": "산림청과 그 소속기관 직제",
+  "payload_law_id": "003773",
   "promulgation_date": "20260721",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ad853d32c5eb30f0"
  },
@@ -24576,6 +24586,8 @@
   "version_signature": "ef08a3fde9dbef8e"
  },
  "law:eflaw:004578": {
+  "collected_signature": "95c85d87f6147b7d",
+  "content_hash": "71d7c39c86aa2b33c2b78c835597a706639eee590d5176680863828b8b74a889",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284765&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "004578",
@@ -24583,11 +24595,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:09.069812+00:00",
+  "last_collected_at": "2026-08-23T22:36:01.000169+00:00",
   "ministry": "산림청",
   "mst": "284765",
   "name": "산림조합법 시행령",
+  "payload_law_id": "004578",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "95c85d87f6147b7d"
  },
@@ -58607,6 +58622,8 @@
   "version_signature": "69fc453ea9de8b3d"
  },
  "law:eflaw:010507": {
+  "collected_signature": "6d89ce31681fecd7",
+  "content_hash": "14be402754bd2704e44e963e519136dd3e302674dd151cd2993fda860bc78654",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277183&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "010507",
@@ -58614,11 +58631,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:11.818988+00:00",
+  "last_collected_at": "2026-08-23T22:34:16.568935+00:00",
   "ministry": "산림청",
   "mst": "277183",
   "name": "산림조합의 구조개선에 관한 법률",
+  "payload_law_id": "010507",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6d89ce31681fecd7"
  },
@@ -60284,6 +60304,8 @@
   "version_signature": "56dff91142244373"
  },
  "law:eflaw:010639": {
+  "collected_signature": "495ea89f3fd7bd33",
+  "content_hash": "5bad9106eff5668586dcc511f39ce7ac3501d63eb488c41bfe11db9c1840d831",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272993&type=HTML&mobileYn=&efYd=20250901",
   "doc_domain": "law",
   "doc_id": "010639",
@@ -60291,11 +60313,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250901",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:10.244492+00:00",
+  "last_collected_at": "2026-08-23T22:34:12.772629+00:00",
   "ministry": "산림청",
   "mst": "272993",
   "name": "산림조합의 구조개선에 관한 법률 시행령",
+  "payload_law_id": "010639",
   "promulgation_date": "20250729",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "495ea89f3fd7bd33"
  },
@@ -60422,6 +60447,8 @@
   "version_signature": "c43684d9405c814e"
  },
  "law:eflaw:010649": {
+  "collected_signature": "371ce5fc7f40359a",
+  "content_hash": "d9be70d0cb97c1feb2e3f43a1dd58b97ac5d875003257f701b99d71296fe6470",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228367&type=HTML&mobileYn=&efYd=20210101",
   "doc_domain": "law",
   "doc_id": "010649",
@@ -60429,11 +60456,14 @@
   "doc_type": "농림수산식품부령",
   "enforcement_date": "20210101",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:11.377366+00:00",
+  "last_collected_at": "2026-08-23T22:33:37.700903+00:00",
   "ministry": "산림청",
   "mst": "228367",
   "name": "산림조합의 구조개선에 관한 법률 시행규칙",
+  "payload_law_id": "010649",
   "promulgation_date": "20201231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "371ce5fc7f40359a"
  },
@@ -69304,6 +69334,8 @@
   "version_signature": "c78fb49de52459b2"
  },
  "law:eflaw:011466": {
+  "collected_signature": "9484ebe9c0f349ef",
+  "content_hash": "8ae3e381d2a3fe17b525733f45fd2bed27d315fb991281c1304e01631b856904",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257357&type=HTML&mobileYn=&efYd=20231221",
   "doc_domain": "law",
   "doc_id": "011466",
@@ -69311,11 +69343,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20231221",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:08.925818+00:00",
+  "last_collected_at": "2026-08-23T22:32:19.654116+00:00",
   "ministry": "산림청",
   "mst": "257357",
   "name": "산림조합법 시행규칙",
+  "payload_law_id": "011466",
   "promulgation_date": "20231221",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9484ebe9c0f349ef"
  },
@@ -102027,6 +102062,8 @@
   "version_signature": "7db61fc665fda2a3"
  },
  "law:eflaw:015039": {
+  "collected_signature": "ef70c4a4edbac92e",
+  "content_hash": "616b81e8ea59abe71ce37b71e36a0039d8795ccb5420c7cc3ae16c09ca91d28b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283123&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "015039",
@@ -102034,11 +102071,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:29:08.845189+00:00",
+  "last_collected_at": "2026-08-23T22:33:43.674301+00:00",
   "ministry": "산림청",
   "mst": "283123",
   "name": "산림재난방지법 시행령",
+  "payload_law_id": "015039",
   "promulgation_date": "20260130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ef70c4a4edbac92e"
  },
