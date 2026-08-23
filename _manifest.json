@@ -7515,6 +7515,8 @@
   "version_signature": "e8cf7feca28c2833"
  },
  "law:eflaw:001293": {
+  "collected_signature": "2b7cc5a2fdf3f874",
+  "content_hash": "6a5b53b4e84fd07817db96b8da65f895ee0fa1c950189b1ca040e690adf9f6fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=238919&type=HTML&mobileYn=&efYd=20220705",
   "doc_domain": "law",
   "doc_id": "001293",
@@ -7522,11 +7524,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220705",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:38.002401+00:00",
+  "last_collected_at": "2026-08-23T15:20:00.768214+00:00",
   "ministry": "대법원",
   "mst": "238919",
   "name": "법관징계법",
+  "payload_law_id": "001293",
   "promulgation_date": "20220104",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2b7cc5a2fdf3f874"
  },
@@ -8285,6 +8290,8 @@
   "version_signature": "5e8455a4b3ad90cd"
  },
  "law:eflaw:001430": {
+  "collected_signature": "bbb441056cb9591e",
+  "content_hash": "c93b1243c009a1ade42564a85249e9b78e23f09e0debefa592f06dfcc8952762",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=204777&type=HTML&mobileYn=&efYd=20181016",
   "doc_domain": "law",
   "doc_id": "001430",
@@ -8292,11 +8299,14 @@
   "doc_type": "법률",
   "enforcement_date": "20181016",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:39.192108+00:00",
+  "last_collected_at": "2026-08-23T15:19:24.077482+00:00",
   "ministry": "법제처,행정안전부",
   "mst": "204777",
   "name": "법령 등 공포에 관한 법률",
+  "payload_law_id": "001430",
   "promulgation_date": "20181016",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bbb441056cb9591e"
  },
@@ -29272,6 +29282,8 @@
   "version_signature": "6ea61f508469b05c"
  },
  "law:eflaw:005795": {
+  "collected_signature": "416082afc468bb46",
+  "content_hash": "87af455601aafe1cbee351256a3815c30ace1e4d2682b98de49ffb1b3bd7b3ea",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=158511&type=HTML&mobileYn=&efYd=20140806",
   "doc_domain": "law",
   "doc_id": "005795",
@@ -29279,15 +29291,20 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20140806",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:37.411185+00:00",
+  "last_collected_at": "2026-08-23T15:18:55.461853+00:00",
   "ministry": "대법원",
   "mst": "158511",
   "name": "법관인사위원회 규칙",
+  "payload_law_id": "005795",
   "promulgation_date": "20140806",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "416082afc468bb46"
  },
  "law:eflaw:005796": {
+  "collected_signature": "271f85c6bcaf386d",
+  "content_hash": "13f2f2b30365c3cb57844944966b1fa1d5ecccae40c58733383e8d3ad9abee8b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=229011&type=HTML&mobileYn=&efYd=20210209",
   "doc_domain": "law",
   "doc_id": "005796",
@@ -29295,11 +29312,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20210209",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:36.420301+00:00",
+  "last_collected_at": "2026-08-23T15:18:59.743978+00:00",
   "ministry": "대법원",
   "mst": "229011",
   "name": "법관징계규칙",
+  "payload_law_id": "005796",
   "promulgation_date": "20210129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "271f85c6bcaf386d"
  },
@@ -59955,6 +59975,8 @@
   "version_signature": "fff1d56713b6aea6"
  },
  "law:eflaw:010721": {
+  "collected_signature": "2ffcfac7ad1e7212",
+  "content_hash": "262b3f485f0b3cf4fcc782764d8c261f2db2f884623b18f3c033c3d486930798",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=86411&type=HTML&mobileYn=&efYd=20080629",
   "doc_domain": "law",
   "doc_id": "010721",
@@ -59962,11 +59984,14 @@
   "doc_type": "법률",
   "enforcement_date": "20080629",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:37.669175+00:00",
+  "last_collected_at": "2026-08-23T15:19:11.982496+00:00",
   "ministry": "법무부",
   "mst": "86411",
   "name": "법교육지원법",
+  "payload_law_id": "010721",
   "promulgation_date": "20080328",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2ffcfac7ad1e7212"
  },
@@ -61236,6 +61261,8 @@
   "version_signature": "392a6fb1eb2800ab"
  },
  "law:eflaw:010835": {
+  "collected_signature": "89f10ec219513402",
+  "content_hash": "595b487271f1efa0b1998c35a13c053e68ee34625d820684e0f03452a0ae12ea",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277655&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010835",
@@ -61243,11 +61270,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:39.325278+00:00",
+  "last_collected_at": "2026-08-23T15:19:30.516304+00:00",
   "ministry": "법무부",
   "mst": "277655",
   "name": "법교육지원법 시행령",
+  "payload_law_id": "010835",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "89f10ec219513402"
  },
@@ -66029,6 +66059,8 @@
   "version_signature": "29d75e74f1025f0b"
  },
  "law:eflaw:011308": {
+  "collected_signature": "e36cb9bdc98366d7",
+  "content_hash": "5869b1155606f91f87b385e6d39a177785f1385b783c991cb42a93f3ac899476",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269593&type=HTML&mobileYn=&efYd=20250228",
   "doc_domain": "law",
   "doc_id": "011308",
@@ -66036,11 +66068,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250228",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:36.928199+00:00",
+  "last_collected_at": "2026-08-23T15:19:46.676270+00:00",
   "ministry": "대법원",
   "mst": "269593",
   "name": "법관인사규칙",
+  "payload_law_id": "011308",
   "promulgation_date": "20250228",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e36cb9bdc98366d7"
  },
@@ -86573,6 +86608,8 @@
   "version_signature": "3bf6d283c94c1788"
  },
  "law:eflaw:013789": {
+  "collected_signature": "a16f79d66afe5dda",
+  "content_hash": "927d5cbaf81095720a6e30988226f9504b094d50c767d8f6a88827a94c3068ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=219403&type=HTML&mobileYn=&efYd=20201210",
   "doc_domain": "law",
   "doc_id": "013789",
@@ -86580,12 +86617,15 @@
   "doc_type": "법률",
   "enforcement_date": "20201210",
   "is_active": true,
+  "last_checked_at": "2026-08-23T15:18:36.195694+00:00",
+  "last_collected_at": "2026-08-23T15:19:14.688067+00:00",
   "ministry": "법제처",
   "mst": "219403",
   "name": "법령정보의 관리 및 제공에 관한 법률",
+  "payload_law_id": "013789",
   "promulgation_date": "20200609",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a16f79d66afe5dda"
  },
  "law:eflaw:013791": {
