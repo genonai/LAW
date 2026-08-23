@@ -2592,6 +2592,8 @@
   "version_signature": "a6dc007ab07d61b1"
  },
  "law:eflaw:000416": {
+  "collected_signature": "24f13667ed3303cf",
+  "content_hash": "0e99df101fa36212c9417ffb6146aa8110d8db43f2e00251a3c8ebd1bf5b6253",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276443&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000416",
@@ -2599,11 +2601,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:53.773281+00:00",
+  "last_collected_at": "2026-08-23T20:26:32.888511+00:00",
   "ministry": "농림축산식품부",
   "mst": "276443",
   "name": "비료관리법",
+  "payload_law_id": "000416",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "24f13667ed3303cf"
  },
@@ -21269,6 +21274,8 @@
   "version_signature": "06879a6fdfbb42f6"
  },
  "law:eflaw:003695": {
+  "collected_signature": "0580f12a470b3332",
+  "content_hash": "6c6b52f180106b10c4f5e110a5358124f791c57f18e040360fd0fcfdaa0d30b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247183&type=HTML&mobileYn=&efYd=20221230",
   "doc_domain": "law",
   "doc_id": "003695",
@@ -21276,11 +21283,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20221230",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:54.395505+00:00",
+  "last_collected_at": "2026-08-23T20:26:47.328618+00:00",
   "ministry": "농림축산식품부",
   "mst": "247183",
   "name": "비료관리법 시행령",
+  "payload_law_id": "003695",
   "promulgation_date": "20221230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0580f12a470b3332"
  },
@@ -38308,6 +38318,8 @@
   "version_signature": "1e137e736b0d1cda"
  },
  "law:eflaw:007307": {
+  "collected_signature": "25a43832366d0925",
+  "content_hash": "6ef078460bfde1b1a8d0331c5e280371db6e7fc6f85e02c9ddd52ec6eb7d5742",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=253689&type=HTML&mobileYn=&efYd=20230807",
   "doc_domain": "law",
   "doc_id": "007307",
@@ -38315,11 +38327,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20230807",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:53.720707+00:00",
+  "last_collected_at": "2026-08-23T20:26:43.230280+00:00",
   "ministry": "농림축산식품부",
   "mst": "253689",
   "name": "비료관리법 시행규칙",
+  "payload_law_id": "007307",
   "promulgation_date": "20230807",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "25a43832366d0925"
  },
@@ -44608,6 +44623,8 @@
   "version_signature": "9c8aec92e64ed4ff"
  },
  "law:eflaw:009189": {
+  "collected_signature": "7e5afdeebde8f3ca",
+  "content_hash": "cd028b17e01073dfa994efbbdfda8dd0593f78ed693583f96a98f5060dc58dbf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283925&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "009189",
@@ -44615,11 +44632,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260310",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:55.693650+00:00",
+  "last_collected_at": "2026-08-23T20:25:30.047633+00:00",
   "ministry": "산업통상부",
   "mst": "283925",
   "name": "불공정무역행위 조사 및 산업피해구제에 관한 법률",
+  "payload_law_id": "009189",
   "promulgation_date": "20260310",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7e5afdeebde8f3ca"
  },
@@ -44825,6 +44845,8 @@
   "version_signature": "af188f569a95461a"
  },
  "law:eflaw:009208": {
+  "collected_signature": "10e462c5885eeb13",
+  "content_hash": "86d737a34687741b27c49bdaa9ae90b1e2a377f6d827686c54c4afe6e3f50df4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281837&type=HTML&mobileYn=&efYd=20260501",
   "doc_domain": "law",
   "doc_id": "009208",
@@ -44832,11 +44854,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260501",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:53.112188+00:00",
+  "last_collected_at": "2026-08-23T20:23:34.974323+00:00",
   "ministry": "산업통상부",
   "mst": "281837",
   "name": "불공정무역행위 조사 및 산업피해구제에 관한 법률 시행령",
+  "payload_law_id": "009208",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "10e462c5885eeb13"
  },
@@ -52303,6 +52328,8 @@
   "version_signature": "ce157305054a776c"
  },
  "law:eflaw:009997": {
+  "collected_signature": "b0f2ef6d5484c16c",
+  "content_hash": "622119861580186158fdf0cea92a51d776067629b8b6063f49b2b1a7557a48b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=232299&type=HTML&mobileYn=&efYd=20220519",
   "doc_domain": "law",
   "doc_id": "009997",
@@ -52310,11 +52337,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220519",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:55.285882+00:00",
+  "last_collected_at": "2026-08-23T20:25:32.903152+00:00",
   "ministry": "법무부",
   "mst": "232299",
   "name": "불법정치자금 등의 몰수에 관한 특례법",
+  "payload_law_id": "009997",
   "promulgation_date": "20210518",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b0f2ef6d5484c16c"
  },
@@ -53622,6 +53652,8 @@
   "version_signature": "ed049925b3171fef"
  },
  "law:eflaw:010104": {
+  "collected_signature": "8a0414a3f39bc025",
+  "content_hash": "defa02d9fe8b04b1309f9fdf29e3717afcc865f178d52c214f315a13cb327102",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228989&type=HTML&mobileYn=&efYd=20210129",
   "doc_domain": "law",
   "doc_id": "010104",
@@ -53629,11 +53661,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20210129",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:56.801938+00:00",
+  "last_collected_at": "2026-08-23T20:25:18.107462+00:00",
   "ministry": "대법원",
   "mst": "228989",
   "name": "불법정치자금 등의 몰수보전 등에 관한 규칙",
+  "payload_law_id": "010104",
   "promulgation_date": "20210129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8a0414a3f39bc025"
  },
@@ -97177,6 +97212,8 @@
   "version_signature": "d8df15a7c11ae49c"
  },
  "law:eflaw:014661": {
+  "collected_signature": "a94d2f2b03cfbc7b",
+  "content_hash": "e9cfcf16748230533727bb41d748b3cb252ccef2579dc41998e08339413d0d21",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286299&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "014661",
@@ -97184,12 +97221,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:20:56.168377+00:00",
+  "last_collected_at": "2026-08-23T20:25:45.509491+00:00",
   "ministry": "기후에너지환경부",
   "mst": "286299",
   "name": "분산에너지 활성화 특별법 시행령",
+  "payload_law_id": "014661",
   "promulgation_date": "20260526",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a94d2f2b03cfbc7b"
  },
  "law:eflaw:014662": {
