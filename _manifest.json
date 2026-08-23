@@ -4636,6 +4636,8 @@
   "version_signature": "f6cab3a5d4d99df9"
  },
  "law:eflaw:000892": {
+  "collected_signature": "085a94d5df91064e",
+  "content_hash": "2da642e4c0b912ea86e325c7e60183bd4f8197962bd2d53b355ef48e0e792857",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=169467&type=HTML&mobileYn=&efYd=20150928",
   "doc_domain": "law",
   "doc_id": "000892",
@@ -4643,11 +4645,14 @@
   "doc_type": "법률",
   "enforcement_date": "20150928",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:33.106016+00:00",
+  "last_collected_at": "2026-08-23T11:02:52.089791+00:00",
   "ministry": "교육부",
   "mst": "169467",
   "name": "독학에 의한 학위취득에 관한 법률",
+  "payload_law_id": "000892",
   "promulgation_date": "20150327",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "085a94d5df91064e"
  },
@@ -9374,6 +9379,8 @@
   "version_signature": "9a26938363738d4d"
  },
  "law:eflaw:001591": {
+  "collected_signature": "032ae04cf1361077",
+  "content_hash": "81556deb7380349ba33855125b07d8c1da25659738e0ef1b2bcb421dc69dc97e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285951&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "001591",
@@ -9381,12 +9388,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:31.834940+00:00",
+  "last_collected_at": "2026-08-23T11:08:18.177956+00:00",
   "ministry": "공정거래위원회",
   "mst": "285951",
   "name": "독점규제 및 공정거래에 관한 법률",
+  "payload_law_id": "001591",
   "promulgation_date": "20260512",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "032ae04cf1361077"
  },
  "law:eflaw:001592": {
@@ -19330,6 +19340,8 @@
   "version_signature": "171012bb38506585"
  },
  "law:eflaw:003440": {
+  "collected_signature": "883137cf076b3beb",
+  "content_hash": "12d36cbadd81b836ebe2a408ae9be4490c1379edc2db2e069b341897a247ed01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284737&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "003440",
@@ -19337,15 +19349,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:31.351071+00:00",
+  "last_collected_at": "2026-08-23T11:09:03.405016+00:00",
   "ministry": "공정거래위원회",
   "mst": "284737",
   "name": "독점규제 및 공정거래에 관한 법률 시행령",
+  "payload_law_id": "003440",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "883137cf076b3beb"
  },
  "law:eflaw:003441": {
+  "collected_signature": "f7bb6f0f83c80664",
+  "content_hash": "605ae882267de611b1af307b41408566a98db6c0c11e01a638d7db0557b68ce0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=175171&type=HTML&mobileYn=&efYd=20150928",
   "doc_domain": "law",
   "doc_id": "003441",
@@ -19353,11 +19370,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20150928",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:29.936602+00:00",
+  "last_collected_at": "2026-08-23T11:03:17.252222+00:00",
   "ministry": "교육부",
   "mst": "175171",
   "name": "독학에 의한 학위취득에 관한 법률 시행령",
+  "payload_law_id": "003441",
   "promulgation_date": "20150925",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f7bb6f0f83c80664"
  },
@@ -36060,6 +36080,8 @@
   "version_signature": "397839463ea5bbfe"
  },
  "law:eflaw:007112": {
+  "collected_signature": "3aad93b5d0ceed7f",
+  "content_hash": "4140c91f7c8ba6e01bd050d23981ff4e2c8ae62ada92704d2417469aaee9b1ce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257907&type=HTML&mobileYn=&efYd=20231229",
   "doc_domain": "law",
   "doc_id": "007112",
@@ -36067,11 +36089,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20231229",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:30.627927+00:00",
+  "last_collected_at": "2026-08-23T11:02:57.900656+00:00",
   "ministry": "교육부",
   "mst": "257907",
   "name": "독학에 의한 학위취득에 관한 법률 시행규칙",
+  "payload_law_id": "007112",
   "promulgation_date": "20231229",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3aad93b5d0ceed7f"
  },
@@ -54724,6 +54749,8 @@
   "version_signature": "4cb83a0ee7e2ba9a"
  },
  "law:eflaw:010360": {
+  "collected_signature": "7cb4c8f1429b38bf",
+  "content_hash": "e1276fa8af68b9f25a11f281453139a1ea040ce142de91388d2e17530146cf26",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284075&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "010360",
@@ -54731,11 +54758,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:30.692214+00:00",
+  "last_collected_at": "2026-08-23T11:02:48.196591+00:00",
   "ministry": "문화체육관광부",
   "mst": "284075",
   "name": "독서문화진흥법",
+  "payload_law_id": "010360",
   "promulgation_date": "20260305",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7cb4c8f1429b38bf"
  },
@@ -55476,6 +55506,8 @@
   "version_signature": "6ac1397961405feb"
  },
  "law:eflaw:010418": {
+  "collected_signature": "5bb58293f95eaee3",
+  "content_hash": "d083f79c6a34bfb6ef4b6957f547869d0e59763e0db166fe70e772ce4ae0dff5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287295&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "010418",
@@ -55483,11 +55515,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:31.791573+00:00",
+  "last_collected_at": "2026-08-23T11:02:33.704036+00:00",
   "ministry": "문화체육관광부",
   "mst": "287295",
   "name": "독서문화진흥법 시행령",
+  "payload_law_id": "010418",
   "promulgation_date": "20260623",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5bb58293f95eaee3"
  },
@@ -100171,6 +100206,8 @@
   "version_signature": "e74950a0362586c2"
  },
  "law:eflaw:015183": {
+  "collected_signature": "4ba71f7d27daee4f",
+  "content_hash": "4c64b4155d3bd18d7d578c1a3a54765ebf17743ce9296203f31acd74a0822a49",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288631&type=HTML&mobileYn=&efYd=20260805",
   "doc_domain": "law",
   "doc_id": "015183",
@@ -100178,11 +100215,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260805",
   "is_active": true,
+  "last_checked_at": "2026-08-23T10:59:30.111159+00:00",
+  "last_collected_at": "2026-08-23T10:59:34.754934+00:00",
   "ministry": "재정경제부",
   "mst": "288631",
   "name": "독일ㆍ프랑스ㆍ노르웨이 및 스웨덴산 폴리염화비닐 페이스트 수지에 대한 덤핑방지관세 부과에 관한 규칙",
+  "payload_law_id": "015183",
   "promulgation_date": "20260805",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4ba71f7d27daee4f"
  },
