@@ -6349,6 +6349,8 @@
   "version_signature": "91eac52c78cef467"
  },
  "law:eflaw:001141": {
+  "collected_signature": "fe07d0d12485fac7",
+  "content_hash": "afeddb293515b7f43042c891884d90b13e666a554f0f71cdf5d2b99bce501e81",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=149553&type=HTML&mobileYn=&efYd=20140107",
   "doc_domain": "law",
   "doc_id": "001141",
@@ -6356,11 +6358,14 @@
   "doc_type": "법률",
   "enforcement_date": "20140107",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:07.966027+00:00",
+  "last_collected_at": "2026-08-23T20:32:12.850847+00:00",
   "ministry": "법무부",
   "mst": "149553",
   "name": "비영리법인의 임원 처벌에 관한 법률",
+  "payload_law_id": "001141",
   "promulgation_date": "20140107",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fe07d0d12485fac7"
  },
@@ -13247,6 +13252,8 @@
   "version_signature": "b564b714bb5681ed"
  },
  "law:eflaw:002031": {
+  "collected_signature": "788e0e2737c7fcd4",
+  "content_hash": "ffed3fbcd4f25c93ac129eae84c876a33871b946ae6c59f018e2ef6c941e143e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=241935&type=HTML&mobileYn=&efYd=20230427",
   "doc_domain": "law",
   "doc_id": "002031",
@@ -13254,11 +13261,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230427",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:08.275666+00:00",
+  "last_collected_at": "2026-08-23T20:33:40.963209+00:00",
   "ministry": "행정안전부",
   "mst": "241935",
   "name": "비영리민간단체 지원법",
+  "payload_law_id": "002031",
   "promulgation_date": "20220426",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "788e0e2737c7fcd4"
  },
@@ -21326,6 +21336,8 @@
   "version_signature": "1787932c9d4a696a"
  },
  "law:eflaw:003710": {
+  "collected_signature": "28a5672bfb1a91ab",
+  "content_hash": "4f987ac2ee79423ecdf791c6bf28285ac8cbc823e5df13d1a630e10534549de1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283999&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "003710",
@@ -21333,11 +21345,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260310",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:06.948874+00:00",
+  "last_collected_at": "2026-08-23T20:32:56.262582+00:00",
   "ministry": "행정안전부",
   "mst": "283999",
   "name": "비영리민간단체 지원법 시행령",
+  "payload_law_id": "003710",
   "promulgation_date": "20260310",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "28a5672bfb1a91ab"
  },
@@ -51691,6 +51706,8 @@
   "version_signature": "86a35372a7ddb6f1"
  },
  "law:eflaw:009926": {
+  "collected_signature": "f50b27a86c1bec2b",
+  "content_hash": "de85086d3fb4e93e2e1f7c5ae406c812c293394f952ada0348a330960934e15d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=231655&type=HTML&mobileYn=&efYd=20220421",
   "doc_domain": "law",
   "doc_id": "009926",
@@ -51698,11 +51715,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220421",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:08.674710+00:00",
+  "last_collected_at": "2026-08-23T20:33:39.605042+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "231655",
   "name": "비파괴검사기술의 진흥 및 관리에 관한 법률",
+  "payload_law_id": "009926",
   "promulgation_date": "20210420",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f50b27a86c1bec2b"
  },
@@ -54117,6 +54137,8 @@
   "version_signature": "95e9e3dd4ea269fc"
  },
  "law:eflaw:010158": {
+  "collected_signature": "5e9257c12231af2c",
+  "content_hash": "33db59109cca87d9f1e05649ac060b27f6cf4d922a03750e60d31fd51a05af46",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283227&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "010158",
@@ -54124,15 +54146,20 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:08.941477+00:00",
+  "last_collected_at": "2026-08-23T20:33:47.172962+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "283227",
   "name": "비파괴검사기술의 진흥 및 관리에 관한 법률 시행규칙",
+  "payload_law_id": "010158",
   "promulgation_date": "20260130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5e9257c12231af2c"
  },
  "law:eflaw:010159": {
+  "collected_signature": "b5133e76469bbeb8",
+  "content_hash": "21e22170f7c2d5d6fadf39e4ebabf58632a49c4eb7fd8900dbc55bc899d3b450",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282963&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "010159",
@@ -54140,11 +54167,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:10.069312+00:00",
+  "last_collected_at": "2026-08-23T20:33:58.332315+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "282963",
   "name": "비파괴검사기술의 진흥 및 관리에 관한 법률 시행령",
+  "payload_law_id": "010159",
   "promulgation_date": "20260127",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b5133e76469bbeb8"
  },
@@ -78342,6 +78372,8 @@
   "version_signature": "51686dc1eddbd9eb"
  },
  "law:eflaw:012351": {
+  "collected_signature": "943a659c484468df",
+  "content_hash": "6066ccf33cca2df275f046f85fc9d0d9a665e8b9b0b9d2e08b73d84899f4f08c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=250631&type=HTML&mobileYn=&efYd=20230501",
   "doc_domain": "law",
   "doc_id": "012351",
@@ -78349,11 +78381,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20230501",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:10.153222+00:00",
+  "last_collected_at": "2026-08-23T20:33:16.544164+00:00",
   "ministry": "행정안전부",
   "mst": "250631",
   "name": "비영리민간단체 지원법 시행규칙",
+  "payload_law_id": "012351",
   "promulgation_date": "20230501",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "943a659c484468df"
  },
@@ -81909,6 +81944,8 @@
   "version_signature": "88feee0cbeff8ee9"
  },
  "law:eflaw:012805": {
+  "collected_signature": "77576958d4cbc53e",
+  "content_hash": "1aae14fac0ca85440d5cfc9d2ff48fc0508d0a86b0649ce3b826e64d0121dca9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284083&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012805",
@@ -81916,12 +81953,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T20:32:06.748801+00:00",
+  "last_collected_at": "2026-08-23T20:37:18.836603+00:00",
   "ministry": "국토교통부",
   "mst": "284083",
   "name": "빈집 및 소규모주택 정비에 관한 특례법",
+  "payload_law_id": "012805",
   "promulgation_date": "20260305",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "77576958d4cbc53e"
  },
  "law:eflaw:012810": {
