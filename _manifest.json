@@ -2420,6 +2420,8 @@
   "version_signature": "c48382ae50a194b3"
  },
  "law:eflaw:000409": {
+  "collected_signature": "8ca04948fd11c298",
+  "content_hash": "bf7209cd0cd5464e925783cca5dbd8f02638a29656ce13033f3ef8951272d3a3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214351&type=HTML&mobileYn=&efYd=20210101",
   "doc_domain": "law",
   "doc_id": "000409",
@@ -2427,11 +2429,14 @@
   "doc_type": "법률",
   "enforcement_date": "20210101",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:26.978035+00:00",
+  "last_collected_at": "2026-08-23T04:09:16.962991+00:00",
   "ministry": "농림축산식품부",
   "mst": "214351",
   "name": "낙농진흥법",
+  "payload_law_id": "000409",
   "promulgation_date": "20200218",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8ca04948fd11c298"
  },
@@ -17582,6 +17587,8 @@
   "version_signature": "cea09971209777cb"
  },
  "law:eflaw:003136": {
+  "collected_signature": "dcc4909997b31a9d",
+  "content_hash": "a6e6e492297c56104c8882b308c8bdf5d1342b3ada42f8e7691289090280e997",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=168725&type=HTML&mobileYn=&efYd=20150223",
   "doc_domain": "law",
   "doc_id": "003136",
@@ -17589,11 +17596,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20150223",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:29.302144+00:00",
+  "last_collected_at": "2026-08-23T04:11:50.822210+00:00",
   "ministry": "농림축산식품부",
   "mst": "168725",
   "name": "낙농진흥법시행령",
+  "payload_law_id": "003136",
   "promulgation_date": "20150223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dcc4909997b31a9d"
  },
@@ -34193,6 +34203,8 @@
   "version_signature": "f3e23e32bd00f88e"
  },
  "law:eflaw:006907": {
+  "collected_signature": "62d080495c11960f",
+  "content_hash": "9799cd8a3e492bd80754622fd3a192bd11bac4fd644aad7611fb1e478c17b2aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=190822&type=HTML&mobileYn=&efYd=20170102",
   "doc_domain": "law",
   "doc_id": "006907",
@@ -34200,11 +34212,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20170102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:29.644767+00:00",
+  "last_collected_at": "2026-08-23T04:11:42.567697+00:00",
   "ministry": "농림축산식품부",
   "mst": "190822",
   "name": "낙농진흥법 시행규칙",
+  "payload_law_id": "006907",
   "promulgation_date": "20170102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "62d080495c11960f"
  },
@@ -43200,6 +43215,8 @@
   "version_signature": "5926e24fccbba2d8"
  },
  "law:eflaw:009282": {
+  "collected_signature": "76522c60901a37bc",
+  "content_hash": "7891de7ffeca819d43f1b16b0c676b0af9dc38b551552565f579a304d89318c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276707&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009282",
@@ -43207,11 +43224,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:27.697572+00:00",
+  "last_collected_at": "2026-08-23T04:17:04.966575+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276707",
   "name": "낙동강수계 물관리 및 주민지원 등에 관한 법률",
+  "payload_law_id": "009282",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "76522c60901a37bc"
  },
@@ -43496,6 +43516,8 @@
   "version_signature": "c3a92187653076d7"
  },
  "law:eflaw:009311": {
+  "collected_signature": "5db268153535d1f0",
+  "content_hash": "dccc00e6fcf17cd5336cb1fa75b9479178e7d869f9c9cb03935c19351ea5c293",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=262929&type=HTML&mobileYn=&efYd=20240608",
   "doc_domain": "law",
   "doc_id": "009311",
@@ -43503,11 +43525,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240608",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:29.469400+00:00",
+  "last_collected_at": "2026-08-23T04:13:09.355567+00:00",
   "ministry": "기후에너지환경부",
   "mst": "262929",
   "name": "낙동강수계관리위원회규정",
+  "payload_law_id": "009311",
   "promulgation_date": "20240604",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5db268153535d1f0"
  },
@@ -43656,6 +43681,8 @@
   "version_signature": "ee8ae8508c619014"
  },
  "law:eflaw:009334": {
+  "collected_signature": "925e505fd790a362",
+  "content_hash": "dd4bd03b31ce2ecba53ed3f8d3a1826b54fef55114edf109c3be9d5057df37d6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288405&type=HTML&mobileYn=&efYd=20260728",
   "doc_domain": "law",
   "doc_id": "009334",
@@ -43663,12 +43690,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260728",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:28.884483+00:00",
+  "last_collected_at": "2026-08-23T04:15:31.422233+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288405",
   "name": "낙동강수계 물관리 및 주민지원 등에 관한 법률 시행령",
+  "payload_law_id": "009334",
   "promulgation_date": "20260728",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "925e505fd790a362"
  },
  "law:eflaw:009335": {
@@ -43746,6 +43776,8 @@
   "version_signature": "7bc2a5832dcc5136"
  },
  "law:eflaw:009340": {
+  "collected_signature": "41efc24fa028eca8",
+  "content_hash": "2198e06a292434683f26b511063c53b5f6449c6e17158d27bfa03331ab973999",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282043&type=HTML&mobileYn=&efYd=20251226",
   "doc_domain": "law",
   "doc_id": "009340",
@@ -43753,11 +43785,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20251226",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:27.763394+00:00",
+  "last_collected_at": "2026-08-23T04:14:33.762449+00:00",
   "ministry": "기후에너지환경부",
   "mst": "282043",
   "name": "낙동강수계 물관리 및 주민지원 등에 관한 법률 시행규칙",
+  "payload_law_id": "009340",
   "promulgation_date": "20251226",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "41efc24fa028eca8"
  },
@@ -64059,6 +64094,8 @@
   "version_signature": "08c995065fb55cf7"
  },
  "law:eflaw:011350": {
+  "collected_signature": "40d56c371fada896",
+  "content_hash": "a7664fdaea98f3363da4cac4ec10756e883d8a2505c49695fbe112009926db28",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267435&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "011350",
@@ -64066,11 +64103,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-23T04:08:26.853657+00:00",
+  "last_collected_at": "2026-08-23T04:14:11.767779+00:00",
   "ministry": "해양수산부",
   "mst": "267435",
   "name": "낚시 관리 및 육성법",
+  "payload_law_id": "011350",
   "promulgation_date": "20241220",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "40d56c371fada896"
  },
