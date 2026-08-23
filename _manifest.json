@@ -6305,6 +6305,8 @@
   "version_signature": "b04fd71372f7af02"
  },
  "law:eflaw:001148": {
+  "collected_signature": "401eefed03be2c5f",
+  "content_hash": "50d369068e792e9c1917286cc6088963b332d1562ec1dfbe0476b76025de4100",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=205811&type=HTML&mobileYn=&efYd=20181218",
   "doc_domain": "law",
   "doc_id": "001148",
@@ -6312,11 +6314,14 @@
   "doc_type": "법률",
   "enforcement_date": "20181218",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:30.494388+00:00",
+  "last_collected_at": "2026-08-23T12:23:08.802131+00:00",
   "ministry": "법무부",
   "mst": "205811",
   "name": "몰수금품 등 처리에 관한 임시특례법",
+  "payload_law_id": "001148",
   "promulgation_date": "20181218",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "401eefed03be2c5f"
  },
@@ -12803,6 +12808,8 @@
   "version_signature": "b0cc3cc29ddad9b5"
  },
  "law:eflaw:002026": {
+  "collected_signature": "77a0584ef5307f56",
+  "content_hash": "88b8789562df3d8304870f1d618444608657d307083f93bc2ada6b462e967151",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276499&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "002026",
@@ -12810,11 +12817,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:27.208016+00:00",
+  "last_collected_at": "2026-08-23T12:21:24.692746+00:00",
   "ministry": "산업통상부",
   "mst": "276499",
   "name": "무역거래기반 조성에 관한 법률",
+  "payload_law_id": "002026",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "77a0584ef5307f56"
  },
@@ -19580,6 +19590,8 @@
   "version_signature": "db8f4fa6bc059414"
  },
  "law:eflaw:003476": {
+  "collected_signature": "5083f002f7a1cfd6",
+  "content_hash": "6604ec785773ba05786d3c168e29fc90799876588d15930706bde52c7a9a3d6f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272453&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "003476",
@@ -19587,11 +19599,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:28.655942+00:00",
+  "last_collected_at": "2026-08-23T12:24:23.351929+00:00",
   "ministry": "보건복지부",
   "mst": "272453",
   "name": "모자보건법 시행령",
+  "payload_law_id": "003476",
   "promulgation_date": "20250620",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5083f002f7a1cfd6"
  },
@@ -19612,6 +19627,8 @@
   "version_signature": "8cf7648b6f39e148"
  },
  "law:eflaw:003481": {
+  "collected_signature": "6cffd66af68a9187",
+  "content_hash": "4cb354a62f50c2b56f369a0e63e5b093e1abbeeedcb4ede41198fbba4406663a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243619&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "003481",
@@ -19619,11 +19636,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20220701",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:28.763980+00:00",
+  "last_collected_at": "2026-08-23T12:22:25.011491+00:00",
   "ministry": "법무부",
   "mst": "243619",
   "name": "몰수금품등처리에관한임시특례법시행령",
+  "payload_law_id": "003481",
   "promulgation_date": "20220630",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6cffd66af68a9187"
  },
@@ -69180,6 +69200,8 @@
   "version_signature": "e9b7ee199e8976c9"
  },
  "law:eflaw:011620": {
+  "collected_signature": "93119c32287c2e2c",
+  "content_hash": "5b7fc1cb87b2b58aebce04fa88bef157b4e574596e2289f2acbb668dfa6aba2b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259037&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "011620",
@@ -69187,12 +69209,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:30.860267+00:00",
+  "last_collected_at": "2026-08-23T12:23:51.231748+00:00",
   "ministry": "산림청",
   "mst": "259037",
   "name": "목재의 지속가능한 이용에 관한 법률",
+  "payload_law_id": "011620",
   "promulgation_date": "20240123",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "93119c32287c2e2c"
  },
  "law:eflaw:011621": {
@@ -71481,6 +71506,8 @@
   "version_signature": "449d9ab8af33e5c1"
  },
  "law:eflaw:011860": {
+  "collected_signature": "0aaf5978ee145973",
+  "content_hash": "1ff391d317046a7f36833ec9b84afbb6c3eba0da6dfa0c789eedb49586e7ba00",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286135&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "011860",
@@ -71488,15 +71515,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:30.228339+00:00",
+  "last_collected_at": "2026-08-23T12:23:56.730794+00:00",
   "ministry": "산림청",
   "mst": "286135",
   "name": "목재의 지속가능한 이용에 관한 법률 시행령",
+  "payload_law_id": "011860",
   "promulgation_date": "20260519",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0aaf5978ee145973"
  },
  "law:eflaw:011863": {
+  "collected_signature": "dd62a7c7cacbbc4c",
+  "content_hash": "ad8f5e3e24d62cf943aa9012a92c4a90f24d9b3e37841b4729ca19716da85377",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285847&type=HTML&mobileYn=&efYd=20260506",
   "doc_domain": "law",
   "doc_id": "011863",
@@ -71504,11 +71536,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20260506",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:28.048916+00:00",
+  "last_collected_at": "2026-08-23T12:24:08.516867+00:00",
   "ministry": "산림청",
   "mst": "285847",
   "name": "목재의 지속가능한 이용에 관한 법률 시행규칙",
+  "payload_law_id": "011863",
   "promulgation_date": "20260506",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd62a7c7cacbbc4c"
  },
@@ -78994,6 +79029,8 @@
   "version_signature": "1a94bb96569295e0"
  },
  "law:eflaw:012646": {
+  "collected_signature": "e8ce5e8124de21af",
+  "content_hash": "e08b7b14f27e6c3d4182450713fb3930f0e0f372265d4bba96f8d00569063b2c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239167&type=HTML&mobileYn=&efYd=20220104",
   "doc_domain": "law",
   "doc_id": "012646",
@@ -79001,11 +79038,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20220104",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:19:29.055203+00:00",
+  "last_collected_at": "2026-08-23T12:23:05.485387+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "239167",
   "name": "무선설비규칙",
+  "payload_law_id": "012646",
   "promulgation_date": "20220104",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e8ce5e8124de21af"
  },
