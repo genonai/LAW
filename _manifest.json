@@ -2692,6 +2692,8 @@
   "version_signature": "7ca10e5bd2b2cc54"
  },
  "law:eflaw:000506": {
+  "collected_signature": "ba52d7f319eb8a8d",
+  "content_hash": "af4281dd622054df07fc6baf8fd394370ee49bc0fc35dbd93c4c20eec4ff1c07",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277111&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000506",
@@ -2699,12 +2701,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:43.538169+00:00",
+  "last_collected_at": "2026-08-23T03:22:42.522627+00:00",
   "ministry": "중소벤처기업부",
   "mst": "277111",
   "name": "기술보증기금법",
+  "payload_law_id": "000506",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "ba52d7f319eb8a8d"
  },
  "law:eflaw:000507": {
@@ -3578,6 +3583,8 @@
   "version_signature": "a4d97a463af0b682"
  },
  "law:eflaw:000755": {
+  "collected_signature": "b5210d6097e52c98",
+  "content_hash": "92e0e4c0f3cc855f249529438ef6f66ecb52cbc1d9af65811eb3bbd992351efe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=234749&type=HTML&mobileYn=&efYd=20220218",
   "doc_domain": "law",
   "doc_id": "000755",
@@ -3585,11 +3592,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220218",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:42.315985+00:00",
+  "last_collected_at": "2026-08-23T03:22:46.894694+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "234749",
   "name": "기술사법",
+  "payload_law_id": "000755",
   "promulgation_date": "20210817",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b5210d6097e52c98"
  },
@@ -17415,6 +17425,8 @@
   "version_signature": "aeeed5217e752c75"
  },
  "law:eflaw:003116": {
+  "collected_signature": "a3fd47abdbc2f776",
+  "content_hash": "0fddf8dbcc6a7af0d2bfcc52cc8a79bcfe7e4b507456e3ce182cc4b8366f20af",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278213&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003116",
@@ -17422,11 +17434,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:43.580289+00:00",
+  "last_collected_at": "2026-08-23T03:24:24.298143+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "278213",
   "name": "기술사법 시행령",
+  "payload_law_id": "003116",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a3fd47abdbc2f776"
  },
@@ -21413,6 +21428,8 @@
   "version_signature": "91179b0cbb1c85e6"
  },
  "law:eflaw:004100": {
+  "collected_signature": "d2e186f13ac3ef0b",
+  "content_hash": "486324cd1abdfda34b611fe232f6401be824f3e006ef0136ddcfa27b4e37ae24",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268355&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "004100",
@@ -21420,12 +21437,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:41.270820+00:00",
+  "last_collected_at": "2026-08-23T03:23:23.471505+00:00",
   "ministry": "중소벤처기업부",
   "mst": "268355",
   "name": "기술보증기금법 시행령",
+  "payload_law_id": "004100",
   "promulgation_date": "20250121",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d2e186f13ac3ef0b"
  },
  "law:eflaw:004104": {
@@ -27603,6 +27623,8 @@
   "version_signature": "ab0b44859e3bcb27"
  },
  "law:eflaw:005732": {
+  "collected_signature": "596288764732720b",
+  "content_hash": "19b47b1532120a52ca04533bca2834eb9f2b69ce56e4edf209189913e78b165c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=181261&type=HTML&mobileYn=&efYd=20160301",
   "doc_domain": "law",
   "doc_id": "005732",
@@ -27610,11 +27632,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20160301",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:40.011228+00:00",
+  "last_collected_at": "2026-08-23T03:20:51.645169+00:00",
   "ministry": "대법원",
   "mst": "181261",
   "name": "기술심리관규칙",
+  "payload_law_id": "005732",
   "promulgation_date": "20160219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "596288764732720b"
  },
@@ -34018,6 +34043,8 @@
   "version_signature": "2404ffef8ed76430"
  },
  "law:eflaw:006886": {
+  "collected_signature": "8495a0079b51ba5d",
+  "content_hash": "cb567fc9788c203f55b069bed808ef06acdb76327945106d98fc52f33de9bfa6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=137529&type=HTML&mobileYn=&efYd=20130323",
   "doc_domain": "law",
   "doc_id": "006886",
@@ -34025,15 +34052,20 @@
   "doc_type": "교육부령",
   "enforcement_date": "20130323",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:41.209124+00:00",
+  "last_collected_at": "2026-08-23T03:21:05.737497+00:00",
   "ministry": "교육부",
   "mst": "137529",
   "name": "기술대학설립ㆍ운영규정시행규칙",
+  "payload_law_id": "006886",
   "promulgation_date": "20130323",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8495a0079b51ba5d"
  },
  "law:eflaw:006888": {
+  "collected_signature": "d42d628aa3ca0167",
+  "content_hash": "5b0038fc57c3e42744ffe3052a0e84f8ea3e52131a2b76506d9331661fe8fce8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239165&type=HTML&mobileYn=&efYd=20220104",
   "doc_domain": "law",
   "doc_id": "006888",
@@ -34041,11 +34073,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20220104",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:42.948592+00:00",
+  "last_collected_at": "2026-08-23T03:22:22.499149+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "239165",
   "name": "기술사법 시행규칙",
+  "payload_law_id": "006888",
   "promulgation_date": "20220104",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d42d628aa3ca0167"
  },
@@ -37371,6 +37406,8 @@
   "version_signature": "c889f9d94548b727"
  },
  "law:eflaw:007639": {
+  "collected_signature": "11c3ae3fbc6a1e3b",
+  "content_hash": "0ebe93ce087120d8a96752003914920a7914a83fb7831c920a0322a8a43784e3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=233459&type=HTML&mobileYn=&efYd=20210624",
   "doc_domain": "law",
   "doc_id": "007639",
@@ -37378,11 +37415,14 @@
   "doc_type": "중소벤처기업부령",
   "enforcement_date": "20210624",
   "is_active": true,
+  "last_checked_at": "2026-08-23T03:20:40.705884+00:00",
+  "last_collected_at": "2026-08-23T03:23:01.507275+00:00",
   "ministry": "중소벤처기업부",
   "mst": "233459",
   "name": "기술보증기금법 시행규칙",
+  "payload_law_id": "007639",
   "promulgation_date": "20210624",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "11c3ae3fbc6a1e3b"
  },
