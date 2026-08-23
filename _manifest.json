@@ -3099,6 +3099,8 @@
   "version_signature": "ad2c59646f6fe0c8"
  },
  "law:eflaw:000593": {
+  "collected_signature": "670f6d87ce4edf3d",
+  "content_hash": "c8741f28b1abd7043c40dfb14affe3b6f0a672e3516d1e506eff2cf5d13a71bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267531&type=HTML&mobileYn=&efYd=20250101",
   "doc_domain": "law",
   "doc_id": "000593",
@@ -3106,12 +3108,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250101",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:14.020033+00:00",
+  "last_collected_at": "2026-08-23T08:39:46.374956+00:00",
   "ministry": "재정경제부",
   "mst": "267531",
   "name": "대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국군대의 지위에 관한 협정의 실시에 따른 관세법 등의 임시특례에 관한 법률",
+  "payload_law_id": "000593",
   "promulgation_date": "20241231",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "670f6d87ce4edf3d"
  },
  "law:eflaw:000595": {
@@ -4904,6 +4909,8 @@
   "version_signature": "2d42f9a8943104b0"
  },
  "law:eflaw:000929": {
+  "collected_signature": null,
+  "content_hash": "7f1dd0c1ae626836da864b0efddf3f19aa727707461221e1bc5078e0d5492864",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276307&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000929",
@@ -4911,11 +4918,16 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:14.417957+00:00",
+  "last_collected_at": "2026-08-23T08:39:13.837849+00:00",
+  "last_git_error": "[Errno 36] File name too long: '/root/law_ai/data/LAW/대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 따른 국가 및 지방자치단체의 재산의 관리와 처분에 관한 법률'",
+  "last_git_error_at": "2026-08-23T08:39:15.986958+00:00",
   "ministry": "국방부",
   "mst": "276307",
   "name": "대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 따른 국가 및 지방자치단체의 재산의 관리와 처분에 관한 법률",
+  "payload_law_id": "000929",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "714001707dd32ab3"
  },
@@ -5863,6 +5875,8 @@
   "version_signature": "d24b2a9d8b264abc"
  },
  "law:eflaw:001116": {
+  "collected_signature": "63d5cdaed8f83895",
+  "content_hash": "b66f802df4dde087ed297aebdfec3525176977c36454cb8d056241e4b6714bcf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=112382&type=HTML&mobileYn=&efYd=20110414",
   "doc_domain": "law",
   "doc_id": "001116",
@@ -5870,11 +5884,14 @@
   "doc_type": "법률",
   "enforcement_date": "20110414",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:14.212705+00:00",
+  "last_collected_at": "2026-08-23T08:39:05.043521+00:00",
   "ministry": "법무부",
   "mst": "112382",
   "name": "대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 관한 형사특별법",
+  "payload_law_id": "001116",
   "promulgation_date": "20110414",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "63d5cdaed8f83895"
  },
@@ -6855,6 +6872,8 @@
   "version_signature": "11a07d7b12a7a6bb"
  },
  "law:eflaw:001241": {
+  "collected_signature": "4d1a42e549529c5f",
+  "content_hash": "3e7736e0652b896bfbc29b30322c90394fdbc03b80f32949de834a1a31c462c9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=91501&type=HTML&mobileYn=&efYd=20090130",
   "doc_domain": "law",
   "doc_id": "001241",
@@ -6862,11 +6881,14 @@
   "doc_type": "법률",
   "enforcement_date": "20090130",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:13.143817+00:00",
+  "last_collected_at": "2026-08-23T08:39:17.411796+00:00",
   "ministry": "법무부",
   "mst": "91501",
   "name": "대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 관한 민사특별법",
+  "payload_law_id": "001241",
   "promulgation_date": "20090130",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4d1a42e549529c5f"
  },
@@ -18778,11 +18800,13 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170330",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:13.218819+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "법무부",
   "mst": "192768",
   "name": "대한민국과아메리카합중국간의상호방위조약제4조에의한시설과구역및대한민국에서의합중국군대의지위에관한협정의시행에관한민사특별법시행령",
   "promulgation_date": "20170327",
-  "status": "pending",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "64fbc91e68dc87ea"
  },
@@ -54601,6 +54625,8 @@
   "version_signature": "37f0815b14b846a4"
  },
  "law:eflaw:010381": {
+  "collected_signature": "7eaba01916bcb4b5",
+  "content_hash": "f752f9cf0c48ee1e8dabee02c6c5d2d7e0005a236fcad0cf51c92eb5ad0bf087",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=150692&type=HTML&mobileYn=&efYd=20140128",
   "doc_domain": "law",
   "doc_id": "010381",
@@ -54608,11 +54634,14 @@
   "doc_type": "법률",
   "enforcement_date": "20140128",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:11.860452+00:00",
+  "last_collected_at": "2026-08-23T08:38:30.819973+00:00",
   "ministry": "행정안전부",
   "mst": "150692",
   "name": "대한민국국기법",
+  "payload_law_id": "010381",
   "promulgation_date": "20140128",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7eaba01916bcb4b5"
  },
@@ -66806,6 +66835,8 @@
   "version_signature": "663ff28c541ea6fc"
  },
  "law:eflaw:011496": {
+  "collected_signature": "00ab2728877a38b9",
+  "content_hash": "df9528eea53f4d3cb2680f3925ca0054ac47ece471da60554bdc3f19bd2fa929",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=193039&type=HTML&mobileYn=&efYd=20170330",
   "doc_domain": "law",
   "doc_id": "011496",
@@ -66813,11 +66844,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20170330",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:12.002271+00:00",
+  "last_collected_at": "2026-08-23T08:38:22.317033+00:00",
   "ministry": "법무부",
   "mst": "193039",
   "name": "대한민국과 아메리카합중국 간의 상호방위조약 제4조에 의한 시설과 구역 및 대한민국에서의 합중국 군대의 지위에 관한 협정의 시행에 관한 민사특별법 시행규칙",
+  "payload_law_id": "011496",
   "promulgation_date": "20170330",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "00ab2728877a38b9"
  },
@@ -99253,6 +99287,8 @@
   "version_signature": "b4848f94d45d8df0"
  },
  "law:eflaw:015153": {
+  "collected_signature": "a7428038b0be5a5e",
+  "content_hash": "a462ea55608c1017352498a7208e0b2dffe5ace467eb8ce405bcdad37ff00dbd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287007&type=HTML&mobileYn=&efYd=20260618",
   "doc_domain": "law",
   "doc_id": "015153",
@@ -99260,11 +99296,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260618",
   "is_active": true,
+  "last_checked_at": "2026-08-23T08:38:12.652167+00:00",
+  "last_collected_at": "2026-08-23T08:39:01.920252+00:00",
   "ministry": "재정경제부",
   "mst": "287007",
   "name": "대한민국과 미합중국 간 전략적투자의 운영 및 관리를 위한 특별법 시행령",
+  "payload_law_id": "015153",
   "promulgation_date": "20260616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a7428038b0be5a5e"
  },
