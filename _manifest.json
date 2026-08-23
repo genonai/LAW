@@ -4189,6 +4189,8 @@
   "version_signature": "ac03a0b52904c2dd"
  },
  "law:eflaw:000836": {
+  "collected_signature": "5871bcec9600e932",
+  "content_hash": "388c9e85ce56b836c9641ebdb3f0758febd3b4458f1b2cd83d6d3a218e3f8232",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279667&type=HTML&mobileYn=&efYd=20251111",
   "doc_domain": "law",
   "doc_id": "000836",
@@ -4196,11 +4198,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251111",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:54.815258+00:00",
+  "last_collected_at": "2026-08-23T12:41:38.597657+00:00",
   "ministry": "문화체육관광부",
   "mst": "279667",
   "name": "문화예술진흥법",
+  "payload_law_id": "000836",
   "promulgation_date": "20251111",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5871bcec9600e932"
  },
@@ -19716,6 +19721,8 @@
   "version_signature": "43e3be26c27a0a0e"
  },
  "law:eflaw:003501": {
+  "collected_signature": "dfb2c5776213a8ee",
+  "content_hash": "53363d6f50c4f3c18a3b5dfc7b46068008081b17a7d3127561db486f38ae762d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284741&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "003501",
@@ -19723,11 +19730,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:53.706012+00:00",
+  "last_collected_at": "2026-08-23T12:42:51.450393+00:00",
   "ministry": "문화체육관광부",
   "mst": "284741",
   "name": "문화예술진흥법 시행령",
+  "payload_law_id": "003501",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dfb2c5776213a8ee"
  },
@@ -52152,6 +52162,8 @@
   "version_signature": "3aad7227809eedf5"
  },
  "law:eflaw:010085": {
+  "collected_signature": "5d187cb72cb84704",
+  "content_hash": "cc5b694fd07110328e9ae55129b59a00b44c67715896c6191958faee3bfce75b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265895&type=HTML&mobileYn=&efYd=20241022",
   "doc_domain": "law",
   "doc_id": "010085",
@@ -52159,11 +52171,14 @@
   "doc_type": "법률",
   "enforcement_date": "20241022",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:53.147437+00:00",
+  "last_collected_at": "2026-08-23T12:40:23.380955+00:00",
   "ministry": "문화체육관광부",
   "mst": "265895",
   "name": "문화예술교육 지원법",
+  "payload_law_id": "010085",
   "promulgation_date": "20241022",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5d187cb72cb84704"
  },
@@ -53824,6 +53839,8 @@
   "version_signature": "82aa841ab344377e"
  },
  "law:eflaw:010233": {
+  "collected_signature": "a714029fa5004f1a",
+  "content_hash": "0503aea73e995f51980dd685625ce4ac754a612474b78f2afd0e3b386697d90b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270097&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "010233",
@@ -53831,11 +53848,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260326",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:53.005701+00:00",
+  "last_collected_at": "2026-08-23T12:40:17.130979+00:00",
   "ministry": "문화체육관광부",
   "mst": "270097",
   "name": "문화예술교육 지원법 시행령",
+  "payload_law_id": "010233",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a714029fa5004f1a"
  },
@@ -70115,6 +70135,8 @@
   "version_signature": "ad00f9b49c2e13d8"
  },
  "law:eflaw:011689": {
+  "collected_signature": "f400b05d33daa549",
+  "content_hash": "65b8873ff5d2c98cb254d6d72151bfa104de6d48ac524cde9836d7163cee2fae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266397&type=HTML&mobileYn=&efYd=20241112",
   "doc_domain": "law",
   "doc_id": "011689",
@@ -70122,15 +70144,20 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20241112",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:54.815101+00:00",
+  "last_collected_at": "2026-08-23T12:38:34.912737+00:00",
   "ministry": "문화체육관광부",
   "mst": "266397",
   "name": "문화예술진흥법 시행규칙",
+  "payload_law_id": "011689",
   "promulgation_date": "20241112",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f400b05d33daa549"
  },
  "law:eflaw:011690": {
+  "collected_signature": "6e8116c362ca5742",
+  "content_hash": "ba60417080a69fb4ea15d7d7518d61e7c41d1bca52ea9d33a3b042247dd6c0ef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=181628&type=HTML&mobileYn=&efYd=20160301",
   "doc_domain": "law",
   "doc_id": "011690",
@@ -70138,11 +70165,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20160301",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:55.248098+00:00",
+  "last_collected_at": "2026-08-23T12:39:35.530818+00:00",
   "ministry": "문화체육관광부",
   "mst": "181628",
   "name": "문화예술교육 지원법 시행규칙",
+  "payload_law_id": "011690",
   "promulgation_date": "20160229",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6e8116c362ca5742"
  },
@@ -72823,6 +72853,8 @@
   "version_signature": "48c2decdb19cf0c3"
  },
  "law:eflaw:012001": {
+  "collected_signature": "c51f15a19034f49a",
+  "content_hash": "b2e396a8dba01ec66e96743e0d679127dd76d1437bad40ca8b2f70d1300c00ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251065&type=HTML&mobileYn=&efYd=20240517",
   "doc_domain": "law",
   "doc_id": "012001",
@@ -72830,12 +72862,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240517",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:54.214558+00:00",
+  "last_collected_at": "2026-08-23T12:39:43.668621+00:00",
   "ministry": "문화체육관광부",
   "mst": "251065",
   "name": "문화예술후원 활성화에 관한 법률",
+  "payload_law_id": "012001",
   "promulgation_date": "20230516",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c51f15a19034f49a"
  },
  "law:eflaw:012002": {
@@ -73993,6 +74028,8 @@
   "version_signature": "be9514df9189b7bf"
  },
  "law:eflaw:012116": {
+  "collected_signature": "24731c355e7ade5a",
+  "content_hash": "a8418dacbce8efd1587e20a4350df26a3f334f4cbd405286cda147722aba55b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=157732&type=HTML&mobileYn=&efYd=20140729",
   "doc_domain": "law",
   "doc_id": "012116",
@@ -74000,11 +74037,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20140729",
   "is_active": true,
+  "last_checked_at": "2026-08-23T12:37:52.671896+00:00",
+  "last_collected_at": "2026-08-23T12:38:03.529882+00:00",
   "ministry": "문화체육관광부",
   "mst": "157732",
   "name": "문화예술후원 활성화에 관한 법률 시행규칙",
+  "payload_law_id": "012116",
   "promulgation_date": "20140729",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "24731c355e7ade5a"
  },
