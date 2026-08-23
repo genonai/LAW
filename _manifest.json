@@ -2315,6 +2315,8 @@
   "version_signature": "8182115431a4b764"
  },
  "law:eflaw:000328": {
+  "collected_signature": "75d38ede7ecfb7ca",
+  "content_hash": "57b27284b5dfc07d6915d284b59d4bd73b7eeed5a96aafdc0ba3f3f4dd0fe423",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276523&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000328",
@@ -2322,11 +2324,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:58.206821+00:00",
+  "last_collected_at": "2026-08-23T22:51:17.356695+00:00",
   "ministry": "산업통상부",
   "mst": "276523",
   "name": "산업디자인진흥법",
+  "payload_law_id": "000328",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "75d38ede7ecfb7ca"
  },
@@ -8762,6 +8767,8 @@
   "version_signature": "2caf65938052067e"
  },
  "law:eflaw:001461": {
+  "collected_signature": "4f32ce59797b1689",
+  "content_hash": "cdf13a59ec82d45ec16918a5fee4d48b43c4c1e7506b33298370ca24e2818397",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280041&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "001461",
@@ -8769,12 +8776,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:56.409085+00:00",
+  "last_collected_at": "2026-08-23T22:52:55.902106+00:00",
   "ministry": "산업통상부",
   "mst": "280041",
   "name": "산업기술혁신 촉진법",
+  "payload_law_id": "001461",
   "promulgation_date": "20251202",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "4f32ce59797b1689"
  },
  "law:eflaw:001462": {
@@ -21820,6 +21830,8 @@
   "version_signature": "f86ca67a9eed3453"
  },
  "law:eflaw:003778": {
+  "collected_signature": "87a3e9649c276850",
+  "content_hash": "e495f1e090dd0224118a100ce6aba941cdded87216c97ecca60b029969f9e601",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285891&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "003778",
@@ -21827,11 +21839,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:56.083834+00:00",
+  "last_collected_at": "2026-08-23T22:53:12.749215+00:00",
   "ministry": "산업통상부",
   "mst": "285891",
   "name": "산업기술혁신 촉진법 시행령",
+  "payload_law_id": "003778",
   "promulgation_date": "20260519",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "87a3e9649c276850"
  },
@@ -21878,6 +21893,8 @@
   "version_signature": "7a4b3095e703377e"
  },
  "law:eflaw:003783": {
+  "collected_signature": "9d00a85c3d28722d",
+  "content_hash": "5c42439fa9cb8217a4817fe236502c4d820ae039546827142ee2c079675f6a95",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278359&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003783",
@@ -21885,11 +21902,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:55.676423+00:00",
+  "last_collected_at": "2026-08-23T22:48:12.123490+00:00",
   "ministry": "산업통상부",
   "mst": "278359",
   "name": "산업디자인진흥법 시행령",
+  "payload_law_id": "003783",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9d00a85c3d28722d"
  },
@@ -38994,6 +39014,8 @@
   "version_signature": "955b6ffb4cd19ee0"
  },
  "law:eflaw:007358": {
+  "collected_signature": "52e2f63164775ca2",
+  "content_hash": "482b6e7ce9830b11f5c2b3ea8de739643e3702e07111e898ddf0bf18f63d114f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278725&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "007358",
@@ -39001,15 +39023,20 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:58.344498+00:00",
+  "last_collected_at": "2026-08-23T22:51:05.360481+00:00",
   "ministry": "산업통상부",
   "mst": "278725",
   "name": "산업디자인진흥법 시행규칙",
+  "payload_law_id": "007358",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "52e2f63164775ca2"
  },
  "law:eflaw:007359": {
+  "collected_signature": "2b581376064601bb",
+  "content_hash": "1011bbec4541252b0b7a57f9febb45f653e321cd760dc42a3e3e23e3b4a6dcf1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286385&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "007359",
@@ -39017,11 +39044,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:56.766614+00:00",
+  "last_collected_at": "2026-08-23T22:51:32.815153+00:00",
   "ministry": "산업통상부",
   "mst": "286385",
   "name": "산업기술혁신 촉진법 시행규칙",
+  "payload_law_id": "007359",
   "promulgation_date": "20260527",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2b581376064601bb"
  },
@@ -61663,6 +61693,8 @@
   "version_signature": "23039c9b25ba486b"
  },
  "law:eflaw:010759": {
+  "collected_signature": "9b5feb267a2dfa9f",
+  "content_hash": "525944d2ea840e16c1b079ac15332812bb40e6bf67723c7c0caeb9dcc126e3d0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276999&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010759",
@@ -61670,11 +61702,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:57.999105+00:00",
+  "last_collected_at": "2026-08-23T22:49:51.777561+00:00",
   "ministry": "국토교통부",
   "mst": "276999",
   "name": "산업단지 인ㆍ허가 절차 간소화를 위한 특례법",
+  "payload_law_id": "010759",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9b5feb267a2dfa9f"
  },
@@ -62466,6 +62501,8 @@
   "version_signature": "3293e1cdf227f956"
  },
  "law:eflaw:010830": {
+  "collected_signature": "3a646d0d4ad5a5c9",
+  "content_hash": "f4e03e5e57f09b7f5d01f261c8f4eef8e03fcb38742765fd278c65047e609202",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264497&type=HTML&mobileYn=&efYd=20240730",
   "doc_domain": "law",
   "doc_id": "010830",
@@ -62473,11 +62510,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240730",
   "is_active": true,
+  "last_checked_at": "2026-08-23T22:46:56.591803+00:00",
+  "last_collected_at": "2026-08-23T22:51:12.703018+00:00",
   "ministry": "국토교통부",
   "mst": "264497",
   "name": "산업단지 인ㆍ허가 절차 간소화를 위한 특례법 시행령",
+  "payload_law_id": "010830",
   "promulgation_date": "20240730",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3a646d0d4ad5a5c9"
  },
