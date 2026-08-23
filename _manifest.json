@@ -2678,6 +2678,8 @@
   "version_signature": "613222fa72b611ef"
  },
  "law:eflaw:000478": {
+  "collected_signature": "d9d6eb76f4a90fb1",
+  "content_hash": "6e2f0fc3d7d7037fb726f081bc4db841a11cf1667d1ce602ccf53c05f4cf1fef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276431&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000478",
@@ -2685,12 +2687,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:36.877312+00:00",
+  "last_collected_at": "2026-08-23T06:23:25.124226+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "276431",
   "name": "농어촌정비법",
+  "payload_law_id": "000478",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d9d6eb76f4a90fb1"
  },
  "law:eflaw:000479": {
@@ -18150,6 +18155,8 @@
   "version_signature": "3ea02ce97ef89c7a"
  },
  "law:eflaw:003227": {
+  "collected_signature": "982004beb73ddf17",
+  "content_hash": "68daa160481fd0350567af2315655aacaa50912b654cdbd5b3c2035959ff4d4c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273771&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "003227",
@@ -18157,12 +18164,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:37.922080+00:00",
+  "last_collected_at": "2026-08-23T06:21:30.225333+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "273771",
   "name": "농어촌정비법 시행령",
+  "payload_law_id": "003227",
   "promulgation_date": "20250923",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "982004beb73ddf17"
  },
  "law:eflaw:003233": {
@@ -34866,6 +34876,8 @@
   "version_signature": "4763f337e733cee4"
  },
  "law:eflaw:006989": {
+  "collected_signature": "db96eb8ad132f7cb",
+  "content_hash": "216ef0a78b8e4c17008252cba36dc8037a1e3df13259e29ee422b6c3b1ecce71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282107&type=HTML&mobileYn=&efYd=20251226",
   "doc_domain": "law",
   "doc_id": "006989",
@@ -34873,11 +34885,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20251226",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:36.192956+00:00",
+  "last_collected_at": "2026-08-23T06:18:34.012007+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "282107",
   "name": "농어촌정비법 시행규칙",
+  "payload_law_id": "006989",
   "promulgation_date": "20251226",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "db96eb8ad132f7cb"
  },
@@ -46611,6 +46626,8 @@
   "version_signature": "cd59e30b3c6a0201"
  },
  "law:eflaw:009624": {
+  "collected_signature": "d4f0daf9d8da25ef",
+  "content_hash": "2f676585ccf03742e775cb20d5a6dffda8df006de7d3f9e2cf43e372e1f0d86c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270393&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "009624",
@@ -46618,11 +46635,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:38.122555+00:00",
+  "last_collected_at": "2026-08-23T06:16:21.329609+00:00",
   "ministry": "보건복지부",
   "mst": "270393",
   "name": "농어촌주민의 보건복지 증진을 위한 특별법",
+  "payload_law_id": "009624",
   "promulgation_date": "20250401",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d4f0daf9d8da25ef"
  },
@@ -47556,6 +47576,8 @@
   "version_signature": "2821d959008bf1b4"
  },
  "law:eflaw:009713": {
+  "collected_signature": "100db970456e260b",
+  "content_hash": "0aea2c463cf8648eb86d5b4d9355a249f4b4365883d9ccf030d6dc7c6e6fc9d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279423&type=HTML&mobileYn=&efYd=20251031",
   "doc_domain": "law",
   "doc_id": "009713",
@@ -47563,11 +47585,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20251031",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:34.912651+00:00",
+  "last_collected_at": "2026-08-23T06:07:39.957061+00:00",
   "ministry": "보건복지부",
   "mst": "279423",
   "name": "농어촌주민의 보건복지 증진을 위한 특별법 시행규칙",
+  "payload_law_id": "009713",
   "promulgation_date": "20251031",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "100db970456e260b"
  },
@@ -70194,6 +70219,8 @@
   "version_signature": "9b6106dc25a5f87f"
  },
  "law:eflaw:011872": {
+  "collected_signature": "a7614a78c927c4c4",
+  "content_hash": "0e3ceb61fe9cfd68f5b948d9a5b66d8c7c87620064f44bbc0a706471b85a4c4d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276429&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011872",
@@ -70201,11 +70228,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:35.857383+00:00",
+  "last_collected_at": "2026-08-23T06:10:45.786181+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "276429",
   "name": "농어촌마을 주거환경 개선 및 리모델링 촉진을 위한 특별법",
+  "payload_law_id": "011872",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a7614a78c927c4c4"
  },
@@ -71994,6 +72024,8 @@
   "version_signature": "cbc2bd2470c157d8"
  },
  "law:eflaw:012076": {
+  "collected_signature": "bbc5cbb71598ab49",
+  "content_hash": "bb951b19e5bc4ed2e1e4514a35e9aefebb435335df28bb06d03ebd6cbf98303a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281679&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012076",
@@ -72001,11 +72033,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:35.288771+00:00",
+  "last_collected_at": "2026-08-23T06:15:26.449739+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "281679",
   "name": "농어촌마을 주거환경 개선 및 리모델링 촉진을 위한 특별법 시행령",
+  "payload_law_id": "012076",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bbc5cbb71598ab49"
  },
@@ -72689,6 +72724,8 @@
   "version_signature": "6d84f372e442904b"
  },
  "law:eflaw:012143": {
+  "collected_signature": "9cc6aa9ec32b5432",
+  "content_hash": "ab27c31b15b5a3f01acc758bf1f2232fb8b053377d75104bc1ff929e5ea98f71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=159433&type=HTML&mobileYn=&efYd=20140904",
   "doc_domain": "law",
   "doc_id": "012143",
@@ -72696,11 +72733,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20140904",
   "is_active": true,
+  "last_checked_at": "2026-08-23T06:06:36.735607+00:00",
+  "last_collected_at": "2026-08-23T06:13:30.678211+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "159433",
   "name": "농어촌마을 주거환경 개선 및 리모델링 촉진을 위한 특별법 시행규칙",
+  "payload_law_id": "012143",
   "promulgation_date": "20140904",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9cc6aa9ec32b5432"
  },
