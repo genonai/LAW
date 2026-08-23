@@ -2132,6 +2132,8 @@
   "version_signature": "c6d57a579347e0d5"
  },
  "law:eflaw:000311": {
+  "collected_signature": "c2f1209eb62c26b3",
+  "content_hash": "71301e345e04dfb140122e5360482067fa2d391d78ae98100159afbed2b20c11",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277199&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000311",
@@ -2139,11 +2141,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:33.350955+00:00",
+  "last_collected_at": "2026-08-23T17:40:31.257134+00:00",
   "ministry": "지식재산처",
   "mst": "277199",
   "name": "변리사법",
+  "payload_law_id": "000311",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c2f1209eb62c26b3"
  },
@@ -10567,6 +10572,8 @@
   "version_signature": "6d1e187925fe232d"
  },
  "law:eflaw:001708": {
+  "collected_signature": "a431ff85f77a1ae2",
+  "content_hash": "f96c9e0e35aaf0f9249f37fbed1aee3a675afaf8e8c11f2ebc07c64c14b9dd48",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228089&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "001708",
@@ -10574,12 +10581,15 @@
   "doc_type": "법률",
   "enforcement_date": "20210105",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:35.491733+00:00",
+  "last_collected_at": "2026-08-23T17:40:44.609570+00:00",
   "ministry": "법무부",
   "mst": "228089",
   "name": "변호사법",
+  "payload_law_id": "001708",
   "promulgation_date": "20210105",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "a431ff85f77a1ae2"
  },
  "law:eflaw:001709": {
@@ -20629,6 +20639,8 @@
   "version_signature": "4aca1cde0983b010"
  },
  "law:eflaw:003618": {
+  "collected_signature": "48361c100cdd86f3",
+  "content_hash": "cb6588ead6357262c2b8944dac9fcfda30887cb30bb1f54eb7c24a6477800677",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277537&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003618",
@@ -20636,15 +20648,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:32.675110+00:00",
+  "last_collected_at": "2026-08-23T17:39:16.576459+00:00",
   "ministry": "지식재산처",
   "mst": "277537",
   "name": "변리사법 시행령",
+  "payload_law_id": "003618",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "48361c100cdd86f3"
  },
  "law:eflaw:003621": {
+  "collected_signature": "ac6709e66d888875",
+  "content_hash": "6c67723cabe0eb0694cc64139244fbe9eca128f18bc4965c36dbc495ee1cdbb7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268373&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "003621",
@@ -20652,11 +20669,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:34.617356+00:00",
+  "last_collected_at": "2026-08-23T17:38:50.830249+00:00",
   "ministry": "법무부",
   "mst": "268373",
   "name": "변호사법 시행령",
+  "payload_law_id": "003621",
   "promulgation_date": "20250121",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ac6709e66d888875"
  },
@@ -29971,6 +29991,8 @@
   "version_signature": "0da6cc0057768c0d"
  },
  "law:eflaw:005866": {
+  "collected_signature": "b5c1e3b34c038198",
+  "content_hash": "8e9c241ec8d9cbde0c07ba905f3734d3510b79a446abe86e759e3039af12db96",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=225413&type=HTML&mobileYn=&efYd=20201228",
   "doc_domain": "law",
   "doc_id": "005866",
@@ -29978,11 +30000,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20201228",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:32.308570+00:00",
+  "last_collected_at": "2026-08-23T17:35:52.627386+00:00",
   "ministry": "대법원",
   "mst": "225413",
   "name": "변호사보수의 소송비용 산입에 관한 규칙",
+  "payload_law_id": "005866",
   "promulgation_date": "20201228",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b5c1e3b34c038198"
  },
@@ -37670,6 +37695,8 @@
   "version_signature": "3e5494509d0d8fcc"
  },
  "law:eflaw:007236": {
+  "collected_signature": "da855ac8effc7700",
+  "content_hash": "11ef8b447e760e3418d4510280ced9e0bb4a3cbca94c9aa093c6303487970569",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279083&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "007236",
@@ -37677,11 +37704,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:34.308421+00:00",
+  "last_collected_at": "2026-08-23T17:39:44.482810+00:00",
   "ministry": "지식재산처",
   "mst": "279083",
   "name": "변리사법 시행규칙",
+  "payload_law_id": "007236",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "da855ac8effc7700"
  },
@@ -43778,6 +43808,8 @@
   "version_signature": "64ae54ead65d3515"
  },
  "law:eflaw:008783": {
+  "collected_signature": "64e3bb7f44596f8a",
+  "content_hash": "fb8a08b8e6e0a4ebd56283949ea18677999dad75757a3030b55fbe6192744823",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222727&type=HTML&mobileYn=&efYd=20201102",
   "doc_domain": "law",
   "doc_id": "008783",
@@ -43785,11 +43817,14 @@
   "doc_type": "감사원규칙",
   "enforcement_date": "20201102",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:36.732067+00:00",
+  "last_collected_at": "2026-08-23T17:38:47.241959+00:00",
   "ministry": "감사원",
   "mst": "222727",
   "name": "변상판정 집행절차에 관한 규칙",
+  "payload_law_id": "008783",
   "promulgation_date": "20201102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "64e3bb7f44596f8a"
  },
@@ -87360,6 +87395,8 @@
   "version_signature": "ea145e4eaf4d1f9c"
  },
  "law:eflaw:013823": {
+  "collected_signature": "ca59c03d642f0cbe",
+  "content_hash": "150d0bfeea339d33d04a5abb9f49dff1b86a30ae97a4c3c4c845e8755a697900",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=220609&type=HTML&mobileYn=&efYd=20200805",
   "doc_domain": "law",
   "doc_id": "013823",
@@ -87367,11 +87404,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20200805",
   "is_active": true,
+  "last_checked_at": "2026-08-23T17:35:33.658676+00:00",
+  "last_collected_at": "2026-08-23T17:38:48.549213+00:00",
   "ministry": "법무부",
   "mst": "220609",
   "name": "변호사ㆍ법무사의 자격이 있는 보증인의 보수에 관한 규칙",
+  "payload_law_id": "013823",
   "promulgation_date": "20200731",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ca59c03d642f0cbe"
  },
