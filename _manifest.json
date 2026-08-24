@@ -7168,6 +7168,8 @@
   "version_signature": "276953f3b1e281c5"
  },
  "law:eflaw:001233": {
+  "collected_signature": "794dccc492d55e06",
+  "content_hash": "a5d2f0f8172f797c8893c35c9097b6c52695901e13339fa88cb62e0dea588d58",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=106831&type=HTML&mobileYn=&efYd=20100723",
   "doc_domain": "law",
   "doc_id": "001233",
@@ -7175,11 +7177,14 @@
   "doc_type": "법률",
   "enforcement_date": "20100723",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:25.616261+00:00",
+  "last_collected_at": "2026-08-24T00:42:39.081966+00:00",
   "ministry": "법무부",
   "mst": "106831",
   "name": "상법시행법",
+  "payload_law_id": "001233",
   "promulgation_date": "20100723",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "794dccc492d55e06"
  },
@@ -9524,6 +9529,8 @@
   "version_signature": "23ca46bb58f21a34"
  },
  "law:eflaw:001561": {
+  "collected_signature": "32a6e53067dea65d",
+  "content_hash": "53b16b3db6a184ad037dc13759152648b9d08f74e7143e29aad530be003ddefc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276123&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001561",
@@ -9531,11 +9538,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:24.766523+00:00",
+  "last_collected_at": "2026-08-24T00:48:29.406576+00:00",
   "ministry": "재정경제부",
   "mst": "276123",
   "name": "상속세 및 증여세법",
+  "payload_law_id": "001561",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "32a6e53067dea65d"
  },
@@ -10749,6 +10759,8 @@
   "version_signature": "8492ddde92e0e6e0"
  },
  "law:eflaw:001702": {
+  "collected_signature": "6288857fbccba1a1",
+  "content_hash": "d1fcebdba1a491ada0dd2a4d80390503987d3b7c094964cd0098f1ceeb16646d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272919&type=HTML&mobileYn=&efYd=20260723",
   "doc_domain": "law",
   "doc_id": "001702",
@@ -10756,12 +10768,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260723",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:25.240721+00:00",
+  "last_collected_at": "2026-08-24T00:46:28.881594+00:00",
   "ministry": "법무부",
   "mst": "272919",
   "name": "상법",
+  "payload_law_id": "001702",
   "promulgation_date": "20250722",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "6288857fbccba1a1"
  },
  "law:eflaw:001706": {
@@ -22064,6 +22079,8 @@
   "version_signature": "16eb3410988a66f8"
  },
  "law:eflaw:003809": {
+  "collected_signature": "18a31ed87e263307",
+  "content_hash": "f521bb2baa172d3c287c134b58cf1a01464e598983fcd7bba8a2c855c5d02e80",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278371&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003809",
@@ -22071,15 +22088,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:25.765415+00:00",
+  "last_collected_at": "2026-08-24T00:40:02.628626+00:00",
   "ministry": "산업통상부",
   "mst": "278371",
   "name": "상공회의소법 시행령",
+  "payload_law_id": "003809",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "18a31ed87e263307"
  },
  "law:eflaw:003811": {
+  "collected_signature": "da44eb6bd4ff5bd1",
+  "content_hash": "6d57bc30aa0d7a80c902467e2a78033382874294f99615b12895e8ac8d144f97",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288205&type=HTML&mobileYn=&efYd=20260723",
   "doc_domain": "law",
   "doc_id": "003811",
@@ -22087,12 +22109,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260723",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:27.330835+00:00",
+  "last_collected_at": "2026-08-24T00:44:06.197824+00:00",
   "ministry": "법무부",
   "mst": "288205",
   "name": "상법 시행령",
+  "payload_law_id": "003811",
   "promulgation_date": "20260721",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "da44eb6bd4ff5bd1"
  },
  "law:eflaw:003814": {
@@ -62208,6 +62233,8 @@
   "version_signature": "aed9eb9a56096c83"
  },
  "law:eflaw:010783": {
+  "collected_signature": "b39fd72018aa2fab",
+  "content_hash": "d092423882518fdd980fae701b3d72d7e8ee5c7dffc7bff737ca796cf653c3c6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280989&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "010783",
@@ -62215,11 +62242,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:27.014727+00:00",
+  "last_collected_at": "2026-08-24T00:42:52.782595+00:00",
   "ministry": "법무부",
   "mst": "280989",
   "name": "상법의 전자선하증권 규정의 시행에 관한 규정",
+  "payload_law_id": "010783",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b39fd72018aa2fab"
  },
@@ -67991,6 +68021,8 @@
   "version_signature": "1986ec93fdb980f4"
  },
  "law:eflaw:011334": {
+  "collected_signature": "9f77fe3b4c2d54cf",
+  "content_hash": "0ec2db110bca5ae1b9b1a37f03449cf47fbb0cf9763c9ea70e98cde82478bfe2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288497&type=HTML&mobileYn=&efYd=20260729",
   "doc_domain": "law",
   "doc_id": "011334",
@@ -67998,11 +68030,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260729",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:25.990317+00:00",
+  "last_collected_at": "2026-08-24T00:43:02.251394+00:00",
   "ministry": "보건복지부",
   "mst": "288497",
   "name": "상급종합병원의 지정 및 평가에 관한 규칙",
+  "payload_law_id": "011334",
   "promulgation_date": "20260729",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9f77fe3b4c2d54cf"
  },
@@ -88740,6 +88775,8 @@
   "version_signature": "3425297c76770176"
  },
  "law:eflaw:013802": {
+  "collected_signature": "9d74a7be27adc564",
+  "content_hash": "28308b01c608bf4db7fc961d2f74f8663e864118b2a23b0f34ee77c5eff34add",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277491&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013802",
@@ -88747,11 +88784,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T00:34:26.772890+00:00",
+  "last_collected_at": "2026-08-24T00:35:11.430955+00:00",
   "ministry": "중소벤처기업부",
   "mst": "277491",
   "name": "상생조정위원회의 설치 및 운영에 관한 규정",
+  "payload_law_id": "013802",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9d74a7be27adc564"
  },
