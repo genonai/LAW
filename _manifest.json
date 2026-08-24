@@ -13351,6 +13351,8 @@
   "version_signature": "f82ecfb112f0854d"
  },
  "law:eflaw:001994": {
+  "collected_signature": "8db9a3f80a7108aa",
+  "content_hash": "ac83fd136ca55be6c70e5ee35bd2b696af91d3ae730b60c6e8bd45b05ab33932",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277079&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001994",
@@ -13358,11 +13360,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:32.629446+00:00",
+  "last_collected_at": "2026-08-24T13:14:36.915628+00:00",
   "ministry": "해양수산부",
   "mst": "277079",
   "name": "연안관리법",
+  "payload_law_id": "001994",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8db9a3f80a7108aa"
  },
@@ -24463,6 +24468,8 @@
   "version_signature": "7d11471a756b3135"
  },
  "law:eflaw:004190": {
+  "collected_signature": "e887cf2423abb43f",
+  "content_hash": "a26a553944b0f888d32edf589073be009172964c3224d37a3ef9c8b4a135f063",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281317&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004190",
@@ -24470,11 +24477,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:32.813017+00:00",
+  "last_collected_at": "2026-08-24T13:13:38.211706+00:00",
   "ministry": "해양수산부",
   "mst": "281317",
   "name": "연안관리법 시행령",
+  "payload_law_id": "004190",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e887cf2423abb43f"
  },
@@ -41860,6 +41870,8 @@
   "version_signature": "99a7445169f7e191"
  },
  "law:eflaw:007718": {
+  "collected_signature": "2a952e4b427af5de",
+  "content_hash": "c265c071a9ae7a6e53104d99bf093502bb301cb9ecb08dcea475b160a459c22f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265051&type=HTML&mobileYn=&efYd=20240830",
   "doc_domain": "law",
   "doc_id": "007718",
@@ -41867,15 +41879,20 @@
   "doc_type": "교육부령",
   "enforcement_date": "20240830",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:30.978305+00:00",
+  "last_collected_at": "2026-08-24T13:09:49.208644+00:00",
   "ministry": "교육부",
   "mst": "265051",
   "name": "연구학교에 관한 규칙",
+  "payload_law_id": "007718",
   "promulgation_date": "20240830",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2a952e4b427af5de"
  },
  "law:eflaw:007720": {
+  "collected_signature": "176fa7c194cc76e6",
+  "content_hash": "8ab3faff2143c7c473a07a52c261a646895ecbd25069f61ddf03fedd2bb9e0e8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=229531&type=HTML&mobileYn=&efYd=20210219",
   "doc_domain": "law",
   "doc_id": "007720",
@@ -41883,11 +41900,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20210219",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:34.121136+00:00",
+  "last_collected_at": "2026-08-24T13:12:49.336144+00:00",
   "ministry": "해양수산부",
   "mst": "229531",
   "name": "연안관리법 시행규칙",
+  "payload_law_id": "007720",
   "promulgation_date": "20210217",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "176fa7c194cc76e6"
  },
@@ -71256,6 +71276,8 @@
   "version_signature": "83af3739d7ab04ed"
  },
  "law:eflaw:011432": {
+  "collected_signature": "fd220c1452437bdf",
+  "content_hash": "d1d07d3f28002f4088c8c115cf52ebdd615309493d1983a56dbce21493f15fbe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259279&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "011432",
@@ -71263,12 +71285,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:32.204207+00:00",
+  "last_collected_at": "2026-08-24T13:13:05.155230+00:00",
   "ministry": "해양수산부",
   "mst": "259279",
   "name": "연근해어업의 구조개선 및 지원에 관한 법률",
+  "payload_law_id": "011432",
   "promulgation_date": "20240123",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "fd220c1452437bdf"
  },
  "law:eflaw:011433": {
@@ -74379,6 +74404,8 @@
   "version_signature": "f81022c27ec1c512"
  },
  "law:eflaw:011659": {
+  "collected_signature": "9f6e9b8dad9a3bcf",
+  "content_hash": "8861418f2e0372aa2e2bc8b61bc92a8fc25944324177ee42f65077e315173d48",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281689&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011659",
@@ -74386,11 +74413,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:32.954722+00:00",
+  "last_collected_at": "2026-08-24T13:12:27.978622+00:00",
   "ministry": "해양수산부",
   "mst": "281689",
   "name": "연근해어업의 구조개선 및 지원에 관한 법률 시행령",
+  "payload_law_id": "011659",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9f6e9b8dad9a3bcf"
  },
@@ -74543,6 +74573,8 @@
   "version_signature": "892e3a22097e256b"
  },
  "law:eflaw:011670": {
+  "collected_signature": "f33cf70d451e5222",
+  "content_hash": "d711753fa65d08a2460ddbad4bd0960eea8223f7221a6d9d955b0669164e2e99",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243813&type=HTML&mobileYn=&efYd=20220712",
   "doc_domain": "law",
   "doc_id": "011670",
@@ -74550,11 +74582,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20220712",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:34.205133+00:00",
+  "last_collected_at": "2026-08-24T13:12:37.515542+00:00",
   "ministry": "해양수산부",
   "mst": "243813",
   "name": "연근해어업의 구조개선 및 지원에 관한 법률 시행규칙",
+  "payload_law_id": "011670",
   "promulgation_date": "20220711",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f33cf70d451e5222"
  },
@@ -78165,6 +78200,8 @@
   "version_signature": "02359d2a3f7641af"
  },
  "law:eflaw:012049": {
+  "collected_signature": "e1473d089a53518f",
+  "content_hash": "46d40270b2dd633989f157c1ec24e032b9a12d67f50eab9f86e83dd365ae3156",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270841&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "012049",
@@ -78172,12 +78209,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251023",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:09:30.727892+00:00",
+  "last_collected_at": "2026-08-24T13:12:41.913048+00:00",
   "ministry": "해양경찰청",
   "mst": "270841",
   "name": "연안사고 예방에 관한 법률",
+  "payload_law_id": "012049",
   "promulgation_date": "20250422",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "e1473d089a53518f"
  },
  "law:eflaw:012051": {
