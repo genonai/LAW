@@ -6307,6 +6307,8 @@
   "version_signature": "c915c53e1d33db62"
  },
  "law:eflaw:001097": {
+  "collected_signature": "c6e708d02e4a633a",
+  "content_hash": "760273449edb5116ed976c65fb3aa26eb50d1261d4878bac4add3a3bab0ef563",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251461&type=HTML&mobileYn=&efYd=20230611",
   "doc_domain": "law",
   "doc_id": "001097",
@@ -6314,11 +6316,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230611",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:31:59.458031+00:00",
+  "last_collected_at": "2026-08-24T18:32:56.139137+00:00",
   "ministry": "행정안전부",
   "mst": "251461",
   "name": "이북5도 등에 관한 특별조치법",
+  "payload_law_id": "001097",
   "promulgation_date": "20230607",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c6e708d02e4a633a"
  },
@@ -33092,6 +33097,8 @@
   "version_signature": "72f3197b50137255"
  },
  "law:eflaw:006029": {
+  "collected_signature": "3c47bc15e0b6e24d",
+  "content_hash": "6a879653fc1f76f9cb28fce418852021255a2f27393f0cc75c079d905787c8c7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=35908&type=HTML&mobileYn=&efYd=19960101",
   "doc_domain": "law",
   "doc_id": "006029",
@@ -33099,11 +33106,14 @@
   "doc_type": "국회규칙",
   "enforcement_date": "19960101",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:31:59.841321+00:00",
+  "last_collected_at": "2026-08-24T18:32:48.557183+00:00",
   "ministry": "국회",
   "mst": "35908",
   "name": "의회지도자상건립등에관한규칙",
+  "payload_law_id": "006029",
   "promulgation_date": "19951116",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3c47bc15e0b6e24d"
  },
@@ -51734,6 +51744,8 @@
   "version_signature": "dc05c5cd5a97bde2"
  },
  "law:eflaw:009626": {
+  "collected_signature": "dff64db13f692eca",
+  "content_hash": "ae0b5ee2ac23bee6b231a63243626b7d72a63b5be1003d70adca96da71d669ad",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276573&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009626",
@@ -51741,12 +51753,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:32:02.298362+00:00",
+  "last_collected_at": "2026-08-24T18:33:29.092084+00:00",
   "ministry": "산업통상부",
   "mst": "276573",
   "name": "이러닝(전자학습)산업 발전 및 이러닝 활용 촉진에 관한 법률",
+  "payload_law_id": "009626",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "dff64db13f692eca"
  },
  "law:eflaw:009627": {
@@ -53170,6 +53185,8 @@
   "version_signature": "3c6f624efe6a2cec"
  },
  "law:eflaw:009742": {
+  "collected_signature": "17689f45a2c1e87c",
+  "content_hash": "c655ef125ee5052d6cb0392f8f445014bce8569245b0ab9b9bc49680fe62690f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278765&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009742",
@@ -53177,11 +53194,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:32:01.732284+00:00",
+  "last_collected_at": "2026-08-24T18:32:59.412539+00:00",
   "ministry": "산업통상부",
   "mst": "278765",
   "name": "이러닝(전자학습)산업 발전 및 이러닝 활용 촉진에 관한 법률 시행규칙",
+  "payload_law_id": "009742",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "17689f45a2c1e87c"
  },
@@ -53207,6 +53227,8 @@
   "version_signature": "ed22a07a1182e4c5"
  },
  "law:eflaw:009747": {
+  "collected_signature": "2d526b04aec0ae3e",
+  "content_hash": "cd9145516e32e8f9f2bf743418d08235022439e06fd2b8df5d0f56a59625dd18",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278411&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009747",
@@ -53214,11 +53236,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:32:00.583683+00:00",
+  "last_collected_at": "2026-08-24T18:33:13.743489+00:00",
   "ministry": "산업통상부",
   "mst": "278411",
   "name": "이러닝(전자학습)산업 발전 및 이러닝 활용 촉진에 관한 법률 시행령",
+  "payload_law_id": "009747",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2d526b04aec0ae3e"
  },
@@ -78933,6 +78958,8 @@
   "version_signature": "9abaed64605e3991"
  },
  "law:eflaw:011998": {
+  "collected_signature": "feba14335f939e1b",
+  "content_hash": "860207f17a243f248ded033dd8e24f1f3ddec74f28e1a486a1c340c190bb24e7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273369&type=HTML&mobileYn=&efYd=20250814",
   "doc_domain": "law",
   "doc_id": "011998",
@@ -78940,11 +78967,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250814",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:32:02.489811+00:00",
+  "last_collected_at": "2026-08-24T18:33:11.494557+00:00",
   "ministry": "소방청",
   "mst": "273369",
   "name": "의용소방대 설치 및 운영에 관한 법률",
+  "payload_law_id": "011998",
   "promulgation_date": "20250814",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "feba14335f939e1b"
  },
@@ -80168,6 +80198,8 @@
   "version_signature": "c8eb722066002d63"
  },
  "law:eflaw:012114": {
+  "collected_signature": "9dc62b0260e3b798",
+  "content_hash": "9842c0a4f85b3a1561fef90659901c0eb9ea417b7d579a31688987f08e5fda2d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287843&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012114",
@@ -80175,12 +80207,15 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:31:59.946595+00:00",
+  "last_collected_at": "2026-08-24T18:33:12.169457+00:00",
   "ministry": "소방청",
   "mst": "287843",
   "name": "의용소방대 설치 및 운영에 관한 법률 시행규칙",
+  "payload_law_id": "012114",
   "promulgation_date": "20260701",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "9dc62b0260e3b798"
  },
  "law:eflaw:012115": {
@@ -105569,6 +105604,8 @@
   "version_signature": "6e31ce315bbfa074"
  },
  "law:eflaw:014881": {
+  "collected_signature": "776137ba6b358538",
+  "content_hash": "b1961e3fb521bfb824211e720ccd2c6c9b043cf7c3ac25b4c7c713b0fa687ba4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270979&type=HTML&mobileYn=&efYd=20250428",
   "doc_domain": "law",
   "doc_id": "014881",
@@ -105576,12 +105613,15 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20250428",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:32:00.516174+00:00",
+  "last_collected_at": "2026-08-24T18:34:04.230339+00:00",
   "ministry": "국토교통부,기후에너지환경부",
   "mst": "270979",
   "name": "이륜자동차검사의 시행 등에 관한 규칙",
+  "payload_law_id": "014881",
   "promulgation_date": "20250428",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "776137ba6b358538"
  },
  "law:eflaw:014882": {
