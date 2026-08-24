@@ -7323,6 +7323,8 @@
   "version_signature": "67318395c9a7f326"
  },
  "law:eflaw:001214": {
+  "collected_signature": "62dcb618a4bfb7db",
+  "content_hash": "1d121de97e9435ac8e61f753246d0cdae26420775a2c3e0578099531f9f97b26",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=130810&type=HTML&mobileYn=&efYd=20131219",
   "doc_domain": "law",
   "doc_id": "001214",
@@ -7330,11 +7332,14 @@
   "doc_type": "법률",
   "enforcement_date": "20131219",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:01.032157+00:00",
+  "last_collected_at": "2026-08-24T19:04:56.673422+00:00",
   "ministry": "법무부",
   "mst": "130810",
   "name": "인지 첩부·첨부 및 공탁 제공에 관한 특례법",
+  "payload_law_id": "001214",
   "promulgation_date": "20121218",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "62dcb618a4bfb7db"
  },
@@ -10098,6 +10103,8 @@
   "version_signature": "bbff7efab5c86fbf"
  },
  "law:eflaw:001568": {
+  "collected_signature": "81024cba4e6a2fd4",
+  "content_hash": "9eed737fc60a2b545f78d9076d5026aab345f2ab1fd28cd879347b51e08f6ddc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276139&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001568",
@@ -10105,11 +10112,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:00.178655+00:00",
+  "last_collected_at": "2026-08-24T19:05:51.592872+00:00",
   "ministry": "재정경제부",
   "mst": "276139",
   "name": "인지세법",
+  "payload_law_id": "001568",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "81024cba4e6a2fd4"
  },
@@ -25964,6 +25974,8 @@
   "version_signature": "9e70a3863f5d8e9e"
  },
  "law:eflaw:004530": {
+  "collected_signature": "3fb51ff25774d1a6",
+  "content_hash": "23bf86898afc27dab8019e07520c5cfc736b00c7039790ccc1b0f414a3b84501",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280881&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004530",
@@ -25971,11 +25983,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:01.786999+00:00",
+  "last_collected_at": "2026-08-24T19:07:30.392716+00:00",
   "ministry": "재정경제부",
   "mst": "280881",
   "name": "인지세법 시행령",
+  "payload_law_id": "004530",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3fb51ff25774d1a6"
  },
@@ -43392,6 +43407,8 @@
   "version_signature": "19303cb29c40facc"
  },
  "law:eflaw:007895": {
+  "collected_signature": "27bf15abeda05ceb",
+  "content_hash": "bb71a87bf2339905f48c92398d418bfe6df234200610675a1dd973c33dac06d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282665&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "007895",
@@ -43399,11 +43416,14 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:02.620476+00:00",
+  "last_collected_at": "2026-08-24T19:04:36.086576+00:00",
   "ministry": "재정경제부",
   "mst": "282665",
   "name": "인지세법 시행규칙",
+  "payload_law_id": "007895",
   "promulgation_date": "20260102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "27bf15abeda05ceb"
  },
@@ -50081,6 +50101,8 @@
   "version_signature": "cc51e4a7e6e49574"
  },
  "law:eflaw:009479": {
+  "collected_signature": "b4d3b55279ebbe4f",
+  "content_hash": "d0282e370b8e1a6fd7b0b293d3ab6d7a4ba468a16ef450d1664b89ec56921e66",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280963&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009479",
@@ -50088,11 +50110,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:00.970966+00:00",
+  "last_collected_at": "2026-08-24T19:04:57.298536+00:00",
   "ministry": "교육부",
   "mst": "280963",
   "name": "인적자원개발 기본법 시행령",
+  "payload_law_id": "009479",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b4d3b55279ebbe4f"
  },
@@ -86965,6 +86990,8 @@
   "version_signature": "dde3e79e2d8d7da6"
  },
  "law:eflaw:012813": {
+  "collected_signature": "79bb2c514d4fcc4b",
+  "content_hash": "e1e8f8edc5c6600de38681d539993489d63172990541bed09e14ead095cd3d3d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=192396&type=HTML&mobileYn=&efYd=20170331",
   "doc_domain": "law",
   "doc_id": "012813",
@@ -86972,11 +86999,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170331",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:02.453525+00:00",
+  "last_collected_at": "2026-08-24T19:04:07.119144+00:00",
   "ministry": "행정안전부",
   "mst": "192396",
   "name": "인천광역시 남구와 남동구, 동구의 관할구역 변경에 관한 규정",
+  "payload_law_id": "012813",
   "promulgation_date": "20170320",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "79bb2c514d4fcc4b"
  },
@@ -88759,6 +88789,8 @@
   "version_signature": "f3c0ac7e6e810e46"
  },
  "law:eflaw:013096": {
+  "collected_signature": "339043fc52d62588",
+  "content_hash": "95fa99ce4d0ffd169acef0bc700cc922dfca86265d2265262a98993e5873bafc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=202767&type=HTML&mobileYn=&efYd=20180701",
   "doc_domain": "law",
   "doc_id": "013096",
@@ -88766,11 +88798,14 @@
   "doc_type": "법률",
   "enforcement_date": "20180701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:03:00.970719+00:00",
+  "last_collected_at": "2026-08-24T19:04:25.766408+00:00",
   "ministry": "행정안전부",
   "mst": "202767",
   "name": "인천광역시 남구 명칭 변경에 관한 법률",
+  "payload_law_id": "013096",
   "promulgation_date": "20180320",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "339043fc52d62588"
  },
@@ -105852,6 +105887,8 @@
   "version_signature": "776137ba6b358538"
  },
  "law:eflaw:014882": {
+  "collected_signature": "06bf37cbe868578b",
+  "content_hash": "919a98a73259396a2852a20a8a40a14a9047fa3347dd088991dd723060d677a5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271041&type=HTML&mobileYn=&efYd=20250607",
   "doc_domain": "law",
   "doc_id": "014882",
@@ -105859,11 +105896,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250607",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:02:59.928721+00:00",
+  "last_collected_at": "2026-08-24T19:03:34.514408+00:00",
   "ministry": "행정안전부",
   "mst": "271041",
   "name": "인천광역시 미추홀구와 연수구의 관할구역 변경에 관한 규정",
+  "payload_law_id": "014882",
   "promulgation_date": "20250507",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "06bf37cbe868578b"
  },
