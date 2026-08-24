@@ -3622,6 +3622,8 @@
   "version_signature": "c4cf8b8a0d7db34e"
  },
  "law:eflaw:000699": {
+  "collected_signature": "eb33f0005043ce30",
+  "content_hash": "9eb004dc385d2d5c390b649d2942a8db0aebd629b650f7d195b26275816439d8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276129&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000699",
@@ -3629,11 +3631,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:38.506564+00:00",
+  "last_collected_at": "2026-08-24T07:40:18.999899+00:00",
   "ministry": "재정경제부",
   "mst": "276129",
   "name": "수입인지에 관한 법률",
+  "payload_law_id": "000699",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "eb33f0005043ce30"
  },
@@ -9287,6 +9292,8 @@
   "version_signature": "a8aa1333bd6b2c03"
  },
  "law:eflaw:001501": {
+  "collected_signature": "dc4fe8160941856b",
+  "content_hash": "c10937cf89939a63b0d86d9310059b1748fd112b5dd8c1207479f7c248c0e5a7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259085&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "001501",
@@ -9294,12 +9301,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:42.428702+00:00",
+  "last_collected_at": "2026-08-24T07:49:12.632204+00:00",
   "ministry": "농림축산식품부",
   "mst": "259085",
   "name": "수의사법",
+  "payload_law_id": "001501",
   "promulgation_date": "20240123",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "dc4fe8160941856b"
  },
  "law:eflaw:001504": {
@@ -23360,6 +23370,8 @@
   "version_signature": "00796f41ef9d4b3f"
  },
  "law:eflaw:004029": {
+  "collected_signature": "88b4dbb32df1bc7c",
+  "content_hash": "d09cd3d48c7b0434c0428b3d3a3985d2e9c354c31c729cf44755e3522f13dadf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264277&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "004029",
@@ -23367,11 +23379,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:39.395738+00:00",
+  "last_collected_at": "2026-08-24T07:42:50.908152+00:00",
   "ministry": "농림축산식품부",
   "mst": "264277",
   "name": "수의사법 시행령",
+  "payload_law_id": "004029",
   "promulgation_date": "20240723",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "88b4dbb32df1bc7c"
  },
@@ -40715,6 +40730,8 @@
   "version_signature": "49e6be3dcb076ead"
  },
  "law:eflaw:007570": {
+  "collected_signature": "2ba3598e382ecfe1",
+  "content_hash": "91a636ee4fe0fe5fb312075ad04b9a4b8c8a63718a6563e05351a1d8991d4f31",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285617&type=HTML&mobileYn=&efYd=20260421",
   "doc_domain": "law",
   "doc_id": "007570",
@@ -40722,11 +40739,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20260421",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:39.071208+00:00",
+  "last_collected_at": "2026-08-24T07:48:54.618989+00:00",
   "ministry": "농림축산식품부",
   "mst": "285617",
   "name": "수의사법 시행규칙",
+  "payload_law_id": "007570",
   "promulgation_date": "20260421",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2ba3598e382ecfe1"
  },
@@ -79077,6 +79097,8 @@
   "version_signature": "660ceda2fa6b5826"
  },
  "law:eflaw:012247": {
+  "collected_signature": "97ba6324a74e8cc1",
+  "content_hash": "23db7dee9f78180cf75e41f08b8a7410f094f2fe5b96d8147d531aa071ded065",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269925&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "012247",
@@ -79084,12 +79106,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:40.933182+00:00",
+  "last_collected_at": "2026-08-24T07:45:36.101391+00:00",
   "ministry": "식품의약품안전처",
   "mst": "269925",
   "name": "수입식품안전관리 특별법",
+  "payload_law_id": "012247",
   "promulgation_date": "20250318",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "97ba6324a74e8cc1"
  },
  "law:eflaw:012248": {
@@ -81695,6 +81720,8 @@
   "version_signature": "c91dadd64fed5703"
  },
  "law:eflaw:012486": {
+  "collected_signature": "876c2c2010894141",
+  "content_hash": "fd3d144b88c25b02f55ebc62a8df71d47e1de986fbcc2cad2d73793aa20842ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280513&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "012486",
@@ -81702,11 +81729,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251223",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:40.617302+00:00",
+  "last_collected_at": "2026-08-24T07:47:15.297756+00:00",
   "ministry": "식품의약품안전처",
   "mst": "280513",
   "name": "수입식품안전관리 특별법 시행령",
+  "payload_law_id": "012486",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "876c2c2010894141"
  },
@@ -81928,6 +81958,8 @@
   "version_signature": "96d0aff99967eaf2"
  },
  "law:eflaw:012500": {
+  "collected_signature": "184a5e0e1a290176",
+  "content_hash": "525aae28f7d77d6ef7ebc85c93d9bc55aac7a9d3f9c20d273746fcda59c6273c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272975&type=HTML&mobileYn=&efYd=20250723",
   "doc_domain": "law",
   "doc_id": "012500",
@@ -81935,11 +81967,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20250723",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:41.173909+00:00",
+  "last_collected_at": "2026-08-24T07:49:07.292300+00:00",
   "ministry": "식품의약품안전처",
   "mst": "272975",
   "name": "수입식품안전관리 특별법 시행규칙",
+  "payload_law_id": "012500",
   "promulgation_date": "20250723",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "184a5e0e1a290176"
  },
@@ -92368,6 +92403,8 @@
   "version_signature": "c41e01e2bd7dcdb4"
  },
  "law:eflaw:014015": {
+  "collected_signature": "8d24331b1d452b94",
+  "content_hash": "e159bd38744152a7daa7c5e21237f56aad6c69825e0b11eb6ec212194ecc56b1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281197&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014015",
@@ -92375,12 +92412,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T07:39:38.955285+00:00",
+  "last_collected_at": "2026-08-24T07:44:20.568834+00:00",
   "ministry": "기후에너지환경부",
   "mst": "281197",
   "name": "수소경제 육성 및 수소 안전관리에 관한 법률 시행령",
+  "payload_law_id": "014015",
   "promulgation_date": "20251230",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "8d24331b1d452b94"
  },
  "law:eflaw:014016": {
