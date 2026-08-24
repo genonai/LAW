@@ -2409,6 +2409,8 @@
   "version_signature": "7d69ced461334ff9"
  },
  "law:eflaw:000360": {
+  "collected_signature": "70a164823f31b1ea",
+  "content_hash": "8f2822b3f24c716f3e1755108483a87c6fa9af17cc7e9ef3c13858b334e530fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281985&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "000360",
@@ -2416,12 +2418,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:39.727267+00:00",
+  "last_collected_at": "2026-08-24T05:54:56.986103+00:00",
   "ministry": "중소벤처기업부",
   "mst": "281985",
   "name": "소상공인 보호 및 지원에 관한 법률",
+  "payload_law_id": "000360",
   "promulgation_date": "20251230",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "70a164823f31b1ea"
  },
  "law:eflaw:000370": {
@@ -9862,6 +9867,8 @@
   "version_signature": "e51f81879ae4ecfa"
  },
  "law:eflaw:001589": {
+  "collected_signature": "c5560d4ef74839a6",
+  "content_hash": "65f0bbccb369d8f253bb48f6147aa33bb617089d7797a64378bb2be5f720aab4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277233&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001589",
@@ -9869,12 +9876,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:39.070608+00:00",
+  "last_collected_at": "2026-08-24T05:52:02.661194+00:00",
   "ministry": "공정거래위원회",
   "mst": "277233",
   "name": "소비자기본법",
+  "payload_law_id": "001589",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c5560d4ef74839a6"
  },
  "law:eflaw:001590": {
@@ -13012,6 +13022,8 @@
   "version_signature": "6d74a6b14cb1da09"
  },
  "law:eflaw:001987": {
+  "collected_signature": "d37005ff3b125853",
+  "content_hash": "741fc0e732abe227e9e0c79f40800ef65c72babc5a01ca371330529b3ce1303c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270419&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "001987",
@@ -13019,12 +13031,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:39.386849+00:00",
+  "last_collected_at": "2026-08-24T05:54:42.182220+00:00",
   "ministry": "공정거래위원회",
   "mst": "270419",
   "name": "소비자생활협동조합법",
+  "payload_law_id": "001987",
   "promulgation_date": "20250401",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d37005ff3b125853"
  },
  "law:eflaw:001988": {
@@ -22892,6 +22907,8 @@
   "version_signature": "2d7b3c98cb8c08e5"
  },
  "law:eflaw:003979": {
+  "collected_signature": "ae84092b8fbf582f",
+  "content_hash": "b0a35eb10262778768f7b840be11ba0a059be11d024e9a54630ee47399d57482",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281371&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003979",
@@ -22899,15 +22916,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:40.818620+00:00",
+  "last_collected_at": "2026-08-24T05:55:54.693707+00:00",
   "ministry": "공정거래위원회",
   "mst": "281371",
   "name": "소비자기본법 시행령",
+  "payload_law_id": "003979",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ae84092b8fbf582f"
  },
  "law:eflaw:003980": {
+  "collected_signature": "1232f5db53dce1c0",
+  "content_hash": "9965c1760b63dcbd39036abd34bdf297d25c20a69e61e9a8b3091fb90a05ff39",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284783&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "003980",
@@ -22915,11 +22937,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:40.583473+00:00",
+  "last_collected_at": "2026-08-24T05:54:49.816529+00:00",
   "ministry": "공정거래위원회",
   "mst": "284783",
   "name": "소비자생활협동조합법 시행령",
+  "payload_law_id": "003980",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1232f5db53dce1c0"
  },
@@ -40268,6 +40293,8 @@
   "version_signature": "608bcc4aa0c7b173"
  },
  "law:eflaw:007519": {
+  "collected_signature": "4afc504074a8fa06",
+  "content_hash": "9819431d1de294232730fb6686f6d3f578b26a5e51737c4e85c6900cddd80604",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279211&type=HTML&mobileYn=&efYd=20251002",
   "doc_domain": "law",
   "doc_id": "007519",
@@ -40275,11 +40302,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20251002",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:39.827242+00:00",
+  "last_collected_at": "2026-08-24T05:54:12.183509+00:00",
   "ministry": "공정거래위원회",
   "mst": "279211",
   "name": "소비자생활협동조합법 시행규칙",
+  "payload_law_id": "007519",
   "promulgation_date": "20251002",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4afc504074a8fa06"
  },
@@ -60392,6 +60422,8 @@
   "version_signature": "edfe95cac162dadc"
  },
  "law:eflaw:010567": {
+  "collected_signature": "c6eaa1af39b12667",
+  "content_hash": "5412a35d245bb081fef9b22ad9d00e05bd3c7b6614b51e8288c33bd6fcd1deeb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=81425&type=HTML&mobileYn=&efYd=20080101",
   "doc_domain": "law",
   "doc_id": "010567",
@@ -60399,11 +60431,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20080101",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:38.921052+00:00",
+  "last_collected_at": "2026-08-24T05:49:55.019566+00:00",
   "ministry": "대법원",
   "mst": "81425",
   "name": "소비자단체소송규칙",
+  "payload_law_id": "010567",
   "promulgation_date": "20071128",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c6eaa1af39b12667"
  },
@@ -72932,6 +72967,8 @@
   "version_signature": "b30f8a8d5eb20065"
  },
  "law:eflaw:011657": {
+  "collected_signature": "0f53b1bde3531ecd",
+  "content_hash": "b1a9407442a49c978ca42b772cf4165db818a00e73307037728a97f149cef5f4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286679&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "011657",
@@ -72939,11 +72976,14 @@
   "doc_type": "중소벤처기업부령",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-24T05:49:38.389112+00:00",
+  "last_collected_at": "2026-08-24T05:54:16.279216+00:00",
   "ministry": "중소벤처기업부",
   "mst": "286679",
   "name": "소상공인 보호 및 지원에 관한 법률 시행규칙",
+  "payload_law_id": "011657",
   "promulgation_date": "20260602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0f53b1bde3531ecd"
  },
