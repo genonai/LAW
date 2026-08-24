@@ -399,6 +399,8 @@
   "version_signature": "41dc28ca16c5ab4b"
  },
  "law:eflaw:000061": {
+  "collected_signature": "545b431272793416",
+  "content_hash": "761e72629e9882e11c8a7544cc1370345d9cac3b0c0b5a1b19dc824ec259d735",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277077&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000061",
@@ -406,11 +408,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:07.368745+00:00",
+  "last_collected_at": "2026-08-24T09:56:52.676444+00:00",
   "ministry": "해양수산부",
   "mst": "277077",
   "name": "신항만건설 촉진법",
+  "payload_law_id": "000061",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "545b431272793416"
  },
@@ -1154,6 +1159,8 @@
   "version_signature": "0851f10d561be92e"
  },
  "law:eflaw:000161": {
+  "collected_signature": "49076e728b57bb73",
+  "content_hash": "c50465295a0cfb2ca96fa71faef0ecc6d05b9d3b676a51ad9556d350685f7d19",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276765&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "000161",
@@ -1161,12 +1168,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260326",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:04.144788+00:00",
+  "last_collected_at": "2026-08-24T09:51:16.503164+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276765",
   "name": "실내공기질 관리법",
+  "payload_law_id": "000161",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "49076e728b57bb73"
  },
  "law:eflaw:000162": {
@@ -23912,6 +23922,8 @@
   "version_signature": "754454aecc2c143d"
  },
  "law:eflaw:004113": {
+  "collected_signature": "db1959655786177e",
+  "content_hash": "f5eea1901daa1390128eb849df8676eb661ca81a446b68dcbb2a115f7ef52062",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281315&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004113",
@@ -23919,12 +23931,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:06.576581+00:00",
+  "last_collected_at": "2026-08-24T09:54:53.899291+00:00",
   "ministry": "해양수산부",
   "mst": "281315",
   "name": "신항만건설 촉진법 시행령",
+  "payload_law_id": "004113",
   "promulgation_date": "20251230",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "db1959655786177e"
  },
  "law:eflaw:004119": {
@@ -27156,6 +27171,8 @@
   "version_signature": "361cc39ff44e5aa0"
  },
  "law:eflaw:005137": {
+  "collected_signature": "12b82033b7207bea",
+  "content_hash": "0c07ab50c6cd628060001df851797e984febc8f13353b4599409bfa57a453897",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285467&type=HTML&mobileYn=&efYd=20260416",
   "doc_domain": "law",
   "doc_id": "005137",
@@ -27163,11 +27180,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260416",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:03.611409+00:00",
+  "last_collected_at": "2026-08-24T09:50:02.127019+00:00",
   "ministry": "기후에너지환경부",
   "mst": "285467",
   "name": "실내공기질 관리법 시행령",
+  "payload_law_id": "005137",
   "promulgation_date": "20260416",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "12b82033b7207bea"
  },
@@ -41299,6 +41319,8 @@
   "version_signature": "52b44339dddb25bd"
  },
  "law:eflaw:007648": {
+  "collected_signature": "a416286f479d0a1c",
+  "content_hash": "f57e18abe5d609316b04d94f818db925fe93dd9a20923c290bb7a6723cf2dcba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264393&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
   "doc_id": "007648",
@@ -41306,11 +41328,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20240724",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:05.252660+00:00",
+  "last_collected_at": "2026-08-24T09:49:37.715646+00:00",
   "ministry": "해양수산부",
   "mst": "264393",
   "name": "신항만건설 촉진법 시행규칙",
+  "payload_law_id": "007648",
   "promulgation_date": "20240724",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a416286f479d0a1c"
  },
@@ -43791,6 +43816,8 @@
   "version_signature": "084905aa3aa4e21a"
  },
  "law:eflaw:008375": {
+  "collected_signature": "9352ebed1a8321ff",
+  "content_hash": "cfbd69a699d53f2cce5fa8abdfc1fa562a9b4e685e8ca33df2703197abf417aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287429&type=HTML&mobileYn=&efYd=20260622",
   "doc_domain": "law",
   "doc_id": "008375",
@@ -43798,11 +43825,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260622",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:05.618753+00:00",
+  "last_collected_at": "2026-08-24T09:54:34.366609+00:00",
   "ministry": "기후에너지환경부",
   "mst": "287429",
   "name": "실내공기질 관리법 시행규칙",
+  "payload_law_id": "008375",
   "promulgation_date": "20260622",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9352ebed1a8321ff"
  },
@@ -53308,6 +53338,8 @@
   "version_signature": "c4f4d78db5c70401"
  },
  "law:eflaw:009915": {
+  "collected_signature": "0675bbbd5c971c3a",
+  "content_hash": "4372ac724a02b0cf277ef3cd25f226094b2fc7e2cb66d802802401bf854121db",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285883&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "009915",
@@ -53315,11 +53347,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:07.117704+00:00",
+  "last_collected_at": "2026-08-24T09:59:47.894033+00:00",
   "ministry": "국토교통부,행정중심복합도시건설청",
   "mst": "285883",
   "name": "신행정수도 후속대책을 위한 연기ㆍ공주지역 행정중심복합도시 건설을 위한 특별법",
+  "payload_law_id": "009915",
   "promulgation_date": "20260512",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0675bbbd5c971c3a"
  },
@@ -53769,6 +53804,8 @@
   "version_signature": "9174b3e23f72df69"
  },
  "law:eflaw:009954": {
+  "collected_signature": "0327c1bcd2fc3b45",
+  "content_hash": "558f7a1bc159f21a12c95e977eca7b9f07a62583ca6d41dbb2b6944ba5625da4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281283&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009954",
@@ -53776,11 +53813,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T09:48:05.060721+00:00",
+  "last_collected_at": "2026-08-24T09:54:54.625298+00:00",
   "ministry": "국토교통부,행정중심복합도시건설청",
   "mst": "281283",
   "name": "신행정수도 후속대책을 위한 연기ㆍ공주지역 행정중심복합도시 건설을 위한 특별법 시행령",
+  "payload_law_id": "009954",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0327c1bcd2fc3b45"
  },
