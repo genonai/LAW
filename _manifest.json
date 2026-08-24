@@ -9899,6 +9899,8 @@
   "version_signature": "fbd88063e1a41513"
  },
  "law:eflaw:001549": {
+  "collected_signature": "e2a7c7b903b1e796",
+  "content_hash": "bf44ea8296a68abe729e0ac4f8c7e9530de5029b559fffba573d94c33bbc04b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282001&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001549",
@@ -9906,11 +9908,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:29.148369+00:00",
+  "last_collected_at": "2026-08-24T16:54:36.798643+00:00",
   "ministry": "금융위원회",
   "mst": "282001",
   "name": "은행법",
+  "payload_law_id": "001549",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e2a7c7b903b1e796"
  },
@@ -25668,6 +25673,8 @@
   "version_signature": "f72d906873ec142e"
  },
  "law:eflaw:004470": {
+  "collected_signature": "9ee50b036b0c5ef0",
+  "content_hash": "ea60a66248aa3c1012a19dc49031c48c33c3a67202ce61e615faf6f777c185ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287003&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "004470",
@@ -25675,11 +25682,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:29.297970+00:00",
+  "last_collected_at": "2026-08-24T16:56:15.304791+00:00",
   "ministry": "금융위원회",
   "mst": "287003",
   "name": "은행법 시행령",
+  "payload_law_id": "004470",
   "promulgation_date": "20260616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9ee50b036b0c5ef0"
  },
@@ -57830,6 +57840,8 @@
   "version_signature": "c3aca8b9bbbfeaf8"
  },
  "law:eflaw:010197": {
+  "collected_signature": "b461a79b1fa9f8e4",
+  "content_hash": "a2dfd21e9258bf07ff67ada6aa57a353594d8d3604275904be49c5d89cd921ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270191&type=HTML&mobileYn=&efYd=20250626",
   "doc_domain": "law",
   "doc_id": "010197",
@@ -57837,11 +57849,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250626",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:30.046693+00:00",
+  "last_collected_at": "2026-08-24T16:51:32.946595+00:00",
   "ministry": "문화체육관광부",
   "mst": "270191",
   "name": "음악산업진흥에 관한 법률",
+  "payload_law_id": "010197",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b461a79b1fa9f8e4"
  },
@@ -59219,6 +59234,8 @@
   "version_signature": "6a3f843991a58564"
  },
  "law:eflaw:010308": {
+  "collected_signature": "9d8291329438d919",
+  "content_hash": "872f49137c00c707a23c05246ccf3dbe119aafc62b6db431f44236073414a817",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256669&type=HTML&mobileYn=&efYd=20231212",
   "doc_domain": "law",
   "doc_id": "010308",
@@ -59226,11 +59243,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20231212",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:27.300517+00:00",
+  "last_collected_at": "2026-08-24T16:51:22.968964+00:00",
   "ministry": "문화체육관광부",
   "mst": "256669",
   "name": "음악산업진흥에 관한 법률 시행령",
+  "payload_law_id": "010308",
   "promulgation_date": "20231212",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9d8291329438d919"
  },
@@ -59256,6 +59276,8 @@
   "version_signature": "9469ff9c819bf79e"
  },
  "law:eflaw:010312": {
+  "collected_signature": "a3528da3f52ebe5f",
+  "content_hash": "ad040c7d0f40aa213b1ba7209a68f04d419e63d36894d9dcbf9e876510e898b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270011&type=HTML&mobileYn=&efYd=20250314",
   "doc_domain": "law",
   "doc_id": "010312",
@@ -59263,11 +59285,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20250314",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:29.863970+00:00",
+  "last_collected_at": "2026-08-24T16:51:02.117578+00:00",
   "ministry": "문화체육관광부",
   "mst": "270011",
   "name": "음악산업진흥에 관한 법률 시행규칙",
+  "payload_law_id": "010312",
   "promulgation_date": "20250314",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a3528da3f52ebe5f"
  },
@@ -105536,6 +105561,8 @@
   "version_signature": "c0debc9fc745fb3b"
  },
  "law:eflaw:014897": {
+  "collected_signature": "4362b8982f2f3210",
+  "content_hash": "5a41d5b898793dfb0df6680218376fc562897e4f7da9eea76b813c17354910e3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273921&type=HTML&mobileYn=&efYd=20251027",
   "doc_domain": "law",
   "doc_id": "014897",
@@ -105543,11 +105570,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251027",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:28.215843+00:00",
+  "last_collected_at": "2026-08-24T16:47:14.340086+00:00",
   "ministry": "법무부",
   "mst": "273921",
   "name": "윤석열 전 대통령 등에 의한 내란ㆍ외환 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
+  "payload_law_id": "014897",
   "promulgation_date": "20250926",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4362b8982f2f3210"
  },
@@ -106970,6 +107000,8 @@
   "version_signature": "5348e28517718852"
  },
  "law:eflaw:015033": {
+  "collected_signature": "835b6194eca97e20",
+  "content_hash": "4b6fc916a735e331b63ec224980be8d9b71b30031d6549262642c4c27339289f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288407&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "015033",
@@ -106977,11 +107009,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260721",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:28.610291+00:00",
+  "last_collected_at": "2026-08-24T16:48:19.101689+00:00",
   "ministry": "법무부",
   "mst": "288407",
   "name": "윤석열ㆍ김건희에 의한 내란ㆍ외환 및 국정농단 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
+  "payload_law_id": "015033",
   "promulgation_date": "20260721",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "835b6194eca97e20"
  },
@@ -107449,6 +107484,8 @@
   "version_signature": "3d14c9a0a538dbf5"
  },
  "law:eflaw:015068": {
+  "collected_signature": "d2201991be24a467",
+  "content_hash": "2a7efac894ebbcda3d7c74026a375a41325308d36a235a0e354c95f4aec1caff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286731&type=HTML&mobileYn=&efYd=20270318",
   "doc_domain": "law",
   "doc_id": "015068",
@@ -107456,12 +107493,15 @@
   "doc_type": "법률",
   "enforcement_date": "20270318",
   "is_active": true,
+  "last_checked_at": "2026-08-24T16:46:27.833320+00:00",
+  "last_collected_at": "2026-08-24T16:46:34.815739+00:00",
   "ministry": "국토교통부",
   "mst": "286731",
   "name": "은퇴자마을 조성 및 운영에 관한 특별법",
+  "payload_law_id": "015068",
   "promulgation_date": "20260609",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d2201991be24a467"
  },
  "law:eflaw:015070": {
