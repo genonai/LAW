@@ -3530,6 +3530,8 @@
   "version_signature": "78083ff1bdc1168a"
  },
  "law:eflaw:000667": {
+  "collected_signature": "e2771d08ae4bffdc",
+  "content_hash": "d84ae28990f4f081366cfbf647108d33cd5e197df82e84fda71d40964c95e16e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260021&type=HTML&mobileYn=&efYd=20240807",
   "doc_domain": "law",
   "doc_id": "000667",
@@ -3537,11 +3539,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240807",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:53.911110+00:00",
+  "last_collected_at": "2026-08-24T11:05:35.282473+00:00",
   "ministry": "공정거래위원회",
   "mst": "260021",
   "name": "약관의 규제에 관한 법률",
+  "payload_law_id": "000667",
   "promulgation_date": "20240206",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e2771d08ae4bffdc"
  },
@@ -11953,6 +11958,8 @@
   "version_signature": "4c906edd2ff7079f"
  },
  "law:eflaw:001783": {
+  "collected_signature": "7cad2ab7351bdbb9",
+  "content_hash": "ea330968223879a0c2651aa3ab399e880c78c88e8d40384d919983bfba6d6744",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279725&type=HTML&mobileYn=&efYd=20260621",
   "doc_domain": "law",
   "doc_id": "001783",
@@ -11960,12 +11967,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260621",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:52.142429+00:00",
+  "last_collected_at": "2026-08-24T11:14:20.579760+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "279725",
   "name": "약사법",
+  "payload_law_id": "001783",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 6,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7cad2ab7351bdbb9"
  },
  "law:eflaw:001784": {
@@ -24010,6 +24020,8 @@
   "version_signature": "8ca1a51a3ea2a9a1"
  },
  "law:eflaw:004132": {
+  "collected_signature": "d9e8e1eecf370656",
+  "content_hash": "579f9ee092dcef7c753a8ae42888d8853581a61fa14153bd1b98dde6ce1b05a2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278387&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "004132",
@@ -24017,15 +24029,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:53.796298+00:00",
+  "last_collected_at": "2026-08-24T11:06:02.724266+00:00",
   "ministry": "산업통상부",
   "mst": "278387",
   "name": "액화석유가스의 안전관리 및 사업법 시행령",
+  "payload_law_id": "004132",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d9e8e1eecf370656"
  },
  "law:eflaw:004135": {
+  "collected_signature": "730339d6ba7f0c9c",
+  "content_hash": "f7937beb12c26d59a5860446ce90cb3229dd99aebc83c9efade9e09d3e6ebcf7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256827&type=HTML&mobileYn=&efYd=20231221",
   "doc_domain": "law",
   "doc_id": "004135",
@@ -24033,11 +24050,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20231221",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:52.612811+00:00",
+  "last_collected_at": "2026-08-24T10:50:50.300737+00:00",
   "ministry": "공정거래위원회",
   "mst": "256827",
   "name": "약관의 규제에 관한 법률 시행령",
+  "payload_law_id": "004135",
   "promulgation_date": "20231212",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "730339d6ba7f0c9c"
  },
@@ -41448,6 +41468,8 @@
   "version_signature": "a7310ef29b4be39b"
  },
  "law:eflaw:007667": {
+  "collected_signature": "488966b9ceefb417",
+  "content_hash": "4d0cca18fb8fb93d727825ccf56f26d737ac5b25d4b562003d18a8fa0bcadd4b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282369&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "007667",
@@ -41455,11 +41477,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:52.672693+00:00",
+  "last_collected_at": "2026-08-24T11:07:34.732615+00:00",
   "ministry": "산업통상부",
   "mst": "282369",
   "name": "액화석유가스의 안전관리 및 사업법 시행규칙",
+  "payload_law_id": "007667",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "488966b9ceefb417"
  },
@@ -51297,6 +51322,8 @@
   "version_signature": "ab8184748e810f78"
  },
  "law:eflaw:009683": {
+  "collected_signature": "c34086714de44c1d",
+  "content_hash": "03c437e258e2b6c14227d0dbbc2ee95b144df01e56fc6e159a4865fea54f3d17",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279791&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "009683",
@@ -51304,12 +51331,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:52.080557+00:00",
+  "last_collected_at": "2026-08-24T11:07:06.693424+00:00",
   "ministry": "기후에너지환경부",
   "mst": "279791",
   "name": "야생생물 보호 및 관리에 관한 법률",
+  "payload_law_id": "009683",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c34086714de44c1d"
  },
  "law:eflaw:009684": {
@@ -53195,6 +53225,8 @@
   "version_signature": "33c499ea21af10af"
  },
  "law:eflaw:009890": {
+  "collected_signature": "41bf54ad7a42e8b0",
+  "content_hash": "9faf5491d681fc6a9d164a7a30b4bcde28b0f89ad8623229bb54902b4a86059d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286031&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "009890",
@@ -53202,11 +53234,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:53.195339+00:00",
+  "last_collected_at": "2026-08-24T11:08:30.560748+00:00",
   "ministry": "기후에너지환경부",
   "mst": "286031",
   "name": "야생생물 보호 및 관리에 관한 법률 시행규칙",
+  "payload_law_id": "009890",
   "promulgation_date": "20260512",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "41bf54ad7a42e8b0"
  },
@@ -53232,6 +53267,8 @@
   "version_signature": "28f377e0021af416"
  },
  "law:eflaw:009892": {
+  "collected_signature": "d1b05c91bd04b19d",
+  "content_hash": "45130e47f5538d7101d6b00de646b9e187f21d71581532b04b6879e6639979d0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282985&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "009892",
@@ -53239,11 +53276,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260201",
   "is_active": true,
+  "last_checked_at": "2026-08-24T10:49:54.592037+00:00",
+  "last_collected_at": "2026-08-24T10:57:59.413800+00:00",
   "ministry": "기후에너지환경부",
   "mst": "282985",
   "name": "야생생물 보호 및 관리에 관한 법률 시행령",
+  "payload_law_id": "009892",
   "promulgation_date": "20260127",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d1b05c91bd04b19d"
  },
