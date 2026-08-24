@@ -49105,11 +49105,13 @@
   "doc_type": "법률",
   "enforcement_date": "20260602",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:06.871752+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "교육부",
   "mst": "286589",
   "name": "인적자원개발 기본법",
   "promulgation_date": "20260602",
-  "status": "pending",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "d34da67d6f173b46"
  },
@@ -61572,6 +61574,8 @@
   "version_signature": "226c46622fec0a24"
  },
  "law:eflaw:010486": {
+  "collected_signature": "1156e162c709053c",
+  "content_hash": "cd9fbc5cf68ac5c13c19c663a0f5dca54ca2aaace378371ff202cde2d92b8171",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270193&type=HTML&mobileYn=&efYd=20250626",
   "doc_domain": "law",
   "doc_id": "010486",
@@ -61579,11 +61583,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250626",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:07.754677+00:00",
+  "last_collected_at": "2026-08-24T18:59:47.625783+00:00",
   "ministry": "문화체육관광부",
   "mst": "270193",
   "name": "인쇄문화산업 진흥법",
+  "payload_law_id": "010486",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1156e162c709053c"
  },
@@ -62943,6 +62950,8 @@
   "version_signature": "40ca95d07989ae78"
  },
  "law:eflaw:010591": {
+  "collected_signature": "3ce760ff7b63109a",
+  "content_hash": "2403e6f9d07d438b1b06de592b91cb8073750c4874d7066d131aa87e6473322f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=198482&type=HTML&mobileYn=&efYd=20171031",
   "doc_domain": "law",
   "doc_id": "010591",
@@ -62950,11 +62959,14 @@
   "doc_type": "법률",
   "enforcement_date": "20171031",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:09.562127+00:00",
+  "last_collected_at": "2026-08-24T19:01:00.611645+00:00",
   "ministry": "법무부",
   "mst": "198482",
   "name": "인신보호법",
+  "payload_law_id": "010591",
   "promulgation_date": "20171031",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3ce760ff7b63109a"
  },
@@ -63259,6 +63271,8 @@
   "version_signature": "66cf61c192875813"
  },
  "law:eflaw:010612": {
+  "collected_signature": "278e31894f9895c9",
+  "content_hash": "ace483c5e6c8b1c578a68eb6a45df85a4bb5bc535d4fe04bbbb873714d99925d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=229457&type=HTML&mobileYn=&efYd=20210217",
   "doc_domain": "law",
   "doc_id": "010612",
@@ -63266,11 +63280,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20210217",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:09.720568+00:00",
+  "last_collected_at": "2026-08-24T19:01:15.112175+00:00",
   "ministry": "문화체육관광부",
   "mst": "229457",
   "name": "인쇄문화산업 진흥법 시행령",
+  "payload_law_id": "010612",
   "promulgation_date": "20210217",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "278e31894f9895c9"
  },
@@ -64921,6 +64938,8 @@
   "version_signature": "9b5feb267a2dfa9f"
  },
  "law:eflaw:010760": {
+  "collected_signature": "4eda2e9e5273ec2c",
+  "content_hash": "0b0b15d9e6ed5549581919905e5fa1d06b6b3857075d9e05d7cbf509620b7ece",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=169905&type=HTML&mobileYn=&efYd=20150330",
   "doc_domain": "law",
   "doc_id": "010760",
@@ -64928,11 +64947,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20150330",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:09.037402+00:00",
+  "last_collected_at": "2026-08-24T19:00:11.143719+00:00",
   "ministry": "대법원",
   "mst": "169905",
   "name": "인신보호규칙",
+  "payload_law_id": "010760",
   "promulgation_date": "20150330",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4eda2e9e5273ec2c"
  },
@@ -96211,6 +96233,8 @@
   "version_signature": "3f5a3f92fbc4035b"
  },
  "law:eflaw:014071": {
+  "collected_signature": "94ac4df948394888",
+  "content_hash": "ae851bc749a71a0149d6b5ba79dce504b2470eb9d7aeeded02ceeb0b583d237a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276899&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "014071",
@@ -96218,12 +96242,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:07.230112+00:00",
+  "last_collected_at": "2026-08-24T19:01:55.773495+00:00",
   "ministry": "성평등가족부",
   "mst": "276899",
   "name": "인신매매등방지 및 피해자보호 등에 관한 법률",
+  "payload_law_id": "014071",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "94ac4df948394888"
  },
  "law:eflaw:014073": {
@@ -99892,6 +99919,8 @@
   "version_signature": "780ea1f286212276"
  },
  "law:eflaw:014371": {
+  "collected_signature": "e241bdfbbc8ceb85",
+  "content_hash": "244c5bdc4beff8dbdc4c7e96f51145b72b16422235fc3c6f4aee741392ea288a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284943&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "014371",
@@ -99899,11 +99928,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:09.338126+00:00",
+  "last_collected_at": "2026-08-24T19:01:38.764231+00:00",
   "ministry": "성평등가족부",
   "mst": "284943",
   "name": "인신매매등방지 및 피해자보호 등에 관한 법률 시행령",
+  "payload_law_id": "014371",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e241bdfbbc8ceb85"
  },
@@ -99924,6 +99956,8 @@
   "version_signature": "f988cfe107798bab"
  },
  "law:eflaw:014373": {
+  "collected_signature": "ac0c8c6e525631a7",
+  "content_hash": "26ececf3e22623c72b08a68dba2573f701648db728c94f9dc8940d8674bcc5e2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288285&type=HTML&mobileYn=&efYd=20260722",
   "doc_domain": "law",
   "doc_id": "014373",
@@ -99931,11 +99965,14 @@
   "doc_type": "성평등가족부령",
   "enforcement_date": "20260722",
   "is_active": true,
+  "last_checked_at": "2026-08-24T18:59:08.404402+00:00",
+  "last_collected_at": "2026-08-24T19:00:01.148512+00:00",
   "ministry": "성평등가족부",
   "mst": "288285",
   "name": "인신매매등방지 및 피해자보호 등에 관한 법률 시행규칙",
+  "payload_law_id": "014373",
   "promulgation_date": "20260722",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ac0c8c6e525631a7"
  },
