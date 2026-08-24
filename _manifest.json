@@ -1223,6 +1223,8 @@
   "version_signature": "a7ef536d77dcfc88"
  },
  "law:eflaw:000167": {
+  "collected_signature": "1e40653d7661a447",
+  "content_hash": "80e37970c0cd196a7993821fda7d65a88855f818bad60b1be0500acc811aca8b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276753&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000167",
@@ -1230,11 +1232,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:29.724783+00:00",
+  "last_collected_at": "2026-08-24T06:06:42.596495+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276753",
   "name": "소음ㆍ진동관리법",
+  "payload_law_id": "000167",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1e40653d7661a447"
  },
@@ -7132,6 +7137,8 @@
   "version_signature": "a85b907131b63a6f"
  },
  "law:eflaw:001219": {
+  "collected_signature": "c3a741277c06b2f3",
+  "content_hash": "15cbed1bbccf98c9a1685ece6d39a8c0ff2dfb2f5e96d9b481755533a01e5aef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249281&type=HTML&mobileYn=&efYd=20230328",
   "doc_domain": "law",
   "doc_id": "001219",
@@ -7139,12 +7146,15 @@
   "doc_type": "법률",
   "enforcement_date": "20230328",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:26.398076+00:00",
+  "last_collected_at": "2026-08-24T06:01:06.290912+00:00",
   "ministry": "법무부",
   "mst": "249281",
   "name": "소액사건심판법",
+  "payload_law_id": "001219",
   "promulgation_date": "20230328",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c3a741277c06b2f3"
  },
  "law:eflaw:001220": {
@@ -22959,6 +22969,8 @@
   "version_signature": "1232f5db53dce1c0"
  },
  "law:eflaw:003984": {
+  "collected_signature": "3dc2a8b37d747d95",
+  "content_hash": "ad681181709281722de35ec7b1f91f4d0e063a1812dacaaf494c304d55dc7024",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=208701&type=HTML&mobileYn=&efYd=20190601",
   "doc_domain": "law",
   "doc_id": "003984",
@@ -22966,15 +22978,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20190601",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:26.630928+00:00",
+  "last_collected_at": "2026-08-24T06:00:32.634741+00:00",
   "ministry": "법무부",
   "mst": "208701",
   "name": "소송촉진 등에 관한 특례법 제3조제1항 본문의 법정이율에 관한 규정",
+  "payload_law_id": "003984",
   "promulgation_date": "20190521",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3dc2a8b37d747d95"
  },
  "law:eflaw:003986": {
+  "collected_signature": "0a158882d9ca68ed",
+  "content_hash": "72b3093aa1236d5fe4f0eaf5b7e3a99997640c42f868951f8f2d7c4b89e3ee71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284785&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "003986",
@@ -22982,11 +22999,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:27.437882+00:00",
+  "last_collected_at": "2026-08-24T06:06:06.781576+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284785",
   "name": "소음ㆍ진동관리법 시행령",
+  "payload_law_id": "003986",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0a158882d9ca68ed"
  },
@@ -31118,6 +31138,8 @@
   "version_signature": "4769817c7c5920a3"
  },
  "law:eflaw:005899": {
+  "collected_signature": "8dbc2848dee20baa",
+  "content_hash": "98746ced03d5f43b77a38099b097d3fb4715237359fd3ffbf4920155435fb0c7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=187995&type=HTML&mobileYn=&efYd=20170101",
   "doc_domain": "law",
   "doc_id": "005899",
@@ -31125,11 +31147,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20170101",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:27.547180+00:00",
+  "last_collected_at": "2026-08-24T06:05:53.841401+00:00",
   "ministry": "대법원",
   "mst": "187995",
   "name": "소액사건심판규칙",
+  "payload_law_id": "005899",
   "promulgation_date": "20161129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8dbc2848dee20baa"
  },
@@ -40329,6 +40354,8 @@
   "version_signature": "4afc504074a8fa06"
  },
  "law:eflaw:007520": {
+  "collected_signature": "71d3bb1bba494ac4",
+  "content_hash": "df10afa1c131bf019a054dd93e1da2bacf4d8f7f6ba7112e3dd0356b9eaba676",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287427&type=HTML&mobileYn=&efYd=20260622",
   "doc_domain": "law",
   "doc_id": "007520",
@@ -40336,11 +40363,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260622",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:29.101159+00:00",
+  "last_collected_at": "2026-08-24T06:06:18.329596+00:00",
   "ministry": "기후에너지환경부",
   "mst": "287427",
   "name": "소음ㆍ진동관리법 시행규칙",
+  "payload_law_id": "007520",
   "promulgation_date": "20260622",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "71d3bb1bba494ac4"
  },
@@ -45689,6 +45719,8 @@
   "version_signature": "7e5afdeebde8f3ca"
  },
  "law:eflaw:009190": {
+  "collected_signature": "a22c656c6884821d",
+  "content_hash": "9a049c1342dbc80b385b7fdb170d8ac952200f86956e09dba4d9d12ab919fd2f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276539&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009190",
@@ -45696,11 +45728,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:28.161235+00:00",
+  "last_collected_at": "2026-08-24T06:05:03.546353+00:00",
   "ministry": "산업통상부",
   "mst": "276539",
   "name": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법",
+  "payload_law_id": "009190",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a22c656c6884821d"
  },
@@ -45874,6 +45909,8 @@
   "version_signature": "68db8bc51b42a49f"
  },
  "law:eflaw:009206": {
+  "collected_signature": "af188f569a95461a",
+  "content_hash": "48442e5f5bb7e3c430e3a923ed82b621fc707824247e2580e236503c08d91cd2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288057&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009206",
@@ -45881,11 +45918,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-24T06:00:26.073637+00:00",
+  "last_collected_at": "2026-08-24T06:03:26.661987+00:00",
   "ministry": "산업통상부",
   "mst": "288057",
   "name": "소재ㆍ부품ㆍ장비산업 경쟁력 강화 및 공급망 안정화를 위한 특별조치법 시행규칙",
+  "payload_law_id": "009206",
   "promulgation_date": "20260701",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "af188f569a95461a"
  },
