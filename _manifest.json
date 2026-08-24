@@ -463,6 +463,8 @@
   "version_signature": "2f50e4745768f4b5"
  },
  "law:eflaw:000068": {
+  "collected_signature": "8c06a5b08830945a",
+  "content_hash": "5c46095580ac94ad55f138e24578a3a99422a1140fe2a6914ce1b1295829b701",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243141&type=HTML&mobileYn=&efYd=20230611",
   "doc_domain": "law",
   "doc_id": "000068",
@@ -470,11 +472,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230611",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:30.428271+00:00",
+  "last_collected_at": "2026-08-24T02:48:30.692726+00:00",
   "ministry": "해양수산부",
   "mst": "243141",
   "name": "선박법",
+  "payload_law_id": "000068",
   "promulgation_date": "20220610",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8c06a5b08830945a"
  },
@@ -6765,6 +6770,8 @@
   "version_signature": "49727d5a68b4e2ea"
  },
  "law:eflaw:001180": {
+  "collected_signature": "07299087c50d994d",
+  "content_hash": "e8e7284869e8e3800c8ae8d6f3ef0f26440547ce18c36874df290b18f8f87998",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265383&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "001180",
@@ -6772,11 +6779,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:32.117291+00:00",
+  "last_collected_at": "2026-08-24T02:48:02.169845+00:00",
   "ministry": "법무부,해양수산부",
   "mst": "265383",
   "name": "선박등기법",
+  "payload_law_id": "001180",
   "promulgation_date": "20240920",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "07299087c50d994d"
  },
@@ -30860,6 +30870,8 @@
   "version_signature": "ff0269453be4eb24"
  },
  "law:eflaw:005892": {
+  "collected_signature": "1f0fbf3f24d4be7d",
+  "content_hash": "42998d3c2ebdf578fc9a61701403bb1b940889b062012597ef037edf6f0812f0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266767&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "005892",
@@ -30867,11 +30879,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:31.667701+00:00",
+  "last_collected_at": "2026-08-24T02:48:06.643635+00:00",
   "ministry": "대법원",
   "mst": "266767",
   "name": "선박등기규칙",
+  "payload_law_id": "005892",
   "promulgation_date": "20241129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1f0fbf3f24d4be7d"
  },
@@ -72288,6 +72303,8 @@
   "version_signature": "ada39f8f6d563a5e"
  },
  "law:eflaw:011646": {
+  "collected_signature": "e5d3df98a5cfdd4b",
+  "content_hash": "2f423927e7336b14dd18d211c7aa7d8dec3bdec93e78e729d1fdff4810d674a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283721&type=HTML&mobileYn=&efYd=20260303",
   "doc_domain": "law",
   "doc_id": "011646",
@@ -72295,11 +72312,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260303",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:30.753042+00:00",
+  "last_collected_at": "2026-08-24T02:47:04.580345+00:00",
   "ministry": "해양수산부",
   "mst": "283721",
   "name": "선박관리산업발전법 시행령",
+  "payload_law_id": "011646",
   "promulgation_date": "20260303",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e5d3df98a5cfdd4b"
  },
@@ -73066,6 +73086,8 @@
   "version_signature": "af1477cac225d052"
  },
  "law:eflaw:011701": {
+  "collected_signature": "39f7f8c860c38686",
+  "content_hash": "af9858f04a34ba4f7589df999a3dc09de7bf6a40b2d73a61fe410b65c16a39ec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260113&type=HTML&mobileYn=&efYd=20240126",
   "doc_domain": "law",
   "doc_id": "011701",
@@ -73073,11 +73095,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20240126",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:33.556510+00:00",
+  "last_collected_at": "2026-08-24T02:48:14.731939+00:00",
   "ministry": "해양수산부",
   "mst": "260113",
   "name": "선박관리산업발전법 시행규칙",
+  "payload_law_id": "011701",
   "promulgation_date": "20240205",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "39f7f8c860c38686"
  },
@@ -87456,6 +87481,8 @@
   "version_signature": "66102500c55a5749"
  },
  "law:eflaw:013617": {
+  "collected_signature": "684432d8df3c8dc2",
+  "content_hash": "e39d1c05a5a0503e8f69854a6911992c223a7544030fd427c2613f87595682c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267401&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "013617",
@@ -87463,11 +87490,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:30.586272+00:00",
+  "last_collected_at": "2026-08-24T02:47:48.264581+00:00",
   "ministry": "해양경찰청",
   "mst": "267401",
   "name": "선박교통관제에 관한 법률",
+  "payload_law_id": "013617",
   "promulgation_date": "20241220",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "684432d8df3c8dc2"
  },
@@ -88880,6 +88910,8 @@
   "version_signature": "0084a1ba873d606b"
  },
  "law:eflaw:013767": {
+  "collected_signature": "00777a8b8219570a",
+  "content_hash": "f7445fddede7f0de21a330142bba8a91ebcb4bd9e98dd5ee07bb6282405bee8d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271413&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "013767",
@@ -88887,11 +88919,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:31.193747+00:00",
+  "last_collected_at": "2026-08-24T02:48:22.214856+00:00",
   "ministry": "해양경찰청",
   "mst": "271413",
   "name": "선박교통관제에 관한 법률 시행령",
+  "payload_law_id": "013767",
   "promulgation_date": "20250602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "00777a8b8219570a"
  },
@@ -88949,6 +88984,8 @@
   "version_signature": "2bfefa69f0698efc"
  },
  "law:eflaw:013772": {
+  "collected_signature": "43f2efd443564f69",
+  "content_hash": "bff86357b032287d1efb1ae9d4c35fa2db5ba36be80f0631c15afb28214e4bee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271551&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "013772",
@@ -88956,11 +88993,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-24T02:46:33.115379+00:00",
+  "last_collected_at": "2026-08-24T02:48:15.131470+00:00",
   "ministry": "해양경찰청",
   "mst": "271551",
   "name": "선박교통관제에 관한 법률 시행규칙",
+  "payload_law_id": "013772",
   "promulgation_date": "20250609",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "43f2efd443564f69"
  },
