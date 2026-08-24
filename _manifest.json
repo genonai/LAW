@@ -908,6 +908,8 @@
   "version_signature": "5c34aa9e8512b409"
  },
  "law:eflaw:000128": {
+  "collected_signature": "819d9990a27a3dd6",
+  "content_hash": "cd8d29bd41eb9a350c5c9548c782b747cfbd189eb2fb672308925f656baed67e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283451&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "000128",
@@ -915,12 +917,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:49.076178+00:00",
+  "last_collected_at": "2026-08-24T19:27:05.520605+00:00",
   "ministry": "고용노동부",
   "mst": "283451",
   "name": "임금채권보장법",
+  "payload_law_id": "000128",
   "promulgation_date": "20260219",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "819d9990a27a3dd6"
  },
  "law:eflaw:000129": {
@@ -1600,6 +1605,8 @@
   "version_signature": "d68e6d9595b91d5c"
  },
  "law:eflaw:000193": {
+  "collected_signature": "e0dfa6d57168a929",
+  "content_hash": "d010a6c8250c7ba5cc12ca3031e3cc15360e6a54f7fafd1e75e1a09d43684545",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283959&type=HTML&mobileYn=&efYd=20260611",
   "doc_domain": "law",
   "doc_id": "000193",
@@ -1607,11 +1614,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260611",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:48.342875+00:00",
+  "last_collected_at": "2026-08-24T19:25:12.488107+00:00",
   "ministry": "성평등가족부",
   "mst": "283959",
   "name": "일제하 일본군위안부 피해자에 대한 보호ㆍ지원 및 기념사업 등에 관한 법률",
+  "payload_law_id": "000193",
   "promulgation_date": "20260310",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e0dfa6d57168a929"
  },
@@ -26021,6 +26031,8 @@
   "version_signature": "ceb34972af97a975"
  },
  "law:eflaw:004545": {
+  "collected_signature": "1e4966a807da8d66",
+  "content_hash": "9fe42fd603816f00ddeaa77f42f8eaa47fb3e2da626c4c1e06be1093a5562185",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286303&type=HTML&mobileYn=&efYd=20260611",
   "doc_domain": "law",
   "doc_id": "004545",
@@ -26028,11 +26040,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260611",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:46.918368+00:00",
+  "last_collected_at": "2026-08-24T19:25:16.588225+00:00",
   "ministry": "성평등가족부",
   "mst": "286303",
   "name": "일제하 일본군위안부 피해자에 대한 보호ㆍ지원 및 기념사업 등에 관한 법률 시행령",
+  "payload_law_id": "004545",
   "promulgation_date": "20260526",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1e4966a807da8d66"
  },
@@ -26079,6 +26094,8 @@
   "version_signature": "ed5285c4aebec2ed"
  },
  "law:eflaw:004551": {
+  "collected_signature": "d218dcb1d9c40d69",
+  "content_hash": "d90afdbe3301bb7e8e6ded182340931c2b26ea8b85e28a3cb61da7b18e692003",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285855&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "004551",
@@ -26086,11 +26103,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:48.518179+00:00",
+  "last_collected_at": "2026-08-24T19:26:41.320366+00:00",
   "ministry": "고용노동부",
   "mst": "285855",
   "name": "임금채권보장법 시행령",
+  "payload_law_id": "004551",
   "promulgation_date": "20260506",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d218dcb1d9c40d69"
  },
@@ -43438,6 +43458,8 @@
   "version_signature": "27bf15abeda05ceb"
  },
  "law:eflaw:007898": {
+  "collected_signature": "f4e1fa9c9cbb5db4",
+  "content_hash": "3a10c17fe6577833c278b8bdb1480a88f0b67f571ddfab9eaa1cc555d3be8ce8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289001&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "007898",
@@ -43445,11 +43467,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:48.902601+00:00",
+  "last_collected_at": "2026-08-24T19:26:12.962940+00:00",
   "ministry": "고용노동부",
   "mst": "289001",
   "name": "임금채권보장법 시행규칙",
+  "payload_law_id": "007898",
   "promulgation_date": "20260820",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f4e1fa9c9cbb5db4"
  },
@@ -53940,6 +53965,8 @@
   "version_signature": "a209e249227063d3"
  },
  "law:eflaw:009841": {
+  "collected_signature": "e65bfb2f77796441",
+  "content_hash": "70e3fd5a957a252d1a61b1f73cce9f1f582a1fd023f58a3e9f52cfdca706a881",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249771&type=HTML&mobileYn=&efYd=20230605",
   "doc_domain": "law",
   "doc_id": "009841",
@@ -53947,11 +53974,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230605",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:47.068114+00:00",
+  "last_collected_at": "2026-08-24T19:21:25.666509+00:00",
   "ministry": "친일반민족행위진상규명위원회",
   "mst": "249771",
   "name": "일제강점하반민족행위 진상규명에 관한 특별법 시행령",
+  "payload_law_id": "009841",
   "promulgation_date": "20230411",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e65bfb2f77796441"
  },
@@ -62414,6 +62444,8 @@
   "version_signature": "1560c07a7f11b2f4"
  },
  "law:eflaw:010544": {
+  "collected_signature": "2afad92d6cf194c8",
+  "content_hash": "d9c348d1a554ad240140a4d04edbb4d0c414d0422f69cb7a3e1ed2c322fb5242",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=233203&type=HTML&mobileYn=&efYd=20210622",
   "doc_domain": "law",
   "doc_id": "010544",
@@ -62421,11 +62453,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20210622",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:47.385056+00:00",
+  "last_collected_at": "2026-08-24T19:22:35.653475+00:00",
   "ministry": "국방부",
   "mst": "233203",
   "name": "임기제부사관제 운영규정",
+  "payload_law_id": "010544",
   "promulgation_date": "20210622",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2afad92d6cf194c8"
  },
@@ -108712,6 +108747,8 @@
   "version_signature": "6764f64ef3733789"
  },
  "law:eflaw:015121": {
+  "collected_signature": "8667ecc3c5dd965b",
+  "content_hash": "d50e44ab979b2f240afb75f7fdc81e8644a00769ef5ac97348f00ea3e472babd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285935&type=HTML&mobileYn=&efYd=20270513",
   "doc_domain": "law",
   "doc_id": "015121",
@@ -108719,11 +108756,14 @@
   "doc_type": "법률",
   "enforcement_date": "20270513",
   "is_active": true,
+  "last_checked_at": "2026-08-24T19:20:46.343670+00:00",
+  "last_collected_at": "2026-08-24T19:20:49.725563+00:00",
   "ministry": "농림축산식품부,산림청",
   "mst": "285935",
   "name": "임도의 설치 및 관리에 관한 법률",
+  "payload_law_id": "015121",
   "promulgation_date": "20260512",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8667ecc3c5dd965b"
  },
