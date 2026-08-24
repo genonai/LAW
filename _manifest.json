@@ -2373,6 +2373,8 @@
   "version_signature": "829358cbc438b34f"
  },
  "law:eflaw:000324": {
+  "collected_signature": "1b139643a735f069",
+  "content_hash": "d06ec8e20488d4d75e93357dbf83b126a46a4f11fa36fa9f20d77f75dde3749c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283977&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "000324",
@@ -2380,11 +2382,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260310",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:20.712296+00:00",
+  "last_collected_at": "2026-08-24T13:52:34.451640+00:00",
   "ministry": "산업통상부",
   "mst": "283977",
   "name": "오존층 보호 등을 위한 특정물질의 관리에 관한 법률",
+  "payload_law_id": "000324",
   "promulgation_date": "20260310",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1b139643a735f069"
  },
@@ -42096,6 +42101,8 @@
   "version_signature": "f29b6693e6bd6bdf"
  },
  "law:eflaw:007753": {
+  "collected_signature": "268fe6f8a91c4a36",
+  "content_hash": "36ced2dc5257232d8a04502462d6f165b6920ec1cfa07f8625cc2b2025a48dbd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278757&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "007753",
@@ -42103,11 +42110,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:19.672353+00:00",
+  "last_collected_at": "2026-08-24T13:50:55.072634+00:00",
   "ministry": "산업통상부",
   "mst": "278757",
   "name": "오존층 보호 등을 위한 특정물질의 관리에 관한 법률 시행규칙",
+  "payload_law_id": "007753",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "268fe6f8a91c4a36"
  },
@@ -72316,6 +72326,8 @@
   "version_signature": "38fd74391e95c685"
  },
  "law:eflaw:011492": {
+  "collected_signature": "c424f670c582ae39",
+  "content_hash": "5dd10fa71d11f1702a1e51994e1fb0eceb8a346e5ca0f6a74f5340742b34bdd0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270591&type=HTML&mobileYn=&efYd=20250408",
   "doc_domain": "law",
   "doc_id": "011492",
@@ -72323,12 +72335,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250408",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:20.454475+00:00",
+  "last_collected_at": "2026-08-24T13:53:10.903739+00:00",
   "ministry": "문화체육관광부",
   "mst": "270591",
   "name": "예술인 복지법",
+  "payload_law_id": "011492",
   "promulgation_date": "20250408",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c424f670c582ae39"
  },
  "law:eflaw:011493": {
@@ -75291,6 +75306,8 @@
   "version_signature": "74cd7ef5db6f800f"
  },
  "law:eflaw:011711": {
+  "collected_signature": "28e8ccd13b00ef1c",
+  "content_hash": "da6032ff3b78a8f5321b53f736087efcca53365a30dddd6bbd670b3e1d37747d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259313&type=HTML&mobileYn=&efYd=20240209",
   "doc_domain": "law",
   "doc_id": "011711",
@@ -75298,11 +75315,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240209",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:19.888757+00:00",
+  "last_collected_at": "2026-08-24T13:53:03.882689+00:00",
   "ministry": "문화체육관광부",
   "mst": "259313",
   "name": "예술인 복지법 시행령",
+  "payload_law_id": "011711",
   "promulgation_date": "20240123",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "28e8ccd13b00ef1c"
  },
@@ -75323,6 +75343,8 @@
   "version_signature": "6287c9de9a9d1a3f"
  },
  "law:eflaw:011713": {
+  "collected_signature": "ff210f3af661da44",
+  "content_hash": "66d4415aa969d65d78190abdbfaec622b8c7777d605275cebe5090f3159b4ccd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266263&type=HTML&mobileYn=&efYd=20241105",
   "doc_domain": "law",
   "doc_id": "011713",
@@ -75330,11 +75352,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20241105",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:21.711105+00:00",
+  "last_collected_at": "2026-08-24T13:52:45.367673+00:00",
   "ministry": "문화체육관광부",
   "mst": "266263",
   "name": "예술인 복지법 시행규칙",
+  "payload_law_id": "011713",
   "promulgation_date": "20241105",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ff210f3af661da44"
  },
@@ -95923,6 +95948,8 @@
   "version_signature": "b106767ad2671287"
  },
  "law:eflaw:014150": {
+  "collected_signature": "dcaf390208ce4e73",
+  "content_hash": "967e69056e20e8205ff23c4dc590ca06c29823ff684e6887facf73ca943640b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235567&type=HTML&mobileYn=&efYd=20220925",
   "doc_domain": "law",
   "doc_id": "014150",
@@ -95930,11 +95957,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220925",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:21.436505+00:00",
+  "last_collected_at": "2026-08-24T13:52:29.531568+00:00",
   "ministry": "문화체육관광부",
   "mst": "235567",
   "name": "예술인의 지위와 권리의 보장에 관한 법률",
+  "payload_law_id": "014150",
   "promulgation_date": "20210924",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dcaf390208ce4e73"
  },
@@ -98297,6 +98327,8 @@
   "version_signature": "408ab9824d986f38"
  },
  "law:eflaw:014336": {
+  "collected_signature": "e718d7e419816d27",
+  "content_hash": "51fa3c138a570b1471e974f7ab8ee2f47ec412abd26aae4a1b24ac2b63feaf5d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286787&type=HTML&mobileYn=&efYd=20260609",
   "doc_domain": "law",
   "doc_id": "014336",
@@ -98304,11 +98336,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260609",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:22.160002+00:00",
+  "last_collected_at": "2026-08-24T13:52:35.967207+00:00",
   "ministry": "문화체육관광부",
   "mst": "286787",
   "name": "예술인의 지위와 권리의 보장에 관한 법률 시행령",
+  "payload_law_id": "014336",
   "promulgation_date": "20260609",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e718d7e419816d27"
  },
@@ -98366,6 +98401,8 @@
   "version_signature": "ac657699a9efd02c"
  },
  "law:eflaw:014340": {
+  "collected_signature": "bd286117e5a0b755",
+  "content_hash": "4bcaae6f5b03c605b2bf437cdc7e65238b2c5af69f15f1b10908a09ef5c2eaf8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244741&type=HTML&mobileYn=&efYd=20220925",
   "doc_domain": "law",
   "doc_id": "014340",
@@ -98373,11 +98410,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20220925",
   "is_active": true,
+  "last_checked_at": "2026-08-24T13:50:22.259187+00:00",
+  "last_collected_at": "2026-08-24T13:52:04.157474+00:00",
   "ministry": "문화체육관광부",
   "mst": "244741",
   "name": "예술인의 지위와 권리의 보장에 관한 법률 시행규칙",
+  "payload_law_id": "014340",
   "promulgation_date": "20220923",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bd286117e5a0b755"
  },
