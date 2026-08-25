@@ -7399,6 +7399,8 @@
   "version_signature": "a32a1c8978a552b8"
  },
  "law:eflaw:001205": {
+  "collected_signature": "232656057af35dc3",
+  "content_hash": "cd07bb4fc1c92e5e1c03bccdfa0bea56558160b8541d99e482644f7850bd89e0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276293&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001205",
@@ -7406,12 +7408,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:45.591590+00:00",
+  "last_collected_at": "2026-08-25T12:34:45.514578+00:00",
   "ministry": "법무부",
   "mst": "276293",
   "name": "중재법",
+  "payload_law_id": "001205",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "232656057af35dc3"
  },
  "law:eflaw:001206": {
@@ -72929,6 +72934,8 @@
   "version_signature": "e36cb9bdc98366d7"
  },
  "law:eflaw:011309": {
+  "collected_signature": "51cadfc304550d9d",
+  "content_hash": "3736f5893532e851a51d292b41558156ed9aa0cf18b3dcccbf608d9ab616ee8f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=109363&type=HTML&mobileYn=&efYd=20101217",
   "doc_domain": "law",
   "doc_id": "011309",
@@ -72936,11 +72943,14 @@
   "doc_type": "감사원규칙",
   "enforcement_date": "20101217",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:42.644790+00:00",
+  "last_collected_at": "2026-08-25T12:34:09.102167+00:00",
   "ministry": "감사원",
   "mst": "109363",
   "name": "중앙행정기관 및 지방자치단체 자체감사기준",
+  "payload_law_id": "011309",
   "promulgation_date": "20101217",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "51cadfc304550d9d"
  },
@@ -77118,6 +77128,8 @@
   "version_signature": "44655097d96e5e64"
  },
  "law:eflaw:011603": {
+  "collected_signature": "fd6c1d2290acc667",
+  "content_hash": "5a58c015b88be34a9135052a3cf5d45b4f53e0f7247c7027341a8af9b2ecf4fe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281417&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011603",
@@ -77125,11 +77137,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:43.676470+00:00",
+  "last_collected_at": "2026-08-25T12:33:56.315906+00:00",
   "ministry": "기획예산처",
   "mst": "281417",
   "name": "중장기전략위원회 규정",
+  "payload_law_id": "011603",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fd6c1d2290acc667"
  },
@@ -84729,6 +84744,8 @@
   "version_signature": "962b7bd0d1853b62"
  },
  "law:eflaw:012305": {
+  "collected_signature": "598470e57f5fff52",
+  "content_hash": "cb0f17c9d20d628b1b9272ea277018d169ddf416a4114dac37d8b25d7facfa51",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=195636&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "012305",
@@ -84736,11 +84753,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:43.179089+00:00",
+  "last_collected_at": "2026-08-25T12:34:10.110188+00:00",
   "ministry": "행정안전부",
   "mst": "195636",
   "name": "중앙행정기관ㆍ지방자치단체 정책협의회 운영 규정",
+  "payload_law_id": "012305",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "598470e57f5fff52"
  },
@@ -88911,6 +88931,8 @@
   "version_signature": "7a9ede14d64a4323"
  },
  "law:eflaw:012707": {
+  "collected_signature": "61ae91a26cd9a2d8",
+  "content_hash": "f99f09a615897e5312dfdaab53de6742f839371c21f92d2dd1b632f9f6aeb2a5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=188534&type=HTML&mobileYn=&efYd=20170628",
   "doc_domain": "law",
   "doc_id": "012707",
@@ -88918,11 +88940,14 @@
   "doc_type": "법률",
   "enforcement_date": "20170628",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:42.377600+00:00",
+  "last_collected_at": "2026-08-25T12:33:50.914064+00:00",
   "ministry": "법무부",
   "mst": "188534",
   "name": "중재산업 진흥에 관한 법률",
+  "payload_law_id": "012707",
   "promulgation_date": "20161227",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "61ae91a26cd9a2d8"
  },
@@ -91424,6 +91449,8 @@
   "version_signature": "74cb1e76daa46c1c"
  },
  "law:eflaw:013112": {
+  "collected_signature": "1d596ce2af720a26",
+  "content_hash": "52b3b2c6f2befc794430eaf36528cf5f9dd580381a77df44d5d4cd51d6ed0cca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222721&type=HTML&mobileYn=&efYd=20201102",
   "doc_domain": "law",
   "doc_id": "013112",
@@ -91431,11 +91458,14 @@
   "doc_type": "감사원규칙",
   "enforcement_date": "20201102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:45.200123+00:00",
+  "last_collected_at": "2026-08-25T12:34:10.076229+00:00",
   "ministry": "감사원",
   "mst": "222721",
   "name": "중요 감사 결과 등 보고의 운영에 관한 규칙",
+  "payload_law_id": "013112",
   "promulgation_date": "20201102",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1d596ce2af720a26"
  },
@@ -100973,6 +101003,8 @@
   "version_signature": "130d0fd9183d2bd7"
  },
  "law:eflaw:014225": {
+  "collected_signature": "a5c916d6004930e2",
+  "content_hash": "2a9479fbcf0912f9f21ada1a6d247c5b567c14db6cde6121b2e54a83a49a3539",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285415&type=HTML&mobileYn=&efYd=20260407",
   "doc_domain": "law",
   "doc_id": "014225",
@@ -100980,11 +101012,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260407",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:43.053053+00:00",
+  "last_collected_at": "2026-08-25T12:34:16.553721+00:00",
   "ministry": "행정안전부",
   "mst": "285415",
   "name": "중앙지방협력회의의 구성 및 운영에 관한 법률 시행령",
+  "payload_law_id": "014225",
   "promulgation_date": "20260407",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a5c916d6004930e2"
  },
@@ -108646,6 +108681,8 @@
   "version_signature": "3d5b8e4874b8f7bb"
  },
  "law:eflaw:014863": {
+  "collected_signature": "29d674b50dbfeead",
+  "content_hash": "12d832a9d1555f6644c4fe42607f9897684327485036d6aa67ba2e3168f7fbd9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270049&type=HTML&mobileYn=&efYd=20260926",
   "doc_domain": "law",
   "doc_id": "014863",
@@ -108653,11 +108690,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260926",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:33:44.442457+00:00",
+  "last_collected_at": "2026-08-25T12:33:48.301068+00:00",
   "ministry": "기후에너지환경부",
   "mst": "270049",
   "name": "중앙행정권한 및 사무 등의 지방 일괄이양을 위한 환경교육의 활성화 및 지원에 관한 법률 등 5개 법률 일부개정에 관한 법률",
+  "payload_law_id": "014863",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "29d674b50dbfeead"
  },
