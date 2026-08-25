@@ -1933,6 +1933,8 @@
   "version_signature": "040bda038c7a6595"
  },
  "law:eflaw:000236": {
+  "collected_signature": "a08dfd33ba4f707e",
+  "content_hash": "194c38bd685daf3d1a2a99123c055b4bcfde1da679ae18c3d74db29f68ef7b20",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265479&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "000236",
@@ -1940,11 +1942,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:53.655813+00:00",
+  "last_collected_at": "2026-08-25T16:30:15.003430+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "265479",
   "name": "지역보건법",
+  "payload_law_id": "000236",
   "promulgation_date": "20240920",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a08dfd33ba4f707e"
  },
@@ -46396,6 +46401,8 @@
   "version_signature": "2e3c5627ec999ad4"
  },
  "law:eflaw:008360": {
+  "collected_signature": "6d6b77f7dd639622",
+  "content_hash": "49173344324410333fe3a260276fef9f0a166d8dd37706403d2638244691b73f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272553&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "008360",
@@ -46403,11 +46410,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20250621",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:52.356144+00:00",
+  "last_collected_at": "2026-08-25T16:28:58.078049+00:00",
   "ministry": "보건복지부",
   "mst": "272553",
   "name": "지역보건법 시행규칙",
+  "payload_law_id": "008360",
   "promulgation_date": "20250620",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6d6b77f7dd639622"
  },
@@ -81978,6 +81988,8 @@
   "version_signature": "c51f15a19034f49a"
  },
  "law:eflaw:012002": {
+  "collected_signature": "090e659d1f9ceb8c",
+  "content_hash": "a30fd3b0cef58b9bf2169993d0d5dd9c132367d5780de5053b0a5b3c023bd757",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284107&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012002",
@@ -81985,11 +81997,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:52.988871+00:00",
+  "last_collected_at": "2026-08-25T16:29:53.844064+00:00",
   "ministry": "문화체육관광부",
   "mst": "284107",
   "name": "지역문화진흥법",
+  "payload_law_id": "012002",
   "promulgation_date": "20260305",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "090e659d1f9ceb8c"
  },
@@ -82589,6 +82604,8 @@
   "version_signature": "f28c13bdce243dbb"
  },
  "law:eflaw:012066": {
+  "collected_signature": "1459814248ec9d03",
+  "content_hash": "b392d6c78be8a37092e54ad5a403209a454a2910193e4fa1fcbd94de1396e8a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277381&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012066",
@@ -82596,11 +82613,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:54.905174+00:00",
+  "last_collected_at": "2026-08-25T16:29:07.285921+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "277381",
   "name": "지역방송발전지원 특별법",
+  "payload_law_id": "012066",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1459814248ec9d03"
  },
@@ -83089,6 +83109,8 @@
   "version_signature": "c1647a9f95e3444d"
  },
  "law:eflaw:012107": {
+  "collected_signature": "ac89d37049e2a43e",
+  "content_hash": "6c506357989dd9218c83e1c7d5eae29f715446b52b57a8c5f316e28e9bef69b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287317&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012107",
@@ -83096,11 +83118,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:53.742303+00:00",
+  "last_collected_at": "2026-08-25T16:30:08.587035+00:00",
   "ministry": "문화체육관광부",
   "mst": "287317",
   "name": "지역문화진흥법 시행령",
+  "payload_law_id": "012107",
   "promulgation_date": "20260623",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ac89d37049e2a43e"
  },
@@ -83226,6 +83251,8 @@
   "version_signature": "9dc62b0260e3b798"
  },
  "law:eflaw:012115": {
+  "collected_signature": "be9514df9189b7bf",
+  "content_hash": "09cada4ee5dd3641a003995158a7e465c55aab5bdb17d271f6b02a2cdaa2746d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=210705&type=HTML&mobileYn=&efYd=20191007",
   "doc_domain": "law",
   "doc_id": "012115",
@@ -83233,11 +83260,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20191007",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:53.480511+00:00",
+  "last_collected_at": "2026-08-25T16:28:57.369745+00:00",
   "ministry": "문화체육관광부",
   "mst": "210705",
   "name": "지역문화진흥법 시행규칙",
+  "payload_law_id": "012115",
   "promulgation_date": "20191007",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "be9514df9189b7bf"
  },
@@ -83989,6 +84019,8 @@
   "version_signature": "ca241c39a9599e9b"
  },
  "law:eflaw:012181": {
+  "collected_signature": "8bd36cfcfc9ca8f6",
+  "content_hash": "42f13c1c962be09ca58e2c37bc13bb3e640b4468738d211135ea6e58cada1de1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277571&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012181",
@@ -83996,11 +84028,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:54.588837+00:00",
+  "last_collected_at": "2026-08-25T16:29:09.686284+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "277571",
   "name": "지역방송발전지원 특별법 시행령",
+  "payload_law_id": "012181",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8bd36cfcfc9ca8f6"
  },
@@ -88402,6 +88437,8 @@
   "version_signature": "44e93763beab9a8e"
  },
  "law:eflaw:012580": {
+  "collected_signature": "50ec278c7239ab91",
+  "content_hash": "c58681f2b124e25144a7c0d4cdc5294f868932eedb56f77b481feda6417e6c06",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280605&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "012580",
@@ -88409,11 +88446,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251223",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:27:53.922058+00:00",
+  "last_collected_at": "2026-08-25T16:29:31.385553+00:00",
   "ministry": "농림축산식품부",
   "mst": "280605",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률 시행령",
+  "payload_law_id": "012580",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "50ec278c7239ab91"
  },
