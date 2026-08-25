@@ -12990,6 +12990,8 @@
   "version_signature": "4131bb0c92872ae9"
  },
  "law:eflaw:001858": {
+  "collected_signature": "91f2cd27e2c78e43",
+  "content_hash": "16e9fc95420376d38303db048b2c39fb6905e4337724673c674bb1cd9a975747",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280037&type=HTML&mobileYn=&efYd=20260303",
   "doc_domain": "law",
   "doc_id": "001858",
@@ -12997,11 +12999,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260303",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:31.508236+00:00",
+  "last_collected_at": "2026-08-25T03:01:50.271787+00:00",
   "ministry": "기후에너지환경부",
   "mst": "280037",
   "name": "전기공사공제조합법",
+  "payload_law_id": "001858",
   "promulgation_date": "20251202",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "91f2cd27e2c78e43"
  },
@@ -44501,6 +44506,8 @@
   "version_signature": "8c802b4bea96cdd0"
  },
  "law:eflaw:008031": {
+  "collected_signature": "783b4e7b1c062375",
+  "content_hash": "52defc81e9eccfc37299a5d0c65bdcd6c6803cdc723a5438de574016b4ef732d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=208658&type=HTML&mobileYn=&efYd=20190507",
   "doc_domain": "law",
   "doc_id": "008031",
@@ -44508,11 +44515,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20190507",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:32.058134+00:00",
+  "last_collected_at": "2026-08-25T03:01:10.078193+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "208658",
   "name": "전국과학전람회규칙",
+  "payload_law_id": "008031",
   "promulgation_date": "20190507",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "783b4e7b1c062375"
  },
@@ -61677,6 +61687,8 @@
   "version_signature": "827d6ae44ca2d306"
  },
  "law:eflaw:010437": {
+  "collected_signature": "b12d46cb78918b42",
+  "content_hash": "d88c136c9b0ce3bc08a9a6cecac7b65db0f0e19491641caf62b94a7d52de7f10",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284411&type=HTML&mobileYn=&efYd=20260317",
   "doc_domain": "law",
   "doc_id": "010437",
@@ -61684,12 +61696,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260317",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:32.449074+00:00",
+  "last_collected_at": "2026-08-25T03:05:22.225949+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284411",
   "name": "전기ㆍ전자제품 및 자동차의 자원순환에 관한 법률",
+  "payload_law_id": "010437",
   "promulgation_date": "20260317",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b12d46cb78918b42"
  },
  "law:eflaw:010440": {
@@ -64067,6 +64082,8 @@
   "version_signature": "278e31894f9895c9"
  },
  "law:eflaw:010613": {
+  "collected_signature": "6c8e4c3a39f9618a",
+  "content_hash": "05c23ee4a15e2ce0cca2a2773a306fc6eb58a8f0203bd4c84eade63c01f01ba1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284849&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "010613",
@@ -64074,12 +64091,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:33.913726+00:00",
+  "last_collected_at": "2026-08-25T03:05:58.571472+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284849",
   "name": "전기ㆍ전자제품 및 자동차의 자원순환에 관한 법률 시행령",
+  "payload_law_id": "010613",
   "promulgation_date": "20260324",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "6c8e4c3a39f9618a"
  },
  "law:eflaw:010614": {
@@ -64146,6 +64166,8 @@
   "version_signature": "a17a9ec172edf934"
  },
  "law:eflaw:010622": {
+  "collected_signature": "81519b4f0654af88",
+  "content_hash": "d0276bdf77a7c30a880b39d4a3ec55fb56df37c232e61ab5c98b93541935d451",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287437&type=HTML&mobileYn=&efYd=20260622",
   "doc_domain": "law",
   "doc_id": "010622",
@@ -64153,11 +64175,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20260622",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:33.155176+00:00",
+  "last_collected_at": "2026-08-25T03:04:10.649479+00:00",
   "ministry": "기후에너지환경부",
   "mst": "287437",
   "name": "전기ㆍ전자제품 및 자동차의 자원순환에 관한 법률 시행규칙",
+  "payload_law_id": "010622",
   "promulgation_date": "20260622",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "81519b4f0654af88"
  },
@@ -87503,6 +87528,8 @@
   "version_signature": "11da201be9a602d5"
  },
  "law:eflaw:012702": {
+  "collected_signature": "7e2dd7b5d6cbbbec",
+  "content_hash": "2065e217559d7c6595228647ff505fc4b6d2592862163c430c19bf12128eef21",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285051&type=HTML&mobileYn=&efYd=20260331",
   "doc_domain": "law",
   "doc_id": "012702",
@@ -87510,12 +87537,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260331",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:33.588307+00:00",
+  "last_collected_at": "2026-08-25T03:03:59.928333+00:00",
   "ministry": "보건복지부",
   "mst": "285051",
   "name": "전공의의 수련환경 개선 및 지위 향상을 위한 법률 시행령",
+  "payload_law_id": "012702",
   "promulgation_date": "20260330",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7e2dd7b5d6cbbbec"
  },
  "law:eflaw:012703": {
@@ -89755,6 +89785,8 @@
   "version_signature": "b280f3efc1c552db"
  },
  "law:eflaw:013089": {
+  "collected_signature": "1f8e340fbde9fa08",
+  "content_hash": "efee634c3b69b010686ce8ddce0370d58bb4d4aa0eba0446e910a365cd429f50",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248009&type=HTML&mobileYn=&efYd=20230301",
   "doc_domain": "law",
   "doc_id": "013089",
@@ -89762,15 +89794,20 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20230301",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:31.892063+00:00",
+  "last_collected_at": "2026-08-25T03:00:43.166419+00:00",
   "ministry": "대법원",
   "mst": "248009",
   "name": "전국법관대표회의 규칙",
+  "payload_law_id": "013089",
   "promulgation_date": "20230131",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1f8e340fbde9fa08"
  },
  "law:eflaw:013090": {
+  "collected_signature": "f0226b3832ec288e",
+  "content_hash": "11a0170edd7ea5bd7e4b5cf34f0b9ec75902b45f2d78c8804b707e432d3ad341",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=229943&type=HTML&mobileYn=&efYd=20210226",
   "doc_domain": "law",
   "doc_id": "013090",
@@ -89778,11 +89815,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20210226",
   "is_active": true,
+  "last_checked_at": "2026-08-25T03:00:34.662771+00:00",
+  "last_collected_at": "2026-08-25T03:03:04.628466+00:00",
   "ministry": "대법원",
   "mst": "229943",
   "name": "전국법원장회의 규칙",
+  "payload_law_id": "013090",
   "promulgation_date": "20210226",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f0226b3832ec288e"
  },
