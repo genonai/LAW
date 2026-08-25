@@ -84248,6 +84248,8 @@
   "version_signature": "ece5d3f799ae5148"
  },
  "law:eflaw:012203": {
+  "collected_signature": "6f604ee56436f559",
+  "content_hash": "7f3bd38242742d4312559348ad4547c365f214f06920f3a616ca82cd64380c3d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281673&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012203",
@@ -84255,12 +84257,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:10.775842+00:00",
+  "last_collected_at": "2026-08-25T16:27:27.990342+00:00",
   "ministry": "국토교통부",
   "mst": "281673",
   "name": "지역 개발 및 지원에 관한 법률 시행령",
+  "payload_law_id": "012203",
   "promulgation_date": "20251230",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "6f604ee56436f559"
  },
  "law:eflaw:012205": {
@@ -85575,6 +85580,8 @@
   "version_signature": "16c3aa319e26b212"
  },
  "law:eflaw:012317": {
+  "collected_signature": "c9e007a7fb9c480c",
+  "content_hash": "bd6d4c5c1fc3d0832997e44e6c2473291407720c1de73592653528c07877ec08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276451&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012317",
@@ -85582,12 +85589,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:11.675735+00:00",
+  "last_collected_at": "2026-08-25T16:25:14.656643+00:00",
   "ministry": "농림축산식품부",
   "mst": "276451",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률",
+  "payload_law_id": "012317",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "c9e007a7fb9c480c"
  },
  "law:eflaw:012318": {
@@ -88471,6 +88481,8 @@
   "version_signature": "bf12fbda1a48bb4a"
  },
  "law:eflaw:012587": {
+  "collected_signature": "16b78e37bfd4cac9",
+  "content_hash": "71b5b81ebd0936ec710a7363d264ca5b9deec821c452be5fd768c4c322ba0eff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228733&type=HTML&mobileYn=&efYd=20210113",
   "doc_domain": "law",
   "doc_id": "012587",
@@ -88478,11 +88490,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20210113",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:08.961037+00:00",
+  "last_collected_at": "2026-08-25T16:22:58.420048+00:00",
   "ministry": "농림축산식품부",
   "mst": "228733",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률 시행규칙",
+  "payload_law_id": "012587",
   "promulgation_date": "20210113",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "16b78e37bfd4cac9"
  },
@@ -100580,6 +100595,8 @@
   "version_signature": "864611e1c9a0e751"
  },
  "law:eflaw:014138": {
+  "collected_signature": "7b1b6a215c727c67",
+  "content_hash": "1a33bf36545bb8400cc5cae2d8974677bcf1e3df8489d2a9d34d04726f337cfc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286611&type=HTML&mobileYn=&efYd=20260602",
   "doc_domain": "law",
   "doc_id": "014138",
@@ -100587,11 +100604,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260602",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:09.876432+00:00",
+  "last_collected_at": "2026-08-25T16:25:05.732319+00:00",
   "ministry": "산업통상부",
   "mst": "286611",
   "name": "지역 산업위기 대응 및 지역경제 회복을 위한 특별법",
+  "payload_law_id": "014138",
   "promulgation_date": "20260602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7b1b6a215c727c67"
  },
@@ -101964,6 +101984,8 @@
   "version_signature": "cff610fbafb5806c"
  },
  "law:eflaw:014244": {
+  "collected_signature": "d7ddd28d652b85d7",
+  "content_hash": "25186453c8d5db96c15e59243cf990ac3bbac308215ed547835ee4bb91e61298",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278449&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "014244",
@@ -101971,11 +101993,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260326",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:11.184114+00:00",
+  "last_collected_at": "2026-08-25T16:25:05.915718+00:00",
   "ministry": "산업통상부",
   "mst": "278449",
   "name": "지역 산업위기 대응 및 지역경제 회복을 위한 특별법 시행령",
+  "payload_law_id": "014244",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d7ddd28d652b85d7"
  },
@@ -103407,6 +103432,8 @@
   "version_signature": "835c2d3ce0749a97"
  },
  "law:eflaw:014369": {
+  "collected_signature": "2d7236350aefe45e",
+  "content_hash": "76000a35a927b1ad815c7055d572920e331fd417b1c9b98925f965a73b5b6779",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=246837&type=HTML&mobileYn=&efYd=20231228",
   "doc_domain": "law",
   "doc_id": "014369",
@@ -103414,11 +103441,14 @@
   "doc_type": "법률",
   "enforcement_date": "20231228",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:09.409602+00:00",
+  "last_collected_at": "2026-08-25T16:24:58.016285+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "246837",
   "name": "지역농림어업 발전사업 협력 촉진에 관한 법률",
+  "payload_law_id": "014369",
   "promulgation_date": "20221227",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2d7236350aefe45e"
  },
@@ -105357,6 +105387,8 @@
   "version_signature": "77c3360fc7e6c497"
  },
  "law:eflaw:014550": {
+  "collected_signature": "8e77b76c09c673d4",
+  "content_hash": "dcb3f1db8144fcafae62e2a2f48cb29cdf6e497d24b79bfbf63d60c8377bd619",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256995&type=HTML&mobileYn=&efYd=20231228",
   "doc_domain": "law",
   "doc_id": "014550",
@@ -105364,11 +105396,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20231228",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:10.823336+00:00",
+  "last_collected_at": "2026-08-25T16:24:56.492293+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "256995",
   "name": "지역농림어업 발전사업 협력 촉진에 관한 법률 시행령",
+  "payload_law_id": "014550",
   "promulgation_date": "20231219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8e77b76c09c673d4"
  },
@@ -105678,6 +105713,8 @@
   "version_signature": "2f9857d5f3350163"
  },
  "law:eflaw:014572": {
+  "collected_signature": "a6286e74bb95e969",
+  "content_hash": "f3d3fd189bc3ee4a9013e27c390f8745bece756903d4a53a0473a5f7964eebac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257919&type=HTML&mobileYn=&efYd=20231229",
   "doc_domain": "law",
   "doc_id": "014572",
@@ -105685,11 +105722,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20231229",
   "is_active": true,
+  "last_checked_at": "2026-08-25T16:22:09.676160+00:00",
+  "last_collected_at": "2026-08-25T16:24:57.491843+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "257919",
   "name": "지역농림어업 발전사업 협력 촉진에 관한 법률 시행규칙",
+  "payload_law_id": "014572",
   "promulgation_date": "20231229",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a6286e74bb95e969"
  },
