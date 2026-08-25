@@ -4909,6 +4909,8 @@
   "version_signature": "616845ef821a0ff1"
  },
  "law:eflaw:000850": {
+  "collected_signature": "bf0da70963474ccd",
+  "content_hash": "bee4067fce201665e41fb7ec6161919dce45e59db77773faa98a14988817ff74",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249991&type=HTML&mobileYn=&efYd=20231019",
   "doc_domain": "law",
   "doc_id": "000850",
@@ -4916,12 +4918,15 @@
   "doc_type": "법률",
   "enforcement_date": "20231019",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:19.968171+00:00",
+  "last_collected_at": "2026-08-25T23:08:23.308996+00:00",
   "ministry": "교육부",
   "mst": "249991",
   "name": "학원의 설립ㆍ운영 및 과외교습에 관한 법률",
+  "payload_law_id": "000850",
   "promulgation_date": "20230418",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "bf0da70963474ccd"
  },
  "law:eflaw:000851": {
@@ -5025,6 +5030,8 @@
   "version_signature": "ece43537f466ddef"
  },
  "law:eflaw:000857": {
+  "collected_signature": "3603e1bd8f95802c",
+  "content_hash": "9c994fa18b71ed8819cf8fc4e71c6b1a4af9cb1cba58718e7a934ac1e2f11131",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=230413&type=HTML&mobileYn=&efYd=20210623",
   "doc_domain": "law",
   "doc_id": "000857",
@@ -5032,12 +5039,15 @@
   "doc_type": "법률",
   "enforcement_date": "20210623",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:22.935643+00:00",
+  "last_collected_at": "2026-08-25T23:07:29.237723+00:00",
   "ministry": "교육부",
   "mst": "230413",
   "name": "학술진흥법",
+  "payload_law_id": "000857",
   "promulgation_date": "20210323",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "3603e1bd8f95802c"
  },
  "law:eflaw:000864": {
@@ -30675,6 +30685,8 @@
   "version_signature": "72a691137f08a3ad"
  },
  "law:eflaw:005395": {
+  "collected_signature": "1c9c6ba8e2cdb03c",
+  "content_hash": "c487a102a006c291fe50103b92bc62a14a85d770765e2cbbae1a846270daf5bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=254343&type=HTML&mobileYn=&efYd=20230830",
   "doc_domain": "law",
   "doc_id": "005395",
@@ -30682,15 +30694,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230830",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:17.675344+00:00",
+  "last_collected_at": "2026-08-25T23:07:34.438054+00:00",
   "ministry": "교육부,행정안전부",
   "mst": "254343",
   "name": "학술원사무국 직제",
+  "payload_law_id": "005395",
   "promulgation_date": "20230830",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1c9c6ba8e2cdb03c"
  },
  "law:eflaw:005396": {
+  "collected_signature": "83f57273b881d52c",
+  "content_hash": "4419c96d61d7e240c29fad75bad5d182b439fd6f98f97f4946d9111a3202cdb4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245227&type=HTML&mobileYn=&efYd=20221108",
   "doc_domain": "law",
   "doc_id": "005396",
@@ -30698,11 +30715,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20221108",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:20.176617+00:00",
+  "last_collected_at": "2026-08-25T23:07:46.955921+00:00",
   "ministry": "교육부",
   "mst": "245227",
   "name": "학술진흥법 시행령",
+  "payload_law_id": "005396",
   "promulgation_date": "20221108",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "83f57273b881d52c"
  },
@@ -62121,6 +62141,8 @@
   "version_signature": "c288b6761bb697a3"
  },
  "law:eflaw:010255": {
+  "collected_signature": "2fb1993739b623db",
+  "content_hash": "672467f70877de12dd4ff109378deecb05ce3806798a953139bbe3e5e9fd0626",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=91010&type=HTML&mobileYn=&efYd=20090101",
   "doc_domain": "law",
   "doc_id": "010255",
@@ -62128,11 +62150,14 @@
   "doc_type": "교육과학기술부령",
   "enforcement_date": "20090101",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:17.191702+00:00",
+  "last_collected_at": "2026-08-25T23:05:25.244488+00:00",
   "ministry": "교육부",
   "mst": "91010",
   "name": "학술원 사무국에 두는 공무원의 정원 중 고위공무원단 직위의 직무등급의 표시 등에 관한 규칙",
+  "payload_law_id": "010255",
   "promulgation_date": "20081231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2fb1993739b623db"
  },
@@ -82301,6 +82326,8 @@
   "version_signature": "4047965a11f6564f"
  },
  "law:eflaw:011877": {
+  "collected_signature": "b1af0b62322d8b04",
+  "content_hash": "b634491af1fd6f5d438d2f51c7c738b5053431a934d51b5dfe7ebf56fc6f2496",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=220701&type=HTML&mobileYn=&efYd=20201013",
   "doc_domain": "law",
   "doc_id": "011877",
@@ -82308,11 +82335,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20201013",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:17.961337+00:00",
+  "last_collected_at": "2026-08-25T23:07:05.520807+00:00",
   "ministry": "교육부",
   "mst": "220701",
   "name": "학술진흥법 시행규칙",
+  "payload_law_id": "011877",
   "promulgation_date": "20201013",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b1af0b62322d8b04"
  },
@@ -110993,6 +111023,8 @@
   "version_signature": "07b60f3e1bc67221"
  },
  "law:eflaw:014818": {
+  "collected_signature": "d9efffecdcf7f053",
+  "content_hash": "c49e73e6badb6e592f60b9ea6b22218a42be888ccd68e327071825abc4c99e71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286069&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "014818",
@@ -111000,11 +111032,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:16.666282+00:00",
+  "last_collected_at": "2026-08-25T23:05:53.233487+00:00",
   "ministry": "교육부",
   "mst": "286069",
   "name": "학생맞춤통합지원법",
+  "payload_law_id": "014818",
   "promulgation_date": "20260519",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d9efffecdcf7f053"
  },
@@ -113935,6 +113970,8 @@
   "version_signature": "ae74d4f0d200c41f"
  },
  "law:eflaw:015053": {
+  "collected_signature": "c5c42abfcc2a6b64",
+  "content_hash": "10a108f806a85bd33f4d4bccbb1310a528b7d40376ddf7c2034d6517edbbf48c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283671&type=HTML&mobileYn=&efYd=20260301",
   "doc_domain": "law",
   "doc_id": "015053",
@@ -113942,11 +113979,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260301",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:05:18.192122+00:00",
+  "last_collected_at": "2026-08-25T23:06:45.633034+00:00",
   "ministry": "교육부",
   "mst": "283671",
   "name": "학생맞춤통합지원법 시행령",
+  "payload_law_id": "015053",
   "promulgation_date": "20260227",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "c5c42abfcc2a6b64"
  },
