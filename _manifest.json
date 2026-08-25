@@ -3144,6 +3144,8 @@
   "version_signature": "57af4bcfb312592f"
  },
  "law:eflaw:000519": {
+  "collected_signature": "463cd71d4bc420f2",
+  "content_hash": "8916825b1d379ded19999947f9d8381b2672685ed9e664dd5990869a6f44fb97",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252411&type=HTML&mobileYn=&efYd=20240112",
   "doc_domain": "law",
   "doc_id": "000519",
@@ -3151,11 +3153,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240112",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:42.258950+00:00",
+  "last_collected_at": "2026-08-24T21:19:52.904544+00:00",
   "ministry": "금융위원회",
   "mst": "252411",
   "name": "자산유동화에 관한 법률",
+  "payload_law_id": "000519",
   "promulgation_date": "20230711",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "463cd71d4bc420f2"
  },
@@ -11666,6 +11671,8 @@
   "version_signature": "a577bdb4a382e7ea"
  },
  "law:eflaw:001728": {
+  "collected_signature": "b59fe5241060ed2b",
+  "content_hash": "13db4a61d409d7878f8ba8db0a3343611106ef3705f322398835c65c20ef1a1e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=210340&type=HTML&mobileYn=&efYd=20200828",
   "doc_domain": "law",
   "doc_id": "001728",
@@ -11673,11 +11680,14 @@
   "doc_type": "법률",
   "enforcement_date": "20200828",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:44.225073+00:00",
+  "last_collected_at": "2026-08-24T21:20:52.405010+00:00",
   "ministry": "재정경제부",
   "mst": "210340",
   "name": "자산재평가법",
+  "payload_law_id": "001728",
   "promulgation_date": "20190827",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b59fe5241060ed2b"
  },
@@ -26381,6 +26391,8 @@
   "version_signature": "0c6e07f840fa46d7"
  },
  "law:eflaw:004601": {
+  "collected_signature": "9cb0935913a83607",
+  "content_hash": "357fb0f831d620f2a2a0c6a4873ea27480b754f85fa95306e46026aed3b802d6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257131&type=HTML&mobileYn=&efYd=20240112",
   "doc_domain": "law",
   "doc_id": "004601",
@@ -26388,11 +26400,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240112",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:43.683444+00:00",
+  "last_collected_at": "2026-08-24T21:20:42.847764+00:00",
   "ministry": "금융위원회",
   "mst": "257131",
   "name": "자산유동화에 관한 법률 시행령",
+  "payload_law_id": "004601",
   "promulgation_date": "20231219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9cb0935913a83607"
  },
@@ -65884,6 +65899,8 @@
   "version_signature": "34445d4d7d69f1b9"
  },
  "law:eflaw:010817": {
+  "collected_signature": "3955ca1ebf1aa5e3",
+  "content_hash": "f0615b0a901a2e58ec1c8f3219c993184cb1f5d73376ea0661493312cff951fa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288399&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "010817",
@@ -65891,11 +65908,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260804",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:43.533274+00:00",
+  "last_collected_at": "2026-08-25T00:08:03.928456+00:00",
   "ministry": "금융위원회",
   "mst": "288399",
   "name": "자본시장과 금융투자업에 관한 법률 시행령",
+  "payload_law_id": "010817",
   "promulgation_date": "20260728",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3955ca1ebf1aa5e3"
  },
@@ -65942,6 +65962,8 @@
   "version_signature": "88078501304380aa"
  },
  "law:eflaw:010820": {
+  "collected_signature": "99cffb8b1fbae040",
+  "content_hash": "96de56575d0ce10a2abbf91dee11d0772d3e9c28139d2dd3735e39822f7de672",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271489&type=HTML&mobileYn=&efYd=20250602",
   "doc_domain": "law",
   "doc_id": "010820",
@@ -65949,11 +65971,14 @@
   "doc_type": "총리령",
   "enforcement_date": "20250602",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:42.741583+00:00",
+  "last_collected_at": "2026-08-24T21:22:34.354366+00:00",
   "ministry": "금융위원회",
   "mst": "271489",
   "name": "자본시장과 금융투자업에 관한 법률 시행규칙",
+  "payload_law_id": "010820",
   "promulgation_date": "20250602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "99cffb8b1fbae040"
  },
@@ -72024,6 +72049,8 @@
   "version_signature": "3b8c6de1aa5e4465"
  },
  "law:eflaw:011365": {
+  "collected_signature": "5f7c1a62023573bd",
+  "content_hash": "09d878c60f16e317d552e4cb2a600535f5a63e1691edffd34e86f3061c7506cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279695&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "011365",
@@ -72031,12 +72058,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:43.283469+00:00",
+  "last_collected_at": "2026-08-24T21:25:23.726955+00:00",
   "ministry": "보건복지부",
   "mst": "279695",
   "name": "자살예방 및 생명존중문화 조성을 위한 법률",
+  "payload_law_id": "011365",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "5f7c1a62023573bd"
  },
  "law:eflaw:011366": {
@@ -74970,6 +75000,8 @@
   "version_signature": "0cd7788151cfd624"
  },
  "law:eflaw:011577": {
+  "collected_signature": "4b250f6709331939",
+  "content_hash": "c2ab4e18b3e38fd4b0b40765d4e29ce3d8f1dfe5101dc7ce0eefe8e3bf552b79",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281163&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011577",
@@ -74977,11 +75009,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:42.000409+00:00",
+  "last_collected_at": "2026-08-24T21:21:03.678491+00:00",
   "ministry": "보건복지부",
   "mst": "281163",
   "name": "자살예방 및 생명존중문화 조성을 위한 법률 시행령",
+  "payload_law_id": "011577",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4b250f6709331939"
  },
@@ -75002,6 +75037,8 @@
   "version_signature": "a8f0f3d88e1661c6"
  },
  "law:eflaw:011580": {
+  "collected_signature": "68df80bec923b8b0",
+  "content_hash": "4b654891e75ff6f1f4f1f71979ba1717aeb88115314cfadeec7ac80e754fecc2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264055&type=HTML&mobileYn=&efYd=20240716",
   "doc_domain": "law",
   "doc_id": "011580",
@@ -75009,11 +75046,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20240716",
   "is_active": true,
+  "last_checked_at": "2026-08-24T21:15:44.768828+00:00",
+  "last_collected_at": "2026-08-24T21:19:21.684300+00:00",
   "ministry": "보건복지부",
   "mst": "264055",
   "name": "자살예방 및 생명존중문화 조성을 위한 법률 시행규칙",
+  "payload_law_id": "011580",
   "promulgation_date": "20240716",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "68df80bec923b8b0"
  },
