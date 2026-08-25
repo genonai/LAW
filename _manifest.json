@@ -4456,6 +4456,8 @@
   "version_signature": "d60c57bfa7bcdd3c"
  },
  "law:eflaw:000773": {
+  "collected_signature": "60fbff6cc0054aa8",
+  "content_hash": "2c8a6a1c4837f207ea65c30df1f619807c86bcac7e19310f2614d5e7c11ddcc6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276251&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000773",
@@ -4463,12 +4465,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:06.811391+00:00",
+  "last_collected_at": "2026-08-25T23:23:48.629027+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "276251",
   "name": "한국과학기술원법",
+  "payload_law_id": "000773",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "60fbff6cc0054aa8"
  },
  "law:eflaw:000776": {
@@ -30842,6 +30847,8 @@
   "version_signature": "8b976848e305c9a2"
  },
  "law:eflaw:005407": {
+  "collected_signature": "963cbf3a84b48d7e",
+  "content_hash": "f682d1e7a7d82599b79570d1e87930f253541a2fc405d925274ddc36355e1718",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268429&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "005407",
@@ -30849,15 +30856,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:06.974995+00:00",
+  "last_collected_at": "2026-08-25T23:23:19.006408+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "268429",
   "name": "한국과학기술원법 시행령",
+  "payload_law_id": "005407",
   "promulgation_date": "20250121",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "963cbf3a84b48d7e"
  },
  "law:eflaw:005408": {
+  "collected_signature": "a7e54f5c1767e060",
+  "content_hash": "ca602230158d92a7e6c2c9b9add3f4b33788f5f47061e9837eb99a38a75125d4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278245&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "005408",
@@ -30865,11 +30877,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:06.467636+00:00",
+  "last_collected_at": "2026-08-25T23:23:24.297377+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "278245",
   "name": "한국과학기술원 학사규정",
+  "payload_law_id": "005408",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a7e54f5c1767e060"
  },
@@ -51012,6 +51027,8 @@
   "version_signature": "76522c60901a37bc"
  },
  "law:eflaw:009283": {
+  "collected_signature": "44b5848096bac230",
+  "content_hash": "5c861efa736b7a3bb16d3ffd1d33f7b5fba4f07f2e50e90e4377a34a48e7bdf8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273393&type=HTML&mobileYn=&efYd=20250826",
   "doc_domain": "law",
   "doc_id": "009283",
@@ -51019,11 +51036,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250826",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:05.100971+00:00",
+  "last_collected_at": "2026-08-25T23:23:47.529764+00:00",
   "ministry": "국토교통부",
   "mst": "273393",
   "name": "한국공항공사법",
+  "payload_law_id": "009283",
   "promulgation_date": "20250826",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "44b5848096bac230"
  },
@@ -51238,6 +51258,8 @@
   "version_signature": "9f14e7d8529ab77e"
  },
  "law:eflaw:009300": {
+  "collected_signature": "6efd9f4370569129",
+  "content_hash": "e5afbbaf4ec1db715620060785f7629f8a45c21cdce3eae152cebe61f064f8f5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268427&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "009300",
@@ -51245,11 +51267,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:05.711279+00:00",
+  "last_collected_at": "2026-08-25T23:22:52.421607+00:00",
   "ministry": "국토교통부",
   "mst": "268427",
   "name": "한국공항공사법 시행령",
+  "payload_law_id": "009300",
   "promulgation_date": "20250121",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6efd9f4370569129"
  },
@@ -65303,6 +65328,8 @@
   "version_signature": "3ed6b2024bf27fbd"
  },
  "law:eflaw:010502": {
+  "collected_signature": "6a8b8ff16b55bbed",
+  "content_hash": "b30454f5c22e50ef45da0eecf323695f828f61d6b0e4696843b8b4bf68c50dc0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287799&type=HTML&mobileYn=&efYd=20260707",
   "doc_domain": "law",
   "doc_id": "010502",
@@ -65310,11 +65337,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260707",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:05.650342+00:00",
+  "last_collected_at": "2026-08-25T23:23:01.061442+00:00",
   "ministry": "교육부",
   "mst": "287799",
   "name": "한국고전번역원법",
+  "payload_law_id": "010502",
   "promulgation_date": "20260707",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6a8b8ff16b55bbed"
  },
@@ -66077,6 +66107,8 @@
   "version_signature": "da90fb35c67f957f"
  },
  "law:eflaw:010556": {
+  "collected_signature": "cbf436e11c1fc01a",
+  "content_hash": "dd1db04b95ce81c10afc9bd8f804f76b17313cda59e5fda1ce02712e11a9cd7c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214017&type=HTML&mobileYn=&efYd=20200221",
   "doc_domain": "law",
   "doc_id": "010556",
@@ -66084,11 +66116,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20200221",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:06.667097+00:00",
+  "last_collected_at": "2026-08-25T23:22:55.811990+00:00",
   "ministry": "교육부",
   "mst": "214017",
   "name": "한국고전번역원법 시행령",
+  "payload_law_id": "010556",
   "promulgation_date": "20200204",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cbf436e11c1fc01a"
  },
@@ -88571,6 +88606,8 @@
   "version_signature": "0dd7dfa724a3dbb7"
  },
  "law:eflaw:012416": {
+  "collected_signature": "0da752b286c64f75",
+  "content_hash": "5272bc8b0c4f652368e5ef4eea384580b5bc0fabe1e6fccb4130cb1f17c90d89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259397&type=HTML&mobileYn=&efYd=20240527",
   "doc_domain": "law",
   "doc_id": "012416",
@@ -88578,11 +88615,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240527",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:22:04.416557+00:00",
+  "last_collected_at": "2026-08-25T23:22:14.733884+00:00",
   "ministry": "우주항공청",
   "mst": "259397",
   "name": "한국과학우주청소년단 육성에 관한 법률",
+  "payload_law_id": "012416",
   "promulgation_date": "20240126",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0da752b286c64f75"
  },
