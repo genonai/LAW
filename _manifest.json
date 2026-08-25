@@ -4910,6 +4910,8 @@
   "version_signature": "bf0da70963474ccd"
  },
  "law:eflaw:000851": {
+  "collected_signature": "d8e79ffd97cc51c0",
+  "content_hash": "081d1de4600e0a16ff3cce91da009f61c488f3978073be1583b40055357d1e84",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279615&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "000851",
@@ -4917,12 +4919,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260512",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:16.549587+00:00",
+  "last_collected_at": "2026-08-25T21:48:55.537856+00:00",
   "ministry": "교육부",
   "mst": "279615",
   "name": "평생교육법",
+  "payload_law_id": "000851",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 5,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d8e79ffd97cc51c0"
  },
  "law:eflaw:000852": {
@@ -23166,6 +23171,8 @@
   "version_signature": "4ea462efee16f57b"
  },
  "law:eflaw:003751": {
+  "collected_signature": "8b999bfff1b79a6b",
+  "content_hash": "3442945ec4980d7b1fe763bd77f88837e3ca2859711a56172ee5dff536bbda2c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284897&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "003751",
@@ -23173,11 +23180,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:19.023142+00:00",
+  "last_collected_at": "2026-08-25T21:54:10.712678+00:00",
   "ministry": "교육부",
   "mst": "284897",
   "name": "평생교육법 시행령",
+  "payload_law_id": "003751",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8b999bfff1b79a6b"
  },
@@ -34176,6 +34186,8 @@
   "version_signature": "6f97ae13cf9823ec"
  },
  "law:eflaw:005967": {
+  "collected_signature": "29637479709d5154",
+  "content_hash": "d5e4b4713c50aac200ef5e02504d3b93328e667108377595906617f3f0061854",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228975&type=HTML&mobileYn=&efYd=20210129",
   "doc_domain": "law",
   "doc_id": "005967",
@@ -34183,11 +34195,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20210129",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:17.697944+00:00",
+  "last_collected_at": "2026-08-25T21:46:28.639484+00:00",
   "ministry": "대법원",
   "mst": "228975",
   "name": "판사회의의 설치 및 운영에 관한 규칙",
+  "payload_law_id": "005967",
   "promulgation_date": "20210129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "29637479709d5154"
  },
@@ -47747,6 +47762,8 @@
   "version_signature": "22116e795f7cbeeb"
  },
  "law:eflaw:008565": {
+  "collected_signature": "5f7411aff058fa94",
+  "content_hash": "b89c764df3af24fc7c2d851dc71e4a44d69dcf8e426634dbc6621ed706b5c562",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282217&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "008565",
@@ -47754,11 +47771,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:18.056210+00:00",
+  "last_collected_at": "2026-08-25T21:50:25.108232+00:00",
   "ministry": "교육부",
   "mst": "282217",
   "name": "평생교육법 시행규칙",
+  "payload_law_id": "008565",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5f7411aff058fa94"
  },
@@ -60114,6 +60134,8 @@
   "version_signature": "7aec9f15dd0a9646"
  },
  "law:eflaw:010129": {
+  "collected_signature": "50bd3219c05eb2cc",
+  "content_hash": "dab49f8e435c170b247d982433464937f2af2594f7aae40acb4ac2dff25f7b42",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239187&type=HTML&mobileYn=&efYd=20220101",
   "doc_domain": "law",
   "doc_id": "010129",
@@ -60121,11 +60143,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20220101",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:19.764788+00:00",
+  "last_collected_at": "2026-08-25T21:48:11.587882+00:00",
   "ministry": "대법원",
   "mst": "239187",
   "name": "판사가 아닌 재판연구관에 관한 규칙",
+  "payload_law_id": "010129",
   "promulgation_date": "20211231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "50bd3219c05eb2cc"
  },
@@ -87610,6 +87635,8 @@
   "version_signature": "23c04f0a9c895527"
  },
  "law:eflaw:012368": {
+  "collected_signature": "b5f0497beb0b26f7",
+  "content_hash": "c43eb1dd8a0a3d42b8a5eb1e69d5b563e0daeeaab2ccd1c80b6c6cffcdca5800",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269767&type=HTML&mobileYn=&efYd=20250312",
   "doc_domain": "law",
   "doc_id": "012368",
@@ -87617,11 +87644,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250312",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:18.431526+00:00",
+  "last_collected_at": "2026-08-25T21:49:27.441147+00:00",
   "ministry": "교육부",
   "mst": "269767",
   "name": "평가인정 학습과정 운영에 관한 규정",
+  "payload_law_id": "012368",
   "promulgation_date": "20250312",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b5f0497beb0b26f7"
  },
@@ -95443,6 +95473,8 @@
   "version_signature": "0ba338eeda5b2c67"
  },
  "law:eflaw:013511": {
+  "collected_signature": "3ee54afb3441dbd9",
+  "content_hash": "b9eea509a751bec24582fdaab0382b6793098c67c6b49b62e5063aa751ec32e8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=209587&type=HTML&mobileYn=&efYd=20190702",
   "doc_domain": "law",
   "doc_id": "013511",
@@ -95450,11 +95482,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20190702",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:16.914105+00:00",
+  "last_collected_at": "2026-08-25T21:46:25.679159+00:00",
   "ministry": "문화체육관광부",
   "mst": "209587",
   "name": "평창 동계올림픽 및 동계패럴림픽 기장령",
+  "payload_law_id": "013511",
   "promulgation_date": "20190702",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3ee54afb3441dbd9"
  },
@@ -106067,6 +106102,8 @@
   "version_signature": "44816a6f0e43abd6"
  },
  "law:eflaw:014456": {
+  "collected_signature": "a1301756c38cc193",
+  "content_hash": "f467ed9252909c26e18c2481afeab32c6106b7d0e22e23af038abc770e95901b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251565&type=HTML&mobileYn=&efYd=20231214",
   "doc_domain": "law",
   "doc_id": "014456",
@@ -106074,11 +106111,14 @@
   "doc_type": "법률",
   "enforcement_date": "20231214",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:46:17.406060+00:00",
+  "last_collected_at": "2026-08-25T21:49:14.723673+00:00",
   "ministry": "국토교통부,통일부",
   "mst": "251565",
   "name": "평화경제특별구역의 지정 및 운영에 관한 법률",
+  "payload_law_id": "014456",
   "promulgation_date": "20230613",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a1301756c38cc193"
  },
