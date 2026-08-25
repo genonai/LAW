@@ -12946,6 +12946,8 @@
   "version_signature": "f447f4c3650c1b89"
  },
  "law:eflaw:001852": {
+  "collected_signature": "072eb72d965f3b50",
+  "content_hash": "653f29efeff8a14a51659f840b1a1838c5dd87eb61fba792d2138ec40e89af20",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276597&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001852",
@@ -12953,11 +12955,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:34.735613+00:00",
+  "last_collected_at": "2026-08-25T04:08:51.073044+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276597",
   "name": "전원개발촉진법",
+  "payload_law_id": "001852",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "072eb72d965f3b50"
  },
@@ -27224,6 +27229,8 @@
   "version_signature": "5dd8b8f1934a4f4a"
  },
  "law:eflaw:004751": {
+  "collected_signature": "81ae4783ab8df9bc",
+  "content_hash": "5beae43d9e8c79b09898f9f1ca40f5179f92560c8003d9d7bb544d95fb7f266e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281211&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004751",
@@ -27231,11 +27238,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:32.357222+00:00",
+  "last_collected_at": "2026-08-25T04:08:07.921110+00:00",
   "ministry": "기후에너지환경부",
   "mst": "281211",
   "name": "전원개발촉진법 시행령",
+  "payload_law_id": "004751",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "81ae4783ab8df9bc"
  },
@@ -44744,6 +44754,8 @@
   "version_signature": "1b216ad8b5c4f328"
  },
  "law:eflaw:008085": {
+  "collected_signature": "96fded4687161319",
+  "content_hash": "69e0c7f491176c1923fe2cb31b2155562b5f78b24de19376dcd58ef78ce50eda",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278997&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "008085",
@@ -44751,11 +44763,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:34.968638+00:00",
+  "last_collected_at": "2026-08-25T04:05:20.969306+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278997",
   "name": "전원개발촉진법 시행규칙",
+  "payload_law_id": "008085",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "96fded4687161319"
  },
@@ -50983,6 +50998,8 @@
   "version_signature": "15763c647a0e6c0c"
  },
  "law:eflaw:009499": {
+  "collected_signature": "3e91a14b9b10fc4a",
+  "content_hash": "35abf37cd16a3326fc3d81853cedddcbb38ea01e2e1e329e7c06694ccc9c2676",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=75491&type=HTML&mobileYn=&efYd=20060908",
   "doc_domain": "law",
   "doc_id": "009499",
@@ -50990,11 +51007,14 @@
   "doc_type": "국회규칙",
   "enforcement_date": "20060908",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:33.759499+00:00",
+  "last_collected_at": "2026-08-25T04:03:47.011232+00:00",
   "ministry": "국회",
   "mst": "75491",
   "name": "전원위원회 운영에 관한 규칙",
+  "payload_law_id": "009499",
   "promulgation_date": "20060908",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3e91a14b9b10fc4a"
  },
@@ -58904,6 +58924,8 @@
   "version_signature": "93462ab52d53fa0c"
  },
  "law:eflaw:010199": {
+  "collected_signature": "aeaa5eb3fcd19b8a",
+  "content_hash": "169c1dcf01a7ba6f92b1781dd6ea11eff090ec8bfa74dc5c36c15d4e75546ce2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280277&type=HTML&mobileYn=&efYd=20251216",
   "doc_domain": "law",
   "doc_id": "010199",
@@ -58911,12 +58933,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251216",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:32.420094+00:00",
+  "last_collected_at": "2026-08-25T04:07:57.875961+00:00",
   "ministry": "금융위원회",
   "mst": "280277",
   "name": "전자금융거래법",
+  "payload_law_id": "010199",
   "promulgation_date": "20251216",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "aeaa5eb3fcd19b8a"
  },
  "law:eflaw:010200": {
@@ -65292,6 +65317,8 @@
   "version_signature": "553f7641cf3baef8"
  },
  "law:eflaw:010713": {
+  "collected_signature": "ce8a395937ebf033",
+  "content_hash": "0bfd2ffaf675c6a728e4b8753e4e9085ad7ef65bd2584fd823cb2f920fca38c5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283983&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "010713",
@@ -65299,11 +65326,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260310",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:32.616679+00:00",
+  "last_collected_at": "2026-08-25T04:06:12.841874+00:00",
   "ministry": "산업통상부",
   "mst": "283983",
   "name": "전시산업발전법",
+  "payload_law_id": "010713",
   "promulgation_date": "20260310",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "ce8a395937ebf033"
  },
@@ -66808,6 +66838,8 @@
   "version_signature": "0aadc68670d94915"
  },
  "law:eflaw:010833": {
+  "collected_signature": "5f2d4308f7109dd8",
+  "content_hash": "2580a7177153fc5d4172dd637f6af767e89123702165efe2e0189cfce96b1f8f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278433&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010833",
@@ -66815,11 +66847,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:31.980963+00:00",
+  "last_collected_at": "2026-08-25T04:05:45.857769+00:00",
   "ministry": "산업통상부",
   "mst": "278433",
   "name": "전시산업발전법 시행령",
+  "payload_law_id": "010833",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5f2d4308f7109dd8"
  },
@@ -66898,6 +66933,8 @@
   "version_signature": "9abf3c07890c753d"
  },
  "law:eflaw:010839": {
+  "collected_signature": "423fdadcb5895b14",
+  "content_hash": "f63ca50851e540a77569a0c7b1b8e633d9b4207840687bfab37cf30b416c5d05",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278773&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010839",
@@ -66905,11 +66942,14 @@
   "doc_type": "산업통상부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:03:34.184482+00:00",
+  "last_collected_at": "2026-08-25T04:04:57.558062+00:00",
   "ministry": "산업통상부",
   "mst": "278773",
   "name": "전시산업발전법 시행규칙",
+  "payload_law_id": "010839",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "423fdadcb5895b14"
  },
