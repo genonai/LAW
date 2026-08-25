@@ -105,6 +105,8 @@
   "version_signature": "51d192c077543ec5"
  },
  "law:eflaw:000007": {
+  "collected_signature": "34a43780f31e620b",
+  "content_hash": "4b12543689a6968b20f80340cf7431c0d4f2532f694df812281ef10e6ccd231d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276265&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000007",
@@ -112,11 +114,14 @@
   "doc_type": "법률",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:15.949491+00:00",
+  "last_collected_at": "2026-08-25T05:36:41.762304+00:00",
   "ministry": "외교부",
   "mst": "276265",
   "name": "정부대표 및 특별사절의 임명과 권한에 관한 법률",
+  "payload_law_id": "000007",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "34a43780f31e620b"
  },
@@ -10595,6 +10600,8 @@
   "version_signature": "270d63aeed6fca36"
  },
  "law:eflaw:001601": {
+  "collected_signature": "b3a7daa0c1261c6b",
+  "content_hash": "e31b57467a68af3ff1782b670b768608c97a9b4d087787fb07c8905e0fd7b40c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276143&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001601",
@@ -10602,11 +10609,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:17.365679+00:00",
+  "last_collected_at": "2026-08-25T05:37:29.648434+00:00",
   "ministry": "기획예산처",
   "mst": "276143",
   "name": "정부기업예산법",
+  "payload_law_id": "001601",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b3a7daa0c1261c6b"
  },
@@ -19365,6 +19375,8 @@
   "version_signature": "3cd66a4ec52f16c1"
  },
  "law:eflaw:003122": {
+  "collected_signature": "a91f6db03e9dde19",
+  "content_hash": "0d9dae93d9002bfe598f712427783db38f2e4e56952f3cf6d0771ed002fb722d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280887&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "003122",
@@ -19372,11 +19384,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:17.436236+00:00",
+  "last_collected_at": "2026-08-25T05:37:20.858255+00:00",
   "ministry": "기획예산처",
   "mst": "280887",
   "name": "정부기업예산법 시행령",
+  "payload_law_id": "003122",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a91f6db03e9dde19"
  },
@@ -27631,6 +27646,8 @@
   "version_signature": "7f2bd3aa8e514922"
  },
  "law:eflaw:004826": {
+  "collected_signature": "44cdb7bc58670318",
+  "content_hash": "a7eb3368a70512196bbcdcf6807d5c02516ea6962d79702f5dc833dcf67f2886",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261999&type=HTML&mobileYn=&efYd=20240430",
   "doc_domain": "law",
   "doc_id": "004826",
@@ -27638,11 +27655,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20240430",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:16.756877+00:00",
+  "last_collected_at": "2026-08-25T05:38:28.723727+00:00",
   "ministry": "행정안전부",
   "mst": "261999",
   "name": "정부 표창 규정",
+  "payload_law_id": "004826",
   "promulgation_date": "20240430",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "44cdb7bc58670318"
  },
@@ -69478,6 +69498,8 @@
   "version_signature": "310a71ed3cc74fd7"
  },
  "law:eflaw:011067": {
+  "collected_signature": "35e40b6f5ae91673",
+  "content_hash": "be2082d631b7f4a5a13d9971070d2f6ddec350a5369bcd976fb399e1d3313717",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281429&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011067",
@@ -69485,11 +69507,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:18.172758+00:00",
+  "last_collected_at": "2026-08-25T05:39:10.518639+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "281429",
   "name": "정보통신산업 진흥법 시행령",
+  "payload_law_id": "011067",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "35e40b6f5ae91673"
  },
@@ -90792,6 +90817,8 @@
   "version_signature": "c4a29cf24bb103de"
  },
  "law:eflaw:013135": {
+  "collected_signature": "bfda24176ea95165",
+  "content_hash": "c54c9bfde9521fbe3af53a5b938830c32b7f3cf6a04c341bed47e0b878336201",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=232185&type=HTML&mobileYn=&efYd=20211119",
   "doc_domain": "law",
   "doc_id": "013135",
@@ -90799,11 +90826,14 @@
   "doc_type": "법률",
   "enforcement_date": "20211119",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:16.340508+00:00",
+  "last_collected_at": "2026-08-25T05:36:42.562263+00:00",
   "ministry": "문화체육관광부",
   "mst": "232185",
   "name": "정부기관 및 공공법인 등의 광고시행에 관한 법률",
+  "payload_law_id": "013135",
   "promulgation_date": "20210518",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bfda24176ea95165"
  },
@@ -91371,6 +91401,8 @@
   "version_signature": "46fabc1c98a048cc"
  },
  "law:eflaw:013200": {
+  "collected_signature": "2ffa04cd4b637008",
+  "content_hash": "a25997caff41e5678767c03b764db8370d6659d2b4b2257368277768dcad58df",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=236703&type=HTML&mobileYn=&efYd=20220101",
   "doc_domain": "law",
   "doc_id": "013200",
@@ -91378,11 +91410,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20220101",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:18.939139+00:00",
+  "last_collected_at": "2026-08-25T05:37:29.814326+00:00",
   "ministry": "문화체육관광부",
   "mst": "236703",
   "name": "정부기관 및 공공법인 등의 광고시행에 관한 법률 시행령",
+  "payload_law_id": "013200",
   "promulgation_date": "20211109",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2ffa04cd4b637008"
  },
@@ -91445,6 +91480,8 @@
   "version_signature": "f70b956535fb5197"
  },
  "law:eflaw:013207": {
+  "collected_signature": "a80d9a829545b908",
+  "content_hash": "d068fdf2f703e9af9b99d77636c29d2c0f2139c2f0d443e6a95d3a0f0deacd69",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=205773&type=HTML&mobileYn=&efYd=20181213",
   "doc_domain": "law",
   "doc_id": "013207",
@@ -91452,11 +91489,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20181213",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:36:19.347306+00:00",
+  "last_collected_at": "2026-08-25T05:37:22.928999+00:00",
   "ministry": "문화체육관광부",
   "mst": "205773",
   "name": "정부기관 및 공공법인 등의 광고시행에 관한 법률 시행규칙",
+  "payload_law_id": "013207",
   "promulgation_date": "20181213",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a80d9a829545b908"
  },
