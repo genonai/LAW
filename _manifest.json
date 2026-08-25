@@ -5393,6 +5393,8 @@
   "version_signature": "0a54c219ea27225e"
  },
  "law:eflaw:000900": {
+  "collected_signature": "4fa40a01bcefd03a",
+  "content_hash": "3405b920f2689325168f6d61ff380c2fdeaf8b6ed1ca6049dd48f10cbc886eae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286065&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "000900",
@@ -5400,12 +5402,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:56.249772+00:00",
+  "last_collected_at": "2026-08-25T18:54:41.487227+00:00",
   "ministry": "교육부",
   "mst": "286065",
   "name": "초ㆍ중등교육법",
+  "payload_law_id": "000900",
   "promulgation_date": "20260519",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "4fa40a01bcefd03a"
  },
  "law:eflaw:000901": {
@@ -29535,6 +29540,8 @@
   "version_signature": "eb457f29a57ba5ec"
  },
  "law:eflaw:005234": {
+  "collected_signature": "89d979311e7c18fe",
+  "content_hash": "977e27865b9e3e8daafd2a5767c773a81d354dc21cbdc45500a65a64ffca9e89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270135&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "005234",
@@ -29542,15 +29549,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260326",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:55.191924+00:00",
+  "last_collected_at": "2026-08-25T18:52:49.666199+00:00",
   "ministry": "문화체육관광부",
   "mst": "270135",
   "name": "체육시설의 설치ㆍ이용에 관한 법률 시행령",
+  "payload_law_id": "005234",
   "promulgation_date": "20250325",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "89d979311e7c18fe"
  },
  "law:eflaw:005238": {
+  "collected_signature": "297f1ad534032e8f",
+  "content_hash": "e3b5fafbbaf8c44cfbf5f531978dc769b254c3218c1c6de3b1ce0d208d46e0c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286321&type=HTML&mobileYn=&efYd=20260526",
   "doc_domain": "law",
   "doc_id": "005238",
@@ -29558,11 +29570,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260526",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:56.624594+00:00",
+  "last_collected_at": "2026-08-25T19:02:02.794557+00:00",
   "ministry": "교육부",
   "mst": "286321",
   "name": "초ㆍ중등교육법 시행령",
+  "payload_law_id": "005238",
   "promulgation_date": "20260526",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "297f1ad534032e8f"
  },
@@ -46999,6 +47014,8 @@
   "version_signature": "bd4120f1349e616d"
  },
  "law:eflaw:008468": {
+  "collected_signature": "6838214ab02ad9a2",
+  "content_hash": "4c67e1c6fa8d334b79fe1633ecd73837ea9d9b2c867de88be2a1d19cbb7a187e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265107&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "008468",
@@ -47006,11 +47023,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20260101",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:55.758247+00:00",
+  "last_collected_at": "2026-08-25T18:52:50.564972+00:00",
   "ministry": "문화체육관광부",
   "mst": "265107",
   "name": "체육시설의 설치ㆍ이용에 관한 법률 시행규칙",
+  "payload_law_id": "008468",
   "promulgation_date": "20240828",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6838214ab02ad9a2"
  },
@@ -85294,6 +85314,8 @@
   "version_signature": "d19796cfd8bd3319"
  },
  "law:eflaw:012258": {
+  "collected_signature": "b511530f57098bd2",
+  "content_hash": "e9337977f5bb08fdbf562f56965530b762e27dd165b64f636eabd059ec8510bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284493&type=HTML&mobileYn=&efYd=20260311",
   "doc_domain": "law",
   "doc_id": "012258",
@@ -85301,11 +85323,14 @@
   "doc_type": "교육부령",
   "enforcement_date": "20260311",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:56.417169+00:00",
+  "last_collected_at": "2026-08-25T18:49:11.813065+00:00",
   "ministry": "교육부",
   "mst": "284493",
   "name": "초ㆍ중등교육법 시행규칙",
+  "payload_law_id": "012258",
   "promulgation_date": "20260311",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b511530f57098bd2"
  },
@@ -101384,6 +101409,8 @@
   "version_signature": "138665a3a7eaa7b7"
  },
  "law:eflaw:014136": {
+  "collected_signature": "864611e1c9a0e751",
+  "content_hash": "595ed6f61bdd4c68484e44b1e176fcc29af2faa88a6df0d2ad4042e3c9f69b13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=253629&type=HTML&mobileYn=&efYd=20240209",
   "doc_domain": "law",
   "doc_id": "014136",
@@ -101391,12 +101418,15 @@
   "doc_type": "법률",
   "enforcement_date": "20240209",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:53.642894+00:00",
+  "last_collected_at": "2026-08-25T18:45:28.361471+00:00",
   "ministry": "문화체육관광부",
   "mst": "253629",
   "name": "체육인 복지법",
+  "payload_law_id": "014136",
   "promulgation_date": "20230808",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "864611e1c9a0e751"
  },
  "law:eflaw:014138": {
@@ -103908,6 +103938,8 @@
   "version_signature": "a2a4472d1f7569b0"
  },
  "law:eflaw:014321": {
+  "collected_signature": "3691298afa9b2457",
+  "content_hash": "c3c5263667a23641f22ebc11c5b0376ccb6e4437fb5df385330c4cd956d811bf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283553&type=HTML&mobileYn=&efYd=20260219",
   "doc_domain": "law",
   "doc_id": "014321",
@@ -103915,11 +103947,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260219",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:54.492539+00:00",
+  "last_collected_at": "2026-08-25T18:49:54.196873+00:00",
   "ministry": "문화체육관광부",
   "mst": "283553",
   "name": "체육인 복지법 시행령",
+  "payload_law_id": "014321",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3691298afa9b2457"
  },
@@ -103977,6 +104012,8 @@
   "version_signature": "eef2e3b1738c34be"
  },
  "law:eflaw:014326": {
+  "collected_signature": "abd40d21d360f251",
+  "content_hash": "e09dc8d0351bdeb763efeb3092f94eb798117b6c89d792f717fcc033fb356d3a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244279&type=HTML&mobileYn=&efYd=20220811",
   "doc_domain": "law",
   "doc_id": "014326",
@@ -103984,11 +104021,14 @@
   "doc_type": "문화체육관광부령",
   "enforcement_date": "20220811",
   "is_active": true,
+  "last_checked_at": "2026-08-25T18:44:54.142902+00:00",
+  "last_collected_at": "2026-08-25T18:50:43.545252+00:00",
   "ministry": "문화체육관광부",
   "mst": "244279",
   "name": "체육인 복지법 시행규칙",
+  "payload_law_id": "014326",
   "promulgation_date": "20220811",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "abd40d21d360f251"
  },
