@@ -6965,6 +6965,8 @@
   "version_signature": "d3dbe15247279f5a"
  },
  "law:eflaw:001133": {
+  "collected_signature": "cae067417f16631e",
+  "content_hash": "0253e5ff41b586fe23d6e08ea8c675d0a1ff5efda6d6c512f300869dbe3f4ad7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280403&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "001133",
@@ -6972,11 +6974,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260624",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:38.547048+00:00",
+  "last_collected_at": "2026-08-25T21:14:41.495690+00:00",
   "ministry": "법무부",
   "mst": "280403",
   "name": "특정강력범죄의 처벌에 관한 특례법",
+  "payload_law_id": "001133",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cae067417f16631e"
  },
@@ -7013,6 +7018,8 @@
   "version_signature": "121eb73d3eda67fa"
  },
  "law:eflaw:001136": {
+  "collected_signature": "91eac52c78cef467",
+  "content_hash": "37763216d1f1feb39d8bc4ff022ff15a889ea3cddca4212785d5cd579f9b8c94",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=199773&type=HTML&mobileYn=&efYd=20180320",
   "doc_domain": "law",
   "doc_id": "001136",
@@ -7020,11 +7027,14 @@
   "doc_type": "법률",
   "enforcement_date": "20180320",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:35.736536+00:00",
+  "last_collected_at": "2026-08-25T21:12:37.049986+00:00",
   "ministry": "법무부",
   "mst": "199773",
   "name": "특정경제범죄 가중처벌 등에 관한 법률",
+  "payload_law_id": "001136",
   "promulgation_date": "20171219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "91eac52c78cef467"
  },
@@ -29983,6 +29993,8 @@
   "version_signature": "02b6f703c5830b6c"
  },
  "law:eflaw:005318": {
+  "collected_signature": "3d339bb267477e2a",
+  "content_hash": "84724622d20e7638914dc6d0250826628d775fe498b3d34044cb9ba56da9e2e1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284895&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "005318",
@@ -29990,11 +30002,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:36.436874+00:00",
+  "last_collected_at": "2026-08-25T21:14:16.226276+00:00",
   "ministry": "교육부",
   "mst": "284895",
   "name": "특수학교시설ㆍ설비기준령",
+  "payload_law_id": "005318",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3d339bb267477e2a"
  },
@@ -47495,6 +47510,8 @@
   "version_signature": "c598be287edabc52"
  },
  "law:eflaw:008550": {
+  "collected_signature": "50f3be259344129e",
+  "content_hash": "f6d7f39639349d5262a7e89a03d915dd59c6cadb33d52dc26bbfb1bbae2707ce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256841&type=HTML&mobileYn=&efYd=20231211",
   "doc_domain": "law",
   "doc_id": "008550",
@@ -47502,11 +47519,14 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20231211",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:37.870976+00:00",
+  "last_collected_at": "2026-08-25T21:12:39.034060+00:00",
   "ministry": "해양수산부",
   "mst": "256841",
   "name": "특수화물 선박운송 규칙",
+  "payload_law_id": "008550",
   "promulgation_date": "20231211",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "50f3be259344129e"
  },
@@ -49974,6 +49994,8 @@
   "version_signature": "18a240cd0b37fe15"
  },
  "law:eflaw:009244": {
+  "collected_signature": "812bec237436122f",
+  "content_hash": "b3440492172f054d82334bb72223ccfa472912838cfaeedba601a683d781d7c1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283365&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "009244",
@@ -49981,11 +50003,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:35.961658+00:00",
+  "last_collected_at": "2026-08-25T21:15:38.967518+00:00",
   "ministry": "금융위원회,법무부",
   "mst": "283365",
   "name": "특정 금융거래정보의 보고 및 이용 등에 관한 법률",
+  "payload_law_id": "009244",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "812bec237436122f"
  },
@@ -50179,6 +50204,8 @@
   "version_signature": "c798816501a5cd6d"
  },
  "law:eflaw:009256": {
+  "collected_signature": "011d5c4010826919",
+  "content_hash": "db600dffed6e95d9da029c59a54984e5dd230901ac506934e3bcf6638da918f9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288765&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "009256",
@@ -50186,12 +50213,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260820",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:37.222283+00:00",
+  "last_collected_at": "2026-08-25T21:17:09.250468+00:00",
   "ministry": "금융위원회,법무부",
   "mst": "288765",
   "name": "특정 금융거래정보의 보고 및 이용 등에 관한 법률 시행령",
+  "payload_law_id": "009256",
   "promulgation_date": "20260818",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "011d5c4010826919"
  },
  "law:eflaw:009258": {
@@ -114551,6 +114581,8 @@
   "version_signature": "2570ff474026f72a"
  },
  "law:eflaw:015143": {
+  "collected_signature": "a86d03982937b6e0",
+  "content_hash": "721f03e2835ecdeb31fe2d21e3cf0543bf470ab83b6880dc2f75dcacebc07ab5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286487&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "015143",
@@ -114558,11 +114590,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20260624",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:36.712237+00:00",
+  "last_collected_at": "2026-08-25T21:13:55.506708+00:00",
   "ministry": "대법원",
   "mst": "286487",
   "name": "특정강력범죄 사건의 심리 및 재판 등에 관한 규칙",
+  "payload_law_id": "015143",
   "promulgation_date": "20260605",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a86d03982937b6e0"
  },
@@ -114693,6 +114728,8 @@
   "version_signature": "fa7b3ce63f8c47c9"
  },
  "law:eflaw:015150": {
+  "collected_signature": "e4c5b53b7d919ade",
+  "content_hash": "be43ca1853a570b04be2129fbc26e8a6e05e3af073766afd52824d98c42c908a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286993&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "015150",
@@ -114700,11 +114737,14 @@
   "doc_type": "법률",
   "enforcement_date": "20261217",
   "is_active": true,
+  "last_checked_at": "2026-08-25T21:11:36.754143+00:00",
+  "last_collected_at": "2026-08-25T21:11:45.310892+00:00",
   "ministry": "국토교통부",
   "mst": "286993",
   "name": "특정건축물 정리에 관한 특별조치법",
+  "payload_law_id": "015150",
   "promulgation_date": "20260616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e4c5b53b7d919ade"
  },
