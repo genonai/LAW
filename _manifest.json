@@ -8042,6 +8042,8 @@
   "version_signature": "656c66d6e0914609"
  },
  "law:eflaw:001262": {
+  "collected_signature": "09e535f82bfd6e3e",
+  "content_hash": "d413db7f1d0b33becd8cec0cdc9b17154590f8f7c5c64448117017e0ec913588",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249285&type=HTML&mobileYn=&efYd=20230929",
   "doc_domain": "law",
   "doc_id": "001262",
@@ -8049,11 +8051,14 @@
   "doc_type": "법률",
   "enforcement_date": "20230929",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:52.692052+00:00",
+  "last_collected_at": "2026-08-25T17:17:23.499913+00:00",
   "ministry": "법무부",
   "mst": "249285",
   "name": "집합건물의 소유 및 관리에 관한 법률",
+  "payload_law_id": "001262",
   "promulgation_date": "20230328",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "09e535f82bfd6e3e"
  },
@@ -13406,6 +13411,8 @@
   "version_signature": "faa7387a6d273a34"
  },
  "law:eflaw:001866": {
+  "collected_signature": "dbe2de3b08ea0572",
+  "content_hash": "5cb085ac786a4717f30aa6a2d329c3babd167cd485b421f170b59f154491722e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283985&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "001866",
@@ -13413,12 +13420,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260310",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:51.534758+00:00",
+  "last_collected_at": "2026-08-25T17:19:41.722566+00:00",
   "ministry": "기후에너지환경부",
   "mst": "283985",
   "name": "집단에너지사업법",
+  "payload_law_id": "001866",
   "promulgation_date": "20260310",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "dbe2de3b08ea0572"
  },
  "law:eflaw:001867": {
@@ -29124,6 +29134,8 @@
   "version_signature": "58cbf2c5cee6eb1d"
  },
  "law:eflaw:005157": {
+  "collected_signature": "376810fe90b3ccd7",
+  "content_hash": "863caa952a6401a2f4e0a2f12a35ca21555679f5fb06de051497d69696038d49",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278451&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "005157",
@@ -29131,12 +29143,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:52.492322+00:00",
+  "last_collected_at": "2026-08-25T17:18:19.025033+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278451",
   "name": "집단에너지사업법 시행령",
+  "payload_law_id": "005157",
   "promulgation_date": "20251001",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "376810fe90b3ccd7"
  },
  "law:eflaw:005159": {
@@ -33665,6 +33680,8 @@
   "version_signature": "0d60ed3bbf2098d4"
  },
  "law:eflaw:005952": {
+  "collected_signature": "b14d34666a4b845e",
+  "content_hash": "4a291f6adea445920e48683a7c75d103f85ee8b2c81f7fa9de7f740fae20f4ef",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239181&type=HTML&mobileYn=&efYd=20220301",
   "doc_domain": "law",
   "doc_id": "005952",
@@ -33672,12 +33689,15 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20220301",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:50.959966+00:00",
+  "last_collected_at": "2026-08-25T17:13:25.685034+00:00",
   "ministry": "대법원",
   "mst": "239181",
   "name": "집행관규칙",
+  "payload_law_id": "005952",
   "promulgation_date": "20211231",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b14d34666a4b845e"
  },
  "law:eflaw:005953": {
@@ -46618,6 +46638,8 @@
   "version_signature": "f112247984da1519"
  },
  "law:eflaw:008396": {
+  "collected_signature": "e3008fa09ed46178",
+  "content_hash": "6f85d16f9a2fb552b9faf70d3ee48efeb8c41737b8baa7ff9cf41197d75c9bec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279009&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "008396",
@@ -46625,11 +46647,14 @@
   "doc_type": "기후에너지환경부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:52.292177+00:00",
+  "last_collected_at": "2026-08-25T17:17:23.083858+00:00",
   "ministry": "기후에너지환경부",
   "mst": "279009",
   "name": "집단에너지사업법 시행규칙",
+  "payload_law_id": "008396",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e3008fa09ed46178"
  },
@@ -53109,6 +53134,8 @@
   "version_signature": "3332e88b9fbd8f22"
  },
  "law:eflaw:009582": {
+  "collected_signature": "3e9fa2899039002d",
+  "content_hash": "2dc6f7d1563a514c4e975ff7666aa8fee2e94c35d611a5003130a2789fa748ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=254889&type=HTML&mobileYn=&efYd=20230929",
   "doc_domain": "law",
   "doc_id": "009582",
@@ -53116,11 +53143,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230929",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:54.049732+00:00",
+  "last_collected_at": "2026-08-25T17:16:43.504920+00:00",
   "ministry": "법무부",
   "mst": "254889",
   "name": "집합건물의 소유 및 관리에 관한 법률 시행령",
+  "payload_law_id": "009582",
   "promulgation_date": "20230926",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3e9fa2899039002d"
  },
@@ -65326,6 +65356,8 @@
   "version_signature": "3ce760ff7b63109a"
  },
  "law:eflaw:010592": {
+  "collected_signature": "d58128df2b79a4b5",
+  "content_hash": "ab59fd04da970841bb155f9dbb0e2fa56b43f63d47a28ac9cedd08a79728bf3f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=224847&type=HTML&mobileYn=&efYd=20210101",
   "doc_domain": "law",
   "doc_id": "010592",
@@ -65333,12 +65365,15 @@
   "doc_type": "법률",
   "enforcement_date": "20210101",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:51.734239+00:00",
+  "last_collected_at": "2026-08-25T17:13:42.400812+00:00",
   "ministry": "법무부",
   "mst": "224847",
   "name": "질서위반행위규제법",
+  "payload_law_id": "010592",
   "promulgation_date": "20201229",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "d58128df2b79a4b5"
  },
  "law:eflaw:010593": {
@@ -67640,6 +67675,8 @@
   "version_signature": "9a1c23580915f841"
  },
  "law:eflaw:010775": {
+  "collected_signature": "7921a8dfd5937115",
+  "content_hash": "243b36d058fee53f7e2de46b154bb1f96cdf05dc05a74b86969b3b07d74b6be6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287547&type=HTML&mobileYn=&efYd=20260630",
   "doc_domain": "law",
   "doc_id": "010775",
@@ -67647,11 +67684,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260630",
   "is_active": true,
+  "last_checked_at": "2026-08-25T17:12:53.458555+00:00",
+  "last_collected_at": "2026-08-25T17:16:39.363506+00:00",
   "ministry": "법무부",
   "mst": "287547",
   "name": "질서위반행위규제법 시행령",
+  "payload_law_id": "010775",
   "promulgation_date": "20260630",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7921a8dfd5937115"
  },
