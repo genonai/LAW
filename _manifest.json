@@ -3397,6 +3397,8 @@
   "version_signature": "56bd63192f43b6c6"
  },
  "law:eflaw:000533": {
+  "collected_signature": "f86830c45349ddec",
+  "content_hash": "037cd35d9726c96c7fc4451fd726d78ffd4c7960d5b2043cbc35d72e6f7570dc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277273&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000533",
@@ -3404,11 +3406,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:26.035074+00:00",
+  "last_collected_at": "2026-08-25T23:56:33.284879+00:00",
   "ministry": "금융위원회",
   "mst": "277273",
   "name": "한국자산관리공사 설립 등에 관한 법률",
+  "payload_law_id": "000533",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f86830c45349ddec"
  },
@@ -4553,6 +4558,8 @@
   "version_signature": "79e2d591fb640831"
  },
  "law:eflaw:000777": {
+  "collected_signature": "dd2159db556ca159",
+  "content_hash": "225822e8a3bad029b8cfe6f279b169d053776c0cffed253b0227d8420d3b82ec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=195118&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "000777",
@@ -4560,11 +4567,14 @@
   "doc_type": "법률",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:24.601722+00:00",
+  "last_collected_at": "2026-08-25T23:54:36.368580+00:00",
   "ministry": "행정안전부",
   "mst": "195118",
   "name": "한국자유총연맹 육성에 관한 법률",
+  "payload_law_id": "000777",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd2159db556ca159"
  },
@@ -10545,6 +10555,8 @@
   "version_signature": "e2a7c7b903b1e796"
  },
  "law:eflaw:001550": {
+  "collected_signature": "bac1e1e04a382de7",
+  "content_hash": "00be0690881ed7d274d391fafe90f83fcc680f559706b812e369ec2979ee798e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276153&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001550",
@@ -10552,11 +10564,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:25.043259+00:00",
+  "last_collected_at": "2026-08-25T23:56:08.767633+00:00",
   "ministry": "재정경제부",
   "mst": "276153",
   "name": "한국은행법",
+  "payload_law_id": "001550",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bac1e1e04a382de7"
  },
@@ -19799,6 +19814,8 @@
   "version_signature": "3b2f8562d2be7b0f"
  },
  "law:eflaw:003077": {
+  "collected_signature": "bfa60ab8d82eb7b7",
+  "content_hash": "d5f6013ab190b384579056cedb20d0070cf876da364d93453b887e4cc3768ed3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268471&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "003077",
@@ -19806,11 +19823,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250131",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:26.176509+00:00",
+  "last_collected_at": "2026-08-25T23:56:50.473216+00:00",
   "ministry": "금융위원회",
   "mst": "268471",
   "name": "한국자산관리공사 설립 등에 관한 법률 시행령",
+  "payload_law_id": "003077",
   "promulgation_date": "20250121",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bfa60ab8d82eb7b7"
  },
@@ -31171,6 +31191,8 @@
   "version_signature": "42722794e42785bc"
  },
  "law:eflaw:005429": {
+  "collected_signature": "1a36153671e0a584",
+  "content_hash": "86f439a8aff7654364d6732c9ae4aa4661f37595396b0728b4aa9a4604e3e572",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=187778&type=HTML&mobileYn=&efYd=20161130",
   "doc_domain": "law",
   "doc_id": "005429",
@@ -31178,11 +31200,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20161130",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:27.811982+00:00",
+  "last_collected_at": "2026-08-25T23:56:48.132522+00:00",
   "ministry": "교육부",
   "mst": "187778",
   "name": "한국임업전문학교 및 한국수산전문학교 설치령",
+  "payload_law_id": "005429",
   "promulgation_date": "20161129",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1a36153671e0a584"
  },
@@ -31460,6 +31485,8 @@
   "version_signature": "73c39b61eb5934aa"
  },
  "law:eflaw:005462": {
+  "collected_signature": "3e0e5f72d13e6fb7",
+  "content_hash": "466aa79605fe8d7301d74060e0be9a9eb72789c19d1c66e5e513aa6577364228",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280913&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "005462",
@@ -31467,11 +31494,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:26.601513+00:00",
+  "last_collected_at": "2026-08-25T23:56:57.738392+00:00",
   "ministry": "재정경제부",
   "mst": "280913",
   "name": "한국은행법 시행령",
+  "payload_law_id": "005462",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3e0e5f72d13e6fb7"
  },
@@ -90435,6 +90465,8 @@
   "version_signature": "bb659d0e4f95c653"
  },
  "law:eflaw:012564": {
+  "collected_signature": "465dd495ad469cca",
+  "content_hash": "4095b4ccdd0e9178c4b583dad02c4943ba85bc3ce46847efd27f4631c9bb53ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258101&type=HTML&mobileYn=&efYd=20240710",
   "doc_domain": "law",
   "doc_id": "012564",
@@ -90442,11 +90474,14 @@
   "doc_type": "법률",
   "enforcement_date": "20240710",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:25.145092+00:00",
+  "last_collected_at": "2026-08-25T23:56:24.783771+00:00",
   "ministry": "보건복지부",
   "mst": "258101",
   "name": "한국인 원자폭탄 피해자 지원을 위한 특별법",
+  "payload_law_id": "012564",
   "promulgation_date": "20240109",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "465dd495ad469cca"
  },
@@ -92739,6 +92774,8 @@
   "version_signature": "a34533bd856479dc"
  },
  "law:eflaw:012869": {
+  "collected_signature": "842ef800a78855a0",
+  "content_hash": "8225721069cc00d41270a03300dd4732fe47d7be03bcab0ccfdaf1d2f04e41cb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281179&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012869",
@@ -92746,11 +92783,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T23:54:27.562356+00:00",
+  "last_collected_at": "2026-08-25T23:56:24.253496+00:00",
   "ministry": "보건복지부",
   "mst": "281179",
   "name": "한국인 원자폭탄 피해자 지원을 위한 특별법 시행령",
+  "payload_law_id": "012869",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "842ef800a78855a0"
  },
