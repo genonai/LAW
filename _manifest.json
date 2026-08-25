@@ -4135,6 +4135,8 @@
   "version_signature": "62b561fe449a75fc"
  },
  "law:eflaw:000744": {
+  "collected_signature": "bc424be196243054",
+  "content_hash": "17f637d0f23c536ea359faab07a5b3aeb47f75dc329ba7903ff69dbce442f2ce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=113175&type=HTML&mobileYn=&efYd=20110519",
   "doc_domain": "law",
   "doc_id": "000744",
@@ -4142,11 +4144,14 @@
   "doc_type": "법률",
   "enforcement_date": "20110519",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:09.605543+00:00",
+  "last_collected_at": "2026-08-25T22:21:14.970662+00:00",
   "ministry": "우주항공청",
   "mst": "113175",
   "name": "표준시에 관한 법률",
+  "payload_law_id": "000744",
   "promulgation_date": "20110519",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bc424be196243054"
  },
@@ -7027,6 +7032,8 @@
   "version_signature": "3a8dd24230c96bd0"
  },
  "law:eflaw:001135": {
+  "collected_signature": "121eb73d3eda67fa",
+  "content_hash": "1f3e1a43974f04897f55b4af4e4a9f5ba8e21889f72d0d9527b513804c312d76",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=178989&type=HTML&mobileYn=&efYd=20160106",
   "doc_domain": "law",
   "doc_id": "001135",
@@ -7034,11 +7041,14 @@
   "doc_type": "법률",
   "enforcement_date": "20160106",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:05.581341+00:00",
+  "last_collected_at": "2026-08-25T22:22:50.827050+00:00",
   "ministry": "법무부",
   "mst": "178989",
   "name": "폭력행위 등 처벌에 관한 법률",
+  "payload_law_id": "001135",
   "promulgation_date": "20160106",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "121eb73d3eda67fa"
  },
@@ -14463,6 +14473,8 @@
   "version_signature": "17622b0d60d4b64d"
  },
  "law:eflaw:002011": {
+  "collected_signature": "353e012d5d37eae5",
+  "content_hash": "42c66c251d614734a14e3d3bab3439b9cc17809dba8efc4548ad62f1f6b9f8aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268659&type=HTML&mobileYn=&efYd=20250121",
   "doc_domain": "law",
   "doc_id": "002011",
@@ -14470,11 +14482,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250121",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:05.823193+00:00",
+  "last_collected_at": "2026-08-25T22:23:42.622552+00:00",
   "ministry": "공정거래위원회",
   "mst": "268659",
   "name": "표시ㆍ광고의 공정화에 관한 법률",
+  "payload_law_id": "002011",
   "promulgation_date": "20250121",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "353e012d5d37eae5"
  },
@@ -30410,6 +30425,8 @@
   "version_signature": "ef619c808dc273dd"
  },
  "law:eflaw:005361": {
+  "collected_signature": "a5403cbe8400d614",
+  "content_hash": "adf705d256936edf8c72e1d1036c3cb6e1ce2de2c34e50189150a68120316148",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286999&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "005361",
@@ -30417,11 +30434,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:04.840003+00:00",
+  "last_collected_at": "2026-08-25T22:23:04.117937+00:00",
   "ministry": "공정거래위원회",
   "mst": "286999",
   "name": "표시ㆍ광고의 공정화에 관한 법률 시행령",
+  "payload_law_id": "005361",
   "promulgation_date": "20260616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a5403cbe8400d614"
  },
@@ -47859,6 +47879,8 @@
   "version_signature": "1863021c6704b067"
  },
  "law:eflaw:008570": {
+  "collected_signature": "7e969fc3eab335e5",
+  "content_hash": "f41c33a230ce7d962d80add5a13fdd920c54d84dde37a9c950b55c0f85727490",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264023&type=HTML&mobileYn=&efYd=20240712",
   "doc_domain": "law",
   "doc_id": "008570",
@@ -47866,11 +47888,14 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20240712",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:07.131450+00:00",
+  "last_collected_at": "2026-08-25T22:22:39.677543+00:00",
   "ministry": "국토교통부",
   "mst": "264023",
   "name": "표준설계도서 등의 운영에 관한 규칙",
+  "payload_law_id": "008570",
   "promulgation_date": "20240712",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7e969fc3eab335e5"
  },
@@ -110345,6 +110370,8 @@
   "version_signature": "e3e9988acbd01268"
  },
  "law:eflaw:014792": {
+  "collected_signature": "476b788b76214092",
+  "content_hash": "36689c013ca6d07c546b0ffaf7dea64c6b8281df1e64db26c52dcbb43280eb46",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283407&type=HTML&mobileYn=&efYd=20260219",
   "doc_domain": "law",
   "doc_id": "014792",
@@ -110352,11 +110379,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260219",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:07.572782+00:00",
+  "last_collected_at": "2026-08-25T22:22:33.724808+00:00",
   "ministry": "농림축산식품부",
   "mst": "283407",
   "name": "푸드테크산업 육성에 관한 법률",
+  "payload_law_id": "014792",
   "promulgation_date": "20260219",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "476b788b76214092"
  },
@@ -112937,6 +112967,8 @@
   "version_signature": "7814716e3c3b2f32"
  },
  "law:eflaw:014991": {
+  "collected_signature": "6076f7dda1d57cfb",
+  "content_hash": "52e070006636d3a03b3c892fc5f5e14287b18720a91d5f2abd031e9caceb568b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283793&type=HTML&mobileYn=&efYd=20260303",
   "doc_domain": "law",
   "doc_id": "014991",
@@ -112944,11 +112976,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260303",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:04.298540+00:00",
+  "last_collected_at": "2026-08-25T22:21:40.881160+00:00",
   "ministry": "농림축산식품부",
   "mst": "283793",
   "name": "푸드테크산업 육성에 관한 법률 시행령",
+  "payload_law_id": "014991",
   "promulgation_date": "20260303",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6076f7dda1d57cfb"
  },
@@ -112974,6 +113009,8 @@
   "version_signature": "feda4bf595cffcec"
  },
  "law:eflaw:014993": {
+  "collected_signature": "3d9b7b9e946d4ae5",
+  "content_hash": "f4371b98e982817fd886b728a24937fa8902c1308d81090695e32cabb4fd866a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280337&type=HTML&mobileYn=&efYd=20251221",
   "doc_domain": "law",
   "doc_id": "014993",
@@ -112981,11 +113018,14 @@
   "doc_type": "농림축산식품부령",
   "enforcement_date": "20251221",
   "is_active": true,
+  "last_checked_at": "2026-08-25T22:21:06.456687+00:00",
+  "last_collected_at": "2026-08-25T22:22:29.468990+00:00",
   "ministry": "농림축산식품부",
   "mst": "280337",
   "name": "푸드테크산업 육성에 관한 법률 시행규칙",
+  "payload_law_id": "014993",
   "promulgation_date": "20251217",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3d9b7b9e946d4ae5"
  },
