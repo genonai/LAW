@@ -48116,6 +48116,8 @@
   "version_signature": "9ec1d68a7d107231"
  },
  "law:eflaw:009199": {
+  "collected_signature": "5c504462f000238a",
+  "content_hash": "da464083c7ac32a9bfa3de9ca393123f7fbb9690492c412936d81cb9832ad0e0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268103&type=HTML&mobileYn=&efYd=20250708",
   "doc_domain": "law",
   "doc_id": "009199",
@@ -48123,12 +48125,15 @@
   "doc_type": "법률",
   "enforcement_date": "20250708",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:38.115583+00:00",
+  "last_collected_at": "2026-08-25T04:33:23.135056+00:00",
   "ministry": "행정안전부",
   "mst": "268103",
   "name": "전자정부법",
+  "payload_law_id": "009199",
   "promulgation_date": "20250107",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "5c504462f000238a"
  },
  "law:eflaw:009201": {
@@ -48258,6 +48263,8 @@
   "version_signature": "10e462c5885eeb13"
  },
  "law:eflaw:009213": {
+  "collected_signature": "fe0e5e1757acffc3",
+  "content_hash": "5fbeba7fc3a80adc4d9ff830f4a232a16f6c804ee966ab1d190f70e42e956699",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281535&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009213",
@@ -48265,11 +48272,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:40.098135+00:00",
+  "last_collected_at": "2026-08-25T04:34:08.413813+00:00",
   "ministry": "행정안전부",
   "mst": "281535",
   "name": "전자정부법 시행령",
+  "payload_law_id": "009213",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "fe0e5e1757acffc3"
  },
@@ -54953,6 +54963,8 @@
   "version_signature": "fa508607fa1c4515"
  },
  "law:eflaw:009863": {
+  "collected_signature": "937f8019acb59993",
+  "content_hash": "be885f7bf7820eed9077c0b13307ebf4bedf2714194253e90cc5e0c9aeb363e2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240183&type=HTML&mobileYn=&efYd=20220509",
   "doc_domain": "law",
   "doc_id": "009863",
@@ -54960,11 +54972,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20220509",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:39.215143+00:00",
+  "last_collected_at": "2026-08-25T04:32:01.061149+00:00",
   "ministry": "법무부",
   "mst": "240183",
   "name": "전자어음의 발행 및 유통에 관한 법률 시행령",
+  "payload_law_id": "009863",
   "promulgation_date": "20220208",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "937f8019acb59993"
  },
@@ -61839,6 +61854,8 @@
   "version_signature": "69fb0e226b24c581"
  },
  "law:eflaw:010434": {
+  "collected_signature": "79ae475137a93a7e",
+  "content_hash": "d8ece802b82aafe615259ed1383970012a973c356850d7969c892d79b820ece0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280401&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "010434",
@@ -61846,11 +61863,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260624",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:39.740134+00:00",
+  "last_collected_at": "2026-08-25T04:32:27.139594+00:00",
   "ministry": "법무부",
   "mst": "280401",
   "name": "전자장치 부착 등에 관한 법률",
+  "payload_law_id": "010434",
   "promulgation_date": "20251223",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "79ae475137a93a7e"
  },
@@ -66939,6 +66959,8 @@
   "version_signature": "5f2d4308f7109dd8"
  },
  "law:eflaw:010834": {
+  "collected_signature": "392a6fb1eb2800ab",
+  "content_hash": "3c161cbcde38bf69d0b7e493d874f32bbb31b694e84374f1f844c268e3128626",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286851&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "010834",
@@ -66946,11 +66968,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260624",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:38.857199+00:00",
+  "last_collected_at": "2026-08-25T04:32:34.043699+00:00",
   "ministry": "법무부",
   "mst": "286851",
   "name": "전자장치 부착 등에 관한 법률 시행령",
+  "payload_law_id": "010834",
   "promulgation_date": "20260609",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "392a6fb1eb2800ab"
  },
@@ -66976,6 +67001,8 @@
   "version_signature": "89f10ec219513402"
  },
  "law:eflaw:010836": {
+  "collected_signature": "a5fb17b028aac968",
+  "content_hash": "87c1947ee272c01ecd3459f0b66b07214c1d81140daa9cc98746f3704d7e98aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258615&type=HTML&mobileYn=&efYd=20240112",
   "doc_domain": "law",
   "doc_id": "010836",
@@ -66983,11 +67010,14 @@
   "doc_type": "법무부령",
   "enforcement_date": "20240112",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:37.623819+00:00",
+  "last_collected_at": "2026-08-25T04:31:37.343831+00:00",
   "ministry": "법무부",
   "mst": "258615",
   "name": "전자장치 부착 등에 관한 법률 시행규칙",
+  "payload_law_id": "010836",
   "promulgation_date": "20240109",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a5fb17b028aac968"
  },
@@ -78229,6 +78259,8 @@
   "version_signature": "f48410d4f56e295a"
  },
  "law:eflaw:011778": {
+  "collected_signature": "58500e61c415b16d",
+  "content_hash": "ed019d9a98dcdbf08eb0659bed3f247942a0e2a2a907bf9b430001f070b69c9b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277153&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011778",
@@ -78236,11 +78268,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:37.248768+00:00",
+  "last_collected_at": "2026-08-25T04:31:22.185243+00:00",
   "ministry": "재정경제부,조달청",
   "mst": "277153",
   "name": "전자조달의 이용 및 촉진에 관한 법률",
+  "payload_law_id": "011778",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "58500e61c415b16d"
  },
@@ -101636,6 +101671,8 @@
   "version_signature": "39fa86c010f2814e"
  },
  "law:eflaw:014383": {
+  "collected_signature": "9b580571fcaa2ada",
+  "content_hash": "0aa382dcc85205edb24ab0b66bd69fa625bf1cbf99ad8c9583776d7790bf5825",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282543&type=HTML&mobileYn=&efYd=20251231",
   "doc_domain": "law",
   "doc_id": "014383",
@@ -101643,11 +101680,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20251231",
   "is_active": true,
+  "last_checked_at": "2026-08-25T04:24:38.265683+00:00",
+  "last_collected_at": "2026-08-25T04:24:57.222326+00:00",
   "ministry": "행정안전부",
   "mst": "282543",
   "name": "전자정부법 시행규칙",
+  "payload_law_id": "014383",
   "promulgation_date": "20251231",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9b580571fcaa2ada"
  },
