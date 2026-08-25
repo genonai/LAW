@@ -11231,6 +11231,8 @@
   "version_signature": "e7619809fa570404"
  },
  "law:eflaw:001653": {
+  "collected_signature": "7c230dd6669c8f3b",
+  "content_hash": "721e44b6aa07a5ac86bd77cedeb1cf854f5e5e6c4481e422284e49a27cdec984",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286499&type=HTML&mobileYn=&efYd=20260602",
   "doc_domain": "law",
   "doc_id": "001653",
@@ -11238,12 +11240,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260602",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:42.127820+00:00",
+  "last_collected_at": "2026-08-25T13:29:28.543265+00:00",
   "ministry": "행정안전부",
   "mst": "286499",
   "name": "지방공무원법",
+  "payload_law_id": "001653",
   "promulgation_date": "20260602",
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "7c230dd6669c8f3b"
  },
  "law:eflaw:001654": {
@@ -28593,6 +28598,8 @@
   "version_signature": "986623e4f9e519c1"
  },
  "law:eflaw:005053": {
+  "collected_signature": "3f5601436db3debb",
+  "content_hash": "67219270f55d795adb6a38e53778e828ff904256afb9e193086cd6f07b7d2156",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272557&type=HTML&mobileYn=&efYd=20250701",
   "doc_domain": "law",
   "doc_id": "005053",
@@ -28600,11 +28607,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250701",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:40.844941+00:00",
+  "last_collected_at": "2026-08-25T13:24:12.493977+00:00",
   "ministry": "행정안전부",
   "mst": "272557",
   "name": "지방공무원 징계 및 소청 규정",
+  "payload_law_id": "005053",
   "promulgation_date": "20250630",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3f5601436db3debb"
  },
@@ -46035,6 +46045,8 @@
   "version_signature": "60e7b04dce0bcb26"
  },
  "law:eflaw:008315": {
+  "collected_signature": "a2c34031dd90a4c5",
+  "content_hash": "c55e08dff3d9b71ddcca3abf972b5e41ed6fd807e07895dc09a8d7033f337117",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261725&type=HTML&mobileYn=&efYd=20240408",
   "doc_domain": "law",
   "doc_id": "008315",
@@ -46042,11 +46054,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20240408",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:41.927996+00:00",
+  "last_collected_at": "2026-08-25T13:22:47.172565+00:00",
   "ministry": "행정안전부",
   "mst": "261725",
   "name": "지방공무원인사교류규칙",
+  "payload_law_id": "008315",
   "promulgation_date": "20240408",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a2c34031dd90a4c5"
  },
@@ -46072,6 +46087,8 @@
   "version_signature": "921b3984a93bd46e"
  },
  "law:eflaw:008319": {
+  "collected_signature": "bc18755648faae53",
+  "content_hash": "4458bf6a439944506bd424d7e8372de4bb20dbd10e1b3325619cf48bbbd0a558",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287747&type=HTML&mobileYn=&efYd=20260630",
   "doc_domain": "law",
   "doc_id": "008319",
@@ -46079,11 +46096,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20260630",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:43.452395+00:00",
+  "last_collected_at": "2026-08-25T13:24:02.701480+00:00",
   "ministry": "행정안전부",
   "mst": "287747",
   "name": "지방공무원 평정규칙",
+  "payload_law_id": "008319",
   "promulgation_date": "20260630",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bc18755648faae53"
  },
@@ -81050,6 +81070,8 @@
   "version_signature": "c8e9c6a77116468a"
  },
  "law:eflaw:011933": {
+  "collected_signature": "f582684dc9e5ff73",
+  "content_hash": "5cc0c5c6f97a04556f8af1a34400189b8758bf3d553375fae93a7cd8f9528b5b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271407&type=HTML&mobileYn=&efYd=20250602",
   "doc_domain": "law",
   "doc_id": "011933",
@@ -81057,11 +81079,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20250602",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:43.194156+00:00",
+  "last_collected_at": "2026-08-25T13:22:43.916212+00:00",
   "ministry": "행정안전부",
   "mst": "271407",
   "name": "지방공무원의 구분 변경에 따른 전직임용 등에 관한 특례규정",
+  "payload_law_id": "011933",
   "promulgation_date": "20250602",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "f582684dc9e5ff73"
  },
@@ -85959,6 +85984,8 @@
   "version_signature": "3b5fe1bf7d69c6fa"
  },
  "law:eflaw:012388": {
+  "collected_signature": "7432e0190c35a163",
+  "content_hash": "6daa9c0a12a3d728c292d9e7c9ba4d7ebc803b2fb23bcf7dc3d8c065bbfd82b3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282257&type=HTML&mobileYn=&efYd=20251230",
   "doc_domain": "law",
   "doc_id": "012388",
@@ -85966,11 +85993,14 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20251230",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:40.669876+00:00",
+  "last_collected_at": "2026-08-25T13:20:44.266601+00:00",
   "ministry": "행정안전부",
   "mst": "282257",
   "name": "지방공무원 징계규칙",
+  "payload_law_id": "012388",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7432e0190c35a163"
  },
@@ -92122,6 +92152,8 @@
   "version_signature": "3e54f1b7099acdbf"
  },
  "law:eflaw:013154": {
+  "collected_signature": "3a70b1ba4809a0ba",
+  "content_hash": "f37f37b875243a7f349b56e8b761a26dab01d081ee169c52c08cc6837c13a940",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=204036&type=HTML&mobileYn=&efYd=20180710",
   "doc_domain": "law",
   "doc_id": "013154",
@@ -92129,11 +92161,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20180710",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:40.078455+00:00",
+  "last_collected_at": "2026-08-25T13:19:45.784962+00:00",
   "ministry": "행정안전부",
   "mst": "204036",
   "name": "지방공휴일에 관한 규정",
+  "payload_law_id": "013154",
   "promulgation_date": "20180710",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "3a70b1ba4809a0ba"
  },
@@ -93612,6 +93647,8 @@
   "version_signature": "5b627903d6122b8f"
  },
  "law:eflaw:013533": {
+  "collected_signature": "2de1bdeb459fc168",
+  "content_hash": "14a4a0eb5e4c00680addbe8259359d0688381bb522ec8677ef6c94a3d590ef4e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281861&type=HTML&mobileYn=&efYd=20251230",
   "doc_domain": "law",
   "doc_id": "013533",
@@ -93619,11 +93656,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251230",
   "is_active": true,
+  "last_checked_at": "2026-08-25T13:19:42.278712+00:00",
+  "last_collected_at": "2026-08-25T13:22:53.511369+00:00",
   "ministry": "행정안전부",
   "mst": "281861",
   "name": "지방공무원 적극행정 운영규정",
+  "payload_law_id": "013533",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "2de1bdeb459fc168"
  },
