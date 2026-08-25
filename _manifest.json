@@ -3587,6 +3587,8 @@
   "version_signature": "a192b8ec069e0692"
  },
  "law:eflaw:000621": {
+  "collected_signature": "e079b1e246250e40",
+  "content_hash": "a85c56fe4ea9d5ffbd49d3cdb76da2a46c49b8c5702570af4d724c2ce8442a8b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=239245&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "000621",
@@ -3594,11 +3596,14 @@
   "doc_type": "법률",
   "enforcement_date": "20220701",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:05.232984+00:00",
+  "last_collected_at": "2026-08-25T12:36:35.656491+00:00",
   "ministry": "재정경제부",
   "mst": "239245",
   "name": "증권거래세법",
+  "payload_law_id": "000621",
   "promulgation_date": "20220106",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e079b1e246250e40"
  },
@@ -11338,6 +11343,8 @@
   "version_signature": "4984d3faae2d6545"
  },
  "law:eflaw:001669": {
+  "collected_signature": "384a658784583ab2",
+  "content_hash": "f8913d389f5596ee00fda583bfd32f88b08f5b52ac37a76bcfbb6e10f296e4fa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=195051&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "001669",
@@ -11345,11 +11352,14 @@
   "doc_type": "법률",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:08.487450+00:00",
+  "last_collected_at": "2026-08-25T12:36:40.494507+00:00",
   "ministry": "법무부",
   "mst": "195051",
   "name": "즉결심판에 관한 절차법",
+  "payload_law_id": "001669",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "384a658784583ab2"
  },
@@ -33369,6 +33379,8 @@
   "version_signature": "076fa370e010bf2f"
  },
  "law:eflaw:005948": {
+  "collected_signature": "0d60ed3bbf2098d4",
+  "content_hash": "dbc113dea4bd442d68a2c046e96a820d1c33cc8a326f489371c72756801ee9b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=152805&type=HTML&mobileYn=&efYd=20140403",
   "doc_domain": "law",
   "doc_id": "005948",
@@ -33376,11 +33388,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20140403",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:08.987077+00:00",
+  "last_collected_at": "2026-08-25T12:36:17.847548+00:00",
   "ministry": "대법원",
   "mst": "152805",
   "name": "즉결심판절차에서의 불출석심판청구 등에 관한 규칙",
+  "payload_law_id": "005948",
   "promulgation_date": "20140403",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0d60ed3bbf2098d4"
  },
@@ -50029,6 +50044,8 @@
   "version_signature": "4f6304a58e3fbbc7"
  },
  "law:eflaw:009319": {
+  "collected_signature": "70afaea2c57181d7",
+  "content_hash": "939d703f9ce68554a1f9e01cb467db7c750ffb65194c1b47a959eab808730fcf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=152806&type=HTML&mobileYn=&efYd=20140403",
   "doc_domain": "law",
   "doc_id": "009319",
@@ -50036,11 +50053,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20140403",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:07.189200+00:00",
+  "last_collected_at": "2026-08-25T12:36:12.010083+00:00",
   "ministry": "대법원",
   "mst": "152806",
   "name": "즉결심판청구 취소절차에 관한 규칙",
+  "payload_law_id": "009319",
   "promulgation_date": "20140403",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "70afaea2c57181d7"
  },
@@ -66129,6 +66149,8 @@
   "version_signature": "ffb4d4ea71cc92e4"
  },
  "law:eflaw:010710": {
+  "collected_signature": "cebe9b8d01b3251a",
+  "content_hash": "678bdcd3c9bed1f20ef730cf7aad47e7444fe632f0c780de386fda5591067f22",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279741&type=HTML&mobileYn=&efYd=20251111",
   "doc_domain": "law",
   "doc_id": "010710",
@@ -66136,12 +66158,15 @@
   "doc_type": "법률",
   "enforcement_date": "20251111",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:09.130247+00:00",
+  "last_collected_at": "2026-08-25T12:37:18.902646+00:00",
   "ministry": "보건복지부",
   "mst": "279741",
   "name": "중증장애인생산품 우선구매 특별법",
+  "payload_law_id": "010710",
   "promulgation_date": "20251111",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "cebe9b8d01b3251a"
  },
  "law:eflaw:010711": {
@@ -67913,6 +67938,8 @@
   "version_signature": "57cf8011df79d8fb"
  },
  "law:eflaw:010844": {
+  "collected_signature": "d6b60072b1348c0b",
+  "content_hash": "b2e7b0bc56cb508173a0602e310dc163c1e54f667e0be480a1b0600364421367",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284873&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "010844",
@@ -67920,11 +67947,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260324",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:06.548287+00:00",
+  "last_collected_at": "2026-08-25T12:37:00.508740+00:00",
   "ministry": "보건복지부",
   "mst": "284873",
   "name": "중증장애인생산품 우선구매 특별법 시행령",
+  "payload_law_id": "010844",
   "promulgation_date": "20260324",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d6b60072b1348c0b"
  },
@@ -88077,6 +88107,8 @@
   "version_signature": "1b6eac01051b9a89"
  },
  "law:eflaw:012617": {
+  "collected_signature": "d86ea456067321f9",
+  "content_hash": "9a66b3c31ab9c93ba6990994e85e4690de33ff7d13d697a30f76b01dd85fd368",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=218455&type=HTML&mobileYn=&efYd=20200527",
   "doc_domain": "law",
   "doc_id": "012617",
@@ -88084,11 +88116,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20200527",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:05.399313+00:00",
+  "last_collected_at": "2026-08-25T12:35:32.203333+00:00",
   "ministry": "보건복지부",
   "mst": "218455",
   "name": "중증장애인생산품 우선구매 특별법 시행규칙",
+  "payload_law_id": "012617",
   "promulgation_date": "20200527",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "d86ea456067321f9"
  },
@@ -90027,6 +90062,8 @@
   "version_signature": "ccd67209d65a33fd"
  },
  "law:eflaw:012892": {
+  "collected_signature": "aa9256144d6c80b8",
+  "content_hash": "450e3f278f0a4341f408c337980360dcc301201d515a002d83bdd3d0e846ec70",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=194499&type=HTML&mobileYn=&efYd=20170628",
   "doc_domain": "law",
   "doc_id": "012892",
@@ -90034,11 +90071,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170628",
   "is_active": true,
+  "last_checked_at": "2026-08-25T12:35:06.315010+00:00",
+  "last_collected_at": "2026-08-25T12:36:15.974451+00:00",
   "ministry": "법무부",
   "mst": "194499",
   "name": "중재산업 진흥에 관한 법률 시행령",
+  "payload_law_id": "012892",
   "promulgation_date": "20170627",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "aa9256144d6c80b8"
  },
