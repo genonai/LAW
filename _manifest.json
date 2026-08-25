@@ -316,6 +316,8 @@
   "version_signature": "7aee0c8d072a72a2"
  },
  "law:eflaw:000030": {
+  "collected_signature": "648e9c560ea4f5dd",
+  "content_hash": "a51b9d057e0c47b27aa436fc824e946853050c00dc818415b74e0364d097f255",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282481&type=HTML&mobileYn=&efYd=20260707",
   "doc_domain": "law",
   "doc_id": "000030",
@@ -323,12 +325,15 @@
   "doc_type": "법률",
   "enforcement_date": "20260707",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:09.165380+00:00",
+  "last_collected_at": "2026-08-25T05:34:02.873587+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "282481",
   "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
+  "payload_law_id": "000030",
   "promulgation_date": "20260106",
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "648e9c560ea4f5dd"
  },
  "law:eflaw:000035": {
@@ -27557,6 +27562,8 @@
   "version_signature": "d36e85801381f985"
  },
  "law:eflaw:004797": {
+  "collected_signature": "68cb86b23dfa2aa7",
+  "content_hash": "ad30246ab67f57a22f0acd661c95a55622304009952348d5f49c1674c1bbd2aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288033&type=HTML&mobileYn=&efYd=20260707",
   "doc_domain": "law",
   "doc_id": "004797",
@@ -27564,11 +27571,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260707",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:08.089342+00:00",
+  "last_collected_at": "2026-08-25T05:35:44.929476+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "288033",
   "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령",
+  "payload_law_id": "004797",
   "promulgation_date": "20260707",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "68cb86b23dfa2aa7"
  },
@@ -44916,6 +44926,8 @@
   "version_signature": "df91be52df7ea572"
  },
  "law:eflaw:008108": {
+  "collected_signature": "1cee3d33592c6d26",
+  "content_hash": "9012f92f1443a19930e0a08ffdfd877dfc492cd98e34082ec1e0126fba03753e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=230723&type=HTML&mobileYn=&efYd=20210331",
   "doc_domain": "law",
   "doc_id": "008108",
@@ -44923,11 +44935,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20210331",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:09.215833+00:00",
+  "last_collected_at": "2026-08-25T05:29:13.692252+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "230723",
   "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행규칙",
+  "payload_law_id": "008108",
   "promulgation_date": "20210331",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1cee3d33592c6d26"
  },
@@ -48516,6 +48531,8 @@
   "version_signature": "043fe584b036f373"
  },
  "law:eflaw:009225": {
+  "collected_signature": "5e59b38c5b0517bb",
+  "content_hash": "ae3f84bce34a09a01baa1af9532a4751ddc47ca4af72d9973d9b21d7ca5fc3cb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280951&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "009225",
@@ -48523,15 +48540,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:07.088453+00:00",
+  "last_collected_at": "2026-08-25T05:26:31.682128+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "280951",
   "name": "정보통신기반 보호법 시행령",
+  "payload_law_id": "009225",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5e59b38c5b0517bb"
  },
  "law:eflaw:009228": {
+  "collected_signature": "6f857d9f363b8316",
+  "content_hash": "76f7e83dbd27bab85b2d82ca93528b3ade1e1a600c2994d87e157fee3701474a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279103&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "009228",
@@ -48539,11 +48561,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20251001",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:06.496522+00:00",
+  "last_collected_at": "2026-08-25T05:28:35.902599+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "279103",
   "name": "정보통신기반 보호법 시행규칙",
+  "payload_law_id": "009228",
   "promulgation_date": "20251001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6f857d9f363b8316"
  },
@@ -68769,6 +68794,8 @@
   "version_signature": "69a17f3259c96054"
  },
  "law:eflaw:011006": {
+  "collected_signature": "97374b9df0a8fdf7",
+  "content_hash": "8003f09b3898ac501689c7cebeaf4302a7c958df695d8df7ea4ce7c649affb63",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280045&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "011006",
@@ -68776,11 +68803,14 @@
   "doc_type": "법률",
   "enforcement_date": "20260603",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:07.714094+00:00",
+  "last_collected_at": "2026-08-25T05:27:27.012199+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "280045",
   "name": "정보통신산업 진흥법",
+  "payload_law_id": "011006",
   "promulgation_date": "20251202",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "97374b9df0a8fdf7"
  },
@@ -69480,6 +69510,8 @@
   "version_signature": "e135df466af71676"
  },
  "law:eflaw:011070": {
+  "collected_signature": "277bf7974c07df8e",
+  "content_hash": "f5d4710ac89911aca4a9d7f9e0ed0d67138610a22edc05deb34cc19f48bf5646",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=196155&type=HTML&mobileYn=&efYd=20170726",
   "doc_domain": "law",
   "doc_id": "011070",
@@ -69487,11 +69519,14 @@
   "doc_type": "과학기술정보통신부령",
   "enforcement_date": "20170726",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:05.961977+00:00",
+  "last_collected_at": "2026-08-25T05:24:43.666974+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "196155",
   "name": "정보통신산업 진흥법 시행규칙",
+  "payload_law_id": "011070",
   "promulgation_date": "20170726",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "277bf7974c07df8e"
  },
@@ -111412,6 +111447,8 @@
   "version_signature": "ac39b4b131cfe02c"
  },
  "law:eflaw:015177": {
+  "collected_signature": "6d68990e47c0aa2e",
+  "content_hash": "8f4390c63080955cd908bfc1bb2544f5d09be58dc8a3831ff7d8678b0ef1fca7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288351&type=HTML&mobileYn=&efYd=20260729",
   "doc_domain": "law",
   "doc_id": "015177",
@@ -111419,11 +111456,14 @@
   "doc_type": "대법원규칙",
   "enforcement_date": "20260729",
   "is_active": true,
+  "last_checked_at": "2026-08-25T05:24:08.998585+00:00",
+  "last_collected_at": "2026-08-25T05:25:58.427481+00:00",
   "ministry": "대법원",
   "mst": "288351",
   "name": "정보통신망 관련 가중 손해배상 청구 소송에 관한 규칙",
+  "payload_law_id": "015177",
   "promulgation_date": "20260729",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6d68990e47c0aa2e"
  },
