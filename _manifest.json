@@ -91146,6 +91146,8 @@
   "version_signature": "857ce8db1b3a63af"
  },
  "law:eflaw:012443": {
+  "collected_signature": "e750b3901dc8e25f",
+  "content_hash": "7fdda381de0ca0460694765bf36a39f1e7703613c4a3baefc59d2744a95026d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266647&type=HTML&mobileYn=&efYd=20250604",
   "doc_domain": "law",
   "doc_id": "012443",
@@ -91153,11 +91155,14 @@
   "doc_type": "법률",
   "enforcement_date": "20250604",
   "is_active": true,
+  "last_checked_at": "2026-08-26T13:09:12.532606+00:00",
+  "last_collected_at": "2026-08-26T13:09:54.894989+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "266647",
   "name": "희귀질환관리법",
+  "payload_law_id": "012443",
   "promulgation_date": "20241203",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e750b3901dc8e25f"
  },
@@ -93938,6 +93943,8 @@
   "version_signature": "5720cbf4f10c709b"
  },
  "law:eflaw:012746": {
+  "collected_signature": "889263751365c6a0",
+  "content_hash": "cf636c88d6eabc5a2e7f258cef4be58b493ced88c2419da3c629010cfa416f00",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281183&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012746",
@@ -93945,11 +93952,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
+  "last_checked_at": "2026-08-26T13:09:12.091220+00:00",
+  "last_collected_at": "2026-08-26T13:10:31.423921+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "281183",
   "name": "희귀질환관리법 시행령",
+  "payload_law_id": "012746",
   "promulgation_date": "20251230",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "889263751365c6a0"
  },
@@ -93996,6 +94006,8 @@
   "version_signature": "b63fe70e0dbcf995"
  },
  "law:eflaw:012776": {
+  "collected_signature": "b1824728df984583",
+  "content_hash": "4c902f83096f700b4832766e3702489ff0f43f4f09a8c5c268f289a42c1bfa7c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266101&type=HTML&mobileYn=&efYd=20241022",
   "doc_domain": "law",
   "doc_id": "012776",
@@ -94003,11 +94015,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20241022",
   "is_active": true,
+  "last_checked_at": "2026-08-26T13:09:12.891130+00:00",
+  "last_collected_at": "2026-08-26T13:10:20.759869+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "266101",
   "name": "희귀질환관리법 시행규칙",
+  "payload_law_id": "012776",
   "promulgation_date": "20241022",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b1824728df984583"
  },
