@@ -82,7 +82,9 @@
             "source_provision_id": "law:예산회계에관한특례법시행령#JO0001",
             "reference_id": "law:예산회계에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산회계에관한특례법/법률/예산회계에관한특례법.json"
+            "target_git_path_guess": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,9 +101,11 @@
             "target_url": "https://www.law.go.kr/법령/豫算會計에관한特例法/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:예산회계에관한특례법시행령#JO0001",
-            "reference_id": "law:豫算會計에관한特例法#JO0002",
+            "reference_id": "law:예산회계에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "豫算會計에관한特例法/법률/豫算會計에관한特例法.json"
+            "target_git_path_guess": "豫算會計에관한特例法/법률/豫算會計에관한特例法.json",
+            "target_git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1974.11.23]",
@@ -136,7 +140,9 @@
             "source_provision_id": "law:예산회계에관한특례법시행령#JO0002",
             "reference_id": "law:예산회계에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산회계에관한특례법/법률/예산회계에관한특례법.json"
+            "target_git_path_guess": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -153,9 +159,11 @@
             "target_url": "https://www.law.go.kr/법령/豫算會計에관한特例法/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:예산회계에관한특례법시행령#JO0002",
-            "reference_id": "law:豫算會計에관한特例法#JO0002",
+            "reference_id": "law:예산회계에관한특례법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "豫算會計에관한特例法/법률/豫算會計에관한特例法.json"
+            "target_git_path_guess": "豫算會計에관한特例法/법률/豫算會計에관한特例法.json",
+            "target_git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -328,5 +336,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "예산회계에관한특례법/시행령/예산회계에관한특례법시행령.json"
+  "git_path": "예산회계에관한특례법/시행령/예산회계에관한특례법시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

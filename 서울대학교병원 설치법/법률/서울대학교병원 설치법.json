@@ -80,7 +80,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0001",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -130,7 +132,11 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -149,7 +155,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "law:서울대학교병원설치법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -168,7 +176,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "law:서울대학교병원설치법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -187,7 +197,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "law:서울대학교병원설치법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -206,7 +218,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "law:서울대학교병원설치법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -232,7 +246,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0003",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -297,7 +313,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0006",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -316,7 +334,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0006",
             "reference_id": "law:공공보건의료에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -335,7 +355,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0006",
             "reference_id": "law:공공보건의료에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -370,7 +392,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0007",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -389,7 +413,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0007",
             "reference_id": "law:공공보건의료에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.1.7][종전 제7조는 제8조로 이동 <2014.1.7>]",
@@ -439,7 +465,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0008",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -458,7 +486,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0008",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -477,7 +507,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0008",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -496,7 +528,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0008",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제7조에서 이동, 종전 제8조는 제9조로 이동 <2014.1.7>][시행일: 2026.1.2] 제8조제2항제1호의 개정부분 중 재정경제부 및 기획예산처에 관한 부분",
@@ -532,7 +566,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0009",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +587,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0009",
             "reference_id": "law:공공보건의료에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -570,7 +608,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0009",
             "reference_id": "law:서울대학교병원설치법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제8조에서 이동, 종전 제9조는 제10조로 이동 <2014.1.7>]",
@@ -605,7 +645,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0010",
             "reference_id": "law:서울대학교병원설치법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제9조에서 이동, 종전 제10조는 제11조로 이동 <2014.1.7>]",
@@ -655,7 +697,11 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -681,7 +727,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17][제10조에서 이동, 종전 제11조는 제12조로 이동 <2014.1.7>]",
@@ -716,7 +764,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "law:서울대학교병원설치법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json"
+            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_git_path": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -735,7 +785,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -754,7 +806,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "law:고등교육법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +827,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -792,7 +848,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "law:고등교육법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -811,7 +869,11 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -832,7 +894,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -858,7 +922,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0011_02",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17][제10조의2에서 이동 <2014.1.7>]",
@@ -893,7 +959,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0012",
             "reference_id": "law:서울대학교병원설치법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json"
+            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_git_path": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -912,7 +980,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0012",
             "reference_id": "law:서울대학교병원설치법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제11조에서 이동, 종전 제12조는 제13조로 이동 <2014.1.7>]",
@@ -999,7 +1069,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0016",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1018,7 +1090,11 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0016",
             "reference_id": "SchlPubRul:서울대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json"
+            "target_git_path_guess": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_git_path": "서울대학교병원 정관/서울대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2010.3.17][제15조에서 이동, 종전 제16조는 제17조로 이동 <2014.1.7>]",
@@ -1053,7 +1129,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0017",
             "reference_id": "law:서울대학교병원설치법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제16조에서 이동, 종전 제17조는 제18조로 이동 <2014.1.7>]",
@@ -1118,7 +1196,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0020",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제19조에서 이동, 종전 제20조는 제21조로 이동 <2014.1.7>]",
@@ -1153,7 +1233,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0021",
             "reference_id": "law:서울대학교병원설치법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json"
+            "target_git_path_guess": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_git_path": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1172,7 +1254,9 @@
             "source_provision_id": "law:서울대학교병원설치법#JO0021",
             "reference_id": "law:서울대학교병원설치법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json"
+            "target_git_path_guess": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_git_path": "서울대학교병원 설치법/시행령/서울대학교병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제20조에서 이동 <2014.1.7>]",
@@ -1449,5 +1533,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json"
+  "git_path": "서울대학교병원 설치법/법률/서울대학교병원 설치법.json",
+  "_schlpub_id_suffix": "법률"
 }

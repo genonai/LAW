@@ -77,7 +77,9 @@
             "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
             "reference_id": "law:외무공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
             "reference_id": "law:외무공무원법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json"
+            "target_git_path_guess": "외무공무원법/법률/외무공무원법.json",
+            "target_git_path": "외무공무원법/법률/외무공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +119,9 @@
             "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0001",
             "reference_id": "law:재외공관무관주재령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관무관주재령/법률/재외공관무관주재령.json"
+            "target_git_path_guess": "재외공관무관주재령/법률/재외공관무관주재령.json",
+            "target_git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1984.10.22]",
@@ -166,7 +172,9 @@
             "source_provision_id": "law:재외공관주재무관의대외직명에관한규칙#JO0003",
             "reference_id": "law:재외공관무관주재령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json"
+            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -366,5 +374,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "재외공관주재무관의 대외직명에 관한 규칙/법률/재외공관주재무관의 대외직명에 관한 규칙.json"
+  "git_path": "재외공관주재무관의 대외직명에 관한 규칙/법률/재외공관주재무관의 대외직명에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

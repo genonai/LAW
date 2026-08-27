@@ -77,7 +77,9 @@
             "source_provision_id": "law:무선설비규칙#JO0001",
             "reference_id": "law:전파법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "law:무선설비규칙#JO0001",
             "reference_id": "law:전파법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +119,9 @@
             "source_provision_id": "law:무선설비규칙#JO0001",
             "reference_id": "law:전파법#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -134,7 +140,9 @@
             "source_provision_id": "law:무선설비규칙#JO0001",
             "reference_id": "law:전파법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "전파법/법률/전파법.json"
+            "target_git_path_guess": "전파법/법률/전파법.json",
+            "target_git_path": "전파법/법률/전파법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -216,7 +224,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:무선설비규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표1_주파수 허용편차(제5조제1항 본문 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -235,7 +246,11 @@
             "source_provision_id": "law:무선설비규칙#JO0005",
             "reference_id": "admrul:전파응용설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json"
+            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_git_path": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -261,7 +276,9 @@
             "source_provision_id": "law:무선설비규칙#JO0005",
             "reference_id": "admrul:전파응용설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json"
+            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_git_path": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -300,7 +317,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:무선설비규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표2_점유주파수대역폭의 허용치(제6조제1항 본문 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -339,7 +359,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:무선설비규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표3_협대역ㆍ광대역 시스템에 대한 스퓨리어스 영역 경계기준(제7조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -378,7 +401,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:무선설비규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표4_스퓨리어스 영역 불요발사의 허용치(제8조제1항 본문 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -417,7 +443,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:무선설비규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표5_전파형식별 안테나공급전력의 표시와 환산비(제9조제1항 본문 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -441,7 +470,10 @@
             "target_unit": "BYL0006",
             "reference_id": "law:무선설비규칙#BYL0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json"
+            "target_git_path_guess": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_path": "무선설비규칙/법률/무선설비규칙.json",
+            "target_git_file_path": "무선설비규칙/법률/별표/별표6_안테나공급전력 허용편차(제9조제1항 본문 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -532,7 +564,9 @@
             "source_provision_id": "law:무선설비규칙#JO0014",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +585,9 @@
             "source_provision_id": "law:무선설비규칙#JO0014",
             "reference_id": "law:어선법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "어선법/법률/어선법.json"
+            "target_git_path_guess": "어선법/법률/어선법.json",
+            "target_git_path": "어선법/법률/어선법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -570,7 +606,9 @@
             "source_provision_id": "law:무선설비규칙#JO0014",
             "reference_id": "law:수상레저안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수상레저안전법/법률/수상레저안전법.json"
+            "target_git_path_guess": "수상레저안전법/법률/수상레저안전법.json",
+            "target_git_path": "수상레저안전법/법률/수상레저안전법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -632,7 +670,9 @@
             "source_provision_id": "law:무선설비규칙#JO0017",
             "reference_id": "law:전기사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -651,7 +691,9 @@
             "source_provision_id": "law:무선설비규칙#JO0017",
             "reference_id": "law:전기사업법#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기사업법/법률/전기사업법.json"
+            "target_git_path_guess": "전기사업법/법률/전기사업법.json",
+            "target_git_path": "전기사업법/법률/전기사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -685,7 +727,9 @@
             "source_provision_id": "law:무선설비규칙#JO0018",
             "reference_id": "law:산업표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -704,7 +748,9 @@
             "source_provision_id": "law:무선설비규칙#JO0018",
             "reference_id": "law:산업표준화법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -723,7 +769,9 @@
             "source_provision_id": "law:무선설비규칙#JO0018",
             "reference_id": "law:산업표준화법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json"
+            "target_git_path_guess": "산업표준화법/법률/산업표준화법.json",
+            "target_git_path": "산업표준화법/법률/산업표준화법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -742,7 +790,9 @@
             "source_provision_id": "law:무선설비규칙#JO0018",
             "reference_id": "law:방송통신발전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json"
+            "target_git_path_guess": "방송통신발전기본법/법률/방송통신발전기본법.json",
+            "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +811,9 @@
             "source_provision_id": "law:무선설비규칙#JO0018",
             "reference_id": "law:방송통신발전기본법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json"
+            "target_git_path_guess": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_git_path": "방송통신발전 기본법/법률/방송통신발전 기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -795,7 +847,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json",
+            "target_git_path": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -814,7 +870,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json",
+            "target_git_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -833,7 +893,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json"
+            "target_git_path_guess": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json",
+            "target_git_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -852,7 +916,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:전기통신사업용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json"
+            "target_git_path_guess": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json",
+            "target_git_path": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -871,7 +939,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:전파응용설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json"
+            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_git_path": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -890,7 +962,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:항공업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json",
+            "target_git_path": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -909,7 +985,11 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:해상업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json",
+            "target_git_path": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -935,7 +1015,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:간이무선국우주국지구국의무선설비및전파탐지용무선설비등그밖의업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json",
+            "target_git_path": "간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준/간이무선국·우주국·지구국의 무선설비 및 전파탐지용 무선설비 등 그 밖의 업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -961,7 +1043,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:방송표준방식및방송업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json",
+            "target_git_path": "방송표준방식 및 방송업무용 무선설비의 기술기준/방송표준방식 및 방송업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -987,7 +1071,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:신고하지아니하고개설할수있는무선국용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json"
+            "target_git_path_guess": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json",
+            "target_git_path": "신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준/신고하지 아니하고 개설할 수 있는 무선국용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1013,7 +1099,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:전기통신사업용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json"
+            "target_git_path_guess": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json",
+            "target_git_path": "전기통신사업용 무선설비의 기술기준/전기통신사업용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1039,7 +1127,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:전파응용설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json"
+            "target_git_path_guess": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_git_path": "전파응용설비의 기술기준/전파응용설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1065,7 +1155,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:항공업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json",
+            "target_git_path": "항공업무용 무선설비의 기술기준/항공업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1091,7 +1183,9 @@
             "source_provision_id": "law:무선설비규칙#JO0019",
             "reference_id": "admrul:해상업무용무선설비의기술기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json"
+            "target_git_path_guess": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json",
+            "target_git_path": "해상업무용 무선설비의 기술기준/해상업무용 무선설비의 기술기준.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -1492,5 +1586,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "무선설비규칙/법률/무선설비규칙.json"
+  "git_path": "무선설비규칙/법률/무선설비규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

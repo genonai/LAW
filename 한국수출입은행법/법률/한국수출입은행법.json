@@ -91,7 +91,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0002",
             "reference_id": "law:한국은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국은행법/법률/한국은행법.json"
+            "target_git_path_guess": "한국은행법/법률/한국은행법.json",
+            "target_git_path": "한국은행법/법률/한국은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -110,7 +112,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0002",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +133,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0002",
             "reference_id": "law:금융회사의지배구조에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융회사의 지배구조에 관한 법률/법률/금융회사의 지배구조에 관한 법률.json"
+            "target_git_path_guess": "금융회사의 지배구조에 관한 법률/법률/금융회사의 지배구조에 관한 법률.json",
+            "target_git_path": "금융회사의 지배구조에 관한 법률/법률/금융회사의 지배구조에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -148,7 +154,11 @@
             "source_provision_id": "law:한국수출입은행법#JO0002",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -169,7 +179,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0002",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -204,7 +216,11 @@
             "source_provision_id": "law:한국수출입은행법#JO0003",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -225,7 +241,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0003",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -260,7 +278,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:한국수출입은행법시행령#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +299,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:한국산업은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국산업은행법/법률/한국산업은행법.json"
+            "target_git_path_guess": "한국산업은행법/법률/한국산업은행법.json",
+            "target_git_path": "한국산업은행법/법률/한국산업은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -298,7 +320,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +341,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:은행법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -336,7 +362,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:은행법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +383,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0004",
             "reference_id": "law:은행법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "은행법/법률/은행법.json"
+            "target_git_path_guess": "은행법/법률/은행법.json",
+            "target_git_path": "은행법/법률/은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -390,7 +420,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0005",
             "reference_id": "law:한국수출입은행법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -425,7 +457,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0006",
             "reference_id": "law:한국수출입은행법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -490,7 +524,11 @@
             "source_provision_id": "law:한국수출입은행법#JO0009",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -511,7 +549,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0009",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -561,7 +601,11 @@
             "source_provision_id": "law:한국수출입은행법#JO0010",
             "reference_id": "SchlPubRul:한국수출입은행운영위원회규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json"
+            "target_git_path_guess": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json",
+            "target_git_path": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -582,7 +626,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0010",
             "reference_id": "SchlPubRul:한국수출입은행운영위원회규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json"
+            "target_git_path_guess": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json",
+            "target_git_path": "한국수출입은행 운영위원회 규정/한국수출입은행 운영위원회 규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -601,7 +647,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0010",
             "reference_id": "law:한국수출입은행법시행령#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -620,7 +668,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0010",
             "reference_id": "law:한국수출입은행법시행령#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -639,7 +689,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0010",
             "reference_id": "law:한국수출입은행법시행령#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -808,7 +860,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0015",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -827,7 +881,11 @@
             "source_provision_id": "law:한국수출입은행법#JO0015",
             "reference_id": "SchlPubRul:한국수출입은행정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json"
+            "target_git_path_guess": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_git_path": "한국수출입은행 정관/한국수출입은행 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -877,7 +935,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0017",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -912,7 +972,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:한국수출입은행법#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -931,7 +993,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -950,7 +1014,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:중소기업기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -969,7 +1035,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -988,7 +1056,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1007,7 +1077,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:중견기업성장촉진및경쟁력강화에관한특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json"
+            "target_git_path_guess": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_git_path": "중견기업 성장촉진 및 경쟁력 강화에 관한 특별법/법률/중견기업 성장촉진 및 경쟁력 강화에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1026,7 +1098,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1045,7 +1119,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1064,7 +1140,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1083,7 +1161,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1102,7 +1182,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1121,7 +1203,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1140,7 +1224,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1159,7 +1245,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:경제안보를위한공급망안정화지원기본법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json"
+            "target_git_path_guess": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_git_path": "경제안보를 위한 공급망 안정화 지원 기본법/법률/경제안보를 위한 공급망 안정화 지원 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1178,7 +1266,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:무역보험법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "무역보험법/법률/무역보험법.json"
+            "target_git_path_guess": "무역보험법/법률/무역보험법.json",
+            "target_git_path": "무역보험법/법률/무역보험법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1197,7 +1287,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:한국수출입은행법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1216,7 +1308,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:한국수출입은행법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1235,7 +1329,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0018",
             "reference_id": "law:한국수출입은행법시행령#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.1.21]",
@@ -1284,7 +1380,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0019_02",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1303,7 +1401,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0019_02",
             "reference_id": "law:국가재정법#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.1.21]",
@@ -1338,7 +1438,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1357,7 +1459,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:국가재정법#JO0092",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1376,7 +1480,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1395,7 +1501,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1414,7 +1522,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1433,7 +1543,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1452,7 +1564,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1471,7 +1585,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1490,7 +1606,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020",
             "reference_id": "law:한국수출입은행법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -1525,7 +1643,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1544,7 +1664,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1563,7 +1685,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1582,7 +1706,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1601,7 +1727,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1620,7 +1748,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1639,7 +1769,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1658,7 +1790,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1677,7 +1811,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:벤처투자촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json"
+            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_git_path": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1696,7 +1832,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:벤처투자촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json"
+            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_git_path": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1715,7 +1853,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:벤처투자촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json"
+            "target_git_path_guess": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_git_path": "벤처투자 촉진에 관한 법률/법률/벤처투자 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1734,7 +1874,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:여신전문금융업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1753,7 +1895,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1772,7 +1916,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:여신전문금융업법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json"
+            "target_git_path_guess": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_git_path": "여신전문금융업법/법률/여신전문금융업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1791,7 +1937,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법시행령#JO0016_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1810,7 +1958,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법시행령#JO0016_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1829,7 +1979,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0020_02",
             "reference_id": "law:한국수출입은행법시행령#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17][제목개정 2009.1.30]",
@@ -1871,7 +2023,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0021",
             "reference_id": "law:한국수출입은행법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1890,7 +2044,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0021",
             "reference_id": "law:한국수출입은행법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -1946,7 +2102,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0023",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1965,7 +2123,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0023",
             "reference_id": "law:한국수출입은행법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2000,7 +2160,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0024",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.1.21]",
@@ -2035,7 +2197,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0025",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2054,7 +2218,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0025",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2073,7 +2239,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0025",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2092,7 +2260,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0025",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2111,7 +2281,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0025",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.1.21]",
@@ -2146,7 +2318,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0026",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2165,7 +2339,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0026",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2184,7 +2360,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0026",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17][제목개정 2014.1.21]",
@@ -2251,7 +2429,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0029",
             "reference_id": "SchlPubRul:한국수출입은행업무방법서#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국수출입은행 업무방법서/한국수출입은행 업무방법서.json"
+            "target_git_path_guess": "한국수출입은행 업무방법서/한국수출입은행 업무방법서.json",
+            "target_git_path": "한국수출입은행 업무방법서/한국수출입은행 업무방법서.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "internal_ref",
@@ -2270,7 +2450,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0029",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2289,7 +2471,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0029",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2308,7 +2492,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0029",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2417,7 +2603,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0035",
             "reference_id": "law:한국수출입은행법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2452,7 +2640,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0036",
             "reference_id": "law:한국수출입은행법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2502,7 +2692,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0038",
             "reference_id": "law:한국수출입은행법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2537,7 +2729,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0039",
             "reference_id": "law:한국수출입은행법시행령#JO0017_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json"
+            "target_git_path_guess": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_git_path": "한국수출입은행법/시행령/한국수출입은행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2587,7 +2781,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0041",
             "reference_id": "law:한국수출입은행법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.17]",
@@ -2637,7 +2833,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0042",
             "reference_id": "law:한국수출입은행법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2656,7 +2854,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0042",
             "reference_id": "law:한국수출입은행법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2675,7 +2875,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0042",
             "reference_id": "law:한국수출입은행법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2694,7 +2896,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0042",
             "reference_id": "law:한국수출입은행법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2713,7 +2917,9 @@
             "source_provision_id": "law:한국수출입은행법#JO0042",
             "reference_id": "law:한국수출입은행법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json"
+            "target_git_path_guess": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.1.21]",
@@ -3163,5 +3369,6 @@
   ],
   "has_future": true,
   "version_count": 2,
-  "git_path": "한국수출입은행법/법률/한국수출입은행법.json"
+  "git_path": "한국수출입은행법/법률/한국수출입은행법.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -79,7 +79,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0001",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -114,7 +116,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0002",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -131,9 +135,11 @@
             "target_url": "https://www.law.go.kr/법령/國家保安法/제16조",
             "resolve_method": "pop",
             "source_provision_id": "law:공소보류자관찰규칙#JO0002",
-            "reference_id": "law:國家保安法#JO0016",
+            "reference_id": "law:국가보안법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "國家保安法/법률/國家保安法.json"
+            "target_git_path_guess": "國家保安法/법률/國家保安法.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -157,7 +163,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:공소보류자관찰규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_file_path": "공소보류자관찰규칙/법률/서식/서식1_서약서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -197,7 +206,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:공소보류자관찰규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_file_path": "공소보류자관찰규칙/법률/서식/서식2_공소보류 결정 통지.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -237,7 +249,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:공소보류자관찰규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_file_path": "공소보류자관찰규칙/법률/서식/서식3_공소보류자 관찰부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -287,7 +302,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0006",
             "reference_id": "law:공소보류자관찰규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -306,7 +323,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0006",
             "reference_id": "law:공소보류자관찰규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -330,7 +349,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:공소보류자관찰규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_file_path": "공소보류자관찰규칙/법률/서식/서식4_신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -440,7 +462,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0012",
             "reference_id": "law:국가보안법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가보안법/법률/국가보안법.json"
+            "target_git_path_guess": "국가보안법/법률/국가보안법.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -457,9 +481,11 @@
             "target_url": "https://www.law.go.kr/법령/國家保安法/제16조",
             "resolve_method": "pop",
             "source_provision_id": "law:공소보류자관찰규칙#JO0012",
-            "reference_id": "law:國家保安法#JO0016",
+            "reference_id": "law:국가보안법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "國家保安法/법률/國家保安法.json"
+            "target_git_path_guess": "國家保安法/법률/國家保安法.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -476,9 +502,11 @@
             "target_url": "https://www.law.go.kr/법령/國家保安法/제16조",
             "resolve_method": "pop",
             "source_provision_id": "law:공소보류자관찰규칙#JO0012",
-            "reference_id": "law:國家保安法#JO0016",
+            "reference_id": "law:국가보안법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "國家保安法/법률/國家保安法.json"
+            "target_git_path_guess": "國家保安法/법률/國家保安法.json",
+            "target_git_path": "국가보안법/법률/국가보안법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -497,7 +525,9 @@
             "source_provision_id": "law:공소보류자관찰규칙#JO0012",
             "reference_id": "law:공소보류자관찰규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+            "target_git_path_guess": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -724,5 +754,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
+  "git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

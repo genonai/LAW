@@ -89,7 +89,9 @@
             "source_provision_id": "law:건널목입체교차화비용부담에관한규칙#JO0001",
             "reference_id": "law:건널목개량촉진법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건널목개량촉진법/시행령/건널목개량촉진법 시행령.json"
+            "target_git_path_guess": "건널목개량촉진법/시행령/건널목개량촉진법 시행령.json",
+            "target_git_path": "건널목 개량촉진법/시행령/건널목 개량촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -108,7 +110,9 @@
             "source_provision_id": "law:건널목입체교차화비용부담에관한규칙#JO0001",
             "reference_id": "law:건널목개량촉진법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "건널목 개량촉진법/시행령/건널목 개량촉진법 시행령.json"
+            "target_git_path_guess": "건널목 개량촉진법/시행령/건널목 개량촉진법 시행령.json",
+            "target_git_path": "건널목 개량촉진법/시행령/건널목 개량촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -143,7 +147,9 @@
             "source_provision_id": "law:건널목입체교차화비용부담에관한규칙#JO0002",
             "reference_id": "law:도로법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도로법/법률/도로법.json"
+            "target_git_path_guess": "도로법/법률/도로법.json",
+            "target_git_path": "도로법/법률/도로법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -162,7 +168,9 @@
             "source_provision_id": "law:건널목입체교차화비용부담에관한규칙#JO0002",
             "reference_id": "law:농어촌도로정비법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농어촌 도로정비법/법률/농어촌 도로정비법.json"
+            "target_git_path_guess": "농어촌 도로정비법/법률/농어촌 도로정비법.json",
+            "target_git_path": "농어촌도로 정비법/법률/농어촌도로 정비법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -259,5 +267,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "건널목 입체교차화 비용부담에 관한 규칙/법률/건널목 입체교차화 비용부담에 관한 규칙.json"
+  "git_path": "건널목 입체교차화 비용부담에 관한 규칙/법률/건널목 입체교차화 비용부담에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

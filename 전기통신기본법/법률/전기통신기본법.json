@@ -169,7 +169,9 @@
             "source_provision_id": "law:전기통신기본법#JO0007",
             "reference_id": "law:전기통신사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json"
+            "target_git_path_guess": "전기통신사업법/법률/전기통신사업법.json",
+            "target_git_path": "전기통신사업법/법률/전기통신사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1995ㆍ1ㆍ5]",
@@ -1633,5 +1635,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "전기통신기본법/법률/전기통신기본법.json"
+  "git_path": "전기통신기본법/법률/전기통신기본법.json",
+  "_schlpub_id_suffix": "법률"
 }

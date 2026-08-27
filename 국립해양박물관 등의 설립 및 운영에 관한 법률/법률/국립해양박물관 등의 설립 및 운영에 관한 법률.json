@@ -108,7 +108,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0003",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -156,7 +158,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0005",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -190,7 +194,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0006",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -209,7 +215,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0006",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -228,7 +236,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0006",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -263,7 +273,11 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0007",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -282,7 +296,11 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0007",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -308,7 +326,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0007",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -334,7 +354,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0007",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -382,7 +404,11 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0009",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -408,7 +434,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0009",
             "reference_id": "SchlPubRul:국립해양박물관정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json"
+            "target_git_path_guess": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_git_path": "국립해양박물관 정관/국립해양박물관 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -442,7 +470,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -461,7 +491,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -480,7 +512,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -499,7 +533,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -518,7 +554,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -537,7 +575,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -556,7 +596,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -575,7 +617,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -594,7 +638,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -613,7 +659,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -632,7 +680,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -651,7 +701,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -670,7 +722,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0010",
             "reference_id": "law:공공기관의운영에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -718,7 +772,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0012",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -737,7 +793,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0012",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -771,7 +829,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0013",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -790,7 +850,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0013",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -809,7 +871,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0013",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -828,7 +892,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0013",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -876,7 +942,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0015",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -910,7 +978,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0016",
             "reference_id": "law:물품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "물품관리법/법률/물품관리법.json"
+            "target_git_path_guess": "물품관리법/법률/물품관리법.json",
+            "target_git_path": "물품관리법/법률/물품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -972,7 +1042,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0019",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1006,7 +1078,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0020",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1025,7 +1099,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0020",
             "reference_id": "law:건축법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1088,7 +1164,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0023",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1122,7 +1200,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0024",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1141,7 +1221,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0024",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1160,7 +1242,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0024",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1179,7 +1263,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0024",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1198,7 +1284,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0024",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1232,7 +1320,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0025",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1266,7 +1356,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0026",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1285,7 +1377,9 @@
             "source_provision_id": "law:국립해양박물관등의설립및운영에관한법률#JO0026",
             "reference_id": "law:국립해양박물관등의설립및운영에관한법률시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/시행령/국립해양박물관 등의 설립 및 운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1370,5 +1464,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json"
+  "git_path": "국립해양박물관 등의 설립 및 운영에 관한 법률/법률/국립해양박물관 등의 설립 및 운영에 관한 법률.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -78,7 +78,9 @@
             "source_provision_id": "law:철도건설규칙#JO0001",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:철도건설규칙#JO0001",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -145,7 +149,9 @@
             "source_provision_id": "law:철도건설규칙#JO0003",
             "reference_id": "law:도시철도건설규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시철도건설규칙/법률/도시철도건설규칙.json"
+            "target_git_path_guess": "도시철도건설규칙/법률/도시철도건설규칙.json",
+            "target_git_path": "도시철도건설규칙/법률/도시철도건설규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -169,7 +175,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:철도건설규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json"
+            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_path": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_file_path": "철도건설규칙/법률/별표/별표1_「도시철도건설규칙」을 준용할 수 있는 전기동차전용선의 전기동차(제3조제1호 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2025.4.11]",
@@ -212,7 +221,9 @@
             "source_provision_id": "law:철도건설규칙#JO0004",
             "reference_id": "admrul:철도의건설기준에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json"
+            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_git_path": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -231,7 +242,11 @@
             "source_provision_id": "law:철도건설규칙#JO0004",
             "reference_id": "admrul:철도의건설기준에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json"
+            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_git_path": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "일부개정",
@@ -321,7 +336,11 @@
             "source_provision_id": "law:철도건설규칙#JO0009",
             "reference_id": "admrul:철도의건설기준에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json"
+            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_git_path": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -347,7 +366,9 @@
             "source_provision_id": "law:철도건설규칙#JO0009",
             "reference_id": "admrul:철도의건설기준에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json"
+            "target_git_path_guess": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_git_path": "철도의 건설기준에 관한 규정/철도의 건설기준에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -442,7 +463,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:철도건설규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json"
+            "target_git_path_guess": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_path": "철도건설규칙/법률/철도건설규칙.json",
+            "target_git_file_path": "철도건설규칙/법률/별표/별표2_직선구간의 건축한계(제14조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1317,5 +1341,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "철도건설규칙/법률/철도건설규칙.json"
+  "git_path": "철도건설규칙/법률/철도건설규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

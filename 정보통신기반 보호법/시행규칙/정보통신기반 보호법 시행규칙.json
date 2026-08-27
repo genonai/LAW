@@ -78,7 +78,9 @@
             "source_provision_id": "law:정보통신기반보호법시행규칙#JO0001",
             "reference_id": "law:정보통신기반보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json"
+            "target_git_path_guess": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_git_path": "정보통신기반 보호법/법률/정보통신기반 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:정보통신기반보호법시행규칙#JO0001",
             "reference_id": "law:정보통신기반보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -131,7 +135,9 @@
             "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
             "reference_id": "law:정보통신기반보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
             "reference_id": "law:정보통신기반보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -169,7 +177,9 @@
             "source_provision_id": "law:정보통신기반보호법시행규칙#JO0002",
             "reference_id": "law:정보통신기반보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json"
+            "target_git_path_guess": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_git_path": "정보통신기반 보호법/시행령/정보통신기반 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.4.6]",
@@ -788,5 +798,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "정보통신기반 보호법/시행규칙/정보통신기반 보호법 시행규칙.json"
+  "git_path": "정보통신기반 보호법/시행규칙/정보통신기반 보호법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

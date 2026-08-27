@@ -132,7 +132,9 @@
             "source_provision_id": "law:재외공관무관주재령#JO0005",
             "reference_id": "law:재외공관무관주재령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json"
+            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -166,7 +168,9 @@
             "source_provision_id": "law:재외공관무관주재령#JO0006",
             "reference_id": "law:재외공관무관주재령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json"
+            "target_git_path_guess": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -221,7 +225,9 @@
             "source_provision_id": "law:재외공관무관주재령#JO0008",
             "reference_id": "admrul:재외공관주재무관요원선발및관리훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json"
+            "target_git_path_guess": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json",
+            "target_git_path": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -240,7 +246,11 @@
             "source_provision_id": "law:재외공관무관주재령#JO0008",
             "reference_id": "admrul:재외공관주재무관요원선발및관리훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json"
+            "target_git_path_guess": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json",
+            "target_git_path": "재외공관 주재무관요원 선발 및 관리 훈령/재외공관 주재무관요원 선발 및 관리 훈령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "타법개정",
@@ -274,7 +284,9 @@
             "source_provision_id": "law:재외공관무관주재령#JO0009",
             "reference_id": "law:공무원수당등에관한규정#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -308,7 +320,9 @@
             "source_provision_id": "law:재외공관무관주재령#JO0010",
             "reference_id": "law:국방조직및정원에관한통칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json"
+            "target_git_path_guess": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_git_path": "국방조직 및 정원에 관한 통칙/법률/국방조직 및 정원에 관한 통칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -493,5 +507,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json"
+  "git_path": "재외공관 무관주재령/법률/재외공관 무관주재령.json",
+  "_schlpub_id_suffix": "법률"
 }

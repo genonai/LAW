@@ -136,7 +136,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0005",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -155,7 +157,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0005",
             "reference_id": "law:국가재정법#JO0097_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -174,7 +178,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0005",
             "reference_id": "law:국가재정법#JO0097_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -193,7 +199,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0005",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -228,7 +236,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -247,7 +257,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "law:공공기관의운영에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -266,7 +278,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -285,7 +299,11 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -311,7 +329,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -337,7 +357,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -363,7 +385,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0006",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -398,7 +422,11 @@
             "source_provision_id": "law:한국재정정보원법#JO0007",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -417,7 +445,11 @@
             "source_provision_id": "law:한국재정정보원법#JO0007",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -443,7 +475,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0007",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -469,7 +503,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0007",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -503,7 +539,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -522,7 +560,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -541,7 +581,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -575,7 +617,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -594,7 +638,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -613,7 +659,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -632,7 +680,11 @@
             "source_provision_id": "law:한국재정정보원법#JO0009",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -658,7 +710,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0009",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -699,7 +753,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0010",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -718,7 +774,11 @@
             "source_provision_id": "law:한국재정정보원법#JO0010",
             "reference_id": "SchlPubRul:한국재정정보원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json"
+            "target_git_path_guess": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_git_path": "한국재정정보원 정관/한국재정정보원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "revision_type": "타법개정",
@@ -752,7 +812,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0011",
             "reference_id": "law:한국재정정보원법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/시행령/한국재정정보원법 시행령.json"
+            "target_git_path_guess": "한국재정정보원법/시행령/한국재정정보원법 시행령.json",
+            "target_git_path": "한국재정정보원법/시행령/한국재정정보원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -787,7 +849,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0012",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -806,7 +870,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0012",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -825,7 +891,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0012",
             "reference_id": "law:공공기관의운영에관한법률#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -874,7 +942,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0014",
             "reference_id": "law:한국재정정보원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json"
+            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_git_path": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -893,7 +963,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0014",
             "reference_id": "law:한국재정정보원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json"
+            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_git_path": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -912,7 +984,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0014",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -989,7 +1063,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0018",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1008,7 +1084,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0018",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1027,7 +1105,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0018",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1046,7 +1126,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0018",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1065,7 +1147,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0018",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1099,7 +1183,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0019",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1118,7 +1204,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0019",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1152,7 +1240,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0020",
             "reference_id": "law:한국재정정보원법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json"
+            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_git_path": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1186,7 +1276,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0021",
             "reference_id": "law:한국재정정보원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json"
+            "target_git_path_guess": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_git_path": "한국재정정보원법/법률/한국재정정보원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1205,7 +1297,9 @@
             "source_provision_id": "law:한국재정정보원법#JO0021",
             "reference_id": "law:한국재정정보원법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국재정정보원법/시행령/한국재정정보원법 시행령.json"
+            "target_git_path_guess": "한국재정정보원법/시행령/한국재정정보원법 시행령.json",
+            "target_git_path": "한국재정정보원법/시행령/한국재정정보원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1290,5 +1384,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "한국재정정보원법/법률/한국재정정보원법.json"
+  "git_path": "한국재정정보원법/법률/한국재정정보원법.json",
+  "_schlpub_id_suffix": "법률"
 }

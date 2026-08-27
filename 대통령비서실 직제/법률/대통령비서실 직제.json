@@ -180,7 +180,9 @@
             "source_provision_id": "law:대통령비서실직제#JO0007",
             "reference_id": "law:공무원행동강령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json"
+            "target_git_path_guess": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_git_path": "공무원 행동강령/법률/공무원 행동강령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2018.12.24]",
@@ -501,5 +503,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대통령비서실 직제/법률/대통령비서실 직제.json"
+  "git_path": "대통령비서실 직제/법률/대통령비서실 직제.json",
+  "_schlpub_id_suffix": "법률"
 }

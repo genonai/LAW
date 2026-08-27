@@ -80,7 +80,9 @@
             "source_provision_id": "law:각급법원판사정원법#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:각급법원판사정원법#JO0001",
             "reference_id": "law:법원조직법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "law:각급법원판사정원법#JO0001",
             "reference_id": "law:법원조직법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.4.12][시행일: 2025.1.1] 증원되는 판사의 정원 370명 중 90명의 증원[시행일: 2026.1.1] 증원되는 판사의 정원 370명 중 80명의 증원[시행일: 2027.1.1] 증원되는 판사의 정원 370명 중 70명의 증원[시행일: 2028.1.1] 증원되는 판사의 정원 370명 중 70명의 증원[시행일: 2029.1.1] 증원되는 판사의 정원 370명 중 60명의 증원",
@@ -407,5 +413,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "각급 법원 판사 정원법/법률/각급 법원 판사 정원법.json"
+  "git_path": "각급 법원 판사 정원법/법률/각급 법원 판사 정원법.json",
+  "_schlpub_id_suffix": "법률"
 }

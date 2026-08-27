@@ -80,7 +80,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0001",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -121,7 +123,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "admrul:한국표준산업분류#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국표준산업분류/한국표준산업분류.json"
+            "target_git_path_guess": "한국표준산업분류/한국표준산업분류.json",
+            "target_git_path": "한국표준산업분류/한국표준산업분류.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "citation",
@@ -140,7 +144,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -159,7 +165,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "law:중소기업인력지원특별법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -178,7 +186,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -197,7 +207,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "law:통계법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -216,7 +228,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0002",
             "reference_id": "admrul:한국표준산업분류#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국표준산업분류/한국표준산업분류.json"
+            "target_git_path_guess": "한국표준산업분류/한국표준산업분류.json",
+            "target_git_path": "한국표준산업분류/한국표준산업분류.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "note": "[전문개정 2013.5.22]",
@@ -252,7 +268,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0003",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -271,7 +289,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0003",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -290,7 +310,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0003",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.1.31]",
@@ -325,7 +347,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -344,7 +368,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -363,7 +389,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -382,7 +410,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:고등교육법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -401,7 +431,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -420,7 +452,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -439,7 +473,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -458,7 +494,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -477,7 +515,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -496,7 +536,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -515,7 +557,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -534,7 +578,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -553,7 +599,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -572,7 +620,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -591,7 +641,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -610,7 +662,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0004",
             "reference_id": "law:중소기업인력지원특별법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json"
+            "target_git_path_guess": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json",
+            "target_git_path": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -644,7 +698,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0005",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -663,7 +719,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0005",
             "reference_id": "law:중소기업인력지원특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -682,7 +740,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0005",
             "reference_id": "law:중소기업인력지원특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2025.7.1]",
@@ -717,7 +777,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -736,7 +798,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -755,7 +819,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -774,7 +840,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +861,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -812,7 +882,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -831,7 +903,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:산업발전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업발전법/법률/산업발전법.json"
+            "target_git_path_guess": "산업발전법/법률/산업발전법.json",
+            "target_git_path": "산업발전법/법률/산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -850,7 +924,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:산업발전법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업발전법/법률/산업발전법.json"
+            "target_git_path_guess": "산업발전법/법률/산업발전법.json",
+            "target_git_path": "산업발전법/법률/산업발전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -869,7 +945,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +966,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -907,7 +987,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1008,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -945,7 +1029,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0006",
             "reference_id": "law:중소기업인력지원특별법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json"
+            "target_git_path_guess": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json",
+            "target_git_path": "중소기업인력지원 특별법/시행규칙/중소기업인력지원 특별법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -979,7 +1065,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0007",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -998,7 +1086,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0007",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1017,7 +1107,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0007",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1036,7 +1128,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0007",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1070,7 +1164,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0008",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1089,7 +1185,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0008",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1108,7 +1206,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0008",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1127,7 +1227,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0008",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1161,7 +1263,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1180,7 +1284,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1199,7 +1305,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1218,7 +1326,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1237,7 +1347,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1256,7 +1368,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1290,7 +1404,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1309,7 +1425,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1328,7 +1446,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1347,7 +1467,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:제대군인지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json"
+            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_git_path": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1366,7 +1488,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:제대군인지원에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json"
+            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_git_path": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1385,7 +1509,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:제대군인지원에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json"
+            "target_git_path_guess": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_git_path": "제대군인지원에 관한 법률/법률/제대군인지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1404,7 +1530,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1423,7 +1551,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1442,7 +1572,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:고용상연령차별금지및고령자고용촉진에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json"
+            "target_git_path_guess": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_git_path": "고용상 연령차별금지 및 고령자고용촉진에 관한 법률/법률/고용상 연령차별금지 및 고령자고용촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1461,7 +1593,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1480,7 +1614,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1499,7 +1635,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1518,7 +1656,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1537,7 +1677,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1556,7 +1698,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1575,7 +1719,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_02",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.1.31]",
@@ -1610,7 +1756,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1629,7 +1777,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "law:중소기업인력지원특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1648,7 +1798,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "law:중소기업인력지원특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1667,7 +1819,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1686,7 +1842,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1705,7 +1865,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1731,7 +1895,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1757,7 +1923,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1783,7 +1951,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0009_03",
             "reference_id": "admrul:중소기업특성화고인력양성사업운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json"
+            "target_git_path_guess": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_git_path": "중소기업 특성화고 인력양성사업 운영요령/중소기업 특성화고 인력양성사업 운영요령.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2008.1.31]",
@@ -1818,7 +1988,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0010",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1837,7 +2009,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0010",
             "reference_id": "law:중소기업인력지원특별법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1856,7 +2030,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0010",
             "reference_id": "law:중소기업인력지원특별법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1890,7 +2066,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0011",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1909,7 +2087,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0011",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +2108,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0011",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1962,7 +2144,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1981,7 +2165,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2000,7 +2186,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2019,7 +2207,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2038,7 +2228,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2057,7 +2249,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0012",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2091,7 +2285,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2110,7 +2306,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2129,7 +2327,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2148,7 +2348,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2167,7 +2369,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2186,7 +2390,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0013",
             "reference_id": "law:중소기업인력지원특별법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2220,7 +2426,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2239,7 +2447,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2258,7 +2468,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2277,7 +2489,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json"
+            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_git_path": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2296,7 +2510,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json"
+            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_git_path": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2315,7 +2531,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0014",
             "reference_id": "law:출입국관리법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json"
+            "target_git_path_guess": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_git_path": "출입국관리법/시행령/출입국관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2363,7 +2581,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0016",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2382,7 +2602,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0016",
             "reference_id": "law:중소기업인력지원특별법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2401,7 +2623,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0016",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2420,7 +2644,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0016",
             "reference_id": "law:중소기업인력지원특별법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2454,7 +2680,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2473,7 +2701,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017",
             "reference_id": "law:중소기업인력지원특별법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2492,7 +2722,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017",
             "reference_id": "law:중소기업인력지원특별법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2511,7 +2743,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017",
             "reference_id": "law:중소기업인력지원특별법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2545,7 +2779,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2564,7 +2800,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "law:중소기업인력지원특별법#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2583,7 +2821,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "law:중소기업인력지원특별법#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2602,7 +2842,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2621,7 +2865,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2640,7 +2888,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2659,7 +2911,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2685,7 +2941,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2711,7 +2969,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2737,7 +2997,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2763,7 +3025,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "reference_id": "admrul:인재육성형중소기업지정제도운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json"
+            "target_git_path_guess": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_git_path": "인재육성형 중소기업 지정제도 운영요령/인재육성형 중소기업 지정제도 운영요령.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2014.7.21]",
@@ -2798,7 +3062,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2817,7 +3083,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_03",
             "reference_id": "law:중소기업인력지원특별법#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2836,7 +3104,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0017_03",
             "reference_id": "law:중소기업인력지원특별법#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.9.30][제목개정 2014.7.21]",
@@ -2871,7 +3141,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2890,7 +3162,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2909,7 +3183,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2928,7 +3204,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2947,7 +3225,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2966,7 +3246,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0018",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3000,7 +3282,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0019",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3019,7 +3303,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0019",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3038,7 +3324,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0019",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3086,7 +3374,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0021",
             "reference_id": "law:중소기업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3105,7 +3395,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0021",
             "reference_id": "law:중소기업진흥에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3124,7 +3416,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0021",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3143,7 +3437,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0021",
             "reference_id": "law:중소기업인력지원특별법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3205,7 +3501,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3224,7 +3522,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_02",
             "reference_id": "law:중소기업인력지원특별법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3243,7 +3543,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3262,7 +3564,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_02",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.1.31]",
@@ -3297,7 +3601,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3316,7 +3622,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3335,7 +3643,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3354,7 +3664,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3373,7 +3685,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업기본법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3392,7 +3706,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업기본법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3411,7 +3727,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3430,7 +3748,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3449,7 +3769,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "reference_id": "law:중소기업인력지원특별법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.3.12]",
@@ -3484,7 +3806,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3503,7 +3827,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3522,7 +3848,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3541,7 +3869,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:교육공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
+            "target_git_path": "교육공무원법/법률/교육공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3560,7 +3890,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:교육공무원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
+            "target_git_path": "교육공무원법/법률/교육공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3579,7 +3911,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:교육공무원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json"
+            "target_git_path_guess": "교육공무원법/법률/교육공무원법.json",
+            "target_git_path": "교육공무원법/법률/교육공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3598,7 +3932,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:사립학교법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/법률/사립학교법.json"
+            "target_git_path_guess": "사립학교법/법률/사립학교법.json",
+            "target_git_path": "사립학교법/법률/사립학교법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3617,7 +3953,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:사립학교법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/법률/사립학교법.json"
+            "target_git_path_guess": "사립학교법/법률/사립학교법.json",
+            "target_git_path": "사립학교법/법률/사립학교법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3636,7 +3974,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:사립학교법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "사립학교법/법률/사립학교법.json"
+            "target_git_path_guess": "사립학교법/법률/사립학교법.json",
+            "target_git_path": "사립학교법/법률/사립학교법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3655,7 +3995,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3674,7 +4016,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3693,7 +4037,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0024",
             "reference_id": "law:중소기업인력지원특별법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3727,7 +4073,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0025",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3746,7 +4094,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0025",
             "reference_id": "law:중소기업인력지원특별법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3780,7 +4130,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3799,7 +4151,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3818,7 +4172,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3837,7 +4193,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3856,7 +4214,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업진흥에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3875,7 +4235,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업진흥에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3894,7 +4256,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3913,7 +4277,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3932,7 +4298,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026",
             "reference_id": "law:중소기업인력지원특별법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3966,7 +4334,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3985,7 +4355,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4004,7 +4376,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4023,7 +4397,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4042,7 +4418,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0035_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4061,7 +4439,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0035_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4080,7 +4460,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:근로복지기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json"
+            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json",
+            "target_git_path": "근로복지기본법/법률/근로복지기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4099,7 +4481,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:근로복지기본법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json"
+            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json",
+            "target_git_path": "근로복지기본법/법률/근로복지기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4118,7 +4502,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:근로복지기본법#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json"
+            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json",
+            "target_git_path": "근로복지기본법/법률/근로복지기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4137,7 +4523,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:근로복지기본법#JO0086_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json"
+            "target_git_path_guess": "근로복지기본법/법률/근로복지기본법.json",
+            "target_git_path": "근로복지기본법/법률/근로복지기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4156,7 +4544,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4175,7 +4565,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:상법#JO0340_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4194,7 +4586,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:상법#JO0542_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4213,7 +4607,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:벤처기업육성에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json"
+            "target_git_path_guess": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json",
+            "target_git_path": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4232,7 +4628,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:벤처기업육성에관한특별법#JO0016_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json"
+            "target_git_path_guess": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json",
+            "target_git_path": "벤처기업육성에 관한 특별법/법률/벤처기업육성에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4251,7 +4649,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4270,7 +4670,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4289,7 +4691,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4308,7 +4712,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4327,7 +4735,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4346,7 +4758,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4365,7 +4781,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4391,7 +4811,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4417,7 +4839,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4443,7 +4867,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4469,7 +4895,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2018.9.11]",
@@ -4504,7 +4932,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4523,7 +4953,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4542,7 +4974,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4561,7 +4995,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4580,7 +5016,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4606,7 +5044,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0026_03",
             "reference_id": "admrul:중소기업-근로자간성과공유확인및지원에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json"
+            "target_git_path_guess": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_git_path": "중소기업-근로자간 성과공유 확인 및 지원에 관한 고시/중소기업-근로자간 성과공유 확인 및 지원에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2018.9.11]",
@@ -4641,7 +5081,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4660,7 +5102,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027",
             "reference_id": "law:중소기업인력지원특별법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4679,7 +5123,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027",
             "reference_id": "law:중소기업창업지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json"
+            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_git_path": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4698,7 +5144,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027",
             "reference_id": "law:중소기업창업지원법#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json"
+            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_git_path": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4717,7 +5165,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027",
             "reference_id": "law:중소기업창업지원법#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json"
+            "target_git_path_guess": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_git_path": "중소기업창업 지원법/법률/중소기업창업 지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4751,7 +5201,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4770,7 +5222,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_02",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4789,7 +5243,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_02",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.4.11]",
@@ -4824,7 +5280,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4843,7 +5301,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_03",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4862,7 +5322,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_03",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.1.31][제27조의2에서 이동, 종전 제27조의3은 제27조의4로 이동 <2021.6.8>]",
@@ -4897,7 +5359,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_04",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4916,7 +5380,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_04",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4935,7 +5401,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_04",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4954,7 +5422,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_04",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0027_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4973,7 +5443,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0027_04",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0027_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.1.31][제27조의3에서 이동 <2021.6.8>]",
@@ -5008,7 +5480,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5027,7 +5501,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5046,7 +5522,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5065,7 +5543,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:주택법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5084,7 +5564,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:주택법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5103,7 +5585,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:주택법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택법/법률/주택법.json"
+            "target_git_path_guess": "주택법/법률/주택법.json",
+            "target_git_path": "주택법/법률/주택법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5122,7 +5606,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:한국토지주택공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국토지주택공사법/법률/한국토지주택공사법.json"
+            "target_git_path_guess": "한국토지주택공사법/법률/한국토지주택공사법.json",
+            "target_git_path": "한국토지주택공사법/법률/한국토지주택공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5141,7 +5627,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:지방공기업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5160,7 +5648,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:지방공기업법#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json"
+            "target_git_path_guess": "지방공기업법/법률/지방공기업법.json",
+            "target_git_path": "지방공기업법/법률/지방공기업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5179,7 +5669,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5198,7 +5690,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5217,7 +5711,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5236,7 +5732,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5255,7 +5753,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5274,7 +5774,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:공공주택특별법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json"
+            "target_git_path_guess": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_git_path": "공공주택 특별법/법률/공공주택 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5293,7 +5795,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5312,7 +5816,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5331,7 +5837,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5350,7 +5858,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "admrul:중소기업장기근속자주택우선공급에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json"
+            "target_git_path_guess": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json",
+            "target_git_path": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5376,7 +5888,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028",
             "reference_id": "admrul:중소기업장기근속자주택우선공급에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json"
+            "target_git_path_guess": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json",
+            "target_git_path": "중소기업 장기근속자 주택 우선공급에 관한 지침/중소기업 장기근속자 주택 우선공급에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -5410,7 +5924,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5429,7 +5945,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5448,7 +5966,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5467,7 +5987,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5486,7 +6008,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5505,7 +6029,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0028_02",
             "reference_id": "law:중소기업인력지원특별법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2021.6.8]",
@@ -5540,7 +6066,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0029",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5559,7 +6087,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0029",
             "reference_id": "law:중소기업인력지원특별법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5593,7 +6123,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5612,7 +6144,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030",
             "reference_id": "law:중소기업인력지원특별법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5631,7 +6165,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5650,7 +6186,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030",
             "reference_id": "law:중소기업인력지원특별법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5684,7 +6222,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5703,7 +6243,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "law:중소기업인력지원특별법#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5722,7 +6264,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "law:중소기업진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5741,7 +6285,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "law:중소기업진흥에관한법률#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json"
+            "target_git_path_guess": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_git_path": "중소기업진흥에 관한 법률/법률/중소기업진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5760,7 +6306,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "SchlPubRul:(중소벤처기업진흥공단)중소기업청년근로자및핵심인력성과보상기금운용요강#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json"
+            "target_git_path_guess": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json",
+            "target_git_path": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5786,7 +6336,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "reference_id": "SchlPubRul:(중소벤처기업진흥공단)중소기업청년근로자및핵심인력성과보상기금운용요강#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json"
+            "target_git_path_guess": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json",
+            "target_git_path": "(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강/(중소벤처기업진흥공단) 중소기업 청년근로자 및 핵심인력 성과보상기금 운용요강.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[본조신설 2014.7.21][종전 제30조의2는 제30조의10으로 이동 <2014.7.21>]",
@@ -5821,7 +6373,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5840,7 +6394,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "reference_id": "law:중소기업인력지원특별법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5859,7 +6415,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "reference_id": "law:중소기업인력지원특별법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21]",
@@ -5909,7 +6467,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_05",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5928,7 +6488,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_05",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5947,7 +6509,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_05",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5966,7 +6530,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_05",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5985,7 +6551,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_05",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.3.12][종전 제30조의5는 제30조의7로 이동 <2024.3.12>]",
@@ -6020,7 +6588,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6039,7 +6609,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6058,7 +6630,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6077,7 +6651,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6096,7 +6672,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6115,7 +6693,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6134,7 +6714,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#JO0035_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6153,7 +6735,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_06",
             "reference_id": "law:중소기업인력지원특별법#JO0035_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21][제30조의4에서 이동, 종전 제30조의6은 제30조의8로 이동 <2024.3.12>]",
@@ -6188,7 +6772,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_07",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6207,7 +6793,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_07",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6226,7 +6814,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_07",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0030_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21][제30조의5에서 이동, 종전 제30조의7은 제30조의9로 이동 <2024.3.12>]",
@@ -6276,7 +6866,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_09",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6295,7 +6887,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_09",
             "reference_id": "law:중소기업인력지원특별법#JO0035_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6314,7 +6908,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_09",
             "reference_id": "law:중소기업인력지원특별법#JO0035_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21][제30조의7에서 이동, 종전 제30조의9는 제30조의11로 이동 <2024.3.12>]",
@@ -6349,7 +6945,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_10",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6368,7 +6966,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_10",
             "reference_id": "law:중소기업인력지원특별법#JO0035_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6387,7 +6987,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_10",
             "reference_id": "law:중소기업인력지원특별법#JO0035_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21][제30조의8에서 이동, 종전 제30조의10은 제30조의12로 이동 <2024.3.12>]",
@@ -6422,7 +7024,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_11",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6441,7 +7045,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_11",
             "reference_id": "law:중소기업인력지원특별법#JO0035_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2021.8.24][제30조의9에서 이동, 종전 제30조의11은 제30조의13으로 이동 <2024.3.12>]",
@@ -6476,7 +7082,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6495,7 +7103,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:개인정보보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6514,7 +7124,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:개인정보보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6533,7 +7145,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6552,7 +7166,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#JO0035_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6571,7 +7187,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6590,7 +7208,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#JO0035_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6609,7 +7229,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6628,7 +7250,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_12",
             "reference_id": "law:중소기업인력지원특별법#JO0035_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.7.21][제30조의10에서 이동 <2024.3.12>]",
@@ -6663,7 +7287,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_13",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6682,7 +7308,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_13",
             "reference_id": "law:중소기업인력지원특별법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6701,7 +7329,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0030_13",
             "reference_id": "law:중소기업인력지원특별법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.1.31][제30조의11에서 이동 <2024.3.12>]",
@@ -6736,7 +7366,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6755,7 +7387,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6774,7 +7408,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6793,7 +7429,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업협동조합법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6812,7 +7450,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업협동조합법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6831,7 +7471,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업협동조합법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json"
+            "target_git_path_guess": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_git_path": "중소기업협동조합법/법률/중소기업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6850,7 +7492,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업기술혁신촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json"
+            "target_git_path_guess": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json",
+            "target_git_path": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6869,7 +7513,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업기술혁신촉진법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json"
+            "target_git_path_guess": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json",
+            "target_git_path": "중소기업 기술혁신 촉진법/법률/중소기업 기술혁신 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6888,7 +7534,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6907,7 +7555,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6926,7 +7576,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:상공회의소법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json"
+            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json",
+            "target_git_path": "상공회의소법/법률/상공회의소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6945,7 +7597,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:상공회의소법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json"
+            "target_git_path_guess": "상공회의소법/법률/상공회의소법.json",
+            "target_git_path": "상공회의소법/법률/상공회의소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6964,7 +7618,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6983,7 +7639,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업기본법#JO0025_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json"
+            "target_git_path_guess": "중소기업기본법/법률/중소기업기본법.json",
+            "target_git_path": "중소기업기본법/법률/중소기업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7002,7 +7660,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7021,7 +7681,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7040,7 +7702,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7059,7 +7723,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7078,7 +7744,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7097,7 +7765,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7116,7 +7786,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7135,7 +7807,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7154,7 +7828,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7173,7 +7849,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7192,7 +7870,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7211,7 +7891,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7230,7 +7912,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7249,7 +7933,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7268,7 +7954,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7287,7 +7975,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7306,7 +7996,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7325,7 +8017,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7344,7 +8038,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7363,7 +8059,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7382,7 +8080,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7401,7 +8101,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7420,7 +8122,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7439,7 +8143,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7458,7 +8164,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7477,7 +8185,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7496,7 +8206,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7515,7 +8227,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7534,7 +8248,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7553,7 +8269,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7572,7 +8290,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7591,7 +8311,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7610,7 +8332,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7629,7 +8353,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7648,7 +8374,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7667,7 +8395,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7686,7 +8416,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7705,7 +8437,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7724,7 +8458,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7743,7 +8479,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7762,7 +8500,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7781,7 +8521,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7800,7 +8542,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7819,7 +8563,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -7838,7 +8584,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0026_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7857,7 +8605,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7876,7 +8626,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7895,7 +8647,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "law:중소기업인력지원특별법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_git_path": "중소기업 인력지원 특별법/법률/중소기업 인력지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -7914,7 +8668,11 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "admrul:중소기업인력지원업무의수탁기관과위탁업무에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json"
+            "target_git_path_guess": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json",
+            "target_git_path": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7935,7 +8693,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0031",
             "reference_id": "admrul:중소기업인력지원업무의수탁기관과위탁업무에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json"
+            "target_git_path_guess": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json",
+            "target_git_path": "중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침/중소기업 인력지원업무의 수탁기관과 위탁업무에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2008.1.31]",
@@ -7970,7 +8730,9 @@
             "source_provision_id": "law:중소기업인력지원특별법시행령#JO0032",
             "reference_id": "law:중소기업인력지원특별법시행령#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+            "target_git_path_guess": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2015.12.30]",
@@ -8516,5 +9278,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json"
+  "git_path": "중소기업 인력지원 특별법/시행령/중소기업 인력지원 특별법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

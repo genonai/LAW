@@ -79,7 +79,9 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0001",
             "reference_id": "law:대한노인회지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json"
+            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_git_path": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -114,7 +116,9 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
             "reference_id": "law:대한노인회지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json"
+            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_git_path": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -133,7 +137,9 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
             "reference_id": "law:대한노인회지원에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json"
+            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_git_path": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -152,7 +158,9 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
             "reference_id": "law:대한노인회지원에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json"
+            "target_git_path_guess": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_git_path": "대한노인회 지원에 관한 법률/법률/대한노인회 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -171,7 +179,11 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
             "reference_id": "admrul:사회보장급여관련공통서식에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json"
+            "target_git_path_guess": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json",
+            "target_git_path": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -197,7 +209,9 @@
             "source_provision_id": "law:대한노인회지원에관한법률시행규칙#JO0002",
             "reference_id": "admrul:사회보장급여관련공통서식에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json"
+            "target_git_path_guess": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json",
+            "target_git_path": "사회보장급여 관련 공통서식에 관한 고시/사회보장급여 관련 공통서식에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "제정",
@@ -257,5 +271,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대한노인회 지원에 관한 법률/시행규칙/대한노인회 지원에 관한 법률 시행규칙.json"
+  "git_path": "대한노인회 지원에 관한 법률/시행규칙/대한노인회 지원에 관한 법률 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

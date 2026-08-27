@@ -76,7 +76,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.6.25]",
@@ -112,7 +114,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "law:원자력안전위원회의설치및운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -131,7 +135,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "law:원자력안전위원회의설치및운영에관한법률#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json"
+            "target_git_path_guess": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json",
+            "target_git_path": "원자력안전위원회의 설치 및 운영에 관한 법률/법률/원자력안전위원회의 설치 및 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -169,7 +177,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "law:한국원자력안전기술원법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +198,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "law:한국원자력안전기술원법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -207,7 +219,11 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "SchlPubRul:한국원자력안전기술원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json"
+            "target_git_path_guess": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json",
+            "target_git_path": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -233,7 +249,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0001_02",
             "reference_id": "SchlPubRul:한국원자력안전기술원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json"
+            "target_git_path_guess": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json",
+            "target_git_path": "한국원자력안전기술원 정관/한국원자력안전기술원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[본조신설 2020.12.1]",
@@ -285,7 +303,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0003",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -304,7 +324,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0003",
             "reference_id": "law:한국원자력안전기술원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.6.25]",
@@ -372,7 +394,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0006",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -391,7 +415,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0006",
             "reference_id": "law:한국원자력안전기술원법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.6.25][제7조에서 이동, 종전 제6조는 삭제 <2009.6.25>]",
@@ -427,7 +453,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0007",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -446,7 +474,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0007",
             "reference_id": "law:한국원자력안전기술원법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -465,7 +495,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0007",
             "reference_id": "law:한국원자력안전기술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -484,7 +516,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0007",
             "reference_id": "law:한국원자력안전기술원법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -503,7 +537,9 @@
             "source_provision_id": "law:한국원자력안전기술원법시행령#JO0007",
             "reference_id": "law:한국원자력안전기술원법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json"
+            "target_git_path_guess": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_git_path": "한국원자력안전기술원법/법률/한국원자력안전기술원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.6.25][제8조에서 이동, 종전 제7조는 제6조로 이동 <2009.6.25>]",
@@ -624,5 +660,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "한국원자력안전기술원법/시행령/한국원자력안전기술원법 시행령.json"
+  "git_path": "한국원자력안전기술원법/시행령/한국원자력안전기술원법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

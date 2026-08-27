@@ -96,7 +96,9 @@
             "source_provision_id": "law:예산회계에관한특례법#JO0002",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -131,7 +133,9 @@
             "source_provision_id": "law:예산회계에관한특례법#JO0003",
             "reference_id": "law:예산회계에관한특례법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "예산회계에관한특례법/시행령/예산회계에관한특례법시행령.json"
+            "target_git_path_guess": "예산회계에관한특례법/시행령/예산회계에관한특례법시행령.json",
+            "target_git_path": "예산회계에관한특례법/시행령/예산회계에관한특례법시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -249,5 +253,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json"
+  "git_path": "예산회계에관한특례법/법률/예산회계에관한특례법.json",
+  "_schlpub_id_suffix": "법률"
 }

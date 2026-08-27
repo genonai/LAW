@@ -76,7 +76,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -130,7 +134,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_02",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,7 +155,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_02",
             "reference_id": "law:직업안정법#JO0004_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -168,7 +176,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_02",
             "reference_id": "admrul:직업상담원운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "직업상담원 운영규정/직업상담원 운영규정.json"
+            "target_git_path_guess": "직업상담원 운영규정/직업상담원 운영규정.json",
+            "target_git_path": "직업상담원 운영규정/직업상담원 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -243,7 +255,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_03",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -262,7 +276,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_03",
             "reference_id": "law:직업안정법#JO0004_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -281,7 +297,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_03",
             "reference_id": "law:직업안정법#JO0004_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -300,7 +318,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_03",
             "reference_id": "admrul:고용서비스우수기관인증제운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json"
+            "target_git_path_guess": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json",
+            "target_git_path": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -326,7 +348,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0001_03",
             "reference_id": "admrul:고용서비스우수기관인증제운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json"
+            "target_git_path_guess": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json",
+            "target_git_path": "고용서비스 우수기관 인증제 운영규정/고용서비스 우수기관 인증제 운영규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -366,7 +390,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:직업안정법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식1_구인신청서(상용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -390,7 +417,10 @@
             "target_unit": "FORM0001_02",
             "reference_id": "law:직업안정법시행규칙#FORM0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식1의2_구인신청서(일용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -414,7 +444,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:직업안정법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식2_구직신청서(상용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -438,7 +471,10 @@
             "target_unit": "FORM0002_02",
             "reference_id": "law:직업안정법시행규칙#FORM0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식2의2_구직신청서(일용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -462,7 +498,10 @@
             "target_unit": "FORM0002_03",
             "reference_id": "law:직업안정법시행규칙#FORM0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식2의3_구직신청서(장애인용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -481,7 +520,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "law:파견근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json",
+            "target_git_path": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -500,7 +541,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "law:파견근로자보호등에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json",
+            "target_git_path": "파견근로자 보호 등에 관한 법률/법률/파견근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -519,7 +562,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -538,7 +583,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -557,7 +604,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -581,7 +630,10 @@
             "target_unit": "FORM0002_04",
             "reference_id": "law:직업안정법시행규칙#FORM0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식2의4_구직등록 확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -600,7 +652,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "admrul:직업소개등업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json"
+            "target_git_path_guess": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json",
+            "target_git_path": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -626,7 +682,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0002",
             "reference_id": "admrul:직업소개등업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json"
+            "target_git_path_guess": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json",
+            "target_git_path": "직업소개 등 업무 처리 규정/직업소개 등 업무 처리 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -696,7 +754,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:직업안정법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식3_취업알선장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -720,7 +781,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:직업안정법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식4_알선자 명단.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -744,7 +808,10 @@
             "target_unit": "FORM0004_02",
             "reference_id": "law:직업안정법시행규칙#FORM0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식4의2_채용 결과 통보서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -779,7 +846,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0006",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -798,7 +867,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0006",
             "reference_id": "law:직업안정법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -817,7 +888,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0006",
             "reference_id": "law:직업안정법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -841,7 +914,10 @@
             "target_unit": "FORM0005",
             "reference_id": "law:직업안정법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식5_단체검사 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -865,7 +941,10 @@
             "target_unit": "FORM0006",
             "reference_id": "law:직업안정법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식6_검사 희망자 접수·관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -915,7 +994,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0008",
             "reference_id": "admrul:직업적성검사업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "직업적성검사업무처리규정/직업적성검사업무처리규정.json"
+            "target_git_path_guess": "직업적성검사업무처리규정/직업적성검사업무처리규정.json",
+            "target_git_path": "직업적성검사업무처리규정/직업적성검사업무처리규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -936,7 +1019,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0008",
             "reference_id": "admrul:직업적성검사업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "직업적성검사업무처리규정/직업적성검사업무처리규정.json"
+            "target_git_path_guess": "직업적성검사업무처리규정/직업적성검사업무처리규정.json",
+            "target_git_path": "직업적성검사업무처리규정/직업적성검사업무처리규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -971,7 +1056,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0009",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -990,7 +1077,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0009",
             "reference_id": "law:직업안정법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1009,7 +1098,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0009",
             "reference_id": "law:직업안정법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -1044,7 +1135,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1063,7 +1156,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:직업안정법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1082,7 +1177,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:직업안정법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1106,7 +1203,10 @@
             "target_unit": "FORM0007",
             "reference_id": "law:직업안정법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식7_무료직업소개사업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1125,7 +1225,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1144,7 +1246,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:직업안정법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1163,7 +1267,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:재외공관공증법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json"
+            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_git_path": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1182,7 +1288,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1201,7 +1309,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1220,7 +1330,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1244,7 +1356,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:직업안정법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식9_(무료, 유료)(주된사업소, 기타사업소, 개인)(직업소개사업 신고확인증, 직업소개사업 등록증).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1268,7 +1383,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:직업안정법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식10_(무료, 유료)직업소개사업신고·등록관리대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1292,7 +1410,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:직업안정법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식11_(무료직업소개사업 신고확인증, 유료직업소개사업 등록증)재발급신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -1327,7 +1448,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1346,7 +1469,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:직업안정법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1365,7 +1490,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:직업안정법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1389,7 +1516,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:직업안정법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식12_(직업소개사업, 직업정보제공사업, 근로자공급사업)변경신고·등록·허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1408,7 +1538,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1427,7 +1559,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1446,7 +1580,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0010_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1470,7 +1606,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:직업안정법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식10_(무료, 유료)직업소개사업신고·등록관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -1505,7 +1644,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0011",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1524,7 +1665,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0011",
             "reference_id": "law:직업안정법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1543,7 +1686,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0011",
             "reference_id": "law:직업안정법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -1662,7 +1807,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1681,7 +1828,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1700,7 +1849,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1724,7 +1875,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:직업안정법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식14_(국내, 국외) 유료직업소개사업 등록신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1748,7 +1902,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:직업안정법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식8_사업계획서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1767,7 +1924,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1786,7 +1945,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1805,7 +1966,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1824,7 +1987,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1848,7 +2013,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:직업안정법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식15_종사자명부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1867,7 +2035,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1886,7 +2056,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1905,7 +2077,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1924,7 +2098,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:재외공관공증법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json"
+            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_git_path": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1943,7 +2119,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1962,7 +2140,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1981,7 +2161,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2000,7 +2182,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2019,7 +2203,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2038,7 +2224,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2057,7 +2245,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2076,7 +2266,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2095,7 +2287,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2114,7 +2308,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2133,7 +2329,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2152,7 +2350,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0017",
             "reference_id": "law:직업안정법시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -2201,7 +2401,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2220,7 +2422,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2239,7 +2443,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -2274,7 +2480,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2293,7 +2501,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2312,7 +2522,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2336,7 +2548,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:직업안정법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/별표/별표1_고급ㆍ전문인력(제18조의2제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2355,7 +2570,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2374,7 +2591,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:통계법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2393,7 +2612,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2412,7 +2633,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2431,7 +2654,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "law:직업안정법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2455,7 +2680,10 @@
             "target_unit": "BYL0001_02",
             "reference_id": "law:직업안정법시행규칙#BYL0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/별표/별표1의2_유료직업소개사업자 및 종사자의 준수 사항(제18조의2제2항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2474,7 +2702,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0018_02",
             "reference_id": "admrul:제8차한국표준직업분류#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제8차 한국표준직업분류/제8차 한국표준직업분류.json"
+            "target_git_path_guess": "제8차 한국표준직업분류/제8차 한국표준직업분류.json",
+            "target_git_path": "제8차 한국표준직업분류/제8차 한국표준직업분류.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2529,7 +2761,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2548,7 +2782,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:직업안정법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2567,7 +2803,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:직업안정법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2586,7 +2824,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:국민평생직업능력개발법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json"
+            "target_git_path_guess": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_git_path": "국민 평생 직업능력 개발법/법률/국민 평생 직업능력 개발법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2605,7 +2845,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2624,7 +2866,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2643,7 +2887,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:청소년기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2662,7 +2908,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:공인노무사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인노무사법/법률/공인노무사법.json"
+            "target_git_path_guess": "공인노무사법/법률/공인노무사법.json",
+            "target_git_path": "공인노무사법/법률/공인노무사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2681,7 +2929,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2700,7 +2950,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2719,7 +2971,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2738,7 +2992,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0019",
             "reference_id": "law:국가기술자격법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json"
+            "target_git_path_guess": "국가기술자격법/법률/국가기술자격법.json",
+            "target_git_path": "국가기술자격법/법률/국가기술자격법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -2801,7 +3057,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2820,7 +3078,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2839,7 +3099,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2863,7 +3125,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:직업안정법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식12_(직업소개사업, 직업정보제공사업, 근로자공급사업)변경신고·등록·허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2887,7 +3152,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:직업안정법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식8_사업계획서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2906,7 +3174,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2925,7 +3195,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2944,7 +3216,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2963,7 +3237,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2987,7 +3263,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:직업안정법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식15_종사자명부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3006,7 +3285,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3025,7 +3306,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3044,7 +3327,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3063,7 +3348,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3082,7 +3369,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3101,7 +3390,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3120,7 +3411,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:직업안정법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3144,7 +3437,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:직업안정법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식15_종사자명부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3163,7 +3459,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3182,7 +3480,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3201,7 +3501,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0022",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3225,7 +3527,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:직업안정법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식10_(무료, 유료)직업소개사업신고·등록관리대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3249,7 +3554,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:직업안정법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식10_(무료, 유료)직업소개사업신고·등록관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -3312,7 +3620,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0025",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3331,7 +3641,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0025",
             "reference_id": "law:직업안정법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3355,7 +3667,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:직업안정법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식16_(직업소개사업, 직업정보제공사업, 근로자공급사업)폐업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3379,7 +3694,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:직업안정법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식10_(무료, 유료)직업소개사업신고·등록관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -3414,7 +3732,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0026",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3433,7 +3753,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0026",
             "reference_id": "law:직업안정법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3457,7 +3779,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:직업안정법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식15_종사자명부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3481,7 +3806,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:직업안정법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식1_구인신청서(상용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3505,7 +3833,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:직업안정법시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식17_구인접수대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3529,7 +3860,10 @@
             "target_unit": "FORM0017_02",
             "reference_id": "law:직업안정법시행규칙#FORM0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식17의2_구인접수대장(일용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3553,7 +3887,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:직업안정법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식2_구직신청서(상용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3577,7 +3914,10 @@
             "target_unit": "FORM0018",
             "reference_id": "law:직업안정법시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식18_구직접수 및 직업소개대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3601,7 +3941,10 @@
             "target_unit": "FORM0018_02",
             "reference_id": "law:직업안정법시행규칙#FORM0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식18의2_구직접수 및 직업소개대장(일용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3625,7 +3968,10 @@
             "target_unit": "FORM0020",
             "reference_id": "law:직업안정법시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식20_소개요금약정서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3649,7 +3995,10 @@
             "target_unit": "FORM0022_02",
             "reference_id": "law:직업안정법시행규칙#FORM0022_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식22의2_일용근로자 회원명부.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3673,7 +4022,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:직업안정법시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식17_구인접수대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3697,7 +4049,10 @@
             "target_unit": "FORM0017_02",
             "reference_id": "law:직업안정법시행규칙#FORM0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식17의2_구인접수대장(일용직용).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3721,7 +4076,10 @@
             "target_unit": "FORM0018",
             "reference_id": "law:직업안정법시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식18_구직접수 및 직업소개대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3745,7 +4103,10 @@
             "target_unit": "FORM0018_02",
             "reference_id": "law:직업안정법시행규칙#FORM0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식18의2_구직접수 및 직업소개대장(일용직용).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -3799,7 +4160,10 @@
             "target_unit": "FORM0024",
             "reference_id": "law:직업안정법시행규칙#FORM0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식24_직업소개사업 현황 통보.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4][제목개정 2023.11.17]",
@@ -3839,7 +4203,10 @@
             "target_unit": "FORM0026",
             "reference_id": "law:직업안정법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식26_직업소개 부조리 단속결과 통보.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4][제목개정 2023.11.17]",
@@ -3888,7 +4255,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3907,7 +4276,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3926,7 +4297,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3950,7 +4323,10 @@
             "target_unit": "FORM0027",
             "reference_id": "law:직업안정법시행규칙#FORM0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식27_직업정보제공 사업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3969,7 +4345,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:신문등의진흥에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json"
+            "target_git_path_guess": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_git_path": "신문 등의 진흥에 관한 법률/법률/신문 등의 진흥에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3988,7 +4366,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4007,7 +4387,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4026,7 +4408,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4050,7 +4434,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:직업안정법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식12_(직업소개사업, 직업정보제공사업, 근로자공급사업)변경신고·등록·허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4074,7 +4461,10 @@
             "target_unit": "FORM0028",
             "reference_id": "law:직업안정법시행규칙#FORM0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식28_직업정보제공사업신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4098,7 +4488,10 @@
             "target_unit": "FORM0029",
             "reference_id": "law:직업안정법시행규칙#FORM0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식29_직업정보제공사업신고대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4117,7 +4510,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4136,7 +4531,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:직업안정법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4160,7 +4557,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:직업안정법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식16_(직업소개사업, 직업정보제공사업, 근로자공급사업)폐업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4179,7 +4579,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4198,7 +4600,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4217,7 +4621,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0031",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -4280,7 +4686,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0034",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4299,7 +4707,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0034",
             "reference_id": "law:직업안정법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4318,7 +4728,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0034",
             "reference_id": "law:직업안정법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4342,7 +4754,10 @@
             "target_unit": "FORM0033",
             "reference_id": "law:직업안정법시행규칙#FORM0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식33_국외 취업자 모집신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4366,7 +4781,10 @@
             "target_unit": "FORM0034",
             "reference_id": "law:직업안정법시행규칙#FORM0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식34_국외취업자모집신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4390,7 +4808,10 @@
             "target_unit": "FORM0035",
             "reference_id": "law:직업안정법시행규칙#FORM0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식35_국외취업근로자 송출실적보고.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -4425,7 +4846,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0035",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4444,7 +4867,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0035",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4468,7 +4893,10 @@
             "target_unit": "FORM0036",
             "reference_id": "law:직업안정법시행규칙#FORM0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식36_구인요청에 관한 공관장 의견서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -4503,7 +4931,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4522,7 +4952,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4541,7 +4973,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4565,7 +4999,10 @@
             "target_unit": "FORM0037",
             "reference_id": "law:직업안정법시행규칙#FORM0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식37_(국내, 국외)근로자공급사업(신규, 연장)허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4584,7 +5021,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4603,7 +5042,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4622,7 +5063,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4641,7 +5084,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4660,7 +5105,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4679,7 +5126,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4698,7 +5147,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4717,7 +5168,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:직업안정법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4736,7 +5189,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0036",
             "reference_id": "law:재외공관공증법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json"
+            "target_git_path_guess": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_git_path": "재외공관 공증법/법률/재외공관 공증법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4760,7 +5215,10 @@
             "target_unit": "FORM0038",
             "reference_id": "law:직업안정법시행규칙#FORM0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식38_(국내, 국외)근로자공급사업 허가증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -4823,7 +5281,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4842,7 +5302,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4861,7 +5323,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4880,7 +5344,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4899,7 +5365,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4918,7 +5386,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4942,7 +5412,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:직업안정법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식12_(직업소개사업, 직업정보제공사업, 근로자공급사업)변경신고·등록·허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4961,7 +5434,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4980,7 +5455,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4999,7 +5476,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0038",
             "reference_id": "law:직업안정법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5023,7 +5502,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:직업안정법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식12_(직업소개사업, 직업정보제공사업, 근로자공급사업)변경신고·등록·허가신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5058,7 +5540,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5077,7 +5561,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5096,7 +5582,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5120,7 +5608,10 @@
             "target_unit": "FORM0037",
             "reference_id": "law:직업안정법시행규칙#FORM0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식37_(국내, 국외)근로자공급사업(신규, 연장)허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5139,7 +5630,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5158,7 +5651,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5177,7 +5672,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0039",
             "reference_id": "law:직업안정법#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5212,7 +5709,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0040",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5231,7 +5730,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0040",
             "reference_id": "law:직업안정법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5255,7 +5756,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:직업안정법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식16_(직업소개사업, 직업정보제공사업, 근로자공급사업)폐업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5274,7 +5778,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0040",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5293,7 +5799,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0040",
             "reference_id": "law:직업안정법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5317,7 +5825,10 @@
             "target_unit": "FORM0039",
             "reference_id": "law:직업안정법시행규칙#FORM0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식39_근로자공급사업실적보고.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5352,7 +5863,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5371,7 +5884,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5390,7 +5905,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5409,7 +5926,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041",
             "reference_id": "admrul:연예인국외공급업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json"
+            "target_git_path_guess": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json",
+            "target_git_path": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5430,7 +5951,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041",
             "reference_id": "admrul:연예인국외공급업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json"
+            "target_git_path_guess": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json",
+            "target_git_path": "연예인 국외공급업무 처리지침/연예인 국외공급업무 처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5465,7 +5988,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_02",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5484,7 +6009,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_02",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5503,7 +6030,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_02",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5538,7 +6067,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_03",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5557,7 +6088,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_03",
             "reference_id": "law:직업안정법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -5607,7 +6140,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5626,7 +6161,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5645,7 +6182,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5664,7 +6203,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5683,7 +6224,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5702,7 +6245,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5721,7 +6266,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5740,7 +6287,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5759,7 +6308,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json"
+            "target_git_path_guess": "부가가치세법/법률/부가가치세법.json",
+            "target_git_path": "부가가치세법/법률/부가가치세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5783,7 +6334,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:직업안정법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식16_(직업소개사업, 직업정보제공사업, 근로자공급사업)폐업신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5802,7 +6356,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5821,7 +6377,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5840,7 +6398,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:부가가치세법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json"
+            "target_git_path_guess": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_git_path": "부가가치세법/시행령/부가가치세법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5859,7 +6419,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5878,7 +6440,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5897,7 +6461,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5916,7 +6482,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5935,7 +6503,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5954,7 +6524,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0041_05",
             "reference_id": "law:직업안정법시행규칙#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2016.12.14]",
@@ -5989,7 +6561,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0042",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6008,7 +6582,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0042",
             "reference_id": "law:직업안정법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6027,7 +6603,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0042",
             "reference_id": "law:직업안정법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6051,7 +6629,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:직업안정법시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/별표/별표2_행정처분기준(제42조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -6086,7 +6667,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0043",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6105,7 +6688,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0043",
             "reference_id": "law:직업안정법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6124,7 +6709,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0043",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6143,7 +6730,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0043",
             "reference_id": "law:직업안정법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6167,7 +6756,10 @@
             "target_unit": "FORM0040",
             "reference_id": "law:직업안정법시행규칙#FORM0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식40_행정처분대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -6202,7 +6794,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6221,7 +6815,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6240,7 +6836,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6259,7 +6857,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6278,7 +6878,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6297,7 +6899,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044",
             "reference_id": "law:직업안정법#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6321,7 +6925,10 @@
             "target_unit": "FORM0042",
             "reference_id": "law:직업안정법시행규칙#FORM0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식42_검사공무원증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -6356,7 +6963,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044_02",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6375,7 +6984,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044_02",
             "reference_id": "law:직업안정법#JO0040_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6394,7 +7005,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0044_02",
             "reference_id": "law:직업안정법#JO0040_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6418,7 +7031,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:직업안정법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/별표/별표3_직업소개사업자 및 그 종사자에 대한 교육훈련의 내용ㆍ방법 및 시간(제44조의2 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -6453,7 +7069,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0045",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6472,7 +7090,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0045",
             "reference_id": "law:직업안정법#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2024.6.12]",
@@ -6508,7 +7128,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0046",
             "reference_id": "law:직업안정법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6527,7 +7149,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0046",
             "reference_id": "law:직업안정법시행령#JO0037_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6546,7 +7170,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0046",
             "reference_id": "law:직업안정법시행령#JO0037_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json"
+            "target_git_path_guess": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_git_path": "직업안정법/시행령/직업안정법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6570,7 +7196,10 @@
             "target_unit": "FORM0044",
             "reference_id": "law:직업안정법시행규칙#FORM0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_file_path": "직업안정법/시행규칙/서식/서식44_사업자협회 설립인가신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -6605,7 +7234,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6624,7 +7255,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0045_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6643,7 +7276,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6662,7 +7297,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6681,7 +7318,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6700,7 +7339,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6719,7 +7360,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6738,7 +7381,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6757,7 +7402,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "law:직업안정법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/법률/직업안정법.json"
+            "target_git_path_guess": "직업안정법/법률/직업안정법.json",
+            "target_git_path": "직업안정법/법률/직업안정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -6776,7 +7423,11 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "admrul:불법직업소개등신고포상금제운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json"
+            "target_git_path_guess": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json",
+            "target_git_path": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6797,7 +7448,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0047",
             "reference_id": "admrul:불법직업소개등신고포상금제운영규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json"
+            "target_git_path_guess": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json",
+            "target_git_path": "불법직업소개등 신고 포상금제 운영규정/불법직업소개등 신고 포상금제 운영규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2007.8.8]",
@@ -6832,7 +7485,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6851,7 +7506,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6870,7 +7527,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6889,7 +7548,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6908,7 +7569,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6927,7 +7590,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6946,7 +7611,9 @@
             "source_provision_id": "law:직업안정법시행규칙#JO0048",
             "reference_id": "law:직업안정법시행규칙#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+            "target_git_path_guess": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2017.2.3]",
@@ -9720,5 +10387,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json"
+  "git_path": "직업안정법/시행규칙/직업안정법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

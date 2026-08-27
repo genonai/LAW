@@ -110,7 +110,9 @@
             "source_provision_id": "law:등기특별회계법#JO0003",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +131,9 @@
             "source_provision_id": "law:등기특별회계법#JO0003",
             "reference_id": "law:국유재산법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,7 +152,9 @@
             "source_provision_id": "law:등기특별회계법#JO0003",
             "reference_id": "law:공공자금관리기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1995.12.6]",
@@ -184,7 +190,9 @@
             "source_provision_id": "law:등기특별회계법#JO0003_02",
             "reference_id": "law:등기특별회계규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json"
+            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_git_path": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -203,7 +211,9 @@
             "source_provision_id": "law:등기특별회계법#JO0003_02",
             "reference_id": "law:등기특별회계규칙#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json"
+            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_git_path": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2006.5.10]",
@@ -284,7 +294,9 @@
             "source_provision_id": "law:등기특별회계법#JO0006_02",
             "reference_id": "law:국가배상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가배상법/법률/국가배상법.json"
+            "target_git_path_guess": "국가배상법/법률/국가배상법.json",
+            "target_git_path": "국가배상법/법률/국가배상법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 1995.12.6]",
@@ -320,7 +332,9 @@
             "source_provision_id": "law:등기특별회계법#JO0007",
             "reference_id": "law:등기특별회계규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json"
+            "target_git_path_guess": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_git_path": "등기특별회계규칙/법률/등기특별회계규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -465,5 +479,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "등기특별회계법/법률/등기특별회계법.json"
+  "git_path": "등기특별회계법/법률/등기특별회계법.json",
+  "_schlpub_id_suffix": "법률"
 }

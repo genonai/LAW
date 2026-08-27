@@ -77,7 +77,9 @@
             "source_provision_id": "law:어업단속공무원의직무에관한규정#JO0001",
             "reference_id": "law:수산업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수산업법/법률/수산업법.json"
+            "target_git_path_guess": "수산업법/법률/수산업법.json",
+            "target_git_path": "수산업법/법률/수산업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -172,7 +174,9 @@
             "source_provision_id": "law:어업단속공무원의직무에관한규정#JO0006",
             "reference_id": "law:공무원여비규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json"
+            "target_git_path_guess": "공무원여비규정/법률/공무원여비규정.json",
+            "target_git_path": "공무원 여비 규정/법률/공무원 여비 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -207,7 +211,9 @@
             "source_provision_id": "law:어업단속공무원의직무에관한규정#JO0007",
             "reference_id": "law:공무원수당등에관한규정#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -374,5 +380,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "어업단속공무원의 직무에 관한 규정/법률/어업단속공무원의 직무에 관한 규정.json"
+  "git_path": "어업단속공무원의 직무에 관한 규정/법률/어업단속공무원의 직무에 관한 규정.json",
+  "_schlpub_id_suffix": "법률"
 }

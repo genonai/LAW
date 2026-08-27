@@ -90,7 +90,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0002",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
+            "target_git_path": "유아교육법/법률/유아교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0002",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -128,7 +132,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0002",
             "reference_id": "law:초중등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2022.4.11]",
@@ -221,7 +227,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0007",
             "reference_id": "law:연구학교에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json"
+            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_git_path": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -240,7 +248,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0007",
             "reference_id": "law:연구학교에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json"
+            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_git_path": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -259,7 +269,9 @@
             "source_provision_id": "law:연구학교에관한규칙#JO0007",
             "reference_id": "law:연구학교에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json"
+            "target_git_path_guess": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_git_path": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -417,5 +429,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json"
+  "git_path": "연구학교에 관한 규칙/법률/연구학교에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

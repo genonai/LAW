@@ -81,7 +81,9 @@
             "source_provision_id": "law:법인의등기사항등에관한특례규칙#JO0001",
             "reference_id": "law:법인의등기사항등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json"
+            "target_git_path_guess": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_git_path": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -132,7 +134,9 @@
             "source_provision_id": "law:법인의등기사항등에관한특례규칙#JO0003",
             "reference_id": "law:법인의등기사항등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json"
+            "target_git_path_guess": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_git_path": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -149,9 +153,11 @@
             "target_url": "https://www.law.go.kr/법령/법인의 등기사항에 관한 특례법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:법인의등기사항등에관한특례규칙#JO0003",
-            "reference_id": "law:법인의등기사항에관한특례법#JO0003",
+            "reference_id": "law:법인의등기사항등에관한특례법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json"
+            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json",
+            "target_git_path": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,9 +174,11 @@
             "target_url": "https://www.law.go.kr/법령/법인의 등기사항에 관한 특례법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:법인의등기사항등에관한특례규칙#JO0003",
-            "reference_id": "law:법인의등기사항에관한특례법#JO0003",
+            "reference_id": "law:법인의등기사항등에관한특례법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json"
+            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json",
+            "target_git_path": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,9 +195,11 @@
             "target_url": "https://www.law.go.kr/법령/법인의 등기사항에 관한 특례법/제3조",
             "resolve_method": "pop",
             "source_provision_id": "law:법인의등기사항등에관한특례규칙#JO0003",
-            "reference_id": "law:법인의등기사항에관한특례법#JO0003",
+            "reference_id": "law:법인의등기사항등에관한특례법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json"
+            "target_git_path_guess": "법인의 등기사항에 관한 특례법/법률/법인의 등기사항에 관한 특례법.json",
+            "target_git_path": "법인의 등기사항 등에 관한 특례법/법률/법인의 등기사항 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2024.11.29]",
@@ -722,5 +732,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "법인의 등기사항 등에 관한 특례규칙/법률/법인의 등기사항 등에 관한 특례규칙.json"
+  "git_path": "법인의 등기사항 등에 관한 특례규칙/법률/법인의 등기사항 등에 관한 특례규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

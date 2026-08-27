@@ -80,7 +80,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0001",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -114,7 +116,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0002",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -133,7 +137,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0002",
             "reference_id": "law:한국부동산원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -183,7 +189,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0004",
             "reference_id": "SchlPubRul:한국부동산원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국부동산원 정관/한국부동산원 정관.json"
+            "target_git_path_guess": "한국부동산원 정관/한국부동산원 정관.json",
+            "target_git_path": "한국부동산원 정관/한국부동산원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -202,7 +210,11 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0004",
             "reference_id": "SchlPubRul:한국부동산원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국부동산원 정관/한국부동산원 정관.json"
+            "target_git_path_guess": "한국부동산원 정관/한국부동산원 정관.json",
+            "target_git_path": "한국부동산원 정관/한국부동산원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "revision_type": "타법개정",
@@ -236,7 +248,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0005",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -255,7 +269,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0005",
             "reference_id": "law:한국부동산원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -319,7 +335,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0008",
             "reference_id": "law:한국부동산원법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -338,7 +356,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0008",
             "reference_id": "law:한국부동산원법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -357,7 +377,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0008",
             "reference_id": "law:한국부동산원법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2025.1.21]",
@@ -392,7 +414,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0009",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -411,7 +435,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0009",
             "reference_id": "law:한국부동산원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -430,7 +456,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0009",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -449,7 +477,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0009",
             "reference_id": "law:한국부동산원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -483,7 +513,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -502,7 +534,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -521,7 +555,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -540,7 +576,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -559,7 +597,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -578,7 +618,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -597,7 +639,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -616,7 +660,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -635,7 +681,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -654,7 +702,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0010",
             "reference_id": "law:한국부동산원법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+            "target_git_path_guess": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -717,7 +767,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -736,7 +788,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -755,7 +809,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -774,7 +830,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -793,7 +851,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -812,7 +872,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -831,7 +893,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -850,7 +914,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#JO0049_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -869,7 +935,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +956,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산투자회사법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json"
+            "target_git_path_guess": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_git_path": "부동산투자회사법/법률/부동산투자회사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -907,7 +977,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산거래신고등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json"
+            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_git_path": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +998,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산거래신고등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json"
+            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_git_path": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -945,7 +1019,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산거래신고등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json"
+            "target_git_path_guess": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_git_path": "부동산 거래신고 등에 관한 법률/법률/부동산 거래신고 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -964,7 +1040,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:공인중개사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -983,7 +1061,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:공인중개사법#JO0047_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1002,7 +1082,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:공인중개사법#JO0047_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json"
+            "target_git_path_guess": "공인중개사법/법률/공인중개사법.json",
+            "target_git_path": "공인중개사법/법률/공인중개사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1021,7 +1103,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1040,7 +1124,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1059,7 +1145,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1078,7 +1166,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1097,7 +1187,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1116,7 +1208,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:도시및주거환경정비법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json"
+            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_git_path": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1135,7 +1229,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:도시및주거환경정비법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json"
+            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_git_path": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1154,7 +1250,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:도시및주거환경정비법#JO0078",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json"
+            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_git_path": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1173,7 +1271,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:도시및주거환경정비법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json"
+            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_git_path": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1192,7 +1292,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:도시및주거환경정비법#JO0114",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json"
+            "target_git_path_guess": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_git_path": "도시 및 주거환경정비법/법률/도시 및 주거환경정비법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1211,7 +1313,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1230,7 +1334,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1249,7 +1355,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:감정평가및감정평가사에관한법률시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/시행령/감정평가 및 감정평가사에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1268,7 +1376,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1287,7 +1397,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1306,7 +1418,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1325,7 +1439,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산서비스산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json"
+            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_git_path": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1344,7 +1460,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산서비스산업진흥법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json"
+            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_git_path": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1363,7 +1481,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:부동산서비스산업진흥법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json"
+            "target_git_path_guess": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_git_path": "부동산서비스산업 진흥법/법률/부동산서비스산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1382,7 +1502,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1401,7 +1523,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1420,7 +1544,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1439,7 +1565,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:주택임대차보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json"
+            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_git_path": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1458,7 +1586,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:주택임대차보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json"
+            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_git_path": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1477,7 +1607,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:주택임대차보호법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json"
+            "target_git_path_guess": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_git_path": "주택임대차보호법/법률/주택임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1496,7 +1628,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:상가건물임대차보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json"
+            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_git_path": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1515,7 +1649,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:상가건물임대차보호법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json"
+            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_git_path": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1534,7 +1670,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:상가건물임대차보호법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json"
+            "target_git_path_guess": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_git_path": "상가건물 임대차보호법/법률/상가건물 임대차보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1553,7 +1691,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1572,7 +1712,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1591,7 +1733,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1610,7 +1754,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1629,7 +1775,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1648,7 +1796,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "law:한국부동산원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1667,7 +1817,11 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "SchlPubRul:(한국부동산원)담보평가서검토업무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json"
+            "target_git_path_guess": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json",
+            "target_git_path": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1688,7 +1842,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0013",
             "reference_id": "SchlPubRul:(한국부동산원)담보평가서검토업무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json"
+            "target_git_path_guess": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json",
+            "target_git_path": "(한국부동산원) 담보평가서 검토업무규정/(한국부동산원) 담보평가서 검토업무규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -1722,7 +1878,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1741,7 +1899,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1760,7 +1920,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1779,7 +1941,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1798,7 +1962,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1817,7 +1983,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0014",
             "reference_id": "law:한국부동산원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1852,7 +2020,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1871,7 +2041,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1890,7 +2062,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1909,7 +2083,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1928,7 +2104,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1947,7 +2125,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1966,7 +2146,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1985,7 +2167,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0015",
             "reference_id": "law:한국부동산원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2020,7 +2204,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:한국부동산원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2039,7 +2225,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:한국부동산원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2058,7 +2246,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:한국부동산원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json"
+            "target_git_path_guess": "한국부동산원법/법률/한국부동산원법.json",
+            "target_git_path": "한국부동산원법/법률/한국부동산원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2077,7 +2267,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2096,7 +2288,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:공공기관의운영에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2115,7 +2309,9 @@
             "source_provision_id": "law:한국부동산원법시행령#JO0016",
             "reference_id": "law:공공기관의운영에관한법률#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2223,5 +2419,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json"
+  "git_path": "한국부동산원법/시행령/한국부동산원법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

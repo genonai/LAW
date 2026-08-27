@@ -90,7 +90,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -109,7 +111,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:국가재정법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -128,7 +132,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -147,7 +153,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:국가재정법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +174,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:공공자금관리기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -185,7 +195,9 @@
             "source_provision_id": "law:국채법#JO0002",
             "reference_id": "law:공공자금관리기금법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -233,7 +245,9 @@
             "source_provision_id": "law:국채법#JO0004",
             "reference_id": "law:공공자금관리기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -252,7 +266,9 @@
             "source_provision_id": "law:국채법#JO0004",
             "reference_id": "law:공공자금관리기금법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -271,7 +287,11 @@
             "source_provision_id": "law:국채법#JO0004",
             "reference_id": "admrul:개인투자용국채규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개인투자용국채규정/개인투자용국채규정.json"
+            "target_git_path_guess": "개인투자용국채규정/개인투자용국채규정.json",
+            "target_git_path": "개인투자용국채규정/개인투자용국채규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -290,7 +310,11 @@
             "source_provision_id": "law:국채법#JO0004",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -336,7 +360,9 @@
             "source_provision_id": "law:국채법#JO0004",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -371,7 +397,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -390,7 +418,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -409,7 +439,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -428,7 +460,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -447,7 +481,11 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -466,7 +504,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -485,7 +525,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json"
+            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_git_path": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -504,7 +546,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json"
+            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_git_path": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -523,7 +567,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "law:국채법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json"
+            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_git_path": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -549,7 +595,9 @@
             "source_provision_id": "law:국채법#JO0005",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -598,7 +646,11 @@
             "source_provision_id": "law:국채법#JO0007",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -624,7 +676,9 @@
             "source_provision_id": "law:국채법#JO0007",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -659,7 +713,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +734,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:주식사채등의전자등록에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -697,7 +755,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:주식사채등의전자등록에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -716,7 +776,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:주식사채등의전자등록에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -735,7 +797,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -754,7 +818,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:한국은행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국은행법/법률/한국은행법.json"
+            "target_git_path_guess": "한국은행법/법률/한국은행법.json",
+            "target_git_path": "한국은행법/법률/한국은행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +839,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:주식사채등의전자등록에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -792,7 +860,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:주식사채등의전자등록에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json"
+            "target_git_path_guess": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_git_path": "주식ㆍ사채 등의 전자등록에 관한 법률/법률/주식ㆍ사채 등의 전자등록에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -811,7 +881,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -830,7 +902,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -849,7 +923,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -868,7 +944,9 @@
             "source_provision_id": "law:국채법#JO0008",
             "reference_id": "law:국채법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -902,7 +980,9 @@
             "source_provision_id": "law:국채법#JO0009",
             "reference_id": "law:국채법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -921,7 +1001,9 @@
             "source_provision_id": "law:국채법#JO0009",
             "reference_id": "law:국채법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -940,7 +1022,9 @@
             "source_provision_id": "law:국채법#JO0009",
             "reference_id": "law:국채법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -959,7 +1043,9 @@
             "source_provision_id": "law:국채법#JO0009",
             "reference_id": "law:국채법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -978,7 +1064,9 @@
             "source_provision_id": "law:국채법#JO0009",
             "reference_id": "law:국채법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1012,7 +1100,9 @@
             "source_provision_id": "law:국채법#JO0010",
             "reference_id": "law:국채법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1031,7 +1121,9 @@
             "source_provision_id": "law:국채법#JO0010",
             "reference_id": "law:국채법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1050,7 +1142,9 @@
             "source_provision_id": "law:국채법#JO0010",
             "reference_id": "law:국채법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1069,7 +1163,9 @@
             "source_provision_id": "law:국채법#JO0010",
             "reference_id": "law:국채법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1104,7 +1200,9 @@
             "source_provision_id": "law:국채법#JO0011",
             "reference_id": "law:국채법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1152,7 +1250,11 @@
             "source_provision_id": "law:국채법#JO0013",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1178,7 +1280,9 @@
             "source_provision_id": "law:국채법#JO0013",
             "reference_id": "admrul:국고채권의발행및국고채전문딜러운영에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json"
+            "target_git_path_guess": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_git_path": "국고채권의 발행 및 국고채전문딜러 운영에 관한 규정/국고채권의 발행 및 국고채전문딜러 운영에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -1227,7 +1331,9 @@
             "source_provision_id": "law:국채법#JO0015",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1246,7 +1352,9 @@
             "source_provision_id": "law:국채법#JO0015",
             "reference_id": "law:국고금관리법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1265,7 +1373,9 @@
             "source_provision_id": "law:국채법#JO0015",
             "reference_id": "law:국고금관리법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1284,7 +1394,9 @@
             "source_provision_id": "law:국채법#JO0015",
             "reference_id": "law:국고금관리법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
+            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1303,7 +1415,9 @@
             "source_provision_id": "law:국채법#JO0015",
             "reference_id": "law:국채법시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json"
+            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_git_path": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1338,7 +1452,9 @@
             "source_provision_id": "law:국채법#JO0016",
             "reference_id": "law:국채법시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json"
+            "target_git_path_guess": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_git_path": "국채법/시행규칙/국채법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1357,7 +1473,9 @@
             "source_provision_id": "law:국채법#JO0016",
             "reference_id": "law:국채법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/법률/국채법.json"
+            "target_git_path_guess": "국채법/법률/국채법.json",
+            "target_git_path": "국채법/법률/국채법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1392,7 +1510,9 @@
             "source_provision_id": "law:국채법#JO0017",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1411,7 +1531,9 @@
             "source_provision_id": "law:국채법#JO0017",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1430,7 +1552,9 @@
             "source_provision_id": "law:국채법#JO0017",
             "reference_id": "law:자본시장과금융투자업에관한법률#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1449,7 +1573,9 @@
             "source_provision_id": "law:국채법#JO0017",
             "reference_id": "law:국채법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "국채법/시행령/국채법 시행령.json"
+            "target_git_path_guess": "국채법/시행령/국채법 시행령.json",
+            "target_git_path": "국채법/시행령/국채법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1534,5 +1660,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국채법/법률/국채법.json"
+  "git_path": "국채법/법률/국채법.json",
+  "_schlpub_id_suffix": "법률"
 }

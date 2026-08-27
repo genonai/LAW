@@ -79,7 +79,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0001",
             "reference_id": "law:의무소방대설치법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -114,7 +116,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0002",
             "reference_id": "law:의무소방대설치법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json"
+            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_git_path": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -133,7 +137,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0002",
             "reference_id": "law:소방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json"
+            "target_git_path_guess": "소방공무원법/법률/소방공무원법.json",
+            "target_git_path": "소방공무원법/법률/소방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -152,7 +158,11 @@
             "source_provision_id": "law:의무소방대설치법#JO0002",
             "reference_id": "admrul:의무소방대관리규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "의무소방대 관리규칙/의무소방대 관리규칙.json"
+            "target_git_path_guess": "의무소방대 관리규칙/의무소방대 관리규칙.json",
+            "target_git_path": "의무소방대 관리규칙/의무소방대 관리규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -178,7 +188,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0002",
             "reference_id": "admrul:의무소방대관리규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "의무소방대 관리규칙/의무소방대 관리규칙.json"
+            "target_git_path_guess": "의무소방대 관리규칙/의무소방대 관리규칙.json",
+            "target_git_path": "의무소방대 관리규칙/의무소방대 관리규칙.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -213,7 +225,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -232,7 +246,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -251,7 +267,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -270,7 +288,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -289,7 +309,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -308,7 +330,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -327,7 +351,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -346,7 +372,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:병역법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "병역법/법률/병역법.json"
+            "target_git_path_guess": "병역법/법률/병역법.json",
+            "target_git_path": "병역법/법률/병역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -365,7 +393,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0003",
             "reference_id": "law:의무소방대설치법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -416,7 +446,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0004",
             "reference_id": "law:의무소방대설치법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -451,7 +483,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0004_02",
             "reference_id": "law:의무소방대설치법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18]",
@@ -502,7 +536,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0006",
             "reference_id": "law:의무소방대설치법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json"
+            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_git_path": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -537,7 +573,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0007",
             "reference_id": "law:의무소방대설치법시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -556,7 +594,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0007",
             "reference_id": "law:의무소방대설치법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -575,7 +615,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0007",
             "reference_id": "law:의무소방대설치법시행령#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -594,7 +636,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0007",
             "reference_id": "law:의무소방대설치법시행령#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -613,7 +657,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0007",
             "reference_id": "law:의무소방대설치법시행령#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -648,7 +694,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0008",
             "reference_id": "law:국가유공자등예우및지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json"
+            "target_git_path_guess": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+            "target_git_path": "국가유공자 등 예우 및 지원에 관한 법률/법률/국가유공자 등 예우 및 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -667,7 +715,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0008",
             "reference_id": "law:보훈보상대상자지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보훈보상대상자 지원에 관한 법률/법률/보훈보상대상자 지원에 관한 법률.json"
+            "target_git_path_guess": "보훈보상대상자 지원에 관한 법률/법률/보훈보상대상자 지원에 관한 법률.json",
+            "target_git_path": "보훈보상대상자 지원에 관한 법률/법률/보훈보상대상자 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -686,7 +736,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0008",
             "reference_id": "law:의무소방대설치법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -705,7 +757,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0008",
             "reference_id": "law:의무소방대설치법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2016.1.27]",
@@ -771,7 +825,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0011",
             "reference_id": "law:의무소방대설치법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json"
+            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_git_path": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -790,7 +846,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0011",
             "reference_id": "law:의무소방대설치법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json"
+            "target_git_path_guess": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_git_path": "의무소방대설치법/법률/의무소방대설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -809,7 +867,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0011",
             "reference_id": "law:의무소방대설치법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -828,7 +888,9 @@
             "source_provision_id": "law:의무소방대설치법#JO0011",
             "reference_id": "law:의무소방대설치법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json"
+            "target_git_path_guess": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_git_path": "의무소방대설치법/시행령/의무소방대설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1009,5 +1071,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "의무소방대설치법/법률/의무소방대설치법.json"
+  "git_path": "의무소방대설치법/법률/의무소방대설치법.json",
+  "_schlpub_id_suffix": "법률"
 }

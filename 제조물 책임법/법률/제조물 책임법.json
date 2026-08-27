@@ -153,7 +153,9 @@
             "source_provision_id": "law:제조물책임법#JO0004",
             "reference_id": "law:제조물책임법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json"
+            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json",
+            "target_git_path": "제조물 책임법/법률/제조물 책임법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -172,7 +174,9 @@
             "source_provision_id": "law:제조물책임법#JO0004",
             "reference_id": "law:제조물책임법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json"
+            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json",
+            "target_git_path": "제조물 책임법/법률/제조물 책임법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2013.5.22]",
@@ -240,7 +244,9 @@
             "source_provision_id": "law:제조물책임법#JO0007",
             "reference_id": "law:제조물책임법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json"
+            "target_git_path_guess": "제조물 책임법/법률/제조물 책임법.json",
+            "target_git_path": "제조물 책임법/법률/제조물 책임법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2013.5.22]",
@@ -276,7 +282,9 @@
             "source_provision_id": "law:제조물책임법#JO0008",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2013.5.22]",
@@ -360,5 +368,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "제조물 책임법/법률/제조물 책임법.json"
+  "git_path": "제조물 책임법/법률/제조물 책임법.json",
+  "_schlpub_id_suffix": "법률"
 }

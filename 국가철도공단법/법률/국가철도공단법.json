@@ -92,7 +92,9 @@
             "source_provision_id": "law:국가철도공단법#JO0002",
             "reference_id": "law:철도산업발전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도산업발전 기본법/법률/철도산업발전 기본법.json"
+            "target_git_path_guess": "철도산업발전 기본법/법률/철도산업발전 기본법.json",
+            "target_git_path": "철도산업발전기본법/법률/철도산업발전기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -141,7 +143,9 @@
             "source_provision_id": "law:국가철도공단법#JO0004",
             "reference_id": "law:국가철도공단법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -176,7 +180,11 @@
             "source_provision_id": "law:국가철도공단법#JO0005",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -195,7 +203,11 @@
             "source_provision_id": "law:국가철도공단법#JO0005",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -221,7 +233,9 @@
             "source_provision_id": "law:국가철도공단법#JO0005",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -247,7 +261,9 @@
             "source_provision_id": "law:국가철도공단법#JO0005",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -296,7 +312,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -315,7 +333,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -334,7 +354,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -353,7 +375,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -372,7 +396,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:사회기반시설에대한민간투자법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -391,7 +417,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:사회기반시설에대한민간투자법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -410,7 +438,9 @@
             "source_provision_id": "law:국가철도공단법#JO0007",
             "reference_id": "law:산업입지및개발에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/법률/산업입지 및 개발에 관한 법률.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/법률/산업입지 및 개발에 관한 법률.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/법률/산업입지 및 개발에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -446,7 +476,9 @@
             "source_provision_id": "law:국가철도공단법#JO0008",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -517,7 +549,9 @@
             "source_provision_id": "law:국가철도공단법#JO0011",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -536,7 +570,11 @@
             "source_provision_id": "law:국가철도공단법#JO0011",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -634,7 +672,9 @@
             "source_provision_id": "law:국가철도공단법#JO0016",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -653,7 +693,11 @@
             "source_provision_id": "law:국가철도공단법#JO0016",
             "reference_id": "SchlPubRul:국가철도공단정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json"
+            "target_git_path_guess": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_git_path": "국가철도공단 정관/국가철도공단 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -688,7 +732,9 @@
             "source_provision_id": "law:국가철도공단법#JO0017",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -707,7 +753,9 @@
             "source_provision_id": "law:국가철도공단법#JO0017",
             "reference_id": "law:국가철도공단법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -726,7 +774,9 @@
             "source_provision_id": "law:국가철도공단법#JO0017",
             "reference_id": "law:국가철도공단법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -761,7 +811,9 @@
             "source_provision_id": "law:국가철도공단법#JO0018",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -796,7 +848,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -815,7 +869,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -834,7 +890,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -853,7 +911,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -872,7 +932,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -891,7 +953,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -910,7 +974,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -929,7 +995,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -948,7 +1016,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -967,7 +1037,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -986,7 +1058,9 @@
             "source_provision_id": "law:국가철도공단법#JO0019",
             "reference_id": "law:국가철도공단법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1036,7 +1110,9 @@
             "source_provision_id": "law:국가철도공단법#JO0021",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1055,7 +1131,9 @@
             "source_provision_id": "law:국가철도공단법#JO0021",
             "reference_id": "law:국가철도공단법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1090,7 +1168,9 @@
             "source_provision_id": "law:국가철도공단법#JO0022",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1109,7 +1189,9 @@
             "source_provision_id": "law:국가철도공단법#JO0022",
             "reference_id": "law:한국철도공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국철도공사법/법률/한국철도공사법.json"
+            "target_git_path_guess": "한국철도공사법/법률/한국철도공사법.json",
+            "target_git_path": "한국철도공사법/법률/한국철도공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1128,7 +1210,9 @@
             "source_provision_id": "law:국가철도공단법#JO0022",
             "reference_id": "law:국가철도공단법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1147,7 +1231,9 @@
             "source_provision_id": "law:국가철도공단법#JO0022",
             "reference_id": "law:국가철도공단법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1166,7 +1252,9 @@
             "source_provision_id": "law:국가철도공단법#JO0022",
             "reference_id": "law:국가철도공단법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1201,7 +1289,9 @@
             "source_provision_id": "law:국가철도공단법#JO0023",
             "reference_id": "law:국가철도공단법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1236,7 +1326,9 @@
             "source_provision_id": "law:국가철도공단법#JO0024",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1255,7 +1347,9 @@
             "source_provision_id": "law:국가철도공단법#JO0024",
             "reference_id": "law:철도산업발전기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도산업발전기본법/법률/철도산업발전기본법.json"
+            "target_git_path_guess": "철도산업발전기본법/법률/철도산업발전기본법.json",
+            "target_git_path": "철도산업발전기본법/법률/철도산업발전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1274,7 +1368,9 @@
             "source_provision_id": "law:국가철도공단법#JO0024",
             "reference_id": "law:철도산업발전기본법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도산업발전기본법/법률/철도산업발전기본법.json"
+            "target_git_path_guess": "철도산업발전기본법/법률/철도산업발전기본법.json",
+            "target_git_path": "철도산업발전기본법/법률/철도산업발전기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1293,7 +1389,9 @@
             "source_provision_id": "law:국가철도공단법#JO0024",
             "reference_id": "law:국가철도공단법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1343,7 +1441,9 @@
             "source_provision_id": "law:국가철도공단법#JO0026",
             "reference_id": "law:국가철도공단법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1362,7 +1462,9 @@
             "source_provision_id": "law:국가철도공단법#JO0026",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1381,7 +1483,9 @@
             "source_provision_id": "law:국가철도공단법#JO0026",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1400,7 +1504,9 @@
             "source_provision_id": "law:국가철도공단법#JO0026",
             "reference_id": "law:국가철도공단법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1419,7 +1525,9 @@
             "source_provision_id": "law:국가철도공단법#JO0026",
             "reference_id": "law:국가철도공단법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1454,7 +1562,9 @@
             "source_provision_id": "law:국가철도공단법#JO0027",
             "reference_id": "law:국가철도공단법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1489,7 +1599,9 @@
             "source_provision_id": "law:국가철도공단법#JO0028",
             "reference_id": "law:국가철도공단법시행령#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1508,7 +1620,9 @@
             "source_provision_id": "law:국가철도공단법#JO0028",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1527,7 +1641,9 @@
             "source_provision_id": "law:국가철도공단법#JO0028",
             "reference_id": "law:공익사업을위한토지등의취득및보상에관한법률#JO0089",
             "target_repo": "LAW",
-            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json"
+            "target_git_path_guess": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_git_path": "공익사업을 위한 토지 등의 취득 및 보상에 관한 법률/법률/공익사업을 위한 토지 등의 취득 및 보상에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1577,7 +1693,9 @@
             "source_provision_id": "law:국가철도공단법#JO0030",
             "reference_id": "law:국가철도공단법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json"
+            "target_git_path_guess": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_git_path": "국가철도공단법/시행령/국가철도공단법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1715,7 +1833,9 @@
             "source_provision_id": "law:국가철도공단법#JO0037",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1734,7 +1854,9 @@
             "source_provision_id": "law:국가철도공단법#JO0037",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1783,7 +1905,9 @@
             "source_provision_id": "law:국가철도공단법#JO0039",
             "reference_id": "law:국가철도공단법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -1818,7 +1942,9 @@
             "source_provision_id": "law:국가철도공단법#JO0040",
             "reference_id": "law:국가철도공단법#JO0036_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json"
+            "target_git_path_guess": "국가철도공단법/법률/국가철도공단법.json",
+            "target_git_path": "국가철도공단법/법률/국가철도공단법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.1.30]",
@@ -2011,5 +2137,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국가철도공단법/법률/국가철도공단법.json"
+  "git_path": "국가철도공단법/법률/국가철도공단법.json",
+  "_schlpub_id_suffix": "법률"
 }

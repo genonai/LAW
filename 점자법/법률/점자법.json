@@ -107,7 +107,9 @@
             "source_provision_id": "law:점자법#JO0003",
             "reference_id": "law:장애인복지법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -126,7 +128,9 @@
             "source_provision_id": "law:점자법#JO0003",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -145,7 +149,9 @@
             "source_provision_id": "law:점자법#JO0003",
             "reference_id": "law:장애인복지법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json"
+            "target_git_path_guess": "장애인복지법/법률/장애인복지법.json",
+            "target_git_path": "장애인복지법/법률/장애인복지법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -164,7 +170,9 @@
             "source_provision_id": "law:점자법#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -268,7 +276,9 @@
             "source_provision_id": "law:점자법#JO0009",
             "reference_id": "law:점자법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -302,7 +312,11 @@
             "source_provision_id": "law:점자법#JO0010",
             "reference_id": "admrul:한국점자규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국 점자 규정/한국 점자 규정.json"
+            "target_git_path_guess": "한국 점자 규정/한국 점자 규정.json",
+            "target_git_path": "한국 점자 규정/한국 점자 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -323,7 +337,9 @@
             "source_provision_id": "law:점자법#JO0010",
             "reference_id": "admrul:한국점자규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국 점자 규정/한국 점자 규정.json"
+            "target_git_path_guess": "한국 점자 규정/한국 점자 규정.json",
+            "target_git_path": "한국 점자 규정/한국 점자 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -357,7 +373,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -376,7 +394,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -395,7 +415,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/법률/점자법.json"
+            "target_git_path_guess": "점자법/법률/점자법.json",
+            "target_git_path": "점자법/법률/점자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -414,7 +436,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/법률/점자법.json"
+            "target_git_path_guess": "점자법/법률/점자법.json",
+            "target_git_path": "점자법/법률/점자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -433,7 +457,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -452,7 +478,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -471,7 +499,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -490,7 +520,9 @@
             "source_provision_id": "law:점자법#JO0011",
             "reference_id": "law:점자법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -524,7 +556,9 @@
             "source_provision_id": "law:점자법#JO0011_02",
             "reference_id": "law:점자법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -543,7 +577,9 @@
             "source_provision_id": "law:점자법#JO0011_02",
             "reference_id": "law:점자법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.2.27]",
@@ -578,7 +614,9 @@
             "source_provision_id": "law:점자법#JO0012",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -597,7 +635,9 @@
             "source_provision_id": "law:점자법#JO0012",
             "reference_id": "law:점자법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -632,7 +672,9 @@
             "source_provision_id": "law:점자법#JO0012_02",
             "reference_id": "law:공공기관의정보공개에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -651,7 +693,9 @@
             "source_provision_id": "law:점자법#JO0012_02",
             "reference_id": "law:공공기관의정보공개에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_git_path": "공공기관의 정보공개에 관한 법률/법률/공공기관의 정보공개에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.12.8]",
@@ -785,7 +829,9 @@
             "source_provision_id": "law:점자법#JO0020",
             "reference_id": "law:점자법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "점자법/시행령/점자법 시행령.json"
+            "target_git_path_guess": "점자법/시행령/점자법 시행령.json",
+            "target_git_path": "점자법/시행령/점자법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -917,5 +963,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "점자법/법률/점자법.json"
+  "git_path": "점자법/법률/점자법.json",
+  "_schlpub_id_suffix": "법률"
 }

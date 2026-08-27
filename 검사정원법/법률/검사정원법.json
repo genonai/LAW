@@ -80,7 +80,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:검찰청법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰청법/법률/검찰청법.json"
+            "target_git_path_guess": "검찰청법/법률/검찰청법.json",
+            "target_git_path": "검찰청법/법률/검찰청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:검찰청법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰청법/법률/검찰청법.json"
+            "target_git_path_guess": "검찰청법/법률/검찰청법.json",
+            "target_git_path": "검찰청법/법률/검찰청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:검찰청법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "검찰청법/법률/검찰청법.json"
+            "target_git_path_guess": "검찰청법/법률/검찰청법.json",
+            "target_git_path": "검찰청법/법률/검찰청법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[시행일:2015.1.1] 증원되는 검사의 정원 350명 중 90명의 증원[시행일:2016.1.1] 증원되는 검사의 정원 350명 중 80명의 증원[시행일:2017.1.1] 증원되는 검사의 정원 350명 중 70명의 증원[시행일:2018.1.1] 증원되는 검사의 정원 350명 중 70명의 증원[시행일:2019.1.1] 증원되는 검사의 정원 350명 중 40명의 증원",
@@ -154,7 +160,9 @@
             "source_provision_id": "law:검사정원법#JO0002",
             "reference_id": "law:검사정원법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/시행령/검사정원법 시행령.json"
+            "target_git_path_guess": "검사정원법/시행령/검사정원법 시행령.json",
+            "target_git_path": "검사정원법/시행령/검사정원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -173,7 +181,9 @@
             "source_provision_id": "law:검사정원법#JO0002",
             "reference_id": "law:검사정원법#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/법률/검사정원법.json"
+            "target_git_path_guess": "검사정원법/법률/검사정원법.json",
+            "target_git_path": "검사정원법/법률/검사정원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -245,5 +255,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검사정원법/법률/검사정원법.json"
+  "git_path": "검사정원법/법률/검사정원법.json",
+  "_schlpub_id_suffix": "법률"
 }

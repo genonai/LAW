@@ -76,7 +76,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0001",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0001",
             "reference_id": "law:전자정부법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0001",
             "reference_id": "law:전자정부법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -254,7 +260,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0009",
             "reference_id": "law:법원행정전자서명인증업무에관한규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json"
+            "target_git_path_guess": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json",
+            "target_git_path": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -273,7 +281,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0009",
             "reference_id": "law:법원행정전자서명인증업무에관한규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json"
+            "target_git_path_guess": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json",
+            "target_git_path": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -323,7 +333,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0011",
             "reference_id": "law:개인정보보호법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -342,7 +354,9 @@
             "source_provision_id": "law:법원행정전자서명인증업무에관한규칙#JO0011",
             "reference_id": "law:개인정보보호법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json"
+            "target_git_path_guess": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_git_path": "개인정보 보호법/시행령/개인정보 보호법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.6]",
@@ -414,5 +428,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json"
+  "git_path": "법원 행정전자서명 인증업무에 관한 규칙/법률/법원 행정전자서명 인증업무에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

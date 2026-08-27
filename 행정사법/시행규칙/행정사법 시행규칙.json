@@ -78,7 +78,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0001",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0001",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -131,7 +135,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:행정사법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -169,7 +177,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:행정사법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +198,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:공무원임용령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -207,7 +219,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -226,7 +240,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "law:공무원임용령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json"
+            "target_git_path_guess": "공무원임용령/법률/공무원임용령.json",
+            "target_git_path": "공무원임용령/법률/공무원임용령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -245,7 +261,11 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "admrul:공무원임용규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -271,7 +291,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0002",
             "reference_id": "admrul:공무원임용규칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json"
+            "target_git_path_guess": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_git_path": "공무원 임용규칙/공무원 임용규칙.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -305,7 +327,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -324,7 +348,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -343,7 +369,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -362,7 +390,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -381,7 +411,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -405,7 +437,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:행정사법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식1_행정사 자격시험 응시원서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -424,7 +459,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:한국산업인력공단법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국산업인력공단법/법률/한국산업인력공단법.json"
+            "target_git_path_guess": "한국산업인력공단법/법률/한국산업인력공단법.json",
+            "target_git_path": "한국산업인력공단법/법률/한국산업인력공단법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -443,7 +480,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -462,7 +501,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -481,7 +522,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0003",
             "reference_id": "law:행정사법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -505,7 +548,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:행정사법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식2_행정사 자격시험 응시자 명부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -539,7 +585,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -558,7 +606,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -577,7 +627,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -596,7 +648,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -615,7 +669,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -634,7 +690,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0004",
             "reference_id": "law:행정사법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -668,7 +726,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0005",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -687,7 +747,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0005",
             "reference_id": "law:행정사법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -711,7 +773,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:행정사법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식3_행정사 자격시험 제( )차시험 합격자 명부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -745,7 +810,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -764,7 +831,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -783,7 +852,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -807,7 +878,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:행정사법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식4_행정사 자격증 (발급, 재발급) 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -826,7 +900,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -845,7 +921,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -869,7 +947,10 @@
             "target_unit": "FORM0005",
             "reference_id": "law:행정사법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식5_행정사 자격증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -888,7 +969,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -907,7 +990,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -926,7 +1011,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0006",
             "reference_id": "law:행정사법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -950,7 +1037,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:행정사법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식4_행정사 자격증 (발급, 재발급) 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -974,7 +1064,10 @@
             "target_unit": "FORM0007",
             "reference_id": "law:행정사법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식7_행정사 자격증 발급 대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1009,7 +1102,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1028,7 +1123,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1047,7 +1144,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1071,7 +1170,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:행정사법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식8_행정사 업무 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1090,7 +1192,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1109,7 +1213,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1128,7 +1234,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1152,7 +1260,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1171,7 +1282,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1190,7 +1303,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1209,7 +1324,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1228,7 +1345,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1247,7 +1366,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행령#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1266,7 +1387,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0007",
             "reference_id": "law:행정사법시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1301,7 +1424,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0008",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1320,7 +1445,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0008",
             "reference_id": "law:행정사법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1339,7 +1466,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0008",
             "reference_id": "law:행정사법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1363,7 +1492,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:행정사법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식10_이의신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2021.6.9]",
@@ -1403,7 +1535,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:행정사법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식11_행정사업무신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1427,7 +1562,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:행정사법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식12_행정사 합동사무소(분사무소) 설치 신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1446,7 +1584,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1465,7 +1605,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1484,7 +1626,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1508,7 +1652,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:행정사법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식13_행정사 업무 신고대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1532,7 +1679,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:행정사법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식14_행정사 관리 대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1551,7 +1701,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1570,7 +1722,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1589,7 +1743,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0009",
             "reference_id": "law:행정사법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1613,7 +1769,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:행정사법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식15_(행정사업무신고확인증, 행정사 합동사무소(분사무소) 설치 신고확인증, 법인업무신고확인증) 재발급 신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1648,7 +1807,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1667,7 +1828,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1686,7 +1849,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1710,7 +1875,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:행정사법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식16_행정사 합동사무소(분사무소) 설치신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1729,7 +1897,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1748,7 +1918,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1767,7 +1939,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1791,7 +1965,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1810,7 +1987,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1829,7 +2008,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0010",
             "reference_id": "law:행정사법시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1864,7 +2045,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0011",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1883,7 +2066,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0011",
             "reference_id": "law:행정사법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1902,7 +2087,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0011",
             "reference_id": "law:행정사법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1926,7 +2113,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1960,7 +2150,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1979,7 +2171,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1998,7 +2192,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2017,7 +2213,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2041,7 +2239,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2065,7 +2266,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2084,7 +2288,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2103,7 +2309,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2122,7 +2330,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0012",
             "reference_id": "law:행정사법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2146,7 +2356,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2170,7 +2383,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:행정사법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식11_행정사업무신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2194,7 +2410,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:행정사법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식12_행정사 합동사무소(분사무소) 설치 신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2218,7 +2437,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:행정사법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식13_행정사 업무 신고대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2242,7 +2464,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:행정사법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식14_행정사 관리 대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2277,7 +2502,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2296,7 +2523,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2315,7 +2544,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2334,7 +2565,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2353,7 +2586,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2372,7 +2607,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2391,7 +2628,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2415,7 +2654,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:행정사법시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식17_사실확인증명서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2434,7 +2676,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2453,7 +2697,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2472,7 +2718,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0013",
             "reference_id": "law:행정사법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2496,7 +2744,10 @@
             "target_unit": "FORM0018",
             "reference_id": "law:행정사법시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식18_번역확인증명서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2530,7 +2781,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0014",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2549,7 +2802,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0014",
             "reference_id": "law:행정사법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2573,7 +2828,10 @@
             "target_unit": "FORM0019",
             "reference_id": "law:행정사법시행규칙#FORM0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19_행정사 업무처리부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2607,7 +2865,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2626,7 +2886,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2645,7 +2907,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2664,7 +2928,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2683,7 +2949,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2707,7 +2975,10 @@
             "target_unit": "FORM0019_02",
             "reference_id": "law:행정사법시행규칙#FORM0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의2_수료증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2726,7 +2997,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2745,7 +3018,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2764,7 +3039,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015",
             "reference_id": "law:행정사법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2788,7 +3065,10 @@
             "target_unit": "FORM0019_02",
             "reference_id": "law:행정사법시행규칙#FORM0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의2_수료증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2025.11.20]",
@@ -2831,7 +3111,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2850,7 +3132,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2869,7 +3153,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2893,7 +3179,10 @@
             "target_unit": "FORM0019_03",
             "reference_id": "law:행정사법시행규칙#FORM0019_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의3_행정사법인 설립인가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2912,7 +3201,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2931,7 +3222,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2950,7 +3243,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2969,7 +3264,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2988,7 +3285,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3007,7 +3306,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3026,7 +3327,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3045,7 +3348,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3064,7 +3369,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3083,7 +3390,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3102,7 +3411,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3121,7 +3432,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#JO0025_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3140,7 +3453,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법#JO0025_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3159,7 +3474,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3178,7 +3495,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3197,7 +3516,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_02",
             "reference_id": "law:행정사법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3221,7 +3542,10 @@
             "target_unit": "FORM0019_04",
             "reference_id": "law:행정사법시행규칙#FORM0019_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의4_행정사법인 설립인가대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3245,7 +3569,10 @@
             "target_unit": "FORM0019_05",
             "reference_id": "law:행정사법시행규칙#FORM0019_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의5_행정사법인 설립인가증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2021.6.9]",
@@ -3281,7 +3608,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3300,7 +3629,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법시행령#JO0023_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3319,7 +3650,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법시행령#JO0023_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3343,7 +3676,10 @@
             "target_unit": "FORM0019_06",
             "reference_id": "law:행정사법시행규칙#FORM0019_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의6_행정사법인 업무신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3362,7 +3698,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3381,7 +3719,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3400,7 +3740,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3424,7 +3766,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:행정사법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식9_행정사 [업무변경, 사무소 이전, 폐업 (휴업, 업무재개)] 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3443,7 +3788,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3462,7 +3809,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3481,7 +3830,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3505,7 +3856,10 @@
             "target_unit": "FORM0019_07",
             "reference_id": "law:행정사법시행규칙#FORM0019_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의7_법인업무신고확인증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3524,7 +3878,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3543,7 +3899,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3562,7 +3920,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_03",
             "reference_id": "law:행정사법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3586,7 +3946,10 @@
             "target_unit": "FORM0019_08",
             "reference_id": "law:행정사법시행규칙#FORM0019_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의8_행정사법인 업무 신고대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3610,7 +3973,10 @@
             "target_unit": "FORM0019_09",
             "reference_id": "law:행정사법시행규칙#FORM0019_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의9_행정사법인 관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2021.6.9]",
@@ -3653,7 +4019,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_04",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3672,7 +4040,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0015_04",
             "reference_id": "law:행정사법시행령#JO0023_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3696,7 +4066,10 @@
             "target_unit": "FORM0019_10",
             "reference_id": "law:행정사법시행규칙#FORM0019_10",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식19의10_행정사법인 해산신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2021.6.9]",
@@ -3732,7 +4105,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0016",
             "reference_id": "law:행정사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3751,7 +4126,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0016",
             "reference_id": "law:행정사법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json"
+            "target_git_path_guess": "행정사법/시행령/행정사법 시행령.json",
+            "target_git_path": "행정사법/시행령/행정사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3775,7 +4152,10 @@
             "target_unit": "FORM0020",
             "reference_id": "law:행정사법시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식20_대한행정사회 설립인가 신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2021.6.9]",
@@ -3810,7 +4190,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0017",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3829,7 +4211,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0017",
             "reference_id": "law:행정사법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3848,7 +4232,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0017",
             "reference_id": "law:행정사법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3867,7 +4253,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0017",
             "reference_id": "law:행정사법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3886,7 +4274,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0017",
             "reference_id": "law:행정사법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3910,7 +4300,10 @@
             "target_unit": "FORM0021",
             "reference_id": "law:행정사법시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json"
+            "target_git_path_guess": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+            "target_git_file_path": "행정사법/시행규칙/서식/서식21_출입ㆍ검사 공무원증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3944,7 +4337,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0018",
             "reference_id": "law:행정사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3963,7 +4358,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0018",
             "reference_id": "law:행정사법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3982,7 +4379,9 @@
             "source_provision_id": "law:행정사법시행규칙#JO0018",
             "reference_id": "law:행정사법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정사법/법률/행정사법.json"
+            "target_git_path_guess": "행정사법/법률/행정사법.json",
+            "target_git_path": "행정사법/법률/행정사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -5397,5 +5796,6 @@
   ],
   "has_future": true,
   "version_count": 2,
-  "git_path": "행정사법/시행규칙/행정사법 시행규칙.json"
+  "git_path": "행정사법/시행규칙/행정사법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

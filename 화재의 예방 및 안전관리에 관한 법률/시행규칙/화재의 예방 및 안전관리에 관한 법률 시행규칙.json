@@ -96,7 +96,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0001",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +117,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0001",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -149,7 +153,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0002",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +174,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0002",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +195,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0002",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -206,7 +216,11 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0002",
             "reference_id": "admrul:화재예방및안전관리실태조사의방법및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json"
+            "target_git_path_guess": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json",
+            "target_git_path": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -227,7 +241,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0002",
             "reference_id": "admrul:화재예방및안전관리실태조사의방법및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json"
+            "target_git_path_guess": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json",
+            "target_git_path": "화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정/화재예방 및 안전관리 실태조사의 방법 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -261,7 +277,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -280,7 +298,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -299,7 +319,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -318,7 +340,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:소방기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -337,7 +361,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:소방기본법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -356,7 +382,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:소방기본법#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "소방기본법/법률/소방기본법.json"
+            "target_git_path_guess": "소방기본법/법률/소방기본법.json",
+            "target_git_path": "소방기본법/법률/소방기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -375,7 +403,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:정부출연연구기관등의설립운영및육성에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_git_path": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -394,7 +424,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:정부출연연구기관등의설립운영및육성에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json"
+            "target_git_path_guess": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_git_path": "정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률/법률/정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -413,7 +445,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:통계법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -432,7 +466,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0003",
             "reference_id": "law:통계법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "통계법/법률/통계법.json"
+            "target_git_path_guess": "통계법/법률/통계법.json",
+            "target_git_path": "통계법/법률/통계법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -466,7 +502,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -485,7 +523,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -504,7 +544,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -528,7 +570,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식1_화재안전조사 연기신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -552,7 +597,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식2_화재안전조사 연기신청 결과 통지서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -586,7 +634,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0005",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -605,7 +655,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0005",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -629,7 +681,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식3_화재안전조사 조치명령서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -653,7 +708,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식4_화재안전조사 조치명령 대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -672,7 +730,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0005",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -691,7 +751,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0005",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -715,7 +777,10 @@
             "target_unit": "FORM0005",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식5_화재안전조사 조치명령 손실확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -749,7 +814,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -768,7 +835,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -792,7 +861,10 @@
             "target_unit": "FORM0006",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식6_손실보상 청구서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +883,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -830,7 +904,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -849,7 +925,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -868,7 +946,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -887,7 +967,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -906,7 +988,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0006",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -930,7 +1014,10 @@
             "target_unit": "FORM0007",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식7_손실보상 합의서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -965,7 +1052,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -984,7 +1073,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1003,7 +1094,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1022,7 +1115,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1041,7 +1136,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1060,7 +1157,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1079,7 +1178,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:국민건강증진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1098,7 +1199,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:국민건강증진법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1117,7 +1220,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:국민건강증진법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json"
+            "target_git_path_guess": "국민건강증진법/법률/국민건강증진법.json",
+            "target_git_path": "국민건강증진법/법률/국민건강증진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1136,7 +1241,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:산업안전보건기준에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1155,7 +1262,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0241_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1174,7 +1283,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:산업안전보건기준에관한규칙#JO0241_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json"
+            "target_git_path_guess": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_git_path": "산업안전보건기준에 관한 규칙/법률/산업안전보건기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1198,7 +1309,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식8_화재예방 안전조치 협의 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1222,7 +1336,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식9_화재예방 안전조치 협의 결과 통보서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1241,7 +1358,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1260,7 +1379,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1279,7 +1400,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0007",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1303,7 +1426,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식10_화재예방 조치명령서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1337,7 +1463,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1356,7 +1484,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1375,7 +1505,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1399,7 +1531,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식11_화재예방강화지구 관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1433,7 +1568,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0009",
             "reference_id": "law:기상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1452,7 +1589,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0009",
             "reference_id": "law:기상법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/법률/기상법.json"
+            "target_git_path_guess": "기상법/법률/기상법.json",
+            "target_git_path": "기상법/법률/기상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1471,7 +1610,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0009",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1490,7 +1631,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0009",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1524,7 +1667,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1543,7 +1688,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1562,7 +1709,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1581,7 +1730,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1600,7 +1751,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1619,7 +1772,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1638,7 +1793,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0010",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1662,7 +1819,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식12_소방안전관리자 업무 수행 기록표.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1686,7 +1846,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식12_소방안전관리자 업무 수행 기록표.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1720,7 +1883,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1739,7 +1904,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1758,7 +1925,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1777,7 +1946,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1796,7 +1967,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1815,7 +1988,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1834,7 +2009,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1853,7 +2030,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1872,7 +2051,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1891,7 +2072,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0011",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1915,7 +2098,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식13_자위소방대 및 초기대응체계 교육ㆍ훈련 실시 결과 기록부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1949,7 +2135,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0012",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1968,7 +2156,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0012",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1992,7 +2182,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표1_소방안전관리업무 대행인력의 배치기준ㆍ자격 및 방법 등 준수사항(제12조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2033,7 +2226,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "admrul:엔지니어링사업대가의기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json"
+            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_git_path": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "citation",
@@ -2052,7 +2247,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2071,7 +2268,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2090,7 +2289,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2109,7 +2310,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "law:엔지니어링산업진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json"
+            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2128,7 +2331,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "law:엔지니어링산업진흥법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json"
+            "target_git_path_guess": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_git_path": "엔지니어링산업 진흥법/법률/엔지니어링산업 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2147,7 +2352,11 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0013",
             "reference_id": "admrul:엔지니어링사업대가의기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json"
+            "target_git_path_guess": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_git_path": "엔지니어링사업대가의 기준/엔지니어링사업대가의 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "타법개정",
@@ -2181,7 +2390,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2200,7 +2411,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2219,7 +2432,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2238,7 +2453,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:건축법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2257,7 +2474,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:건축법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2276,7 +2495,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:건축법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "건축법/법률/건축법.json"
+            "target_git_path_guess": "건축법/법률/건축법.json",
+            "target_git_path": "건축법/법률/건축법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2295,7 +2516,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2314,7 +2537,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2333,7 +2558,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2352,7 +2579,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
+            "target_git_path": "민사집행법/법률/민사집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2371,7 +2600,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2390,7 +2621,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2409,7 +2642,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2428,7 +2663,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:지방세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방세기본법/법률/지방세기본법.json"
+            "target_git_path_guess": "지방세기본법/법률/지방세기본법.json",
+            "target_git_path": "지방세기본법/법률/지방세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2447,7 +2684,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2466,7 +2705,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2485,7 +2726,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2504,7 +2747,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2523,7 +2768,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2542,7 +2789,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2561,7 +2810,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2580,7 +2831,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2604,7 +2857,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행령/별표/별표4_소방안전관리자를 선임해야 하는 소방안전관리대상물의 범위와 소방안전관리자의 선임 대상별 자격 및 인원기준(제25조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2623,7 +2879,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2642,7 +2900,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2666,7 +2926,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식14_소방안전관리자ㆍ소방안전관리보조자 선임 연기 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2685,7 +2948,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2704,7 +2969,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2723,7 +2990,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2742,7 +3011,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2761,7 +3032,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2780,7 +3053,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2799,7 +3074,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2818,7 +3095,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2837,7 +3116,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2856,7 +3137,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2875,7 +3158,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2894,7 +3179,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2913,7 +3200,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2932,7 +3221,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2951,7 +3242,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2970,7 +3263,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2989,7 +3284,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3008,7 +3305,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3032,7 +3331,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식15_소방안전관리자 선임신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3051,7 +3353,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3070,7 +3374,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3089,7 +3395,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3108,7 +3416,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3127,7 +3437,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3146,7 +3458,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3165,7 +3479,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3184,7 +3500,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3203,7 +3521,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3222,7 +3542,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3241,7 +3563,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3260,7 +3584,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3279,7 +3605,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0014",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3303,7 +3631,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식16_소방안전관리자 등 선임증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3327,7 +3658,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식17_소방안전관리자 등 선임 이력 확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3361,7 +3695,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0015",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3380,7 +3716,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0015",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3399,7 +3737,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0015",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3423,7 +3763,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표2_소방안전관리자 현황표(제15조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3457,7 +3800,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3476,7 +3821,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3495,7 +3842,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3514,7 +3863,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
+            "target_git_path": "민사집행법/법률/민사집행법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3533,7 +3884,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3552,7 +3905,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
+            "target_git_path": "국세징수법/법률/국세징수법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3571,7 +3926,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3590,7 +3947,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:지방세기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방세기본법/법률/지방세기본법.json"
+            "target_git_path_guess": "지방세기본법/법률/지방세기본법.json",
+            "target_git_path": "지방세기본법/법률/지방세기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3609,7 +3968,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3628,7 +3989,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3647,7 +4010,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3666,7 +4031,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3690,7 +4057,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식14_소방안전관리자ㆍ소방안전관리보조자 선임 연기 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3709,7 +4079,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3728,7 +4100,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3747,7 +4121,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3766,7 +4142,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3785,7 +4163,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3804,7 +4184,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3828,7 +4210,10 @@
             "target_unit": "FORM0018",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식18_소방안전관리보조자 선임신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3847,7 +4232,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3871,7 +4258,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행령/별표/별표4_소방안전관리자를 선임해야 하는 소방안전관리대상물의 범위와 소방안전관리자의 선임 대상별 자격 및 인원기준(제25조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3890,7 +4280,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3909,7 +4301,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3928,7 +4322,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3947,7 +4343,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3966,7 +4364,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3985,7 +4385,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0016",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4009,7 +4411,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식16_소방안전관리자 등 선임증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4033,7 +4438,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식17_소방안전관리자 등 선임 이력 확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4067,7 +4475,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0017",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4086,7 +4496,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0017",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4105,7 +4517,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0017",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4129,7 +4543,10 @@
             "target_unit": "FORM0019",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식19_건설현장 소방안전관리자 선임신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4148,7 +4565,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0017",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4172,7 +4591,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식16_소방안전관리자 등 선임증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4196,7 +4618,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식17_소방안전관리자 등 선임 이력 확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4230,7 +4655,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4249,7 +4676,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4268,7 +4697,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4292,7 +4723,10 @@
             "target_unit": "FORM0020",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식20_소방안전관리자 자격증 발급(재발급) 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4311,7 +4745,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4330,7 +4766,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4349,7 +4787,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4368,7 +4808,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4387,7 +4829,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4406,7 +4850,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4425,7 +4871,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4444,7 +4892,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4463,7 +4913,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0018",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4487,7 +4939,10 @@
             "target_unit": "FORM0021",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식21_소방안전관리자 자격증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4511,7 +4966,10 @@
             "target_unit": "FORM0022",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식22_소방안전관리자 자격증 (재)발급대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4535,7 +4993,10 @@
             "target_unit": "FORM0020",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식20_소방안전관리자 자격증 발급(재발급) 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4559,7 +5020,10 @@
             "target_unit": "FORM0022",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식22_소방안전관리자 자격증 (재)발급대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4583,7 +5047,10 @@
             "target_unit": "FORM0022",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식22_소방안전관리자 자격증 (재)발급대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4617,7 +5084,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0019",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4636,7 +5105,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0019",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4655,7 +5126,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0019",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4679,7 +5152,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표3_소방안전관리자 자격의 정지 및 취소 기준(제19조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4713,7 +5189,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0020",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4732,7 +5210,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0020",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4751,7 +5231,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0020",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4770,7 +5252,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0020",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4794,7 +5278,10 @@
             "target_unit": "FORM0023",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식23_소방안전관리자 시험응시원서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4842,7 +5329,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0022",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4861,7 +5350,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0022",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4900,7 +5391,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표4_소방안전관리자 자격시험 과목 및 시험방법(제23조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4919,7 +5413,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0023",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4938,7 +5434,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0023",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4957,7 +5455,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0023",
             "reference_id": "law:고등교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5005,7 +5505,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5024,7 +5526,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5043,7 +5547,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5062,7 +5568,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0025",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5086,7 +5594,10 @@
             "target_unit": "FORM0024",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식24_수료증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5110,7 +5621,10 @@
             "target_unit": "FORM0025",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식25_강습교육수료자 명부대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5149,7 +5663,10 @@
             "target_unit": "FORM0026",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식26_강습교육 수강신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5168,7 +5685,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0026",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5187,7 +5706,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0026",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5206,7 +5727,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0026",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5259,7 +5782,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표5_강습교육 과목, 시간 및 운영방법(제28조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5293,7 +5819,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0029",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5312,7 +5840,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0029",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5331,7 +5861,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0029",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5350,7 +5882,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0029",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5403,7 +5937,10 @@
             "target_unit": "BYL0006",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표6_소방안전관리자 및 소방안전관리보조자에 대한 실무교육의 과목, 시간 및 운영방법(제31조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5442,7 +5979,10 @@
             "target_unit": "FORM0027",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식27_실무교육 수료자명부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2025.6.26]",
@@ -5477,7 +6017,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0033",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5496,7 +6038,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0033",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5515,7 +6059,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0033",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5534,7 +6080,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0033",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5568,7 +6116,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0034",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5587,7 +6137,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0034",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5606,7 +6158,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0034",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5640,7 +6194,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0035",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5659,7 +6215,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0035",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5678,7 +6236,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0035",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5712,7 +6272,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5731,7 +6293,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5750,7 +6314,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5774,7 +6340,10 @@
             "target_unit": "FORM0028",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식28_소방훈련ㆍ교육 실시 결과 기록부.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5808,7 +6377,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0037",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5827,7 +6398,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0037",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5846,7 +6419,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0037",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -5865,7 +6440,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0037",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5889,7 +6466,10 @@
             "target_unit": "FORM0029",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식29_소방훈련ㆍ교육 실시 결과서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5923,7 +6503,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0038",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5942,7 +6524,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0038",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5961,7 +6545,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0038",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5985,7 +6571,10 @@
             "target_unit": "FORM0030",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식30_불시 소방훈련ㆍ교육 계획서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6019,7 +6608,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0039",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6038,7 +6629,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0039",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6057,7 +6650,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0039",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6081,7 +6676,10 @@
             "target_unit": "FORM0031",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식31_불시 소방훈련ㆍ교육 평가 결과서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6115,7 +6713,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6134,7 +6734,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6153,7 +6755,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6172,7 +6776,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6191,7 +6797,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6210,7 +6818,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6229,7 +6839,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6248,7 +6860,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0040",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6272,7 +6886,10 @@
             "target_unit": "FORM0032",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식32_특정소방대상물 관계인 소방안전교육 계획서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6306,7 +6923,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0041",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6325,7 +6944,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0041",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6344,7 +6965,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0041",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6368,7 +6991,10 @@
             "target_unit": "FORM0033",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식33_화재예방안전진단 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -6387,7 +7013,11 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0041",
             "reference_id": "admrul:소방안전특별관리시설물의화재예방안전진단세부절차및평가방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json"
+            "target_git_path_guess": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json",
+            "target_git_path": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6408,7 +7038,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0041",
             "reference_id": "admrul:소방안전특별관리시설물의화재예방안전진단세부절차및평가방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json"
+            "target_git_path_guess": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json",
+            "target_git_path": "소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정/소방안전 특별관리시설물의 화재예방안전진단 세부절차 및 평가방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -6442,7 +7074,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6461,7 +7095,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6480,7 +7116,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6504,7 +7142,10 @@
             "target_unit": "FORM0034",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식34_화재예방안전진단 결과 보고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6523,7 +7164,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6542,7 +7185,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6561,7 +7206,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0042",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6600,7 +7247,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행령/별표/별표8_화재예방안전진단기관의 시설, 전문인력 등 지정기준(제46조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6624,7 +7274,10 @@
             "target_unit": "BYL0007",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표7_화재예방안전진단기관의 장비기준(제43조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6658,7 +7311,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6677,7 +7332,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6696,7 +7353,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6720,7 +7379,10 @@
             "target_unit": "FORM0035",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식35_화재예방안전진단기관 지정신청서, 전문 기술인력 현황.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6739,7 +7401,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6758,7 +7422,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6777,7 +7443,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6811,7 +7479,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0045",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -6830,7 +7500,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0045",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6854,7 +7526,10 @@
             "target_unit": "FORM0036",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식36_화재예방안전진단기관 지정서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6878,7 +7553,10 @@
             "target_unit": "FORM0037",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식37_화재예방안전진단기관 관리대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6912,7 +7590,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0046",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6931,7 +7611,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0046",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -6950,7 +7632,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0046",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -6974,7 +7658,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표8_화재예방안전진단기관의 지정취소 및 업무정지의 처분기준(제46조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -7008,7 +7695,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0047",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7027,7 +7716,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0047",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7046,7 +7737,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0047",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -7080,7 +7773,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7099,7 +7794,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7118,7 +7815,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0045",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7137,7 +7836,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7156,7 +7857,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7175,7 +7878,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0048",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -7199,7 +7904,10 @@
             "target_unit": "FORM0038",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식38_조치명령등의 기간연장 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -7223,7 +7931,10 @@
             "target_unit": "FORM0039",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#FORM0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/서식/서식39_조치명령등의 기간연장 신청 결과 통지서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -7257,7 +7968,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0049",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7276,7 +7989,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0049",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -7300,7 +8015,10 @@
             "target_unit": "BYL0009",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표9_수수료 및 교육비(제49조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -7324,7 +8042,10 @@
             "target_unit": "BYL0009",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표9_수수료 및 교육비(제49조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -7363,7 +8084,10 @@
             "target_unit": "BYL0008",
             "reference_id": "law:화재의예방및안전관리에관한법률시행령#BYL0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행령/화재의 예방 및 안전관리에 관한 법률 시행령.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행령/별표/별표8_화재예방안전진단기관의 시설, 전문인력 등 지정기준(제46조 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7382,7 +8106,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0050",
             "reference_id": "law:화재의예방및안전관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7401,7 +8127,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0050",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7420,7 +8148,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0050",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -7439,7 +8169,9 @@
             "source_provision_id": "law:화재의예방및안전관리에관한법률시행규칙#JO0050",
             "reference_id": "law:화재의예방및안전관리에관한법률#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/법률/화재의 예방 및 안전관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -7463,7 +8195,10 @@
             "target_unit": "BYL0010",
             "reference_id": "law:화재의예방및안전관리에관한법률시행규칙#BYL0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+            "target_git_file_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/별표/별표10_한국소방안전원이 갖추어야 하는 시설기준(제50조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -9515,5 +10250,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json"
+  "git_path": "화재의 예방 및 안전관리에 관한 법률/시행규칙/화재의 예방 및 안전관리에 관한 법률 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

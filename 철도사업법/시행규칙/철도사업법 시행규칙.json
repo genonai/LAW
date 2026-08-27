@@ -76,7 +76,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0001",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0001",
             "reference_id": "law:철도사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -129,7 +133,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -148,7 +154,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +175,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -186,7 +196,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "law:철도의건설및철도시설유지관리에관한법률#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json"
+            "target_git_path_guess": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_git_path": "철도의 건설 및 철도시설 유지관리에 관한 법률/법률/철도의 건설 및 철도시설 유지관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -205,7 +217,11 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "admrul:사업용철도노선번호변경고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json"
+            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_git_path": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -226,7 +242,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002",
             "reference_id": "admrul:사업용철도노선번호변경고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json"
+            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_git_path": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -260,7 +278,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -279,7 +299,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -298,7 +320,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -317,7 +341,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -336,7 +362,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -355,7 +383,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -374,7 +404,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -393,7 +425,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "law:철도사업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -412,7 +446,11 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "admrul:사업용철도노선번호변경고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json"
+            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_git_path": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -433,7 +471,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_02",
             "reference_id": "admrul:사업용철도노선번호변경고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json"
+            "target_git_path_guess": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_git_path": "사업용철도 노선번호 변경고시/사업용철도 노선번호 변경고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2016.6.30]",
@@ -468,7 +508,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_03",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -487,7 +529,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0002_03",
             "reference_id": "law:철도사업법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2016.6.30]",
@@ -522,7 +566,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -541,7 +587,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -560,7 +608,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -584,7 +634,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:철도사업법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식1_철도사업면허신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -603,7 +656,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -622,7 +677,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -641,7 +698,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -660,7 +719,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -679,7 +740,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -698,7 +761,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -717,7 +782,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -736,7 +803,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -755,7 +824,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0003",
             "reference_id": "law:철도사업법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -779,7 +850,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:철도사업법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식2_철도사업면허증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -803,7 +877,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:철도사업법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식3_철도사업면허대장.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -837,7 +914,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0004",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -856,7 +935,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0004",
             "reference_id": "law:철도사업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -875,7 +956,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0004",
             "reference_id": "law:철도사업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -899,7 +982,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:철도사업법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표1_철도사업의 면허기준(제4조관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -933,7 +1019,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0005",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -952,7 +1040,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0005",
             "reference_id": "law:철도사업법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -976,7 +1066,10 @@
             "target_unit": "FORM0004",
             "reference_id": "law:철도사업법시행규칙#FORM0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식4_운송(시작일 연기, 시작기간 연장)승인신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2014.12.10]",
@@ -1011,7 +1104,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0006",
             "reference_id": "law:철도사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1030,7 +1125,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0006",
             "reference_id": "law:철도사업법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1049,7 +1146,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0006",
             "reference_id": "law:철도사업법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1073,7 +1172,10 @@
             "target_unit": "FORM0005",
             "reference_id": "law:철도사업법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식5_여객 운임ㆍ요금(신고서, 변경신고서).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2016.6.30]",
@@ -1108,7 +1210,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0007",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1127,7 +1231,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0007",
             "reference_id": "law:철도사업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1146,7 +1252,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0007",
             "reference_id": "law:철도사업법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1170,7 +1278,10 @@
             "target_unit": "FORM0006",
             "reference_id": "law:철도사업법시행규칙#FORM0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식6_철도사업약관(신고서, 변경신고서).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1204,7 +1315,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0008",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1223,7 +1336,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0008",
             "reference_id": "law:철도사업법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1242,7 +1357,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0008",
             "reference_id": "law:철도사업법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1266,7 +1383,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:철도사업법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식8_사업계획 변경인가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1285,7 +1405,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0008",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1304,7 +1426,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0008",
             "reference_id": "law:철도사업법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1338,7 +1462,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1357,7 +1483,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1376,7 +1504,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1400,7 +1530,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:철도사업법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식9_공동운수협정(인가, 변경인가)신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1419,7 +1552,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1438,7 +1573,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1457,7 +1594,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1476,7 +1615,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1495,7 +1636,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1514,7 +1657,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1533,7 +1678,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1552,7 +1699,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1571,7 +1720,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1590,7 +1741,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0009",
             "reference_id": "law:철도사업법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1614,7 +1767,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:철도사업법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식10_공동운수협정 변경신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1648,7 +1804,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1667,7 +1825,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1686,7 +1846,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1710,7 +1872,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:철도사업법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식11_철도사업 양도ㆍ양수인가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1729,7 +1894,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1748,7 +1915,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1767,7 +1936,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1786,7 +1957,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1805,7 +1978,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1824,7 +1999,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1843,7 +2020,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1862,7 +2041,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1886,7 +2067,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:철도사업법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식12_법인합병 인가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1905,7 +2089,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1924,7 +2110,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1943,7 +2131,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1962,7 +2152,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1981,7 +2173,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0010",
             "reference_id": "law:철도사업법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2015,7 +2209,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2034,7 +2230,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2053,7 +2251,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2077,7 +2277,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:철도사업법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식13_철도사업휴업(폐업)(허가신청서, 신고서).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2096,7 +2299,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2115,7 +2320,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2134,7 +2341,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0011",
             "reference_id": "law:철도사업법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2158,7 +2367,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:철도사업법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식13_철도사업휴업(폐업)(허가신청서, 신고서).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.10]",
@@ -2193,7 +2405,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0012",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2212,7 +2426,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0012",
             "reference_id": "law:철도사업법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2231,7 +2447,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0012",
             "reference_id": "law:철도사업법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2255,7 +2473,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:철도사업법시행규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표2_행정처분의 기준(제12조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2016.6.30]",
@@ -2290,7 +2511,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0013",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2309,7 +2532,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0013",
             "reference_id": "law:철도사업법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2328,7 +2553,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0013",
             "reference_id": "law:철도사업법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2362,7 +2589,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0014",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2381,7 +2610,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0014",
             "reference_id": "law:철도사업법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2400,7 +2631,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0014",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2419,7 +2652,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0014",
             "reference_id": "law:철도사업법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2453,7 +2688,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0015",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2472,7 +2709,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0015",
             "reference_id": "law:철도사업법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2491,7 +2730,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0015",
             "reference_id": "law:철도사업법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2515,7 +2756,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:철도사업법시행규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표3_철도사업자의 준수사항(제15조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2549,7 +2793,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0016",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2568,7 +2814,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0016",
             "reference_id": "law:철도사업법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2587,7 +2835,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0016",
             "reference_id": "law:철도사업법#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2611,7 +2861,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:철도사업법시행규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표4_철도운수종사자의 준수사항(제16조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2645,7 +2898,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2664,7 +2919,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2683,7 +2940,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2702,7 +2961,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2721,7 +2982,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2740,7 +3003,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2759,7 +3024,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2778,7 +3045,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2797,7 +3066,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0017",
             "reference_id": "law:철도사업법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.10.19]",
@@ -2833,7 +3104,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2852,7 +3125,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2871,7 +3146,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2890,7 +3167,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.10.19]",
@@ -2926,7 +3205,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2945,7 +3226,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2964,7 +3247,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2983,7 +3268,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3002,7 +3289,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3021,7 +3310,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3040,7 +3331,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3059,7 +3352,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3078,7 +3373,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:사회기반시설에대한민간투자법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json"
+            "target_git_path_guess": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_git_path": "사회기반시설에 대한 민간투자법/법률/사회기반시설에 대한 민간투자법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3097,7 +3394,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3116,7 +3415,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3135,7 +3436,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0018_02",
             "reference_id": "law:철도사업법#JO0025_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.10.19]",
@@ -3171,7 +3474,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3190,7 +3495,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3209,7 +3516,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3228,7 +3537,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3247,7 +3558,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3266,7 +3579,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0019",
             "reference_id": "law:철도사업법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3300,7 +3615,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3319,7 +3636,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3338,7 +3657,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3362,7 +3683,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:철도사업법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식14_우수철도서비스 인증신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3381,7 +3705,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3400,7 +3726,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3419,7 +3747,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0020",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3443,7 +3773,10 @@
             "target_unit": "FORM0015",
             "reference_id": "law:철도사업법시행규칙#FORM0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식15_우수철도서비스 인증서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3477,7 +3810,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0021",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3496,7 +3831,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0021",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3515,7 +3852,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0021",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3549,7 +3888,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3568,7 +3909,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3587,7 +3930,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022",
             "reference_id": "law:철도사업법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3621,7 +3966,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3640,7 +3987,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022_02",
             "reference_id": "law:철도사업법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3659,7 +4008,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022_02",
             "reference_id": "law:철도사업법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3678,7 +4029,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022_02",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3697,7 +4050,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0022_02",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2016.6.30]",
@@ -3732,7 +4087,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3751,7 +4108,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3770,7 +4129,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3794,7 +4155,10 @@
             "target_unit": "FORM0016",
             "reference_id": "law:철도사업법시행규칙#FORM0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식16_전용철도 운영등록 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3813,7 +4177,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3832,7 +4198,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3851,7 +4219,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3870,7 +4240,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3889,7 +4261,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3908,7 +4282,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3932,7 +4308,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:철도사업법시행규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표1_철도사업의 면허기준(제4조관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3956,7 +4335,10 @@
             "target_unit": "FORM0017",
             "reference_id": "law:철도사업법시행규칙#FORM0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식17_전용철도운영등록증.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3975,7 +4357,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3994,7 +4378,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4013,7 +4399,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0023",
             "reference_id": "law:철도사업법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4037,7 +4425,10 @@
             "target_unit": "FORM0018",
             "reference_id": "law:철도사업법시행규칙#FORM0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식18_전용철도 운영등록 변경신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4071,7 +4462,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4090,7 +4483,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:철도사업법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4109,7 +4504,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:철도사업법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4133,7 +4530,10 @@
             "target_unit": "FORM0019",
             "reference_id": "law:철도사업법시행규칙#FORM0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식19_전용철도운영 양도ㆍ양수신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4152,7 +4552,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4171,7 +4573,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4190,7 +4594,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0024",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4224,7 +4630,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4243,7 +4651,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:철도사업법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4262,7 +4672,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:철도사업법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4286,7 +4698,10 @@
             "target_unit": "FORM0020",
             "reference_id": "law:철도사업법시행규칙#FORM0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식20_전용철도 운영법인 합병신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4305,7 +4720,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4324,7 +4741,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4343,7 +4762,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0025",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4377,7 +4798,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0026",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4396,7 +4819,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0026",
             "reference_id": "law:철도사업법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4415,7 +4840,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0026",
             "reference_id": "law:철도사업법#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4439,7 +4866,10 @@
             "target_unit": "FORM0021",
             "reference_id": "law:철도사업법시행규칙#FORM0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식21_전용철도 운영 상속신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4473,7 +4903,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0027",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4492,7 +4924,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0027",
             "reference_id": "law:철도사업법#JO0038",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4516,7 +4950,10 @@
             "target_unit": "FORM0022",
             "reference_id": "law:철도사업법시행규칙#FORM0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식22_전용철도운영(휴업, 폐업)신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.10]",
@@ -4551,7 +4988,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028",
             "reference_id": "law:철도사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4570,7 +5009,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028",
             "reference_id": "law:철도사업법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4594,7 +5035,10 @@
             "target_unit": "FORM0023",
             "reference_id": "law:철도사업법시행규칙#FORM0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식23_점용허가신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4628,7 +5072,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4647,7 +5093,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4666,7 +5114,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4685,7 +5135,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4704,7 +5156,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4723,7 +5177,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4742,7 +5198,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4761,7 +5219,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4780,7 +5240,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4799,7 +5261,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4818,7 +5282,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4837,7 +5303,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4856,7 +5324,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4875,7 +5345,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4894,7 +5366,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4913,7 +5387,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4932,7 +5408,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4951,7 +5429,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4970,7 +5450,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0042_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4994,7 +5476,10 @@
             "target_unit": "FORM0026",
             "reference_id": "law:철도사업법시행규칙#FORM0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식26_점용허가 취소 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5013,7 +5498,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5032,7 +5519,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5051,7 +5540,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5070,7 +5561,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5089,7 +5582,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5108,7 +5603,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5127,7 +5624,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5146,7 +5645,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_02",
             "reference_id": "law:철도사업법#JO0046",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.5.27][종전 제28조의2는 제28조의3으로 이동 <2020.5.27>]",
@@ -5181,7 +5682,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5200,7 +5703,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5219,7 +5724,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5238,7 +5745,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5257,7 +5766,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5276,7 +5787,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5295,7 +5808,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5314,7 +5829,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:철도사업법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5333,7 +5850,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:공공주택특별법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5352,7 +5871,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:공공주택특별법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5371,7 +5892,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0028_03",
             "reference_id": "law:공공주택특별법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json"
+            "target_git_path_guess": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_git_path": "공공주택 특별법/시행령/공공주택 특별법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.6.25][제28조의2에서 이동 <2020.5.27>]",
@@ -5406,7 +5929,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0029",
             "reference_id": "law:철도사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5425,7 +5950,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0029",
             "reference_id": "law:철도사업법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5444,7 +5971,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0029",
             "reference_id": "law:철도사업법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json"
+            "target_git_path_guess": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_git_path": "철도사업법/시행령/철도사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5468,7 +5997,10 @@
             "target_unit": "FORM0024",
             "reference_id": "law:철도사업법시행규칙#FORM0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식24_점용허가권리ㆍ의무이전인가신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -5502,7 +6034,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0030",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5521,7 +6055,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0030",
             "reference_id": "law:철도사업법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5540,7 +6076,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0030",
             "reference_id": "law:철도사업법#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5564,7 +6102,10 @@
             "target_unit": "FORM0025",
             "reference_id": "law:철도사업법시행규칙#FORM0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/서식/서식25_검사 공무원증.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -5598,7 +6139,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0031",
             "reference_id": "law:철도사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5617,7 +6160,9 @@
             "source_provision_id": "law:철도사업법시행규칙#JO0031",
             "reference_id": "law:철도사업법#JO0048",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/법률/철도사업법.json"
+            "target_git_path_guess": "철도사업법/법률/철도사업법.json",
+            "target_git_path": "철도사업법/법률/철도사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5641,7 +6186,10 @@
             "target_unit": "BYL0005",
             "reference_id": "law:철도사업법시행규칙#BYL0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+            "target_git_path_guess": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+            "target_git_file_path": "철도사업법/시행규칙/별표/별표5_수수료(제31조관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -7119,5 +7667,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json"
+  "git_path": "철도사업법/시행규칙/철도사업법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

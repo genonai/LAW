@@ -106,7 +106,9 @@
             "source_provision_id": "law:육군특수전사령부령#JO0003",
             "reference_id": "law:국군조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -125,7 +127,9 @@
             "source_provision_id": "law:육군특수전사령부령#JO0003",
             "reference_id": "law:국군조직법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -144,7 +148,9 @@
             "source_provision_id": "law:육군특수전사령부령#JO0003",
             "reference_id": "law:국군조직법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -244,5 +250,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "육군특수전사령부령/법률/육군특수전사령부령.json"
+  "git_path": "육군특수전사령부령/법률/육군특수전사령부령.json",
+  "_schlpub_id_suffix": "법률"
 }

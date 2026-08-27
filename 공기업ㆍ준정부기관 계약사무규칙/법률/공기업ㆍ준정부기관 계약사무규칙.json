@@ -76,7 +76,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0001",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -148,7 +154,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -167,7 +175,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -186,7 +196,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -205,7 +219,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(국립생태원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_git_path": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -224,7 +242,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(국토안전관리원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_git_path": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -243,7 +265,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(소상공인시장진흥공단)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json"
+            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_git_path": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -262,7 +288,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(신용보증기금)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json"
+            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_git_path": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -281,7 +311,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(예금보험공사)자산관리및계약세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json"
+            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_git_path": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -300,7 +334,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(우체국금융개발원)계약업무관리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json"
+            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_git_path": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -319,7 +357,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(제주국제자유도시개발센터)계약업무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json"
+            "target_git_path_guess": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json",
+            "target_git_path": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -338,7 +380,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(중소벤처기업진흥공단)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json"
+            "target_git_path_guess": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json",
+            "target_git_path": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -357,7 +403,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(축산물품질평가원)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json"
+            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_git_path": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -383,7 +433,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -409,7 +461,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국동서발전주식회사)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json"
+            "target_git_path_guess": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json",
+            "target_git_path": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -435,7 +489,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국사회보장정보원)계약사무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json"
+            "target_git_path_guess": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json",
+            "target_git_path": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -461,7 +517,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json",
+            "target_git_path": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -487,7 +545,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국산업단지공단)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json",
+            "target_git_path": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -513,7 +573,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json",
+            "target_git_path": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -539,7 +601,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국석유관리원)계약사무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json"
+            "target_git_path_guess": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json",
+            "target_git_path": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -565,7 +629,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국소비자원)계약사무처리요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json"
+            "target_git_path_guess": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json",
+            "target_git_path": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -591,7 +657,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국원자력환경공단)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json"
+            "target_git_path_guess": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json",
+            "target_git_path": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -617,7 +685,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국인터넷진흥원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json",
+            "target_git_path": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -643,7 +713,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -664,7 +736,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국전력거래소)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json"
+            "target_git_path_guess": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json",
+            "target_git_path": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -690,7 +764,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국토지주택공사)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json",
+            "target_git_path": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -711,7 +787,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:강원랜드계약업무지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원랜드 계약업무지침/강원랜드 계약업무지침.json"
+            "target_git_path_guess": "강원랜드 계약업무지침/강원랜드 계약업무지침.json",
+            "target_git_path": "강원랜드 계약업무지침/강원랜드 계약업무지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -777,7 +855,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:한국가스안전공사계약관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json"
+            "target_git_path_guess": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json",
+            "target_git_path": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -803,7 +883,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:한국서부발전(주)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json"
+            "target_git_path_guess": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json",
+            "target_git_path": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -829,7 +911,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국남부발전(주))계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json"
+            "target_git_path_guess": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json",
+            "target_git_path": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -855,7 +939,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국남동발전주식회사)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json"
+            "target_git_path_guess": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json",
+            "target_git_path": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -881,7 +967,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국교통안전공단)계약사무처리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json"
+            "target_git_path_guess": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json",
+            "target_git_path": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -907,7 +995,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -933,7 +1023,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(국립생태원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_git_path": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -959,7 +1051,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(국토안전관리원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_git_path": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -985,7 +1079,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(소상공인시장진흥공단)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json"
+            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_git_path": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1011,7 +1107,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(신용보증기금)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json"
+            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_git_path": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1037,7 +1135,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(예금보험공사)자산관리및계약세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json"
+            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_git_path": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1063,7 +1163,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(우체국금융개발원)계약업무관리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json"
+            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_git_path": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1129,7 +1231,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(축산물품질평가원)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json"
+            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_git_path": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1155,7 +1259,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국가스기술공사)계약업무관리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json"
+            "target_git_path_guess": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json",
+            "target_git_path": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1181,7 +1287,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국가스안전공사)계약관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json"
+            "target_git_path_guess": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json",
+            "target_git_path": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1202,7 +1310,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국고용정보원)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json"
+            "target_git_path_guess": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json",
+            "target_git_path": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1228,7 +1338,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "reference_id": "SchlPubRul:(한국광해광업공단)계약사무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json",
+            "target_git_path": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -1262,7 +1374,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1281,7 +1395,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1300,7 +1416,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1319,7 +1437,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0003",
             "reference_id": "law:공공기관의운영에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1358,7 +1478,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표1_국제입찰의 방법으로 조달계약을 해야 하는 공기업·준정부기관(제4조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1382,7 +1505,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표2_국제입찰의 방법으로 조달계약을 해야 하는 물품·용역 및 공사(제4조제1항관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1401,7 +1527,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1420,7 +1548,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:양곡관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
+            "target_git_path": "양곡관리법/법률/양곡관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1439,7 +1569,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:농수산물유통및가격안정에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물유통 및 가격안정에 관한 법률/법률/농수산물유통 및 가격안정에 관한 법률.json"
+            "target_git_path_guess": "농수산물유통 및 가격안정에 관한 법률/법률/농수산물유통 및 가격안정에 관한 법률.json",
+            "target_git_path": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1458,7 +1590,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:축산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "축산법/법률/축산법.json"
+            "target_git_path_guess": "축산법/법률/축산법.json",
+            "target_git_path": "축산법/법률/축산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1477,7 +1611,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:한국전력공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국전력공사법/법률/한국전력공사법.json"
+            "target_git_path_guess": "한국전력공사법/법률/한국전력공사법.json",
+            "target_git_path": "한국전력공사법/법률/한국전력공사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1496,7 +1632,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json"
+            "target_git_path_guess": "관세법/법률/관세법.json",
+            "target_git_path": "관세법/법률/관세법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1515,7 +1653,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:특정조달을위한국가를당사자로하는계약에관한법률시행령특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json"
+            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_git_path": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1534,7 +1674,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:특정조달을위한국가를당사자로하는계약에관한법률시행특례규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙.json"
+            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙.json",
+            "target_git_path": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행 특례규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1553,7 +1695,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1572,7 +1716,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "reference_id": "admrul:국가를당사자로하는계약에관한법률등의재정경제부장관이정하는고시금액#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1640,7 +1788,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1659,7 +1809,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1678,7 +1830,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1697,7 +1851,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1716,7 +1872,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1735,7 +1893,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1754,7 +1914,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행규칙/국가를 당사자로 하는 계약에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1773,7 +1935,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1792,7 +1956,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1811,7 +1977,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1830,7 +1998,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:자본시장과금융투자업에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json"
+            "target_git_path_guess": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_git_path": "자본시장과 금융투자업에 관한 법률/법률/자본시장과 금융투자업에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1849,7 +2019,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설촉진법/법률/해외건설촉진법.json"
+            "target_git_path_guess": "해외건설촉진법/법률/해외건설촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1868,7 +2040,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json"
+            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1887,7 +2061,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json"
+            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1906,7 +2082,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json"
+            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1925,7 +2103,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json"
+            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1944,7 +2124,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:해외건설촉진법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json"
+            "target_git_path_guess": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_git_path": "해외건설 촉진법/법률/해외건설 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1963,7 +2145,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1982,7 +2166,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2001,7 +2187,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2020,7 +2208,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2039,7 +2229,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2058,7 +2250,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2077,7 +2271,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2096,7 +2292,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2115,7 +2313,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0072",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2134,7 +2334,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "reference_id": "admrul:국가를당사자로하는계약에관한법률등의재정경제부장관이정하는고시금액#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2189,7 +2393,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_02",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2208,7 +2414,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_02",
             "reference_id": "law:국유재산법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2227,7 +2435,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_02",
             "reference_id": "law:국유재산법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2010.9.30]",
@@ -2262,7 +2472,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_03",
             "reference_id": "law:감정평가및감정평가사에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json"
+            "target_git_path_guess": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_git_path": "감정평가 및 감정평가사에 관한 법률/법률/감정평가 및 감정평가사에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.8.26]",
@@ -2297,7 +2509,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_04",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2316,7 +2530,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0006_04",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2018.7.5]",
@@ -2351,7 +2567,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2370,7 +2588,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2389,7 +2609,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2408,7 +2630,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2427,7 +2651,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2446,7 +2672,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0314",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2465,7 +2693,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0315",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2484,7 +2714,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0347",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2503,7 +2735,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0347_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2522,7 +2756,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0355",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2541,7 +2777,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0356",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2560,7 +2798,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0357",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2579,7 +2819,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007",
             "reference_id": "law:형법#JO0359",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -2613,7 +2855,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2632,7 +2876,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2651,7 +2897,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:공공기관의운영에관한법률#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2670,7 +2918,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2689,7 +2939,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2708,7 +2960,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2727,7 +2981,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "admrul:공공기관구매위탁예외에관한처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json"
+            "target_git_path_guess": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json",
+            "target_git_path": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2753,7 +3011,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0007_02",
             "reference_id": "admrul:공공기관구매위탁예외에관한처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json"
+            "target_git_path_guess": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json",
+            "target_git_path": "공공기관 구매위탁 예외에 관한 처리지침/공공기관 구매위탁 예외에 관한 처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2010.3.30]",
@@ -2788,7 +3048,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2807,7 +3069,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2826,7 +3090,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2845,7 +3111,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:기간제및단시간근로자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json"
+            "target_git_path_guess": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_git_path": "기간제 및 단시간근로자 보호 등에 관한 법률/법률/기간제 및 단시간근로자 보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2864,7 +3132,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2883,7 +3153,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2902,7 +3174,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2921,7 +3195,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2940,7 +3216,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:대중소기업상생협력촉진에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json"
+            "target_git_path_guess": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_git_path": "대ㆍ중소기업 상생협력 촉진에 관한 법률/법률/대ㆍ중소기업 상생협력 촉진에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2959,7 +3237,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2978,7 +3258,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2997,7 +3279,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3016,7 +3300,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3035,7 +3321,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3054,7 +3342,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3073,7 +3363,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3092,7 +3384,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3111,7 +3405,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3130,7 +3426,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3149,7 +3447,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:기업활동규제완화에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3168,7 +3468,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:기업활동규제완화에관한특별조치법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json"
+            "target_git_path_guess": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_git_path": "기업활동 규제완화에 관한 특별조치법/법률/기업활동 규제완화에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3187,7 +3489,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3206,7 +3510,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:특정조달을위한국가를당사자로하는계약에관한법률시행령특례규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json"
+            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_git_path": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3225,7 +3531,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:특정조달을위한국가를당사자로하는계약에관한법률시행령특례규정#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json"
+            "target_git_path_guess": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_git_path": "특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정/법률/특정조달을 위한 국가를 당사자로 하는 계약에 관한 법률 시행령 특례규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3244,7 +3552,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:상법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3263,7 +3573,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:상법#JO0401_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3282,7 +3594,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:상법#JO0401_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "상법/법률/상법.json"
+            "target_git_path_guess": "상법/법률/상법.json",
+            "target_git_path": "상법/법률/상법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3301,7 +3615,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3320,7 +3636,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3339,7 +3657,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3358,7 +3678,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3377,7 +3699,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3396,7 +3720,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "admrul:공공기관이자회사등과수의계약을할수있는고용기준에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json"
+            "target_git_path_guess": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json",
+            "target_git_path": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3415,7 +3743,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "admrul:공공기관의개발선정품지정및운영에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json"
+            "target_git_path_guess": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json",
+            "target_git_path": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3434,7 +3766,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "admrul:국가를당사자로하는계약에관한법률등의재정경제부장관이정하는고시금액#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액/국가를 당사자로 하는 계약에 관한 법률 등의 재정경제부장관이 정하는 고시금액.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3460,7 +3796,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "admrul:공공기관이자회사등과수의계약을할수있는고용기준에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json"
+            "target_git_path_guess": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json",
+            "target_git_path": "공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시/공공기관이 자회사 등과 수의계약을 할 수 있는 고용 기준에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3486,7 +3824,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "reference_id": "admrul:공공기관의개발선정품지정및운영에관한기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json"
+            "target_git_path_guess": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json",
+            "target_git_path": "공공기관의 개발선정품 지정 및 운영에 관한 기준/공공기관의 개발선정품 지정 및 운영에 관한 기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3542,7 +3882,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3561,7 +3903,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3580,7 +3924,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3599,7 +3945,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3618,7 +3966,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3637,7 +3987,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3656,7 +4008,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3675,7 +4029,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0008_02",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.8.23]",
@@ -3710,7 +4066,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0009",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3729,7 +4087,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0009",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3748,7 +4108,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0009",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -3782,7 +4144,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3801,7 +4165,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3820,7 +4186,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3839,7 +4207,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3858,7 +4228,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3877,7 +4249,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0010",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2024.9.27]",
@@ -3933,7 +4307,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0012",
             "reference_id": "admrul:(계약예규)적격심사기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json"
+            "target_git_path_guess": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json",
+            "target_git_path": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "citation",
@@ -3952,7 +4328,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0012",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3971,7 +4349,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0012",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3990,7 +4370,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0012",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4009,7 +4391,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0012",
             "reference_id": "admrul:(계약예규)적격심사기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json"
+            "target_git_path_guess": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json",
+            "target_git_path": "(계약예규) 적격심사기준/(계약예규) 적격심사기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "일부개정",
@@ -4071,7 +4457,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4090,7 +4478,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4109,7 +4499,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4128,7 +4520,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4147,7 +4541,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4166,7 +4562,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4185,7 +4583,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4204,7 +4604,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4223,7 +4625,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4242,7 +4646,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4261,7 +4667,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4280,7 +4688,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0076_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4299,7 +4709,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4318,7 +4730,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4337,7 +4751,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4356,7 +4772,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4380,7 +4798,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표3_부정당업자의 책임이 경미한 경우의 입찰참가자격 제한을 갈음하는 납부금액(제15조제3항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4399,7 +4820,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4418,7 +4841,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4437,7 +4862,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4456,7 +4883,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4475,7 +4904,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4494,7 +4925,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4513,7 +4946,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4532,7 +4967,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4556,7 +4993,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표4_입찰참가자격 제한으로 유효한 경쟁입찰이 명백히 성립되지 않는 경우의 입찰참가자격 제한을 갈음하는 납부금액(제15조제5항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4575,7 +5015,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4594,7 +5036,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4613,7 +5057,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "reference_id": "law:공공기관의운영에관한법률#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4637,7 +5083,10 @@
             "target_unit": "BYL0003",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표3_부정당업자의 책임이 경미한 경우의 입찰참가자격 제한을 갈음하는 납부금액(제15조제3항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4661,7 +5110,10 @@
             "target_unit": "BYL0004",
             "reference_id": "law:공기업준정부기관계약사무규칙#BYL0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_file_path": "공기업ㆍ준정부기관 계약사무규칙/법률/별표/별표4_입찰참가자격 제한으로 유효한 경쟁입찰이 명백히 성립되지 않는 경우의 입찰참가자격 제한을 갈음하는 납부금액(제15조제5항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2016.9.12][제목개정 2024.9.27]",
@@ -4696,7 +5148,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0016",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -4730,7 +5184,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4749,7 +5205,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4768,7 +5226,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:국가를당사자로하는계약에관한법률시행령#JO0110",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/시행령/국가를 당사자로 하는 계약에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4787,7 +5247,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:공기업준정부기관회계사무규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4806,7 +5268,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:공기업준정부기관회계사무규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 회계사무규칙/법률/공기업ㆍ준정부기관 회계사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4825,7 +5289,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:국가를당사자로하는계약에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4844,7 +5310,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "reference_id": "law:국가를당사자로하는계약에관한법률#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json"
+            "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_git_path": "국가를 당사자로 하는 계약에 관한 법률/법률/국가를 당사자로 하는 계약에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2018.7.5]",
@@ -4880,7 +5348,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0018",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4899,7 +5369,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0018",
             "reference_id": "law:공기업준정부기관계약사무규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+            "target_git_path_guess": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2013.11.18]",
@@ -4934,7 +5406,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -4953,7 +5429,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(국립생태원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_git_path": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -4972,7 +5452,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(국토안전관리원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_git_path": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -4991,7 +5475,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(소상공인시장진흥공단)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json"
+            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_git_path": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5010,7 +5498,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(신용보증기금)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json"
+            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_git_path": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5029,7 +5521,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(예금보험공사)자산관리및계약세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json"
+            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_git_path": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5048,7 +5544,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(우체국금융개발원)계약업무관리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json"
+            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_git_path": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5067,7 +5567,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(제주국제자유도시개발센터)계약업무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json"
+            "target_git_path_guess": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json",
+            "target_git_path": "(제주국제자유도시개발센터) 계약업무규정/(제주국제자유도시개발센터) 계약업무규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5086,7 +5590,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(중소벤처기업진흥공단)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json"
+            "target_git_path_guess": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json",
+            "target_git_path": "(중소벤처기업진흥공단) 계약사무처리 규칙/(중소벤처기업진흥공단) 계약사무처리 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5105,7 +5613,11 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(축산물품질평가원)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json"
+            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_git_path": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5131,7 +5643,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국산림복지진흥원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json",
+            "target_git_path": "(한국산림복지진흥원) 계약사무 시행세칙/(한국산림복지진흥원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5157,7 +5671,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국산업단지공단)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json"
+            "target_git_path_guess": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json",
+            "target_git_path": "(한국산업단지공단) 계약규정/(한국산업단지공단) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5183,7 +5699,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국산업안전보건공단)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json"
+            "target_git_path_guess": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json",
+            "target_git_path": "(한국산업안전보건공단) 계약사무규칙/(한국산업안전보건공단) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5209,7 +5727,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국석유관리원)계약사무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json"
+            "target_git_path_guess": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json",
+            "target_git_path": "(한국석유관리원) 계약사무규정/(한국석유관리원) 계약사무규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5235,7 +5755,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국소비자원)계약사무처리요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json"
+            "target_git_path_guess": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json",
+            "target_git_path": "(한국소비자원) 계약사무처리요령/(한국소비자원) 계약사무처리요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5261,7 +5783,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국원자력환경공단)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json"
+            "target_git_path_guess": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json",
+            "target_git_path": "(한국원자력환경공단) 계약규정/(한국원자력환경공단) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5287,7 +5811,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국인터넷진흥원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json",
+            "target_git_path": "(한국인터넷진흥원) 계약사무처리규칙/(한국인터넷진흥원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5313,7 +5839,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국자산관리공사)계약사무세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json"
+            "target_git_path_guess": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_git_path": "(한국자산관리공사) 계약사무세칙/(한국자산관리공사) 계약사무세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5339,7 +5867,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:한국서부발전(주)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json"
+            "target_git_path_guess": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json",
+            "target_git_path": "한국서부발전(주) 계약규정/한국서부발전(주) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5365,7 +5895,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:한국가스안전공사계약관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json"
+            "target_git_path_guess": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json",
+            "target_git_path": "한국가스안전공사 계약관리규정/한국가스안전공사 계약관리규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5426,7 +5958,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:강원랜드계약업무지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원랜드 계약업무지침/강원랜드 계약업무지침.json"
+            "target_git_path_guess": "강원랜드 계약업무지침/강원랜드 계약업무지침.json",
+            "target_git_path": "강원랜드 계약업무지침/강원랜드 계약업무지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5452,7 +5986,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국토지주택공사)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json",
+            "target_git_path": "(한국토지주택공사) 계약사무 시행세칙/(한국토지주택공사) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5478,7 +6014,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국사회보장정보원)계약사무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json"
+            "target_git_path_guess": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json",
+            "target_git_path": "(한국사회보장정보원) 계약사무 처리지침/(한국사회보장정보원) 계약사무 처리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5504,7 +6042,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국동서발전주식회사)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json"
+            "target_git_path_guess": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json",
+            "target_git_path": "(한국동서발전 주식회사) 계약규정/(한국동서발전 주식회사) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5530,7 +6070,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국도로공사)계약업무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json"
+            "target_git_path_guess": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_git_path": "(한국도로공사) 계약업무시행세칙/(한국도로공사) 계약업무시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5556,7 +6098,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(공무원연금공단)계약업무처리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json"
+            "target_git_path_guess": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_git_path": "(공무원연금공단) 계약업무처리지침/(공무원연금공단) 계약업무처리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5582,7 +6126,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(국립생태원)계약사무시행세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json"
+            "target_git_path_guess": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_git_path": "(국립생태원) 계약사무 시행세칙/(국립생태원) 계약사무 시행세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5608,7 +6154,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(국토안전관리원)계약사무처리규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json"
+            "target_git_path_guess": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_git_path": "(국토안전관리원) 계약사무처리규칙/(국토안전관리원) 계약사무처리규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5634,7 +6182,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(소상공인시장진흥공단)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json"
+            "target_git_path_guess": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_git_path": "(소상공인시장진흥공단) 계약요령/(소상공인시장진흥공단) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5660,7 +6210,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(신용보증기금)계약요령#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json"
+            "target_git_path_guess": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_git_path": "(신용보증기금) 계약요령/(신용보증기금) 계약요령.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5686,7 +6238,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(예금보험공사)자산관리및계약세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json"
+            "target_git_path_guess": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_git_path": "(예금보험공사) 자산관리 및 계약세칙/(예금보험공사) 자산관리 및 계약세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5712,7 +6266,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(우체국금융개발원)계약업무관리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json"
+            "target_git_path_guess": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_git_path": "(우체국금융개발원) 계약업무관리세칙/(우체국금융개발원) 계약업무관리세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5778,7 +6334,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(축산물품질평가원)계약사무규칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json"
+            "target_git_path_guess": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_git_path": "(축산물품질평가원) 계약사무규칙/(축산물품질평가원) 계약사무규칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5804,7 +6362,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국가스기술공사)계약업무관리지침#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json"
+            "target_git_path_guess": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json",
+            "target_git_path": "(한국가스기술공사) 계약업무관리지침/(한국가스기술공사) 계약업무관리지침.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5830,7 +6390,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국가스안전공사)계약관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json"
+            "target_git_path_guess": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json",
+            "target_git_path": "(한국가스안전공사) 계약관리규정/(한국가스안전공사) 계약관리규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5851,7 +6413,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국고용정보원)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json"
+            "target_git_path_guess": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json",
+            "target_git_path": "(한국고용정보원) 계약규정/(한국고용정보원) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5877,7 +6441,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국광해광업공단)계약사무규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json"
+            "target_git_path_guess": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json",
+            "target_git_path": "(한국광해광업공단) 계약사무규정/(한국광해광업공단) 계약사무규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5903,7 +6469,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국교통안전공단)계약사무처리세칙#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json"
+            "target_git_path_guess": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json",
+            "target_git_path": "(한국교통안전공단) 계약사무처리세칙/(한국교통안전공단) 계약사무처리세칙.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5929,7 +6497,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국남동발전주식회사)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json"
+            "target_git_path_guess": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json",
+            "target_git_path": "(한국남동발전주식회사) 계약규정/(한국남동발전주식회사) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5955,7 +6525,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국남부발전(주))계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json"
+            "target_git_path_guess": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json",
+            "target_git_path": "(한국남부발전(주)) 계약규정/(한국남부발전(주)) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5976,7 +6548,9 @@
             "source_provision_id": "law:공기업준정부기관계약사무규칙#JO0019",
             "reference_id": "SchlPubRul:(한국전력거래소)계약규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json"
+            "target_git_path_guess": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json",
+            "target_git_path": "(한국전력거래소) 계약규정/(한국전력거래소) 계약규정.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -6507,5 +7081,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json"
+  "git_path": "공기업ㆍ준정부기관 계약사무규칙/법률/공기업ㆍ준정부기관 계약사무규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

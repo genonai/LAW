@@ -78,7 +78,9 @@
             "source_provision_id": "law:국회기록원직제#JO0001",
             "reference_id": "law:국회기록원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json"
+            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json",
+            "target_git_path": "국회기록원법/법률/국회기록원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -233,7 +235,9 @@
             "source_provision_id": "law:국회기록원직제#JO0010",
             "reference_id": "law:국회기록원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json"
+            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json",
+            "target_git_path": "국회기록원법/법률/국회기록원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -252,7 +256,9 @@
             "source_provision_id": "law:국회기록원직제#JO0010",
             "reference_id": "law:국회기록원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json"
+            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json",
+            "target_git_path": "국회기록원법/법률/국회기록원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -271,7 +277,9 @@
             "source_provision_id": "law:국회기록원직제#JO0010",
             "reference_id": "law:국회기록원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json"
+            "target_git_path_guess": "국회기록원법/법률/국회기록원법.json",
+            "target_git_path": "국회기록원법/법률/국회기록원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -399,5 +407,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국회기록원 직제/법률/국회기록원 직제.json"
+  "git_path": "국회기록원 직제/법률/국회기록원 직제.json",
+  "_schlpub_id_suffix": "법률"
 }

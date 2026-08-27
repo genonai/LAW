@@ -196,7 +196,9 @@
             "source_provision_id": "law:세계무역기구협정의이행에관한특별법#JO0008",
             "reference_id": "law:검역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검역법/법률/검역법.json"
+            "target_git_path_guess": "검역법/법률/검역법.json",
+            "target_git_path": "검역법/법률/검역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -215,7 +217,9 @@
             "source_provision_id": "law:세계무역기구협정의이행에관한특별법#JO0008",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
+            "target_git_path": "식품위생법/법률/식품위생법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -234,7 +238,9 @@
             "source_provision_id": "law:세계무역기구협정의이행에관한특별법#JO0008",
             "reference_id": "law:식물방역법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식물방역법/법률/식물방역법.json"
+            "target_git_path_guess": "식물방역법/법률/식물방역법.json",
+            "target_git_path": "식물방역법/법률/식물방역법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -253,7 +259,9 @@
             "source_provision_id": "law:세계무역기구협정의이행에관한특별법#JO0008",
             "reference_id": "law:가축전염병예방법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가축전염병예방법/법률/가축전염병예방법.json"
+            "target_git_path_guess": "가축전염병예방법/법률/가축전염병예방법.json",
+            "target_git_path": "가축전염병 예방법/법률/가축전염병 예방법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2007.12.14]",
@@ -419,5 +427,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "세계무역기구협정의 이행에 관한 특별법/법률/세계무역기구협정의 이행에 관한 특별법.json"
+  "git_path": "세계무역기구협정의 이행에 관한 특별법/법률/세계무역기구협정의 이행에 관한 특별법.json",
+  "_schlpub_id_suffix": "법률"
 }

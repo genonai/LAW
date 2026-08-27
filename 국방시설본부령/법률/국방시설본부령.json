@@ -91,7 +91,9 @@
             "source_provision_id": "law:국방시설본부령#JO0002",
             "reference_id": "law:국방군사시설사업에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json",
+            "target_git_path": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -110,7 +112,9 @@
             "source_provision_id": "law:국방시설본부령#JO0002",
             "reference_id": "law:국방군사시설사업에관한법률시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json"
+            "target_git_path_guess": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json",
+            "target_git_path": "국방ㆍ군사시설 사업에 관한 법률/시행령/국방ㆍ군사시설 사업에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -129,7 +133,9 @@
             "source_provision_id": "law:국방시설본부령#JO0002",
             "reference_id": "law:군수품관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군수품관리법/법률/군수품관리법.json"
+            "target_git_path_guess": "군수품관리법/법률/군수품관리법.json",
+            "target_git_path": "군수품관리법/법률/군수품관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2024.8.6]",
@@ -268,5 +274,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국방시설본부령/법률/국방시설본부령.json"
+  "git_path": "국방시설본부령/법률/국방시설본부령.json",
+  "_schlpub_id_suffix": "법률"
 }

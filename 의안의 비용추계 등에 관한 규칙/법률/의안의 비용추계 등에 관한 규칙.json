@@ -76,7 +76,9 @@
             "source_provision_id": "law:의안의비용추계등에관한규칙#JO0001",
             "reference_id": "law:국회법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회법/법률/국회법.json"
+            "target_git_path_guess": "국회법/법률/국회법.json",
+            "target_git_path": "국회법/법률/국회법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:의안의비용추계등에관한규칙#JO0001",
             "reference_id": "law:국회법#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회법/법률/국회법.json"
+            "target_git_path_guess": "국회법/법률/국회법.json",
+            "target_git_path": "국회법/법률/국회법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:의안의비용추계등에관한규칙#JO0001",
             "reference_id": "law:국회법#JO0079_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회법/법률/국회법.json"
+            "target_git_path_guess": "국회법/법률/국회법.json",
+            "target_git_path": "국회법/법률/국회법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -261,5 +267,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "의안의 비용추계 등에 관한 규칙/법률/의안의 비용추계 등에 관한 규칙.json"
+  "git_path": "의안의 비용추계 등에 관한 규칙/법률/의안의 비용추계 등에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

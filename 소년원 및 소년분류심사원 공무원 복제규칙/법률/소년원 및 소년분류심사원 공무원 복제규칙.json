@@ -76,7 +76,9 @@
             "source_provision_id": "law:소년원및소년분류심사원공무원복제규칙#JO0001",
             "reference_id": "law:국가공무원복무규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:소년원및소년분류심사원공무원복제규칙#JO0001",
             "reference_id": "law:국가공무원복무규정#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json"
+            "target_git_path_guess": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_git_path": "국가공무원 복무규정/법률/국가공무원 복무규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -187,7 +191,11 @@
             "source_provision_id": "law:소년원및소년분류심사원공무원복제규칙#JO0006",
             "reference_id": "admrul:소년원소년분류심사원감호업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json"
+            "target_git_path_guess": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json",
+            "target_git_path": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -213,7 +221,9 @@
             "source_provision_id": "law:소년원및소년분류심사원공무원복제규칙#JO0006",
             "reference_id": "admrul:소년원소년분류심사원감호업무지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json"
+            "target_git_path_guess": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json",
+            "target_git_path": "소년원·소년분류심사원 감호업무지침/소년원·소년분류심사원 감호업무지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2016.10.20]",
@@ -424,5 +434,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "소년원 및 소년분류심사원 공무원 복제규칙/법률/소년원 및 소년분류심사원 공무원 복제규칙.json"
+  "git_path": "소년원 및 소년분류심사원 공무원 복제규칙/법률/소년원 및 소년분류심사원 공무원 복제규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

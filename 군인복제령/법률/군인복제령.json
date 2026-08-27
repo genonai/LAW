@@ -243,7 +243,9 @@
             "source_provision_id": "law:군인복제령#JO0012",
             "reference_id": "law:상훈법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -262,7 +264,9 @@
             "source_provision_id": "law:군인복제령#JO0012",
             "reference_id": "law:상훈법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "상훈법/법률/상훈법.json"
+            "target_git_path_guess": "상훈법/법률/상훈법.json",
+            "target_git_path": "상훈법/법률/상훈법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -281,7 +285,9 @@
             "source_provision_id": "law:군인복제령#JO0012",
             "reference_id": "law:헌신영예기장령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌신영예기장령/법률/헌신영예기장령.json"
+            "target_git_path_guess": "헌신영예기장령/법률/헌신영예기장령.json",
+            "target_git_path": "헌신영예기장령/법률/헌신영예기장령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2017.9.29]",
@@ -360,7 +366,9 @@
             "source_provision_id": "law:군인복제령#JO0016",
             "reference_id": "law:군인복제령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인복제령/법률/군인복제령.json"
+            "target_git_path_guess": "군인복제령/법률/군인복제령.json",
+            "target_git_path": "군인복제령/법률/군인복제령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -379,7 +387,9 @@
             "source_provision_id": "law:군인복제령#JO0016",
             "reference_id": "law:군인복제령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인복제령/법률/군인복제령.json"
+            "target_git_path_guess": "군인복제령/법률/군인복제령.json",
+            "target_git_path": "군인복제령/법률/군인복제령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -398,7 +408,9 @@
             "source_provision_id": "law:군인복제령#JO0016",
             "reference_id": "law:군인복제령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인복제령/법률/군인복제령.json"
+            "target_git_path_guess": "군인복제령/법률/군인복제령.json",
+            "target_git_path": "군인복제령/법률/군인복제령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1450,5 +1462,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군인복제령/법률/군인복제령.json"
+  "git_path": "군인복제령/법률/군인복제령.json",
+  "_schlpub_id_suffix": "법률"
 }

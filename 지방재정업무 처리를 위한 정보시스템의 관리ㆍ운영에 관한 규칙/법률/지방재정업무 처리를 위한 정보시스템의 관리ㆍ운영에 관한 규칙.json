@@ -76,7 +76,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0001",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0001",
             "reference_id": "law:지방재정법#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0001",
             "reference_id": "law:지방재정법#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -149,7 +155,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0002",
             "reference_id": "law:지방재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -168,7 +176,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0002",
             "reference_id": "law:지방재정법#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +197,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0002",
             "reference_id": "law:지방재정법#JO0096_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방재정법/법률/지방재정법.json"
+            "target_git_path_guess": "지방재정법/법률/지방재정법.json",
+            "target_git_path": "지방재정법/법률/지방재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -329,7 +341,9 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0010",
             "reference_id": "admrul:통합지방재정시스템운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json"
+            "target_git_path_guess": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json",
+            "target_git_path": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -348,7 +362,11 @@
             "source_provision_id": "law:지방재정업무처리를위한정보시스템의관리운영에관한규칙#JO0010",
             "reference_id": "admrul:통합지방재정시스템운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json"
+            "target_git_path_guess": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json",
+            "target_git_path": "통합지방재정시스템 운영지침/통합지방재정시스템 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "제정",
@@ -408,5 +426,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "지방재정업무 처리를 위한 정보시스템의 관리ㆍ운영에 관한 규칙/법률/지방재정업무 처리를 위한 정보시스템의 관리ㆍ운영에 관한 규칙.json"
+  "git_path": "지방재정업무 처리를 위한 정보시스템의 관리ㆍ운영에 관한 규칙/법률/지방재정업무 처리를 위한 정보시스템의 관리ㆍ운영에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

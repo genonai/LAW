@@ -80,7 +80,9 @@
             "source_provision_id": "law:법원통계규칙#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:법원통계규칙#JO0001",
             "reference_id": "law:법원조직법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "law:법원통계규칙#JO0001",
             "reference_id": "law:법원조직법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -137,7 +143,9 @@
             "source_provision_id": "law:법원통계규칙#JO0001",
             "reference_id": "law:법원조직법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -225,5 +233,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "법원통계규칙/법률/법원통계규칙.json"
+  "git_path": "법원통계규칙/법률/법원통계규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

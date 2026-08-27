@@ -94,7 +94,11 @@
             "source_provision_id": "law:긴급복지지원법#JO0002",
             "reference_id": "admrul:긴급복지지원위기사유에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "긴급복지지원 위기사유에 관한 고시/긴급복지지원 위기사유에 관한 고시.json"
+            "target_git_path_guess": "긴급복지지원 위기사유에 관한 고시/긴급복지지원 위기사유에 관한 고시.json",
+            "target_git_path": "긴급복지지원 위기사유에 관한 고시/긴급복지지원 위기사유에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -113,7 +117,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0002",
             "reference_id": "law:긴급복지지원법시행규칙#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -168,7 +174,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:재해구호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재해구호법/법률/재해구호법.json"
+            "target_git_path_guess": "재해구호법/법률/재해구호법.json",
+            "target_git_path": "재해구호법/법률/재해구호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -187,7 +195,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -206,7 +216,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -225,7 +237,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -244,7 +258,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:가정폭력방지및피해자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가정폭력방지 및 피해자보호 등에 관한 법률/법률/가정폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "가정폭력방지 및 피해자보호 등에 관한 법률/법률/가정폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "가정폭력방지 및 피해자보호 등에 관한 법률/법률/가정폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -263,7 +279,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0003",
             "reference_id": "law:성폭력방지및피해자보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json"
+            "target_git_path_guess": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_git_path": "성폭력방지 및 피해자보호 등에 관한 법률/법률/성폭력방지 및 피해자보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -328,7 +346,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0005_02",
             "reference_id": "law:긴급복지지원법시행령#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -347,7 +367,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0005_02",
             "reference_id": "law:긴급복지지원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2009.5.28]",
@@ -382,7 +404,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -401,7 +425,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -420,7 +446,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -439,7 +467,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:긴급복지지원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -458,7 +488,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:긴급복지지원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -477,7 +509,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0006",
             "reference_id": "law:긴급복지지원법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -512,7 +546,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:의료법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료법/법률/의료법.json"
+            "target_git_path_guess": "의료법/법률/의료법.json",
+            "target_git_path": "의료법/법률/의료법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -531,7 +567,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:유아교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "유아교육법/법률/유아교육법.json"
+            "target_git_path_guess": "유아교육법/법률/유아교육법.json",
+            "target_git_path": "유아교육법/법률/유아교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -550,7 +588,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:초중등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
+            "target_git_path_guess": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -569,7 +609,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -588,7 +630,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -607,7 +651,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -626,7 +672,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
+            "target_git_path": "지방공무원법/법률/지방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -645,7 +693,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:장애인활동지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json"
+            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_git_path": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -664,7 +714,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:장애인활동지원에관한법률#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json"
+            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_git_path": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -683,7 +735,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:장애인활동지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json"
+            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_git_path": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -702,7 +756,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:장애인활동지원에관한법률#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json"
+            "target_git_path_guess": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_git_path": "장애인활동 지원에 관한 법률/법률/장애인활동 지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -721,7 +777,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:학원의설립운영및과외교습에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json"
+            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_git_path": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -740,7 +798,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:학원의설립운영및과외교습에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json"
+            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_git_path": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -759,7 +819,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:학원의설립운영및과외교습에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json"
+            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_git_path": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -778,7 +840,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:학원의설립운영및과외교습에관한법률#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json"
+            "target_git_path_guess": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_git_path": "학원의 설립ㆍ운영 및 과외교습에 관한 법률/법률/학원의 설립ㆍ운영 및 과외교습에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -797,7 +861,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:건강가정기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json"
+            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json",
+            "target_git_path": "건강가정기본법/법률/건강가정기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -816,7 +882,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:건강가정기본법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json"
+            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json",
+            "target_git_path": "건강가정기본법/법률/건강가정기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -835,7 +903,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:건강가정기본법#JO0035_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json"
+            "target_git_path_guess": "건강가정기본법/법률/건강가정기본법.json",
+            "target_git_path": "건강가정기본법/법률/건강가정기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -854,7 +924,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -873,7 +945,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -892,7 +966,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -911,7 +987,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -930,7 +1008,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json"
+            "target_git_path_guess": "청소년 기본법/법률/청소년 기본법.json",
+            "target_git_path": "청소년 기본법/법률/청소년 기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -949,7 +1029,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년보호법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 보호법/법률/청소년 보호법.json"
+            "target_git_path_guess": "청소년 보호법/법률/청소년 보호법.json",
+            "target_git_path": "청소년 보호법/법률/청소년 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -968,7 +1050,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:청소년보호법#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "청소년 보호법/법률/청소년 보호법.json"
+            "target_git_path_guess": "청소년 보호법/법률/청소년 보호법.json",
+            "target_git_path": "청소년 보호법/법률/청소년 보호법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -987,7 +1071,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:평생교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/법률/평생교육법.json"
+            "target_git_path_guess": "평생교육법/법률/평생교육법.json",
+            "target_git_path": "평생교육법/법률/평생교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1006,7 +1092,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:평생교육법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "평생교육법/법률/평생교육법.json"
+            "target_git_path_guess": "평생교육법/법률/평생교육법.json",
+            "target_git_path": "평생교육법/법률/평생교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1025,7 +1113,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:긴급복지지원법시행규칙#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1044,7 +1134,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0007",
             "reference_id": "law:긴급복지지원법시행규칙#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1095,7 +1187,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008",
             "reference_id": "law:긴급복지지원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1114,7 +1208,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1133,7 +1229,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008",
             "reference_id": "law:행정조사기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정조사기본법/법률/행정조사기본법.json"
+            "target_git_path_guess": "행정조사기본법/법률/행정조사기본법.json",
+            "target_git_path": "행정조사기본법/법률/행정조사기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1152,7 +1250,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008",
             "reference_id": "law:긴급복지지원법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1187,7 +1287,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1206,7 +1308,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1225,7 +1329,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1244,7 +1350,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1263,7 +1371,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1282,7 +1392,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1301,7 +1413,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1320,7 +1434,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1339,7 +1455,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1358,7 +1476,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1377,7 +1497,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1396,7 +1518,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1415,7 +1539,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1434,7 +1560,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1453,7 +1581,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:보험업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보험업법/법률/보험업법.json"
+            "target_git_path_guess": "보험업법/법률/보험업법.json",
+            "target_git_path": "보험업법/법률/보험업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1472,7 +1602,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:보험업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보험업법/법률/보험업법.json"
+            "target_git_path_guess": "보험업법/법률/보험업법.json",
+            "target_git_path": "보험업법/법률/보험업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1491,7 +1623,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:보험업법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "보험업법/법률/보험업법.json"
+            "target_git_path_guess": "보험업법/법률/보험업법.json",
+            "target_git_path": "보험업법/법률/보험업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1510,7 +1644,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1529,7 +1665,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1548,7 +1686,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0008_02",
             "reference_id": "law:긴급복지지원법시행령#JO0001_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2009.5.28]",
@@ -1583,7 +1723,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1602,7 +1744,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:대한적십자사조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한적십자사 조직법/법률/대한적십자사 조직법.json"
+            "target_git_path_guess": "대한적십자사 조직법/법률/대한적십자사 조직법.json",
+            "target_git_path": "대한적십자사 조직법/법률/대한적십자사 조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1621,7 +1765,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:사회복지공동모금회법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지공동모금회법/법률/사회복지공동모금회법.json"
+            "target_git_path_guess": "사회복지공동모금회법/법률/사회복지공동모금회법.json",
+            "target_git_path": "사회복지공동모금회법/법률/사회복지공동모금회법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1640,7 +1786,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1659,7 +1807,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1678,7 +1828,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1697,7 +1849,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1716,7 +1870,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1735,7 +1891,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1754,7 +1912,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1773,7 +1933,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1792,7 +1954,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1811,7 +1975,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009",
             "reference_id": "law:긴급복지지원법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -1846,7 +2012,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009_02",
             "reference_id": "law:긴급복지지원법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1865,7 +2033,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009_02",
             "reference_id": "law:긴급복지지원법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1884,7 +2054,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0009_02",
             "reference_id": "law:긴급복지지원법시행령#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.12.30]",
@@ -1919,7 +2091,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1938,7 +2112,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1957,7 +2133,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1976,7 +2154,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1995,7 +2175,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2014,7 +2196,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2033,7 +2217,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2052,7 +2238,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2071,7 +2259,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2090,7 +2280,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2109,7 +2301,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2128,7 +2322,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2147,7 +2343,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2166,7 +2364,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2185,7 +2385,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0010",
             "reference_id": "law:긴급복지지원법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json"
+            "target_git_path_guess": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_git_path": "긴급복지지원법/시행규칙/긴급복지지원법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2220,7 +2422,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0011",
             "reference_id": "law:사회복지사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2239,7 +2443,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0011",
             "reference_id": "law:사회복지사업법#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json"
+            "target_git_path_guess": "사회복지사업법/법률/사회복지사업법.json",
+            "target_git_path": "사회복지사업법/법률/사회복지사업법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2274,7 +2480,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2293,7 +2501,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2312,7 +2522,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:제주특별자치도설치및국제자유도시조성을위한특별법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json"
+            "target_git_path_guess": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_git_path": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법/법률/제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2331,7 +2543,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2350,7 +2564,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2369,7 +2585,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2388,7 +2606,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2407,7 +2627,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2426,7 +2648,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:긴급복지지원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2445,7 +2669,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:비영리민간단체지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json"
+            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2464,7 +2690,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:비영리민간단체지원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json"
+            "target_git_path_guess": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_git_path": "비영리민간단체 지원법/법률/비영리민간단체 지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2483,7 +2711,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2502,7 +2732,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:국민기초생활보장법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2521,7 +2753,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0012",
             "reference_id": "law:국민기초생활보장법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -2556,7 +2790,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2575,7 +2811,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2594,7 +2832,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2613,7 +2853,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2632,7 +2874,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2651,7 +2895,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2670,7 +2916,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2689,7 +2937,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2708,7 +2958,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:긴급복지지원법#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2727,7 +2979,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2746,7 +3000,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2765,7 +3021,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2784,7 +3042,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2803,7 +3063,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2822,7 +3084,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:신용정보의이용및보호에관한법률#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json"
+            "target_git_path_guess": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_git_path": "신용정보의 이용 및 보호에 관한 법률/법률/신용정보의 이용 및 보호에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2841,7 +3105,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2860,7 +3126,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2879,7 +3147,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2898,7 +3168,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2917,7 +3189,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2936,7 +3210,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:금융실명거래및비밀보장에관한법률#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json"
+            "target_git_path_guess": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_git_path": "금융실명거래 및 비밀보장에 관한 법률/법률/금융실명거래 및 비밀보장에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2955,7 +3231,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2974,7 +3252,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2993,7 +3273,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3012,7 +3294,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:정보통신망이용촉진및정보보호등에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json"
+            "target_git_path_guess": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_git_path": "정보통신망 이용촉진 및 정보보호 등에 관한 법률/법률/정보통신망 이용촉진 및 정보보호 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3031,7 +3315,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:긴급복지지원법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3050,7 +3336,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0013",
             "reference_id": "law:긴급복지지원법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json"
+            "target_git_path_guess": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_git_path": "긴급복지지원법/시행령/긴급복지지원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3085,7 +3373,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0014",
             "reference_id": "law:긴급복지지원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3104,7 +3394,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0014",
             "reference_id": "law:긴급복지지원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3123,7 +3415,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0014",
             "reference_id": "law:긴급복지지원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3142,7 +3436,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0014",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3161,7 +3457,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0014",
             "reference_id": "law:의료급여법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "의료급여법/법률/의료급여법.json"
+            "target_git_path_guess": "의료급여법/법률/의료급여법.json",
+            "target_git_path": "의료급여법/법률/의료급여법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3196,7 +3494,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3215,7 +3515,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3234,7 +3536,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3253,7 +3557,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3272,7 +3578,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3291,7 +3599,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3310,7 +3620,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3329,7 +3641,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0015",
             "reference_id": "law:긴급복지지원법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3364,7 +3678,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0016",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3383,7 +3699,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0016",
             "reference_id": "law:긴급복지지원법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3402,7 +3720,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0016",
             "reference_id": "law:긴급복지지원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3421,7 +3741,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0016",
             "reference_id": "law:긴급복지지원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3440,7 +3762,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0016",
             "reference_id": "law:긴급복지지원법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -3505,7 +3829,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0019",
             "reference_id": "law:긴급복지지원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3524,7 +3850,9 @@
             "source_provision_id": "law:긴급복지지원법#JO0019",
             "reference_id": "law:긴급복지지원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json"
+            "target_git_path_guess": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.5.28]",
@@ -5911,5 +6239,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "긴급복지지원법/법률/긴급복지지원법.json"
+  "git_path": "긴급복지지원법/법률/긴급복지지원법.json",
+  "_schlpub_id_suffix": "법률"
 }

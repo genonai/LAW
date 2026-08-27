@@ -85,7 +85,9 @@
             "source_provision_id": "law:사행산업통합감독위원회사무처직제#JO0001",
             "reference_id": "law:사행산업통합감독위원회법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json"
+            "target_git_path_guess": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json",
+            "target_git_path": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -104,7 +106,9 @@
             "source_provision_id": "law:사행산업통합감독위원회사무처직제#JO0001",
             "reference_id": "law:사행산업통합감독위원회법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json"
+            "target_git_path_guess": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json",
+            "target_git_path": "사행산업통합감독위원회법/법률/사행산업통합감독위원회법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -398,5 +402,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사행산업통합감독위원회 사무처 직제/법률/사행산업통합감독위원회 사무처 직제.json"
+  "git_path": "사행산업통합감독위원회 사무처 직제/법률/사행산업통합감독위원회 사무처 직제.json",
+  "_schlpub_id_suffix": "법률"
 }

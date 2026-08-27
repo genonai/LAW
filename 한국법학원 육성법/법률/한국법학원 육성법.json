@@ -108,7 +108,9 @@
             "source_provision_id": "law:한국법학원육성법#JO0003",
             "reference_id": "law:국유재산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산법/법률/국유재산법.json"
+            "target_git_path_guess": "국유재산법/법률/국유재산법.json",
+            "target_git_path": "국유재산법/법률/국유재산법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -188,7 +190,9 @@
             "source_provision_id": "law:한국법학원육성법#JO0007",
             "reference_id": "law:한국법학원육성법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국법학원 육성법/법률/한국법학원 육성법.json"
+            "target_git_path_guess": "한국법학원 육성법/법률/한국법학원 육성법.json",
+            "target_git_path": "한국법학원 육성법/법률/한국법학원 육성법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -207,7 +211,9 @@
             "source_provision_id": "law:한국법학원육성법#JO0007",
             "reference_id": "law:한국법학원육성법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국법학원 육성법/시행령/한국법학원 육성법 시행령.json"
+            "target_git_path_guess": "한국법학원 육성법/시행령/한국법학원 육성법 시행령.json",
+            "target_git_path": "한국법학원 육성법/시행령/한국법학원 육성법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -279,5 +285,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "한국법학원 육성법/법률/한국법학원 육성법.json"
+  "git_path": "한국법학원 육성법/법률/한국법학원 육성법.json",
+  "_schlpub_id_suffix": "법률"
 }

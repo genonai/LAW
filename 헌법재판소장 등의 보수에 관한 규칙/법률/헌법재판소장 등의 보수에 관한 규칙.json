@@ -78,7 +78,9 @@
             "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0001",
             "reference_id": "law:헌법재판소법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json",
+            "target_git_path": "헌법재판소법/법률/헌법재판소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:헌법재판소장등의보수에관한규칙#JO0001",
             "reference_id": "law:헌법재판소법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json",
+            "target_git_path": "헌법재판소법/법률/헌법재판소법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.10.2]",
@@ -137,7 +141,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json"
+            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_path": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_file_path": "헌법재판소장 등의 보수에 관한 규칙/법률/별표/별표1_헌법재판소장 및 헌법재판소재판관 봉급표(제2조 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.10.2]",
@@ -177,7 +184,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json"
+            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_path": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_file_path": "헌법재판소장 등의 보수에 관한 규칙/법률/별표/별표2_봉급조정수당지급및봉급산입방식.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -201,7 +211,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:헌법재판소장등의보수에관한규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json"
+            "target_git_path_guess": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_path": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+            "target_git_file_path": "헌법재판소장 등의 보수에 관한 규칙/법률/별표/별표2_봉급조정수당지급및봉급산입방식.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.10.2]",
@@ -871,5 +884,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json"
+  "git_path": "헌법재판소장 등의 보수에 관한 규칙/법률/헌법재판소장 등의 보수에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

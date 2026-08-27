@@ -77,7 +77,9 @@
             "source_provision_id": "law:양형위원회규칙#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -192,7 +194,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:양형위원회규칙#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json"
+            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_git_path": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_git_file_path": "양형위원회규칙/법률/별표/별표1_운영지원단분장사무표.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -232,7 +237,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:양형위원회규칙#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json"
+            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_git_path": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_git_file_path": "양형위원회규칙/법률/별표/별표2_전문위원편제및분장사무표.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -312,7 +320,9 @@
             "source_provision_id": "law:양형위원회규칙#JO0012",
             "reference_id": "law:양형위원회규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json"
+            "target_git_path_guess": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_git_path": "양형위원회규칙/법률/양형위원회규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -459,5 +469,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "양형위원회규칙/법률/양형위원회규칙.json"
+  "git_path": "양형위원회규칙/법률/양형위원회규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -94,7 +94,9 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -113,7 +115,9 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -132,7 +136,9 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -151,7 +157,9 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -170,7 +178,11 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "admrul:비료공정규격설정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비료 공정규격 설정/비료 공정규격 설정.json"
+            "target_git_path_guess": "비료 공정규격 설정/비료 공정규격 설정.json",
+            "target_git_path": "비료 공정규격 설정/비료 공정규격 설정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -189,7 +201,9 @@
             "source_provision_id": "law:비료관리법#JO0002",
             "reference_id": "law:비료관리법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -244,7 +258,9 @@
             "source_provision_id": "law:비료관리법#JO0003",
             "reference_id": "law:비료관리법시행령#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -279,7 +295,11 @@
             "source_provision_id": "law:비료관리법#JO0004",
             "reference_id": "admrul:비료공정규격설정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비료 공정규격 설정/비료 공정규격 설정.json"
+            "target_git_path_guess": "비료 공정규격 설정/비료 공정규격 설정.json",
+            "target_git_path": "비료 공정규격 설정/비료 공정규격 설정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -298,7 +318,9 @@
             "source_provision_id": "law:비료관리법#JO0004",
             "reference_id": "law:비료관리법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -353,7 +375,11 @@
             "source_provision_id": "law:비료관리법#JO0004_02",
             "reference_id": "admrul:비료시험연구기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비료 시험연구기관 지정/비료 시험연구기관 지정.json"
+            "target_git_path_guess": "비료 시험연구기관 지정/비료 시험연구기관 지정.json",
+            "target_git_path": "비료 시험연구기관 지정/비료 시험연구기관 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -379,7 +405,9 @@
             "source_provision_id": "law:비료관리법#JO0004_02",
             "reference_id": "admrul:비료시험연구기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비료 시험연구기관 지정/비료 시험연구기관 지정.json"
+            "target_git_path_guess": "비료 시험연구기관 지정/비료 시험연구기관 지정.json",
+            "target_git_path": "비료 시험연구기관 지정/비료 시험연구기관 지정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -398,7 +426,9 @@
             "source_provision_id": "law:비료관리법#JO0004_02",
             "reference_id": "law:비료관리법시행규칙#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -417,7 +447,9 @@
             "source_provision_id": "law:비료관리법#JO0004_02",
             "reference_id": "law:비료관리법시행규칙#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.7.14]",
@@ -452,7 +484,9 @@
             "source_provision_id": "law:비료관리법#JO0004_03",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -471,7 +505,9 @@
             "source_provision_id": "law:비료관리법#JO0004_03",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -490,7 +526,9 @@
             "source_provision_id": "law:비료관리법#JO0004_03",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -509,7 +547,9 @@
             "source_provision_id": "law:비료관리법#JO0004_03",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -528,7 +568,9 @@
             "source_provision_id": "law:비료관리법#JO0004_03",
             "reference_id": "law:비료관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.7.14]",
@@ -577,7 +619,9 @@
             "source_provision_id": "law:비료관리법#JO0006",
             "reference_id": "law:비료관리법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -612,7 +656,9 @@
             "source_provision_id": "law:비료관리법#JO0007",
             "reference_id": "law:농업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json"
+            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json",
+            "target_git_path": "농업협동조합법/법률/농업협동조합법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -631,7 +677,9 @@
             "source_provision_id": "law:비료관리법#JO0007",
             "reference_id": "law:비료관리법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -650,7 +698,9 @@
             "source_provision_id": "law:비료관리법#JO0007",
             "reference_id": "law:비료관리법시행령#JO0008_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -685,7 +735,9 @@
             "source_provision_id": "law:비료관리법#JO0008",
             "reference_id": "law:비료관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -704,7 +756,9 @@
             "source_provision_id": "law:비료관리법#JO0008",
             "reference_id": "law:비료관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -723,7 +777,9 @@
             "source_provision_id": "law:비료관리법#JO0008",
             "reference_id": "law:국가재정법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -742,7 +798,9 @@
             "source_provision_id": "law:비료관리법#JO0008",
             "reference_id": "law:국가재정법#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -761,7 +819,9 @@
             "source_provision_id": "law:비료관리법#JO0008",
             "reference_id": "law:국가재정법#JO0090",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가재정법/법률/국가재정법.json"
+            "target_git_path_guess": "국가재정법/법률/국가재정법.json",
+            "target_git_path": "국가재정법/법률/국가재정법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -810,7 +870,9 @@
             "source_provision_id": "law:비료관리법#JO0010",
             "reference_id": "law:비료관리법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -846,7 +908,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:폐기물관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json"
+            "target_git_path_guess": "폐기물관리법/법률/폐기물관리법.json",
+            "target_git_path": "폐기물관리법/법률/폐기물관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -865,7 +929,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:비료관리법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -884,7 +950,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:비료관리법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -903,7 +971,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:비료관리법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -922,7 +992,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:비료관리법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -941,7 +1013,9 @@
             "source_provision_id": "law:비료관리법#JO0011",
             "reference_id": "law:비료관리법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 1999.3.31, 2011.7.14]",
@@ -976,7 +1050,9 @@
             "source_provision_id": "law:비료관리법#JO0012",
             "reference_id": "law:비료관리법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -995,7 +1071,9 @@
             "source_provision_id": "law:비료관리법#JO0012",
             "reference_id": "law:비료관리법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1014,7 +1092,9 @@
             "source_provision_id": "law:비료관리법#JO0012",
             "reference_id": "law:비료관리법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -1049,7 +1129,9 @@
             "source_provision_id": "law:비료관리법#JO0013",
             "reference_id": "law:비료관리법시행규칙#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -1084,7 +1166,9 @@
             "source_provision_id": "law:비료관리법#JO0014",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1103,7 +1187,9 @@
             "source_provision_id": "law:비료관리법#JO0014",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1122,7 +1208,9 @@
             "source_provision_id": "law:비료관리법#JO0014",
             "reference_id": "law:비료관리법시행규칙#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1141,7 +1229,9 @@
             "source_provision_id": "law:비료관리법#JO0014",
             "reference_id": "law:비료관리법시행규칙#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -1176,7 +1266,9 @@
             "source_provision_id": "law:비료관리법#JO0014_02",
             "reference_id": "law:비료관리법시행규칙#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2012.10.22]",
@@ -1268,7 +1360,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1287,7 +1381,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1306,7 +1402,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1325,7 +1423,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1344,7 +1444,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1363,7 +1465,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1382,7 +1486,9 @@
             "source_provision_id": "law:비료관리법#JO0019",
             "reference_id": "law:비료관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -1417,7 +1523,9 @@
             "source_provision_id": "law:비료관리법#JO0019_02",
             "reference_id": "law:비료관리법시행규칙#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1436,7 +1544,9 @@
             "source_provision_id": "law:비료관리법#JO0019_02",
             "reference_id": "law:비료관리법시행규칙#JO0016_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1455,7 +1565,9 @@
             "source_provision_id": "law:비료관리법#JO0019_02",
             "reference_id": "law:비료관리법시행규칙#JO0016_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1474,7 +1586,9 @@
             "source_provision_id": "law:비료관리법#JO0019_02",
             "reference_id": "law:비료관리법시행규칙#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2018.12.31][제목개정 2022.1.4]",
@@ -1509,7 +1623,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1528,7 +1644,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1547,7 +1665,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1566,7 +1686,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1585,7 +1707,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1604,7 +1728,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1623,7 +1749,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1642,7 +1770,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1661,7 +1791,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1680,7 +1812,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1699,7 +1833,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1718,7 +1854,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1737,7 +1875,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1756,7 +1896,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1775,7 +1917,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1794,7 +1938,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1813,7 +1959,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1832,7 +1980,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1851,7 +2001,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1870,7 +2022,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1889,7 +2043,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1908,7 +2064,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1927,7 +2085,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1946,7 +2106,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1965,7 +2127,9 @@
             "source_provision_id": "law:비료관리법#JO0020",
             "reference_id": "law:비료관리법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2000,7 +2164,9 @@
             "source_provision_id": "law:비료관리법#JO0020_02",
             "reference_id": "law:비료관리법시행규칙#JO0016_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json"
+            "target_git_path_guess": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_git_path": "비료관리법/시행규칙/비료관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.2.11]",
@@ -2035,7 +2201,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2054,7 +2222,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2073,7 +2243,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2092,7 +2264,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:지방행정제재부과금의징수등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방행정제재ㆍ부과금의 징수 등에 관한 법률/법률/지방행정제재ㆍ부과금의 징수 등에 관한 법률.json"
+            "target_git_path_guess": "지방행정제재ㆍ부과금의 징수 등에 관한 법률/법률/지방행정제재ㆍ부과금의 징수 등에 관한 법률.json",
+            "target_git_path": "지방행정제재ㆍ부과금의 징수 등에 관한 법률/법률/지방행정제재ㆍ부과금의 징수 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2111,7 +2285,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2130,7 +2306,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2149,7 +2327,9 @@
             "source_provision_id": "law:비료관리법#JO0021",
             "reference_id": "law:비료관리법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2184,7 +2364,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2203,7 +2385,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2222,7 +2406,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2241,7 +2427,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2260,7 +2448,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2279,7 +2469,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2298,7 +2490,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2317,7 +2511,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2336,7 +2532,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2355,7 +2553,9 @@
             "source_provision_id": "law:비료관리법#JO0021_02",
             "reference_id": "law:비료관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.2.11]",
@@ -2390,7 +2590,9 @@
             "source_provision_id": "law:비료관리법#JO0022",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2409,7 +2611,9 @@
             "source_provision_id": "law:비료관리법#JO0022",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2428,7 +2632,9 @@
             "source_provision_id": "law:비료관리법#JO0022",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2447,7 +2653,9 @@
             "source_provision_id": "law:비료관리법#JO0022",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2466,7 +2674,9 @@
             "source_provision_id": "law:비료관리법#JO0022",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2501,7 +2711,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2520,7 +2732,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2539,7 +2753,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2558,7 +2774,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2577,7 +2795,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2596,7 +2816,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2615,7 +2837,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2634,7 +2858,9 @@
             "source_provision_id": "law:비료관리법#JO0023",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2669,7 +2895,9 @@
             "source_provision_id": "law:비료관리법#JO0024",
             "reference_id": "law:비료관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2718,7 +2946,9 @@
             "source_provision_id": "law:비료관리법#JO0026",
             "reference_id": "law:비료관리법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -2753,7 +2983,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2772,7 +3004,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2791,7 +3025,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2810,7 +3046,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2829,7 +3067,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2848,7 +3088,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2867,7 +3109,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2886,7 +3130,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2905,7 +3151,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2924,7 +3172,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2943,7 +3193,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2962,7 +3214,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2981,7 +3235,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3000,7 +3256,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3019,7 +3277,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3038,7 +3298,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3057,7 +3319,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3076,7 +3340,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3095,7 +3361,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3114,7 +3382,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3133,7 +3403,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3152,7 +3424,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3171,7 +3445,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3190,7 +3466,9 @@
             "source_provision_id": "law:비료관리법#JO0027",
             "reference_id": "law:비료관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -3225,7 +3503,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3244,7 +3524,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3263,7 +3545,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3282,7 +3566,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3301,7 +3587,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3320,7 +3608,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3339,7 +3629,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3358,7 +3650,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3377,7 +3671,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3396,7 +3692,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3415,7 +3713,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3434,7 +3734,9 @@
             "source_provision_id": "law:비료관리법#JO0028",
             "reference_id": "law:비료관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -3469,7 +3771,9 @@
             "source_provision_id": "law:비료관리법#JO0029",
             "reference_id": "law:비료관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3488,7 +3792,9 @@
             "source_provision_id": "law:비료관리법#JO0029",
             "reference_id": "law:비료관리법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.4]",
@@ -3523,7 +3829,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3542,7 +3850,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3561,7 +3871,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3580,7 +3892,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3599,7 +3913,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3618,7 +3934,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3637,7 +3955,9 @@
             "source_provision_id": "law:비료관리법#JO0029_02",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.7.14]",
@@ -3672,7 +3992,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3691,7 +4013,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3710,7 +4034,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3729,7 +4055,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3748,7 +4076,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3767,7 +4097,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3786,7 +4118,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3805,7 +4139,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3824,7 +4160,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3843,7 +4181,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3862,7 +4202,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3881,7 +4223,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3900,7 +4244,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3919,7 +4265,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3938,7 +4286,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -3957,7 +4307,9 @@
             "source_provision_id": "law:비료관리법#JO0030",
             "reference_id": "law:비료관리법#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -3992,7 +4344,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4011,7 +4365,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4030,7 +4386,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4049,7 +4407,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4068,7 +4428,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4087,7 +4449,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4106,7 +4470,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4125,7 +4491,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4144,7 +4512,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4163,7 +4533,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4182,7 +4554,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4201,7 +4575,9 @@
             "source_provision_id": "law:비료관리법#JO0031",
             "reference_id": "law:비료관리법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2007.8.3]",
@@ -4236,7 +4612,9 @@
             "source_provision_id": "law:비료관리법#JO0032",
             "reference_id": "law:비료관리법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json"
+            "target_git_path_guess": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_git_path": "비료관리법/시행령/비료관리법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4255,7 +4633,9 @@
             "source_provision_id": "law:비료관리법#JO0032",
             "reference_id": "law:비료관리법#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4274,7 +4654,9 @@
             "source_provision_id": "law:비료관리법#JO0032",
             "reference_id": "law:비료관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "비료관리법/법률/비료관리법.json"
+            "target_git_path_guess": "비료관리법/법률/비료관리법.json",
+            "target_git_path": "비료관리법/법률/비료관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.14]",
@@ -6556,5 +6938,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "비료관리법/법률/비료관리법.json"
+  "git_path": "비료관리법/법률/비료관리법.json",
+  "_schlpub_id_suffix": "법률"
 }

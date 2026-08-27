@@ -106,7 +106,9 @@
             "source_provision_id": "law:사회대개혁위원회의설치및운영에관한규정#JO0003",
             "reference_id": "law:정당법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정당법/법률/정당법.json"
+            "target_git_path_guess": "정당법/법률/정당법.json",
+            "target_git_path": "정당법/법률/정당법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -216,7 +218,9 @@
             "source_provision_id": "law:사회대개혁위원회의설치및운영에관한규정#JO0009",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -235,7 +239,9 @@
             "source_provision_id": "law:사회대개혁위원회의설치및운영에관한규정#JO0009",
             "reference_id": "law:국가공무원법#JO0026_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -368,5 +374,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "사회대개혁위원회의 설치 및 운영에 관한 규정/법률/사회대개혁위원회의 설치 및 운영에 관한 규정.json"
+  "git_path": "사회대개혁위원회의 설치 및 운영에 관한 규정/법률/사회대개혁위원회의 설치 및 운영에 관한 규정.json",
+  "_schlpub_id_suffix": "법률"
 }

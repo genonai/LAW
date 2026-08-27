@@ -206,7 +206,9 @@
             "source_provision_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0010",
             "reference_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json"
+            "target_git_path_guess": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json",
+            "target_git_path": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -225,7 +227,9 @@
             "source_provision_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0010",
             "reference_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json"
+            "target_git_path_guess": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json",
+            "target_git_path": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -317,7 +321,9 @@
             "source_provision_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0015",
             "reference_id": "admrul:대중문화교류위원회운영세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json"
+            "target_git_path_guess": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json",
+            "target_git_path": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -336,7 +342,11 @@
             "source_provision_id": "law:대중문화교류위원회의설치및운영에관한규정#JO0015",
             "reference_id": "admrul:대중문화교류위원회운영세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json"
+            "target_git_path_guess": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json",
+            "target_git_path": "대중문화교류위원회 운영세칙/대중문화교류위원회 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "revision_type": "타법개정",
@@ -407,5 +417,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json"
+  "git_path": "대중문화교류위원회의 설치 및 운영에 관한 규정/법률/대중문화교류위원회의 설치 및 운영에 관한 규정.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -106,7 +106,11 @@
             "source_provision_id": "law:항공정보간행물발간규정#JO0003",
             "reference_id": "admrul:항공정보간행물및항공지도판매가격#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json"
+            "target_git_path_guess": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json",
+            "target_git_path": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -127,7 +131,9 @@
             "source_provision_id": "law:항공정보간행물발간규정#JO0003",
             "reference_id": "admrul:항공정보간행물및항공지도판매가격#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json"
+            "target_git_path_guess": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json",
+            "target_git_path": "항공정보간행물 및 항공지도 판매가격/항공정보간행물 및 항공지도 판매가격.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -251,5 +257,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "항공정보간행물발간규정/법률/항공정보간행물발간규정.json"
+  "git_path": "항공정보간행물발간규정/법률/항공정보간행물발간규정.json",
+  "_schlpub_id_suffix": "법률"
 }

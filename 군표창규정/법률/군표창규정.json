@@ -163,7 +163,9 @@
             "source_provision_id": "law:군표창규정#JO0007",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -182,7 +184,9 @@
             "source_provision_id": "law:군표창규정#JO0007",
             "reference_id": "law:군표창규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json"
+            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json",
+            "target_git_path": "군표창규칙/법률/군표창규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -201,7 +205,9 @@
             "source_provision_id": "law:군표창규정#JO0007",
             "reference_id": "law:군표창규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json"
+            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json",
+            "target_git_path": "군표창규칙/법률/군표창규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -249,7 +255,9 @@
             "source_provision_id": "law:군표창규정#JO0009",
             "reference_id": "law:군표창규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json"
+            "target_git_path_guess": "군표창규칙/법률/군표창규칙.json",
+            "target_git_path": "군표창규칙/법률/군표창규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -283,7 +291,9 @@
             "source_provision_id": "law:군표창규정#JO0010",
             "reference_id": "law:군표창규정#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "군표창규정/법률/군표창규정.json"
+            "target_git_path_guess": "군표창규정/법률/군표창규정.json",
+            "target_git_path": "군표창규정/법률/군표창규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -345,7 +355,9 @@
             "source_provision_id": "law:군표창규정#JO0013",
             "reference_id": "law:군인유족기장령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인유족기장령/법률/군인유족기장령.json"
+            "target_git_path_guess": "군인유족기장령/법률/군인유족기장령.json",
+            "target_git_path": "군인유족기장령/법률/군인유족기장령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -364,7 +376,9 @@
             "source_provision_id": "law:군표창규정#JO0013",
             "reference_id": "law:군인유족기장령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인유족기장령/법률/군인유족기장령.json"
+            "target_git_path_guess": "군인유족기장령/법률/군인유족기장령.json",
+            "target_git_path": "군인유족기장령/법률/군인유족기장령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -523,5 +537,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군표창규정/법률/군표창규정.json"
+  "git_path": "군표창규정/법률/군표창규정.json",
+  "_schlpub_id_suffix": "법률"
 }

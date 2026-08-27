@@ -82,7 +82,9 @@
             "source_provision_id": "law:전기통신기본법시행령#JO0001",
             "reference_id": "law:전기통신기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json"
+            "target_git_path_guess": "전기통신기본법/법률/전기통신기본법.json",
+            "target_git_path": "전기통신기본법/법률/전기통신기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1143,5 +1145,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "전기통신기본법/시행령/전기통신기본법 시행령.json"
+  "git_path": "전기통신기본법/시행령/전기통신기본법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

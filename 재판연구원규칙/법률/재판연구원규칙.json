@@ -76,7 +76,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0001",
             "reference_id": "law:법원조직법#JO0053_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0001",
             "reference_id": "law:법원조직법#JO0053_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -162,7 +168,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0003",
             "reference_id": "law:공무원보수규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -181,7 +189,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0003",
             "reference_id": "law:공무원보수규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -200,7 +210,9 @@
             "source_provision_id": "law:재판연구원규칙#JO0003",
             "reference_id": "law:공무원보수규정#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json"
+            "target_git_path_guess": "공무원보수규정/법률/공무원보수규정.json",
+            "target_git_path": "공무원보수규정/법률/공무원보수규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -487,5 +499,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "재판연구원규칙/법률/재판연구원규칙.json"
+  "git_path": "재판연구원규칙/법률/재판연구원규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

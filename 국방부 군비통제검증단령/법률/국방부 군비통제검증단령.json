@@ -131,7 +131,9 @@
             "source_provision_id": "law:국방부군비통제검증단령#JO0004",
             "reference_id": "admrul:군비통제검증관리훈령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "군비통제검증관리 훈령/군비통제검증관리 훈령.json"
+            "target_git_path_guess": "군비통제검증관리 훈령/군비통제검증관리 훈령.json",
+            "target_git_path": "군비통제검증관리 훈령/군비통제검증관리 훈령.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.8.3]",
@@ -254,5 +256,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국방부 군비통제검증단령/법률/국방부 군비통제검증단령.json"
+  "git_path": "국방부 군비통제검증단령/법률/국방부 군비통제검증단령.json",
+  "_schlpub_id_suffix": "법률"
 }

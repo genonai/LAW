@@ -78,7 +78,9 @@
             "source_provision_id": "law:국회도서관직제#JO0001",
             "reference_id": "law:국회도서관법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json"
+            "target_git_path_guess": "국회도서관법/법률/국회도서관법.json",
+            "target_git_path": "국회도서관법/법률/국회도서관법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -506,5 +508,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국회도서관 직제/법률/국회도서관 직제.json"
+  "git_path": "국회도서관 직제/법률/국회도서관 직제.json",
+  "_schlpub_id_suffix": "법률"
 }

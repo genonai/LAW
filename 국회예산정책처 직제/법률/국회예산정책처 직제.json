@@ -77,7 +77,9 @@
             "source_provision_id": "law:국회예산정책처직제#JO0001",
             "reference_id": "law:국회예산정책처법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json"
+            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_git_path": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -252,7 +254,9 @@
             "source_provision_id": "law:국회예산정책처직제#JO0011",
             "reference_id": "law:국회예산정책처법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json"
+            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_git_path": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -271,7 +275,9 @@
             "source_provision_id": "law:국회예산정책처직제#JO0011",
             "reference_id": "law:국회예산정책처법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json"
+            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_git_path": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -290,7 +296,9 @@
             "source_provision_id": "law:국회예산정책처직제#JO0011",
             "reference_id": "law:국회예산정책처법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json"
+            "target_git_path_guess": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_git_path": "국회예산정책처법/법률/국회예산정책처법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제10조에서 이동 , 종전 제11조는 제12조로 이동 <2013.12.13>]",
@@ -453,5 +461,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국회예산정책처 직제/법률/국회예산정책처 직제.json"
+  "git_path": "국회예산정책처 직제/법률/국회예산정책처 직제.json",
+  "_schlpub_id_suffix": "법률"
 }

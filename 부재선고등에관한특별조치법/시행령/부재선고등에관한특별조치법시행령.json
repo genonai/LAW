@@ -81,7 +81,9 @@
             "source_provision_id": "law:부재선고등에관한특별조치법시행령#JO0001",
             "reference_id": "law:부재선고에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json"
+            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_git_path": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -116,7 +118,9 @@
             "source_provision_id": "law:부재선고등에관한특별조치법시행령#JO0002",
             "reference_id": "law:부재선고에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json"
+            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_git_path": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -135,7 +139,9 @@
             "source_provision_id": "law:부재선고등에관한특별조치법시행령#JO0002",
             "reference_id": "law:부재선고에관한특별조치법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json"
+            "target_git_path_guess": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_git_path": "부재선고에 관한 특별조치법/법률/부재선고에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -279,5 +285,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "부재선고등에관한특별조치법/시행령/부재선고등에관한특별조치법시행령.json"
+  "git_path": "부재선고등에관한특별조치법/시행령/부재선고등에관한특별조치법시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

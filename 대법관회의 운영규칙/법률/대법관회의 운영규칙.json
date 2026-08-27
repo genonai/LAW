@@ -79,7 +79,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0001",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0001",
             "reference_id": "law:법원조직법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -147,7 +151,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0003",
             "reference_id": "law:법원조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -166,7 +172,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0003",
             "reference_id": "law:법원조직법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "법원조직법/법률/법원조직법.json"
+            "target_git_path_guess": "법원조직법/법률/법원조직법.json",
+            "target_git_path": "법원조직법/법률/법원조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -190,7 +198,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:대법관회의운영규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json"
+            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_git_path": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_git_file_path": "대법관회의 운영규칙/법률/서식/서식1_의안양식.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2006.2.1]",
@@ -284,7 +295,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0007",
             "reference_id": "law:대법관회의운영규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json"
+            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_git_path": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -303,7 +316,9 @@
             "source_provision_id": "law:대법관회의운영규칙#JO0007",
             "reference_id": "law:대법관회의운영규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json"
+            "target_git_path_guess": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_git_path": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 1982.12.2]",
@@ -589,5 +604,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json"
+  "git_path": "대법관회의 운영규칙/법률/대법관회의 운영규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

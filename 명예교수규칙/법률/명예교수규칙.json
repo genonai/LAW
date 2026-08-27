@@ -76,7 +76,9 @@
             "source_provision_id": "law:명예교수규칙#JO0001",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:명예교수규칙#JO0001",
             "reference_id": "law:고등교육법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:명예교수규칙#JO0001",
             "reference_id": "law:고등교육법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json"
+            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_git_path": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -133,7 +139,9 @@
             "source_provision_id": "law:명예교수규칙#JO0001",
             "reference_id": "law:고등교육법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json"
+            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_git_path": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -152,7 +160,9 @@
             "source_provision_id": "law:명예교수규칙#JO0001",
             "reference_id": "law:고등교육법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json"
+            "target_git_path_guess": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_git_path": "고등교육법/시행령/고등교육법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2012.2.29]",
@@ -188,7 +198,9 @@
             "source_provision_id": "law:명예교수규칙#JO0002",
             "reference_id": "law:명예교수규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "명예교수규칙/법률/명예교수규칙.json"
+            "target_git_path_guess": "명예교수규칙/법률/명예교수규칙.json",
+            "target_git_path": "명예교수규칙/법률/명예교수규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -207,7 +219,9 @@
             "source_provision_id": "law:명예교수규칙#JO0002",
             "reference_id": "law:명예교수규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "명예교수규칙/법률/명예교수규칙.json"
+            "target_git_path_guess": "명예교수규칙/법률/명예교수규칙.json",
+            "target_git_path": "명예교수규칙/법률/명예교수규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2012.2.29]",
@@ -242,7 +256,9 @@
             "source_provision_id": "law:명예교수규칙#JO0003",
             "reference_id": "law:국립대학법인서울대학교설립운영에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학법인 서울대학교 설립ㆍ운영에 관한 법률/시행령/국립대학법인 서울대학교 설립ㆍ운영에 관한 법률 시행령.json"
+            "target_git_path_guess": "국립대학법인 서울대학교 설립ㆍ운영에 관한 법률/시행령/국립대학법인 서울대학교 설립ㆍ운영에 관한 법률 시행령.json",
+            "target_git_path": "국립대학법인 서울대학교 설립ㆍ운영에 관한 법률/시행령/국립대학법인 서울대학교 설립ㆍ운영에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2012.2.29]",
@@ -484,5 +500,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "명예교수규칙/법률/명예교수규칙.json"
+  "git_path": "명예교수규칙/법률/명예교수규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

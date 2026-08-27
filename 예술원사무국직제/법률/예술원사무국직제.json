@@ -85,7 +85,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0001",
             "reference_id": "law:대한민국예술원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국예술원법/법률/대한민국예술원법.json"
+            "target_git_path_guess": "대한민국예술원법/법률/대한민국예술원법.json",
+            "target_git_path": "대한민국예술원법/법률/대한민국예술원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -104,7 +106,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0001",
             "reference_id": "law:대한민국예술원법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "대한민국예술원법/법률/대한민국예술원법.json"
+            "target_git_path_guess": "대한민국예술원법/법률/대한민국예술원법.json",
+            "target_git_path": "대한민국예술원법/법률/대한민국예술원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -166,7 +170,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0004",
             "reference_id": "law:예술원사무국직제시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json"
+            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_git_path": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -201,7 +207,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0005",
             "reference_id": "law:예술원사무국직제시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json"
+            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_git_path": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -220,7 +228,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0005",
             "reference_id": "law:예술원사무국직제시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json"
+            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_git_path": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -239,7 +249,9 @@
             "source_provision_id": "law:예술원사무국직제#JO0005",
             "reference_id": "law:예술원사무국직제시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json"
+            "target_git_path_guess": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_git_path": "예술원사무국 직제/시행규칙/예술원사무국 직제 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -409,5 +421,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "예술원사무국직제/법률/예술원사무국직제.json"
+  "git_path": "예술원사무국직제/법률/예술원사무국직제.json",
+  "_schlpub_id_suffix": "법률"
 }

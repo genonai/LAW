@@ -147,7 +147,9 @@
             "source_provision_id": "law:육군동원전력사령부령#JO0006",
             "reference_id": "law:육군동원전력사령부령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "육군동원전력사령부령/법률/육군동원전력사령부령.json"
+            "target_git_path_guess": "육군동원전력사령부령/법률/육군동원전력사령부령.json",
+            "target_git_path": "육군동원전력사령부령/법률/육군동원전력사령부령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -166,7 +168,9 @@
             "source_provision_id": "law:육군동원전력사령부령#JO0006",
             "reference_id": "law:육군동원전력사령부령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "육군동원전력사령부령/법률/육군동원전력사령부령.json"
+            "target_git_path_guess": "육군동원전력사령부령/법률/육군동원전력사령부령.json",
+            "target_git_path": "육군동원전력사령부령/법률/육군동원전력사령부령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -235,5 +239,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "육군동원전력사령부령/법률/육군동원전력사령부령.json"
+  "git_path": "육군동원전력사령부령/법률/육군동원전력사령부령.json",
+  "_schlpub_id_suffix": "법률"
 }

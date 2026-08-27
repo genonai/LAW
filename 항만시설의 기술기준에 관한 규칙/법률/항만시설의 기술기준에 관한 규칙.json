@@ -77,7 +77,9 @@
             "source_provision_id": "law:항만시설의기술기준에관한규칙#JO0001",
             "reference_id": "law:항만법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "law:항만시설의기술기준에관한규칙#JO0001",
             "reference_id": "law:항만법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/법률/항만법.json"
+            "target_git_path_guess": "항만법/법률/항만법.json",
+            "target_git_path": "항만법/법률/항만법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +119,9 @@
             "source_provision_id": "law:항만시설의기술기준에관한규칙#JO0001",
             "reference_id": "law:항만법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/시행령/항만법 시행령.json"
+            "target_git_path_guess": "항만법/시행령/항만법 시행령.json",
+            "target_git_path": "항만법/시행령/항만법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -134,7 +140,9 @@
             "source_provision_id": "law:항만시설의기술기준에관한규칙#JO0001",
             "reference_id": "law:항만법시행령#JO0040",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만법/시행령/항만법 시행령.json"
+            "target_git_path_guess": "항만법/시행령/항만법 시행령.json",
+            "target_git_path": "항만법/시행령/항만법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -238,7 +246,9 @@
             "source_provision_id": "law:항만시설의기술기준에관한규칙#JO0007",
             "reference_id": "law:항만시설의기술기준에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "항만시설의 기술기준에 관한 규칙/법률/항만시설의 기술기준에 관한 규칙.json"
+            "target_git_path_guess": "항만시설의 기술기준에 관한 규칙/법률/항만시설의 기술기준에 관한 규칙.json",
+            "target_git_path": "항만시설의 기술기준에 관한 규칙/법률/항만시설의 기술기준에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -481,5 +491,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "항만시설의 기술기준에 관한 규칙/법률/항만시설의 기술기준에 관한 규칙.json"
+  "git_path": "항만시설의 기술기준에 관한 규칙/법률/항만시설의 기술기준에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

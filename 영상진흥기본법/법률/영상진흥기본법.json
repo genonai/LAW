@@ -146,7 +146,9 @@
             "source_provision_id": "law:영상진흥기본법#JO0005",
             "reference_id": "law:영상진흥기본법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "영상진흥기본법/시행령/영상진흥기본법 시행령.json"
+            "target_git_path_guess": "영상진흥기본법/시행령/영상진흥기본법 시행령.json",
+            "target_git_path": "영상진흥기본법/시행령/영상진흥기본법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2007.12.21]",
@@ -182,7 +184,9 @@
             "source_provision_id": "law:영상진흥기본법#JO0006",
             "reference_id": "law:영상진흥기본법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "영상진흥기본법/법률/영상진흥기본법.json"
+            "target_git_path_guess": "영상진흥기본법/법률/영상진흥기본법.json",
+            "target_git_path": "영상진흥기본법/법률/영상진흥기본법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2007.12.21]",
@@ -413,5 +417,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "영상진흥기본법/법률/영상진흥기본법.json"
+  "git_path": "영상진흥기본법/법률/영상진흥기본법.json",
+  "_schlpub_id_suffix": "법률"
 }

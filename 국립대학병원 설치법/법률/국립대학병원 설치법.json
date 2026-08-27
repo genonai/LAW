@@ -85,7 +85,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0001",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -136,7 +138,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0003",
             "reference_id": "law:국립대학병원설치법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -155,7 +159,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0003",
             "reference_id": "law:국립대학병원설치법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -206,7 +212,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -225,7 +235,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -244,7 +259,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json"
+            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -263,7 +283,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -282,7 +306,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -301,7 +329,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -320,7 +352,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -339,7 +375,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -358,7 +398,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -377,7 +421,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -403,7 +451,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -429,7 +479,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -455,7 +507,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -476,7 +530,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -502,7 +558,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -523,7 +581,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -549,7 +609,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -575,7 +637,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -601,7 +666,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -627,7 +695,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0005",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -677,7 +747,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0007",
             "reference_id": "law:국립대학병원설치법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json"
+            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -712,7 +784,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0008",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -731,7 +805,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0008",
             "reference_id": "law:공공보건의료에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -750,7 +826,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0008",
             "reference_id": "law:공공보건의료에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17]",
@@ -785,7 +863,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0009",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -804,7 +884,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0009",
             "reference_id": "law:공공보건의료에관한법률#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.1.7][종전 제9조는 제10조로 이동 <2014.1.7>]",
@@ -854,7 +936,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0010",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -873,7 +957,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0010",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -892,7 +978,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0010",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -911,7 +999,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0010",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제9조에서 이동, 종전 제10조는 제11조로 이동 <2014.1.7>]",
@@ -962,7 +1052,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -981,7 +1075,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1000,7 +1099,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json"
+            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1019,7 +1123,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1038,7 +1146,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1057,7 +1169,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1076,7 +1192,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1095,7 +1215,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1114,7 +1238,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1133,7 +1261,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1159,7 +1291,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1185,7 +1319,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1211,7 +1347,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1237,7 +1375,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1258,7 +1398,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1284,7 +1426,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1305,7 +1449,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1331,7 +1477,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1357,7 +1505,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1383,7 +1534,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1409,7 +1563,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0012",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17][제11조에서 이동, 종전 제12조는 제13조로 이동 <2014.1.7>]",
@@ -1444,7 +1600,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0013",
             "reference_id": "law:공공보건의료에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1463,7 +1621,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0013",
             "reference_id": "law:공공보건의료에관한법률#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json"
+            "target_git_path_guess": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_git_path": "공공보건의료에 관한 법률/법률/공공보건의료에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제12조에서 이동, 종전 제13조는 제14조로 이동 <2014.1.7>]",
@@ -1498,7 +1658,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1517,7 +1681,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1536,7 +1705,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json"
+            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1555,7 +1729,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1574,7 +1752,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1593,7 +1775,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1612,7 +1798,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1631,7 +1821,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1650,7 +1844,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1669,7 +1867,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1695,7 +1897,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1721,7 +1925,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1747,7 +1953,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1768,7 +1976,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1794,7 +2004,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1815,7 +2027,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1841,7 +2055,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1867,7 +2083,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1893,7 +2112,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1919,7 +2141,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0014",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17][제13조에서 이동, 종전 제14조는 제15조로 이동 <2014.1.7>]",
@@ -1962,7 +2186,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -1988,7 +2214,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2014,7 +2242,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2035,7 +2265,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2061,7 +2293,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2082,7 +2316,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2108,7 +2345,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2134,7 +2374,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2160,7 +2402,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2181,7 +2425,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2207,7 +2453,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2226,7 +2474,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2245,7 +2497,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2264,7 +2521,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json"
+            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2283,7 +2545,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2302,7 +2568,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2321,7 +2591,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2340,7 +2614,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2359,7 +2637,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2378,7 +2660,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2397,7 +2683,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0015",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2010.3.17][제14조에서 이동, 종전 제15조는 제16조로 이동 <2014.1.7>]",
@@ -2432,7 +2722,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "law:국립대학병원설치법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json"
+            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2451,7 +2743,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2470,7 +2764,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "law:고등교육법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2489,7 +2785,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "law:고등교육법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2508,7 +2806,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "law:고등교육법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "고등교육법/법률/고등교육법.json"
+            "target_git_path_guess": "고등교육법/법률/고등교육법.json",
+            "target_git_path": "고등교육법/법률/고등교육법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2527,7 +2827,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2546,7 +2850,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2565,7 +2874,12 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json"
+            "target_git_path_guess": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2584,7 +2898,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2603,7 +2921,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2622,7 +2944,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2641,7 +2967,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2660,7 +2990,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2679,7 +3013,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2698,7 +3036,11 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -2724,7 +3066,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2750,7 +3094,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:강원대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json"
+            "target_git_path_guess": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_git_path": "강원대학교병원 정관/강원대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2776,7 +3122,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2802,7 +3151,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2828,7 +3180,10 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json"
+            "target_git_path_guess": "경북대학교병원 정관/경북대학교병원 정관.json",
+            "target_candidates": 2,
+            "target_git_path": "경북대학교병원정관/경북대학교병원정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2854,7 +3209,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:경상국립대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json"
+            "target_git_path_guess": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_git_path": "경상국립대학교병원 정관/경상국립대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2880,7 +3237,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:충북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json"
+            "target_git_path_guess": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_git_path": "충북대학교병원 정관/충북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2906,7 +3265,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:충남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json"
+            "target_git_path_guess": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_git_path": "충남대학교병원 정관/충남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2932,7 +3293,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:제주대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json"
+            "target_git_path_guess": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_git_path": "제주대학교병원 정관/제주대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2953,7 +3316,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:전북대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json"
+            "target_git_path_guess": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_git_path": "전북대학교병원 정관/전북대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -2979,7 +3344,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:전남대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json"
+            "target_git_path_guess": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_git_path": "전남대학교병원 정관/전남대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -3000,7 +3367,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0016",
             "reference_id": "SchlPubRul:부산대학교병원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json"
+            "target_git_path_guess": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_git_path": "부산대학교병원 정관/부산대학교병원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2010.3.17][제15조에서 이동, 종전 제16조는 제17조로 이동 <2014.1.7>]",
@@ -3035,7 +3404,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0017",
             "reference_id": "law:국립대학병원설치법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json"
+            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3054,7 +3425,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0017",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3073,7 +3446,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0017",
             "reference_id": "law:국가공무원법#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3092,7 +3467,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0017",
             "reference_id": "law:국립대학병원설치법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제16조에서 이동, 종전 제17조는 제18조로 이동 <2014.1.7>]",
@@ -3127,7 +3504,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0018",
             "reference_id": "law:국립대학병원설치법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제17조에서 이동, 종전 제18조는 제19조로 이동 <2014.1.7>]",
@@ -3162,7 +3541,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0019",
             "reference_id": "law:국립대학병원설치법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3181,7 +3562,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0019",
             "reference_id": "law:국립대학병원설치법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제18조에서 이동, 종전 제19조는 제20조로 이동 <2014.1.7>]",
@@ -3231,7 +3614,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0021",
             "reference_id": "law:국립대학병원설치법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제20조에서 이동, 종전 제21조는 제22조로 이동 <2014.1.7>]",
@@ -3267,7 +3652,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0022",
             "reference_id": "law:공인회계사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3286,7 +3673,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0022",
             "reference_id": "law:공인회계사법#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json"
+            "target_git_path_guess": "공인회계사법/법률/공인회계사법.json",
+            "target_git_path": "공인회계사법/법률/공인회계사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3305,7 +3694,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0022",
             "reference_id": "law:국립대학병원설치법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제21조에서 이동, 종전 제22조는 제23조로 이동 <2014.1.7>]",
@@ -3357,7 +3748,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0024",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제23조에서 이동, 종전 제24조는 제25조로 이동 <2014.1.7>]",
@@ -3392,7 +3785,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0025",
             "reference_id": "law:국립대학병원설치법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json"
+            "target_git_path_guess": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3411,7 +3806,9 @@
             "source_provision_id": "law:국립대학병원설치법#JO0025",
             "reference_id": "law:국립대학병원설치법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json"
+            "target_git_path_guess": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_git_path": "국립대학병원 설치법/시행령/국립대학병원 설치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.3.17][제24조에서 이동 <2014.1.7>]",
@@ -3665,5 +4062,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json"
+  "git_path": "국립대학병원 설치법/법률/국립대학병원 설치법.json",
+  "_schlpub_id_suffix": "법률"
 }

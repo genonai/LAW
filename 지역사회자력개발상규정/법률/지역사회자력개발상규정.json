@@ -106,7 +106,9 @@
             "source_provision_id": "law:지역사회자력개발상규정#JO0003",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -141,7 +143,9 @@
             "source_provision_id": "law:지역사회자력개발상규정#JO0004",
             "reference_id": "law:정부표창규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -160,7 +164,9 @@
             "source_provision_id": "law:지역사회자력개발상규정#JO0004",
             "reference_id": "law:정부표창규정#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json"
+            "target_git_path_guess": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_git_path": "정부 표창 규정/법률/정부 표창 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -296,5 +302,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "지역사회자력개발상규정/법률/지역사회자력개발상규정.json"
+  "git_path": "지역사회자력개발상규정/법률/지역사회자력개발상규정.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -124,7 +124,9 @@
             "source_provision_id": "law:세계선거기관협의회지원에관한법률#JO0004",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -204,7 +206,9 @@
             "source_provision_id": "law:세계선거기관협의회지원에관한법률#JO0008",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -223,7 +227,9 @@
             "source_provision_id": "law:세계선거기관협의회지원에관한법률#JO0008",
             "reference_id": "law:국가공무원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -242,7 +248,9 @@
             "source_provision_id": "law:세계선거기관협의회지원에관한법률#JO0008",
             "reference_id": "law:지방공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
+            "target_git_path": "지방공무원법/법률/지방공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -261,7 +269,9 @@
             "source_provision_id": "law:세계선거기관협의회지원에관한법률#JO0008",
             "reference_id": "law:지방공무원법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json"
+            "target_git_path_guess": "지방공무원법/법률/지방공무원법.json",
+            "target_git_path": "지방공무원법/법률/지방공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "제정",
@@ -349,5 +359,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "세계선거기관협의회 지원에 관한 법률/법률/세계선거기관협의회 지원에 관한 법률.json"
+  "git_path": "세계선거기관협의회 지원에 관한 법률/법률/세계선거기관협의회 지원에 관한 법률.json",
+  "_schlpub_id_suffix": "법률"
 }

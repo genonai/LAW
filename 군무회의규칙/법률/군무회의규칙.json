@@ -76,7 +76,9 @@
             "source_provision_id": "law:군무회의규칙#JO0001",
             "reference_id": "law:국방부와그소속기관직제#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json"
+            "target_git_path_guess": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json",
+            "target_git_path": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:군무회의규칙#JO0001",
             "reference_id": "law:국방부와그소속기관직제#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json"
+            "target_git_path_guess": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json",
+            "target_git_path": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1983.4.27]",
@@ -177,7 +181,9 @@
             "source_provision_id": "law:군무회의규칙#JO0005",
             "reference_id": "law:군무회의규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "군무회의규칙/법률/군무회의규칙.json"
+            "target_git_path_guess": "군무회의규칙/법률/군무회의규칙.json",
+            "target_git_path": "군무회의규칙/법률/군무회의규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -335,5 +341,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군무회의규칙/법률/군무회의규칙.json"
+  "git_path": "군무회의규칙/법률/군무회의규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

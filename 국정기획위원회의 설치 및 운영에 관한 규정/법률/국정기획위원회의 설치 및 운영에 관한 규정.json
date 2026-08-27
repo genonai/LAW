@@ -230,7 +230,9 @@
             "source_provision_id": "law:국정기획위원회의설치및운영에관한규정#JO0011",
             "reference_id": "law:국가공무원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -249,7 +251,9 @@
             "source_provision_id": "law:국정기획위원회의설치및운영에관한규정#JO0011",
             "reference_id": "law:국가공무원법#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json"
+            "target_git_path_guess": "국가공무원법/법률/국가공무원법.json",
+            "target_git_path": "국가공무원법/법률/국가공무원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -284,7 +288,9 @@
             "source_provision_id": "law:국정기획위원회의설치및운영에관한규정#JO0012",
             "reference_id": "law:국정기획위원회의설치및운영에관한규정#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json"
+            "target_git_path_guess": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json",
+            "target_git_path": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -303,7 +309,9 @@
             "source_provision_id": "law:국정기획위원회의설치및운영에관한규정#JO0012",
             "reference_id": "law:국정기획위원회의설치및운영에관한규정#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json"
+            "target_git_path_guess": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json",
+            "target_git_path": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "전부개정",
@@ -437,5 +445,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json"
+  "git_path": "국정기획위원회의 설치 및 운영에 관한 규정/법률/국정기획위원회의 설치 및 운영에 관한 규정.json",
+  "_schlpub_id_suffix": "법률"
 }

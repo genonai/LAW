@@ -244,7 +244,9 @@
             "source_provision_id": "law:군근무성적평정규정#JO0011_02",
             "reference_id": "law:공무원수당등에관한규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -263,7 +265,9 @@
             "source_provision_id": "law:군근무성적평정규정#JO0011_02",
             "reference_id": "law:공무원수당등에관한규정#JO0007_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json"
+            "target_git_path_guess": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_git_path": "공무원수당 등에 관한 규정/법률/공무원수당 등에 관한 규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 1995.12.30]",
@@ -385,5 +389,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군근무성적평정규정/법률/군근무성적평정규정.json"
+  "git_path": "군근무성적평정규정/법률/군근무성적평정규정.json",
+  "_schlpub_id_suffix": "법률"
 }

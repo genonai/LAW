@@ -78,7 +78,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0001",
             "reference_id": "law:지방자치법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json"
+            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_git_path": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0001",
             "reference_id": "law:지방자치법시행령#JO0102",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json"
+            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_git_path": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -131,7 +135,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0002",
             "reference_id": "law:지방자치법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json"
+            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_git_path": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -150,7 +156,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0002",
             "reference_id": "law:지방자치법시행령#JO0096",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json"
+            "target_git_path_guess": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_git_path": "지방자치법/시행령/지방자치법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2026.4.2]",
@@ -229,7 +237,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0006",
             "reference_id": "law:지방자치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -248,7 +258,9 @@
             "source_provision_id": "law:행정협의회의구성및운영에관한규칙#JO0006",
             "reference_id": "law:지방자치법#JO0173",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방자치법/법률/지방자치법.json"
+            "target_git_path_guess": "지방자치법/법률/지방자치법.json",
+            "target_git_path": "지방자치법/법률/지방자치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2026.4.2]",
@@ -370,5 +382,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "행정협의회의 구성 및 운영에 관한 규칙/법률/행정협의회의 구성 및 운영에 관한 규칙.json"
+  "git_path": "행정협의회의 구성 및 운영에 관한 규칙/법률/행정협의회의 구성 및 운영에 관한 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

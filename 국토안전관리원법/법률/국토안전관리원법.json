@@ -107,7 +107,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0003",
             "reference_id": "law:국토안전관리원법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -141,7 +143,11 @@
             "source_provision_id": "law:국토안전관리원법#JO0004",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -160,7 +166,11 @@
             "source_provision_id": "law:국토안전관리원법#JO0004",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -186,7 +196,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0004",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -212,7 +224,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0004",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -246,7 +260,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0005",
             "reference_id": "law:산업안전보건법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json"
+            "target_git_path_guess": "산업안전보건법/법률/산업안전보건법.json",
+            "target_git_path": "산업안전보건법/법률/산업안전보건법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -265,7 +281,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0005",
             "reference_id": "law:건설기술진흥법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json"
+            "target_git_path_guess": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_git_path": "건설기술 진흥법/법률/건설기술 진흥법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -284,7 +302,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0005",
             "reference_id": "law:시설물의안전및유지관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json"
+            "target_git_path_guess": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_git_path": "시설물의 안전 및 유지관리에 관한 특별법/법률/시설물의 안전 및 유지관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -303,7 +323,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0005",
             "reference_id": "law:지하안전관리에관한특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지하안전관리에 관한 특별법/법률/지하안전관리에 관한 특별법.json"
+            "target_git_path_guess": "지하안전관리에 관한 특별법/법률/지하안전관리에 관한 특별법.json",
+            "target_git_path": "지하안전관리에 관한 특별법/법률/지하안전관리에 관한 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -322,7 +344,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0005",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -370,7 +394,11 @@
             "source_provision_id": "law:국토안전관리원법#JO0007",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -389,7 +417,11 @@
             "source_provision_id": "law:국토안전관리원법#JO0007",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -415,7 +447,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0007",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -441,7 +475,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0007",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -475,7 +511,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -494,7 +532,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -513,7 +553,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -532,7 +574,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:공공기관의운영에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -551,7 +595,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:건설산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json"
+            "target_git_path_guess": "건설산업기본법/법률/건설산업기본법.json",
+            "target_git_path": "건설산업기본법/법률/건설산업기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -570,7 +616,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:국토안전관리원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -589,7 +637,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:국토안전관리원법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -608,7 +658,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:국토안전관리원법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -627,7 +679,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:국토안전관리원법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -646,7 +700,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0008",
             "reference_id": "law:국토안전관리원법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -694,7 +750,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0010",
             "reference_id": "law:국토안전관리원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -713,7 +771,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0010",
             "reference_id": "law:국토안전관리원법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -747,7 +807,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0011",
             "reference_id": "law:국토안전관리원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -781,7 +843,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0012",
             "reference_id": "law:국토안전관리원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -815,7 +879,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -834,7 +900,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -853,7 +921,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -872,7 +942,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -891,7 +963,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -910,7 +984,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -929,7 +1005,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0013",
             "reference_id": "law:국토안전관리원법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json"
+            "target_git_path_guess": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_git_path": "국토안전관리원법/시행령/국토안전관리원법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -978,7 +1056,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0015",
             "reference_id": "law:국유재산특례제한법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json"
+            "target_git_path_guess": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_git_path": "국유재산특례제한법/법률/국유재산특례제한법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1068,7 +1148,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0020",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1087,7 +1169,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0020",
             "reference_id": "law:형법#JO0129",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1106,7 +1190,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0020",
             "reference_id": "law:형법#JO0130",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1125,7 +1211,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0020",
             "reference_id": "law:형법#JO0131",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1144,7 +1232,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0020",
             "reference_id": "law:형법#JO0132",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1192,7 +1282,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0022",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1211,7 +1303,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0022",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1245,7 +1339,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0023",
             "reference_id": "law:국토안전관리원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1264,7 +1360,11 @@
             "source_provision_id": "law:국토안전관리원법#JO0023",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -1290,7 +1390,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0023",
             "reference_id": "SchlPubRul:국토안전관리원정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json"
+            "target_git_path_guess": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_git_path": "국토안전관리원 정관/국토안전관리원 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -1324,7 +1426,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0024",
             "reference_id": "law:국토안전관리원법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1358,7 +1462,9 @@
             "source_provision_id": "law:국토안전관리원법#JO0025",
             "reference_id": "law:국토안전관리원법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json"
+            "target_git_path_guess": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1454,5 +1560,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국토안전관리원법/법률/국토안전관리원법.json"
+  "git_path": "국토안전관리원법/법률/국토안전관리원법.json",
+  "_schlpub_id_suffix": "법률"
 }

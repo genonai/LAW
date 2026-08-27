@@ -76,7 +76,9 @@
             "source_provision_id": "law:헌법재판소재판관회의규칙#JO0001",
             "reference_id": "law:헌법재판소법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json",
+            "target_git_path": "헌법재판소법/법률/헌법재판소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:헌법재판소재판관회의규칙#JO0001",
             "reference_id": "law:헌법재판소법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json",
+            "target_git_path": "헌법재판소법/법률/헌법재판소법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:헌법재판소재판관회의규칙#JO0001",
             "reference_id": "law:헌법재판소법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json"
+            "target_git_path_guess": "헌법재판소법/법률/헌법재판소법.json",
+            "target_git_path": "헌법재판소법/법률/헌법재판소법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.16]",
@@ -184,7 +190,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:헌법재판소재판관회의규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json"
+            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_file_path": "헌법재판소 재판관회의 규칙/법률/서식/서식1_의안제안서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.16]",
@@ -278,7 +287,9 @@
             "source_provision_id": "law:헌법재판소재판관회의규칙#JO0008",
             "reference_id": "law:헌법재판소재판관회의규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json"
+            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -302,7 +313,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:헌법재판소재판관회의규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json"
+            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_file_path": "헌법재판소 재판관회의 규칙/법률/서식/서식2_재판관회의록.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -321,7 +335,9 @@
             "source_provision_id": "law:헌법재판소재판관회의규칙#JO0008",
             "reference_id": "law:헌법재판소재판관회의규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json"
+            "target_git_path_guess": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.16]",
@@ -631,5 +647,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json"
+  "git_path": "헌법재판소 재판관회의 규칙/법률/헌법재판소 재판관회의 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

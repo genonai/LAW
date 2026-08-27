@@ -126,7 +126,9 @@
             "source_provision_id": "law:행정대집행법#JO0004",
             "reference_id": "law:행정대집행법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정대집행법/법률/행정대집행법.json"
+            "target_git_path_guess": "행정대집행법/법률/행정대집행법.json",
+            "target_git_path": "행정대집행법/법률/행정대집행법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2015.5.18]",
@@ -223,7 +225,9 @@
             "source_provision_id": "law:행정대집행법#JO0009",
             "reference_id": "law:행정대집행법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "행정대집행법/시행령/행정대집행법 시행령.json"
+            "target_git_path_guess": "행정대집행법/시행령/행정대집행법 시행령.json",
+            "target_git_path": "행정대집행법/시행령/행정대집행법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -318,5 +322,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "행정대집행법/법률/행정대집행법.json"
+  "git_path": "행정대집행법/법률/행정대집행법.json",
+  "_schlpub_id_suffix": "법률"
 }

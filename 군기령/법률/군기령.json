@@ -80,7 +80,9 @@
             "source_provision_id": "law:군기령#JO0001",
             "reference_id": "law:국군조직법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:군기령#JO0001",
             "reference_id": "law:국군조직법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "law:군기령#JO0001",
             "reference_id": "law:국군조직법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국군조직법/법률/국군조직법.json"
+            "target_git_path_guess": "국군조직법/법률/국군조직법.json",
+            "target_git_path": "국군조직법/법률/국군조직법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -169,7 +175,9 @@
             "source_provision_id": "law:군기령#JO0003",
             "reference_id": "law:군인사법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json"
+            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json",
+            "target_git_path": "군인사법/시행령/군인사법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -188,7 +196,9 @@
             "source_provision_id": "law:군기령#JO0003",
             "reference_id": "law:군인사법시행령#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json"
+            "target_git_path_guess": "군인사법/시행령/군인사법 시행령.json",
+            "target_git_path": "군인사법/시행령/군인사법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -228,7 +238,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:군기령#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "군기령/법률/군기령.json"
+            "target_git_path_guess": "군기령/법률/군기령.json",
+            "target_git_path": "군기령/법률/군기령.json",
+            "target_git_file_path": "군기령/법률/별표/별표1_군기의 규격 및 재질 등(제4조제1항 관련).hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -252,7 +265,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:군기령#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "군기령/법률/군기령.json"
+            "target_git_path_guess": "군기령/법률/군기령.json",
+            "target_git_path": "군기령/법률/군기령.json",
+            "target_git_file_path": "군기령/법률/별표/별표2_군기의 받침다리의 규격 및 재질 등(제4조제2항 관련).hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.3.21]",
@@ -500,5 +516,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군기령/법률/군기령.json"
+  "git_path": "군기령/법률/군기령.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -77,7 +77,9 @@
             "source_provision_id": "law:근로감독관증규칙#JO0001",
             "reference_id": "law:근로감독관규정#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json"
+            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json",
+            "target_git_path": "근로감독관규정/법률/근로감독관규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -96,7 +98,9 @@
             "source_provision_id": "law:근로감독관증규칙#JO0001",
             "reference_id": "law:근로감독관규정#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json"
+            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json",
+            "target_git_path": "근로감독관규정/법률/근로감독관규정.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +119,9 @@
             "source_provision_id": "law:근로감독관증규칙#JO0001",
             "reference_id": "law:근로감독관규정#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json"
+            "target_git_path_guess": "근로감독관규정/법률/근로감독관규정.json",
+            "target_git_path": "근로감독관규정/법률/근로감독관규정.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.12.1]",
@@ -172,7 +178,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:근로감독관증규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로감독관증 규칙/법률/근로감독관증 규칙.json"
+            "target_git_path_guess": "근로감독관증 규칙/법률/근로감독관증 규칙.json",
+            "target_git_path": "근로감독관증 규칙/법률/근로감독관증 규칙.json",
+            "target_git_file_path": "근로감독관증 규칙/법률/서식/서식2_근로감독관증 발급대장.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -196,7 +205,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:근로감독관증규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로감독관증 규칙/법률/근로감독관증 규칙.json"
+            "target_git_path_guess": "근로감독관증 규칙/법률/근로감독관증 규칙.json",
+            "target_git_path": "근로감독관증 규칙/법률/근로감독관증 규칙.json",
+            "target_git_file_path": "근로감독관증 규칙/법률/서식/서식3_근로감독관증 재발급 신청서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.12.1]",
@@ -477,5 +489,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "근로감독관증 규칙/법률/근로감독관증 규칙.json"
+  "git_path": "근로감독관증 규칙/법률/근로감독관증 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }

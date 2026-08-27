@@ -80,7 +80,9 @@
             "source_provision_id": "law:군인급식규정#JO0001",
             "reference_id": "law:군인사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:군인급식규정#JO0001",
             "reference_id": "law:군인사법#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "군인사법/법률/군인사법.json"
+            "target_git_path_guess": "군인사법/법률/군인사법.json",
+            "target_git_path": "군인사법/법률/군인사법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2012.9.19]",
@@ -214,5 +218,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "군인 급식 규정/법률/군인 급식 규정.json"
+  "git_path": "군인 급식 규정/법률/군인 급식 규정.json",
+  "_schlpub_id_suffix": "법률"
 }
