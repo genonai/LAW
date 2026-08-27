@@ -91,9 +91,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -112,9 +110,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -133,9 +129,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -154,9 +148,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -175,9 +167,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -196,9 +186,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -217,30 +205,7 @@
             "source_provision_id": "law:양곡관리법#JO0002",
             "reference_id": "law:양곡관리법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제2조",
-            "source_clause": "제2조제3호",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는 양곡을",
-            "target_law_name": "양곡관리법 시행령",
-            "target_article_no": "제2조",
-            "target_article_title": "곡류 등",
-            "target_mst": "288989",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:양곡관리법#JO0002",
-            "reference_id": "law:양곡관리법시행령#JO0002",
-            "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -275,16 +240,33 @@
             "source_provision_id": "law:양곡관리법#JO0003",
             "reference_id": "law:양곡관리법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제3조",
+            "source_clause": "제3조",
+            "link_text": "고시하고",
+            "line_text": "④ 농림축산식품부장관은 제1항에 따라 양곡수급계획을 수립한 때에는 대통령령으로 정하는 바에 따라 고시하고, 지체 없이 국회 소관 상임위원회에 제출하여야 한다.",
+            "target_law_name": "2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)",
+            "resolve_method": "render",
+            "source_provision_id": "law:양곡관리법#JO0003",
+            "reference_id": "admrul:2026년도공공비축시행계획(안)및2027양곡연도정부관리양곡수급계획(안)#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)/2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안).json"
           },
           {
             "relation_type": "delegation",
             "delegation_type": "시행령",
             "target_category": "법령",
             "source_article_no": "제3조",
-            "source_clause": "제3조제4항",
+            "source_clause": "제3조제1항",
             "link_text": "대통령령",
             "line_text": "대통령령으로 정하는",
             "target_law_name": "양곡관리법 시행령",
@@ -296,9 +278,26 @@
             "source_provision_id": "law:양곡관리법#JO0003",
             "reference_id": "law:양곡관리법시행령#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제3조",
+            "source_clause": "제3조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제2조의4",
+            "target_article_title": "양곡수급계획의 고시",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조의4",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0003",
+            "reference_id": "law:양곡관리법시행령#JO0002_04",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -306,19 +305,19 @@
             "target_category": "행정규칙",
             "source_article_no": "제3조",
             "source_clause": "제3조제4항",
-            "link_text": "고시하여야 한다",
-            "line_text": "양곡수급계획을 대통령령으로 정하는 바에 따라 고시하여야 한다",
-            "target_law_name": "2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획",
+            "link_text": "고시하고",
+            "line_text": "양곡수급계획을 수립한 때에는 대통령령으로 정하는 바에 따라 고시하고",
+            "target_law_name": "2025년도 공공비축 시행계획(안) 및 2026 양곡연도 정부관리양곡 수급계획(안)",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "2100000100809",
-            "target_url": "https://www.law.go.kr/행정규칙/2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획",
+            "target_mst": "2100000265110",
+            "target_url": "https://www.law.go.kr/행정규칙/2025년도 공공비축 시행계획(안) 및 2026 양곡연도 정부관리양곡 수급계획(안)",
             "resolve_method": "delegation",
             "is_current_target": false,
             "source_provision_id": "law:양곡관리법#JO0003",
-            "reference_id": "admrul:2017년도공공비축시행계획및2018양곡연도정부관리양곡수급계획#DOC",
+            "reference_id": "admrul:2025년도공공비축시행계획(안)및2026양곡연도정부관리양곡수급계획(안)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획/2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획.json"
+            "target_git_path_guess": "2025년도 공공비축 시행계획(안) 및 2026 양곡연도 정부관리양곡 수급계획(안)/2025년도 공공비축 시행계획(안) 및 2026 양곡연도 정부관리양곡 수급계획(안).json"
           }
         ],
         "note": "[본조신설 2025.8.26][종전 제3조는 제6조로 이동 <2025.8.26>]",
@@ -353,9 +352,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -374,9 +371,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -395,9 +390,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -416,9 +409,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -437,9 +428,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -458,9 +447,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -479,9 +466,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -500,9 +485,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -521,9 +504,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -542,30 +523,7 @@
             "source_provision_id": "law:양곡관리법#JO0004",
             "reference_id": "law:양곡관리법#JO0016_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제4조",
-            "source_clause": "제4조제1항",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는",
-            "target_law_name": "양곡관리법 시행령",
-            "target_article_no": "제3조",
-            "target_article_title": "생산자 등의 범위",
-            "target_mst": "288989",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제3조",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:양곡관리법#JO0004",
-            "reference_id": "law:양곡관리법시행령#JO0003",
-            "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -576,17 +534,34 @@
             "link_text": "대통령령",
             "line_text": "대통령령으로 정한다",
             "target_law_name": "양곡관리법 시행령",
-            "target_article_no": "제5조",
-            "target_article_title": "선금 및 약정이자",
+            "target_article_no": "제2조의5",
+            "target_article_title": "양곡수급관리위원회의 구성",
             "target_mst": "288989",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제5조",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조의5",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0004",
-            "reference_id": "law:양곡관리법시행령#JO0005",
+            "reference_id": "law:양곡관리법시행령#JO0002_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제4조",
+            "source_clause": "제4조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제2조의6",
+            "target_article_title": "양곡위원회의 운영",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조의6",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0004",
+            "reference_id": "law:양곡관리법시행령#JO0002_06",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2025.8.26][종전 제4조는 제7조로 이동 <2025.8.26>]",
@@ -615,15 +590,13 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -636,15 +609,13 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "제21조",
             "target_article_title": "선택직접지불제도의 시행 및 종류",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/제21조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -663,9 +634,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:농업농촌및식품산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -684,9 +653,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:농업농촌및식품산업기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -705,9 +672,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:농업농촌및식품산업기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -726,9 +691,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:양곡관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -747,9 +710,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:양곡관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -768,30 +729,7 @@
             "source_provision_id": "law:양곡관리법#JO0005",
             "reference_id": "law:양곡관리법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
-          },
-          {
-            "relation_type": "delegation",
-            "delegation_type": "시행규칙",
-            "target_category": "법령",
-            "source_article_no": "제5조",
-            "source_clause": "제5조제2항",
-            "link_text": "농림축산식품부령",
-            "line_text": "농림축산식품부령으로 정하는",
-            "target_law_name": "양곡관리법 시행규칙",
-            "target_article_no": "제1조의2",
-            "target_article_title": "부대비용의 범위",
-            "target_mst": "252981",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의2",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:양곡관리법#JO0005",
-            "reference_id": "law:양곡관리법시행규칙#JO0001_02",
-            "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[본조신설 2025.8.26][종전 제5조는 제8조로 이동 <2025.8.26>]",
@@ -808,7 +746,46 @@
         "chapter_path": "제2장 양곡의 수급관리 <개정 2025.8.26>",
         "content": "제5조의2(미곡수급관리시스템 구축ㆍ운영)\n① 농림축산식품부장관은 미곡의 효율적인 수급관리를 위하여 미곡의 생산ㆍ수요ㆍ재고 등 수급과 관련된 통계와 관측자료 등을 체계적으로 수집ㆍ분석ㆍ관리하기 위한 미곡수급관리시스템을 구축ㆍ운영할 수 있다.\n② 농림축산식품부장관은 제1항에 따른 미곡수급관리시스템의 구축ㆍ운영을 위하여 관계 행정기관, 관련 기관 또는 단체에 대하여 필요한 자료의 제출을 요청할 수 있다. 이 경우 자료의 제출을 요청받은 관계 행정기관, 관련 기관 또는 단체는 특별한 사유가 없으면 이에 따라야 한다.\n③ 농림축산식품부장관은 제1항에 따른 미곡수급관리시스템의 구축ㆍ운영을 대통령령으로 정하는 전문기관에 위탁할 수 있다.\n④ 제1항에 따른 미곡수급관리시스템의 구축ㆍ운영에 필요한 사항은 농림축산식품부령으로 정한다.",
         "enforcement_date": "20260827",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2제3항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제2조의7",
+            "target_article_title": "미곡수급관리시스템 구축ㆍ운영의 위탁",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조의7",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0005_02",
+            "reference_id": "law:양곡관리법시행령#JO0002_07",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제5조의2",
+            "source_clause": "제5조의2제4항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정한다",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제1조의2",
+            "target_article_title": "미곡수급관리시스템 구축ㆍ운영",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0005_02",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
+          }
+        ],
         "note": "[본조신설 2025.8.26]",
         "revision_type": "일부개정",
         "changed": "N",
@@ -823,7 +800,66 @@
         "chapter_path": "제2장 양곡의 수급관리 <개정 2025.8.26>",
         "content": "제6조(정부관리양곡의 수급계획 수립)\n① 농림축산식품부장관은 매년 정부관리양곡의 수급계획(이하 \"정부양곡수급계획\"이라 한다)을 수립하여야 한다. <개정 2013.3.23, 2025.8.26>\n② 정부양곡수급계획에는 다음 각 호의 사항이 포함되어야 한다. <개정 2013.3.22, 2013.3.23, 2025.8.26>\n1. 정부관리양곡의 수급관리를 위한 기본목표 및 추진방향\n2. 정부관리양곡의 수요량 및 공급량\n3. 정부관리양곡의 적정 재고량 관리에 관한 사항\n4. 공공비축양곡의 운용에 관한 사항\n5. 그 밖에 농림축산식품부장관이 필요하다고 인정하는 사항\n③ 농림축산식품부장관은 제1항에 따라 정부양곡수급계획을 수립한 경우 양곡위원회의 심의를 거친 후 국무회의의 심의를 거쳐 대통령의 승인을 받아 확정한다. <개정 2013.3.23, 2025.8.26>\n④ 농림축산식품부장관은 제3항에 따라 확정된 정부양곡수급계획을 대통령령으로 정하는 바에 따라 고시하고, 지체 없이 국회 소관 상임위원회에 제출하여야 한다. <개정 2013.3.23, 2025.8.26>",
         "enforcement_date": "20260827",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조",
+            "link_text": "고시하고",
+            "line_text": "④ 농림축산식품부장관은 제3항에 따라 확정된 정부양곡수급계획을 대통령령으로 정하는 바에 따라 고시하고, 지체 없이 국회 소관 상임위원회에 제출하여야 한다. <개정 2013.3.23, 2025.8.26>",
+            "target_law_name": "2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "",
+            "target_url": "https://www.law.go.kr/행정규칙/2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)",
+            "resolve_method": "render",
+            "source_provision_id": "law:양곡관리법#JO0006",
+            "reference_id": "admrul:2026년도공공비축시행계획(안)및2027양곡연도정부관리양곡수급계획(안)#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안)/2026년도 공공비축 시행계획(안) 및 2027 양곡연도 정부관리양곡 수급계획(안).json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제2조의8",
+            "target_article_title": "정부관리양곡 수급계획의 고시",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제2조의8",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0006",
+            "reference_id": "law:양곡관리법시행령#JO0002_08",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "위임행정규칙",
+            "target_category": "행정규칙",
+            "source_article_no": "제6조",
+            "source_clause": "제6조제4항",
+            "link_text": "고시하고",
+            "line_text": "정부양곡수급계획을 대통령령으로 정하는 바에 따라 고시하고, 지체 없이 국회 소관 상임위원회에 제출하여야 한다",
+            "target_law_name": "2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획",
+            "target_article_no": "",
+            "target_article_title": "",
+            "target_mst": "2100000100809",
+            "target_url": "https://www.law.go.kr/행정규칙/2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획",
+            "resolve_method": "delegation",
+            "is_current_target": false,
+            "source_provision_id": "law:양곡관리법#JO0006",
+            "reference_id": "admrul:2017년도공공비축시행계획및2018양곡연도정부관리양곡수급계획#DOC",
+            "target_repo": "ADMRUL",
+            "target_git_path_guess": "2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획/2017년도 공공비축 시행계획 및 2018 양곡연도 정부관리양곡 수급계획.json"
+          }
+        ],
         "note": "[전문개정 2009.4.1][제3조에서 이동 <2025.8.26>]",
         "revision_type": "일부개정",
         "changed": "N",
@@ -856,9 +892,7 @@
             "source_provision_id": "law:양곡관리법#JO0007",
             "reference_id": "law:국고금관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json",
-            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국고금관리법/법률/국고금관리법.json"
           },
           {
             "relation_type": "citation",
@@ -877,9 +911,45 @@
             "source_provision_id": "law:양곡관리법#JO0007",
             "reference_id": "law:국고금관리법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json",
-            "target_git_path": "국고금 관리법/법률/국고금 관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국고금 관리법/법률/국고금 관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제3조",
+            "target_article_title": "생산자 등의 범위",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0007",
+            "reference_id": "law:양곡관리법시행령#JO0003",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제7조",
+            "source_clause": "제7조제4항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제5조",
+            "target_article_title": "선금 및 약정이자",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제5조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0007",
+            "reference_id": "law:양곡관리법시행령#JO0005",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1][제4조에서 이동 <2025.8.26>]",
@@ -914,9 +984,7 @@
             "source_provision_id": "law:양곡관리법#JO0008",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -935,9 +1003,7 @@
             "source_provision_id": "law:양곡관리법#JO0008",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -956,9 +1022,7 @@
             "source_provision_id": "law:양곡관리법#JO0008",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -977,9 +1041,26 @@
             "source_provision_id": "law:양곡관리법#JO0008",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제8조",
+            "source_clause": "제8조제2항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정하는",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제1조의3",
+            "target_article_title": "부대비용의 범위",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의3",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0008",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_03",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1][제5조에서 이동 <2025.8.26>]",
@@ -1014,11 +1095,7 @@
             "source_provision_id": "law:양곡관리법#JO0009",
             "reference_id": "admrul:2026년도정부관리양곡판매가격#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json",
-            "target_git_path": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json"
           },
           {
             "relation_type": "delegation",
@@ -1037,9 +1114,7 @@
             "source_provision_id": "law:양곡관리법#JO0009",
             "reference_id": "law:양곡관리법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1058,9 +1133,7 @@
             "source_provision_id": "law:양곡관리법#JO0009",
             "reference_id": "law:양곡관리법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -1086,9 +1159,7 @@
             "source_provision_id": "law:양곡관리법#JO0009",
             "reference_id": "admrul:2026년도정부관리양곡판매가격#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json",
-            "target_git_path": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "2026년도 정부관리양곡 판매가격/2026년도 정부관리양곡 판매가격.json"
           },
           {
             "relation_type": "delegation",
@@ -1099,17 +1170,15 @@
             "link_text": "농림축산식품부령",
             "line_text": "농림축산식품부령으로 정한다",
             "target_law_name": "양곡관리법 시행규칙",
-            "target_article_no": "제1조의3",
+            "target_article_no": "제1조의4",
             "target_article_title": "정부관리양곡의 용도별 매입자격기준",
-            "target_mst": "252981",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의3",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의4",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0009",
-            "reference_id": "law:양곡관리법시행규칙#JO0001_03",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -1136,17 +1205,15 @@
             "link_text": "농림축산식품부령",
             "line_text": "농림축산식품부령으로 정하는",
             "target_law_name": "양곡관리법 시행규칙",
-            "target_article_no": "제1조의4",
+            "target_article_no": "제1조의5",
             "target_article_title": "정부관리양곡의 매입자격 제한기준",
-            "target_mst": "252981",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의4",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의5",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0009_02",
-            "reference_id": "law:양곡관리법시행규칙#JO0001_04",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1165,9 +1232,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1186,9 +1251,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1207,9 +1270,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1228,9 +1289,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1249,9 +1308,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1270,9 +1327,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1291,9 +1346,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1312,9 +1365,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1333,9 +1384,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1354,9 +1403,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1375,9 +1422,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -1396,9 +1441,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "citation",
@@ -1411,15 +1454,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1432,15 +1473,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제5조",
             "target_article_title": "원산지 표시",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제5조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1453,15 +1492,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제5조",
             "target_article_title": "원산지 표시",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제5조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1474,15 +1511,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제5조",
             "target_article_title": "원산지 표시",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제5조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1495,15 +1530,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1515,16 +1548,14 @@
             "line_text": "4. 해당 양곡에 대하여 「농수산물의 원산지 표시 등에 관한 법률」 제5조제1항 또는 제3항에 따른 원산지의 표시의무를 위반하거나 같은 법 제6조제1항 각 호 또는 제2항 각 호의 어느 하나에 해당한 경우",
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제6조",
-            "target_article_title": "거짓 표시 등의 금지",
-            "target_mst": "237105",
+            "target_article_title": "거짓 표시 등의 금지 및 필요한 조치",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제6조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1536,16 +1567,14 @@
             "line_text": "제9조의2(정부관리양곡의 매입자격 제한) 농림축산식품부장관은 제9조제1항에 따라 판매한 정부관리양곡을 매입한 자가 다음 각 호의 어느 하나에 해당하면 농림축산식품부령으로 정하는 바에 따라 1년 이내의 기간을 정하여 정부관리양곡의 매입자격을 제한할 수 있다. 다만, 제1호에 해당하면 매입자격을 제한하여야 한다. <개정 2011.7.21, 2013.3.23, 2015.1.6, 2021.11.30>",
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제6조",
-            "target_article_title": "거짓 표시 등의 금지",
-            "target_mst": "237105",
+            "target_article_title": "거짓 표시 등의 금지 및 필요한 조치",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제6조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -1564,9 +1593,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물품질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -1585,9 +1612,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물품질관리법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -1606,9 +1631,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물품질관리법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -1627,9 +1650,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물품질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -1648,9 +1669,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_02",
             "reference_id": "law:농수산물품질관리법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -1661,17 +1680,15 @@
             "link_text": "농림축산식품부령",
             "line_text": "농림축산식품부령으로 정하는",
             "target_law_name": "양곡관리법 시행규칙",
-            "target_article_no": "제1조의4",
+            "target_article_no": "제1조의5",
             "target_article_title": "정부관리양곡의 매입자격 제한기준",
-            "target_mst": "252981",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의4",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의5",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0009_02",
-            "reference_id": "law:양곡관리법시행규칙#JO0001_04",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -1688,7 +1705,46 @@
         "chapter_path": "제2장 양곡의 수급관리 <개정 2025.8.26>",
         "content": "제9조의3(정부관리양곡 보관 실태점검 등)\n① 농림축산식품부장관은 정부관리양곡 보관시설(이하 이 조에서 \"보관시설\"이라 한다)에 대하여 농림축산식품부령으로 정하는 바에 따라 그 보관 실태를 점검하여야 한다.\n② 농림축산식품부장관은 제1항에 따른 실태점검을 실시하기 위하여 필요한 경우 보관시설을 관리하는 자에게 관련 자료의 제출을 요구할 수 있다. 이 경우 자료제출 요구를 받은 자는 특별한 사유가 없으면 이에 따라야 한다.\n③ 농림축산식품부장관은 필요한 경우 농림축산식품부령으로 정하는 바에 따라 실태점검 결과를 공표할 수 있다.",
         "enforcement_date": "20260827",
-        "relations": [],
+        "relations": [
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제9조의3",
+            "source_clause": "제9조의3제1항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정하는",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제1조의6",
+            "target_article_title": "정부관리양곡 보관 실태점검",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의6",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0009_03",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_06",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제9조의3",
+            "source_clause": "제9조의3제3항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정하는",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제1조의7",
+            "target_article_title": "실태점검 결과의 공표",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의7",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0009_03",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_07",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
+          }
+        ],
         "note": "[본조신설 2025.8.26]",
         "revision_type": "일부개정",
         "changed": "N",
@@ -1721,9 +1777,26 @@
             "source_provision_id": "law:양곡관리법#JO0009_04",
             "reference_id": "law:양곡관리법#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제9조의4",
+            "source_clause": "제9조의4제3항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정한다",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제1조의8",
+            "target_article_title": "정부관리양곡 종합관리시스템 구축ㆍ운영",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제1조의8",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0009_04",
+            "reference_id": "law:양곡관리법시행규칙#JO0001_08",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2025.8.26]",
@@ -1758,9 +1831,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1779,9 +1850,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1800,9 +1869,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1821,9 +1888,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1842,9 +1907,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1863,9 +1926,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1884,9 +1945,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:국민기초생활보장법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_git_path": "국민기초생활 보장법/법률/국민기초생활 보장법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국민기초생활 보장법/법률/국민기초생활 보장법.json"
           },
           {
             "relation_type": "citation",
@@ -1905,9 +1964,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:한부모가족지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
           },
           {
             "relation_type": "citation",
@@ -1926,9 +1983,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:한부모가족지원법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
           },
           {
             "relation_type": "citation",
@@ -1947,9 +2002,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:한부모가족지원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
           },
           {
             "relation_type": "citation",
@@ -1968,9 +2021,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:한부모가족지원법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_git_path": "한부모가족지원법/법률/한부모가족지원법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한부모가족지원법/법률/한부모가족지원법.json"
           },
           {
             "relation_type": "citation",
@@ -1989,9 +2040,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:재난및안전관리기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2010,9 +2059,7 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -2031,9 +2078,45 @@
             "source_provision_id": "law:양곡관리법#JO0009_05",
             "reference_id": "law:재난및안전관리기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_git_path": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "재난 및 안전관리 기본법/법률/재난 및 안전관리 기본법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조의5",
+            "source_clause": "제9조의5제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제12조의2",
+            "target_article_title": "정부관리양곡 할인 제공 대상의 구체적인 요건과 기준",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제12조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0009_05",
+            "reference_id": "law:양곡관리법시행령#JO0012_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제9조의5",
+            "source_clause": "제9조의5제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정한다",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제13조",
+            "target_article_title": "정부관리양곡 할인 제공의 방법 및 절차",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제13조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0009_05",
+            "reference_id": "law:양곡관리법시행령#JO0013",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2026.5.12]",
@@ -2069,9 +2152,7 @@
             "source_provision_id": "law:양곡관리법#JO0010",
             "reference_id": "law:양곡관리법시행령#JO0013_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2013.3.22]",
@@ -2121,11 +2202,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:농축산물시장접근물량양허관세추천및수입관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_git_path": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json"
           },
           {
             "relation_type": "delegation",
@@ -2144,11 +2221,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:농축산물시장접근물량양허관세추천및수입관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_git_path": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json"
           },
           {
             "relation_type": "delegation",
@@ -2167,11 +2240,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:외화획득용원료수입및사후관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json",
-            "target_git_path": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json",
-            "target_source_repository": "ADMRUL",
-            "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_git_path_guess": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json"
           },
           {
             "relation_type": "delegation",
@@ -2190,9 +2259,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "law:양곡관리법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2211,9 +2278,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "law:양곡관리법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2234,9 +2299,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:외화획득용원료수입및사후관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json",
-            "target_git_path": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "외화획득용 원료 수입 및 사후관리 요령/외화획득용 원료 수입 및 사후관리 요령.json"
           },
           {
             "relation_type": "delegation",
@@ -2262,9 +2325,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:농축산물시장접근물량양허관세추천및수입관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_git_path": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json"
           },
           {
             "relation_type": "delegation",
@@ -2290,9 +2351,7 @@
             "source_provision_id": "law:양곡관리법#JO0012",
             "reference_id": "admrul:농축산물시장접근물량양허관세추천및수입관리요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_git_path": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "농축산물 시장접근물량 양허관세 추천 및 수입관리 요령/농축산물 시장접근물량 양허관세 추천 및 수입관리 요령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -2327,9 +2386,7 @@
             "source_provision_id": "law:양곡관리법#JO0013",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2348,9 +2405,7 @@
             "source_provision_id": "law:양곡관리법#JO0013",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -2385,9 +2440,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2406,9 +2459,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2427,9 +2478,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "citation",
@@ -2448,9 +2497,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:정부기업예산법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
-            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
           },
           {
             "relation_type": "citation",
@@ -2469,9 +2516,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:정부기업예산법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
-            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
           },
           {
             "relation_type": "citation",
@@ -2490,9 +2535,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:정부기업예산법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json",
-            "target_git_path": "정부기업예산법/법률/정부기업예산법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "정부기업예산법/법률/정부기업예산법.json"
           },
           {
             "relation_type": "citation",
@@ -2505,15 +2548,13 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2526,15 +2567,13 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "제25조",
             "target_article_title": "농업ㆍ농촌 공익기능 증진 직접지불기금의 설치 등",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/제25조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2547,15 +2586,13 @@
             "target_law_name": "농수산물유통 및 가격안정에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "273397",
+            "target_mst": "290693",
             "target_url": "https://www.law.go.kr/법령/농수산물유통 및 가격안정에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:농수산물유통및가격안정에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물유통 및 가격안정에 관한 법률/법률/농수산물유통 및 가격안정에 관한 법률.json",
-            "target_git_path": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물유통 및 가격안정에 관한 법률/법률/농수산물유통 및 가격안정에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -2568,15 +2605,13 @@
             "target_law_name": "농수산물 유통 및 가격안정에 관한 법률",
             "target_article_no": "제54조",
             "target_article_title": "기금의 설치",
-            "target_mst": "273397",
+            "target_mst": "290693",
             "target_url": "https://www.law.go.kr/법령/농수산물 유통 및 가격안정에 관한 법률/제54조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:농수산물유통및가격안정에관한법률#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
-            "target_git_path": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 유통 및 가격안정에 관한 법률/법률/농수산물 유통 및 가격안정에 관한 법률.json"
           },
           {
             "relation_type": "delegation",
@@ -2589,15 +2624,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제2조의3",
             "target_article_title": "수입이익금의 부과대상 품목",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제2조의3",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법시행규칙#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -2610,15 +2643,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제2조의4",
             "target_article_title": "수입이익금의 산정 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제2조의4",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -2631,15 +2662,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제2조의4",
             "target_article_title": "수입이익금의 산정 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제2조의4",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -2658,9 +2687,7 @@
             "source_provision_id": "law:양곡관리법#JO0013_02",
             "reference_id": "law:양곡관리법시행령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -2717,15 +2744,13 @@
             "target_law_name": "농업협동조합법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "283949",
+            "target_mst": "290695",
             "target_url": "https://www.law.go.kr/법령/농업협동조합법",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:농업협동조합법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json",
-            "target_git_path": "농업협동조합법/법률/농업협동조합법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json"
           },
           {
             "relation_type": "citation",
@@ -2738,15 +2763,13 @@
             "target_law_name": "농업협동조합법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "283949",
+            "target_mst": "290695",
             "target_url": "https://www.law.go.kr/법령/농업협동조합법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:농업협동조합법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json",
-            "target_git_path": "농업협동조합법/법률/농업협동조합법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json"
           },
           {
             "relation_type": "citation",
@@ -2759,15 +2782,13 @@
             "target_law_name": "농업협동조합법",
             "target_article_no": "제2조",
             "target_article_title": "정의",
-            "target_mst": "283949",
+            "target_mst": "290695",
             "target_url": "https://www.law.go.kr/법령/농업협동조합법/제2조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:농업협동조합법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json",
-            "target_git_path": "농업협동조합법/법률/농업협동조합법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업협동조합법/법률/농업협동조합법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2786,9 +2807,7 @@
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2807,9 +2826,7 @@
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:양곡관리법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -2828,9 +2845,7 @@
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:양곡관리법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2849,9 +2864,7 @@
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "law:양곡관리법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -2860,7 +2873,7 @@
             "source_article_no": "제16조",
             "source_clause": "제16조제5항",
             "link_text": "농림축산식품부장관이 정한다",
-            "line_text": "생산자단체대표등과의 협의기구 구성·운영 및 협의 절차에 관련된 사항은 농림축산식품부장관이 정한다.",
+            "line_text": "양곡의 생산량 및 수요량 추정의 방식, 매입·판매 물량의 산정, 매입·판매의 시기·절차, 매입물량의 보관 등 매입 또는 판매에 필요한 사항은 농림축산식품부장관이 정한다",
             "target_law_name": "양곡수급안정대책 수립·시행 등에 관한 규정",
             "target_article_no": "",
             "target_article_title": "",
@@ -2877,9 +2890,7 @@
             "source_provision_id": "law:양곡관리법#JO0016",
             "reference_id": "admrul:양곡수급안정대책수립시행등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "양곡수급안정대책 수립·시행 등에 관한 규정/양곡수급안정대책 수립·시행 등에 관한 규정.json",
-            "target_git_path": "양곡수급안정대책 수립·시행 등에 관한 규정/양곡수급안정대책 수립·시행 등에 관한 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path_guess": "양곡수급안정대책 수립·시행 등에 관한 규정/양곡수급안정대책 수립·시행 등에 관한 규정.json"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2020.1.29]",
@@ -2898,27 +2909,6 @@
         "enforcement_date": "20260827",
         "relations": [
           {
-            "relation_type": "delegation",
-            "delegation_type": "시행령",
-            "target_category": "법령",
-            "source_article_no": "제16조의2",
-            "source_clause": "제16조의2",
-            "link_text": "대통령령",
-            "line_text": "대통령령으로 정하는",
-            "target_law_name": "양곡관리법 시행령",
-            "target_article_no": "제17조",
-            "target_article_title": "가격안정을 위한 미곡 재배면적 관리",
-            "target_mst": "288989",
-            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제17조",
-            "resolve_method": "delegation",
-            "source_provision_id": "law:양곡관리법#JO0016_02",
-            "reference_id": "law:양곡관리법시행령#JO0017",
-            "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
-          },
-          {
             "relation_type": "internal_ref",
             "delegation_type": null,
             "target_category": "법령",
@@ -2935,9 +2925,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2956,9 +2944,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2977,9 +2963,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -2998,9 +2982,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3019,9 +3001,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3040,9 +3020,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3061,9 +3039,45 @@
             "source_provision_id": "law:양곡관리법#JO0016_02",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조의2",
+            "source_clause": "제16조의2제1항제1호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제16조의2",
+            "target_article_title": "수급불안의 범위",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제16조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0016_02",
+            "reference_id": "law:양곡관리법시행령#JO0016_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조의2",
+            "source_clause": "제16조의2제1항제2호",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제16조의2",
+            "target_article_title": "수급불안의 범위",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제16조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0016_02",
+            "reference_id": "law:양곡관리법시행령#JO0016_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2025.8.26][종전 제16조의2는 제16조의3으로 이동 <2025.8.26>]",
@@ -3098,9 +3112,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3119,9 +3131,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "citation",
@@ -3140,9 +3150,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:농업농촌및식품산업기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -3161,9 +3169,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:농업농촌및식품산업기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -3182,9 +3188,7 @@
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:농업농촌및식품산업기본법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_git_path": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 및 식품산업 기본법/법률/농업ㆍ농촌 및 식품산업 기본법.json"
           },
           {
             "relation_type": "citation",
@@ -3197,15 +3201,13 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3218,15 +3220,32 @@
             "target_law_name": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률",
             "target_article_no": "제15조",
             "target_article_title": "기본직접지불금 지급대상자 등의 등록",
-            "target_mst": "276433",
+            "target_mst": "286907",
             "target_url": "https://www.law.go.kr/법령/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/제15조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0016_03",
             "reference_id": "law:농업농촌공익기능증진직접지불제도운영에관한법률#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_git_path": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률/법률/농업ㆍ농촌 공익기능 증진 직접지불제도 운영에 관한 법률.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제16조의3",
+            "source_clause": "제16조의3제1항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제17조",
+            "target_article_title": "가격안정을 위한 미곡 재배면적 관리",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제17조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0016_03",
+            "reference_id": "law:양곡관리법시행령#JO0017",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2020.1.29][제16조의2에서 이동 <2025.8.26>]",
@@ -3276,9 +3295,7 @@
             "source_provision_id": "law:양곡관리법#JO0017",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3297,9 +3314,26 @@
             "source_provision_id": "law:양곡관리법#JO0017",
             "reference_id": "law:양곡관리법#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행규칙",
+            "target_category": "법령",
+            "source_article_no": "제17조",
+            "source_clause": "제17조제2항",
+            "link_text": "농림축산식품부령",
+            "line_text": "농림축산식품부령으로 정한다",
+            "target_law_name": "양곡관리법 시행규칙",
+            "target_article_no": "제3조",
+            "target_article_title": "농협등보관양곡의 보고 방법 및 절차",
+            "target_mst": "289053",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제3조",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0017",
+            "reference_id": "law:양곡관리법시행규칙#JO0003",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2025.8.26]",
@@ -3348,9 +3382,7 @@
             "source_provision_id": "law:양곡관리법#JO0019",
             "reference_id": "law:주류면허등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "주류 면허 등에 관한 법률/법률/주류 면허 등에 관한 법률.json",
-            "target_git_path": "주류 면허 등에 관한 법률/법률/주류 면허 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "주류 면허 등에 관한 법률/법률/주류 면허 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3363,15 +3395,13 @@
             "target_law_name": "식품위생법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "277149",
+            "target_mst": "285339",
             "target_url": "https://www.law.go.kr/법령/식품위생법",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0019",
             "reference_id": "law:식품위생법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "식품위생법/법률/식품위생법.json",
-            "target_git_path": "식품위생법/법률/식품위생법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "식품위생법/법률/식품위생법.json"
           },
           {
             "relation_type": "delegation",
@@ -3384,15 +3414,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제5조",
             "target_article_title": "양곡가공업의 시설기준",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제5조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0019",
             "reference_id": "law:양곡관리법시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3405,15 +3433,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제4조",
             "target_article_title": "양곡가공업의 신고 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제4조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0019",
             "reference_id": "law:양곡관리법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3426,15 +3452,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제4조",
             "target_article_title": "양곡가공업의 신고 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제4조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0019",
             "reference_id": "law:양곡관리법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -3470,9 +3494,7 @@
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:민사집행법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민사집행법/법률/민사집행법.json",
-            "target_git_path": "민사집행법/법률/민사집행법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "민사집행법/법률/민사집행법.json"
           },
           {
             "relation_type": "citation",
@@ -3485,15 +3507,13 @@
             "target_law_name": "채무자 회생 및 파산에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "267359",
+            "target_mst": "290631",
             "target_url": "https://www.law.go.kr/법령/채무자 회생 및 파산에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:채무자회생및파산에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_git_path": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "채무자 회생 및 파산에 관한 법률/법률/채무자 회생 및 파산에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -3506,15 +3526,13 @@
             "target_law_name": "국세징수법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "286427",
+            "target_mst": "290683",
             "target_url": "https://www.law.go.kr/법령/국세징수법",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:국세징수법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국세징수법/법률/국세징수법.json",
-            "target_git_path": "국세징수법/법률/국세징수법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "국세징수법/법률/국세징수법.json"
           },
           {
             "relation_type": "citation",
@@ -3527,15 +3545,13 @@
             "target_law_name": "관세법",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "288689",
+            "target_mst": "290673",
             "target_url": "https://www.law.go.kr/법령/관세법",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:관세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "관세법/법률/관세법.json",
-            "target_git_path": "관세법/법률/관세법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "관세법/법률/관세법.json"
           },
           {
             "relation_type": "citation",
@@ -3554,9 +3570,7 @@
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:지방세법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "지방세법/법률/지방세법.json",
-            "target_git_path": "지방세법/법률/지방세법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "지방세법/법률/지방세법.json"
           },
           {
             "relation_type": "delegation",
@@ -3569,15 +3583,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제4조의2",
             "target_article_title": "양곡가공업자의 지위승계 신고",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제4조의2",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0019_02",
             "reference_id": "law:양곡관리법시행규칙#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -3612,9 +3624,7 @@
             "source_provision_id": "law:양곡관리법#JO0020",
             "reference_id": "law:양곡관리법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -3643,15 +3653,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제7조의3",
             "target_article_title": "양곡의 표시사항 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제7조의3",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0020_02",
             "reference_id": "law:양곡관리법시행규칙#JO0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -3664,15 +3672,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제7조의3",
             "target_article_title": "양곡의 표시사항 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제7조의3",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0020_02",
             "reference_id": "law:양곡관리법시행규칙#JO0007_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -3701,15 +3707,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제7조의4",
             "target_article_title": "거짓ㆍ과대의 표시ㆍ광고의 범위",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제7조의4",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0020_03",
             "reference_id": "law:양곡관리법시행규칙#JO0007_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -3738,15 +3742,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제7조의5",
             "target_article_title": "혼합 금지 대상 양곡",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제7조의5",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0020_04",
             "reference_id": "law:양곡관리법시행규칙#JO0007_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[본조신설 2015.1.6]",
@@ -3781,9 +3783,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3802,9 +3802,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3823,9 +3821,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3844,9 +3840,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3865,9 +3859,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3886,9 +3878,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3907,9 +3897,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3928,9 +3916,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3949,9 +3935,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3970,9 +3954,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -3991,9 +3973,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4012,9 +3992,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4033,9 +4011,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4054,9 +4030,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4075,9 +4049,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4096,9 +4068,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4117,9 +4087,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4138,9 +4106,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4153,15 +4119,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4174,15 +4138,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제5조",
             "target_article_title": "원산지 표시",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제5조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4195,15 +4157,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제5조",
             "target_article_title": "원산지 표시",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제5조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4216,15 +4176,13 @@
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "237105",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4236,16 +4194,14 @@
             "line_text": "9의2. 「농수산물의 원산지 표시 등에 관한 법률」 제6조제1항 각 호에 따른 거짓표시 등의 금지의무를 위반한 경우",
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제6조",
-            "target_article_title": "거짓 표시 등의 금지",
-            "target_mst": "237105",
+            "target_article_title": "거짓 표시 등의 금지 및 필요한 조치",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제6조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4257,16 +4213,14 @@
             "line_text": "① 특별자치시장ㆍ특별자치도지사ㆍ시장ㆍ군수 또는 구청장은 제19조제1항에 따라 신고를 한 양곡가공업자가 다음 각 호의 어느 하나에 해당하면 6개월 이내의 범위에서 농림축산식품부령으로 정하는 바에 따라 영업을 정지하거나 영업소 폐쇄를 명할 수 있다. 다만, 제3호 또는 제12호에 해당하면 영업소 폐쇄를 명하여야 한다. <개정 2011.7.21, 2013.3.23, 2015.1.6, 2017.3.21, 2021.11.30, 2025.8.26>",
             "target_law_name": "농수산물의 원산지 표시 등에 관한 법률",
             "target_article_no": "제6조",
-            "target_article_title": "거짓 표시 등의 금지",
-            "target_mst": "237105",
+            "target_article_title": "거짓 표시 등의 금지 및 필요한 조치",
+            "target_mst": "285491",
             "target_url": "https://www.law.go.kr/법령/농수산물의 원산지 표시 등에 관한 법률/제6조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물의원산지표시등에관한법률#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_git_path": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물의 원산지 표시 등에 관한 법률/법률/농수산물의 원산지 표시 등에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4285,9 +4239,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물품질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4306,9 +4258,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물품질관리법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4327,9 +4277,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물품질관리법#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4348,9 +4296,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물품질관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "citation",
@@ -4369,9 +4315,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:농수산물품질관리법#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_git_path": "농수산물 품질관리법/법률/농수산물 품질관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "농수산물 품질관리법/법률/농수산물 품질관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4390,9 +4334,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4411,9 +4353,7 @@
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -4426,15 +4366,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제8조",
             "target_article_title": "행정처분의 기준",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제8조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           },
           {
             "relation_type": "delegation",
@@ -4447,15 +4385,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제8조",
             "target_article_title": "행정처분의 기준",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제8조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0021",
             "reference_id": "law:양곡관리법시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -4490,9 +4426,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4511,9 +4445,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4532,9 +4464,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4553,9 +4483,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4574,9 +4502,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4595,9 +4521,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0019_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4616,9 +4540,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4637,9 +4559,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_02",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -4674,9 +4594,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_03",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4695,9 +4613,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_03",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4716,9 +4632,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_03",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4737,9 +4651,7 @@
             "source_provision_id": "law:양곡관리법#JO0021_03",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -4768,15 +4680,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제9조",
             "target_article_title": "미곡유통업의 육성",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제9조",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0022",
             "reference_id": "law:양곡관리법시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2025.8.26]",
@@ -4805,15 +4715,13 @@
             "target_law_name": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률",
             "target_article_no": "",
             "target_article_title": "",
-            "target_mst": "234903",
+            "target_mst": "289593",
             "target_url": "https://www.law.go.kr/법령/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0022_02",
             "reference_id": "law:친환경농어업육성및유기식품등의관리지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json",
-            "target_git_path": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json"
           },
           {
             "relation_type": "citation",
@@ -4826,15 +4734,32 @@
             "target_law_name": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률",
             "target_article_no": "제19조",
             "target_article_title": "유기식품등의 인증",
-            "target_mst": "234903",
+            "target_mst": "289593",
             "target_url": "https://www.law.go.kr/법령/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/제19조",
             "resolve_method": "pop",
             "source_provision_id": "law:양곡관리법#JO0022_02",
             "reference_id": "law:친환경농어업육성및유기식품등의관리지원에관한법률#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json",
-            "target_git_path": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률/법률/친환경농어업 육성 및 유기식품 등의 관리ㆍ지원에 관한 법률.json"
+          },
+          {
+            "relation_type": "delegation",
+            "delegation_type": "시행령",
+            "target_category": "법령",
+            "source_article_no": "제22조의2",
+            "source_clause": "제22조의2제2항",
+            "link_text": "대통령령",
+            "line_text": "대통령령으로 정하는",
+            "target_law_name": "양곡관리법 시행령",
+            "target_article_no": "제23조의2",
+            "target_article_title": "우수 양곡의 범위",
+            "target_mst": "288989",
+            "target_url": "https://www.law.go.kr/법령/양곡관리법 시행령/제23조의2",
+            "resolve_method": "delegation",
+            "source_provision_id": "law:양곡관리법#JO0022_02",
+            "reference_id": "law:양곡관리법시행령#JO0023_02",
+            "target_repo": "LAW",
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2025.8.26]",
@@ -4898,9 +4823,7 @@
             "source_provision_id": "law:양곡관리법#JO0025",
             "reference_id": "law:공공자금관리기금법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json",
-            "target_git_path": "공공자금관리기금법/법률/공공자금관리기금법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "공공자금관리기금법/법률/공공자금관리기금법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -4919,9 +4842,7 @@
             "source_provision_id": "law:양곡관리법#JO0025",
             "reference_id": "law:양곡관리법#JO0025_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -4956,9 +4877,7 @@
             "source_provision_id": "law:양곡관리법#JO0025_02",
             "reference_id": "law:양곡관리법시행령#JO0030_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -4993,9 +4912,7 @@
             "source_provision_id": "law:양곡관리법#JO0025_03",
             "reference_id": "law:양곡관리법시행령#JO0030_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -5030,9 +4947,7 @@
             "source_provision_id": "law:양곡관리법#JO0025_04",
             "reference_id": "law:양곡관리법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5051,9 +4966,7 @@
             "source_provision_id": "law:양곡관리법#JO0025_04",
             "reference_id": "law:양곡관리법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5072,9 +4985,7 @@
             "source_provision_id": "law:양곡관리법#JO0025_04",
             "reference_id": "law:양곡관리법#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[본조신설 2009.4.1]",
@@ -5139,9 +5050,7 @@
             "source_provision_id": "law:양곡관리법#JO0026",
             "reference_id": "law:양곡관리법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5176,9 +5085,7 @@
             "source_provision_id": "law:양곡관리법#JO0027",
             "reference_id": "law:양곡관리법시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5207,15 +5114,13 @@
             "target_law_name": "양곡관리법 시행규칙",
             "target_article_no": "제10조의2",
             "target_article_title": "명예감시원의 자격ㆍ위촉방법 등",
-            "target_mst": "252981",
+            "target_mst": "289053",
             "target_url": "https://www.law.go.kr/법령/양곡관리법 시행규칙/제10조의2",
             "resolve_method": "delegation",
             "source_provision_id": "law:양곡관리법#JO0027_02",
             "reference_id": "law:양곡관리법시행규칙#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_git_path": "양곡관리법/시행규칙/양곡관리법 시행규칙.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행규칙/양곡관리법 시행규칙.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5250,9 +5155,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법시행령#JO0032_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5271,9 +5174,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5292,9 +5193,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5313,9 +5212,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5334,9 +5231,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5355,9 +5250,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5376,9 +5269,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5397,9 +5288,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5418,9 +5307,7 @@
             "source_provision_id": "law:양곡관리법#JO0027_03",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5455,9 +5342,7 @@
             "source_provision_id": "law:양곡관리법#JO0028",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5492,9 +5377,7 @@
             "source_provision_id": "law:양곡관리법#JO0029",
             "reference_id": "law:한국농수산식품유통공사법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국농수산식품유통공사법/법률/한국농수산식품유통공사법.json",
-            "target_git_path": "한국농수산식품유통공사법/법률/한국농수산식품유통공사법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "한국농수산식품유통공사법/법률/한국농수산식품유통공사법.json"
           },
           {
             "relation_type": "delegation",
@@ -5513,9 +5396,7 @@
             "source_provision_id": "law:양곡관리법#JO0029",
             "reference_id": "law:양곡관리법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           },
           {
             "relation_type": "delegation",
@@ -5534,9 +5415,7 @@
             "source_provision_id": "law:양곡관리법#JO0029",
             "reference_id": "law:양곡관리법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5585,9 +5464,7 @@
             "source_provision_id": "law:양곡관리법#JO0031",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5606,9 +5483,7 @@
             "source_provision_id": "law:양곡관리법#JO0031",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5627,9 +5502,7 @@
             "source_provision_id": "law:양곡관리법#JO0031",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5648,9 +5521,7 @@
             "source_provision_id": "law:양곡관리법#JO0031",
             "reference_id": "law:양곡관리법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5685,9 +5556,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5706,9 +5575,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5727,9 +5594,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5748,9 +5613,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5769,9 +5632,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5790,9 +5651,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5811,9 +5670,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5832,9 +5689,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5853,9 +5708,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5874,9 +5727,7 @@
             "source_provision_id": "law:양곡관리법#JO0032",
             "reference_id": "law:양곡관리법#JO0020_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -5925,9 +5776,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5946,9 +5795,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5967,9 +5814,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -5988,9 +5833,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6009,9 +5852,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6030,9 +5871,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6051,9 +5890,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6072,9 +5909,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6093,9 +5928,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6114,9 +5947,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6135,9 +5966,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6156,9 +5985,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0021_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6177,9 +6004,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6198,9 +6023,7 @@
             "source_provision_id": "law:양곡관리법#JO0034",
             "reference_id": "law:양곡관리법#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -6235,9 +6058,7 @@
             "source_provision_id": "law:양곡관리법#JO0035",
             "reference_id": "law:양곡관리법#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6256,9 +6077,7 @@
             "source_provision_id": "law:양곡관리법#JO0035",
             "reference_id": "law:양곡관리법#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6277,9 +6096,7 @@
             "source_provision_id": "law:양곡관리법#JO0035",
             "reference_id": "law:양곡관리법#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -6314,9 +6131,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6335,9 +6150,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6356,9 +6169,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0009_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6377,9 +6188,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0009_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6398,9 +6207,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0009_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6419,9 +6226,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0009_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6440,9 +6245,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6461,9 +6264,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6482,9 +6283,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "internal_ref",
@@ -6503,9 +6302,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json",
-            "target_git_path": "양곡관리법/법률/양곡관리법.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/법률/양곡관리법.json"
           },
           {
             "relation_type": "delegation",
@@ -6524,9 +6321,7 @@
             "source_provision_id": "law:양곡관리법#JO0036",
             "reference_id": "law:양곡관리법시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_git_path": "양곡관리법/시행령/양곡관리법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path_guess": "양곡관리법/시행령/양곡관리법 시행령.json"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -6915,18 +6710,18 @@
   "appendices": [],
   "ordinance_delegations": [],
   "relation_stats": {
-    "relations_total": 263,
+    "relations_total": 280,
     "by_category": {
-      "법령": 253,
-      "행정규칙": 10
+      "법령": 267,
+      "행정규칙": 13
     },
     "by_relation_type": {
-      "delegation": 53,
+      "delegation": 70,
       "internal_ref": 140,
       "citation": 70
     },
     "articles_total": 59,
-    "articles_with_relations": 44,
+    "articles_with_relations": 47,
     "unmatched_relations": 0,
     "phantom_self_refs": 0,
     "phantom_self_ref_samples": [],
@@ -6949,6 +6744,5 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "양곡관리법/법률/양곡관리법.json",
-  "_schlpub_id_suffix": "법률"
+  "git_path": "양곡관리법/법률/양곡관리법.json"
 }
