@@ -32028,9 +32028,9 @@
   "version_signature": "db24109e8eb60276"
  },
  "law:eflaw:005498": {
-  "attempts": 1,
-  "collected_signature": null,
-  "content_hash": null,
+  "attempts": 0,
+  "collected_signature": "1d356174ecc84734",
+  "content_hash": "bb3e2ac50da3aee5dfeccb4d93a5aecf629cecdb79d51d092435e57b8a756732",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287001&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "005498",
@@ -32038,8 +32038,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:39:00.923347+00:00",
-  "last_collected_at": "2026-08-27T01:27:25.554326+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.738541+00:00",
+  "last_collected_at": "2026-08-27T08:47:04.332385+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:25.637904+00:00",
   "ministry": "공정거래위원회",
@@ -32047,7 +32047,7 @@
   "name": "할부거래에 관한 법률 시행령",
   "payload_law_id": "005498",
   "promulgation_date": "20260616",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "1d356174ecc84734"
  },
@@ -49549,6 +49549,7 @@
   "version_signature": "b97925723fc2982e"
  },
  "law:eflaw:008638": {
+  "attempts": 1,
   "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286653&type=HTML&mobileYn=&efYd=20260528",
@@ -49558,7 +49559,7 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260528",
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:49:14.118937+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.778815+00:00",
   "last_collected_at": "2026-08-26T06:52:17.431996+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:33.252718+00:00",
@@ -53229,6 +53230,7 @@
   "version_signature": "063ea93cbc961f94"
  },
  "law:eflaw:009354": {
+  "attempts": 1,
   "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286035&type=HTML&mobileYn=&efYd=20260512",
@@ -53238,7 +53240,7 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260512",
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:49:15.835109+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.753627+00:00",
   "last_collected_at": "2026-08-26T06:53:48.401529+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:34.685643+00:00",
@@ -53651,6 +53653,7 @@
   "version_signature": "1e5c486ba490a917"
  },
  "law:eflaw:009380": {
+  "attempts": 1,
   "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280295&type=HTML&mobileYn=&efYd=20251216",
@@ -53660,7 +53663,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20251216",
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:49:13.010947+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.671628+00:00",
   "last_collected_at": "2026-08-26T06:52:24.304980+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:34.410792+00:00",
@@ -60967,7 +60970,7 @@
   "version_signature": "c761d19dedf97b0c"
  },
  "law:eflaw:010044": {
-  "attempts": 0,
+  "attempts": 1,
   "collected_signature": "b828134ce1fadfac",
   "content_hash": "b514a6ac7da7ee13522316f4921fd2b9b7ecc571a6d0b0348fbf0c34f57d477d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258617&type=HTML&mobileYn=&efYd=20240322",
@@ -60977,7 +60980,7 @@
   "doc_type": "총리령",
   "enforcement_date": "20240322",
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:39:00.898493+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.716207+00:00",
   "last_collected_at": "2026-08-27T08:45:26.209070+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:37.766619+00:00",
@@ -63388,7 +63391,7 @@
   "version_signature": "ce0b4cab8bdf17e3"
  },
  "law:eflaw:010222": {
-  "attempts": 0,
+  "attempts": 1,
   "collected_signature": "6c0a8be56ffdf935",
   "content_hash": "f7b3baf6052ce75a3dc6ce28b6ff78f2b6d50ee43c3e74e954240a0fc6020fe8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283655&type=HTML&mobileYn=&efYd=20260228",
@@ -63398,7 +63401,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260228",
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:39:00.763793+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.790198+00:00",
   "last_collected_at": "2026-08-27T08:44:40.326157+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:38.591447+00:00",
@@ -63412,7 +63415,7 @@
   "version_signature": "6c0a8be56ffdf935"
  },
  "law:eflaw:010224": {
-  "attempts": 0,
+  "attempts": 1,
   "collected_signature": "d27699be61aac97a",
   "content_hash": "13ee254d8ea34bccc8733c5955d87debaa68236c6cc3eb8b9df487b9b0f6996e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283821&type=HTML&mobileYn=&efYd=20260228",
@@ -63422,7 +63425,7 @@
   "doc_type": "총리령",
   "enforcement_date": "20260228",
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:39:00.934686+00:00",
+  "last_checked_at": "2026-08-27T08:45:39.777746+00:00",
   "last_collected_at": "2026-08-27T08:44:40.279661+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:38.316850+00:00",
