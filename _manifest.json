@@ -22132,8 +22132,8 @@
   "version_signature": "5083f002f7a1cfd6"
  },
  "law:eflaw:003477": {
-  "collected_signature": "8cf7648b6f39e148",
-  "content_hash": "b83f8ec990c1b9245c07b39b533cbf6ab618739dba6a264b7c636282a86e4052",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277475&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003477",
@@ -22150,7 +22150,7 @@
   "name": "한부모가족지원법 시행령",
   "payload_law_id": "003477",
   "promulgation_date": "20251001",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "8cf7648b6f39e148"
  },
@@ -26502,8 +26502,9 @@
   "version_signature": "855cbc24b90497bb"
  },
  "law:eflaw:004291": {
+  "attempts": 0,
   "collected_signature": "023169c512429339",
-  "content_hash": "c51b65e50b1d6e1f1baa976d39b34ec03cd85d32b4dc192ab874b793ee9db2ae",
+  "content_hash": "8026f3a8d17acdf648646c161f4407aaff81c9114e3d3a5c2925aeffc92f5a14",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280945&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004291",
@@ -26511,8 +26512,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
-  "last_checked_at": "2026-08-24T14:40:48.014753+00:00",
-  "last_collected_at": "2026-08-24T14:44:51.063732+00:00",
+  "last_checked_at": "2026-08-27T06:16:30.369042+00:00",
+  "last_collected_at": "2026-08-27T06:23:56.683815+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "280945",
   "name": "우정사업 운영에 관한 특례법 시행령",
@@ -26691,6 +26692,7 @@
   "version_signature": "3de4e872390680ca"
  },
  "law:eflaw:004378": {
+  "attempts": 0,
   "collected_signature": "382f77cb2bee838f",
   "content_hash": "6c0c44e6d7f9823ce7ec43deae664f3002bf329cd62c009c3eec7555e278e660",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=206625&type=HTML&mobileYn=&efYd=20190108",
@@ -26700,8 +26702,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20190108",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:13:12.998690+00:00",
-  "last_collected_at": "2026-08-24T16:15:13.536507+00:00",
+  "last_checked_at": "2026-08-27T06:16:30.395210+00:00",
+  "last_collected_at": "2026-08-27T06:16:49.784133+00:00",
   "ministry": "금융위원회",
   "mst": "206625",
   "name": "유사수신행위의 규제에 관한 법률 시행령",
@@ -27132,8 +27134,8 @@
   "version_signature": "4eff5b191e18c653"
  },
  "law:eflaw:004482": {
-  "collected_signature": "0dea7f46af250ea7",
-  "content_hash": "5e7e5294f279edf8e838f58850b8fb0a5a3798f326830d2438878a8b98795eab",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283151&type=HTML&mobileYn=&efYd=20260210",
   "doc_domain": "law",
   "doc_id": "004482",
@@ -27148,13 +27150,14 @@
   "name": "의료법 시행령",
   "payload_law_id": "004482",
   "promulgation_date": "20260210",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "0dea7f46af250ea7"
  },
  "law:eflaw:004487": {
-  "collected_signature": "26190a39b5cd5722",
-  "content_hash": "edd34bfd53b973fdd7e07370b2c6902e519b01265a3c939a6666f4bc54d2ebb7",
+  "attempts": 1,
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280521&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "004487",
@@ -27162,14 +27165,14 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260101",
   "is_active": true,
-  "last_checked_at": "2026-08-24T17:10:43.710630+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.531395+00:00",
   "last_collected_at": "2026-08-24T17:18:30.000463+00:00",
   "ministry": "보건복지부",
   "mst": "280521",
   "name": "의료급여법 시행령",
   "payload_law_id": "004487",
   "promulgation_date": "20251223",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "26190a39b5cd5722"
  },
@@ -27279,8 +27282,8 @@
   "version_signature": "579440cfe1da6c4b"
  },
  "law:eflaw:004526": {
-  "collected_signature": "9e70a3863f5d8e9e",
-  "content_hash": "3536290a296d8df84c9133056eeb80af3656e5290ac0cebc580e69e3dea8b7a2",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284959&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "004526",
@@ -27295,7 +27298,7 @@
   "name": "인삼산업법 시행령",
   "payload_law_id": "004526",
   "promulgation_date": "20260324",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "9e70a3863f5d8e9e"
  },
@@ -27405,8 +27408,8 @@
   "version_signature": "ed5285c4aebec2ed"
  },
  "law:eflaw:004551": {
-  "collected_signature": "d218dcb1d9c40d69",
-  "content_hash": "d90afdbe3301bb7e8e6ded182340931c2b26ea8b85e28a3cb61da7b18e692003",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285855&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "004551",
@@ -27421,7 +27424,7 @@
   "name": "임금채권보장법 시행령",
   "payload_law_id": "004551",
   "promulgation_date": "20260506",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "d218dcb1d9c40d69"
  },
@@ -27573,8 +27576,8 @@
   "version_signature": "8f81ed68ef044a1b"
  },
  "law:eflaw:004587": {
-  "collected_signature": "0ca3877c77b8d114",
-  "content_hash": "7e34cc2578662e15ce84fa59dcfcce8299fe5ef689d7cdfecafc9b48b2ac9f9a",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278267&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "004587",
@@ -27589,7 +27592,7 @@
   "name": "자격기본법 시행령",
   "payload_law_id": "004587",
   "promulgation_date": "20251001",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "0ca3877c77b8d114"
  },
@@ -27657,8 +27660,8 @@
   "version_signature": "0c6e07f840fa46d7"
  },
  "law:eflaw:004601": {
-  "collected_signature": "9cb0935913a83607",
-  "content_hash": "357fb0f831d620f2a2a0c6a4873ea27480b754f85fa95306e46026aed3b802d6",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257131&type=HTML&mobileYn=&efYd=20240112",
   "doc_domain": "law",
   "doc_id": "004601",
@@ -27673,7 +27676,7 @@
   "name": "자산유동화에 관한 법률 시행령",
   "payload_law_id": "004601",
   "promulgation_date": "20231219",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "9cb0935913a83607"
  },
@@ -31878,8 +31881,8 @@
   "version_signature": "3bf612aea2fc7451"
  },
  "law:eflaw:005473": {
-  "collected_signature": "a45455d3a1a0d6c4",
-  "content_hash": "8069f8d46b9f5e9fca45660ce5423f1c79b2fb9ea5f02c326d6f8f0a1ee97a67",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=214019&type=HTML&mobileYn=&efYd=20200221",
   "doc_domain": "law",
   "doc_id": "005473",
@@ -31896,13 +31899,13 @@
   "name": "한국학중앙연구원 육성법 시행령",
   "payload_law_id": "005473",
   "promulgation_date": "20200204",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "a45455d3a1a0d6c4"
  },
  "law:eflaw:005475": {
-  "collected_signature": "80f92b54b35eb91e",
-  "content_hash": "29260387f56e94e85d55ce049d3d8eb58589d033274e757291b5aac8af11ad10",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280915&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "005475",
@@ -31919,7 +31922,7 @@
   "name": "한국조폐공사법시행령",
   "payload_law_id": "005475",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "80f92b54b35eb91e"
  },
@@ -31970,8 +31973,8 @@
   "version_signature": "10e5096ece48b605"
  },
  "law:eflaw:005487": {
-  "collected_signature": "8cd3bbf80284ad01",
-  "content_hash": "9f8b3158e8f3361b6396377b137ad34d3c32e3d3302c74df31944314cf93a56c",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=187608&type=HTML&mobileYn=&efYd=20161130",
   "doc_domain": "law",
   "doc_id": "005487",
@@ -31988,7 +31991,7 @@
   "name": "한국해운조합법 시행령",
   "payload_law_id": "005487",
   "promulgation_date": "20161122",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "8cd3bbf80284ad01"
  },
@@ -32016,8 +32019,8 @@
   "version_signature": "db24109e8eb60276"
  },
  "law:eflaw:005498": {
-  "collected_signature": "1d356174ecc84734",
-  "content_hash": "bb3e2ac50da3aee5dfeccb4d93a5aecf629cecdb79d51d092435e57b8a756732",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287001&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "005498",
@@ -32034,7 +32037,7 @@
   "name": "할부거래에 관한 법률 시행령",
   "payload_law_id": "005498",
   "promulgation_date": "20260616",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "1d356174ecc84734"
  },
@@ -40383,6 +40386,7 @@
   "version_signature": "16b008dc9accd0ff"
  },
  "law:eflaw:006854": {
+  "attempts": 0,
   "collected_signature": "7801dfa463aa71c6",
   "content_hash": "98ddb765e7d0554b877c0e9024cc63c4a3fd6c9d4f59f2b9cc5812e3b0c66c09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=81099&type=HTML&mobileYn=&efYd=20071029",
@@ -40392,8 +40396,8 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20071029",
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:05:15.579371+00:00",
-  "last_collected_at": "2026-08-23T02:05:41.486549+00:00",
+  "last_checked_at": "2026-08-27T06:16:30.340406+00:00",
+  "last_collected_at": "2026-08-27T06:17:05.045925+00:00",
   "ministry": "재정경제부",
   "mst": "81099",
   "name": "귀속재산처리법시행세칙",
@@ -42126,7 +42130,7 @@
   "version_signature": "66caca5b81340ff8"
  },
  "law:eflaw:007138": {
-  "collected_signature": "ebd20fc2f467a5d4",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278861&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
@@ -42144,7 +42148,7 @@
   "name": "한부모가족지원법 시행규칙",
   "payload_law_id": "007138",
   "promulgation_date": "20251001",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "ebd20fc2f467a5d4"
  },
@@ -45992,6 +45996,7 @@
   "version_signature": "a808cea0e1121a6b"
  },
  "law:eflaw:007831": {
+  "attempts": 0,
   "collected_signature": "22f5f8665568fa70",
   "content_hash": "28f615032c59471acdcec4d6aa6bae3bf3687d1204a96ec6638130ac163c4c1b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282091&type=HTML&mobileYn=&efYd=20251226",
@@ -46001,15 +46006,15 @@
   "doc_type": "행정안전부령",
   "enforcement_date": "20251226",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:13:12.532521+00:00",
-  "last_collected_at": "2026-08-24T16:15:34.331305+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.864180+00:00",
+  "last_collected_at": "2026-08-27T06:25:04.322923+00:00",
   "ministry": "행정안전부",
   "mst": "282091",
   "name": "유선 및 도선 사업법 시행규칙",
   "payload_law_id": "007831",
   "promulgation_date": "20251226",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "22f5f8665568fa70"
  },
  "law:eflaw:007842": {
@@ -46055,8 +46060,9 @@
   "version_signature": "0df461d9fa28e25d"
  },
  "law:eflaw:007844": {
-  "collected_signature": "3934d444af9d7e42",
-  "content_hash": "5f39817273ff3ec0812cab8e75e43b952080f562540d04079de5005e479595e1",
+  "attempts": 1,
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285435&type=HTML&mobileYn=&efYd=20260407",
   "doc_domain": "law",
   "doc_id": "007844",
@@ -46064,14 +46070,14 @@
   "doc_type": "고용노동부령",
   "enforcement_date": "20260407",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:38:35.604766+00:00",
+  "last_checked_at": "2026-08-27T06:24:00.140637+00:00",
   "last_collected_at": "2026-08-24T16:40:32.446088+00:00",
   "ministry": "고용노동부",
   "mst": "285435",
   "name": "유해ㆍ위험작업의 취업 제한에 관한 규칙",
   "payload_law_id": "007844",
   "promulgation_date": "20260407",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "3934d444af9d7e42"
  },
@@ -46160,8 +46166,8 @@
   "version_signature": "c5575e024e422746"
  },
  "law:eflaw:007861": {
-  "collected_signature": "9721dde85697db44",
-  "content_hash": "e9d753eb13cbdad2984f9804c7e1bcb2955c41b1a1d68df724d525c72b66f2aa",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266839&type=HTML&mobileYn=&efYd=20241128",
   "doc_domain": "law",
   "doc_id": "007861",
@@ -46176,7 +46182,7 @@
   "name": "의료기사 등에 관한 법률 시행규칙",
   "payload_law_id": "007861",
   "promulgation_date": "20241128",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "9721dde85697db44"
  },
@@ -46202,8 +46208,9 @@
   "version_signature": "73b7c1d497a07c90"
  },
  "law:eflaw:007867": {
-  "collected_signature": "26f5787c04fc5ab7",
-  "content_hash": "02fe88d534c04ddfb6ce2eb2452817dceafc9b55aae2f70703771be0d2a8ca45",
+  "attempts": 1,
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288079&type=HTML&mobileYn=&efYd=20260710",
   "doc_domain": "law",
   "doc_id": "007867",
@@ -46211,14 +46218,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260710",
   "is_active": true,
-  "last_checked_at": "2026-08-24T17:10:45.948441+00:00",
+  "last_checked_at": "2026-08-27T06:24:00.071596+00:00",
   "last_collected_at": "2026-08-24T17:20:24.382878+00:00",
   "ministry": "보건복지부",
   "mst": "288079",
   "name": "의료급여법 시행규칙",
   "payload_law_id": "007867",
   "promulgation_date": "20260710",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "26f5787c04fc5ab7"
  },
@@ -46349,8 +46356,8 @@
   "version_signature": "19303cb29c40facc"
  },
  "law:eflaw:007895": {
-  "collected_signature": "27bf15abeda05ceb",
-  "content_hash": "bb71a87bf2339905f48c92398d418bfe6df234200610675a1dd973c33dac06d9",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282665&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "007895",
@@ -46365,13 +46372,13 @@
   "name": "인지세법 시행규칙",
   "payload_law_id": "007895",
   "promulgation_date": "20260102",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "27bf15abeda05ceb"
  },
  "law:eflaw:007898": {
-  "collected_signature": "f4e1fa9c9cbb5db4",
-  "content_hash": "3a10c17fe6577833c278b8bdb1480a88f0b67f571ddfab9eaa1cc555d3be8ce8",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289001&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "007898",
@@ -46386,7 +46393,7 @@
   "name": "임금채권보장법 시행규칙",
   "payload_law_id": "007898",
   "promulgation_date": "20260820",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "f4e1fa9c9cbb5db4"
  },
@@ -46412,8 +46419,8 @@
   "version_signature": "2fe7b1cd5fad6391"
  },
  "law:eflaw:007918": {
-  "collected_signature": "2d1294498e54faee",
-  "content_hash": "58eda43d2645a27977634d55037e89a9701b928e81bf2876dbd21440a65a176e",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269875&type=HTML&mobileYn=&efYd=20250312",
   "doc_domain": "law",
   "doc_id": "007918",
@@ -46428,7 +46435,7 @@
   "name": "임업 및 산촌 진흥촉진에 관한 법률 시행규칙",
   "payload_law_id": "007918",
   "promulgation_date": "20250312",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "2d1294498e54faee"
  },
@@ -46517,8 +46524,8 @@
   "version_signature": "58cbef1f9109e841"
  },
  "law:eflaw:007934": {
-  "collected_signature": "fb7d4770108e6e3f",
-  "content_hash": "8f9ebc582152b0051ffbef5661d9bed59491aca0b7129b89355df7f60fa6449a",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286693&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "007934",
@@ -46533,13 +46540,13 @@
   "name": "자동차등록규칙",
   "payload_law_id": "007934",
   "promulgation_date": "20260602",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "fb7d4770108e6e3f"
  },
  "law:eflaw:007938": {
-  "collected_signature": "d292eba273ee7ced",
-  "content_hash": "926964ea46448b8afa974c4a63afebea125d9a5badac9c0b2d82ad76cace6680",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268683&type=HTML&mobileYn=&efYd=20250117",
   "doc_domain": "law",
   "doc_id": "007938",
@@ -46554,7 +46561,7 @@
   "name": "자동차손해배상 보장법 시행규칙",
   "payload_law_id": "007938",
   "promulgation_date": "20250117",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "d292eba273ee7ced"
  },
@@ -49501,7 +49508,7 @@
   "version_signature": "8fd17f8b7736e9d7"
  },
  "law:eflaw:008630": {
-  "collected_signature": "b97925723fc2982e",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269857&type=HTML&mobileYn=&efYd=20250311",
   "doc_domain": "law",
@@ -49519,12 +49526,12 @@
   "name": "한의사전문의의 수련 및 자격 인정 등에 관한 규정 시행규칙",
   "payload_law_id": "008630",
   "promulgation_date": "20250311",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b97925723fc2982e"
  },
  "law:eflaw:008638": {
-  "collected_signature": "cf4b018449993cfb",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286653&type=HTML&mobileYn=&efYd=20260528",
   "doc_domain": "law",
@@ -49542,7 +49549,7 @@
   "name": "항공기등록규칙",
   "payload_law_id": "008638",
   "promulgation_date": "20260528",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "cf4b018449993cfb"
  },
@@ -53204,7 +53211,7 @@
   "version_signature": "063ea93cbc961f94"
  },
  "law:eflaw:009354": {
-  "collected_signature": "93c101bb2848038d",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286035&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
@@ -53222,7 +53229,7 @@
   "name": "항공보안법 시행규칙",
   "payload_law_id": "009354",
   "promulgation_date": "20260512",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "93c101bb2848038d"
  },
@@ -53626,7 +53633,7 @@
   "version_signature": "1e5c486ba490a917"
  },
  "law:eflaw:009380": {
-  "collected_signature": "ae76df9b62670b0a",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280295&type=HTML&mobileYn=&efYd=20251216",
   "doc_domain": "law",
@@ -53644,7 +53651,7 @@
   "name": "항공보안법 시행령",
   "payload_law_id": "009380",
   "promulgation_date": "20251216",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "ae76df9b62670b0a"
  },
@@ -56534,7 +56541,7 @@
   "version_signature": "ca0381b7d17afa2b"
  },
  "law:eflaw:009655": {
-  "collected_signature": "38de610bb1c57f54",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285255&type=HTML&mobileYn=&efYd=20260327",
   "doc_domain": "law",
@@ -56552,7 +56559,7 @@
   "name": "한국주택금융공사법 시행규칙",
   "payload_law_id": "009655",
   "promulgation_date": "20260327",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "38de610bb1c57f54"
  },
@@ -57105,8 +57112,8 @@
   "version_signature": "728a5ced2a1ccd20"
  },
  "law:eflaw:009705": {
-  "collected_signature": "f04e8d4bba52c0b1",
-  "content_hash": "99cbf80baf8eadc5448e7bc26961ba118bbb28bd8e44860d7241987f9084f548",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287221&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009705",
@@ -57121,11 +57128,12 @@
   "name": "의료기기법 시행령",
   "payload_law_id": "009705",
   "promulgation_date": "20260623",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "f04e8d4bba52c0b1"
  },
  "law:eflaw:009707": {
+  "attempts": 0,
   "collected_signature": "9ef13c591e2b38d7",
   "content_hash": "08815313141531e376621be5d1e8f5c37c0a7736f6fc2949c849a4ad3aae539b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287381&type=HTML&mobileYn=&efYd=20260701",
@@ -57135,8 +57143,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:53:25.799396+00:00",
-  "last_collected_at": "2026-08-24T15:58:31.079375+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.793936+00:00",
+  "last_collected_at": "2026-08-27T07:50:37.104620+00:00",
   "ministry": "소방청",
   "mst": "287381",
   "name": "위험물안전관리법 시행령",
@@ -57589,8 +57597,8 @@
   "version_signature": "e0aa71b0d3582665"
  },
  "law:eflaw:009740": {
-  "collected_signature": "2922c59eb639fa42",
-  "content_hash": "33ad71d28f9457adcb2f0b60bb6624f17e29828e582ce7a45adbed86f41754e3",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287877&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009740",
@@ -57605,7 +57613,7 @@
   "name": "의료기기법 시행규칙",
   "payload_law_id": "009740",
   "promulgation_date": "20260701",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "2922c59eb639fa42"
  },
@@ -57715,7 +57723,7 @@
   "version_signature": "f7591314a1e0c545"
  },
  "law:eflaw:009749": {
-  "collected_signature": "026f56344e399e25",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281597&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -57733,7 +57741,7 @@
   "name": "한의약 육성법 시행령",
   "payload_law_id": "009749",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "026f56344e399e25"
  },
@@ -59989,7 +59997,7 @@
   "version_signature": "2c51ad74ae6dd4dc"
  },
  "law:eflaw:009989": {
-  "collected_signature": "f1a90b5a78e80558",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280917&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -60007,7 +60015,7 @@
   "name": "한국투자공사법 시행령",
   "payload_law_id": "009989",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "f1a90b5a78e80558"
  },
@@ -60936,7 +60944,7 @@
   "version_signature": "c761d19dedf97b0c"
  },
  "law:eflaw:010044": {
-  "collected_signature": "b828134ce1fadfac",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258617&type=HTML&mobileYn=&efYd=20240322",
   "doc_domain": "law",
@@ -60954,7 +60962,7 @@
   "name": "할부거래에 관한 법률 시행규칙",
   "payload_law_id": "010044",
   "promulgation_date": "20240109",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b828134ce1fadfac"
  },
@@ -63356,7 +63364,7 @@
   "version_signature": "ce0b4cab8bdf17e3"
  },
  "law:eflaw:010222": {
-  "collected_signature": "6c0a8be56ffdf935",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283655&type=HTML&mobileYn=&efYd=20260228",
   "doc_domain": "law",
@@ -63374,12 +63382,12 @@
   "name": "항공ㆍ철도 사고조사에 관한 법률 시행령",
   "payload_law_id": "010222",
   "promulgation_date": "20260227",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "6c0a8be56ffdf935"
  },
  "law:eflaw:010224": {
-  "collected_signature": "d27699be61aac97a",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283821&type=HTML&mobileYn=&efYd=20260228",
   "doc_domain": "law",
@@ -63397,7 +63405,7 @@
   "name": "항공ㆍ철도 사고조사에 관한 법률 시행규칙",
   "payload_law_id": "010224",
   "promulgation_date": "20260227",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "d27699be61aac97a"
  },
@@ -69158,8 +69166,9 @@
   "version_signature": "371ce5fc7f40359a"
  },
  "law:eflaw:010650": {
+  "attempts": 0,
   "collected_signature": "484d6b99ca5cb666",
-  "content_hash": "a27f321aaf8dd5ace10b7b6ae032e88831e881d75cacfe8acdd6d206133268f9",
+  "content_hash": "a4b119da155ecea8c165df4ca3462b2faa9de8ff907aa257ba07234de735964b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266147&type=HTML&mobileYn=&efYd=20241025",
   "doc_domain": "law",
   "doc_id": "010650",
@@ -69167,8 +69176,8 @@
   "doc_type": "해양수산부령",
   "enforcement_date": "20241025",
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:01:08.887807+00:00",
-  "last_collected_at": "2026-08-24T15:04:02.907305+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.666846+00:00",
+  "last_collected_at": "2026-08-27T06:26:40.717048+00:00",
   "ministry": "해양수산부",
   "mst": "266147",
   "name": "원양산업발전법 시행규칙",
@@ -71703,7 +71712,7 @@
   "version_signature": "97edefe66cedd5ae"
  },
  "law:eflaw:010852": {
-  "collected_signature": "7c4a43862fcdee3a",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282237&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -71721,7 +71730,7 @@
   "name": "한센인피해사건의 진상규명 및 피해자 지원 등에 관한 법률 시행규칙",
   "payload_law_id": "010852",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "7c4a43862fcdee3a"
  },
@@ -72885,8 +72894,8 @@
   "version_signature": "c600d759162d7677"
  },
  "law:eflaw:010952": {
-  "collected_signature": "91ba6b4be7b46a28",
-  "content_hash": "441d4fcf5d795e018c58ba1400354238a803ea289ed62b6123871384a2cf3a65",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280197&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "010952",
@@ -72901,7 +72910,7 @@
   "name": "자동차종합검사의 시행 등에 관한 규칙",
   "payload_law_id": "010952",
   "promulgation_date": "20251202",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "91ba6b4be7b46a28"
  },
@@ -73053,7 +73062,7 @@
   "version_signature": "d1fb3d8b2c438651"
  },
  "law:eflaw:010974": {
-  "collected_signature": "8a5c7229fb36b01a",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268473&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
@@ -73071,7 +73080,7 @@
   "name": "한국장학재단 설립 등에 관한 법률 시행령",
   "payload_law_id": "010974",
   "promulgation_date": "20250121",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "8a5c7229fb36b01a"
  },
@@ -73687,8 +73696,8 @@
   "version_signature": "690da16aa153c28f"
  },
  "law:eflaw:011047": {
-  "collected_signature": "b4cc48b951869d48",
-  "content_hash": "4f80c78d3c296c704f1f44112bb427efc973832a40066f1e066852dd3ab78d4a",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251373&type=HTML&mobileYn=&efYd=20230611",
   "doc_domain": "law",
   "doc_id": "011047",
@@ -73703,7 +73712,7 @@
   "name": "자동차 등 특정동산 저당법 시행령",
   "payload_law_id": "011047",
   "promulgation_date": "20230607",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b4cc48b951869d48"
  },
@@ -74002,7 +74011,7 @@
   "version_signature": "31ad4a9d3669ed35"
  },
  "law:eflaw:011077": {
-  "collected_signature": "d2a7f74bfcece94b",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281303&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -74020,7 +74029,7 @@
   "name": "한국토지주택공사법 시행령",
   "payload_law_id": "011077",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "d2a7f74bfcece94b"
  },
@@ -76484,8 +76493,9 @@
   "version_signature": "34c097c8012be248"
  },
  "law:eflaw:011276": {
+  "attempts": 0,
   "collected_signature": "1b661ad6c98e2255",
-  "content_hash": null,
+  "content_hash": "94af10be60ed6ec6d98f2feaee24632961cf7612600627337243b8b44be8e88a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281251&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011276",
@@ -76493,8 +76503,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:53:51.618283+00:00",
-  "last_collected_at": "2026-08-22T16:01:14.865449+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.570169+00:00",
+  "last_collected_at": "2026-08-27T06:25:40.593610+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:40.907727+00:00",
   "ministry": "국토교통부",
@@ -76549,8 +76559,9 @@
   "version_signature": "8001015dcb19b2d3"
  },
  "law:eflaw:011279": {
+  "attempts": 0,
   "collected_signature": "338cdfc3587e15f3",
-  "content_hash": null,
+  "content_hash": "71e352b140294e4fd22f32a1f14da2b983b13d71e4307b9a94d33f45a2c66323",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282025&type=HTML&mobileYn=&efYd=20251226",
   "doc_domain": "law",
   "doc_id": "011279",
@@ -76558,8 +76569,8 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20251226",
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:53:49.670370+00:00",
-  "last_collected_at": "2026-08-22T16:00:24.751287+00:00",
+  "last_checked_at": "2026-08-27T06:16:30.225244+00:00",
+  "last_collected_at": "2026-08-27T06:21:44.967156+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:23.971895+00:00",
   "ministry": "국토교통부",
@@ -81763,7 +81774,7 @@
   "version_signature": "ed34a053780f3a2a"
  },
  "law:eflaw:011645": {
-  "collected_signature": "ada39f8f6d563a5e",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268487&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
@@ -81781,7 +81792,7 @@
   "name": "한국해양과학기술원법 시행령",
   "payload_law_id": "011645",
   "promulgation_date": "20250121",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "ada39f8f6d563a5e"
  },
@@ -81851,7 +81862,7 @@
   "version_signature": "1652e88fb43bab42"
  },
  "law:eflaw:011651": {
-  "collected_signature": "87208edca1892284",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266835&type=HTML&mobileYn=&efYd=20250301",
   "doc_domain": "law",
@@ -81869,7 +81880,7 @@
   "name": "한국전통문화대학교 설치법 시행령",
   "payload_law_id": "011651",
   "promulgation_date": "20241203",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "87208edca1892284"
  },
@@ -82548,8 +82559,8 @@
   "version_signature": "2a0e6bc8b65437f7"
  },
  "law:eflaw:011687": {
-  "collected_signature": "ad00f9b49c2e13d8",
-  "content_hash": "3a9a95e743c0a9269790bdf78d9ba440d56385bdf49e269a7f215cf36adafdd1",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=232757&type=HTML&mobileYn=&efYd=20210609",
   "doc_domain": "law",
   "doc_id": "011687",
@@ -82564,7 +82575,7 @@
   "name": "이스포츠(전자스포츠) 진흥에 관한 법률 시행규칙",
   "payload_law_id": "011687",
   "promulgation_date": "20210609",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "ad00f9b49c2e13d8"
  },
@@ -83640,8 +83651,8 @@
   "version_signature": "b01cfcf96c82d646"
  },
  "law:eflaw:011794": {
-  "collected_signature": "6ffb306bad78cf08",
-  "content_hash": "16b9eb641befd2d761835892411edf48febb9b89bb756336432be80f50127e75",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284019&type=HTML&mobileYn=&efYd=20260305",
   "doc_domain": "law",
   "doc_id": "011794",
@@ -83656,7 +83667,7 @@
   "name": "의약품 등의 안전에 관한 규칙",
   "payload_law_id": "011794",
   "promulgation_date": "20260305",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "6ffb306bad78cf08"
  },
@@ -83703,8 +83714,9 @@
   "version_signature": "9170ca8a6b193ffd"
  },
  "law:eflaw:011798": {
+  "attempts": 0,
   "collected_signature": "0840a56bd76a84b4",
-  "content_hash": "50b43854ea0079ec0eb2ff045759a55c8537a8599dd03868ddbe3b5bec703979",
+  "content_hash": "c1cee7ec75b3dddf760d9084394765287c64c4196d5381105291efbb1bc35d7f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252147&type=HTML&mobileYn=&efYd=20230622",
   "doc_domain": "law",
   "doc_id": "011798",
@@ -83712,8 +83724,8 @@
   "doc_type": "총리령",
   "enforcement_date": "20230622",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:20:23.403395+00:00",
-  "last_collected_at": "2026-08-24T16:22:40.159946+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.931235+00:00",
+  "last_collected_at": "2026-08-27T07:49:18.402130+00:00",
   "ministry": "식품의약품안전처",
   "mst": "252147",
   "name": "유전자변형농수산물의 표시 및 농수산물의 안전성조사 등에 관한 규칙",
@@ -87107,8 +87119,8 @@
   "version_signature": "c8eb722066002d63"
  },
  "law:eflaw:012114": {
-  "collected_signature": "9dc62b0260e3b798",
-  "content_hash": "9842c0a4f85b3a1561fef90659901c0eb9ea417b7d579a31688987f08e5fda2d",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287843&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012114",
@@ -87123,7 +87135,7 @@
   "name": "의용소방대 설치 및 운영에 관한 법률 시행규칙",
   "payload_law_id": "012114",
   "promulgation_date": "20260701",
-  "status": "done",
+  "status": "pending",
   "version_count": 2,
   "version_signature": "9dc62b0260e3b798"
  },
@@ -87842,8 +87854,8 @@
   "version_signature": "d5db3fc98d5cb373"
  },
  "law:eflaw:012176": {
-  "collected_signature": "b6bb1e71f77b21e8",
-  "content_hash": "d7ae95209c307f2fb30feb7ffa486e6f723717bebf64dcd825f21467ef3b35cc",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288169&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "012176",
@@ -87858,7 +87870,7 @@
   "name": "인사혁신처와 그 소속기관 직제 시행규칙",
   "payload_law_id": "012176",
   "promulgation_date": "20260721",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b6bb1e71f77b21e8"
  },
@@ -89249,7 +89261,7 @@
   "version_signature": "f6073d043c8ed668"
  },
  "law:eflaw:012298": {
-  "collected_signature": "4bfcb9c141be0bea",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270137&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
@@ -89267,7 +89279,7 @@
   "name": "한옥 등 건축자산의 진흥에 관한 법률 시행령",
   "payload_law_id": "012298",
   "promulgation_date": "20250325",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "4bfcb9c141be0bea"
  },
@@ -89356,7 +89368,7 @@
   "version_signature": "6ebd85dd7d2ef214"
  },
  "law:eflaw:012303": {
-  "collected_signature": "58b104d98e1ef957",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235141&type=HTML&mobileYn=&efYd=20210827",
   "doc_domain": "law",
@@ -89374,7 +89386,7 @@
   "name": "한옥 등 건축자산의 진흥에 관한 법률 시행규칙",
   "payload_law_id": "012303",
   "promulgation_date": "20210827",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "58b104d98e1ef957"
  },
@@ -92785,8 +92797,9 @@
   "version_signature": "ff0169db0f0635d1"
  },
  "law:eflaw:012594": {
-  "collected_signature": "5ff5aa6cb96ab534",
-  "content_hash": "22c4aff6bba8a118cc096e0a4adce5d7bc86ca8ef758298fce5611ffdb91ba82",
+  "attempts": 1,
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286197&type=HTML&mobileYn=&efYd=20260515",
   "doc_domain": "law",
   "doc_id": "012594",
@@ -92794,14 +92807,14 @@
   "doc_type": "보건복지부령",
   "enforcement_date": "20260515",
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:57:50.492168+00:00",
+  "last_checked_at": "2026-08-27T06:24:00.002698+00:00",
   "last_collected_at": "2026-08-24T17:01:21.676775+00:00",
   "ministry": "보건복지부",
   "mst": "286197",
   "name": "의료 해외진출 및 외국인환자 유치 지원에 관한 법률 시행규칙",
   "payload_law_id": "012594",
   "promulgation_date": "20260515",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "5ff5aa6cb96ab534"
  },
@@ -93625,7 +93638,7 @@
   "version_signature": "a4167dfe0c56988f"
  },
  "law:eflaw:012680": {
-  "collected_signature": "30ee3cc01c712e21",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278625&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
@@ -93643,7 +93656,7 @@
   "name": "한국환경산업기술원법 시행령",
   "payload_law_id": "012680",
   "promulgation_date": "20251001",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "30ee3cc01c712e21"
  },
@@ -94593,6 +94606,7 @@
   "version_signature": "e13a0ea812f54203"
  },
  "law:eflaw:012844": {
+  "attempts": 0,
   "collected_signature": "e68a3bb1e2c21a77",
   "content_hash": "27d9bddce61a6e12342300321ccc7141581a5d90338b54ad13b447eb4269d04d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283615&type=HTML&mobileYn=&efYd=20260227",
@@ -94602,8 +94616,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260227",
   "is_active": true,
-  "last_checked_at": "2026-08-27T02:23:12.084990+00:00",
-  "last_collected_at": "2026-08-27T02:31:02.679531+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.644135+00:00",
+  "last_collected_at": "2026-08-27T07:51:18.836525+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:44.264724+00:00",
   "ministry": "국토교통부",
@@ -94612,7 +94626,7 @@
   "payload_law_id": "012844",
   "promulgation_date": "20260226",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e68a3bb1e2c21a77"
  },
  "law:eflaw:012848": {
@@ -94658,8 +94672,9 @@
   "version_signature": "33303161dc09495e"
  },
  "law:eflaw:012850": {
+  "attempts": 0,
   "collected_signature": "c4a219e0e6739594",
-  "content_hash": null,
+  "content_hash": "b72bdd5fb9fa3e9594c9a6f81dfd061c9596d44a3de183c2f92eb01d98de57d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283729&type=HTML&mobileYn=&efYd=20260227",
   "doc_domain": "law",
   "doc_id": "012850",
@@ -94667,8 +94682,8 @@
   "doc_type": "국토교통부령",
   "enforcement_date": "20260227",
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:53:50.748263+00:00",
-  "last_collected_at": "2026-08-22T16:01:22.803629+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.615944+00:00",
+  "last_collected_at": "2026-08-27T06:25:11.199018+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:43.989834+00:00",
   "ministry": "국토교통부",
@@ -96972,7 +96987,7 @@
   "version_signature": "a95e0f5423044571"
  },
  "law:eflaw:013148": {
-  "collected_signature": "8f283e09486ddd63",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281321&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -96990,7 +97005,7 @@
   "name": "한국해양진흥공사법 시행령",
   "payload_law_id": "013148",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "8f283e09486ddd63"
  },
@@ -97184,8 +97199,8 @@
   "version_signature": "74c9effb78c4ba71"
  },
  "law:eflaw:013180": {
-  "collected_signature": "1dad1663116503a2",
-  "content_hash": "ec2f52a4058ca82a3efe4f17303e02c96f31a81e41abbb7e64190ecfac54587a",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=249027&type=HTML&mobileYn=&efYd=20230922",
   "doc_domain": "law",
   "doc_id": "013180",
@@ -97200,7 +97215,7 @@
   "name": "인터넷전문은행 설립 및 운영에 관한 특례법",
   "payload_law_id": "013180",
   "promulgation_date": "20230321",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "1dad1663116503a2"
  },
@@ -98320,7 +98335,7 @@
   "version_signature": "0563b9ef9d2b4274"
  },
  "law:eflaw:013492": {
-  "collected_signature": "b76fe3509ff8f993",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281319&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -98338,7 +98353,7 @@
   "name": "한국해양교통안전공단법 시행령",
   "payload_law_id": "013492",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b76fe3509ff8f993"
  },
@@ -101852,7 +101867,7 @@
   "version_signature": "0e54ed1859cddd01"
  },
  "law:eflaw:013842": {
-  "collected_signature": "e7bd194c15b1dc55",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245627&type=HTML&mobileYn=&efYd=20221201",
   "doc_domain": "law",
@@ -101870,7 +101885,7 @@
   "name": "한식진흥법 시행령",
   "payload_law_id": "013842",
   "promulgation_date": "20221129",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "e7bd194c15b1dc55"
  },
@@ -107465,6 +107480,7 @@
   "version_signature": "ad672f2ceb1e6640"
  },
  "law:eflaw:014283": {
+  "attempts": 0,
   "collected_signature": "689d279311d751df",
   "content_hash": "7c3bf2b4d7891484aa10676bc23c32f25954e37bd1dc02a2b5e6d3bc7fc5b481",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287337&type=HTML&mobileYn=&efYd=20260701",
@@ -107474,8 +107490,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260701",
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:13:54.146858+00:00",
-  "last_collected_at": "2026-08-24T15:22:21.227275+00:00",
+  "last_checked_at": "2026-08-27T06:23:59.702277+00:00",
+  "last_collected_at": "2026-08-27T06:27:05.896804+00:00",
   "ministry": "원자력안전위원회",
   "mst": "287337",
   "name": "원자력안전 정보공개 및 소통에 관한 법률 시행령",
@@ -108284,8 +108300,8 @@
   "version_signature": "e718d7e419816d27"
  },
  "law:eflaw:014337": {
-  "collected_signature": "e325c3d5074c44dd",
-  "content_hash": "253c43b7160520b68510e17bb866654156a787100eac1672c01144aa14828ef9",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286129&type=HTML&mobileYn=&efYd=20260519",
   "doc_domain": "law",
   "doc_id": "014337",
@@ -108300,7 +108316,7 @@
   "name": "임업ㆍ산림 공익기능 증진을 위한 직접지불제도 운영에 관한 법률 시행령",
   "payload_law_id": "014337",
   "promulgation_date": "20260519",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "e325c3d5074c44dd"
  },
@@ -108368,8 +108384,8 @@
   "version_signature": "bd286117e5a0b755"
  },
  "law:eflaw:014347": {
-  "collected_signature": "e0c31d45a4af7339",
-  "content_hash": "108c1e1df30e6ab4c66ac516f1d99680e3fd701164025de1f3102773c48004fd",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286155&type=HTML&mobileYn=&efYd=20260519",
   "doc_domain": "law",
   "doc_id": "014347",
@@ -108384,7 +108400,7 @@
   "name": "임업ㆍ산림 공익기능 증진을 위한 직접지불제도 운영에 관한 법률 시행규칙",
   "payload_law_id": "014347",
   "promulgation_date": "20260519",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "e0c31d45a4af7339"
  },
@@ -111686,8 +111702,8 @@
   "version_signature": "173449b9fcb98b9f"
  },
  "law:eflaw:014631": {
-  "collected_signature": "b9b3b45076c740cc",
-  "content_hash": "b5374e457c59a8c4a146f80a7f0afae9da6c1c8855595bb46af0167d7232f148",
+  "collected_signature": null,
+  "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261255&type=HTML&mobileYn=&efYd=20240318",
   "doc_domain": "law",
   "doc_id": "014631",
@@ -111702,7 +111718,7 @@
   "name": "일본ㆍ중국 및 핀란드산 도공(Coated) 인쇄용지에 대한 덤핑방지관세 부과에 관한 규칙",
   "payload_law_id": "014631",
   "promulgation_date": "20240318",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b9b3b45076c740cc"
  },
@@ -114861,7 +114877,7 @@
   "version_signature": "52618d071c7163b9"
  },
  "law:eflaw:014873": {
-  "collected_signature": "b0ac4f7933d7937a",
+  "collected_signature": null,
   "content_hash": null,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281089&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -114879,7 +114895,7 @@
   "name": "한류산업진흥 기본법 시행령",
   "payload_law_id": "014873",
   "promulgation_date": "20251230",
-  "status": "done",
+  "status": "pending",
   "version_count": 1,
   "version_signature": "b0ac4f7933d7937a"
  },
@@ -119112,13 +119128,14 @@
   "version_signature": "319a93088cf2b333"
  },
  "law:eflaw:TESTFUT_PYTEST": {
+  "attempts": 0,
   "collected_signature": "sig3",
   "content_hash": "h3",
   "doc_domain": "law",
   "doc_id": "TESTFUT_PYTEST",
   "doc_target": "eflaw",
   "is_active": true,
-  "last_collected_at": "2026-08-27T04:38:51.934516+00:00",
+  "last_collected_at": "2026-08-27T07:42:45.469484+00:00",
   "name": "철회테스트법",
   "payload_law_id": "TESTFUT_PYTEST",
   "status": "done",
