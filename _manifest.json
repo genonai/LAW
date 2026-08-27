@@ -628,7 +628,7 @@
   "payload_law_id": "000074",
   "promulgation_date": "20240920",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "cf0d1d8a1b53777c"
  },
  "law:eflaw:000080": {
@@ -714,7 +714,7 @@
   "payload_law_id": "000088",
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f98404427ebb74c0"
  },
  "law:eflaw:000091": {
@@ -1661,7 +1661,7 @@
   "payload_law_id": "000184",
   "promulgation_date": "20241203",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "5db354eaa09fdd5f"
  },
  "law:eflaw:000185": {
@@ -3202,7 +3202,7 @@
   "payload_law_id": "000433",
   "promulgation_date": "20250826",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "9d0d7f9b4a1d92e3"
  },
  "law:eflaw:000445": {
@@ -15169,7 +15169,7 @@
   "payload_law_id": "002025",
   "promulgation_date": "20260526",
   "status": "done",
-  "version_count": 1,
+  "version_count": 3,
   "version_signature": "73e32cdedccbfb2b"
  },
  "law:eflaw:002026": {
@@ -16618,7 +16618,7 @@
   "payload_law_id": "002254",
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 1,
+  "version_count": 4,
   "version_signature": "fa56516bca49881f"
  },
  "law:eflaw:002255": {
@@ -17143,7 +17143,7 @@
   "payload_law_id": "002357",
   "promulgation_date": "20260609",
   "status": "done",
-  "version_count": 1,
+  "version_count": 2,
   "version_signature": "f926682b124df13e"
  },
  "law:eflaw:002364": {
@@ -17357,8 +17357,8 @@
   "version_signature": "6dd990a118c55b8c"
  },
  "law:eflaw:002385": {
-  "collected_signature": null,
-  "content_hash": null,
+  "collected_signature": "d0731b329a26b47d",
+  "content_hash": "42ab859521cfeeb55c1b1387aef7643035709536a5a915d113c74fda0faaaf0d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227239&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "002385",
@@ -17366,8 +17366,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20210105",
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:53:52.074446+00:00",
-  "last_collected_at": "2026-08-22T15:59:40.775580+00:00",
+  "last_checked_at": "2026-08-27T00:16:08.762196+00:00",
+  "last_collected_at": "2026-08-27T00:16:49.647317+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:29.511768+00:00",
   "ministry": "국토교통부",
@@ -17422,8 +17422,8 @@
   "version_signature": "9b363daa5673c67b"
  },
  "law:eflaw:002391": {
-  "collected_signature": null,
-  "content_hash": null,
+  "collected_signature": "987c86fc06693440",
+  "content_hash": "ee91cdba2a1d94d8b36125b32d48ab596837e3809c95cd975651f88c695a46bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281435&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002391",
@@ -17431,8 +17431,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260102",
   "is_active": true,
-  "last_checked_at": "2026-08-22T16:01:42.094139+00:00",
-  "last_collected_at": "2026-08-22T16:03:06.188106+00:00",
+  "last_checked_at": "2026-08-27T00:16:06.938218+00:00",
+  "last_collected_at": "2026-08-27T00:16:13.610693+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:29.786860+00:00",
   "ministry": "교육부",
@@ -18390,8 +18390,8 @@
   "version_signature": "b5f22e5e079e5c65"
  },
  "law:eflaw:002671": {
-  "collected_signature": "05456ce673b460f4",
-  "content_hash": "acf8258fa0eeabade4c7701973106b9d1ac21728df8514e4bfbff2019fe36714",
+  "collected_signature": "805888f854007d60",
+  "content_hash": "8c12aac0d842fac0a4895cd9994d6a196f147477c139b1f429fe2dabcd0fc483",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288949&type=HTML&mobileYn=&efYd=20260825",
   "doc_domain": "law",
   "doc_id": "002671",
@@ -18399,8 +18399,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260825",
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:29:50.257403+00:00",
-  "last_collected_at": "2026-08-22T19:46:00.551836+00:00",
+  "last_checked_at": "2026-08-27T00:16:06.263386+00:00",
+  "last_collected_at": "2026-08-27T00:29:17.979466+00:00",
   "ministry": "국가보훈부",
   "mst": "288949",
   "name": "국가유공자 등 예우 및 지원에 관한 법률 시행령",
@@ -18831,8 +18831,8 @@
   "version_signature": "f7712e4f0bc31742"
  },
  "law:eflaw:002845": {
-  "collected_signature": "6fa27576910f2891",
-  "content_hash": "9eac966dbe21b4574c1390dad515ab6abe922940d9d12c108364e6210234e787",
+  "collected_signature": "ecdf30d421f89b53",
+  "content_hash": "2ec7076b679aeea15ae86847140ff9e908d8ddeeee2d4461ee07af45051030f0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285983&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "002845",
@@ -18840,15 +18840,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260512",
   "is_active": true,
-  "last_checked_at": "2026-08-22T22:18:00.821783+00:00",
-  "last_collected_at": "2026-08-22T22:29:30.802705+00:00",
+  "last_checked_at": "2026-08-27T00:58:37.986621+00:00",
+  "last_collected_at": "2026-08-27T01:07:14.881534+00:00",
   "ministry": "문화체육관광부",
   "mst": "285983",
   "name": "국민체육진흥법 시행령",
   "payload_law_id": "002845",
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ecdf30d421f89b53"
  },
  "law:eflaw:002850": {
@@ -19545,8 +19545,8 @@
   "version_signature": "c1cd8d66570005f5"
  },
  "law:eflaw:002974": {
-  "collected_signature": "78c3d6e6edff0ed7",
-  "content_hash": "bca16ccb97eae14f4bb1a0695ab6d250779d86ec70ff37c5619416bd703c0e4a",
+  "collected_signature": "d7841841bc836127",
+  "content_hash": "bb8107c4d0b4b1554c710c2275c49f9b929b63180bf2ca30c74737f30eecb88c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283997&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "002974",
@@ -19554,15 +19554,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260310",
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:11:20.347521+00:00",
-  "last_collected_at": "2026-08-23T01:17:57.652337+00:00",
+  "last_checked_at": "2026-08-27T00:58:38.702993+00:00",
+  "last_collected_at": "2026-08-27T01:07:26.711176+00:00",
   "ministry": "국방부",
   "mst": "283997",
   "name": "군무원인사법 시행령",
   "payload_law_id": "002974",
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d7841841bc836127"
  },
  "law:eflaw:002977": {
@@ -20763,8 +20763,8 @@
   "version_signature": "f6626d4e50fbae21"
  },
  "law:eflaw:003204": {
-  "collected_signature": "56b5212c4e59df3c",
-  "content_hash": "24e33b7b1f980f4b3f4c2dbc61f3ed3ea9ff68ecea33538fbe3eab79fb7aafd5",
+  "collected_signature": "b3ea14009c6d358e",
+  "content_hash": "f5410df8869f07e08221c4512919a08b51619f1585eb5ea780c1ce859a5a6167",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288991&type=HTML&mobileYn=&efYd=20260827",
   "doc_domain": "law",
   "doc_id": "003204",
@@ -20772,20 +20772,20 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260827",
   "is_active": true,
-  "last_checked_at": "2026-08-23T05:27:45.594204+00:00",
-  "last_collected_at": "2026-08-23T05:38:59.111152+00:00",
+  "last_checked_at": "2026-08-27T00:58:37.537003+00:00",
+  "last_collected_at": "2026-08-27T01:07:36.566517+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "288991",
   "name": "농수산물 유통 및 가격안정에 관한 법률 시행령",
   "payload_law_id": "003204",
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b3ea14009c6d358e"
  },
  "law:eflaw:003205": {
-  "collected_signature": "941101c9d60b1aab",
-  "content_hash": "eedc00c5e89f4c3182f4a871bda94b48fb40508b90669a215e42a42f6854f06b",
+  "collected_signature": "daca86ccf0e5b35b",
+  "content_hash": "219ebc86da3612f04137c1094eebf2ba498c5302f0ae14dc9679fba1d64a30fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288973&type=HTML&mobileYn=&efYd=20260825",
   "doc_domain": "law",
   "doc_id": "003205",
@@ -20793,15 +20793,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260825",
   "is_active": true,
-  "last_checked_at": "2026-08-23T05:27:47.955549+00:00",
-  "last_collected_at": "2026-08-23T05:32:24.555450+00:00",
+  "last_checked_at": "2026-08-27T00:58:39.492912+00:00",
+  "last_collected_at": "2026-08-27T01:07:36.233284+00:00",
   "ministry": "농림축산식품부,식품의약품안전처,해양수산부",
   "mst": "288973",
   "name": "농수산물 품질관리법 시행령",
   "payload_law_id": "003205",
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "daca86ccf0e5b35b"
  },
  "law:eflaw:003210": {
@@ -21087,7 +21087,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260825",
   "is_active": true,
-  "last_checked_at": "2026-08-23T06:52:59.912254+00:00",
+  "last_checked_at": "2026-08-27T00:58:40.134602+00:00",
   "last_collected_at": "2026-08-23T07:07:33.992745+00:00",
   "ministry": "농림축산식품부",
   "mst": "288993",
@@ -21204,8 +21204,8 @@
   "version_signature": "2a309aad9e2f6c01"
  },
  "law:eflaw:003285": {
-  "collected_signature": null,
-  "content_hash": null,
+  "collected_signature": "fb8627952b3af9fd",
+  "content_hash": "e6f073275cb79b4a56df6c7578f375cd69b012aa014d37481ad7f7c7642bf123",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251391&type=HTML&mobileYn=&efYd=20230614",
   "doc_domain": "law",
   "doc_id": "003285",
@@ -21213,8 +21213,8 @@
   "doc_type": "대통령령",
   "enforcement_date": "20230614",
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:11:20.276180+00:00",
-  "last_collected_at": "2026-08-26T06:12:26.879105+00:00",
+  "last_checked_at": "2026-08-27T00:58:39.934451+00:00",
+  "last_collected_at": "2026-08-27T01:07:11.915847+00:00",
   "last_error": "Child Workflow execution failed",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:30.053318+00:00",
@@ -21487,7 +21487,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20170330",
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:48:14.617565+00:00",
+  "last_checked_at": "2026-08-27T00:58:38.770014+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부",
   "mst": "192768",
@@ -21771,8 +21771,8 @@
   "version_signature": "41afad0b0c8c25de"
  },
  "law:eflaw:003424": {
-  "collected_signature": "c545f75e089e94fb",
-  "content_hash": "4851f3d38f0a870911d50f9da62f56b03dde053a914daf5b784d38081204ee69",
+  "collected_signature": "3eb38613441757ef",
+  "content_hash": "3da2a1dc70c399913246bf234cab5b0406fc71e37d5b0065d7eb42f3d3dcf633",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288997&type=HTML&mobileYn=&efYd=20260827",
   "doc_domain": "law",
   "doc_id": "003424",
@@ -21780,15 +21780,15 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260827",
   "is_active": true,
-  "last_checked_at": "2026-08-23T10:15:47.747365+00:00",
-  "last_collected_at": "2026-08-23T10:22:21.902377+00:00",
+  "last_checked_at": "2026-08-27T00:58:37.262025+00:00",
+  "last_collected_at": "2026-08-27T01:07:26.645106+00:00",
   "ministry": "국토교통부",
   "mst": "288997",
   "name": "도시공원 및 녹지 등에 관한 법률 시행령",
   "payload_law_id": "003424",
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3eb38613441757ef"
  },
  "law:eflaw:003425": {
@@ -38409,7 +38409,7 @@
   "doc_type": "재정경제부령",
   "enforcement_date": "20260320",
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:48:14.784092+00:00",
+  "last_checked_at": "2026-08-27T00:58:08.404294+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "재정경제부",
   "mst": "284977",
@@ -41032,7 +41032,7 @@
   "doc_domain": "law",
   "doc_id": "006971",
   "doc_target": "eflaw",
-  "doc_type": "해양수산부령",
+  "doc_type": "농림축산식품부령",
   "enforcement_date": "20260827",
   "is_active": true,
   "last_checked_at": "2026-08-23T05:27:47.614895+00:00",
@@ -57524,7 +57524,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20130323",
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:48:19.390776+00:00",
+  "last_checked_at": "2026-08-27T00:58:07.213318+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "교육부",
   "mst": "135649",
@@ -62111,7 +62111,7 @@
   "doc_type": "대통령령",
   "enforcement_date": "20060126",
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:48:15.400565+00:00",
+  "last_checked_at": "2026-08-27T00:58:07.646025+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국방부",
   "mst": "73139",
