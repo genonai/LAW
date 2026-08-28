@@ -3932,7 +3932,14 @@
         "changed": "N",
         "article_key": "0018001",
         "images": [],
-        "provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#JO0018"
+        "provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20260828",
+            "change": "개정",
+            "content": "제18조(안전점검등에 관한 지침) 영 제17조제10호에서 \"국토교통부령으로 정하는 사항\"이란 다음 각 호의 사항을 말한다. <개정 2026.8.14>\n1. 육안검사에 의한 결함의 종류, 보고방법 및 평가방법 등에 관한 사항\n2. 결함부위의 획정방법에 관한 사항\n3. 시설물의 결함원인 분석에 관한 사항\n4. 시설물의 상태에 관한 평가기준 및 평가방법에 관한 사항\n5. 시설물 하중내하력(荷重耐荷力)의 평가방법에 관한 사항\n6. 시설물 관리대장의 작성에 관한 사항"
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -9156,6 +9163,19 @@
       "source_version_uid": "007619:282381:20260102",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260102"
+    },
+    {
+      "promulgation_date": "20260814",
+      "promulgation_no": "01613",
+      "addendum_key": "2026081401613",
+      "content": "부칙 <제1613호,2026.8.14>\n이 규칙은 2026년 8월 28일부터 시행한다.",
+      "provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288721",
+      "source_version_uid": "007619:288721:20260828",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260828",
+      "enforcement_date": "20260828"
     }
   ],
   "appendices": [
@@ -10932,8 +10952,10 @@
   "provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#DOC",
   "addendum_provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:시설물의안전및유지관리에관한특별법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260828"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "시설물의 안전 및 유지관리에 관한 특별법/시행규칙/시설물의 안전 및 유지관리에 관한 특별법 시행규칙.json"
 }
