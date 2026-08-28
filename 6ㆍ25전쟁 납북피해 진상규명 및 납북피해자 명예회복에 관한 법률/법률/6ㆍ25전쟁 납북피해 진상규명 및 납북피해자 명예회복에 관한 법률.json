@@ -506,7 +506,14 @@
         "changed": "N",
         "article_key": "0012001",
         "images": [],
-        "provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#JO0012"
+        "provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#JO0012",
+        "scheduled": [
+          {
+            "enforcement_date": "20260828",
+            "change": "개정",
+            "content": "제12조(단체)\n① 납북자가족 상호 간의 친목을 도모하고 상부상조함으로써 자활능력을 배양하고 납북자가족의 권익을 향상시키기 위하여 단체를 둔다.\n② 제1항에 따른 단체(이하 \"단체\"라 한다)는 법인으로 한다.\n③ 단체는 정관을 작성하여 통일부장관의 승인을 받아 설립등기를 함으로써 성립한다.\n④ 단체는 다음 각 호의 사업을 수행한다.\n1. 납북자가족 상호 간의 상부상조를 통한 친목 도모\n2. 납북자가족의 복지증진 또는 권익신장\n3. 단체의 설립 목적에 부합하는 조사 및 연구\n4. 그 밖에 납북자 및 납북자가족을 위한 기록ㆍ홍보 등 대통령령으로 정하는 사업\n⑤ 단체에 대하여는 이 법에서 규정한 것을 제외하고는 「민법」 중 사단법인에 관한 규정을 준용한다.\n⑥ 국가 또는 지방자치단체는 예산의 범위에서 단체에 보조금을 지급할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제13조",
@@ -822,6 +829,19 @@
       "source_version_uid": "011176:267383:20241220",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20241220"
+    },
+    {
+      "promulgation_date": "20260227",
+      "promulgation_no": "21384",
+      "addendum_key": "2026022721384",
+      "content": "부칙 <제21384호,2026.2.27>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조(단체의 설립에 관한 경과조치) 이 법 시행 당시 「민법」 제32조에 따라 설립된 사단법인 6ㆍ25전쟁납북인사가족협의회는 제12조의 개정규정에 따른 단체로 본다.",
+      "provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283683",
+      "source_version_uid": "011176:283683:20260828",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260828",
+      "enforcement_date": "20260828"
     }
   ],
   "appendices": [],
@@ -902,8 +922,10 @@
   "provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#DOC",
   "addendum_provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#ADDENDUM",
   "amendment_provision_id": "law:625전쟁납북피해진상규명및납북피해자명예회복에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260828"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "6ㆍ25전쟁 납북피해 진상규명 및 납북피해자 명예회복에 관한 법률/법률/6ㆍ25전쟁 납북피해 진상규명 및 납북피해자 명예회복에 관한 법률.json"
 }
