@@ -62695,6 +62695,7 @@
   "version_signature": "4f0d75fa3fff4959"
  },
  "law:eflaw:009946": {
+  "attempts": 1,
   "collected_signature": "b82973427bcf0f5d",
   "content_hash": "2c40fc59a77df8d6d0b4c750bd12208faeae5e53a722269e60664bc340558da6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278795&type=HTML&mobileYn=&efYd=20251001",
@@ -62705,14 +62706,15 @@
   "emitted_signature": "b82973427bcf0f5d",
   "enforcement_date": "20251001",
   "is_active": true,
-  "last_checked_at": "2026-08-26T13:01:20.434250+00:00",
+  "last_checked_at": "2026-09-02T17:34:44.081000+00:00",
   "last_collected_at": "2026-08-26T13:03:34.131501+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "산업통상부",
   "mst": "278795",
   "name": "환경친화적자동차의 개발 및 보급 촉진에 관한 법률 시행규칙",
   "payload_law_id": "009946",
   "promulgation_date": "20251001",
-  "status": "done",
+  "status": "failed",
   "version_count": 2,
   "version_signature": "b71fcfb215a3d89f"
  },
@@ -65324,6 +65326,7 @@
   "version_signature": "3f85adb9bd4ad4ff"
  },
  "law:eflaw:010157": {
+  "attempts": 1,
   "collected_signature": "95e9e3dd4ea269fc",
   "content_hash": "de7ae04f6d68467d3657a272b36282c3a6ff48b5b02e2a82312ccde3246b6011",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289153&type=HTML&mobileYn=&efYd=20260828",
@@ -65334,14 +65337,15 @@
   "emitted_signature": "95e9e3dd4ea269fc",
   "enforcement_date": "20260828",
   "is_active": true,
-  "last_checked_at": "2026-08-26T10:38:03.310748+00:00",
+  "last_checked_at": "2026-09-02T17:34:44.238097+00:00",
   "last_collected_at": "2026-08-26T10:40:32.051519+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "행정중심복합도시건설청",
   "mst": "289153",
   "name": "행정중심복합도시건설청 직제 시행규칙",
   "payload_law_id": "010157",
   "promulgation_date": "20260828",
-  "status": "done",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "6fe1bd4280ffc232"
  },
