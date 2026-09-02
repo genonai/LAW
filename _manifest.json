@@ -41736,6 +41736,7 @@
   "version_signature": "f3ecb9b1ac647bee"
  },
  "law:eflaw:006743": {
+  "attempts": 1,
   "collected_signature": "80e9529153e870b5",
   "content_hash": "bd83b59ad48415db8507bbc22085cba76429e5ce56ef899e3a721be8e228d886",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289205&type=HTML&mobileYn=&efYd=20260828",
@@ -41746,14 +41747,15 @@
   "emitted_signature": "80e9529153e870b5",
   "enforcement_date": "20260828",
   "is_active": true,
-  "last_checked_at": "2026-08-22T22:59:45.886251+00:00",
+  "last_checked_at": "2026-09-02T15:34:31.745969+00:00",
   "last_collected_at": "2026-08-22T23:06:12.558264+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "국세청",
   "mst": "289205",
   "name": "국세청과 그 소속기관 직제 시행규칙",
   "payload_law_id": "006743",
   "promulgation_date": "20260828",
-  "status": "done",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "cacd7123a2e48fdd"
  },
@@ -56668,6 +56670,7 @@
   "version_signature": "6961eb12bb504eb8"
  },
  "law:eflaw:009469": {
+  "attempts": 1,
   "collected_signature": "a7ca64cf67634785",
   "content_hash": "e902053ff51f151b1a9f8a1620a3b6c22eb26321aecdc5dc1bdc029e813ec1c6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284531&type=HTML&mobileYn=&efYd=20260312",
@@ -56678,14 +56681,15 @@
   "emitted_signature": "a7ca64cf67634785",
   "enforcement_date": "20260312",
   "is_active": true,
-  "last_checked_at": "2026-08-23T00:17:20.306119+00:00",
+  "last_checked_at": "2026-09-02T15:34:31.505725+00:00",
   "last_collected_at": "2026-08-23T00:22:21.560075+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "국토교통부",
   "mst": "284531",
   "name": "국토의 계획 및 이용에 관한 법률 시행규칙",
   "payload_law_id": "009469",
   "promulgation_date": "20260312",
-  "status": "done",
+  "status": "failed",
   "version_count": 2,
   "version_signature": "8c8e4dbda90af061"
  },
@@ -86946,6 +86950,7 @@
   "version_signature": "1f5a93d129e84423"
  },
  "law:eflaw:011717": {
+  "attempts": 1,
   "collected_signature": "ae95d4a3d8db7409",
   "content_hash": "8a72bc84debf1ff40bcb69735e2c99ed605ed1290e37fd4b87fdf1ed41f4c9a9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240171&type=HTML&mobileYn=&efYd=20220211",
@@ -86956,14 +86961,15 @@
   "emitted_signature": "ae95d4a3d8db7409",
   "enforcement_date": "20220211",
   "is_active": true,
-  "last_checked_at": "2026-08-22T23:29:42.598196+00:00",
+  "last_checked_at": "2026-09-02T15:34:32.319270+00:00",
   "last_collected_at": "2026-08-22T23:30:51.585108+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "문화체육관광부",
   "mst": "240171",
   "name": "국제경기대회 지원법 시행령",
   "payload_law_id": "011717",
   "promulgation_date": "20220208",
-  "status": "done",
+  "status": "failed",
   "version_count": 2,
   "version_signature": "0d8e548b075eb43c"
  },
@@ -87606,6 +87612,7 @@
   "version_signature": "c36b4564f8eb2a4c"
  },
  "law:eflaw:011788": {
+  "attempts": 1,
   "collected_signature": "2d7978f39012609d",
   "content_hash": "cef37adf64264dd2eb7f76d14e94e895f2688add3c78f050240007df724aa6d0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289075&type=HTML&mobileYn=&efYd=20260828",
@@ -87616,14 +87623,15 @@
   "emitted_signature": "2d7978f39012609d",
   "enforcement_date": "20260828",
   "is_active": true,
-  "last_checked_at": "2026-08-23T00:09:53.716932+00:00",
+  "last_checked_at": "2026-09-02T15:34:32.319500+00:00",
   "last_collected_at": "2026-08-23T00:15:26.337096+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "국토교통부,행정안전부",
   "mst": "289075",
   "name": "국토교통부와 그 소속기관 직제",
   "payload_law_id": "011788",
   "promulgation_date": "20260828",
-  "status": "done",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "7fc48ec8f00138bd"
  },
@@ -87916,6 +87924,7 @@
   "version_signature": "638353e569800176"
  },
  "law:eflaw:011804": {
+  "attempts": 1,
   "collected_signature": "aac59d4719ca13fc",
   "content_hash": "b02c0a33fb803f2cf86a5ad5a269d7334ca5babe625bda5f86c087f0eff83282",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289207&type=HTML&mobileYn=&efYd=20260828",
@@ -87926,14 +87935,15 @@
   "emitted_signature": "aac59d4719ca13fc",
   "enforcement_date": "20260828",
   "is_active": true,
-  "last_checked_at": "2026-08-23T00:09:52.975880+00:00",
+  "last_checked_at": "2026-09-02T15:34:32.437835+00:00",
   "last_collected_at": "2026-08-23T00:17:00.655964+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "국토교통부",
   "mst": "289207",
   "name": "국토교통부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "011804",
   "promulgation_date": "20260828",
-  "status": "done",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "8c616faa5269bcb1"
  },
@@ -124913,6 +124923,7 @@
   "version_signature": "319a93088cf2b333"
  },
  "law:eflaw:015198": {
+  "attempts": 1,
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289031&type=HTML&mobileYn=&efYd=20260901",
   "doc_domain": "law",
   "doc_id": "015198",
@@ -124920,11 +124931,13 @@
   "doc_type": "대통령령",
   "enforcement_date": "20260901",
   "is_active": true,
+  "last_checked_at": "2026-09-02T15:34:31.515850+00:00",
+  "last_error": "Child Workflow execution failed",
   "ministry": "국가정보원",
   "mst": "289031",
   "name": "국제범죄조직 대응업무규정",
   "promulgation_date": "20260901",
-  "status": "pending",
+  "status": "failed",
   "version_count": 1,
   "version_signature": "df837b0662f4f55d"
  },
