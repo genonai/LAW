@@ -3389,7 +3389,14 @@
         "changed": "N",
         "article_key": "0029001",
         "images": [],
-        "provision_id": "law:조달사업에관한법률#JO0029"
+        "provision_id": "law:조달사업에관한법률#JO0029",
+        "scheduled": [
+          {
+            "enforcement_date": "20260903",
+            "change": "개정",
+            "content": "제29조(비축물자 구매 및 공급 등)\n① 조달청장은 비축물자의 국내 수급상황 등을 감안하여 품목별로 비축물자 구매 시기와 수량을 결정할 수 있다.\n② 조달청장이 공급하는 비축물자를 이용하고자 하는 자(이하 \"이용업체\"라 한다)는 조달청장이 정하는 바에 따라 국가종합전자조달시스템에 등록하여야 한다.\n③ 이용업체는 조달청장이 공급하는 비축물자를 제조 및 가공하지 아니한 상태로 타인에게 재판매할 수 없다. 다만, 이용업체의 부도, 파산 및 생산 중단 등 불가피한 사유가 있어 조달청장의 승인을 받은 경우에는 그러하지 아니하며, 그 구체적인 승인 요건은 조달청장이 정하여 고시한다. <개정 2024.3.26>\n④ 조달청장은 제3항을 위반한 법인과 법인의 대표자에 대해서는 이용업체 등록을 말소하여야 하며, 2년 이내의 범위에서 대통령령으로 정하는 바에 따라 이용업체 등록을 제한할 수 있다.\n⑤ 조달청장은 제3항을 위반한 이용업체가 당초 지급한 금액과 재판매한 금액의 차액을 대통령령으로 정하는 바에 따라 환수할 수 있다.\n⑥ 조달청장은 비축물자의 활용 가능성, 잔여 유통ㆍ사용 기간, 보관ㆍ관리비용 등을 고려하여 비축물자의 효율적인 이용을 위하여 필요하다고 인정하는 경우에는 인도적 지원, 재난 및 경제위기 대응 등 공익적 목적에 한정하여 대통령령으로 정하는 바에 따라 비축물자를 무상으로 공급할 수 있다. <신설 2026.6.2>"
+          }
+        ]
       },
       {
         "article_no": "제30조",
@@ -4975,6 +4982,19 @@
       "source_version_uid": "000705:277155:20260102",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260102"
+    },
+    {
+      "promulgation_date": "20260602",
+      "promulgation_no": "21715",
+      "addendum_key": "2026060221715",
+      "content": "부칙 <제21715호,2026.6.2>\n이 법은 공포 후 3개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:조달사업에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286355",
+      "source_version_uid": "000705:286355:20260903",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260903",
+      "enforcement_date": "20260903"
     }
   ],
   "appendices": [],
@@ -5009,8 +5029,10 @@
   "provision_id": "law:조달사업에관한법률#DOC",
   "addendum_provision_id": "law:조달사업에관한법률#ADDENDUM",
   "amendment_provision_id": "law:조달사업에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260903"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "조달사업에 관한 법률/법률/조달사업에 관한 법률.json"
 }
