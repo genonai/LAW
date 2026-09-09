@@ -5243,10 +5243,27 @@
             "reference_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
-            "target_git_path": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
+            "target_git_path": "수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260907"
+              },
+              {
+                "git_path": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20200626"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -5507,8 +5524,25 @@
             "reference_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
-            "target_git_path": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속 식물 등의 수입금지 제외기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260907"
+              },
+              {
+                "git_path": "수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준/수입금지식물 중 네덜란드산 안스륨속식물 등의 수입금지 제외기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수입금지식물중네덜란드산안스륨속식물등의수입금지제외기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20200626"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -21311,7 +21345,7 @@
             "reference_id": "admrul:한국산감귤류생과실의뉴질랜드수출검역요령#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "한국산감귤류 생과실의 뉴질랜드 수출검역요령/한국산감귤류 생과실의 뉴질랜드 수출검역요령.json",
-            "target_git_path": "한국산감귤류 생과실의 뉴질랜드 수출검역요령/한국산감귤류 생과실의 뉴질랜드 수출검역요령.json",
+            "target_git_path": "한국산 감귤류 생과실의 뉴질랜드 수출검역요령/한국산 감귤류 생과실의 뉴질랜드 수출검역요령.json",
             "target_source_repository": "ADMRUL",
             "target_candidate_paths": [
               {
