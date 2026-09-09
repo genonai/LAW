@@ -1570,7 +1570,23 @@
             "target_git_path": "대기오염측정망 설치계획 고시/admrul_82992/대기오염측정망 설치계획 고시.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "대기오염측정망 설치계획 고시/admrul_76443/대기오염측정망 설치계획 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:대기오염측정망설치계획고시:admrul_76443#DOC",
+                "is_current": true,
+                "enforcement_date": "20200503"
+              },
+              {
+                "git_path": "대기오염측정망 설치계획 고시/admrul_82992/대기오염측정망 설치계획 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:대기오염측정망설치계획고시:admrul_82992#DOC",
+                "is_current": true,
+                "enforcement_date": "20220908"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

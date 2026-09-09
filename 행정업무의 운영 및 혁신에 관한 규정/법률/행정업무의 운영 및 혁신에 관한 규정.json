@@ -5059,8 +5059,25 @@
             "reference_id": "admrul:경찰청위임전결규칙#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "경찰청 위임전결규칙/경찰청 위임전결규칙.json",
-            "target_git_path": "경찰청 위임전결규칙/경찰청 위임전결규칙.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "경찰청 위임전결 규칙/경찰청 위임전결 규칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "경찰청 위임전결 규칙/경찰청 위임전결 규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:경찰청위임전결규칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20260831"
+              },
+              {
+                "git_path": "경찰청 위임전결규칙/경찰청 위임전결규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:경찰청위임전결규칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20250918"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -6020,11 +6037,28 @@
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
             "source_provision_id": "law:행정업무의운영및혁신에관한규정#JO0010",
-            "reference_id": "admrul:농식품공무원교육원위임전결규정#DOC",
+            "reference_id": "admrul:농식품인재개발원위임전결규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 위임전결규정/농식품공무원교육원 위임전결규정.json",
-            "target_git_path": "농식품공무원교육원 위임전결규정/농식품공무원교육원 위임전결규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "농식품인재개발원 위임전결규정/농식품인재개발원 위임전결규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 위임전결규정/농식품공무원교육원 위임전결규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원위임전결규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20210614"
+              },
+              {
+                "git_path": "농식품인재개발원 위임전결규정/농식품인재개발원 위임전결규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원위임전결규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

@@ -5018,11 +5018,28 @@
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
             "source_provision_id": "law:국가공무원복무규칙#JO0065",
-            "reference_id": "admrul:농식품공무원교육원당직및비상근무규정#DOC",
+            "reference_id": "admrul:농식품인재개발원당직및비상근무규정#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "농식품공무원교육원 당직 및 비상근무규정/농식품공무원교육원 당직 및 비상근무규정.json",
-            "target_git_path": "농식품공무원교육원 당직 및 비상근무규정/농식품공무원교육원 당직 및 비상근무규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "농식품인재개발원 당직 및 비상근무규정/농식품인재개발원 당직 및 비상근무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "농식품공무원교육원 당직 및 비상근무규정/농식품공무원교육원 당직 및 비상근무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품공무원교육원당직및비상근무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20221005"
+              },
+              {
+                "git_path": "농식품인재개발원 당직 및 비상근무규정/농식품인재개발원 당직 및 비상근무규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:농식품인재개발원당직및비상근무규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -6637,7 +6654,23 @@
             "target_git_path_guess": "국립농산물품질관리원 재택당직 및 비상근무 시행세칙/국립농산물품질관리원 재택당직 및 비상근무 시행세칙.json",
             "target_candidates": 2,
             "target_git_path": "국립농산물품질관리원재택당직및비상근무시행세칙/국립농산물품질관리원재택당직및비상근무시행세칙.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국립농산물품질관리원 재택당직 및 비상근무 시행세칙/국립농산물품질관리원 재택당직 및 비상근무 시행세칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국립농산물품질관리원재택당직및비상근무시행세칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20200407"
+              },
+              {
+                "git_path": "국립농산물품질관리원재택당직및비상근무시행세칙/국립농산물품질관리원재택당직및비상근무시행세칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국립농산물품질관리원재택당직및비상근무시행세칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20260823"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

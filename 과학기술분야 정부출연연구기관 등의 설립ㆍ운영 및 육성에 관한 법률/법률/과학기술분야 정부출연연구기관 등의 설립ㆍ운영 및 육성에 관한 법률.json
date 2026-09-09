@@ -1086,7 +1086,23 @@
             "target_git_path_guess": "한국천문연구원 정관/한국천문연구원 정관.json",
             "target_candidates": 2,
             "target_git_path": "한국천문연구원 정관/pi_2135901/한국천문연구원 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "한국천문연구원 정관/pi_2112923/한국천문연구원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국천문연구원정관:pi_2112923#DOC",
+                "is_current": true,
+                "enforcement_date": "20231226"
+              },
+              {
+                "git_path": "한국천문연구원 정관/pi_2135901/한국천문연구원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국천문연구원정관:pi_2135901#DOC",
+                "is_current": true,
+                "enforcement_date": "20240808"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -2672,7 +2688,23 @@
             "target_git_path_guess": "한국천문연구원 정관/한국천문연구원 정관.json",
             "target_candidates": 2,
             "target_git_path": "한국천문연구원 정관/pi_2135901/한국천문연구원 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "한국천문연구원 정관/pi_2112923/한국천문연구원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국천문연구원정관:pi_2112923#DOC",
+                "is_current": true,
+                "enforcement_date": "20231226"
+              },
+              {
+                "git_path": "한국천문연구원 정관/pi_2135901/한국천문연구원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:한국천문연구원정관:pi_2135901#DOC",
+                "is_current": true,
+                "enforcement_date": "20240808"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

@@ -2397,10 +2397,27 @@
             "reference_id": "admrul:민자도로의유지관리및운영기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
-            "target_git_path": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
+            "target_git_path": "민자도로의 유지ㆍ관리 및 운영 기준/민자도로의 유지ㆍ관리 및 운영 기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:민자도로의유지관리및운영기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20211025"
+              },
+              {
+                "git_path": "민자도로의 유지ㆍ관리 및 운영 기준/민자도로의 유지ㆍ관리 및 운영 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:민자도로의유지관리및운영기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260904"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -2427,8 +2444,25 @@
             "reference_id": "admrul:민자도로의유지관리및운영기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
-            "target_git_path": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "민자도로의 유지ㆍ관리 및 운영 기준/민자도로의 유지ㆍ관리 및 운영 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "민자도로의 유지·관리 및 운영 기준/민자도로의 유지·관리 및 운영 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:민자도로의유지관리및운영기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20211025"
+              },
+              {
+                "git_path": "민자도로의 유지ㆍ관리 및 운영 기준/민자도로의 유지ㆍ관리 및 운영 기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:민자도로의유지관리및운영기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260904"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

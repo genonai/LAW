@@ -879,13 +879,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법",
             "resolve_method": "render",
             "source_provision_id": "law:식물방역법#JO0008",
-            "reference_id": "admrul:재식용또는번식용식물중식물검역증명서의첨부제외기준및승인절차방법#DOC",
+            "reference_id": "admrul:재식용또는번식용식물중식물검역증명서의첨부제외기준,승인절차및방법#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법.json",
-            "target_git_path": "재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법.json",
+            "target_git_path": "재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준, 승인절차 및 방법/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준, 승인절차 및 방법.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준 및 승인 절차·방법.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재식용또는번식용식물중식물검역증명서의첨부제외기준및승인절차방법#DOC",
+                "is_current": true,
+                "enforcement_date": "20240219"
+              },
+              {
+                "git_path": "재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준, 승인절차 및 방법/재식용 또는 번식용 식물 중 식물검역증명서의 첨부 제외 기준, 승인절차 및 방법.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:재식용또는번식용식물중식물검역증명서의첨부제외기준,승인절차및방법#DOC",
+                "is_current": true,
+                "enforcement_date": "20260905"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

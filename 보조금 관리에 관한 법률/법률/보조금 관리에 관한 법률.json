@@ -1353,11 +1353,28 @@
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
             "source_provision_id": "law:보조금관리에관한법률#JO0017",
-            "reference_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+            "reference_id": "admrul:산업통상부국고보조금관리지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산업통상부 국고보조금 관리지침/산업통상부 국고보조금 관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상부국고보조금관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              },
+              {
+                "git_path": "산업통상자원부 국고보조금 통합관리지침/산업통상자원부 국고보조금 통합관리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산업통상자원부국고보조금통합관리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20210804"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

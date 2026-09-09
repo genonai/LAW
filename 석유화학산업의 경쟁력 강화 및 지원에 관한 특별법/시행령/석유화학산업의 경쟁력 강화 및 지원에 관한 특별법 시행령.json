@@ -3279,7 +3279,23 @@
             "target_git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_96203/기술료 징수 및 관리에 관한 통합요령.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_33400/기술료 징수 및 관리에 관한 통합요령.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_33400#DOC",
+                "is_current": true,
+                "enforcement_date": "20250407"
+              },
+              {
+                "git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_96203/기술료 징수 및 관리에 관한 통합요령.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#DOC",
+                "is_current": true,
+                "enforcement_date": "20260129"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -3303,7 +3319,23 @@
             "target_git_path_guess": "기술료 징수 및 관리에 관한 통합요령/기술료 징수 및 관리에 관한 통합요령.json",
             "target_candidates": 2,
             "target_git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_96203/기술료 징수 및 관리에 관한 통합요령.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_33400/기술료 징수 및 관리에 관한 통합요령.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_33400#DOC",
+                "is_current": true,
+                "enforcement_date": "20250407"
+              },
+              {
+                "git_path": "기술료 징수 및 관리에 관한 통합요령/admrul_96203/기술료 징수 및 관리에 관한 통합요령.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:기술료징수및관리에관한통합요령:admrul_96203#DOC",
+                "is_current": true,
+                "enforcement_date": "20260129"
+              }
+            ]
           }
         ],
         "revision_type": "제정",

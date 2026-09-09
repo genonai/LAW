@@ -2185,7 +2185,23 @@
             "target_git_path": "제5차 연구개발특구육성 종합계획(2026~2030)/제5차 연구개발특구육성 종합계획(2026~2030).json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "제5차 연구개발특구육성 종합계획(2026~2030)/제5차 연구개발특구육성 종합계획(2026~2030).json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:제5차연구개발특구육성종합계획(2026~2030)#DOC",
+                "is_current": true,
+                "enforcement_date": "20260813"
+              },
+              {
+                "git_path": "제5차 연구개발특구육성 종합계획(2026∼2030) 수립/제5차 연구개발특구육성 종합계획(2026∼2030) 수립.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:제5차연구개발특구육성종합계획(2026∼2030)수립#DOC",
+                "is_current": true,
+                "enforcement_date": "20260813"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

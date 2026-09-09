@@ -1650,10 +1650,27 @@
             "reference_id": "admrul:(계약예규)예정가격작성기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
-            "target_git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+            "target_git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              },
+              {
+                "git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1784,8 +1801,25 @@
             "reference_id": "admrul:(계약예규)예정가격작성기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
-            "target_git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 예정가격 작성기준/(계약예규) 예정가격 작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              },
+              {
+                "git_path": "(계약예규) 예정가격작성기준/(계약예규) 예정가격작성기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)예정가격작성기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -8142,10 +8176,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -8195,8 +8246,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -9351,8 +9419,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "internal_ref",
@@ -9456,10 +9541,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -10247,10 +10349,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -10279,7 +10398,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -10308,7 +10443,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -10335,8 +10486,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "note": "[전문개정 1996.12.31][대통령령 제17546호(2002.3.25) 제36조제14호의 개정규정은 같은 법 부칙 제2항의 규정에 의하여 2003년 12월 31일까지 유효함]",
@@ -12442,7 +12610,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -12471,7 +12655,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -12769,7 +12969,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -12798,7 +13014,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           }
         ],
         "note": "[전문개정 2000.12.27]",
@@ -20459,10 +20691,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -20489,8 +20738,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -20609,10 +20875,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -20639,8 +20922,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -23922,10 +24222,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -23973,8 +24290,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -24067,10 +24401,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -24097,8 +24448,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -29501,10 +29869,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -29531,8 +29916,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",
@@ -29927,7 +30329,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -29956,7 +30374,23 @@
             "target_git_path_guess": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
             "target_candidates": 2,
             "target_git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조 제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230417"
+              },
+              {
+                "git_path": "국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시/국가를 당사자로 하는 계약에 관한 법률 시행령 제39조제1항 단서의 규정에 의한 정보처리장치의 지정에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가를당사자로하는계약에관한법률시행령제39조제1항단서의규정에의한정보처리장치의지정에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20250416"
+              }
+            ]
           }
         ],
         "note": "[본조신설 2005.9.8]",
@@ -32319,10 +32753,27 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -32349,8 +32800,25 @@
             "reference_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(계약예규) 정부 입찰·계약 집행기준/(계약예규) 정부 입찰·계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260430"
+              },
+              {
+                "git_path": "(계약예규)정부 입찰ㆍ계약 집행기준/(계약예규)정부 입찰ㆍ계약 집행기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(계약예규)정부입찰계약집행기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260825"
+              }
+            ]
           }
         ],
         "note": "[본조신설 2014.11.4]",

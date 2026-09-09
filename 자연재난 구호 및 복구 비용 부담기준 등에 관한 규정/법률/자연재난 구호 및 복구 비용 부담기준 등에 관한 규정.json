@@ -781,7 +781,23 @@
             "target_git_path": "자연재난 복구비용 산정기준/자연재난 복구비용 산정기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "(산림청) 자연재난 복구비용 산정기준/(산림청) 자연재난 복구비용 산정기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(산림청)자연재난복구비용산정기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260728"
+              },
+              {
+                "git_path": "자연재난 복구비용 산정기준/자연재난 복구비용 산정기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:자연재난복구비용산정기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260728"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -3596,7 +3612,23 @@
             "target_git_path": "자연재난 복구비용 산정기준/자연재난 복구비용 산정기준.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "(산림청) 자연재난 복구비용 산정기준/(산림청) 자연재난 복구비용 산정기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:(산림청)자연재난복구비용산정기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260728"
+              },
+              {
+                "git_path": "자연재난 복구비용 산정기준/자연재난 복구비용 산정기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:자연재난복구비용산정기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260728"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

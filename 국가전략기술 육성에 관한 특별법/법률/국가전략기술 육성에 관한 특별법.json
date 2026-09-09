@@ -3004,13 +3004,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/국가전략기술 특화연구소 지정 고시",
             "resolve_method": "render",
             "source_provision_id": "law:국가전략기술육성에관한특별법#JO0018",
-            "reference_id": "admrul:국가전략기술특화연구소지정고시#DOC",
+            "reference_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "국가전략기술 특화연구소 지정 고시/국가전략기술 특화연구소 지정 고시.json",
-            "target_git_path": "국가전략기술 특화연구소 지정 고시/국가전략기술 특화연구소 지정 고시.json",
+            "target_git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#DOC",
+                "is_current": true,
+                "enforcement_date": "20250627"
+              },
+              {
+                "git_path": "국가전략기술 특화연구소 지정 고시/admrul_87960/국가전략기술 특화연구소 지정 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_87960#DOC",
+                "is_current": true,
+                "enforcement_date": "20240126"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -3103,11 +3120,28 @@
               "target_url": "https://www.law.go.kr/행정규칙/국가전략기술 특화연구소 지정 고시"
             },
             "source_provision_id": "law:국가전략기술육성에관한특별법#JO0018",
-            "reference_id": "admrul:국가전략기술특화연구소지정고시#DOC",
+            "reference_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "국가전략기술 특화연구소 지정 고시/국가전략기술 특화연구소 지정 고시.json",
-            "target_git_path": "국가전략기술 특화연구소 지정 고시/국가전략기술 특화연구소 지정 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "국가전략기술 특화연구소 지정 고시/admrul_2119013/국가전략기술 특화연구소 지정 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_2119013#DOC",
+                "is_current": true,
+                "enforcement_date": "20250627"
+              },
+              {
+                "git_path": "국가전략기술 특화연구소 지정 고시/admrul_87960/국가전략기술 특화연구소 지정 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:국가전략기술특화연구소지정고시:admrul_87960#DOC",
+                "is_current": true,
+                "enforcement_date": "20240126"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

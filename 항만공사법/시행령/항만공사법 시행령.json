@@ -1603,7 +1603,23 @@
             "target_git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2115895/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2115895#DOC",
+                "is_current": true,
+                "enforcement_date": "20200731"
+              },
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2138039#DOC",
+                "is_current": true,
+                "enforcement_date": "20260724"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1719,7 +1735,23 @@
             "target_git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidate_paths": [
+              {
+                "git_path": "인천항만공사 정관/pi_2115931/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2115931#DOC",
+                "is_current": true,
+                "enforcement_date": "20230216"
+              },
+              {
+                "git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2140993#DOC",
+                "is_current": true,
+                "enforcement_date": "20260507"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1771,7 +1803,23 @@
             "target_git_path_guess": "인천항만공사 정관/인천항만공사 정관.json",
             "target_candidates": 2,
             "target_git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "인천항만공사 정관/pi_2115931/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2115931#DOC",
+                "is_current": true,
+                "enforcement_date": "20230216"
+              },
+              {
+                "git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2140993#DOC",
+                "is_current": true,
+                "enforcement_date": "20260507"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1800,7 +1848,23 @@
             "target_git_path_guess": "인천항만공사 정관/인천항만공사 정관.json",
             "target_candidates": 2,
             "target_git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "인천항만공사 정관/pi_2115931/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2115931#DOC",
+                "is_current": true,
+                "enforcement_date": "20230216"
+              },
+              {
+                "git_path": "인천항만공사 정관/pi_2140993/인천항만공사 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:인천항만공사정관:pi_2140993#DOC",
+                "is_current": true,
+                "enforcement_date": "20260507"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1913,7 +1977,23 @@
             "target_git_path_guess": "(인천항만공사) 임원추천위원회 운영규정/(인천항만공사) 임원추천위원회 운영규정.json",
             "target_candidates": 2,
             "target_git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2115895/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2115895#DOC",
+                "is_current": true,
+                "enforcement_date": "20200731"
+              },
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2138039#DOC",
+                "is_current": true,
+                "enforcement_date": "20260724"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1942,7 +2022,23 @@
             "target_git_path_guess": "(인천항만공사) 임원추천위원회 운영규정/(인천항만공사) 임원추천위원회 운영규정.json",
             "target_candidates": 2,
             "target_git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2115895/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2115895#DOC",
+                "is_current": true,
+                "enforcement_date": "20200731"
+              },
+              {
+                "git_path": "(인천항만공사) 임원추천위원회 운영규정/pi_2138039/(인천항만공사) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(인천항만공사)임원추천위원회운영규정:pi_2138039#DOC",
+                "is_current": true,
+                "enforcement_date": "20260724"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

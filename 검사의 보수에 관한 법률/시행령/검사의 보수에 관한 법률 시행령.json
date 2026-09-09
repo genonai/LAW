@@ -1558,7 +1558,23 @@
             "target_git_path": "직무성과금 지급업무 처리지침/직무성과금 지급업무 처리지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "직무성과금 지급업무 처리지침/직무성과금 지급업무 처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:직무성과금지급업무처리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20241205"
+              },
+              {
+                "git_path": "직무성과금지급업무처리지침/직무성과금지급업무처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:직무성과금지급업무처리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20150410"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1582,7 +1598,23 @@
             "target_git_path_guess": "직무성과금지급업무처리지침/직무성과금지급업무처리지침.json",
             "target_candidates": 2,
             "target_git_path": "직무성과금 지급업무 처리지침/직무성과금 지급업무 처리지침.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "직무성과금 지급업무 처리지침/직무성과금 지급업무 처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:직무성과금지급업무처리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20241205"
+              },
+              {
+                "git_path": "직무성과금지급업무처리지침/직무성과금지급업무처리지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:직무성과금지급업무처리지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20150410"
+              }
+            ]
           }
         ],
         "note": "[전문개정 2013.5.22]",

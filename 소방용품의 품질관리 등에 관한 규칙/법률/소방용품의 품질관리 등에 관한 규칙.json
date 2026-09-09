@@ -4224,11 +4224,28 @@
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
             "source_provision_id": "law:소방용품의품질관리등에관한규칙#JO0007",
-            "reference_id": "admrul:소방전원공급장치의성능인증및제품검사기술기준#DOC",
+            "reference_id": "admrul:소방전원공급장치의성능인증및제품검사의기술기준#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "소방전원공급장치의 성능인증 및 제품검사 기술기준/소방전원공급장치의 성능인증 및 제품검사 기술기준.json",
-            "target_git_path": "소방전원공급장치의 성능인증 및 제품검사 기술기준/소방전원공급장치의 성능인증 및 제품검사 기술기준.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "소방전원공급장치의 성능인증 및 제품검사의 기술기준/소방전원공급장치의 성능인증 및 제품검사의 기술기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "소방전원공급장치의 성능인증 및 제품검사 기술기준/소방전원공급장치의 성능인증 및 제품검사 기술기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소방전원공급장치의성능인증및제품검사기술기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20240605"
+              },
+              {
+                "git_path": "소방전원공급장치의 성능인증 및 제품검사의 기술기준/소방전원공급장치의 성능인증 및 제품검사의 기술기준.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소방전원공급장치의성능인증및제품검사의기술기준#DOC",
+                "is_current": true,
+                "enforcement_date": "20260901"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

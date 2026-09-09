@@ -16671,7 +16671,79 @@
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16700,7 +16772,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16729,7 +16873,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16758,7 +16974,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16787,7 +17075,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16816,7 +17176,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16845,7 +17277,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16874,7 +17378,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16903,7 +17479,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16932,7 +17580,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -16956,7 +17676,79 @@
             "target_git_path_guess": "안전기준 등록/안전기준 등록.json",
             "target_candidates": 10,
             "target_git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "안전기준 등록/admrul_59076/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_59076#DOC",
+                "is_current": true,
+                "enforcement_date": "20170911"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62876/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62876#DOC",
+                "is_current": true,
+                "enforcement_date": "20180311"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_62895/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_62895#DOC",
+                "is_current": true,
+                "enforcement_date": "20180523"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_64215/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_64215#DOC",
+                "is_current": true,
+                "enforcement_date": "20180826"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_67466/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_67466#DOC",
+                "is_current": true,
+                "enforcement_date": "20190514"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_69221/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_69221#DOC",
+                "is_current": true,
+                "enforcement_date": "20191010"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_75781/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_75781#DOC",
+                "is_current": true,
+                "enforcement_date": "20210110"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_77883/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_77883#DOC",
+                "is_current": true,
+                "enforcement_date": "20210622"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91178/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91178#DOC",
+                "is_current": true,
+                "enforcement_date": "20241219"
+              },
+              {
+                "git_path": "안전기준 등록/admrul_91180/안전기준 등록.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:안전기준등록:admrul_91180#DOC",
+                "is_current": true,
+                "enforcement_date": "20230420"
+              }
+            ]
           }
         ],
         "note": "[본조신설 2014.2.5][제43조의8에서 이동, 종전 제43조의10은 제43조의12로 이동 <2015.12.30>]",

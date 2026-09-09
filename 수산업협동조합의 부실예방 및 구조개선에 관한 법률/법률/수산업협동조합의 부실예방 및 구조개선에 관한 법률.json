@@ -1261,7 +1261,23 @@
             "target_git_path": "적기시정조치의 기준과 내용/admrul_34678/적기시정조치의 기준과 내용.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "적기시정조치의 기준과 내용/admrul_2074225/적기시정조치의 기준과 내용.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:적기시정조치의기준과내용:admrul_2074225#DOC",
+                "is_current": true,
+                "enforcement_date": "20181231"
+              },
+              {
+                "git_path": "적기시정조치의 기준과 내용/admrul_34678/적기시정조치의 기준과 내용.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:적기시정조치의기준과내용:admrul_34678#DOC",
+                "is_current": true,
+                "enforcement_date": "20201127"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

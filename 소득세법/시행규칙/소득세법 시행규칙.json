@@ -14226,7 +14226,23 @@
             "source_provision_id": "law:소득세법시행규칙#JO0042",
             "reference_id": "admrul:업무용승용차운행기록방법에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json"
+            "target_git_path_guess": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#DOC",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              },
+              {
+                "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_52390/업무용승용차 운행기록 방법에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_52390#DOC",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -14252,7 +14268,23 @@
             "source_provision_id": "law:소득세법시행규칙#JO0042",
             "reference_id": "admrul:업무용승용차운행기록방법에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json"
+            "target_git_path_guess": "업무용승용차 운행기록 방법에 관한 고시/업무용승용차 운행기록 방법에 관한 고시.json",
+            "target_candidate_paths": [
+              {
+                "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_2104628/업무용승용차 운행기록 방법에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_2104628#DOC",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              },
+              {
+                "git_path": "업무용승용차 운행기록 방법에 관한 고시/admrul_52390/업무용승용차 운행기록 방법에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:업무용승용차운행기록방법에관한고시:admrul_52390#DOC",
+                "is_current": true,
+                "enforcement_date": "20250401"
+              }
+            ]
           }
         ],
         "note": "[본조신설 2016.3.16]",
