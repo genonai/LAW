@@ -208,7 +208,14 @@
         "changed": "N",
         "article_key": "0004001",
         "images": [],
-        "provision_id": "law:고령친화산업진흥법#JO0004"
+        "provision_id": "law:고령친화산업진흥법#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260910",
+            "change": "개정",
+            "content": "제4조(고령친화산업발전계획)\n①관계중앙행정기관의 장은 「인구전략기본법」 제32조 및 제33조에 따라 인구전략 기본계획 및 연도별 시행계획을 수립ㆍ시행함에 있어서 고령친화산업의 발전에 관한 계획(이하 \"고령친화산업발전계획\"이라 한다)이 포함되도록 하여야 한다. <개정 2026.6.9>\n②고령친화산업발전계획에는 다음 각 호의 사항이 포함되어야 한다.\n1. 고령친화산업발전계획의 기본 방향\n2. 고령친화산업의 분야별 발전시책\n3. 고령친화산업의 기반조성\n4. 고령친화산업의 발전을 위한 재원 확보 및 배분\n5. 고령친화산업과 관련된 중앙행정기관의 역할분담\n6. 그 밖에 고령친화산업의 발전을 위하여 필요한 사항"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -1329,6 +1336,19 @@
       "source_version_uid": "010358:276649:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21777",
+      "addendum_key": "2026060921777",
+      "content": "부칙(인구전략기본법) <제21777호,2026.6.9>\n제1조(시행일) 이 법은 공포 후 3개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 고령친화산업 진흥법 일부를 다음과 같이 개정한다.\n제4조제1항 중 \"「저출산ㆍ고령사회기본법」 제20조 및 제21조의 규정에 따라 저출산ㆍ고령사회기본계획 및 연도별 시행계획\"을 \"「인구전략기본법」 제32조 및 제33조에 따라 인구전략 기본계획 및 연도별 시행계획\"으로 한다.\n②부터 ⑨까지 생략\n제10조 생략",
+      "provision_id": "law:고령친화산업진흥법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286723",
+      "source_version_uid": "010358:286723:20260910",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260910",
+      "enforcement_date": "20260910"
     }
   ],
   "appendices": [],
@@ -1363,8 +1383,10 @@
   "provision_id": "law:고령친화산업진흥법#DOC",
   "addendum_provision_id": "law:고령친화산업진흥법#ADDENDUM",
   "amendment_provision_id": "law:고령친화산업진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260910"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "고령친화산업 진흥법/법률/고령친화산업 진흥법.json"
 }
