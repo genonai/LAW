@@ -4000,6 +4000,19 @@
       "source_version_uid": "014306:281755:20260102",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260102"
+    },
+    {
+      "promulgation_date": "20260909",
+      "promulgation_no": "36667",
+      "addendum_key": "2026090936667",
+      "content": "부칙(인구전략기본법 시행령) <제36667호,2026.9.9>\n제1조(시행일) 이 영은 2026년 9월 10일부터 시행한다. <단서 생략>\n제2조부터 제6조까지 생략\n제7조(다른 법령의 개정) ① 및 ② 생략\n③ 지속가능발전 기본법 시행령 일부를 다음과 같이 개정한다.\n별표에 제135호의2를 다음과 같이 신설하고, 같은 표 제151호를 삭제한다.\n135의2. 「인구전략기본법」 제32조제1항에 따른 인구전략 기본계획\n제8조 생략",
+      "provision_id": "law:지속가능발전기본법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289467",
+      "source_version_uid": "014306:289467:20260910",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260910",
+      "enforcement_date": "20260910"
     }
   ],
   "appendices": [
@@ -5220,8 +5233,10 @@
   "provision_id": "law:지속가능발전기본법시행령#DOC",
   "addendum_provision_id": "law:지속가능발전기본법시행령#ADDENDUM",
   "amendment_provision_id": "law:지속가능발전기본법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260910"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지속가능발전 기본법/시행령/지속가능발전 기본법 시행령.json"
 }
