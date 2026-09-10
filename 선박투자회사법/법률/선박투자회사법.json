@@ -6184,7 +6184,14 @@
         "changed": "N",
         "article_key": "0055001",
         "images": [],
-        "provision_id": "law:선박투자회사법#JO0055"
+        "provision_id": "law:선박투자회사법#JO0055",
+        "scheduled": [
+          {
+            "enforcement_date": "20260910",
+            "change": "개정",
+            "content": "제55조(다른 법률과의 관계)\n① 선박투자회사에는 「상법」 제19조, 제289조제1항ㆍ제2항, 제335조제1항 단서 및 제2항, 제335조의2부터 제335조의7까지, 제341조부터 제351조까지, 제352조제3항, 제370조, 제415조의2, 제438조, 제439조, 제458조, 제462조, 제462조의3, 제542조의3, 제542조의4, 제542조의7제2항ㆍ제3항 및 제542조의8부터 제542조의13까지를 적용하지 아니한다. <개정 2013.4.5, 2025.9.9>\n② 선박투자회사가 발행하는 주식을 취득하는 자에 대하여는 「금융산업의 구조개선에 관한 법률」 제24조제1항을 적용하지 아니한다. <개정 2013.4.5>\n③ 삭제 <2013.4.5>"
+          }
+        ]
       },
       {
         "article_no": "제55조의2",
@@ -11076,6 +11083,19 @@
       "version_enforcement_date": "20260102"
     },
     {
+      "promulgation_date": "20250909",
+      "promulgation_no": "21044",
+      "addendum_key": "2025090921044",
+      "content": "부칙(상법) <제21044호,2025.9.9>\n제1조(시행일) 이 법은 공포 후 1년이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) 선박투자회사법 일부를 다음과 같이 개정한다.\n제55조제1항 중 \"제542조의7제2항부터 제4항까지\"를 \"제542조의7제2항ㆍ제3항\"으로 한다.",
+      "provision_id": "law:선박투자회사법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "273631",
+      "source_version_uid": "009368:273631:20260910",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260910",
+      "enforcement_date": "20260910"
+    },
+    {
       "promulgation_date": "20251001",
       "promulgation_no": "21065",
       "addendum_key": "2025100121065",
@@ -11119,8 +11139,10 @@
   "provision_id": "law:선박투자회사법#DOC",
   "addendum_provision_id": "law:선박투자회사법#ADDENDUM",
   "amendment_provision_id": "law:선박투자회사법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260910"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "선박투자회사법/법률/선박투자회사법.json"
 }
