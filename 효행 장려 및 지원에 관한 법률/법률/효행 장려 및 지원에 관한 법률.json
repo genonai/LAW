@@ -173,7 +173,14 @@
         "article_key": "0004001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:효행장려및지원에관한법률#JO0004"
+        "provision_id": "law:효행장려및지원에관한법률#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260910",
+            "change": "개정",
+            "content": "제4조(효행장려기본계획의 수립)\n① 보건복지부장관은 관계 중앙행정기관의 장과 협의하여 5년마다 효행장려기본계획(이하 \"기본계획\"이라 한다)을 수립하여야 한다.\n② 기본계획은 효행장려를 위한 환경조성 등의 사항을 포함하여야 한다.\n③ 정부는 「인구전략기본법」 제32조에 따른 인구전략 기본계획을 수립할 때 기본계획을 포함할 수 있다. <개정 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -507,6 +514,19 @@
       "source_version_uid": "010509:199536:20171212",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20171212"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21777",
+      "addendum_key": "2026060921777",
+      "content": "부칙(인구전략기본법) <제21777호,2026.6.9>\n제1조(시행일) 이 법은 공포 후 3개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 ⑧까지 생략\n⑨ 효행 장려 및 지원에 관한 법률 일부를 다음과 같이 개정한다.\n제4조제3항 중 \"보건복지부장관은 「저출산ㆍ고령사회기본법」에 따른 저출산ㆍ고령사회기본계획\"을 \"정부는 「인구전략기본법」 제32조에 따른 인구전략 기본계획\"으로 한다.\n제10조 생략",
+      "provision_id": "law:효행장려및지원에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286739",
+      "source_version_uid": "010509:286739:20260910",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260910",
+      "enforcement_date": "20260910"
     }
   ],
   "appendices": [],
@@ -540,8 +560,10 @@
   "provision_id": "law:효행장려및지원에관한법률#DOC",
   "addendum_provision_id": "law:효행장려및지원에관한법률#ADDENDUM",
   "amendment_provision_id": "law:효행장려및지원에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260910"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "효행 장려 및 지원에 관한 법률/법률/효행 장려 및 지원에 관한 법률.json"
 }
