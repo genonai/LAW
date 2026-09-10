@@ -140,11 +140,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법/제20조",
             "resolve_method": "pop",
             "source_provision_id": "law:저출산고령사회기본법#JO0004",
-            "reference_id": "law:저출산고령사회기본법#JO0020",
+            "reference_id": "law:인구전략기본법#JO0020",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/법률/인구전략기본법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/법률/인구전략기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법#JO0020",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법#JO0020",
+                "is_current": true,
+                "enforcement_date": "20240424"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
@@ -690,11 +707,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:저출산고령사회기본법#JO0020",
-            "reference_id": "law:저출산고령사회기본법#JO0023",
+            "reference_id": "law:인구전략기본법#JO0023",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/법률/인구전략기본법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/법률/인구전략기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법#JO0023",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법#JO0023",
+                "is_current": true,
+                "enforcement_date": "20240424"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -711,11 +745,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제2조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0020",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0002",
+            "reference_id": "law:인구전략기본법시행령#JO0002",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0002",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
@@ -754,11 +805,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법/제23조",
             "resolve_method": "pop",
             "source_provision_id": "law:저출산고령사회기본법#JO0021",
-            "reference_id": "law:저출산고령사회기본법#JO0023",
+            "reference_id": "law:인구전략기본법#JO0023",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/법률/인구전략기본법.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/법률/인구전략기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법#JO0023",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/법률/저출산ㆍ고령사회기본법.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법#JO0023",
+                "is_current": true,
+                "enforcement_date": "20240424"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -775,11 +843,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제3조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0021",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0003",
+            "reference_id": "law:인구전략기본법시행령#JO0003",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -796,11 +881,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제4조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0021",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0004",
+            "reference_id": "law:인구전략기본법시행령#JO0004",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -817,11 +919,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제3조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0021",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0003",
+            "reference_id": "law:인구전략기본법시행령#JO0003",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0003",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -838,11 +957,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제4조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0021",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0004",
+            "reference_id": "law:인구전략기본법시행령#JO0004",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0004",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
@@ -902,11 +1038,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제5조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0005",
+            "reference_id": "law:인구전략기본법시행령#JO0005",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -923,11 +1076,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제5조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0005",
+            "reference_id": "law:인구전략기본법시행령#JO0005",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0005",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -944,11 +1114,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제6조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0006",
+            "reference_id": "law:인구전략기본법시행령#JO0006",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0006",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -965,11 +1152,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제7조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0007",
+            "reference_id": "law:인구전략기본법시행령#JO0007",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0007",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0007",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1007,11 +1211,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제8조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0008",
+            "reference_id": "law:인구전략기본법시행령#JO0008",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0008",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1028,11 +1249,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제9조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0009",
+            "reference_id": "law:인구전략기본법시행령#JO0009",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0009",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0009",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1049,11 +1287,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제10조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0010",
+            "reference_id": "law:인구전략기본법시행령#JO0010",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0010",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0010",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1070,11 +1325,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제11조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0011",
+            "reference_id": "law:인구전략기본법시행령#JO0011",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0011",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0011",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1091,11 +1363,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제12조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0012",
+            "reference_id": "law:인구전략기본법시행령#JO0012",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0012",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           }
         ],
         "note": "[전문개정 2008.2.29]",
@@ -1135,11 +1424,28 @@
             "target_url": "https://www.law.go.kr/법령/저출산ㆍ고령사회기본법 시행령/제9조",
             "resolve_method": "delegation",
             "source_provision_id": "law:저출산고령사회기본법#JO0023_02",
-            "reference_id": "law:저출산고령사회기본법시행령#JO0009",
+            "reference_id": "law:인구전략기본법시행령#JO0009",
             "target_repo": "LAW",
             "target_git_path_guess": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
-            "target_source_repository": "LAW"
+            "target_git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+            "target_source_repository": "LAW",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "인구전략기본법/시행령/인구전략기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:인구전략기본법시행령#JO0009",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "저출산ㆍ고령사회기본법/시행령/저출산ㆍ고령사회기본법 시행령.json",
+                "source_repository": "LAW",
+                "provision_id": "law:저출산고령사회기본법시행령#JO0009",
+                "is_current": true,
+                "enforcement_date": "20260102"
+              }
+            ]
           }
         ],
         "note": "[본조신설 2024.1.23]",
