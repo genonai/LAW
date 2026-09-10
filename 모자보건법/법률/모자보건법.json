@@ -166,7 +166,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:모자보건법#JO0003"
+        "provision_id": "law:모자보건법#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20260910",
+            "change": "개정",
+            "content": "제3조(국가와 지방자치단체의 책임)\n① 국가와 지방자치단체는 모성과 영유아의 건강을 유지ㆍ증진하기 위한 조사ㆍ연구와 그 밖에 필요한 조치를 하여야 한다.\n② 국가와 지방자치단체는 모자보건사업에 관한 시책을 마련하고 모성과 영유아의 보호자에게 적극적으로 홍보하여 국민보건 향상에 이바지하도록 노력하여야 한다. <개정 2017.12.12, 2021.12.21>\n③ 국가와 지방자치단체는 임신ㆍ출산 및 양육에 관한 정보의 제공, 교육 및 홍보를 실시하기 위하여 필요한 기관을 설치하거나 그 업무를 관계 기관에 위탁할 수 있다. <신설 2026.6.9>"
+          }
+        ]
       },
       {
         "article_no": "제3조의2",
@@ -6042,6 +6049,19 @@
       "source_version_uid": "000183:270399:20250401",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250401"
+    },
+    {
+      "promulgation_date": "20260609",
+      "promulgation_no": "21777",
+      "addendum_key": "2026060921777",
+      "content": "부칙(인구전략기본법) <제21777호,2026.6.9>\n제1조(시행일) 이 법은 공포 후 3개월이 경과한 날부터 시행한다. <단서 생략>\n제2조 부터 제8조까지 생략\n제9조(다른 법률의 개정) ① 및 ② 생략\n③ 모자보건법 일부를 다음과 같이 개정한다.\n제3조에 제3항을 다음과 같이 신설한다.\n③ 국가와 지방자치단체는 임신ㆍ출산 및 양육에 관한 정보의 제공, 교육 및 홍보를 실시하기 위하여 필요한 기관을 설치하거나 그 업무를 관계 기관에 위탁할 수 있다.\n④부터 ⑨까지 생략\n제10조 생략",
+      "provision_id": "law:모자보건법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "286727",
+      "source_version_uid": "000183:286727:20260910",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260910",
+      "enforcement_date": "20260910"
     }
   ],
   "appendices": [],
@@ -6075,8 +6095,10 @@
   "provision_id": "law:모자보건법#DOC",
   "addendum_provision_id": "law:모자보건법#ADDENDUM",
   "amendment_provision_id": "law:모자보건법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260910"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "모자보건법/법률/모자보건법.json"
 }
