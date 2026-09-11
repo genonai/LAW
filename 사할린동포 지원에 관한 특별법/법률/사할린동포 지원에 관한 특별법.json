@@ -83,7 +83,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:사할린동포지원에관한특별법#JO0002"
+        "provision_id": "law:사할린동포지원에관한특별법#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제2조(정의) 이 법에서 사용하는 용어의 뜻은 다음과 같다. <개정 2024.1.16, 2026.3.10>\n1. \"사할린동포\"란 1945년 8월 15일까지 사할린에서 출생하였거나 사할린으로 이주한 한인(韓人)을 말한다.\n2. \"동반가족\"이란 다음 각 목의 어느 하나에 해당하는 사람으로서 국내 영주를 목적으로 귀국하는 사람을 말한다.\n가. 사할린동포의 배우자 및 자녀와 그 배우자\n나. 사망한 사할린동포의 사망 당시의 배우자 및 자녀와 그 배우자\n다. 사할린동포 또는 사망한 사할린동포에게 사망 등으로 인하여 자녀와 그 배우자가 없는 경우, 해당 사할린동포의 직계비속 1명과 그 배우자"
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -365,6 +372,19 @@
       "source_version_uid": "013759:258663:20240717",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240717"
+    },
+    {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21426",
+      "addendum_key": "2026031021426",
+      "content": "부칙 <제21426호,2026.3.10>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:사할린동포지원에관한특별법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283853",
+      "source_version_uid": "013759:283853:20260911",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [],
@@ -499,8 +519,10 @@
   "provision_id": "law:사할린동포지원에관한특별법#DOC",
   "addendum_provision_id": "law:사할린동포지원에관한특별법#ADDENDUM",
   "amendment_provision_id": "law:사할린동포지원에관한특별법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사할린동포 지원에 관한 특별법/법률/사할린동포 지원에 관한 특별법.json"
 }
