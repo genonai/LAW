@@ -421,7 +421,14 @@
         "article_key": "0004001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:간호법#JO0004"
+        "provision_id": "law:간호법#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제4조(간호사 면허)\n① 간호사가 되려는 사람은 다음 각 호의 어느 하나에 해당하는 사람으로서 제8조에 따른 간호사 국가시험에 합격한 후 보건복지부장관의 면허를 받아야 한다. <개정 2026.3.10>\n1. 「고등교육법」 제11조의3에 따른 인정기관(이하 이 조에서 \"평가인증기구\"라 한다)의 인증을 받은 간호학을 전공하는 대학이나 전문대학[구제(舊制) 전문학교와 간호학교를 포함한다]을 졸업한 사람\n2. 외국의 제1호에 해당하는 학교(보건복지부장관이 정하여 고시하는 인정기준에 해당하는 학교를 말한다)를 졸업하고 외국의 간호사 면허를 받은 사람\n② 제1항에도 불구하고 입학 당시 평가인증기구의 인증을 받은 간호학을 전공하는 대학 또는 전문대학에 입학한 사람으로서 그 대학 또는 전문대학을 졸업하고 해당 학위를 받은 사람은 같은 항 제1호에 해당하는 사람으로 본다.\n③ 평가인증기구의 인증을 받은 간호학을 전공하는 대학이나 전문대학을 6개월 이내에 졸업하고 해당 학위를 받을 것으로 예정된 사람은 제1항제1호의 자격을 가진 사람으로 본다. 다만, 그 졸업예정시기에 졸업하고 해당 학위를 받아야 면허를 받을 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -5132,6 +5139,19 @@
       "source_version_uid": "014736:265413:20250621",
       "source_revision_type": "제정",
       "version_enforcement_date": "20250621"
+    },
+    {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21423",
+      "addendum_key": "2026031021423",
+      "content": "부칙(고등교육법) <제21423호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) ① 간호법 일부를 다음과 같이 개정한다.\n제4조제1항제1호 중 \"「고등교육법」 제11조의2\"를 \"「고등교육법」 제11조의3\"으로 한다.\n②부터 ⑨까지 생략",
+      "provision_id": "law:간호법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283885",
+      "source_version_uid": "014736:283885:20260911",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [],
@@ -5166,8 +5186,10 @@
   "provision_id": "law:간호법#DOC",
   "addendum_provision_id": "law:간호법#ADDENDUM",
   "amendment_provision_id": "law:간호법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "간호법/법률/간호법.json"
 }
