@@ -7536,7 +7536,14 @@
         "changed": "N",
         "article_key": "0026001",
         "images": [],
-        "provision_id": "law:고등교육법시행령#JO0026"
+        "provision_id": "law:고등교육법시행령#JO0026",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제26조(수업연한의 단축) 법 제31조제2항에 따라 단축할 수 있는 수업연한은 다음 각 호의 구분에 따른다. <개정 2017.5.8, 2026.9.8>\n1. 학사학위과정: 1년 이내\n2. 석사학위과정: 1년 이내\n3. 박사학위과정: 6개월 이내\n4. 학사학위과정과 석사학위과정의 통합과정 및 연계과정: 2년 이내\n5. 석사학위과정과 박사학위과정의 통합과정 및 연계과정: 1년 6개월 이내\n6. 학사학위과정과 석사학위과정 및 박사학위과정의 통합과정 및 연계과정: 2년 6개월 이내"
+          }
+        ]
       },
       {
         "article_no": "제27조",
@@ -14654,7 +14661,14 @@
         "changed": "N",
         "article_key": "0047001",
         "images": [],
-        "provision_id": "law:고등교육법시행령#JO0047"
+        "provision_id": "law:고등교육법시행령#JO0047",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제47조(명예박사학위의 수여) 법 제35조제6항에 따른 명예박사학위는 학술발전에 특별한 공헌을 하였거나 인류문화의 향상에 특별한 공적이 있는 사람에 대하여 대학원위원회의 심의를 거쳐 수여할 수 있다. <개정 2014.12.16, 2026.9.8>"
+          }
+        ]
       },
       {
         "article_no": "제48조",
@@ -14860,7 +14874,14 @@
         "changed": "N",
         "article_key": "0052001",
         "images": [],
-        "provision_id": "law:고등교육법시행령#JO0052"
+        "provision_id": "law:고등교육법시행령#JO0052",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제52조(학위 수여의 취소)\n① 대학(산업대학, 교육대학, 원격대학 및 대학원대학을 포함하되, 원격대학의 경우에는 석사학위 이상의 학위를 수여한 경우로 한정한다. 이하 이 항에서 같다)의 장은 법에 따라 수여한 학위(제13조제2항 단서에 따라 공동명의로 수여한 학위를 포함한다. 이하 이 항에서 같다)를 받은 사람이 해당 학위를 부정한 방법으로 받은 경우 다음 각 호의 구분에 따른 심의를 거쳐 그 학위 수여를 취소할 수 있다. 다만, 해당 대학이 폐지되거나 폐쇄된 경우에는 교육부장관이 해당 학위 수여를 취소할 수 있다. <개정 2018.12.18>\n1. 석사학위 또는 박사학위: 대학원위원회의 심의\n2. 제1호 외의 학위: 학칙으로 정하는 위원회의 심의\n② 법 제35조제6항에 따른 명예박사학위를 수여한 학교의 장은 학위를 받은 사람이 그 명예를 손상한 경우에는 대학원위원회의 심의를 거쳐 그 학위수여를 취소할 수 있다. <개정 2026.9.8>"
+          }
+        ]
       },
       {
         "article_no": "제53조",
@@ -25394,6 +25415,19 @@
       "source_version_uid": "002233:288157:20260811",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260811"
+    },
+    {
+      "promulgation_date": "20260908",
+      "promulgation_no": "36644",
+      "addendum_key": "2026090836644",
+      "content": "부칙 <제36644호,2026.9.8>\n이 영은 2026년 9월 11일부터 시행한다.",
+      "provision_id": "law:고등교육법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289437",
+      "source_version_uid": "002233:289437:20260911",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [
@@ -25740,8 +25774,10 @@
   "provision_id": "law:고등교육법시행령#DOC",
   "addendum_provision_id": "law:고등교육법시행령#ADDENDUM",
   "amendment_provision_id": "law:고등교육법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "고등교육법/시행령/고등교육법 시행령.json"
 }
