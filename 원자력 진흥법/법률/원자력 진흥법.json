@@ -392,7 +392,14 @@
         "changed": "N",
         "article_key": "0004001",
         "images": [],
-        "provision_id": "law:원자력진흥법#JO0004"
+        "provision_id": "law:원자력진흥법#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제4조(위원회의 기능) 위원회는 다음 각 호의 사항을 심의ㆍ의결한다. <개정 2020.12.22, 2026.3.10>\n1. 원자력이용에 관한 사항의 종합ㆍ조정\n2. 제9조에 따른 원자력진흥종합계획의 수립에 관한 사항\n3. 원자력이용에 관한 경비의 추정 및 배분계획에 관한 사항\n4. 원자력이용에 관한 시험ㆍ연구의 조성에 관한 사항\n5. 원자력이용에 관한 연구자ㆍ기술자의 양성 및 훈련에 관한 사항\n6. 「방사성폐기물 관리법」 제6조에 따른 방사성폐기물 관리 기본계획에 관한 사항\n6의2. 「소형모듈원자로 개발 촉진 및 지원에 관한 특별법」 제5조에 따른 소형모듈원자로시스템 개발 기본계획에 관한 사항 및 같은 법 제13조에 따른 소형모듈원자로시스템 연구개발 특구에 관한 사항\n7. 사용후핵연료의 처리ㆍ처분에 관한 사항\n8. 원자력 수출 촉진 및 지원에 관한 사항\n9. 그 밖에 위원장이 중요하다고 인정하여 위원회의 토의에 부치는 사항"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -2513,6 +2520,19 @@
       "version_enforcement_date": "20260609"
     },
     {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21422",
+      "addendum_key": "2026031021422",
+      "content": "부칙(소형모듈원자로 개발 촉진 및 지원에 관한 특별법) <제21422호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) 원자력 진흥법 일부를 다음과 같이 개정한다.\n제4조에 제6호의2를 다음과 같이 신설한다.\n6의2. 「소형모듈원자로 개발 촉진 및 지원에 관한 특별법」 제5조에 따른 소형모듈원자로시스템 개발 기본계획에 관한 사항 및 같은 법 제13조에 따른 소형모듈원자로시스템 연구개발 특구에 관한 사항",
+      "provision_id": "law:원자력진흥법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283881",
+      "source_version_uid": "001603:283881:20260911",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
+    },
+    {
       "promulgation_date": "20260609",
       "promulgation_no": "21758",
       "addendum_key": "2026060921758",
@@ -2556,8 +2576,10 @@
   "provision_id": "law:원자력진흥법#DOC",
   "addendum_provision_id": "law:원자력진흥법#ADDENDUM",
   "amendment_provision_id": "law:원자력진흥법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "원자력 진흥법/법률/원자력 진흥법.json"
 }
