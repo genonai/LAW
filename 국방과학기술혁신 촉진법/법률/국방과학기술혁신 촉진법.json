@@ -2205,7 +2205,14 @@
         "changed": "N",
         "article_key": "0016001",
         "images": [],
-        "provision_id": "law:국방과학기술혁신촉진법#JO0016"
+        "provision_id": "law:국방과학기술혁신촉진법#JO0016",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제16조(국방과학기술혁신 촉진의 지원 등)\n① 방위사업청장은 국방과학기술혁신 촉진을 효율적으로 지원하기 위하여 「방위사업법」 제32조에 따른 국방기술품질원에 다음 각 호의 사업을 수행하도록 할 수 있다. <개정 2026.3.10>\n1. 제6조에 따른 기본계획, 시행계획 수립을 위한 연구\n2. 제8조제6항에 따른 국방연구개발사업의 기획등에 대한 지원\n3. 제10조 및 제13조에 따른 개발성과물의 활용ㆍ관리 및 기술이전의 촉진 등\n4. 제12조에 따른 국방과학기술 지식ㆍ정보의 관리\n5. 제14조에 따른 연구시설ㆍ장비의 확충지원 및 활용촉진 등\n6. 「방위사업법」 제17조에 따른 선행연구와 관련된 조사ㆍ분석 및 연구 결과의 관리\n7. 「방위사업법」 제21조의2에 따른 시험평가 지원 및 시험평가 방법에 관한 연구\n8. 「방위산업기술 보호법」 제14조에 따른 방위산업기술 보호에 대한 지원\n9. 그 밖에 국방연구개발과 관련된 지원 사업으로서 대통령령으로 정하는 사업\n② 방위사업청장은 예산의 범위에서 제1항 각 호의 사업을 수행하는 데 드는 비용의 전부 또는 일부를 출연할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제17조",
@@ -2479,6 +2486,19 @@
       "source_version_uid": "013716:258057:20240710",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240710"
+    },
+    {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21429",
+      "addendum_key": "2026031021429",
+      "content": "부칙(방위사업법) <제21429호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다.\n제2조 생략\n제3조(다른 법률의 개정) 국방과학기술혁신 촉진법 일부를 다음과 같이 개정한다.\n제16조제1항제7호 중 \"제21조\"를 \"제21조의2\"로 한다.",
+      "provision_id": "law:국방과학기술혁신촉진법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283941",
+      "source_version_uid": "013716:283941:20260911",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [],
@@ -2515,8 +2535,10 @@
   "provision_id": "law:국방과학기술혁신촉진법#DOC",
   "addendum_provision_id": "law:국방과학기술혁신촉진법#ADDENDUM",
   "amendment_provision_id": "law:국방과학기술혁신촉진법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국방과학기술혁신 촉진법/법률/국방과학기술혁신 촉진법.json"
 }
