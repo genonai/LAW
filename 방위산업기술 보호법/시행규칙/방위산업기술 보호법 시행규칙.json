@@ -60,7 +60,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n방위사업청장이 방위산업기술 보호지원 전담기관을 지정할 수 있도록 하는 등의 내용으로 「방위산업기술 보호법」(법률 제20540호, 2024. 12. 3. 공포, 2025. 6. 4. 시행) 및 같은 법 시행령(대통령령 제35543호, 2025. 5. 27. 공포, 6. 4. 시행)이 개정됨에 따라 방위산업기술 보호지원 전담기관 지정신청서 및 지정서의 서식을 정하려는 것임.",
   "body": {
     "format": "articles",
-    "article_count": 7,
+    "article_count": 8,
     "articles": [
       {
         "article_no": "제1조",
@@ -1358,7 +1358,38 @@
         "article_key": "0004031",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:방위산업기술보호법시행규칙#JO0004_03"
+        "provision_id": "law:방위산업기술보호법시행규칙#JO0004_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제4조의3(외국인 및 복수국적자에 의한 방위산업기술 유출방지를 위한 관리 계획 수립) 영 제18조의2제1항에 따라 대상기관의 장이 작성하여 방위사업청장에게 제출해야 하는 외국인 및 복수국적자 관리 계획서는 별지 제11호의2서식에 따른다."
+          }
+        ]
+      },
+      {
+        "article_no": "제4조의4",
+        "article_title": "방위산업기술 보호지원 전담기관의 지정신청 등",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조의4(방위산업기술 보호지원 전담기관의 지정신청 등)\n① 영 제21조의2제2항에서 \"국방부령으로 정하는 전담기관 지정신청서\"란 별지 제12호서식의 방위산업기술 보호지원 전담기관 지정신청서를 말한다.\n② 영 제21조의2제2항에 따라 전담기관 지정신청서를 제출받은 방위사업청장은 「전자정부법」 제36조제1항에 따른 행정정보의 공동이용을 통해 법인 등기사항증명서를 확인해야 한다.\n③ 영 제21조의2제3항에서 \"국방부령으로 정하는 전담기관 지정서\"란 별지 제13호서식의 방위산업기술 보호지원 전담기관 지정서를 말한다.",
+        "enforcement_date": "20260911",
+        "relations": [],
+        "note": "[본조신설 2025.6.2][제4조의3에서 이동 <2026.9.10>]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0004041",
+        "moved": "000403",
+        "images": [],
+        "provision_id": "law:방위산업기술보호법시행규칙#JO0004_04",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "신설",
+            "content": "제4조의4(방위산업기술 보호지원 전담기관의 지정신청 등)\n① 영 제21조의2제2항에서 \"국방부령으로 정하는 전담기관 지정신청서\"란 별지 제12호서식의 방위산업기술 보호지원 전담기관 지정신청서를 말한다.\n② 영 제21조의2제2항에 따라 전담기관 지정신청서를 제출받은 방위사업청장은 「전자정부법」 제36조제1항에 따른 행정정보의 공동이용을 통해 법인 등기사항증명서를 확인해야 한다.\n③ 영 제21조의2제3항에서 \"국방부령으로 정하는 전담기관 지정서\"란 별지 제13호서식의 방위산업기술 보호지원 전담기관 지정서를 말한다."
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -1515,6 +1546,19 @@
       "source_version_uid": "012600:271591:20250604",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250604"
+    },
+    {
+      "promulgation_date": "20260910",
+      "promulgation_no": "01223",
+      "addendum_key": "2026091001223",
+      "content": "부칙 <제1223호,2026.9.10>\n이 규칙은 2026년 9월 11일부터 시행한다.",
+      "provision_id": "law:방위산업기술보호법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289785",
+      "source_version_uid": "012600:289785:20260911",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [
@@ -2070,8 +2114,10 @@
   "provision_id": "law:방위산업기술보호법시행규칙#DOC",
   "addendum_provision_id": "law:방위산업기술보호법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:방위산업기술보호법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "방위산업기술 보호법/시행규칙/방위산업기술 보호법 시행규칙.json"
 }
