@@ -28867,7 +28867,14 @@
         "changed": "N",
         "article_key": "0056031",
         "images": [],
-        "provision_id": "law:산업집적활성화및공장설립에관한법률시행령#JO0056_03"
+        "provision_id": "law:산업집적활성화및공장설립에관한법률시행령#JO0056_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제56조의3(이행강제금의 처분 및 징수업무 위탁기관)\n① 법 제43조의3제3항에서 \"대통령령으로 정한 관리기관\"이란 다음 각 호의 기관을 말한다. <개정 2026.4.28>\n1. 법 제30조제2항제2호에 따른 관리권자로부터 관리업무를 위임받은 지방자치단체의 장\n2. 법 제30조제2항제3호에 따른 관리권자로부터 관리업무를 위탁받은 공단(이행강제금의 처분 및 징수에 필요한 조사업무만을 말한다)\n② 법 제43조의3에 따른 이행강제금의 부과 및 징수 절차는 산업통상부령으로 정한다. <개정 2013.3.23, 2025.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제57조",
@@ -38763,8 +38770,10 @@
   "provision_id": "law:산업집적활성화및공장설립에관한법률시행령#DOC",
   "addendum_provision_id": "law:산업집적활성화및공장설립에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:산업집적활성화및공장설립에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "산업집적활성화 및 공장설립에 관한 법률/시행령/산업집적활성화 및 공장설립에 관한 법률 시행령.json"
 }
