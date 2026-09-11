@@ -5137,7 +5137,14 @@
         "changed": "N",
         "article_key": "0030081",
         "images": [],
-        "provision_id": "law:초중등교육법#JO0030_08"
+        "provision_id": "law:초중등교육법#JO0030_08",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제30조의8(학생의 안전대책 등)\n① 국립학교의 경우에는 학교의 장이, 공립 및 사립 학교의 경우에는 교육감이 시ㆍ도의 교육규칙으로 정하는 바에 따라 학교시설(학교담장을 포함한다)을 설치ㆍ변경하는 경우에는 외부인의 무단출입이나 학교폭력 및 범죄의 예방을 위하여 학생 안전대책을 수립하여 시행하여야 한다.\n② 학교의 장은 학생의 안전을 위하여 다음 각 호의 사항을 시행하여야 한다. <개정 2026.3.10>\n1. 학교 내 출입자의 신분확인 절차 등의 세부기준수립에 관한 사항\n2. 출입문, 복도, 계단 등 대통령령으로 정하는 학교 건물 내외부 영상정보처리기기 필수 설치 장소(교실은 필수 설치 장소에서 제외한다) 등을 포함한 영상정보처리기기의 설치 및 운영에 관한 사항\n3. 학교주변에 대한 순찰ㆍ감시 활동계획에 관한 사항\n4. 방과 후 학교에 남아 교육 및 돌봄 활동에 참여하는 학생의 안전 확보에 관한 사항\n③ 제1항 및 제2항에 따른 학생의 안전대책 등에 필요한 사항은 대통령령으로 정한다\n④ 국가 및 지방자치단체는 제2항에 따른 학생 안전 확보에 필요한 행정적ㆍ재정적 지원을 할 수 있다. <신설 2026.3.10>"
+          }
+        ]
       },
       {
         "article_no": "제30조의9",
@@ -12881,6 +12888,19 @@
       "version_enforcement_date": "20260820"
     },
     {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21424",
+      "addendum_key": "2026031021424",
+      "content": "부칙 <제21424호,2026.3.10>\n이 법은 공포 후 6개월이 경과한 날부터 시행한다.",
+      "provision_id": "law:초중등교육법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283903",
+      "source_version_uid": "000900:283903:20260911",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
+    },
+    {
       "promulgation_date": "20260428",
       "promulgation_no": "21580",
       "addendum_key": "2026042821580",
@@ -13772,8 +13792,10 @@
   "provision_id": "law:초중등교육법#DOC",
   "addendum_provision_id": "law:초중등교육법#ADDENDUM",
   "amendment_provision_id": "law:초중등교육법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "초ㆍ중등교육법/법률/초ㆍ중등교육법.json"
 }
