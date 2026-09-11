@@ -597,7 +597,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:약사법#JO0003"
+        "provision_id": "law:약사법#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제3조(약사 자격과 면허)\n①약사(藥師)가 되려는 자는 보건복지부령으로 정하는 바에 따라 보건복지부장관의 면허를 받아야 한다. <개정 2008.2.29, 2010.1.18>\n②제1항에 따른 약사면허는 다음 각 호의 어느 하나에 해당하는 자에게 준다. <개정 2008.2.29, 2010.1.18, 2017.2.8, 2019.1.15, 2020.4.7, 2026.3.10>\n1. 「고등교육법」 제11조의3에 따른 인정기관의 인증을 받은 약학을 전공하는 대학을 졸업하고 약학사 학위를 받은 자로서 약사국가시험에 합격한 자\n2. 외국의 약학을 전공하는 대학(보건복지부장관이 정하여 고시하는 인정기준에 해당하는 대학을 말한다)을 졸업하고 외국의 약사면허를 받은 자로서 약사예비시험과 약사국가시험에 합격한 자\n③약사면허를 받지 아니한 자는 약사라는 명칭을 사용할 수 없다.\n④ 제2항에도 불구하고 입학 당시 「고등교육법」 제11조의3에 따른 인정기관의 인증을 받은 약학을 전공하는 대학에 입학한 사람으로서 그 대학을 졸업하고 해당 학위를 받은 사람은 제2항제1호에 따른 약학사 학위를 받은 사람으로 본다. <신설 2020.4.7, 2026.3.10>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -48199,6 +48206,19 @@
       "source_version_uid": "001783:279725:20260621",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260621"
+    },
+    {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21423",
+      "addendum_key": "2026031021423",
+      "content": "부칙(고등교육법) <제21423호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) ①부터 ④까지 생략\n⑤ 약사법 일부를 다음과 같이 개정한다.\n제3조제2항제1호 중 \"「고등교육법」 제11조의2\"를 \"「고등교육법」 제11조의3\"으로 하고, 같은 조 제4항 중 \"「고등교육법」 제11조의2\"를 \"「고등교육법」 제11조의3\"으로 한다.\n⑥부터 ⑨까지 생략",
+      "provision_id": "law:약사법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283893",
+      "source_version_uid": "001783:283893:20260911",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [],
@@ -48236,8 +48256,10 @@
   "provision_id": "law:약사법#DOC",
   "addendum_provision_id": "law:약사법#ADDENDUM",
   "amendment_provision_id": "law:약사법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "약사법/법률/약사법.json"
 }
