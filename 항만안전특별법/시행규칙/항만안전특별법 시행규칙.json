@@ -321,7 +321,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:항만안전특별법시행규칙#JO0002"
+        "provision_id": "law:항만안전특별법시행규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제2조(자체안전관리계획의 승인 및 변경승인 신청)\n① 법 제9조제1항 전단에 따른 자체안전관리계획(이하 \"자체안전관리계획\"이라 한다)을 승인받으려는 항만하역사업자(「항만운송사업법」 제4조에 따라 항만하역사업을 관리청에 등록한 자를 말한다. 이하 같다)는 별지 제1호서식의 자체안전관리계획 승인 신청서에 자체안전관리계획을 첨부하여 관리청에 제출해야 한다. <개정 2026.9.2>\n② 「항만안전특별법 시행령」(이하 \"영\"이라 한다) 제6조제3항에 따른 자체안전관리계획 변경승인 신청서는 별지 제1호서식과 같다.\n③ 제1항 및 제2항에 따른 신청서를 제출받은 관리청은 승인 또는 변경승인 여부를 결정하여 그 신청서를 접수한 날부터 30일 이내에 결정 내용을 신청인에게 통보해야 한다."
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -1182,7 +1189,14 @@
         "article_key": "0005001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:항만안전특별법시행규칙#JO0005"
+        "provision_id": "law:항만안전특별법시행규칙#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제5조(항만안전에 관한 정보공개) 관리청은 법 제10조에 따라 다음 각 호의 정보(「개인정보 보호법」에 따른 개인정보는 제외한다)를 해당 관리청의 인터넷 홈페이지에 게시하는 방법으로 공개해야 한다. <개정 2026.9.2>\n1. 법 제8조제1항에 따른 안전교육 실시 결과에 관한 통계\n2. 법 제9조제1항에 따른 자체안전관리계획의 승인 현황에 관한 통계\n3. 법 제9조제3항에 따른 자체안전관리계획의 이행 확인 및 조치 사항에 관한 통계\n4. 법 제9조제4항에 따른 항만하역사업자에 대한 시정조치 명령 현황 및 해당 시정조치의 이행 결과에 관한 통계"
+          }
+        ]
       },
       {
         "article_no": "제6조",
@@ -1271,6 +1285,19 @@
       "source_version_uid": "014324:244171:20220804",
       "source_revision_type": "제정",
       "version_enforcement_date": "20220804"
+    },
+    {
+      "promulgation_date": "20260902",
+      "promulgation_no": "00818",
+      "addendum_key": "2026090200818",
+      "content": "부칙 <제818호,2026.9.2>\n이 규칙은 2026년 9월 11일부터 시행한다.",
+      "provision_id": "law:항만안전특별법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289507",
+      "source_version_uid": "014324:289507:20260911",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [
@@ -1415,8 +1442,10 @@
   "provision_id": "law:항만안전특별법시행규칙#DOC",
   "addendum_provision_id": "law:항만안전특별법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:항만안전특별법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "항만안전특별법/시행규칙/항만안전특별법 시행규칙.json"
 }
