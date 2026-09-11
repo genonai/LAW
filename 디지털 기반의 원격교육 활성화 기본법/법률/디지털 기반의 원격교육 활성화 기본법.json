@@ -1645,7 +1645,14 @@
         "article_key": "0018001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:디지털기반의원격교육활성화기본법#JO0018"
+        "provision_id": "law:디지털기반의원격교육활성화기본법#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20260911",
+            "change": "개정",
+            "content": "제18조(원격교육 통계조사 등)\n① 교육부장관은 원격교육 정책의 효율적인 추진과 원격교육 연구를 위한 기초자료 수집을 위하여 원격교육 통계조사를 매년 실시하고 그 결과를 공개하여야 한다.\n② 제1항에 따른 원격교육 통계조사와 관련하여 「유아교육법」 제6조의2제2항부터 제8항까지, 「초ㆍ중등교육법」 제11조의2제2항부터 제8항까지 및 「고등교육법」 제11조의4제2항부터 제7항까지를 준용한다. <개정 2026.3.10>\n③ 제1항에 따른 원격교육 통계조사의 대상, 절차 및 결과 공개 등에 필요한 사항은 대통령령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -2169,6 +2176,19 @@
       "source_version_uid": "014149:235539:20220325",
       "source_revision_type": "제정",
       "version_enforcement_date": "20220325"
+    },
+    {
+      "promulgation_date": "20260310",
+      "promulgation_no": "21423",
+      "addendum_key": "2026031021423",
+      "content": "부칙(고등교육법) <제21423호,2026.3.10>\n제1조(시행일) 이 법은 공포 후 6개월이 경과한 날부터 시행한다. <단서 생략>\n제2조(다른 법률의 개정) ① 및 ② 생략\n③ 디지털 기반의 원격교육 활성화 기본법 일부를 다음과 같이 개정한다.\n제18조제2항 중 \"「고등교육법」 제11조의3\"을 \"「고등교육법」 제11조의4\"로 한다.\n④부터 ⑨까지 생략",
+      "provision_id": "law:디지털기반의원격교육활성화기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "283889",
+      "source_version_uid": "014149:283889:20260911",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260911",
+      "enforcement_date": "20260911"
     }
   ],
   "appendices": [],
@@ -2202,8 +2222,10 @@
   "provision_id": "law:디지털기반의원격교육활성화기본법#DOC",
   "addendum_provision_id": "law:디지털기반의원격교육활성화기본법#ADDENDUM",
   "amendment_provision_id": "law:디지털기반의원격교육활성화기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260911"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "디지털 기반의 원격교육 활성화 기본법/법률/디지털 기반의 원격교육 활성화 기본법.json"
 }
