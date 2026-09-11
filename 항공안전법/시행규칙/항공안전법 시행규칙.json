@@ -47767,13 +47767,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/항공정보 품질경영시스템 운영 매뉴얼",
             "resolve_method": "render",
             "source_provision_id": "law:항공안전법시행규칙#JO0255",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -47989,11 +48006,28 @@
               "target_url": "https://www.law.go.kr/행정규칙/항공정보 품질경영시스템 운영 매뉴얼"
             },
             "source_provision_id": "law:항공안전법시행규칙#JO0255",
-            "reference_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
+            "reference_id": "admrul:항공정보업무품질경영시스템운영지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "항공정보 품질경영시스템 운영 매뉴얼/항공정보 품질경영시스템 운영 매뉴얼.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보품질경영시스템운영매뉴얼#DOC",
+                "is_current": true,
+                "enforcement_date": "20240229"
+              },
+              {
+                "git_path": "항공정보업무 품질경영시스템 운영 지침/항공정보업무 품질경영시스템 운영 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:항공정보업무품질경영시스템운영지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",

@@ -15873,13 +15873,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/방송통신위원회 재정 및 알선 등에 관한 규정",
             "resolve_method": "render",
             "source_provision_id": "law:전기통신사업법#JO0047",
-            "reference_id": "admrul:방송통신위원회재정및알선등에관한규정#DOC",
+            "reference_id": "admrul:방송미디어통신위원회재정및알선등에관한고시#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
-            "target_git_path": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
+            "target_git_path": "방송미디어통신위원회 재정 및 알선 등에 관한 고시/방송미디어통신위원회 재정 및 알선 등에 관한 고시.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "방송미디어통신위원회 재정 및 알선 등에 관한 고시/방송미디어통신위원회 재정 및 알선 등에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신위원회재정및알선등에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송통신위원회재정및알선등에관한규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20240521"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -15903,11 +15920,28 @@
               "target_url": "https://www.law.go.kr/행정규칙/방송통신위원회 재정 및 알선 등에 관한 규정"
             },
             "source_provision_id": "law:전기통신사업법#JO0047",
-            "reference_id": "admrul:방송통신위원회재정및알선등에관한규정#DOC",
+            "reference_id": "admrul:방송미디어통신위원회재정및알선등에관한고시#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
-            "target_git_path": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "방송미디어통신위원회 재정 및 알선 등에 관한 고시/방송미디어통신위원회 재정 및 알선 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "방송미디어통신위원회 재정 및 알선 등에 관한 고시/방송미디어통신위원회 재정 및 알선 등에 관한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송미디어통신위원회재정및알선등에관한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20260910"
+              },
+              {
+                "git_path": "방송통신위원회 재정 및 알선 등에 관한 규정/방송통신위원회 재정 및 알선 등에 관한 규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:방송통신위원회재정및알선등에관한규정#DOC",
+                "is_current": true,
+                "enforcement_date": "20240521"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
