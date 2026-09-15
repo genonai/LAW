@@ -1844,8 +1844,13 @@
   "version_signature": "4bc4630ff2c8eb8f"
  },
  "law:eflaw:000190": {
-  "collected_signature": "2c72d9e42e09790b",
-  "content_hash": "2b9719490499c7c5982f72af8f970b212e82164c01ceb77876ed78902a2b2ca6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 111,
+   "chars": 57631
+  },
+  "collected_signature": "b3a90a7a4e68c404",
+  "content_hash": "4dbd3b96631d4f052c8329c7f9226756b488b0c0639b400c5b9c48628c8d773a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289737&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000190",
@@ -1853,16 +1858,18 @@
   "doc_type": "법률",
   "emitted_signature": "2c72d9e42e09790b",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:19:32.918712+00:00",
-  "last_collected_at": "2026-08-24T10:28:12.612471+00:00",
+  "last_checked_at": "2026-09-15T16:23:08.508204+00:00",
+  "last_collected_at": "2026-09-15T16:30:35.385197+00:00",
   "ministry": "보건복지부",
   "mst": "289737",
   "name": "아동복지법",
   "payload_law_id": "000190",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b3a90a7a4e68c404"
  },
  "law:eflaw:000191": {
@@ -2653,8 +2660,13 @@
   "version_signature": "58f08a0166da5da2"
  },
  "law:eflaw:000299": {
-  "collected_signature": "3da1fde9441fcdf9",
-  "content_hash": "95d3950cdbd1b609c8f8ceba0efc964c6bc2da7dd1e24bedec50a923c3c37fd1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 29775
+  },
+  "collected_signature": "f0425f0b1fee2d2f",
+  "content_hash": "385b7e05f7a54db3d3d284312b154a9c2f000042746f10b3e53a8d41c2775baf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289777&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000299",
@@ -2662,16 +2674,18 @@
   "doc_type": "법률",
   "emitted_signature": "3da1fde9441fcdf9",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T09:23:50.863937+00:00",
-  "last_collected_at": "2026-08-24T09:29:37.040083+00:00",
+  "last_checked_at": "2026-09-15T16:23:08.464797+00:00",
+  "last_collected_at": "2026-09-15T16:26:37.512009+00:00",
   "ministry": "기후에너지환경부,산업통상부",
   "mst": "289777",
   "name": "신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법",
   "payload_law_id": "000299",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "f0425f0b1fee2d2f"
  },
  "law:eflaw:000303": {
@@ -10426,8 +10440,13 @@
   "version_signature": "42264ccff3552774"
  },
  "law:eflaw:001454": {
-  "collected_signature": "c30ec3133d747702",
-  "content_hash": "6f635454ba9e404e5d704cd7dc63ec34fa2babcd19c1df50ab7b8e086fde167d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 26806
+  },
+  "collected_signature": "f62b59160a205610",
+  "content_hash": "8f9cd8bb80dac6f791f099b4c94343a35c1f6124697b310e5b735aa6d0c78c13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277207&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001454",
@@ -10435,16 +10454,18 @@
   "doc_type": "법률",
   "emitted_signature": "c30ec3133d747702",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:00:14.381830+00:00",
-  "last_collected_at": "2026-08-24T10:08:00.972576+00:00",
+  "last_checked_at": "2026-09-15T16:23:07.933927+00:00",
+  "last_collected_at": "2026-09-15T16:28:01.178178+00:00",
   "ministry": "지식재산처",
   "mst": "277207",
   "name": "실용신안법",
   "payload_law_id": "001454",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f62b59160a205610"
  },
  "law:eflaw:001455": {
@@ -14058,8 +14079,12 @@
  },
  "law:eflaw:001783": {
   "attempts": 0,
-  "collected_signature": "c34cdcb0b32761a6",
-  "content_hash": "b9aed81c95076bfb2dbb4f8e8a400db7d71e31e6f554981f0f177e6cf487b764",
+  "body_stats": {
+   "articles": 221,
+   "chars": 132191
+  },
+  "collected_signature": "13e62dcf652935b9",
+  "content_hash": "f6322b958822e67455115abeeae44db9150d5266901c1f88a469e6293f15bf89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283893&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "001783",
@@ -14069,8 +14094,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:49:26.296038+00:00",
-  "last_collected_at": "2026-09-11T15:59:08.180422+00:00",
+  "last_checked_at": "2026-09-15T16:23:08.451294+00:00",
+  "last_collected_at": "2026-09-15T16:33:07.407572+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "283893",
   "name": "약사법",
@@ -14078,7 +14103,7 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "13e62dcf652935b9"
  },
  "law:eflaw:001784": {
@@ -47938,8 +47963,13 @@
   "version_signature": "1c96dfa0325b8497"
  },
  "law:eflaw:007709": {
-  "collected_signature": "b38274375fa4f477",
-  "content_hash": "078d374fc42b7bffc8f916035bf0632089d4e8cb8f98ee7b7c484cb6dcbb89c3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 159,
+   "chars": 90616
+  },
+  "collected_signature": "34619e29dc84e0ad",
+  "content_hash": "fe95457d22c3dbc34210ac09955d0b6aa61c101fcd328f0467e5cef9aef39e7d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289863&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "007709",
@@ -47947,13 +47977,15 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "b38274375fa4f477",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T12:17:45.713074+00:00",
-  "last_collected_at": "2026-08-24T12:33:35.093279+00:00",
+  "last_checked_at": "2026-09-15T16:23:07.942645+00:00",
+  "last_collected_at": "2026-09-15T16:33:50.180005+00:00",
   "ministry": "국토교통부",
   "mst": "289863",
   "name": "여객자동차 운수사업법 시행규칙",
   "payload_law_id": "007709",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
@@ -97828,8 +97860,13 @@
   "version_signature": "2d0c55a57f2b354b"
  },
  "law:eflaw:012574": {
-  "collected_signature": "f6fdbae337f9d094",
-  "content_hash": "a65f565ce7340965c387d2d301e13bba10f22ed225c1c840a238c238abe75078",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 23,
+   "chars": 8322
+  },
+  "collected_signature": "b79820e906316a12",
+  "content_hash": "525597e7e64f81a694bd932722486d9b7fd967fc4ac7a37e7728df3fb03a16d8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259525&type=HTML&mobileYn=&efYd=20250731",
   "doc_domain": "law",
   "doc_id": "012574",
@@ -97837,16 +97874,18 @@
   "doc_type": "법률",
   "emitted_signature": "f6fdbae337f9d094",
   "enforcement_date": "20250731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:08:24.377405+00:00",
-  "last_collected_at": "2026-08-24T10:09:52.223109+00:00",
+  "last_checked_at": "2026-09-15T16:23:08.026010+00:00",
+  "last_collected_at": "2026-09-15T16:23:54.704323+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "259525",
   "name": "심뇌혈관질환의 예방 및 관리에 관한 법률",
   "payload_law_id": "012574",
+  "prev_name": null,
   "promulgation_date": "20240130",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "b79820e906316a12"
  },
  "law:eflaw:012575": {
