@@ -57282,12 +57282,12 @@
   "version_signature": "6961eb12bb504eb8"
  },
  "law:eflaw:009469": {
-  "attempts": 2,
+  "attempts": 0,
   "body_stats": {
    "articles": 56,
    "chars": 14980
   },
-  "collected_signature": null,
+  "collected_signature": "fcafba0e6c001153",
   "content_hash": "712194b301362918dacef39a187591c14d0633fa34ea35050050aeca785e733c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289849&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
@@ -57296,10 +57296,10 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "8c8e4dbda90af061",
   "enforcement_date": "20260915",
-  "export_pending": true,
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T18:11:29.137156+00:00",
-  "last_collected_at": "2026-09-15T18:11:46.415659+00:00",
+  "last_checked_at": "2026-09-15T18:12:02.199741+00:00",
+  "last_collected_at": "2026-09-15T18:12:13.987637+00:00",
   "last_error": "Child Workflow execution failed",
   "last_git_error": "git rm --cached 실패(rc=128) /workspace/law_ai/data/LAW :: 국토의 계획 및 이용에 관한 법률/시행규칙/서식/서식18_취득토지의 이용목적변경 승인신청서.hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
   "last_git_error_at": "2026-09-15T18:11:50.360185+00:00",
@@ -57307,6 +57307,7 @@
   "mst": "289849",
   "name": "국토의 계획 및 이용에 관한 법률 시행규칙",
   "payload_law_id": "009469",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
