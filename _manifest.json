@@ -11102,8 +11102,13 @@
   "version_signature": "10fad57fc030f0f8"
  },
  "law:eflaw:001509": {
-  "collected_signature": "045beca0ad3a9ade",
-  "content_hash": "fd680551705fefa7d899e37eb5de797af23f9e16b156267d130966f9c5e14f0b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 88,
+   "chars": 44211
+  },
+  "collected_signature": "d56a69526f483efd",
+  "content_hash": "068c8b5cd9a3fb563c537c12e622373e3e39811f52e91a44ca23060b32101ead",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289591&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "001509",
@@ -11111,16 +11116,18 @@
   "doc_type": "법률",
   "emitted_signature": "045beca0ad3a9ade",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:15:14.726853+00:00",
-  "last_collected_at": "2026-08-25T19:29:51.621930+00:00",
+  "last_checked_at": "2026-09-15T17:46:27.431903+00:00",
+  "last_collected_at": "2026-09-15T17:50:31.708775+00:00",
   "ministry": "농림축산식품부",
   "mst": "289591",
   "name": "축산법",
   "payload_law_id": "001509",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d56a69526f483efd"
  },
  "law:eflaw:001513": {
@@ -51635,8 +51642,13 @@
   "version_signature": "6aa3386693be78db"
  },
  "law:eflaw:008494": {
-  "collected_signature": "4aef5272812d766b",
-  "content_hash": "421211d3825ba5f15d02b64277352dafa3627b9ec16a7066ce54b0a5181d6774",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 192,
+   "chars": 82519
+  },
+  "collected_signature": "61e24e9a00228205",
+  "content_hash": "92fdb8edc4dc30d0262a102e30b9c0dec5fd2d171d16f5e385a816a6f89ae60d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289833&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "008494",
@@ -51644,16 +51656,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "4aef5272812d766b",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:37:20.509818+00:00",
-  "last_collected_at": "2026-08-25T19:53:21.793775+00:00",
+  "last_checked_at": "2026-09-15T17:46:26.991295+00:00",
+  "last_collected_at": "2026-09-15T17:54:35.355449+00:00",
   "ministry": "법무부",
   "mst": "289833",
   "name": "출입국관리법 시행규칙",
   "payload_law_id": "008494",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "61e24e9a00228205"
  },
  "law:eflaw:008503": {
@@ -58619,8 +58633,13 @@
   "version_signature": "291f397097f08ee1"
  },
  "law:eflaw:009569": {
-  "collected_signature": "97b67b551403587f",
-  "content_hash": "91245dbe60b572c57667e858d2b7b754b86b9f92cb5d792e9cde0bdd1efc2b9f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 54,
+   "chars": 16586
+  },
+  "collected_signature": "8b768e19c4da880f",
+  "content_hash": "e0f04b681ef01e208d441f3490296cae0e37eab491fd43910c493731cc501eeb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289693&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "009569",
@@ -58628,13 +58647,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "97b67b551403587f",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:56:44.617316+00:00",
-  "last_collected_at": "2026-08-25T18:01:31.653564+00:00",
+  "last_checked_at": "2026-09-15T17:46:27.367028+00:00",
+  "last_collected_at": "2026-09-15T17:50:13.402698+00:00",
   "ministry": "국토교통부",
   "mst": "289693",
   "name": "철도산업발전기본법시행령",
   "payload_law_id": "009569",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
@@ -58663,8 +58684,13 @@
   "version_signature": "432603059361cd84"
  },
  "law:eflaw:009574": {
-  "collected_signature": "67a1677744d7b661",
-  "content_hash": "1675dd1b1034b8e0dda2d07a86c531bcfc1e09885f691fcc31aebbd90b588b5e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 4356
+  },
+  "collected_signature": "a8f59137487fda34",
+  "content_hash": "ecbea6c9df14285812cfd0afdb7cd9acf884b605f49b27b78d18db2d50e82a6e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289873&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "009574",
@@ -58672,16 +58698,17 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "67a1677744d7b661",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:52:28.729142+00:00",
-  "last_collected_at": "2026-08-25T17:53:07.444046+00:00",
+  "last_checked_at": "2026-09-15T17:46:26.905203+00:00",
+  "last_collected_at": "2026-09-15T17:47:02.009387+00:00",
   "ministry": "국토교통부",
   "mst": "289873",
   "name": "철도산업발전기본법 시행규칙",
   "payload_law_id": "009574",
-  "prev_name": "철도산업발전기본법시행규칙",
+  "prev_name": null,
   "promulgation_date": "20260915",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a8f59137487fda34"
  },
@@ -62546,8 +62573,13 @@
   "version_signature": "f8d2e68be04a13a2"
  },
  "law:eflaw:009908": {
-  "collected_signature": "ac407341dab6d4a8",
-  "content_hash": "f679993208c22814377e8d224bc969af5df15465e57433212344df54078d693c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 30,
+   "chars": 14618
+  },
+  "collected_signature": "0961ac7f26dc9929",
+  "content_hash": "30436c8860092bdadcd510a1d2acac89878df43e84fdc780ba807d96adaf6ffb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287015&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009908",
@@ -62555,16 +62587,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "ac407341dab6d4a8",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:27:14.887806+00:00",
-  "last_collected_at": "2026-08-25T18:32:48.884515+00:00",
+  "last_checked_at": "2026-09-15T17:46:27.141760+00:00",
+  "last_collected_at": "2026-09-15T17:50:57.254318+00:00",
   "ministry": "성평등가족부",
   "mst": "287015",
   "name": "청소년복지 지원법 시행령",
   "payload_law_id": "009908",
+  "prev_name": null,
   "promulgation_date": "20260616",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0961ac7f26dc9929"
  },
  "law:eflaw:009909": {
@@ -103800,8 +103834,13 @@
   "version_signature": "3b63628a0b274914"
  },
  "law:eflaw:013464": {
-  "collected_signature": "131842183bd8a76a",
-  "content_hash": "88fcb5ea8d1aa54a8f431d7250b810a65e111d6692290b4fe38c63baa356436c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 4204
+  },
+  "collected_signature": "2600a00bab6c6275",
+  "content_hash": "a72a2900b56c7350e1cbebb9937ce4adacf33b60666a71189d43b3b761372d01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281229&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "013464",
@@ -103809,16 +103848,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "131842183bd8a76a",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:01.887156+00:00",
-  "last_collected_at": "2026-08-25T18:23:45.267728+00:00",
+  "last_checked_at": "2026-09-15T17:46:27.366125+00:00",
+  "last_collected_at": "2026-09-15T17:48:07.846546+00:00",
   "ministry": "고용노동부",
   "mst": "281229",
   "name": "청년고용촉진 특별법 시행령",
   "payload_law_id": "013464",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2600a00bab6c6275"
  },
  "law:eflaw:013465": {
