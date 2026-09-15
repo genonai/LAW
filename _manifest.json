@@ -26967,8 +26967,12 @@
  },
  "law:eflaw:004083": {
   "attempts": 0,
-  "collected_signature": "12695ed49386aaec",
-  "content_hash": "20cb73d584748a80803e9ea1b8d7e5b8268b81c1849729aaa1a38b1e37b96c97",
+  "body_stats": {
+   "articles": 59,
+   "chars": 23519
+  },
+  "collected_signature": "f24b1bad34a96a6e",
+  "content_hash": "a5f2a665e045b3e9d70d36ab7e387c054f8d1bc88960f3ccd21bcccf0a3eb392",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289677&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "004083",
@@ -26976,17 +26980,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "12695ed49386aaec",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:11:10.242007+00:00",
-  "last_collected_at": "2026-09-03T04:18:07.830397+00:00",
+  "last_checked_at": "2026-09-15T16:16:43.896845+00:00",
+  "last_collected_at": "2026-09-15T16:21:49.811169+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국토교통부",
   "mst": "289677",
   "name": "시설물의 안전 및 유지관리에 관한 특별법 시행령",
   "payload_law_id": "004083",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f24b1bad34a96a6e"
  },
  "law:eflaw:004088": {
@@ -72449,8 +72455,13 @@
   "version_signature": "e3069622ef346186"
  },
  "law:eflaw:010607": {
-  "collected_signature": "af3a990f5597c9ce",
-  "content_hash": "272d9cf9e67d6f84f6916584d8fc66a58be8d2b1c30ae8e6f290e60f86d909ae",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 29400
+  },
+  "collected_signature": "bb87b4e9da3d4619",
+  "content_hash": "d591652809027c159eea34922d14967faf80f26c7bc0d329c187a50e637262ed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289587&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "010607",
@@ -72458,16 +72469,18 @@
   "doc_type": "법률",
   "emitted_signature": "af3a990f5597c9ce",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:47:54.134104+00:00",
-  "last_collected_at": "2026-08-24T08:53:22.174017+00:00",
+  "last_checked_at": "2026-09-15T16:16:43.381330+00:00",
+  "last_collected_at": "2026-09-15T16:18:48.808808+00:00",
   "ministry": "농림축산식품부",
   "mst": "289587",
   "name": "식품산업진흥법",
   "payload_law_id": "010607",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "bb87b4e9da3d4619"
  },
  "law:eflaw:010608": {
@@ -75690,8 +75703,13 @@
   "version_signature": "d6b60072b1348c0b"
  },
  "law:eflaw:010846": {
-  "collected_signature": "73bf0adcbc9fd24f",
-  "content_hash": "4a67e950ee77ce224d019e5631b339d76813d40953e36e4af1ffdaf0fde90911",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 76,
+   "chars": 36671
+  },
+  "collected_signature": "b99e49fd369b392d",
+  "content_hash": "2b2ce7ba241f8ec27d2127e58dcd6ddbde1107350dccc610092c4a822d56e544",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289675&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "010846",
@@ -75699,16 +75717,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "73bf0adcbc9fd24f",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:05:01.281881+00:00",
-  "last_collected_at": "2026-08-24T08:10:50.435195+00:00",
+  "last_checked_at": "2026-09-15T16:16:43.690931+00:00",
+  "last_collected_at": "2026-09-15T16:22:27.081344+00:00",
   "ministry": "국토교통부",
   "mst": "289675",
   "name": "스마트도시 조성 및 산업진흥 등에 관한 법률 시행령",
   "payload_law_id": "010846",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b99e49fd369b392d"
  },
  "law:eflaw:010847": {
@@ -93641,8 +93661,13 @@
   "version_signature": "660ceda2fa6b5826"
  },
  "law:eflaw:012247": {
-  "collected_signature": "97ba6324a74e8cc1",
-  "content_hash": "23db7dee9f78180cf75e41f08b8a7410f094f2fe5b96d8147d531aa071ded065",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 31096
+  },
+  "collected_signature": "e58ee1cf72d6d845",
+  "content_hash": "3f72b3f2977bc47266fc90f2e764299f8f8222ceacbcece44e46898b0600c119",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269925&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "012247",
@@ -93650,16 +93675,18 @@
   "doc_type": "법률",
   "emitted_signature": "97ba6324a74e8cc1",
   "enforcement_date": "20260101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T07:39:40.933182+00:00",
-  "last_collected_at": "2026-08-24T07:45:36.101391+00:00",
+  "last_checked_at": "2026-09-15T16:16:43.927238+00:00",
+  "last_collected_at": "2026-09-15T16:21:02.042245+00:00",
   "ministry": "식품의약품안전처",
   "mst": "269925",
   "name": "수입식품안전관리 특별법",
   "payload_law_id": "012247",
+  "prev_name": null,
   "promulgation_date": "20250318",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "e58ee1cf72d6d845"
  },
  "law:eflaw:012248": {
@@ -111463,8 +111490,13 @@
   "version_signature": "d3981099beed1df5"
  },
  "law:eflaw:014132": {
-  "collected_signature": "63b43cbbea414827",
-  "content_hash": "2e393fe31c9b7383a31ef1cb620a1c87d1183b6afb7f5095f317addf0650fc05",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 6557
+  },
+  "collected_signature": "97c73f7a74a18afa",
+  "content_hash": "83e7faedefad55f18bbdea05907662bdebd10c34685b96e4b5e6cfe82789e4b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289861&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "014132",
@@ -111472,16 +111504,18 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "63b43cbbea414827",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T01:44:18.009841+00:00",
-  "last_collected_at": "2026-08-24T01:45:17.457255+00:00",
+  "last_checked_at": "2026-09-15T16:16:43.861077+00:00",
+  "last_collected_at": "2026-09-15T16:19:11.317672+00:00",
   "ministry": "국토교통부",
   "mst": "289861",
   "name": "생활물류서비스산업발전법 시행규칙",
   "payload_law_id": "014132",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "97c73f7a74a18afa"
  },
  "law:eflaw:014135": {
@@ -126142,18 +126176,30 @@
   "version_signature": "9b20a72a44265eb8"
  },
  "law:eflaw:015211": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 8677
+  },
+  "collected_signature": "e6476efce76054e9",
+  "content_hash": "f23031b43718b695ccd245c28beccb58206fc0de497898dd1df3cf0958290af4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289749&type=HTML&mobileYn=&efYd=20270916",
   "doc_domain": "law",
   "doc_id": "015211",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20270916",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-09-15T16:16:43.505450+00:00",
+  "last_collected_at": "2026-09-15T16:16:45.897695+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289749",
   "name": "석탄화력발전소 노동자 및 폐지지역 지원 특별법",
+  "payload_law_id": "015211",
+  "prev_name": null,
   "promulgation_date": "20260915",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "e6476efce76054e9"
  },
