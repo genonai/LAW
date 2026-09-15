@@ -1954,8 +1954,13 @@
   "version_signature": "9a6f80f24e5d8c6b"
  },
  "law:eflaw:000204": {
-  "collected_signature": "b22b3ba959430283",
-  "content_hash": "2b08f315451881da8f3cb223d0c678c105955906f9c4977aba0b9644643c6168",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 48,
+   "chars": 13962
+  },
+  "collected_signature": "cd979603ca735510",
+  "content_hash": "15a34f02009346a0741fc77102fabc49ff368f3d7605cb86d0666422667e3be6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289735&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000204",
@@ -1963,13 +1968,15 @@
   "doc_type": "법률",
   "emitted_signature": "b22b3ba959430283",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T21:43:19.796924+00:00",
-  "last_collected_at": "2026-08-23T21:44:33.980654+00:00",
+  "last_checked_at": "2026-09-15T16:07:47.184890+00:00",
+  "last_collected_at": "2026-09-15T16:09:44.966224+00:00",
   "ministry": "보건복지부",
   "mst": "289735",
   "name": "사회보장기본법",
   "payload_law_id": "000204",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
@@ -10536,8 +10543,13 @@
   "version_signature": "bcf552ca51b7a52b"
  },
  "law:eflaw:001460": {
-  "collected_signature": "2caf65938052067e",
-  "content_hash": "2e29dfcc5afac28b123e1c7f17b4b178776336a3f077975617334004d43f82d9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 56,
+   "chars": 23073
+  },
+  "collected_signature": "88bd349a4df75846",
+  "content_hash": "7bad0b3e25bed0b607f6a21b16bc454f34503ee90cfa85a008bfceea4fe5e8d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283931&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "001460",
@@ -10545,16 +10557,18 @@
   "doc_type": "법률",
   "emitted_signature": "2caf65938052067e",
   "enforcement_date": "20260310",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T23:58:28.012628+00:00",
-  "last_collected_at": "2026-08-24T00:03:58.164020+00:00",
+  "last_checked_at": "2026-09-15T16:07:47.441606+00:00",
+  "last_collected_at": "2026-09-15T16:10:19.089364+00:00",
   "ministry": "산업통상부",
   "mst": "283931",
   "name": "산업표준화법",
   "payload_law_id": "001460",
+  "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "88bd349a4df75846"
  },
  "law:eflaw:001461": {
@@ -25469,8 +25483,12 @@
  },
  "law:eflaw:003788": {
   "attempts": 0,
-  "collected_signature": "1a7eec071447f768",
-  "content_hash": "268bb4f4304ea80c2eaf3ab4cdfc2207096c2befda004e8c3d0c8f5144d7a382",
+  "body_stats": {
+   "articles": 122,
+   "chars": 78360
+  },
+  "collected_signature": "9019406120eee43c",
+  "content_hash": "fcc186a13d72e7f26000fbe9ba1ccc746cab9af067224fbd9441f89537bd908d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289671&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "003788",
@@ -25478,16 +25496,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "1a7eec071447f768",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:19:10.574198+00:00",
-  "last_collected_at": "2026-09-08T16:28:28.314187+00:00",
+  "last_checked_at": "2026-09-15T16:07:46.932557+00:00",
+  "last_collected_at": "2026-09-15T16:16:16.076038+00:00",
   "ministry": "국토교통부",
   "mst": "289671",
   "name": "산업입지 및 개발에 관한 법률 시행령",
   "payload_law_id": "003788",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9019406120eee43c"
  },
  "law:eflaw:003793": {
@@ -89736,8 +89756,13 @@
   "version_signature": "e3ac614716a88e70"
  },
  "law:eflaw:011908": {
-  "collected_signature": "bd8d1d99cc5b90e6",
-  "content_hash": "ef3a30ba4a2a6d67e1e4a193537167eefacda9824698affbd06ed8361e4f054b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 99,
+   "chars": 44763
+  },
+  "collected_signature": "4d041132f40a60e5",
+  "content_hash": "e6b14d3a4c3f62570b0b5df61217cf9f5ad85c1ff0e0f3980cea0e8b7458f06a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289673&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "011908",
@@ -89745,16 +89770,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "bd8d1d99cc5b90e6",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T01:28:07.273640+00:00",
-  "last_collected_at": "2026-08-24T01:35:23.770568+00:00",
+  "last_checked_at": "2026-09-15T16:07:46.933640+00:00",
+  "last_collected_at": "2026-09-15T16:15:06.215127+00:00",
   "ministry": "국토교통부",
   "mst": "289673",
   "name": "새만금사업 추진 및 지원에 관한 특별법 시행령",
   "payload_law_id": "011908",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4d041132f40a60e5"
  },
  "law:eflaw:011910": {
@@ -93100,8 +93127,13 @@
   "version_signature": "e4888a1310f08a66"
  },
  "law:eflaw:012197": {
-  "collected_signature": "164db38b501bba71",
-  "content_hash": "9de365852018a5888e29fb4657e3458a7f99f387679423d927247885a015c9ac",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 35076
+  },
+  "collected_signature": "33aaf4b47fd86469",
+  "content_hash": "a3aebd45d0570b51b33f1a5efd54fe6ffd3a442d3f4e1cef27ce3f0411aa0c12",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270795&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "012197",
@@ -93109,16 +93141,18 @@
   "doc_type": "법률",
   "emitted_signature": "164db38b501bba71",
   "enforcement_date": "20251023",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T21:33:54.905465+00:00",
-  "last_collected_at": "2026-08-23T21:40:42.816790+00:00",
+  "last_checked_at": "2026-09-15T16:07:47.373450+00:00",
+  "last_collected_at": "2026-09-15T16:11:23.999751+00:00",
   "ministry": "보건복지부",
   "mst": "270795",
   "name": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률",
   "payload_law_id": "012197",
+  "prev_name": null,
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "33aaf4b47fd86469"
  },
  "law:eflaw:012198": {
@@ -126020,19 +126054,31 @@
   "version_signature": "d8f449e777236cd8"
  },
  "law:eflaw:015205": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 13639
+  },
+  "collected_signature": "41a485a4e979a964",
+  "content_hash": "52c1bd67f05c6eac835751af8f3e06e9772509faed757042dcdba233159da212",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289577&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "015205",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20270316",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-09-15T16:07:47.442630+00:00",
+  "last_collected_at": "2026-09-15T16:08:20.932626+00:00",
   "ministry": "행정안전부",
   "mst": "289577",
   "name": "사회연대경제기본법",
+  "payload_law_id": "015205",
+  "prev_name": null,
   "promulgation_date": "20260915",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "41a485a4e979a964"
  },
  "law:eflaw:015207": {
