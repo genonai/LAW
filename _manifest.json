@@ -21396,8 +21396,13 @@
   "version_signature": "7314c3ce57904112"
  },
  "law:eflaw:003107": {
-  "collected_signature": "0493dd1accffd905",
-  "content_hash": "76ce40f389070f3d8436e5f8cb90f1bd314019390efb16524e47ea6c60d0af75",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 39,
+   "chars": 15686
+  },
+  "collected_signature": "a8dc91f3637c405f",
+  "content_hash": "6a3239bc7ba74f1f5fac461b97fbcfb65d70acdfd0f5d5ab5c7d8b895a32d866",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287345&type=HTML&mobileYn=&efYd=20260630",
   "doc_domain": "law",
   "doc_id": "003107",
@@ -21405,16 +21410,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "0493dd1accffd905",
   "enforcement_date": "20260630",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:12:52.178513+00:00",
-  "last_collected_at": "2026-08-23T03:17:20.576001+00:00",
+  "last_checked_at": "2026-09-15T15:29:21.185133+00:00",
+  "last_collected_at": "2026-09-15T15:34:55.604668+00:00",
   "ministry": "기상청",
   "mst": "287345",
   "name": "기상법 시행령",
   "payload_law_id": "003107",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a8dc91f3637c405f"
  },
  "law:eflaw:003108": {
@@ -25194,8 +25201,13 @@
   "version_signature": "b7257bc46ca7365c"
  },
  "law:eflaw:003763": {
-  "collected_signature": "586f63b135a76fc9",
-  "content_hash": "ae9e0243ece9ac46d2c810d8276a6724b4f34a157580f5eab2b76f20f6683062",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 8588
+  },
+  "collected_signature": "e37fa4ca3116ed41",
+  "content_hash": "2dfe470330a93f2a27bd041d474bd5d2e84d6c96fd2ba5ceba7800f2316fe9c1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289653&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "003763",
@@ -25203,16 +25215,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "586f63b135a76fc9",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:01:43.455198+00:00",
-  "last_collected_at": "2026-08-23T02:04:39.049369+00:00",
+  "last_checked_at": "2026-09-15T15:29:20.632177+00:00",
+  "last_collected_at": "2026-09-15T15:32:40.119669+00:00",
   "ministry": "국토교통부",
   "mst": "289653",
   "name": "궤도운송법 시행령",
   "payload_law_id": "003763",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e37fa4ca3116ed41"
  },
  "law:eflaw:003773": {
@@ -45879,8 +45893,13 @@
   "version_signature": "d3f5ef42dce221fb"
  },
  "law:eflaw:007343": {
-  "collected_signature": "28bf9024358054be",
-  "content_hash": "0fcd8e93820f69a0bb9af22c254a4ca512dfd7b37e024dde76356f488efbc053",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 15524
+  },
+  "collected_signature": "46bfc8b6cd53a32b",
+  "content_hash": "cde78d03218a81625851f1b88dd32f12d16ab61d05a255fdfbe3b10531c637b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289851&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "007343",
@@ -45888,13 +45907,15 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "28bf9024358054be",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:01:42.523461+00:00",
-  "last_collected_at": "2026-08-23T02:04:38.151275+00:00",
+  "last_checked_at": "2026-09-15T15:29:21.191453+00:00",
+  "last_collected_at": "2026-09-15T15:33:39.286387+00:00",
   "ministry": "국토교통부",
   "mst": "289851",
   "name": "궤도운송법 시행규칙",
   "payload_law_id": "007343",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
@@ -56971,9 +56992,13 @@
   "version_signature": "6961eb12bb504eb8"
  },
  "law:eflaw:009469": {
-  "attempts": 0,
-  "collected_signature": "8c8e4dbda90af061",
-  "content_hash": "3cd64d9803076f280c5e5e6a7b32cb2a2903a10f2cb7958c288a4896f4ef4d53",
+  "attempts": 1,
+  "body_stats": {
+   "articles": 56,
+   "chars": 14980
+  },
+  "collected_signature": null,
+  "content_hash": "712194b301362918dacef39a187591c14d0633fa34ea35050050aeca785e733c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289849&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "009469",
@@ -56981,17 +57006,20 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "8c8e4dbda90af061",
   "enforcement_date": "20260915",
+  "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:05:50.883071+00:00",
-  "last_collected_at": "2026-09-03T03:09:21.102275+00:00",
+  "last_checked_at": "2026-09-15T15:29:20.878281+00:00",
+  "last_collected_at": "2026-09-15T15:34:40.455441+00:00",
   "last_error": "Child Workflow execution failed",
+  "last_git_error": "git rm --cached 실패(rc=128) /workspace/law_ai/data/LAW :: 국토의 계획 및 이용에 관한 법률/시행규칙/서식/서식18_취득토지의 이용목적변경 승인신청서.hwp — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
+  "last_git_error_at": "2026-09-15T15:34:58.566934+00:00",
   "ministry": "국토교통부",
   "mst": "289849",
   "name": "국토의 계획 및 이용에 관한 법률 시행규칙",
   "payload_law_id": "009469",
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fcafba0e6c001153"
  },
  "law:eflaw:009471": {
@@ -62973,8 +63001,13 @@
   "version_signature": "fb938d1c568d4dba"
  },
  "law:eflaw:009948": {
-  "collected_signature": "9f1e8046c1fc509f",
-  "content_hash": "4f0a27178a053b337cc76f0977a964e5c1e00c17efd63957123263546835bafb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 29607
+  },
+  "collected_signature": "f2151b2ed60fb9e5",
+  "content_hash": "cbf18b359c0389cd80c87c0dd6178bd65b8a41f4d4446999f9e6ed17e8e7dfc2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289655&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "009948",
@@ -62982,13 +63015,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "9f1e8046c1fc509f",
   "enforcement_date": "20260915",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:31:24.289211+00:00",
-  "last_collected_at": "2026-08-23T03:40:57.322779+00:00",
+  "last_checked_at": "2026-09-15T15:29:20.630614+00:00",
+  "last_collected_at": "2026-09-15T15:35:34.852766+00:00",
   "ministry": "국토교통부",
   "mst": "289655",
   "name": "기업도시개발 특별법 시행령",
   "payload_law_id": "009948",
+  "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
   "version_count": 1,
@@ -96819,8 +96854,13 @@
   "version_signature": "184a5e0e1a290176"
  },
  "law:eflaw:012502": {
-  "collected_signature": "900e761e943f285a",
-  "content_hash": "b79a28f7f6e6f1ed6c139e3112fa612d713ee3771d88ebb467a0520932a447f2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 25796
+  },
+  "collected_signature": "8f686648df60caec",
+  "content_hash": "4ac317551c4299a05938b5e685911f1773ed1e7876cab5471dc0a211c738068a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281885&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012502",
@@ -96828,16 +96868,18 @@
   "doc_type": "법률",
   "emitted_signature": "900e761e943f285a",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:24:37.648288+00:00",
-  "last_collected_at": "2026-08-23T03:31:11.567618+00:00",
+  "last_checked_at": "2026-09-15T15:29:21.233514+00:00",
+  "last_collected_at": "2026-09-15T15:34:10.546532+00:00",
   "ministry": "산업통상부",
   "mst": "281885",
   "name": "기업 활력 제고를 위한 특별법",
   "payload_law_id": "012502",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "8f686648df60caec"
  },
  "law:eflaw:012504": {
