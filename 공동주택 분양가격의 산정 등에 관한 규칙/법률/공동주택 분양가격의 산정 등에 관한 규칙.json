@@ -4084,10 +4084,27 @@
             "reference_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
-            "target_git_path": "시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+            "target_git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
+                "is_current": true,
+                "enforcement_date": "20260715"
+              },
+              {
+                "git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -4114,8 +4131,25 @@
             "reference_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
-            "target_git_path": "시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가/시·군·구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
+                "is_current": true,
+                "enforcement_date": "20260715"
+              },
+              {
+                "git_path": "시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가/시ㆍ군ㆍ구별 기본형건축비 산정을 위한 주요자재별 기준단가.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:시군구별기본형건축비산정을위한주요자재별기준단가#DOC",
+                "is_current": true,
+                "enforcement_date": "20260915"
+              }
+            ]
           }
         ],
         "revision_type": "타법개정",

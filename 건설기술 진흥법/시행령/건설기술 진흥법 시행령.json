@@ -22069,7 +22069,23 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00)/설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00).json",
             "target_git_path": "설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00)/설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00).json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "설비(전기) 설계기준(KDS 32 00 00) 및 설비(전기) 표준시방서(KCS 32 00 00)/설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00)/설비(전기) 설계기준(KDS 31 00 00) 및 설비(전기) 표준시방서(KCS 31 00 00).json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:설비(전기)설계기준(KDS310000)및설비(전기)표준시방서(KCS310000):설비(전기)설계기준(KDS310000)및설비(전기)표준시방서(KCS310000)#DOC",
+                "is_current": true,
+                "enforcement_date": "20260301"
+              },
+              {
+                "git_path": "설비(전기) 설계기준(KDS 32 00 00) 및 설비(전기) 표준시방서(KCS 32 00 00)/설비(전기) 설계기준(KDS 32 00 00) 및 설비(전기) 표준시방서(KCS 32 00 00).json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:설비(전기)설계기준(KDS320000)및설비(전기)표준시방서(KCS320000)#DOC",
+                "is_current": true,
+                "enforcement_date": "20260301"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
