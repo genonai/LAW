@@ -19386,6 +19386,19 @@
       "source_version_uid": "005370:280767:20260701",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260818",
+      "promulgation_no": "36586",
+      "addendum_key": "2026081836586",
+      "content": "부칙(재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령) <제36586호,2026.8.18>\n제1조(시행일) 이 영은 2026년 9월 18일부터 시행한다.\n제2조부터 제7조까지 생략\n제8조(다른 법령의 개정) ①부터 <19>까지 생략\n<20> 하천법 시행령 일부를 다음과 같이 개정한다.\n별표 3의2 제4호 중 \"「신에너지 및 재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령」\"을 \"「재생에너지 개발ㆍ이용ㆍ보급 촉진법 시행령」\"으로 한다.\n<21>부터 <24>까지 생략\n제9조 생략",
+      "provision_id": "law:하천법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "288833",
+      "source_version_uid": "005370:288833:20260918",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20260918",
+      "enforcement_date": "20260918"
     }
   ],
   "appendices": [
@@ -19945,8 +19958,10 @@
   "provision_id": "law:하천법시행령#DOC",
   "addendum_provision_id": "law:하천법시행령#ADDENDUM",
   "amendment_provision_id": "law:하천법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20260918"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "하천법/시행령/하천법 시행령.json"
 }
