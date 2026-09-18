@@ -384,7 +384,11 @@
             "source_provision_id": "law:기술보증기금법시행령#JO0022",
             "reference_id": "SchlPubRul:기술보증기금정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -410,7 +414,9 @@
             "source_provision_id": "law:기술보증기금법시행령#JO0022",
             "reference_id": "SchlPubRul:기술보증기금정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json"
+            "target_git_path_guess": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_git_path": "기술보증기금 정관/기술보증기금 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2012.6.22]",
@@ -1328,5 +1334,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "기술보증기금법/시행령/기술보증기금법 시행령.json"
+  "git_path": "기술보증기금법/시행령/기술보증기금법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

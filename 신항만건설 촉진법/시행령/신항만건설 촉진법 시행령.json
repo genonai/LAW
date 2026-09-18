@@ -262,7 +262,11 @@
             "source_provision_id": "law:신항만건설촉진법시행령#JO0011",
             "reference_id": "admrul:신항만건설일괄협의회운영세칙#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "신항만건설일괄협의회 운영세칙/신항만건설일괄협의회 운영세칙.json"
+            "target_git_path_guess": "신항만건설일괄협의회 운영세칙/신항만건설일괄협의회 운영세칙.json",
+            "target_git_path": "신항만건설일괄협의회 운영세칙/신항만건설일괄협의회 운영세칙.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1243,5 +1247,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "신항만건설 촉진법/시행령/신항만건설 촉진법 시행령.json"
+  "git_path": "신항만건설 촉진법/시행령/신항만건설 촉진법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

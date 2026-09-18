@@ -148,7 +148,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행령#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -167,7 +169,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -186,7 +190,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -205,7 +211,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -224,7 +232,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -243,7 +253,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행규칙#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -262,7 +274,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행규칙#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -281,7 +295,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행규칙#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -300,7 +316,9 @@
             "source_provision_id": "law:수도법#JO0003",
             "reference_id": "law:수도법시행규칙#JO0001_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -334,7 +352,11 @@
             "source_provision_id": "law:수도법#JO0004",
             "reference_id": "admrul:국가수도기본계획부분변경#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가수도기본계획 부분변경/국가수도기본계획 부분변경.json"
+            "target_git_path_guess": "국가수도기본계획 부분변경/국가수도기본계획 부분변경.json",
+            "target_git_path": "국가수도기본계획 부분변경/국가수도기본계획 부분변경.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -389,7 +411,9 @@
             "source_provision_id": "law:수도법#JO0005",
             "reference_id": "law:수도법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -408,7 +432,9 @@
             "source_provision_id": "law:수도법#JO0005",
             "reference_id": "law:수도법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -427,7 +453,9 @@
             "source_provision_id": "law:수도법#JO0005",
             "reference_id": "law:수도법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2022.1.11][제4조에서 이동, 종전 제5조는 제4조로 이동 <2022.1.11>]",
@@ -462,7 +490,9 @@
             "source_provision_id": "law:수도법#JO0005_02",
             "reference_id": "law:수도법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -481,7 +511,9 @@
             "source_provision_id": "law:수도법#JO0005_02",
             "reference_id": "law:수도법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.10.22]",
@@ -516,7 +548,9 @@
             "source_provision_id": "law:수도법#JO0006",
             "reference_id": "law:수도법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -550,7 +584,9 @@
             "source_provision_id": "law:수도법#JO0007",
             "reference_id": "law:수도법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -569,7 +605,9 @@
             "source_provision_id": "law:수도법#JO0007",
             "reference_id": "law:수도법시행령#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -588,7 +626,9 @@
             "source_provision_id": "law:수도법#JO0007",
             "reference_id": "law:수도법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -607,7 +647,9 @@
             "source_provision_id": "law:수도법#JO0007",
             "reference_id": "law:수도법시행령#JO0011_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -626,7 +668,9 @@
             "source_provision_id": "law:수도법#JO0007",
             "reference_id": "law:수도법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -660,7 +704,9 @@
             "source_provision_id": "law:수도법#JO0007_02",
             "reference_id": "law:수도법시행령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -679,7 +725,9 @@
             "source_provision_id": "law:수도법#JO0007_02",
             "reference_id": "law:수도법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -698,7 +746,9 @@
             "source_provision_id": "law:수도법#JO0007_02",
             "reference_id": "law:수도법시행규칙#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -717,7 +767,9 @@
             "source_provision_id": "law:수도법#JO0007_02",
             "reference_id": "law:수도법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2010.5.25]",
@@ -752,7 +804,9 @@
             "source_provision_id": "law:수도법#JO0007_03",
             "reference_id": "law:수도법시행규칙#JO0003_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2014.3.24]",
@@ -787,7 +841,9 @@
             "source_provision_id": "law:수도법#JO0008",
             "reference_id": "law:수도법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -806,7 +862,9 @@
             "source_provision_id": "law:수도법#JO0008",
             "reference_id": "law:상수원관리규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "상수원관리규칙/법률/상수원관리규칙.json"
+            "target_git_path_guess": "상수원관리규칙/법률/상수원관리규칙.json",
+            "target_git_path": "상수원관리규칙/법률/상수원관리규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -855,7 +913,9 @@
             "source_provision_id": "law:수도법#JO0009",
             "reference_id": "law:수도법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -874,7 +934,9 @@
             "source_provision_id": "law:수도법#JO0009",
             "reference_id": "law:수도법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -893,7 +955,9 @@
             "source_provision_id": "law:수도법#JO0009",
             "reference_id": "law:수도법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -927,7 +991,9 @@
             "source_provision_id": "law:수도법#JO0010",
             "reference_id": "law:수도법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -946,7 +1012,9 @@
             "source_provision_id": "law:수도법#JO0010",
             "reference_id": "law:수도법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -980,7 +1048,9 @@
             "source_provision_id": "law:수도법#JO0011",
             "reference_id": "law:수도법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -999,7 +1069,9 @@
             "source_provision_id": "law:수도법#JO0011",
             "reference_id": "law:수도법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1047,7 +1119,9 @@
             "source_provision_id": "law:수도법#JO0012_02",
             "reference_id": "law:수도법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.1.23]",
@@ -1096,7 +1170,9 @@
             "source_provision_id": "law:수도법#JO0014",
             "reference_id": "law:수도법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1115,7 +1191,9 @@
             "source_provision_id": "law:수도법#JO0014",
             "reference_id": "law:수도용자재와제품의위생안전기준인증등에관한규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json"
+            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_git_path": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1134,7 +1212,9 @@
             "source_provision_id": "law:수도법#JO0014",
             "reference_id": "law:수도법시행령#JO0024_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1153,7 +1233,9 @@
             "source_provision_id": "law:수도법#JO0014",
             "reference_id": "law:수도용자재와제품의위생안전기준인증등에관한규칙#JO0011_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json"
+            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_git_path": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1172,7 +1254,9 @@
             "source_provision_id": "law:수도법#JO0014",
             "reference_id": "law:수도용자재와제품의위생안전기준인증등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json"
+            "target_git_path_guess": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_git_path": "수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙/법률/수도용 자재와 제품의 위생안전기준 인증 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.5.25]",
@@ -1207,7 +1291,9 @@
             "source_provision_id": "law:수도법#JO0014_02",
             "reference_id": "law:수도법시행규칙#JO0003_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2010.5.25]",
@@ -1242,7 +1328,9 @@
             "source_provision_id": "law:수도법#JO0014_03",
             "reference_id": "law:수도법시행규칙#JO0003_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1261,7 +1349,9 @@
             "source_provision_id": "law:수도법#JO0014_03",
             "reference_id": "law:수도법시행령#JO0024_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1280,7 +1370,9 @@
             "source_provision_id": "law:수도법#JO0014_03",
             "reference_id": "law:수도법시행령#JO0024_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1299,7 +1391,9 @@
             "source_provision_id": "law:수도법#JO0014_03",
             "reference_id": "law:수도법시행령#JO0024_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1318,7 +1412,9 @@
             "source_provision_id": "law:수도법#JO0014_03",
             "reference_id": "law:수도법시행규칙#JO0003_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.26][종전 제14조의3은 제14조의5로 이동 <2019.11.26>]",
@@ -1353,7 +1449,9 @@
             "source_provision_id": "law:수도법#JO0014_04",
             "reference_id": "law:수도법시행규칙#JO0003_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.26][종전 제14조의4는 제14조의6으로 이동 <2019.11.26>]",
@@ -1388,7 +1486,9 @@
             "source_provision_id": "law:수도법#JO0014_05",
             "reference_id": "law:수도법시행령#JO0024_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1407,7 +1507,9 @@
             "source_provision_id": "law:수도법#JO0014_05",
             "reference_id": "law:수도법시행령#JO0024_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1426,7 +1528,9 @@
             "source_provision_id": "law:수도법#JO0014_05",
             "reference_id": "law:수도법시행령#JO0024_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1445,7 +1549,9 @@
             "source_provision_id": "law:수도법#JO0014_05",
             "reference_id": "law:수도법시행령#JO0024_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2016.1.27][제14조의3에서 이동, 종전 제14조의5는 제14조의7로 이동 <2019.11.26>]",
@@ -1480,7 +1586,9 @@
             "source_provision_id": "law:수도법#JO0014_06",
             "reference_id": "law:수도법시행령#JO0024_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1499,7 +1607,9 @@
             "source_provision_id": "law:수도법#JO0014_06",
             "reference_id": "law:수도법시행령#JO0024_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1518,7 +1628,9 @@
             "source_provision_id": "law:수도법#JO0014_06",
             "reference_id": "law:수도법시행령#JO0024_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1537,7 +1649,9 @@
             "source_provision_id": "law:수도법#JO0014_06",
             "reference_id": "law:수도법시행령#JO0024_08",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1556,7 +1670,9 @@
             "source_provision_id": "law:수도법#JO0014_06",
             "reference_id": "law:수도법시행령#JO0024_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2016.1.27][제14조의4에서 이동, 종전 제14조의6은 제14조의8로 이동 <2019.11.26>]",
@@ -1606,7 +1722,9 @@
             "source_provision_id": "law:수도법#JO0014_08",
             "reference_id": "law:수도법시행령#JO0024_11",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.12.12][제14조의6에서 이동 <2019.11.26>]",
@@ -1641,7 +1759,9 @@
             "source_provision_id": "law:수도법#JO0015",
             "reference_id": "law:수도법시행규칙#JO0003_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1675,7 +1795,9 @@
             "source_provision_id": "law:수도법#JO0015_02",
             "reference_id": "law:수도법시행령#JO0025_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1694,7 +1816,9 @@
             "source_provision_id": "law:수도법#JO0015_02",
             "reference_id": "law:수도법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2013.12.30]",
@@ -1729,7 +1853,9 @@
             "source_provision_id": "law:수도법#JO0015_03",
             "reference_id": "law:수도법시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2013.12.30]",
@@ -1779,7 +1905,9 @@
             "source_provision_id": "law:수도법#JO0016",
             "reference_id": "law:수도법시행령#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.7.28]",
@@ -1814,7 +1942,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:공업용수도사업인가고시(함안군북일반산업단지용수공급시설)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json"
+            "target_git_path_guess": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json",
+            "target_git_path": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1833,7 +1965,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:부산광역시일반수도사업(덕산정수장)변경인가#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json"
+            "target_git_path_guess": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json",
+            "target_git_path": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1852,7 +1988,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:수도사업변경인가(칠서정수장도수관로복선화사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json"
+            "target_git_path_guess": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json",
+            "target_git_path": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1871,7 +2011,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:아산시일반수도사업인가정정(추가)고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json"
+            "target_git_path_guess": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json",
+            "target_git_path": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1890,7 +2034,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업변경인가(도남정수장확장사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json"
+            "target_git_path_guess": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json",
+            "target_git_path": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1909,7 +2057,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(김해시노후상수도정비사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json",
+            "target_git_path": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1928,7 +2080,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(김해시삼계~덕산정수장권역간비상공급망구축사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json",
+            "target_git_path": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1947,7 +2103,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(포항융합기술산업지구)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json",
+            "target_git_path": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1966,7 +2126,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(교동취수장이설공사)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json"
+            "target_git_path_guess": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json",
+            "target_git_path": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1985,7 +2149,11 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(거창배수지)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2004,7 +2172,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "law:수도법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2023,7 +2193,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "law:수도법시행령#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2044,7 +2216,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:아산시일반수도사업인가정정(추가)고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json"
+            "target_git_path_guess": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json",
+            "target_git_path": "아산시 일반수도사업 인가 정정(추가) 고시/아산시 일반수도사업 인가 정정(추가) 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2065,7 +2239,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업변경인가(도남정수장확장사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json"
+            "target_git_path_guess": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json",
+            "target_git_path": "일반수도사업 변경인가(도남정수장 확장사업)/일반수도사업 변경인가(도남정수장 확장사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2091,7 +2267,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(김해시노후상수도정비사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json",
+            "target_git_path": "일반수도사업 인가 고시(김해시 노후상수도 정비사업)/일반수도사업 인가 고시(김해시 노후상수도 정비사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2112,7 +2290,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(김해시삼계~덕산정수장권역간비상공급망구축사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json",
+            "target_git_path": "일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업)/일반수도사업 인가 고시(김해시 삼계~덕산정수장 권역간 비상공급망 구축사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2133,7 +2313,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가고시(포항융합기술산업지구)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json"
+            "target_git_path_guess": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json",
+            "target_git_path": "일반수도사업 인가 고시(포항융합기술산업지구)/일반수도사업 인가 고시(포항융합기술산업지구).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2154,7 +2336,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:부산광역시일반수도사업(덕산정수장)변경인가#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json"
+            "target_git_path_guess": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json",
+            "target_git_path": "부산광역시 일반수도사업(덕산정수장) 변경인가/부산광역시 일반수도사업(덕산정수장) 변경인가.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2175,7 +2359,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:공업용수도사업인가고시(함안군북일반산업단지용수공급시설)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json"
+            "target_git_path_guess": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json",
+            "target_git_path": "공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설)/공업용수도사업인가 고시(함안군북일반산업단지 용수공급시설).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2196,7 +2382,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(교동취수장이설공사)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json"
+            "target_git_path_guess": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json",
+            "target_git_path": "일반수도사업 인가(교동취수장 이설공사)/일반수도사업 인가(교동취수장 이설공사).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2217,7 +2405,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:수도사업변경인가(칠서정수장도수관로복선화사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json"
+            "target_git_path_guess": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json",
+            "target_git_path": "수도사업변경인가(칠서정수장 도수관로 복선화사업)/수도사업변경인가(칠서정수장 도수관로 복선화사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2238,7 +2428,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(거창배수지)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(거창배수지)/일반수도사업 인가(변경) 고시(거창배수지).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2259,7 +2451,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:합천군일반수도사업인가(변경)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "합천군 일반수도사업 인가(변경)/합천군 일반수도사업 인가(변경).json"
+            "target_git_path_guess": "합천군 일반수도사업 인가(변경)/합천군 일반수도사업 인가(변경).json",
+            "target_git_path": "합천군 일반수도사업 인가(변경)/합천군 일반수도사업 인가(변경).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2280,7 +2474,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업(매곡정수장)변경인가#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업(매곡정수장) 변경인가/일반수도사업(매곡정수장) 변경인가.json"
+            "target_git_path_guess": "일반수도사업(매곡정수장) 변경인가/일반수도사업(매곡정수장) 변경인가.json",
+            "target_git_path": "일반수도사업(매곡정수장) 변경인가/일반수도사업(매곡정수장) 변경인가.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2301,7 +2497,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(창원시칠서~석동정수장비상연계공급망구축사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업).json"
+            "target_git_path_guess": "일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업).json",
+            "target_git_path": "일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~석동정수장 비상연계 공급망 구축사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2322,7 +2520,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(김해시명동정수장증설)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(김해시 명동정수장 증설)/일반수도사업 인가(변경) 고시(김해시 명동정수장 증설).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(김해시 명동정수장 증설)/일반수도사업 인가(변경) 고시(김해시 명동정수장 증설).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(김해시 명동정수장 증설)/일반수도사업 인가(변경) 고시(김해시 명동정수장 증설).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2343,7 +2543,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(창원시칠서~대산정수장비상연계공급망구축사업)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업).json"
+            "target_git_path_guess": "일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업).json",
+            "target_git_path": "일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업)/일반수도사업 인가(창원시 칠서~대산정수장 비상연계 공급망 구축사업).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2384,7 +2586,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(진주시노후정수장)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(진주시 노후정수장)/일반수도사업 인가(변경) 고시(진주시 노후정수장).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(진주시 노후정수장)/일반수도사업 인가(변경) 고시(진주시 노후정수장).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(진주시 노후정수장)/일반수도사업 인가(변경) 고시(진주시 노후정수장).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2405,7 +2609,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(양산시신도시정수장)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(양산시 신도시정수장)/일반수도사업 인가(변경) 고시(양산시 신도시정수장).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(양산시 신도시정수장)/일반수도사업 인가(변경) 고시(양산시 신도시정수장).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(양산시 신도시정수장)/일반수도사업 인가(변경) 고시(양산시 신도시정수장).json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2426,7 +2632,9 @@
             "source_provision_id": "law:수도법#JO0017",
             "reference_id": "admrul:일반수도사업인가(변경)고시(양산시범어정수장)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 인가(변경) 고시(양산시 범어정수장)/일반수도사업 인가(변경) 고시(양산시 범어정수장).json"
+            "target_git_path_guess": "일반수도사업 인가(변경) 고시(양산시 범어정수장)/일반수도사업 인가(변경) 고시(양산시 범어정수장).json",
+            "target_git_path": "일반수도사업 인가(변경) 고시(양산시 범어정수장)/일반수도사업 인가(변경) 고시(양산시 범어정수장).json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -2460,7 +2668,9 @@
             "source_provision_id": "law:수도법#JO0018",
             "reference_id": "law:수도법시행령#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2479,7 +2689,9 @@
             "source_provision_id": "law:수도법#JO0018",
             "reference_id": "law:수도법시행규칙#JO0009_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2513,7 +2725,9 @@
             "source_provision_id": "law:수도법#JO0019",
             "reference_id": "law:수도법시행령#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2561,7 +2775,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행령#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2580,7 +2796,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행규칙#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2599,7 +2817,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2618,7 +2838,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행령#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2637,7 +2859,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행령#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2656,7 +2880,9 @@
             "source_provision_id": "law:수도법#JO0021",
             "reference_id": "law:수도법시행령#JO0034_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2691,7 +2917,9 @@
             "source_provision_id": "law:수도법#JO0021_02",
             "reference_id": "law:수도법시행령#JO0034_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.26][제목개정 2020.3.31]",
@@ -2726,7 +2954,9 @@
             "source_provision_id": "law:수도법#JO0021_03",
             "reference_id": "law:수도법시행규칙#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -2761,7 +2991,9 @@
             "source_provision_id": "law:수도법#JO0021_04",
             "reference_id": "law:수도법시행령#JO0034_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2780,7 +3012,9 @@
             "source_provision_id": "law:수도법#JO0021_04",
             "reference_id": "law:수도법시행규칙#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2799,7 +3033,9 @@
             "source_provision_id": "law:수도법#JO0021_04",
             "reference_id": "law:수도법시행령#JO0034_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2818,7 +3054,9 @@
             "source_provision_id": "law:수도법#JO0021_04",
             "reference_id": "law:수도법시행규칙#JO0012_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -2853,7 +3091,9 @@
             "source_provision_id": "law:수도법#JO0021_05",
             "reference_id": "law:수도법시행규칙#JO0012_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -2902,7 +3142,9 @@
             "source_provision_id": "law:수도법#JO0023",
             "reference_id": "law:수도법시행령#JO0035",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2921,7 +3163,9 @@
             "source_provision_id": "law:수도법#JO0023",
             "reference_id": "law:수도법시행령#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2940,7 +3184,9 @@
             "source_provision_id": "law:수도법#JO0023",
             "reference_id": "law:수도법시행령#JO0037",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2959,7 +3205,9 @@
             "source_provision_id": "law:수도법#JO0023",
             "reference_id": "law:수도법시행규칙#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -2993,7 +3241,11 @@
             "source_provision_id": "law:수도법#JO0023_02",
             "reference_id": "admrul:일반수도사업및공공하수도운영관리실태점검기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json"
+            "target_git_path_guess": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json",
+            "target_git_path": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3019,7 +3271,9 @@
             "source_provision_id": "law:수도법#JO0023_02",
             "reference_id": "admrul:일반수도사업및공공하수도운영관리실태점검기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json"
+            "target_git_path_guess": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json",
+            "target_git_path": "일반수도사업 및 공공하수도 운영·관리 실태점검 기준/일반수도사업 및 공공하수도 운영·관리 실태점검 기준.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2011.11.14]",
@@ -3054,7 +3308,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3073,7 +3329,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0041",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3092,7 +3350,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0042",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3111,7 +3371,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0043",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3130,7 +3392,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0043_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3149,7 +3413,9 @@
             "source_provision_id": "law:수도법#JO0024",
             "reference_id": "law:수도법시행령#JO0043_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.8.16]",
@@ -3199,7 +3465,9 @@
             "source_provision_id": "law:수도법#JO0025",
             "reference_id": "law:수도법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3233,7 +3501,9 @@
             "source_provision_id": "law:수도법#JO0025_02",
             "reference_id": "law:수도법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3252,7 +3522,9 @@
             "source_provision_id": "law:수도법#JO0025_02",
             "reference_id": "law:수도법시행규칙#JO0017_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3271,7 +3543,9 @@
             "source_provision_id": "law:수도법#JO0025_02",
             "reference_id": "law:수도법시행령#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -3306,7 +3580,9 @@
             "source_provision_id": "law:수도법#JO0025_03",
             "reference_id": "law:수도법시행규칙#JO0017_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -3341,7 +3617,11 @@
             "source_provision_id": "law:수도법#JO0026",
             "reference_id": "admrul:먹는물수질감시항목운영등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json"
+            "target_git_path_guess": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json",
+            "target_git_path": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3360,7 +3640,9 @@
             "source_provision_id": "law:수도법#JO0026",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3386,7 +3668,9 @@
             "source_provision_id": "law:수도법#JO0026",
             "reference_id": "admrul:먹는물수질감시항목운영등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json"
+            "target_git_path_guess": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json",
+            "target_git_path": "먹는물 수질감시항목 운영 등에 관한 고시/먹는물 수질감시항목 운영 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -3420,7 +3704,9 @@
             "source_provision_id": "law:수도법#JO0026_02",
             "reference_id": "law:수도법시행규칙#JO0017_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3439,7 +3725,9 @@
             "source_provision_id": "law:수도법#JO0026_02",
             "reference_id": "law:수도법시행규칙#JO0017_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3458,7 +3746,9 @@
             "source_provision_id": "law:수도법#JO0026_02",
             "reference_id": "law:수도법시행령#JO0046_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.26]",
@@ -3493,7 +3783,9 @@
             "source_provision_id": "law:수도법#JO0027",
             "reference_id": "law:수도법시행령#JO0047",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3512,7 +3804,9 @@
             "source_provision_id": "law:수도법#JO0027",
             "reference_id": "law:수도법시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2011.11.14]",
@@ -3547,7 +3841,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3566,7 +3862,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3585,7 +3883,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3604,7 +3904,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3623,7 +3925,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3642,7 +3946,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3661,7 +3967,9 @@
             "source_provision_id": "law:수도법#JO0028",
             "reference_id": "law:수도법시행규칙#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3695,7 +4003,9 @@
             "source_provision_id": "law:수도법#JO0028_02",
             "reference_id": "law:수도법시행규칙#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.11.14]",
@@ -3730,7 +4040,9 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3749,7 +4061,9 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3768,7 +4082,8 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "delegation",
@@ -3787,7 +4102,8 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "delegation",
@@ -3806,7 +4122,8 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "delegation",
@@ -3825,7 +4142,9 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:수도법시행령#JO0049",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3844,7 +4163,9 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3863,7 +4184,8 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_missing_unit": true
           },
           {
             "relation_type": "delegation",
@@ -3882,7 +4204,8 @@
             "source_provision_id": "law:수도법#JO0029",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_missing_unit": true
           }
         ],
         "revision_type": "타법개정",
@@ -3916,7 +4239,9 @@
             "source_provision_id": "law:수도법#JO0029_02",
             "reference_id": "law:수도법시행령#JO0049_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -3951,7 +4276,9 @@
             "source_provision_id": "law:수도법#JO0030",
             "reference_id": "law:수도법시행령#JO0049_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -3985,7 +4312,9 @@
             "source_provision_id": "law:수도법#JO0031",
             "reference_id": "law:수도법시행규칙#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4019,7 +4348,9 @@
             "source_provision_id": "law:수도법#JO0032",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4053,7 +4384,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4072,7 +4405,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행령#JO0050",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4091,7 +4426,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4110,7 +4447,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0022_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4129,7 +4468,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0022_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4148,7 +4489,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0022_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4167,7 +4510,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0022_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4186,7 +4531,9 @@
             "source_provision_id": "law:수도법#JO0033",
             "reference_id": "law:수도법시행규칙#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2024.1.16]",
@@ -4221,7 +4568,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4240,7 +4589,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4259,7 +4610,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4278,7 +4631,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4297,7 +4652,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4316,7 +4673,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4335,7 +4694,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4354,7 +4715,9 @@
             "source_provision_id": "law:수도법#JO0033_02",
             "reference_id": "law:수도법시행규칙#JO0023_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2024.1.23]",
@@ -4389,7 +4752,11 @@
             "source_provision_id": "law:수도법#JO0033_03",
             "reference_id": "admrul:정수장의위생안전인증세부운영기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json"
+            "target_git_path_guess": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json",
+            "target_git_path": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4415,7 +4782,9 @@
             "source_provision_id": "law:수도법#JO0033_03",
             "reference_id": "admrul:정수장의위생안전인증세부운영기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json"
+            "target_git_path_guess": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json",
+            "target_git_path": "정수장의 위생안전 인증 세부 운영기준/정수장의 위생안전 인증 세부 운영기준.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2024.1.23]",
@@ -4450,7 +4819,9 @@
             "source_provision_id": "law:수도법#JO0034",
             "reference_id": "law:수도법시행규칙#JO0023_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4469,7 +4840,9 @@
             "source_provision_id": "law:수도법#JO0034",
             "reference_id": "law:수도법시행규칙#JO0023_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4503,7 +4876,9 @@
             "source_provision_id": "law:수도법#JO0035",
             "reference_id": "law:수도법시행규칙#JO0023_07",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4537,7 +4912,9 @@
             "source_provision_id": "law:수도법#JO0036",
             "reference_id": "law:수도법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4556,7 +4933,9 @@
             "source_provision_id": "law:수도법#JO0036",
             "reference_id": "law:수도법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4575,7 +4954,9 @@
             "source_provision_id": "law:수도법#JO0036",
             "reference_id": "law:수도법시행령#JO0052",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4623,7 +5004,11 @@
             "source_provision_id": "law:수도법#JO0038",
             "reference_id": "SchlPubRul:(한국수자원공사)수돗물공급규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수자원공사) 수돗물공급규정/(한국수자원공사) 수돗물공급규정.json"
+            "target_git_path_guess": "(한국수자원공사) 수돗물공급규정/(한국수자원공사) 수돗물공급규정.json",
+            "target_git_path": "(한국수자원공사) 수돗물공급규정/(한국수자원공사) 수돗물공급규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -4642,7 +5027,9 @@
             "source_provision_id": "law:수도법#JO0038",
             "reference_id": "law:수도법시행령#JO0053",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4681,7 +5068,9 @@
             "source_provision_id": "law:수도법#JO0038",
             "reference_id": "law:수도법시행규칙#JO0025_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4700,7 +5089,9 @@
             "source_provision_id": "law:수도법#JO0038",
             "reference_id": "law:수도법시행령#JO0053_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4719,7 +5110,9 @@
             "source_provision_id": "law:수도법#JO0038",
             "reference_id": "law:수도법시행령#JO0053_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4753,7 +5146,9 @@
             "source_provision_id": "law:수도법#JO0039",
             "reference_id": "law:수도법시행령#JO0053_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4801,7 +5196,9 @@
             "source_provision_id": "law:수도법#JO0041",
             "reference_id": "law:수도법시행령#JO0054",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4849,7 +5246,9 @@
             "source_provision_id": "law:수도법#JO0043",
             "reference_id": "law:수도법시행령#JO0056",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4926,7 +5325,9 @@
             "source_provision_id": "law:수도법#JO0047",
             "reference_id": "law:수도법시행규칙#JO0025_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -4974,7 +5375,9 @@
             "source_provision_id": "law:수도법#JO0049",
             "reference_id": "law:수도법시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -4993,7 +5396,9 @@
             "source_provision_id": "law:수도법#JO0049",
             "reference_id": "law:수도법시행령#JO0055",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.7.28]",
@@ -5057,7 +5462,9 @@
             "source_provision_id": "law:수도법#JO0051",
             "reference_id": "law:수도법시행령#JO0057",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5091,7 +5498,9 @@
             "source_provision_id": "law:수도법#JO0052",
             "reference_id": "law:수도법시행령#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5110,7 +5519,9 @@
             "source_provision_id": "law:수도법#JO0052",
             "reference_id": "law:수도법시행령#JO0058_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5129,7 +5540,9 @@
             "source_provision_id": "law:수도법#JO0052",
             "reference_id": "law:수도법시행령#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5191,7 +5604,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5210,7 +5625,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5229,7 +5646,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5248,7 +5667,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5267,7 +5688,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5286,7 +5709,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5305,7 +5730,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:먹는물수질기준및검사등에관한규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json"
+            "target_git_path_guess": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_git_path": "먹는물 수질기준 및 검사 등에 관한 규칙/법률/먹는물 수질기준 및 검사 등에 관한 규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5324,7 +5751,9 @@
             "source_provision_id": "law:수도법#JO0055",
             "reference_id": "law:수도법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5387,7 +5816,11 @@
             "source_provision_id": "law:수도법#JO0057",
             "reference_id": "SchlPubRul:한국상하수도협회정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json"
+            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_git_path": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -5406,7 +5839,9 @@
             "source_provision_id": "law:수도법#JO0057",
             "reference_id": "law:수도법시행령#JO0060",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5427,7 +5862,9 @@
             "source_provision_id": "law:수도법#JO0057",
             "reference_id": "SchlPubRul:한국상하수도협회정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json"
+            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_git_path": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -5453,7 +5890,9 @@
             "source_provision_id": "law:수도법#JO0057",
             "reference_id": "SchlPubRul:한국상하수도협회정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json"
+            "target_git_path_guess": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_git_path": "한국상하수도협회 정관/한국상하수도협회 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -5529,7 +5968,9 @@
             "source_provision_id": "law:수도법#JO0060_02",
             "reference_id": "law:수도법시행령#JO0061_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.12.12]",
@@ -5564,7 +6005,9 @@
             "source_provision_id": "law:수도법#JO0060_03",
             "reference_id": "law:도시철도법등에의한구분지상권등기규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "도시철도법 등에 의한 구분지상권 등기규칙/법률/도시철도법 등에 의한 구분지상권 등기규칙.json"
+            "target_git_path_guess": "도시철도법 등에 의한 구분지상권 등기규칙/법률/도시철도법 등에 의한 구분지상권 등기규칙.json",
+            "target_git_path": "도시철도법 등에 의한 구분지상권 등기규칙/법률/도시철도법 등에 의한 구분지상권 등기규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.12.12]",
@@ -5698,7 +6141,9 @@
             "source_provision_id": "law:수도법#JO0068",
             "reference_id": "law:수도법시행령#JO0063",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5732,7 +6177,9 @@
             "source_provision_id": "law:수도법#JO0069",
             "reference_id": "law:수도법시행령#JO0064",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5780,7 +6227,9 @@
             "source_provision_id": "law:수도법#JO0071",
             "reference_id": "law:수도법시행령#JO0065",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5843,7 +6292,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0027",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5862,7 +6313,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5881,7 +6334,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0029",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5900,7 +6355,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0030",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5919,7 +6376,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5938,7 +6397,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행규칙#JO0031_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5957,7 +6418,9 @@
             "source_provision_id": "law:수도법#JO0074",
             "reference_id": "law:수도법시행령#JO0065_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -5991,7 +6454,9 @@
             "source_provision_id": "law:수도법#JO0074_02",
             "reference_id": "law:수도법시행규칙#JO0031_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json"
+            "target_git_path_guess": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_git_path": "수도법/시행규칙/수도법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2019.11.26][종전 제74조의2는 제74조의3으로 이동 <2019.11.26>]",
@@ -6026,7 +6491,11 @@
             "source_provision_id": "law:수도법#JO0074_03",
             "reference_id": "admrul:국가수도정보센터의구축및운영등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json"
+            "target_git_path_guess": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json",
+            "target_git_path": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6052,7 +6521,9 @@
             "source_provision_id": "law:수도법#JO0074_03",
             "reference_id": "admrul:국가수도정보센터의구축및운영등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json"
+            "target_git_path_guess": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json",
+            "target_git_path": "국가수도정보센터의 구축 및 운영 등에 관한 규정/국가수도정보센터의 구축 및 운영 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.12.30][제74조의2에서 이동 <2019.11.26>]",
@@ -6087,7 +6558,11 @@
             "source_provision_id": "law:수도법#JO0074_04",
             "reference_id": "admrul:유역수도지원센터의설립및운영등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json"
+            "target_git_path_guess": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json",
+            "target_git_path": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6113,7 +6588,9 @@
             "source_provision_id": "law:수도법#JO0074_04",
             "reference_id": "admrul:유역수도지원센터의설립및운영등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json"
+            "target_git_path_guess": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json",
+            "target_git_path": "유역수도지원센터의 설립 및 운영 등에 관한 규정/유역수도지원센터의 설립 및 운영 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2020.3.31]",
@@ -6148,7 +6625,9 @@
             "source_provision_id": "law:수도법#JO0075",
             "reference_id": "law:수도법시행령#JO0066",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6225,7 +6704,9 @@
             "source_provision_id": "law:수도법#JO0078",
             "reference_id": "law:수도법시행령#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -6244,7 +6725,9 @@
             "source_provision_id": "law:수도법#JO0078",
             "reference_id": "law:수도법시행령#JO0067",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -6391,7 +6874,9 @@
             "source_provision_id": "law:수도법#JO0087",
             "reference_id": "law:수도법시행령#JO0069",
             "target_repo": "LAW",
-            "target_git_path_guess": "수도법/시행령/수도법 시행령.json"
+            "target_git_path_guess": "수도법/시행령/수도법 시행령.json",
+            "target_git_path": "수도법/시행령/수도법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -12009,5 +12494,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "수도법/법률/수도법.json"
+  "git_path": "수도법/법률/수도법.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -151,7 +151,11 @@
             "source_provision_id": "law:에너지및자원사업특별회계법시행령#JO0006",
             "reference_id": "admrul:해외자원개발사업자금융자기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json"
+            "target_git_path_guess": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json",
+            "target_git_path": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -177,7 +181,9 @@
             "source_provision_id": "law:에너지및자원사업특별회계법시행령#JO0006",
             "reference_id": "admrul:해외자원개발사업자금융자기준#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json"
+            "target_git_path_guess": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json",
+            "target_git_path": "해외자원개발사업자금 융자기준/해외자원개발사업자금 융자기준.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -730,5 +736,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "에너지 및 자원사업 특별회계법/시행령/에너지 및 자원사업 특별회계법 시행령.json"
+  "git_path": "에너지 및 자원사업 특별회계법/시행령/에너지 및 자원사업 특별회계법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

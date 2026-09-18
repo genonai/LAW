@@ -115,7 +115,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0001_02",
             "reference_id": "admrul:산업시설용지입주허용시설고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json"
+            "target_git_path_guess": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json",
+            "target_git_path": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -141,7 +145,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0001_02",
             "reference_id": "admrul:산업시설용지입주허용시설고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json"
+            "target_git_path_guess": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json",
+            "target_git_path": "산업시설용지 입주허용 시설 고시/산업시설용지 입주허용 시설 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2012.11.20]",
@@ -364,7 +370,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0003",
             "reference_id": "admrul:농공단지의개발및운영에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농공단지의 개발 및 운영에 관한 통합지침/농공단지의 개발 및 운영에 관한 통합지침.json"
+            "target_git_path_guess": "농공단지의 개발 및 운영에 관한 통합지침/농공단지의 개발 및 운영에 관한 통합지침.json",
+            "target_git_path": "농공단지의 개발 및 운영에 관한 통합지침/농공단지의 개발 및 운영에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -526,7 +534,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0007",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -552,7 +564,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0007",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 1993.11.6][제목개정 2007.10.4]",
@@ -796,7 +810,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0014",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2006.6.7]",
@@ -933,7 +949,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0019",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -1012,7 +1030,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0021",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2007.10.4]",
@@ -1121,7 +1141,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0024",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 1996.6.29]",
@@ -1229,7 +1251,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0027",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1255,7 +1281,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0027",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2008.9.25]",
@@ -1305,7 +1333,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0027_03",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1331,7 +1363,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0027_03",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2017.6.20][종전 제27조의3은 제27조의4로 이동 <2017.6.20>]",
@@ -1513,7 +1547,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0037",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1999.3.26]",
@@ -1577,7 +1613,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0040",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1596,7 +1636,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0040",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1622,7 +1666,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0040",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1648,7 +1694,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0040",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 1994.12.16][제목개정 1998.6.24]",
@@ -1729,7 +1777,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0042",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1996.6.29]",
@@ -1764,7 +1814,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0042_02",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1790,7 +1844,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0042_02",
             "reference_id": "admrul:(국토교통부)산업입지의개발에관한통합지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json"
+            "target_git_path_guess": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_git_path": "(국토교통부) 산업입지의 개발에 관한 통합지침/(국토교통부) 산업입지의 개발에 관한 통합지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2022.5.3][종전 제42조의2는 제42조의3으로 이동 <2022.5.3>]",
@@ -1885,7 +1941,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0043_03",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.9.25]",
@@ -1994,7 +2052,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0044_05",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2010.3.26][제44조의6에서 이동, 종전 제44조의5는 제44조의4로 이동 <2016.2.11>]",
@@ -2059,7 +2119,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0044_08",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2078,7 +2140,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0044_08",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2010.3.26][제44조의3에서 이동, 종전 제44조의8은 제44조의9로 이동 <2016.2.11>]",
@@ -2113,7 +2177,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0044_09",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2139,7 +2207,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0044_09",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2010.3.26][제44조의8에서 이동, 종전 제44조의9는 제44조의12로 이동 <2016.2.11>]",
@@ -2402,7 +2472,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0047_03",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2421,7 +2493,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0047_03",
             "reference_id": "admrul:산업단지지원에관한운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json"
+            "target_git_path_guess": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_git_path": "산업단지 지원에 관한 운영지침/산업단지 지원에 관한 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "note": "[본조신설 2007.10.4]",
@@ -2456,7 +2532,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0047_04",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0027_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.1.14]",
@@ -2521,7 +2599,11 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0047_07",
             "reference_id": "admrul:임대전용산업단지관리운용에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json"
+            "target_git_path_guess": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json",
+            "target_git_path": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2547,7 +2629,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0047_07",
             "reference_id": "admrul:임대전용산업단지관리운용에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json"
+            "target_git_path_guess": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json",
+            "target_git_path": "임대전용산업단지 관리ㆍ운용에 관한 지침/임대전용산업단지 관리ㆍ운용에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2007.10.4]",
@@ -2641,7 +2725,9 @@
             "source_provision_id": "law:산업입지및개발에관한법률시행령#JO0050",
             "reference_id": "law:산업입지및개발에관한법률시행규칙#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_git_path": "산업입지 및 개발에 관한 법률/시행규칙/산업입지 및 개발에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2012.11.20]",
@@ -4601,5 +4687,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "산업입지 및 개발에 관한 법률/시행령/산업입지 및 개발에 관한 법률 시행령.json"
+  "git_path": "산업입지 및 개발에 관한 법률/시행령/산업입지 및 개발에 관한 법률 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

@@ -156,7 +156,11 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0006",
             "reference_id": "SchlPubRul:(한국수자원공사)댐관리규정#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국수자원공사) 댐관리규정/(한국수자원공사) 댐관리규정.json"
+            "target_git_path_guess": "(한국수자원공사) 댐관리규정/(한국수자원공사) 댐관리규정.json",
+            "target_git_path": "(한국수자원공사) 댐관리규정/(한국수자원공사) 댐관리규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -211,7 +215,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0007",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.11.30][제18조에서 이동 <2022.6.14>]",
@@ -261,7 +267,11 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0009",
             "reference_id": "admrul:수자원시설재평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json"
+            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_git_path": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -280,7 +290,11 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0009",
             "reference_id": "admrul:수자원시설재평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json"
+            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_git_path": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -306,7 +320,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0009",
             "reference_id": "admrul:수자원시설재평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json"
+            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_git_path": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -332,7 +348,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0009",
             "reference_id": "admrul:수자원시설재평가지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json"
+            "target_git_path_guess": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_git_path": "수자원시설 재평가 지침/수자원시설 재평가 지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2017.6.2][제18조의3에서 이동 <2022.6.14>]",
@@ -443,7 +461,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0015",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -462,7 +482,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0015",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.11.30][제14조에서 이동, 종전 제15조는 제17조로 이동 <2022.6.14>]",
@@ -497,7 +519,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0016",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -516,7 +540,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0016",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.6.2][제14조의2에서 이동, 종전 제16조는 제5조로 이동 <2022.6.14>]",
@@ -596,7 +622,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0020",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.11.30]",
@@ -631,7 +659,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0021",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.11.30]",
@@ -1068,7 +1098,11 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0045_02",
             "reference_id": "admrul:댐주변지역지원사업업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json"
+            "target_git_path_guess": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json",
+            "target_git_path": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1094,7 +1128,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0045_02",
             "reference_id": "admrul:댐주변지역지원사업업무처리규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json"
+            "target_git_path_guess": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json",
+            "target_git_path": "댐주변지역 지원사업 업무처리 규정/댐주변지역 지원사업 업무처리 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2021.12.16][종전 제45조의2는 제45조의3으로 이동 <2021.12.16>]",
@@ -1159,7 +1195,9 @@
             "source_provision_id": "law:댐건설관리및주변지역지원등에관한법률시행령#JO0047",
             "reference_id": "law:댐건설관리및주변지역지원등에관한법률시행규칙#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json"
+            "target_git_path_guess": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행규칙/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.11.30]",
@@ -2010,5 +2048,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행령/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행령.json"
+  "git_path": "댐건설ㆍ관리 및 주변지역지원 등에 관한 법률/시행령/댐건설ㆍ관리 및 주변지역지원 등에 관한 법률 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

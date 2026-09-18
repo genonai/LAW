@@ -105,7 +105,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0002_02",
             "reference_id": "law:개별소비세법시행규칙#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -124,7 +126,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0002_02",
             "reference_id": "law:개별소비세법시행규칙#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.12.31][대통령령 제35355호(2025.2.28) 제2조의2제1항제7호 및 같은 조 제3항의 개정규정은 같은 법 부칙 제2조의 규정에 의하여 2026년 6월 30일까지 유효함]",
@@ -276,7 +280,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0008_02",
             "reference_id": "admrul:기준판매비율#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기준판매비율/기준판매비율.json"
+            "target_git_path_guess": "기준판매비율/기준판매비율.json",
+            "target_git_path": "기준판매비율/기준판매비율.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -295,7 +303,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0008_02",
             "reference_id": "admrul:기준판매비율#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기준판매비율/기준판매비율.json"
+            "target_git_path_guess": "기준판매비율/기준판매비율.json",
+            "target_git_path": "기준판매비율/기준판매비율.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -314,7 +326,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0008_02",
             "reference_id": "law:개별소비세법시행규칙#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -340,7 +354,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0008_02",
             "reference_id": "admrul:기준판매비율#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기준판매비율/기준판매비율.json"
+            "target_git_path_guess": "기준판매비율/기준판매비율.json",
+            "target_git_path": "기준판매비율/기준판매비율.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -366,7 +382,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0008_02",
             "reference_id": "admrul:기준판매비율#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기준판매비율/기준판매비율.json"
+            "target_git_path_guess": "기준판매비율/기준판매비율.json",
+            "target_git_path": "기준판매비율/기준판매비율.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2023.2.28]",
@@ -496,7 +514,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0012",
             "reference_id": "admrul:용도변경등으로세액을징수하는승용자동차에대한가격계산방법등고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json"
+            "target_git_path_guess": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json",
+            "target_git_path": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -522,7 +544,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0012",
             "reference_id": "admrul:용도변경등으로세액을징수하는승용자동차에대한가격계산방법등고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json"
+            "target_git_path_guess": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json",
+            "target_git_path": "용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시/용도변경 등으로 세액을 징수하는 승용자동차에 대한 가격 계산방법 등 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.18][제목개정 2012.2.2]",
@@ -705,7 +729,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0018",
             "reference_id": "admrul:음식숙박업과서비스업에대한추계경정시적용할입회조사기준고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json"
+            "target_git_path_guess": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json",
+            "target_git_path": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -731,7 +759,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0018",
             "reference_id": "admrul:음식숙박업과서비스업에대한추계경정시적용할입회조사기준고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json"
+            "target_git_path_guess": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json",
+            "target_git_path": "음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시/음식·숙박업과 서비스업에 대한 추계경정 시 적용할 입회조사기준 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.18][제목개정 2012.2.2]",
@@ -780,7 +810,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0019",
             "reference_id": "admrul:한국석유공사의비축용석유류를저유소경유하여미납세반입반출하는경우그방법및절차에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json"
+            "target_git_path_guess": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json",
+            "target_git_path": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -806,7 +840,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0019",
             "reference_id": "admrul:한국석유공사의비축용석유류를저유소경유하여미납세반입반출하는경우그방법및절차에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json"
+            "target_git_path_guess": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json",
+            "target_git_path": "한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시/한국석유공사의 비축용 석유류를 저유소 경유하여 미납세 반입·반출하는 경우 그 방법 및 절차에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -856,7 +892,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0019_03",
             "reference_id": "law:개별소비세법시행규칙#JO0006_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -875,7 +913,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0019_03",
             "reference_id": "law:개별소비세법시행규칙#JO0006_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -910,7 +950,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0020",
             "reference_id": "law:개별소비세법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -929,7 +971,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0020",
             "reference_id": "law:개별소비세법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -1143,7 +1187,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0031",
             "reference_id": "law:개별소비세법시행규칙#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 1994.12.31][제목개정 2010.2.18]",
@@ -1266,7 +1312,11 @@
             "source_provision_id": "law:개별소비세법시행령#JO0033_02",
             "reference_id": "admrul:골프장입장시개별소비세면세대상골프선수등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json"
+            "target_git_path_guess": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json",
+            "target_git_path": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1287,7 +1337,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0033_02",
             "reference_id": "admrul:골프장입장시개별소비세면세대상골프선수등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json"
+            "target_git_path_guess": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json",
+            "target_git_path": "골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정/골프장 입장시 개별소비세 면세대상 골프선수 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -1337,7 +1389,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034",
             "reference_id": "law:개별소비세법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1356,7 +1410,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034",
             "reference_id": "law:개별소비세법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1375,7 +1431,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034",
             "reference_id": "law:개별소비세법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -1410,7 +1468,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:고압가스안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1429,7 +1489,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1448,7 +1510,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:개별소비세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1467,7 +1531,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:고압가스안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1486,7 +1552,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1505,7 +1573,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:개별소비세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1524,7 +1594,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:고압가스안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1543,7 +1615,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1562,7 +1636,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:개별소비세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1581,7 +1657,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:고압가스안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json"
+            "target_git_path_guess": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_git_path": "고압가스 안전관리법/시행규칙/고압가스 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1600,7 +1678,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:전기용품및생활용품안전관리법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json"
+            "target_git_path_guess": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_git_path": "전기용품 및 생활용품 안전관리법/시행규칙/전기용품 및 생활용품 안전관리법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1619,7 +1699,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0034_02",
             "reference_id": "law:개별소비세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.18][제목개정 2025.2.28]",
@@ -1654,7 +1736,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0035",
             "reference_id": "law:개별소비세법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1673,7 +1757,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0035",
             "reference_id": "law:개별소비세법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1692,7 +1778,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0035",
             "reference_id": "law:개별소비세법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1711,7 +1799,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0035",
             "reference_id": "law:개별소비세법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 1984.5.1]",
@@ -1806,7 +1896,9 @@
             "source_provision_id": "law:개별소비세법시행령#JO0038",
             "reference_id": "law:개별소비세법시행규칙#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json"
+            "target_git_path_guess": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_git_path": "개별소비세법/시행규칙/개별소비세법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2010.2.18]",
@@ -4116,5 +4208,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "개별소비세법/시행령/개별소비세법 시행령.json"
+  "git_path": "개별소비세법/시행령/개별소비세법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }

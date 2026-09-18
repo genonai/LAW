@@ -366,7 +366,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0010_03",
             "reference_id": "admrul:자동차평균에너지소비효율기준온실가스배출허용기준및기준의적용관리등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json"
+            "target_git_path_guess": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json",
+            "target_git_path": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -385,7 +387,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0010_03",
             "reference_id": "admrul:자동차평균에너지소비효율기준온실가스배출허용기준및기준의적용관리등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json"
+            "target_git_path_guess": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json",
+            "target_git_path": "자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시/자동차 평균에너지소비효율기준·온실가스 배출허용기준 및 기준의 적용·관리 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "note": "[본조신설 2014.2.6]",
@@ -464,7 +470,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:국가대기오염측정망설치(이전)계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국가대기오염측정망 설치(이전) 계획 고시/국가대기오염측정망 설치(이전) 계획 고시.json"
+            "target_git_path_guess": "국가대기오염측정망 설치(이전) 계획 고시/국가대기오염측정망 설치(이전) 계획 고시.json",
+            "target_git_path": "국가대기오염측정망 설치(이전) 계획 고시/국가대기오염측정망 설치(이전) 계획 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -483,7 +493,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -500,9 +514,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/대기오염측정망 설치계획 고시",
             "resolve_method": "render",
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
-            "reference_id": "admrul:대기오염측정망설치계획고시#DOC",
+            "reference_id": "admrul:대기오염측정망설치계획고시:admrul_82992#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획 고시/대기오염측정망 설치계획 고시.json"
+            "target_git_path_guess": "대기오염측정망 설치계획 고시/대기오염측정망 설치계획 고시.json",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "대기오염측정망 설치계획 고시/admrul_76443/대기오염측정망 설치계획 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:대기오염측정망설치계획고시:admrul_76443#DOC",
+                "is_current": true,
+                "enforcement_date": "20200503"
+              },
+              {
+                "git_path": "대기오염측정망 설치계획 고시/admrul_82992/대기오염측정망 설치계획 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:대기오염측정망설치계획고시:admrul_82992#DOC",
+                "is_current": true,
+                "enforcement_date": "20220908"
+              }
+            ],
+            "target_git_path": "대기오염측정망 설치계획 고시/admrul_82992/대기오염측정망 설치계획 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -521,7 +556,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -540,7 +579,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전·설치계획 고시/대기오염측정망 이전·설치계획 고시.json"
+            "target_git_path_guess": "대기오염측정망 이전·설치계획 고시/대기오염측정망 이전·설치계획 고시.json",
+            "target_git_path": "대기오염측정망 이전·설치계획 고시/대기오염측정망 이전·설치계획 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -559,7 +602,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기환경측정망설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json"
+            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_git_path": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -578,7 +625,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기환경측정소설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json"
+            "target_git_path_guess": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json",
+            "target_git_path": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -604,7 +655,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -630,7 +683,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -656,7 +711,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -682,7 +739,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -708,7 +767,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -749,7 +810,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -775,7 +838,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -801,7 +866,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -827,7 +894,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -853,7 +922,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -879,7 +950,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -905,7 +978,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -931,7 +1006,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -957,7 +1034,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망이전설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_git_path": "대기오염측정망 이전 설치계획/대기오염측정망 이전 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -983,7 +1062,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기환경측정망설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json"
+            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_git_path": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1009,7 +1090,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기환경측정망설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json"
+            "target_git_path_guess": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_git_path": "대기환경측정망 설치계획 고시/대기환경측정망 설치계획 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1030,7 +1113,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기환경측정소설치계획고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json"
+            "target_git_path_guess": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json",
+            "target_git_path": "대기환경측정소 설치계획 고시/대기환경측정소 설치계획 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1056,7 +1141,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1082,7 +1169,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1148,7 +1237,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1169,7 +1260,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1195,7 +1288,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1221,7 +1316,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1247,7 +1344,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1273,7 +1372,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1299,7 +1400,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1325,7 +1428,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1351,7 +1456,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1377,7 +1484,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1403,7 +1512,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1429,7 +1540,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1455,7 +1568,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1481,7 +1596,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1507,7 +1624,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1533,7 +1652,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012",
             "reference_id": "admrul:대기오염측정망설치계획#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json"
+            "target_git_path_guess": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_git_path": "대기오염측정망 설치계획/대기오염측정망 설치계획.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -1582,7 +1703,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012_03",
             "reference_id": "admrul:대기오염물질심사평가위원회운영,절차및지정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json"
+            "target_git_path_guess": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json",
+            "target_git_path": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1608,7 +1733,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0012_03",
             "reference_id": "admrul:대기오염물질심사평가위원회운영,절차및지정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json"
+            "target_git_path_guess": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json",
+            "target_git_path": "대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정/대기오염물질 심사·평가위원회 운영, 절차 및 지정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.5.24]",
@@ -2065,7 +2192,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0036",
             "reference_id": "admrul:배출시설및방지시설의운영과자가측정에대한전산기록보존에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json"
+            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_git_path": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2086,7 +2217,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0036",
             "reference_id": "admrul:배출시설및방지시설의운영과자가측정에대한전산기록보존에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json"
+            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_git_path": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2107,7 +2240,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0036",
             "reference_id": "admrul:배출시설및방지시설의운영과자가측정에대한전산기록보존에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json"
+            "target_git_path_guess": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_git_path": "배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시/배출시설 및 방지시설의 운영과 자가측정에 대한 전산기록·보존에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2009.1.14]",
@@ -2259,7 +2394,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0040",
             "reference_id": "admrul:대기오염도검사기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json"
+            "target_git_path_guess": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json",
+            "target_git_path": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2285,7 +2424,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0040",
             "reference_id": "admrul:대기오염도검사기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json"
+            "target_git_path_guess": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json",
+            "target_git_path": "대기오염도 검사기관 지정/대기오염도 검사기관 지정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -2489,7 +2630,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0051_03",
             "reference_id": "admrul:비산배출시설시설관리기준정기점검비용에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json"
+            "target_git_path_guess": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json",
+            "target_git_path": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2515,7 +2660,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0051_03",
             "reference_id": "admrul:비산배출시설시설관리기준정기점검비용에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json"
+            "target_git_path_guess": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json",
+            "target_git_path": "비산배출시설 시설관리기준 정기점검 비용에 관한 규정/비산배출시설 시설관리기준 정기점검 비용에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.5.24][제51조의2에서 이동 <2015.7.21>]",
@@ -2663,7 +2810,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0059",
             "reference_id": "admrul:휘발성유기화합물배출규제추가지역지정에필요한세부기준등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json"
+            "target_git_path_guess": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json",
+            "target_git_path": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2689,7 +2840,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0059",
             "reference_id": "admrul:휘발성유기화합물배출규제추가지역지정에필요한세부기준등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json"
+            "target_git_path_guess": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json",
+            "target_git_path": "휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시/휘발성유기화합물 배출규제 추가지역 지정에 필요한 세부기준 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2015.7.21][종전 제59조는 제59조의2로 이동 <2015.7.21>]",
@@ -2797,7 +2950,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0061_04",
             "reference_id": "admrul:주유소유증기회수설비검사기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json"
+            "target_git_path_guess": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json",
+            "target_git_path": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2816,7 +2973,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0061_04",
             "reference_id": "admrul:주유소유증기회수설비의검사방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json"
+            "target_git_path_guess": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json",
+            "target_git_path": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2842,7 +3003,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0061_04",
             "reference_id": "admrul:주유소유증기회수설비검사기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json"
+            "target_git_path_guess": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json",
+            "target_git_path": "주유소 유증기 회수설비 검사기관 지정/주유소 유증기 회수설비 검사기관 지정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2868,7 +3031,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0061_04",
             "reference_id": "admrul:주유소유증기회수설비의검사방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json"
+            "target_git_path_guess": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json",
+            "target_git_path": "주유소 유증기회수설비의 검사방법 등에 관한 규정/주유소 유증기회수설비의 검사방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2014.2.6][제61조의3에서 이동 <2015.7.21>]",
@@ -2932,7 +3097,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2951,7 +3120,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2970,7 +3143,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2989,7 +3166,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3008,7 +3189,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3027,7 +3212,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3046,7 +3235,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3072,7 +3265,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3098,7 +3293,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3124,7 +3321,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3150,7 +3349,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3176,7 +3377,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3202,7 +3405,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3228,7 +3433,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0064",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -3262,7 +3469,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "SchlPubRul:(한국환경공단)자동차및원동기시험검사운영예규#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json"
+            "target_git_path_guess": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json",
+            "target_git_path": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -3281,7 +3492,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3300,7 +3515,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3319,7 +3538,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3338,7 +3561,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3357,7 +3584,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3376,7 +3607,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3395,7 +3630,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3414,7 +3653,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3433,7 +3676,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3452,7 +3699,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3471,7 +3722,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3490,7 +3745,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3509,7 +3768,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_git_path": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3528,7 +3791,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3547,7 +3814,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3566,7 +3837,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3585,7 +3860,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_git_path": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3604,7 +3883,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3630,7 +3913,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3656,7 +3941,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3682,7 +3969,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3708,7 +3997,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3734,7 +4025,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_git_path": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3760,7 +4053,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3786,7 +4081,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3812,7 +4109,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_git_path": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3838,7 +4137,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3864,7 +4165,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차시험검사및절차에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_git_path": "제작자동차 시험검사 및 절차에 관한 규정/제작자동차 시험검사 및 절차에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3890,7 +4193,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3916,7 +4221,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3942,7 +4249,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -3961,7 +4270,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0065",
             "reference_id": "SchlPubRul:(한국환경공단)자동차및원동기시험검사운영예규#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json"
+            "target_git_path_guess": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json",
+            "target_git_path": "(한국환경공단) 자동차 및 원동기 시험·검사 운영예규/(한국환경공단) 자동차 및 원동기 시험·검사 운영예규.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "revision_type": "타법개정",
@@ -4024,7 +4337,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0067",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4050,7 +4367,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0067",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -4143,7 +4462,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0069",
             "reference_id": "admrul:자동차배출가스결함확인검사용자동차선정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json"
+            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_git_path": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4169,7 +4492,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0069",
             "reference_id": "admrul:자동차배출가스결함확인검사용자동차선정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json"
+            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_git_path": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -4203,7 +4528,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4222,7 +4551,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4241,7 +4574,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4267,7 +4604,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:제작자동차인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "제작자동차 인증 및 검사 방법과 절차 등에 관한 규정/제작자동차 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4293,7 +4632,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:농업기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/농업기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4319,7 +4660,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0070",
             "reference_id": "admrul:건설기계원동기인증및검사방법과절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json"
+            "target_git_path_guess": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_git_path": "건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정/건설기계 원동기 인증 및 검사 방법과 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -4413,7 +4756,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0072",
             "reference_id": "admrul:자동차배출가스결함확인검사용자동차선정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json"
+            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_git_path": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4439,7 +4786,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0072",
             "reference_id": "admrul:자동차배출가스결함확인검사용자동차선정등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json"
+            "target_git_path_guess": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_git_path": "자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정/자동차 배출가스 결함확인검사용 자동차 선정 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -4664,7 +5013,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079",
             "reference_id": "admrul:특정경유자동차등의저공해조치및보조금지급등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json"
+            "target_git_path_guess": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json",
+            "target_git_path": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4690,7 +5043,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079",
             "reference_id": "admrul:특정경유자동차등의저공해조치및보조금지급등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json"
+            "target_git_path_guess": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json",
+            "target_git_path": "특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정/특정경유자동차 등의 저공해 조치 및 보조금 지급 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2020.4.3]",
@@ -4740,7 +5095,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_03",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4766,7 +5125,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_03",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2023.6.28]",
@@ -4816,7 +5177,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_05",
             "reference_id": "admrul:장치또는부품의잔존가치에해당하는금액의산정방법#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json"
+            "target_git_path_guess": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json",
+            "target_git_path": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4842,7 +5207,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_05",
             "reference_id": "admrul:장치또는부품의잔존가치에해당하는금액의산정방법#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json"
+            "target_git_path_guess": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json",
+            "target_git_path": "장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법/장치 또는 부품의 잔존가치에 해당하는 금액의 산정방법.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2008.9.19][제79조의4에서 이동, 종전 제79조의5는 제79조의6으로 이동 <2021.6.30>]",
@@ -4907,7 +5274,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_08",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4926,7 +5297,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_08",
             "reference_id": "admrul:저공해자동차표지등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json"
+            "target_git_path_guess": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json",
+            "target_git_path": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -4952,7 +5327,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_08",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -4978,7 +5355,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_08",
             "reference_id": "admrul:저공해자동차표지등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json"
+            "target_git_path_guess": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json",
+            "target_git_path": "저공해자동차 표지 등에 관한 규정/저공해자동차 표지 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.5.24][제79조의7에서 이동, 종전 제79조의8은 삭제 <2021.6.30>]",
@@ -5043,7 +5422,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_11",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5062,7 +5445,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_11",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5081,7 +5468,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_11",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5107,7 +5498,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_11",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -5133,7 +5526,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_11",
             "reference_id": "admrul:전기자동차보급대상평가에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json"
+            "target_git_path_guess": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_git_path": "전기자동차 보급대상 평가에 관한 규정/전기자동차 보급대상 평가에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2023.6.28]",
@@ -5213,7 +5608,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_15",
             "reference_id": "admrul:저공해자동차의무구매임차실적산정방법에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json"
+            "target_git_path_guess": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json",
+            "target_git_path": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5239,7 +5638,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0079_15",
             "reference_id": "admrul:저공해자동차의무구매임차실적산정방법에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json"
+            "target_git_path_guess": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json",
+            "target_git_path": "저공해자동차 의무구매·임차 실적 산정방법에 관한 고시/저공해자동차 의무구매·임차 실적 산정방법에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2020.4.3][제79조의14에서 이동, 종전 제79조의15는 제79조의16으로 이동 <2022.4.12>]",
@@ -5349,7 +5750,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0081",
             "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5370,7 +5775,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0081",
             "reference_id": "admrul:공회전제한장치의성능인증시험방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정/공회전제한장치의 성능인증 시험방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.3.31]",
@@ -5420,7 +5827,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5439,7 +5850,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5465,7 +5880,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -5491,7 +5908,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082",
             "reference_id": "admrul:운행자동차배출가스저감장치저공해엔진인증방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정/운행자동차 배출가스저감장치·저공해엔진 인증방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2020.4.3]",
@@ -5541,7 +5960,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082_03",
             "reference_id": "admrul:배출가스저감장치의성능유지확인검사기준및검사방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json"
+            "target_git_path_guess": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json",
+            "target_git_path": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5567,7 +5990,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0082_03",
             "reference_id": "admrul:배출가스저감장치의성능유지확인검사기준및검사방법등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json"
+            "target_git_path_guess": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json",
+            "target_git_path": "배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정/배출가스저감장치의 성능유지확인 검사기준 및 검사방법 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.2.1][제82조의2에서 이동, 종전 제82조의3은 제82조의4로 이동 <2024.2.15>]",
@@ -5722,7 +6147,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0083",
             "reference_id": "admrul:운행차수시점검방법과확인검사대행자등록에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json"
+            "target_git_path_guess": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json",
+            "target_git_path": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5748,7 +6177,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0083",
             "reference_id": "admrul:운행차수시점검방법과확인검사대행자등록에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json"
+            "target_git_path_guess": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json",
+            "target_git_path": "운행차 수시점검방법과 확인검사대행자 등록에 관한 규정/운행차 수시점검방법과 확인검사대행자 등록에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -6203,7 +6634,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0104_02",
             "reference_id": "admrul:운행차배출가스검사시행요령등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json"
+            "target_git_path_guess": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json",
+            "target_git_path": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6229,7 +6664,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0104_02",
             "reference_id": "admrul:운행차배출가스검사시행요령등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json"
+            "target_git_path_guess": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json",
+            "target_git_path": "운행차 배출가스 검사 시행요령 등에 관한 규정/운행차 배출가스 검사 시행요령 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2013.2.1][종전 제104조의2는 제104조의3으로 이동 <2013.2.1>]",
@@ -6510,7 +6947,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0120_02",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의검사방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6529,7 +6970,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0120_02",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의검사방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6604,7 +7049,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0120_03",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의검사방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6659,7 +7108,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0120_04",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의검사방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6680,7 +7133,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0120_04",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의검사방법및절차등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json"
+            "target_git_path_guess": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_git_path": "자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정/자동차연료ㆍ첨가제 또는 촉매제의 검사방법 및 절차 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2021.12.30]",
@@ -6953,7 +7408,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6972,7 +7431,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력교육기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json"
+            "target_git_path_guess": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json",
+            "target_git_path": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6991,7 +7454,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7010,7 +7477,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7036,7 +7507,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -7057,7 +7530,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력교육기관지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json"
+            "target_git_path_guess": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json",
+            "target_git_path": "냉매회수 기술인력 교육기관 지정/냉매회수 기술인력 교육기관 지정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -7083,7 +7558,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -7109,7 +7586,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_12",
             "reference_id": "admrul:냉매회수기술인력의교육등에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json"
+            "target_git_path_guess": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_git_path": "냉매회수 기술인력의 교육 등에 관한 규정/냉매회수 기술인력의 교육 등에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2018.11.29]",
@@ -7159,7 +7638,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_14",
             "reference_id": "admrul:(기후에너지환경부)냉매판매량신고및특정물질제조수입판매실적보고등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json"
+            "target_git_path_guess": "(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_git_path": "(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(기후에너지환경부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7178,7 +7661,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_14",
             "reference_id": "admrul:(산업통상자원부)냉매판매량신고및특정물질제조수입판매실적보고등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json"
+            "target_git_path_guess": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_git_path": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7204,7 +7691,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0124_14",
             "reference_id": "admrul:(산업통상자원부)냉매판매량신고및특정물질제조수입판매실적보고등에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json"
+            "target_git_path_guess": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_git_path": "(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시/(산업통상자원부) 냉매판매량 신고 및 특정물질 제조·수입·판매실적 보고 등에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -7259,7 +7748,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0125",
             "reference_id": "admrul:한국환경보전원교육수수료#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "한국환경보전원 교육수수료/한국환경보전원 교육수수료.json"
+            "target_git_path_guess": "한국환경보전원 교육수수료/한국환경보전원 교육수수료.json",
+            "target_git_path": "한국환경보전원 교육수수료/한국환경보전원 교육수수료.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7398,7 +7891,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0131",
             "reference_id": "admrul:환경오염물질배출시설등에관한통합지도점검규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json"
+            "target_git_path_guess": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json",
+            "target_git_path": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7417,7 +7914,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0131",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의전자적보고및자료제출에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json"
+            "target_git_path_guess": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json",
+            "target_git_path": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7443,7 +7944,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0131",
             "reference_id": "admrul:환경오염물질배출시설등에관한통합지도점검규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json"
+            "target_git_path_guess": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json",
+            "target_git_path": "환경오염물질배출시설 등에 관한 통합지도·점검규정/환경오염물질배출시설 등에 관한 통합지도·점검규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -7469,7 +7972,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0131",
             "reference_id": "admrul:자동차연료첨가제또는촉매제의전자적보고및자료제출에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json"
+            "target_git_path_guess": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json",
+            "target_git_path": "자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시/자동차연료·첨가제 또는 촉매제의 전자적 보고 및 자료제출에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "타법개정",
@@ -7531,7 +8036,11 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0133_02",
             "reference_id": "admrul:대기오염배출시설관리현황제출에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json"
+            "target_git_path_guess": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json",
+            "target_git_path": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -7557,7 +8066,9 @@
             "source_provision_id": "law:대기환경보전법시행규칙#JO0133_02",
             "reference_id": "admrul:대기오염배출시설관리현황제출에관한규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json"
+            "target_git_path_guess": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json",
+            "target_git_path": "대기오염 배출시설 관리현황 제출에 관한 규정/대기오염 배출시설 관리현황 제출에 관한 규정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2015.7.21]",
@@ -17222,5 +17733,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json"
+  "git_path": "대기환경보전법/시행규칙/대기환경보전법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

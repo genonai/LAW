@@ -151,7 +151,9 @@
             "source_provision_id": "law:기상법#JO0003",
             "reference_id": "law:기상관측표준화법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json"
+            "target_git_path_guess": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_git_path": "기상관측표준화법/법률/기상관측표준화법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -201,7 +203,9 @@
             "source_provision_id": "law:기상법#JO0005",
             "reference_id": "law:기상법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2023.2.14]",
@@ -236,7 +240,9 @@
             "source_provision_id": "law:기상법#JO0006",
             "reference_id": "law:기상법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.2.14]",
@@ -271,7 +277,11 @@
             "source_provision_id": "law:기상법#JO0007",
             "reference_id": "admrul:관측업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "관측업무규정/관측업무규정.json"
+            "target_git_path_guess": "관측업무규정/관측업무규정.json",
+            "target_git_path": "관측업무규정/관측업무규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -297,7 +307,9 @@
             "source_provision_id": "law:기상법#JO0007",
             "reference_id": "admrul:관측업무규정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "관측업무규정/관측업무규정.json"
+            "target_git_path_guess": "관측업무규정/관측업무규정.json",
+            "target_git_path": "관측업무규정/관측업무규정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -316,7 +328,9 @@
             "source_provision_id": "law:기상법#JO0007",
             "reference_id": "law:기상법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.2.14]",
@@ -351,7 +365,9 @@
             "source_provision_id": "law:기상법#JO0007_02",
             "reference_id": "law:기상법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14][종전 제7조의2는 제7조의4로 이동 <2023.2.14>]",
@@ -386,7 +402,9 @@
             "source_provision_id": "law:기상법#JO0007_03",
             "reference_id": "law:기상법시행령#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -421,7 +439,9 @@
             "source_provision_id": "law:기상법#JO0007_04",
             "reference_id": "law:기상법시행령#JO0004_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -440,7 +460,9 @@
             "source_provision_id": "law:기상법#JO0007_04",
             "reference_id": "law:기상법시행령#JO0004_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -459,7 +481,9 @@
             "source_provision_id": "law:기상법#JO0007_04",
             "reference_id": "law:기상법시행령#JO0004_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -478,7 +502,9 @@
             "source_provision_id": "law:기상법#JO0007_04",
             "reference_id": "law:기상법시행령#JO0004_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18][제목개정 2023.2.14][제7조의2에서 이동 <2023.2.14>]",
@@ -513,7 +539,9 @@
             "source_provision_id": "law:기상법#JO0008",
             "reference_id": "law:기상법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2023.2.14]",
@@ -548,7 +576,9 @@
             "source_provision_id": "law:기상법#JO0008_02",
             "reference_id": "law:기상법시행령#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.6.9]",
@@ -597,7 +627,9 @@
             "source_provision_id": "law:기상법#JO0009",
             "reference_id": "law:기상법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -661,7 +693,9 @@
             "source_provision_id": "law:기상법#JO0012",
             "reference_id": "law:기상법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -696,7 +730,9 @@
             "source_provision_id": "law:기상법#JO0012_02",
             "reference_id": "law:기상법시행규칙#JO0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2017.4.18][제23조에서 이동 <2023.10.24>]",
@@ -779,7 +815,9 @@
             "source_provision_id": "law:기상법#JO0013",
             "reference_id": "law:기상법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2023.2.14]",
@@ -814,7 +852,9 @@
             "source_provision_id": "law:기상법#JO0013_02",
             "reference_id": "law:기상법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -833,7 +873,9 @@
             "source_provision_id": "law:기상법#JO0013_02",
             "reference_id": "law:기상법시행령#JO0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14][종전 제13조의2는 제13조의3으로 이동 <2023.2.14>]",
@@ -868,7 +910,9 @@
             "source_provision_id": "law:기상법#JO0013_03",
             "reference_id": "law:기상법시행령#JO0008_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18][제목개정 2023.2.14][제13조의2에서 이동 <2023.2.14>]",
@@ -903,7 +947,9 @@
             "source_provision_id": "law:기상법#JO0013_04",
             "reference_id": "law:기상법시행령#JO0008_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -922,7 +968,9 @@
             "source_provision_id": "law:기상법#JO0013_04",
             "reference_id": "law:기상법시행령#JO0008_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -957,7 +1005,9 @@
             "source_provision_id": "law:기상법#JO0014",
             "reference_id": "law:기상법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -976,7 +1026,9 @@
             "source_provision_id": "law:기상법#JO0014",
             "reference_id": "law:기상법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.2.14]",
@@ -1011,7 +1063,9 @@
             "source_provision_id": "law:기상법#JO0014_02",
             "reference_id": "law:기상법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14][종전 제14조의2는 제14조의3으로 이동 <2023.2.14>]",
@@ -1046,7 +1100,9 @@
             "source_provision_id": "law:기상법#JO0014_03",
             "reference_id": "law:기상법시행령#JO0011_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2011.9.30][제14조의2에서 이동 <2023.2.14>]",
@@ -1096,7 +1152,9 @@
             "source_provision_id": "law:기상법#JO0015",
             "reference_id": "law:기상법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1115,7 +1173,9 @@
             "source_provision_id": "law:기상법#JO0015",
             "reference_id": "law:기상법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1134,7 +1194,9 @@
             "source_provision_id": "law:기상법#JO0015",
             "reference_id": "law:기상법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1153,7 +1215,9 @@
             "source_provision_id": "law:기상법#JO0015",
             "reference_id": "law:기상법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1172,7 +1236,9 @@
             "source_provision_id": "law:기상법#JO0015",
             "reference_id": "law:기상법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -1207,7 +1273,9 @@
             "source_provision_id": "law:기상법#JO0016",
             "reference_id": "law:기상법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -1257,7 +1325,9 @@
             "source_provision_id": "law:기상법#JO0017_02",
             "reference_id": "law:기상법시행규칙#JO0002_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -1292,7 +1362,9 @@
             "source_provision_id": "law:기상법#JO0017_03",
             "reference_id": "law:기상법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1311,7 +1383,9 @@
             "source_provision_id": "law:기상법#JO0017_03",
             "reference_id": "law:기상법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1330,7 +1404,9 @@
             "source_provision_id": "law:기상법#JO0017_03",
             "reference_id": "law:기상법시행규칙#JO0002_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -1365,7 +1441,9 @@
             "source_provision_id": "law:기상법#JO0017_04",
             "reference_id": "law:기상법시행규칙#JO0002_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -1416,7 +1494,9 @@
             "source_provision_id": "law:기상법#JO0018",
             "reference_id": "law:기상법시행규칙#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -1451,7 +1531,9 @@
             "source_provision_id": "law:기상법#JO0019",
             "reference_id": "law:기상법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -1486,7 +1568,9 @@
             "source_provision_id": "law:기상법#JO0019_02",
             "reference_id": "law:기상법시행규칙#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14]",
@@ -1521,7 +1605,9 @@
             "source_provision_id": "law:기상법#JO0019_03",
             "reference_id": "law:기상법시행규칙#JO0004_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2023.2.14][제목개정 2025.3.25]",
@@ -1739,7 +1825,9 @@
             "source_provision_id": "law:기상법#JO0032",
             "reference_id": "law:기상법시행령#JO0018_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2023.2.14]",
@@ -1774,7 +1862,9 @@
             "source_provision_id": "law:기상법#JO0032_02",
             "reference_id": "law:기상법시행규칙#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2008.12.31]",
@@ -1809,7 +1899,9 @@
             "source_provision_id": "law:기상법#JO0033",
             "reference_id": "law:기상법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1828,7 +1920,9 @@
             "source_provision_id": "law:기상법#JO0033",
             "reference_id": "law:기상법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2017.4.18]",
@@ -1863,7 +1957,9 @@
             "source_provision_id": "law:기상법#JO0034",
             "reference_id": "law:기상법시행규칙#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "일부개정",
@@ -1897,7 +1993,9 @@
             "source_provision_id": "law:기상법#JO0035",
             "reference_id": "law:기상법시행규칙#JO0014_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1916,7 +2014,9 @@
             "source_provision_id": "law:기상법#JO0035",
             "reference_id": "law:기상법시행규칙#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2017.4.18][제목개정 2023.2.14]",
@@ -1951,7 +2051,9 @@
             "source_provision_id": "law:기상법#JO0035_02",
             "reference_id": "law:기상법시행규칙#JO0015_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18][종전 제35조의2는 제35조의4로 이동 <2017.4.18>]",
@@ -1986,7 +2088,9 @@
             "source_provision_id": "law:기상법#JO0035_03",
             "reference_id": "law:기상법시행령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2005,7 +2109,9 @@
             "source_provision_id": "law:기상법#JO0035_03",
             "reference_id": "law:기상법시행령#JO0020_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2024,7 +2130,9 @@
             "source_provision_id": "law:기상법#JO0035_03",
             "reference_id": "law:기상법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2043,7 +2151,9 @@
             "source_provision_id": "law:기상법#JO0035_03",
             "reference_id": "law:기상법시행규칙#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18][종전 제35조의3은 제35조의5로 이동 <2017.4.18>]",
@@ -2078,7 +2188,9 @@
             "source_provision_id": "law:기상법#JO0035_04",
             "reference_id": "law:기상법시행규칙#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2097,7 +2209,9 @@
             "source_provision_id": "law:기상법#JO0035_04",
             "reference_id": "law:기상법시행규칙#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2013.7.16][제목개정 2017.4.18][제35조의2에서 이동 <2017.4.18>]",
@@ -2147,7 +2261,9 @@
             "source_provision_id": "law:기상법#JO0035_06",
             "reference_id": "law:기상법시행령#JO0020_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18]",
@@ -2182,7 +2298,9 @@
             "source_provision_id": "law:기상법#JO0035_07",
             "reference_id": "law:기상법시행규칙#JO0016_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2017.4.18]",
@@ -2217,7 +2335,9 @@
             "source_provision_id": "law:기상법#JO0036",
             "reference_id": "law:기상법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2236,7 +2356,9 @@
             "source_provision_id": "law:기상법#JO0036",
             "reference_id": "law:기상법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2020.6.9]",
@@ -2271,7 +2393,9 @@
             "source_provision_id": "law:기상법#JO0036_02",
             "reference_id": "law:기상법시행규칙#JO0017_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2015.2.3]",
@@ -2306,7 +2430,9 @@
             "source_provision_id": "law:기상법#JO0037",
             "reference_id": "law:기상법시행규칙#JO0017_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json"
+            "target_git_path_guess": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_git_path": "기상법/시행규칙/기상법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2325,7 +2451,9 @@
             "source_provision_id": "law:기상법#JO0037",
             "reference_id": "law:기상법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2344,7 +2472,9 @@
             "source_provision_id": "law:기상법#JO0037",
             "reference_id": "law:기상법시행령#JO0021",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -2393,7 +2523,9 @@
             "source_provision_id": "law:기상법#JO0039",
             "reference_id": "law:기상법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -2488,7 +2620,9 @@
             "source_provision_id": "law:기상법#JO0044",
             "reference_id": "law:기상법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2507,7 +2641,9 @@
             "source_provision_id": "law:기상법#JO0044",
             "reference_id": "law:기상법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2526,7 +2662,9 @@
             "source_provision_id": "law:기상법#JO0044",
             "reference_id": "law:기상법시행령#JO0023_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31][제목개정 2023.2.14]",
@@ -2561,7 +2699,9 @@
             "source_provision_id": "law:기상법#JO0045",
             "reference_id": "law:기상법시행령#JO0024",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -2671,7 +2811,9 @@
             "source_provision_id": "law:기상법#JO0051",
             "reference_id": "law:기상법시행령#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "기상법/시행령/기상법 시행령.json"
+            "target_git_path_guess": "기상법/시행령/기상법 시행령.json",
+            "target_git_path": "기상법/시행령/기상법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.12.31]",
@@ -3043,5 +3185,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "기상법/법률/기상법.json"
+  "git_path": "기상법/법률/기상법.json",
+  "_schlpub_id_suffix": "법률"
 }

@@ -128,7 +128,9 @@
             "source_provision_id": "law:한국도로공사법시행령#JO0004",
             "reference_id": "SchlPubRul:(한국도로공사)정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json"
+            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_git_path": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           },
           {
             "relation_type": "delegation",
@@ -147,7 +149,11 @@
             "source_provision_id": "law:한국도로공사법시행령#JO0004",
             "reference_id": "SchlPubRul:(한국도로공사)정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json"
+            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_git_path": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           }
         ],
         "note": "[전문개정 2009.7.22]",
@@ -407,7 +413,11 @@
             "source_provision_id": "law:한국도로공사법시행령#JO0014",
             "reference_id": "SchlPubRul:(한국도로공사)정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json"
+            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_git_path": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_doc_target": "pi",
+            "target_doc_kind": "공단정관"
           },
           {
             "relation_type": "delegation",
@@ -433,7 +443,9 @@
             "source_provision_id": "law:한국도로공사법시행령#JO0014",
             "reference_id": "SchlPubRul:(한국도로공사)정관#DOC",
             "target_repo": "SCHLPUBRUL",
-            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json"
+            "target_git_path_guess": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_git_path": "(한국도로공사) 정관/(한국도로공사) 정관.json",
+            "target_source_repository": "SCHLPUBRUL"
           }
         ],
         "note": "[전문개정 2009.7.22]",
@@ -603,7 +615,9 @@
             "source_provision_id": "law:한국도로공사법시행령#JO0017_08",
             "reference_id": "law:한국도로공사법시행규칙#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "한국도로공사법/시행규칙/한국도로공사법 시행규칙.json"
+            "target_git_path_guess": "한국도로공사법/시행규칙/한국도로공사법 시행규칙.json",
+            "target_git_path": "한국도로공사법/시행규칙/한국도로공사법 시행규칙.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2009.7.22]",
@@ -928,5 +942,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "한국도로공사법/시행령/한국도로공사법 시행령.json"
+  "git_path": "한국도로공사법/시행령/한국도로공사법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }
