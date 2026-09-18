@@ -11823,10 +11823,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 462,
-   "chars": 502613
+   "chars": 502727
   },
-  "collected_signature": "471be45cf6f629f3",
-  "content_hash": "8089b857b38421ec2b5fc0e50d0d46a527a7f10f4b1bb79d035e52e5c1c6d28e",
+  "collected_signature": "c1bd1e9f97e0aae4",
+  "content_hash": "2c01b81d515d1790fd6603d602a1794ceba1ac09a996297e818fd4968bd52210",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284389&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "001584",
@@ -11836,8 +11836,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:08:21.246491+00:00",
-  "last_collected_at": "2026-09-15T17:41:54.622804+00:00",
+  "last_checked_at": "2026-09-18T17:13:38.034192+00:00",
+  "last_collected_at": "2026-09-18T17:16:44.386774+00:00",
   "ministry": "재정경제부,행정안전부",
   "mst": "284389",
   "name": "조세특례제한법",
@@ -11845,7 +11845,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 10,
+  "version_count": 1,
   "version_signature": "c1bd1e9f97e0aae4"
  },
  "law:eflaw:001585": {
@@ -31037,8 +31037,13 @@
   "version_signature": "fd6edfe046bb5a99"
  },
  "law:eflaw:004920": {
-  "collected_signature": "813be443c6ea6ce1",
-  "content_hash": "17e8f2ad2ac13d5d9b58aef17812585fce2cfb1d11fceed87a061c7df323e169",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 450,
+   "chars": 676326
+  },
+  "collected_signature": "5558172f24c412d6",
+  "content_hash": "694270ff88f61c31759c0d58066f08b2b84cd250d935aceb9b32266f6bde58e3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288915&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "004920",
@@ -31046,16 +31051,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "813be443c6ea6ce1",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T07:02:24.140686+00:00",
-  "last_collected_at": "2026-08-25T10:04:05.688828+00:00",
+  "last_checked_at": "2026-09-18T17:13:38.312978+00:00",
+  "last_collected_at": "2026-09-18T17:16:01.323674+00:00",
   "ministry": "재정경제부,행정안전부",
   "mst": "288915",
   "name": "조세특례제한법 시행령",
   "payload_law_id": "004920",
+  "prev_name": null,
   "promulgation_date": "20260818",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "5558172f24c412d6"
  },
  "law:eflaw:004925": {
@@ -50754,8 +50761,12 @@
  },
  "law:eflaw:008218": {
   "attempts": 0,
-  "collected_signature": "e3c7d72fadcbd42e",
-  "content_hash": "5177c46bd8b018cded52f4e04790aead67df21990abff5c8c9b14ea08718ac0e",
+  "body_stats": {
+   "articles": 167,
+   "chars": 121956
+  },
+  "collected_signature": "fa0e408d59b9e583",
+  "content_hash": "0920d4c2cc2b5698232626de31e7ae525f41022c4d7fb8ee9a78c552ce3eb322",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289267&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "008218",
@@ -50763,14 +50774,16 @@
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "e3c7d72fadcbd42e",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:43:43.636358+00:00",
-  "last_collected_at": "2026-09-03T04:59:39.795452+00:00",
+  "last_checked_at": "2026-09-18T17:13:38.312049+00:00",
+  "last_collected_at": "2026-09-18T17:42:36.721487+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "재정경제부,행정안전부",
   "mst": "289267",
   "name": "조세특례제한법 시행규칙",
   "payload_law_id": "008218",
+  "prev_name": null,
   "promulgation_date": "20260831",
   "status": "done",
   "version_count": 1,
@@ -66477,10 +66490,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 494,
-   "chars": 211660
+   "chars": 211654
   },
-  "collected_signature": "35aa864f6484c841",
-  "content_hash": "b58699056c255d38923b005db27aa653aea22956eb259baa4b8c9a5e9eb4645c",
+  "collected_signature": "a76444295f240240",
+  "content_hash": "e8977fb160f6686305c6633bc1d7eb5bb9944bdebd4b3f5f067824c472f623d6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284321&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "010162",
@@ -66490,8 +66503,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:08:21.388063+00:00",
-  "last_collected_at": "2026-09-15T17:41:11.873824+00:00",
+  "last_checked_at": "2026-09-18T17:13:38.400413+00:00",
+  "last_collected_at": "2026-09-18T17:45:20.810209+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "284321",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
@@ -66499,7 +66512,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 16,
+  "version_count": 1,
   "version_signature": "a76444295f240240"
  },
  "law:eflaw:010163": {
@@ -67762,10 +67775,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 87,
-   "chars": 29684
+   "chars": 29747
   },
-  "collected_signature": "35aee97ce47936a0",
-  "content_hash": "aea10eb71b7bcfb61b5488435e9e48ebc7beea46a72cebd41fac3f24c7cdf5af",
+  "collected_signature": "110e3366569dcf25",
+  "content_hash": "7dac3ce8d3bd9219ad1062fa3606ffbf696be4308edb7aa6c841e55ce632302d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288913&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "010231",
@@ -67775,8 +67788,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:08:20.973606+00:00",
-  "last_collected_at": "2026-09-15T17:15:43.174720+00:00",
+  "last_checked_at": "2026-09-18T17:13:37.905533+00:00",
+  "last_collected_at": "2026-09-18T17:18:46.595791+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "288913",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 시행령",
@@ -85011,8 +85024,12 @@
  },
  "law:eflaw:011498": {
   "attempts": 0,
-  "collected_signature": "13412f54e38e72de",
-  "content_hash": "3de373fb794786c5743d1cad3ad13126a477926fcdfcf55d500ec9fd7981ec29",
+  "body_stats": {
+   "articles": 9,
+   "chars": 4152
+  },
+  "collected_signature": "2897f28ef5854387",
+  "content_hash": "1180df692cf12dc730c6194117a9724c501f11b2a2aeab12823f7eb8d6d4311e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289269&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "011498",
@@ -85020,14 +85037,16 @@
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "13412f54e38e72de",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:43:43.458647+00:00",
-  "last_collected_at": "2026-09-03T04:44:16.900436+00:00",
+  "last_checked_at": "2026-09-18T17:13:37.829711+00:00",
+  "last_collected_at": "2026-09-18T17:14:16.797986+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "기후에너지환경부",
   "mst": "289269",
   "name": "지능형전력망의 구축 및 이용촉진에 관한 법률 시행규칙",
   "payload_law_id": "011498",
+  "prev_name": null,
   "promulgation_date": "20260831",
   "status": "done",
   "version_count": 1,
