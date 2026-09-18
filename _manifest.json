@@ -17656,8 +17656,13 @@
   "version_signature": "b1f85ea4242bad41"
  },
  "law:eflaw:002249": {
-  "collected_signature": "6ac24eb7758f0990",
-  "content_hash": "1f45190611dc17f7cba4e47cd4da6e01349e01257032b1e074784549138001be",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 208,
+   "chars": 115862
+  },
+  "collected_signature": "a59df1dfcb3f45c3",
+  "content_hash": "aee4bd28742968e65550f5931ea0d5236d9c907fb60589eb704b2c90cfda70e5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288717&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "002249",
@@ -17665,13 +17670,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "6ac24eb7758f0990",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T11:42:07.119754+00:00",
-  "last_collected_at": "2026-08-22T12:06:05.572270+00:00",
+  "last_checked_at": "2026-09-18T15:21:07.960841+00:00",
+  "last_collected_at": "2026-09-18T15:22:28.093350+00:00",
   "ministry": "고용노동부",
   "mst": "288717",
   "name": "고용보험법 시행령",
   "payload_law_id": "002249",
+  "prev_name": null,
   "promulgation_date": "20260818",
   "status": "done",
   "version_count": 1,
@@ -80280,10 +80287,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 68,
-   "chars": 42636
+   "chars": 42711
   },
-  "collected_signature": "211f07bbcec2e29e",
-  "content_hash": "c9c0dbe22b6ed30e6717e82bfa052d6cef726cb717619895354245210754e35f",
+  "collected_signature": "f704d6b377138323",
+  "content_hash": "af17148454bea0449f842c3ebd69a660a3e1921e5d371fdb3effab9c92c06c35",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284343&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "011186",
@@ -80293,8 +80300,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-17T15:00:16.946321+00:00",
-  "last_collected_at": "2026-09-17T15:06:28.521503+00:00",
+  "last_checked_at": "2026-09-18T15:21:08.425427+00:00",
+  "last_collected_at": "2026-09-18T15:25:55.354241+00:00",
   "ministry": "해양수산부",
   "mst": "284343",
   "name": "공유수면 관리 및 매립에 관한 법률",
@@ -82477,8 +82484,13 @@
   "version_signature": "53ad9513416c040e"
  },
  "law:eflaw:011358": {
-  "collected_signature": "6c36cf1642c888d7",
-  "content_hash": "07bb8ad9a8dd0d4346545ce41a05f9c962f51da67935da260eb585dd1b93154b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 43,
+   "chars": 21871
+  },
+  "collected_signature": "5645a4c3be20350a",
+  "content_hash": "2564295cedaebb318bcb88f2115a53c82401abf70bbdf775c6de186373154032",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284345&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "011358",
@@ -82486,16 +82498,18 @@
   "doc_type": "법률",
   "emitted_signature": "6c36cf1642c888d7",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T14:38:38.725422+00:00",
-  "last_collected_at": "2026-08-22T14:41:27.603616+00:00",
+  "last_checked_at": "2026-09-18T15:21:08.173671+00:00",
+  "last_collected_at": "2026-09-18T15:22:56.735926+00:00",
   "ministry": "국민권익위원회",
   "mst": "284345",
   "name": "공익신고자 보호법",
   "payload_law_id": "011358",
+  "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "5645a4c3be20350a"
  },
  "law:eflaw:011359": {
@@ -100432,10 +100446,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 70,
-   "chars": 32274
+   "chars": 32334
   },
-  "collected_signature": "f18d4650a04605b3",
-  "content_hash": "21cf84a61b15dce30d6fd771f57bd9532d9694fad5477bc20a39f8d97793636d",
+  "collected_signature": "6b648f2d9078566b",
+  "content_hash": "ce94c3928f7af3dc8854ca8f6e02183e8a0eadcab0508af2fbf13ffb01d495fa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288853&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "012844",
@@ -100445,8 +100459,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:04:14.484824+00:00",
-  "last_collected_at": "2026-09-15T15:11:58.015029+00:00",
+  "last_checked_at": "2026-09-18T15:21:08.546318+00:00",
+  "last_collected_at": "2026-09-18T15:26:41.675468+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:44.264724+00:00",
   "ministry": "국토교통부",
@@ -118177,8 +118191,13 @@
   "version_signature": "2eb5c2d55701415f"
  },
  "law:eflaw:014613": {
-  "collected_signature": "5fb8a4f429908d6a",
-  "content_hash": "82d805ceb2af4646ac0a123e2720e069158e8fbcf38e4f6ec9ea017521abc513",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 19642
+  },
+  "collected_signature": "68504780145fe2c2",
+  "content_hash": "c8a52a8b6934161238cc403e1ab57a0ad02de6d27bfcecf167a8c7cef66a8b48",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284295&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "014613",
@@ -118186,16 +118205,18 @@
   "doc_type": "법률",
   "emitted_signature": "5fb8a4f429908d6a",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:52:24.763945+00:00",
-  "last_collected_at": "2026-08-22T19:55:51.040520+00:00",
+  "last_checked_at": "2026-09-18T15:21:07.912950+00:00",
+  "last_collected_at": "2026-09-18T15:23:47.362322+00:00",
   "ministry": "산업통상부",
   "mst": "284295",
   "name": "국가자원안보 특별법",
   "payload_law_id": "014613",
+  "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "68504780145fe2c2"
  },
  "law:eflaw:014614": {
@@ -121745,10 +121766,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 33,
-   "chars": 17499
+   "chars": 17515
   },
-  "collected_signature": "b45ed7a18d85028a",
-  "content_hash": "5e469f123d1d1b21231ef218346a87822ad6759e4f7c61c9ecac4e2951f08477",
+  "collected_signature": "3a42086447cfeb3a",
+  "content_hash": "be1cb64d48f98ba37726063460b1068eb7fd724e8d20b1b91da11dcf9b4c185a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284293&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "014860",
@@ -121758,8 +121779,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:13:04.868135+00:00",
-  "last_collected_at": "2026-09-15T15:16:45.116151+00:00",
+  "last_checked_at": "2026-09-18T15:21:08.429867+00:00",
+  "last_collected_at": "2026-09-18T15:24:51.022306+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284293",
   "name": "국가기간 전력망 확충 특별법",
@@ -121767,7 +121788,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3a42086447cfeb3a"
  },
  "law:eflaw:014861": {
