@@ -54015,26 +54015,33 @@
   "version_signature": "db36a3529b3e3ee8"
  },
  "law:eflaw:008775": {
-  "collected_signature": "ba08a7cfb1f399d8",
-  "content_hash": "3fd9e1184999d5c19fbe908086e5485d8e0ff56a4b6fdf9b3515f988f2d0af95",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285761&type=HTML&mobileYn=&efYd=20260504",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 4783
+  },
+  "collected_signature": "4cc150b1b27a7128",
+  "content_hash": "f205d4a66151a214fdec26b227a60be32e554c9686496107afeb96421846d295",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289803&type=HTML&mobileYn=&efYd=20260921",
   "doc_domain": "law",
   "doc_id": "008775",
   "doc_target": "eflaw",
   "doc_type": "감사원규칙",
   "emitted_signature": "ba08a7cfb1f399d8",
-  "enforcement_date": "20260504",
+  "enforcement_date": "20260921",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:42:04.986757+00:00",
-  "last_collected_at": "2026-08-22T06:46:26.348030+00:00",
+  "last_checked_at": "2026-09-21T15:00:20.042290+00:00",
+  "last_collected_at": "2026-09-21T15:00:43.493625+00:00",
   "ministry": "감사원",
-  "mst": "285761",
+  "mst": "289803",
   "name": "감사원사무처 직제",
   "payload_law_id": "008775",
-  "promulgation_date": "20260504",
+  "prev_name": null,
+  "promulgation_date": "20260921",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ba08a7cfb1f399d8"
+  "version_signature": "4cc150b1b27a7128"
  },
  "law:eflaw:008776": {
   "collected_signature": "4aeaeb9ced7a66ba",
