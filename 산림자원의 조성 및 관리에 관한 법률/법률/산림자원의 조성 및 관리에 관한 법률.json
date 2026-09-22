@@ -1918,7 +1918,23 @@
             "target_git_path": "수형목 지정해제/수형목 지정해제.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidate_paths": [
+              {
+                "git_path": "수형목 지정해제/admrul_62421/수형목 지정해제.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수형목지정해제:admrul_62421#DOC",
+                "is_current": true,
+                "enforcement_date": "20180621"
+              },
+              {
+                "git_path": "수형목 지정해제/admrul_72752/수형목 지정해제.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수형목지정해제:admrul_72752#DOC",
+                "is_current": true,
+                "enforcement_date": "20180621"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -1985,7 +2001,23 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "수형목 지정해제/수형목 지정해제.json",
             "target_git_path": "수형목 지정해제/수형목 지정해제.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "수형목 지정해제/admrul_62421/수형목 지정해제.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수형목지정해제:admrul_62421#DOC",
+                "is_current": true,
+                "enforcement_date": "20180621"
+              },
+              {
+                "git_path": "수형목 지정해제/admrul_72752/수형목 지정해제.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:수형목지정해제:admrul_72752#DOC",
+                "is_current": true,
+                "enforcement_date": "20180621"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
