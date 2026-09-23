@@ -4025,8 +4025,13 @@
   "version_signature": "fccf7e01f42ee4d6"
  },
  "law:eflaw:000591": {
-  "collected_signature": "69237d8f90474fa1",
-  "content_hash": "7861d9780262a270a550595471fc362bbbdb36f54e8b518600f06af6f956fe3c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 64,
+   "chars": 18565
+  },
+  "collected_signature": "3ad4092c52b458c4",
+  "content_hash": "9c0e5481955e37cd5e944b1bdf618a358dd4bc32a90db1124a1544ea2527383f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285903&type=HTML&mobileYn=&efYd=20260813",
   "doc_domain": "law",
   "doc_id": "000591",
@@ -4034,16 +4039,18 @@
   "doc_type": "법률",
   "emitted_signature": "69237d8f90474fa1",
   "enforcement_date": "20260813",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T16:51:59.110891+00:00",
-  "last_collected_at": "2026-08-22T16:55:13.540938+00:00",
+  "last_checked_at": "2026-09-23T01:42:37.587873+00:00",
+  "last_collected_at": "2026-09-23T01:44:48.996948+00:00",
   "ministry": "재정경제부",
   "mst": "285903",
   "name": "관세사법",
   "payload_law_id": "000591",
+  "prev_name": null,
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3ad4092c52b458c4"
  },
  "law:eflaw:000592": {
@@ -112938,8 +112945,8 @@
    "articles": 96,
    "chars": 49164
   },
-  "collected_signature": "b92158426387e0eb",
-  "content_hash": "a595f03ee3f309c749a1773cf1164e9b2d14c5394b051e64b63782e906175c66",
+  "collected_signature": "1df6f96124be3e5f",
+  "content_hash": "594475c589cecf91f981ff935b6e02aa3aa2f6ce5065b0e3d8333d8898502b9e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284347&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "014152",
@@ -112949,8 +112956,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T15:45:14.818613+00:00",
-  "last_collected_at": "2026-09-18T15:47:29.264090+00:00",
+  "last_checked_at": "2026-09-23T01:42:37.836901+00:00",
+  "last_collected_at": "2026-09-23T01:45:03.647831+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284347",
   "name": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법",
@@ -112958,7 +112965,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "1df6f96124be3e5f"
  },
  "law:eflaw:014155": {
@@ -114432,11 +114439,11 @@
  "law:eflaw:014255": {
   "attempts": 0,
   "body_stats": {
-   "articles": 80,
-   "chars": 60074
+   "articles": 84,
+   "chars": 62344
   },
-  "collected_signature": "48d76408b30d04bd",
-  "content_hash": "839c1778bc77aea03abda445b2483b44d834ca743f79b08e60f0ecadfb0c6795",
+  "collected_signature": "d08a85fdea42f59d",
+  "content_hash": "ef0187841a026967b91111779b1d8876c82362039492c4a04ac8278b379ac168",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289965&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "014255",
@@ -114446,8 +114453,8 @@
   "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T15:45:15.066298+00:00",
-  "last_collected_at": "2026-09-18T15:51:57.142017+00:00",
+  "last_checked_at": "2026-09-23T01:42:37.839145+00:00",
+  "last_collected_at": "2026-09-23T01:43:38.741178+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289965",
   "name": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 시행령",
@@ -114455,7 +114462,7 @@
   "prev_name": null,
   "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "d08a85fdea42f59d"
  },
  "law:eflaw:014256": {
@@ -117643,8 +117650,13 @@
   "version_signature": "63b6c2af5871531e"
  },
  "law:eflaw:014515": {
-  "collected_signature": "8d25c252e6de57bd",
-  "content_hash": "376c47674477f62e6c2b554c9b76ae3f898c219cb95f1ac0ff4455d44954e033",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 30,
+   "chars": 13137
+  },
+  "collected_signature": "cf6aca5f94fa74c4",
+  "content_hash": "99be96439728fcc7bba926d5ad5b6acef7239daded536effa80823b3008c560a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279773&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "014515",
@@ -117652,16 +117664,18 @@
   "doc_type": "법률",
   "emitted_signature": "8d25c252e6de57bd",
   "enforcement_date": "20260101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:53:56.997582+00:00",
-  "last_collected_at": "2026-08-23T03:56:08.974816+00:00",
+  "last_checked_at": "2026-09-23T01:42:37.886485+00:00",
+  "last_collected_at": "2026-09-23T01:44:47.914890+00:00",
   "ministry": "기상청,해양수산부",
   "mst": "279773",
   "name": "기후ㆍ기후변화 감시 및 예측 등에 관한 법률",
   "payload_law_id": "014515",
+  "prev_name": null,
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "cf6aca5f94fa74c4"
  },
  "law:eflaw:014516": {
@@ -120773,8 +120787,13 @@
   "version_signature": "2f2a3e7b94b8c379"
  },
  "law:eflaw:014722": {
-  "collected_signature": "27b66178b53e9ea7",
-  "content_hash": "61cb4a359895c9bc5535a83e5c4b2705626a0e6114f41da153ec26a71c44fac7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 5371
+  },
+  "collected_signature": "b1e58b223dc3b689",
+  "content_hash": "891dd46a3f4672fbb857028effcd62b11371789654d0be9d02a83c27546f5f21",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277937&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "014722",
@@ -120782,16 +120801,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "27b66178b53e9ea7",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T23:49:11.418819+00:00",
-  "last_collected_at": "2026-08-22T23:56:33.185027+00:00",
+  "last_checked_at": "2026-09-23T01:42:37.450233+00:00",
+  "last_collected_at": "2026-09-23T01:45:06.044398+00:00",
   "ministry": "국토교통부,기후에너지환경부",
   "mst": "277937",
   "name": "국제항공 탄소 배출량 관리에 관한 법률 시행령",
   "payload_law_id": "014722",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b1e58b223dc3b689"
  },
  "law:eflaw:014723": {
@@ -127604,18 +127625,30 @@
   "version_signature": "d82cbf27e8483b87"
  },
  "law:eflaw:015215": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 14396
+  },
+  "collected_signature": "750706225cdca7f0",
+  "content_hash": "82f641b93135bc7f814e0f018383180ff6bcb83f394d80d0880d7d328b44237e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289885&type=HTML&mobileYn=&efYd=20270923",
   "doc_domain": "law",
   "doc_id": "015215",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "enforcement_date": "20270923",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-09-23T01:42:37.355895+00:00",
+  "last_collected_at": "2026-09-23T01:43:12.014373+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289885",
   "name": "기후위기 적응 및 회복력 강화에 관한 법률",
+  "payload_law_id": "015215",
+  "prev_name": null,
   "promulgation_date": "20260922",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "750706225cdca7f0"
  },
