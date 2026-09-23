@@ -3752,13 +3752,30 @@
             "target_url": "https://www.law.go.kr/학칙공단/(국립공원공단) 임원추천위원회 운영규정",
             "resolve_method": "render",
             "source_provision_id": "law:공공기관의운영에관한법률시행령#JO0023",
-            "reference_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정#DOC",
+            "reference_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2141945#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(국립공원공단) 임원추천위원회 운영규정/(국립공원공단) 임원추천위원회 운영규정.json",
-            "target_git_path": "(국립공원공단) 임원추천위원회 운영규정/(국립공원공단) 임원추천위원회 운영규정.json",
+            "target_git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2141945/(국립공원공단) 임원추천위원회 운영규정.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2126609/(국립공원공단) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2126609#DOC",
+                "is_current": true,
+                "enforcement_date": "20250801"
+              },
+              {
+                "git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2141945/(국립공원공단) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2141945#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -4022,11 +4039,28 @@
               "target_url": "https://www.law.go.kr/학칙공단/(국립공원공단) 임원추천위원회 운영규정"
             },
             "source_provision_id": "law:공공기관의운영에관한법률시행령#JO0023",
-            "reference_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정#DOC",
+            "reference_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2141945#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(국립공원공단) 임원추천위원회 운영규정/(국립공원공단) 임원추천위원회 운영규정.json",
-            "target_git_path": "(국립공원공단) 임원추천위원회 운영규정/(국립공원공단) 임원추천위원회 운영규정.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2141945/(국립공원공단) 임원추천위원회 운영규정.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2126609/(국립공원공단) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2126609#DOC",
+                "is_current": true,
+                "enforcement_date": "20250801"
+              },
+              {
+                "git_path": "(국립공원공단) 임원추천위원회 운영규정/pi_2141945/(국립공원공단) 임원추천위원회 운영규정.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)임원추천위원회운영규정:pi_2141945#DOC",
+                "is_current": true,
+                "enforcement_date": "20260903"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

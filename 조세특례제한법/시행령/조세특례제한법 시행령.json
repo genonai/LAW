@@ -24531,10 +24531,27 @@
             "reference_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
-            "target_git_path": "소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
+            "target_git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20260921"
+              },
+              {
+                "git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230901"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -24561,8 +24578,25 @@
             "reference_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
-            "target_git_path": "소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20260921"
+              },
+              {
+                "git_path": "소득공제가 되는 신용카드 등 사용금액 확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시/소득공제가 되는 신용카드 등 사용금액확인 등에 대한 고시.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:소득공제가되는신용카드등사용금액확인등에대한고시:소득공제가되는신용카드등사용금액확인등에대한고시#DOC",
+                "is_current": true,
+                "enforcement_date": "20230901"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
