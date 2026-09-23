@@ -779,8 +779,13 @@
   "version_signature": "795f3126c16576a0"
  },
  "law:eflaw:000092": {
-  "collected_signature": "48d86cebcfedaa59",
-  "content_hash": "4b33ed59307f3346db48a154650bfbc05adda41f12a542b0d0ee007e50aceb72",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 94,
+   "chars": 41188
+  },
+  "collected_signature": "84cb3884ad3c03ae",
+  "content_hash": "8cf2f5811880f4251f6679acdf96f93a5cc1d6a5e483c537f72ec8b64a4e508f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276993&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000092",
@@ -788,16 +793,18 @@
   "doc_type": "법률",
   "emitted_signature": "48d86cebcfedaa59",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T12:56:21.965871+00:00",
-  "last_collected_at": "2026-08-23T13:03:58.486789+00:00",
+  "last_checked_at": "2026-09-23T01:51:50.377951+00:00",
+  "last_collected_at": "2026-09-23T01:54:48.972687+00:00",
   "ministry": "국토교통부,해양수산부",
   "mst": "276993",
   "name": "물류정책기본법",
   "payload_law_id": "000092",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "84cb3884ad3c03ae"
  },
  "law:eflaw:000096": {
@@ -7691,8 +7698,13 @@
   "version_signature": "cd0d5b9e07c4a0f1"
  },
  "law:eflaw:001123": {
-  "collected_signature": "9e2e44c56bb15c80",
-  "content_hash": "c7f9418964af06aea5ed9e2a562d6de3441d13517dbd925b2dc3ffd5d4b5ffa9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 116,
+   "chars": 26735
+  },
+  "collected_signature": "78371914e314da22",
+  "content_hash": "21aa0c7d49421ecdc2a17c450ee97df99a5ef7ae01fa28f72d9387ed4f707a62",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268863&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "001123",
@@ -7700,16 +7712,18 @@
   "doc_type": "법률",
   "emitted_signature": "9e2e44c56bb15c80",
   "enforcement_date": "20260201",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:54:55.027152+00:00",
-  "last_collected_at": "2026-08-23T19:00:30.427150+00:00",
+  "last_checked_at": "2026-09-23T01:51:49.766248+00:00",
+  "last_collected_at": "2026-09-23T01:54:52.845075+00:00",
   "ministry": "법무부",
   "mst": "268863",
   "name": "보호관찰 등에 관한 법률",
   "payload_law_id": "001123",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "78371914e314da22"
  },
  "law:eflaw:001124": {
@@ -14644,11 +14658,11 @@
  "law:eflaw:001821": {
   "attempts": 0,
   "body_stats": {
-   "articles": 126,
-   "chars": 60808
+   "articles": 129,
+   "chars": 61925
   },
-  "collected_signature": "5baa5fca027a4338",
-  "content_hash": "5c7117b9236d1792505247d54c7678cddc29efd55ee10c0962f872d14619de8c",
+  "collected_signature": "27344270357ff6b6",
+  "content_hash": "1f7435867c6fdfabe409303cbd0db2b916ecf22ac96e7fed39909efaaa50fc54",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284465&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "001821",
@@ -14658,8 +14672,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T15:58:32.177576+00:00",
-  "last_collected_at": "2026-09-18T15:59:22.101633+00:00",
+  "last_checked_at": "2026-09-23T01:51:50.206626+00:00",
+  "last_collected_at": "2026-09-23T01:57:02.949024+00:00",
   "ministry": "국토교통부",
   "mst": "284465",
   "name": "도로법",
@@ -14667,7 +14681,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "27344270357ff6b6"
  },
  "law:eflaw:001823": {
@@ -57645,11 +57659,11 @@
  "law:eflaw:009412": {
   "attempts": 0,
   "body_stats": {
-   "articles": 82,
-   "chars": 59904
+   "articles": 83,
+   "chars": 60155
   },
-  "collected_signature": "489d23ceac108233",
-  "content_hash": "188c711ae83f6cd570b95edc63d56601d023d31e95cf350d9aa3f92ee522bc56",
+  "collected_signature": "d2eefb96909770d0",
+  "content_hash": "11262dfff4941a795514e84d9e94a1d8e7383bc1cf5fb141c1213a7132ed0658",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289913&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "009412",
@@ -57659,8 +57673,8 @@
   "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:28:07.864946+00:00",
-  "last_collected_at": "2026-09-18T16:33:56.417379+00:00",
+  "last_checked_at": "2026-09-23T01:51:50.358237+00:00",
+  "last_collected_at": "2026-09-23T01:52:46.353546+00:00",
   "ministry": "산림청",
   "mst": "289913",
   "name": "산지관리법",
@@ -57668,7 +57682,7 @@
   "prev_name": null,
   "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "d2eefb96909770d0"
  },
  "law:eflaw:009413": {
@@ -90852,10 +90866,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 99,
-   "chars": 44816
+   "chars": 44953
   },
-  "collected_signature": "eb7cb4724a1c03aa",
-  "content_hash": "7751d2940f63a2e8661990cbc9bf434bc041ae9d415f2183827e33640dd4ad03",
+  "collected_signature": "c630bfa850f89646",
+  "content_hash": "4b70ca3718c0105aa8eca4e50ddaabfc49620ab636c432117c77c7d523491511",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289975&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "011908",
@@ -90865,8 +90879,8 @@
   "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:41:47.623603+00:00",
-  "last_collected_at": "2026-09-18T16:48:33.669465+00:00",
+  "last_checked_at": "2026-09-23T01:51:50.395195+00:00",
+  "last_collected_at": "2026-09-23T01:57:58.380657+00:00",
   "ministry": "국토교통부",
   "mst": "289975",
   "name": "새만금사업 추진 및 지원에 관한 특별법 시행령",
@@ -106756,8 +106770,13 @@
   "version_signature": "809e38c0e7ac3c20"
  },
  "law:eflaw:013682": {
-  "collected_signature": "e07a12b7d266458a",
-  "content_hash": "a64592b3cabcb0c4d294b6cb394e2559500600600dd8a675c9b126dd40f369d7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 10127
+  },
+  "collected_signature": "9feca138637db773",
+  "content_hash": "57414e966ae1f5223d846dd31d319e405a477257957923ab199bb5b51ae260ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=253981&type=HTML&mobileYn=&efYd=20240217",
   "doc_domain": "law",
   "doc_id": "013682",
@@ -106765,16 +106784,18 @@
   "doc_type": "법률",
   "emitted_signature": "e07a12b7d266458a",
   "enforcement_date": "20240217",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T02:13:40.536839+00:00",
-  "last_collected_at": "2026-08-24T02:15:12.252792+00:00",
+  "last_checked_at": "2026-09-23T01:51:49.641685+00:00",
+  "last_collected_at": "2026-09-23T01:52:28.378103+00:00",
   "ministry": "산림청",
   "mst": "253981",
   "name": "석재산업 진흥에 관한 법률",
   "payload_law_id": "013682",
+  "prev_name": null,
   "promulgation_date": "20230816",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "9feca138637db773"
  },
  "law:eflaw:013683": {
