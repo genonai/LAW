@@ -445,8 +445,13 @@
   "version_signature": "ee7fce4b7662de02"
  },
  "law:eflaw:000047": {
-  "collected_signature": "adde4cbec3a935fa",
-  "content_hash": "0f0e1da159e33187b2031ee9fbd2f498c08005164281237c90b541ab5c672381",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 129,
+   "chars": 27328
+  },
+  "collected_signature": "ab6752a7eed77e68",
+  "content_hash": "0f09b17fabf32d6e8371ea33f95afee566be59dae1a709b9443619e6a830e050",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252943&type=HTML&mobileYn=&efYd=20240126",
   "doc_domain": "law",
   "doc_id": "000047",
@@ -454,16 +459,18 @@
   "doc_type": "법률",
   "emitted_signature": "adde4cbec3a935fa",
   "enforcement_date": "20240126",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:31:18.231611+00:00",
-  "last_collected_at": "2026-08-26T08:34:14.205391+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.728379+00:00",
+  "last_collected_at": "2026-09-23T02:47:36.435771+00:00",
   "ministry": "해양수산부",
   "mst": "252943",
   "name": "해양사고의 조사 및 심판에 관한 법률",
   "payload_law_id": "000047",
+  "prev_name": null,
   "promulgation_date": "20230725",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ab6752a7eed77e68"
  },
  "law:eflaw:000049": {
@@ -13899,8 +13906,13 @@
   "version_signature": "db622677fa0b0fe8"
  },
  "law:eflaw:001748": {
-  "collected_signature": "5742fd4babdc43e7",
-  "content_hash": "8988c65b0fb7691390a436113787b485788a6aa9d756f547a10f67559ca35e6e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 137,
+   "chars": 71895
+  },
+  "collected_signature": "7c45273ca752c16c",
+  "content_hash": "f53214f3e0e94a493dcb0e4f349273e6cdc4203f3dc616506cd50f4171f67b09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286393&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001748",
@@ -13908,16 +13920,18 @@
   "doc_type": "법률",
   "emitted_signature": "5742fd4babdc43e7",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:26:32.356051+00:00",
-  "last_collected_at": "2026-08-26T11:36:30.952915+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.729229+00:00",
+  "last_collected_at": "2026-09-23T02:47:16.252420+00:00",
   "ministry": "국토교통부",
   "mst": "286393",
   "name": "화물자동차 운수사업법",
   "payload_law_id": "001748",
+  "prev_name": null,
   "promulgation_date": "20260529",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "7c45273ca752c16c"
  },
  "law:eflaw:001749": {
@@ -32935,8 +32949,13 @@
   "version_signature": "c842574f84fdf366"
  },
  "law:eflaw:005299": {
-  "collected_signature": "2609687ebd51b46a",
-  "content_hash": "e8bf469346d4c2ed5ec4c4560ccdb7ceb70c4711a12a30e0fa85a8bfd7d529c1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 4738
+  },
+  "collected_signature": "8993638a12aa8f93",
+  "content_hash": "60996afbbe30409758d4c1edcbf111702e7fef8793f0797d64e744893e207cee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=242155&type=HTML&mobileYn=&efYd=20220721",
   "doc_domain": "law",
   "doc_id": "005299",
@@ -32944,16 +32963,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "2609687ebd51b46a",
   "enforcement_date": "20220721",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:52:48.782122+00:00",
-  "last_collected_at": "2026-08-25T20:53:45.343978+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.412765+00:00",
+  "last_collected_at": "2026-09-23T02:47:11.076334+00:00",
   "ministry": "통일부",
   "mst": "242155",
   "name": "통일교육 지원법 시행령",
   "payload_law_id": "005299",
+  "prev_name": null,
   "promulgation_date": "20220509",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8993638a12aa8f93"
  },
  "law:eflaw:005300": {
@@ -76926,8 +76947,13 @@
   "version_signature": "c16cd50b858b2575"
  },
  "law:eflaw:010868": {
-  "collected_signature": "61b3725e3e31811c",
-  "content_hash": "e01e719b3109317259dd6f2e1822b03a7034d02ba06aef03d4038f7dc8888d2c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 5537
+  },
+  "collected_signature": "129a49aa1f89eb99",
+  "content_hash": "cbdd59f07cab21155be6436e419eeb7bc936dd6f997d6f9a31e66f4812111bbf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289807&type=HTML&mobileYn=&efYd=20260923",
   "doc_domain": "law",
   "doc_id": "010868",
@@ -76935,16 +76961,18 @@
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "61b3725e3e31811c",
   "enforcement_date": "20260923",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T12:11:36.238676+00:00",
-  "last_collected_at": "2026-08-26T12:13:40.714848+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.764246+00:00",
+  "last_collected_at": "2026-09-23T02:47:04.680013+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289807",
   "name": "환경교육의 활성화 및 지원에 관한 법률 시행규칙",
   "payload_law_id": "010868",
+  "prev_name": null,
   "promulgation_date": "20260923",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "129a49aa1f89eb99"
  },
  "law:eflaw:010869": {
@@ -92445,8 +92473,13 @@
   "version_signature": "11e0d84f54244dd2"
  },
  "law:eflaw:012055": {
-  "collected_signature": "823a2c48c34de0c3",
-  "content_hash": "a269fb57a44f35f1a96332c7fae6aa570c4cedf375efbc1f69932390d4172d04",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 3658
+  },
+  "collected_signature": "f9b83d1e2f45e5ea",
+  "content_hash": "5438da9a199e59acbf8f1edd9783699a467820484fe0539df07810d230a0cdea",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289903&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "012055",
@@ -92454,13 +92487,15 @@
   "doc_type": "법률",
   "emitted_signature": "823a2c48c34de0c3",
   "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:54:06.021496+00:00",
-  "last_collected_at": "2026-08-26T07:06:56.351338+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.729957+00:00",
+  "last_collected_at": "2026-09-23T02:47:22.444815+00:00",
   "ministry": "국토교통부",
   "mst": "289903",
   "name": "항공안전기술원법",
   "payload_law_id": "012055",
+  "prev_name": null,
   "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
@@ -100537,8 +100572,13 @@
   "version_signature": "55a96e7e78fabdd2"
  },
  "law:eflaw:012712": {
-  "collected_signature": "850448457f292def",
-  "content_hash": "83007063a0279f29e137d9ca89ae82b216b7cac138f370bcf78744268f451f6c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 9522
+  },
+  "collected_signature": "ba583064f01eec11",
+  "content_hash": "ca84fd11c9f868fda16b374e5e09c6ad95d2d9dd93186974ee44ce0a131c0a31",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268821&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "012712",
@@ -100546,16 +100586,18 @@
   "doc_type": "법률",
   "emitted_signature": "850448457f292def",
   "enforcement_date": "20260201",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:34:52.002292+00:00",
-  "last_collected_at": "2026-08-26T08:39:31.415090+00:00",
+  "last_checked_at": "2026-09-23T02:46:13.530861+00:00",
+  "last_collected_at": "2026-09-23T02:47:26.430646+00:00",
   "ministry": "해양수산부",
   "mst": "268821",
   "name": "해양수산과학기술 육성법",
   "payload_law_id": "012712",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ba583064f01eec11"
  },
  "law:eflaw:012715": {
