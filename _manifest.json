@@ -463,8 +463,8 @@
   "payload_law_id": "000047",
   "promulgation_date": "20230725",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "adde4cbec3a935fa"
+  "version_count": 2,
+  "version_signature": "ab6752a7eed77e68"
  },
  "law:eflaw:000049": {
   "collected_signature": "85727c75a401bdbf",
@@ -797,8 +797,8 @@
   "payload_law_id": "000092",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "48d86cebcfedaa59"
+  "version_count": 3,
+  "version_signature": "84cb3884ad3c03ae"
  },
  "law:eflaw:000096": {
   "attempts": 0,
@@ -893,8 +893,8 @@
   "payload_law_id": "000106",
   "promulgation_date": "20251202",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "677b3563d59c6348"
+  "version_count": 4,
+  "version_signature": "6004a78a06a94b22"
  },
  "law:eflaw:000110": {
   "collected_signature": "776f9c8437c2a20f",
@@ -2711,7 +2711,7 @@
   "doc_id": "000299",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "emitted_signature": "__meta__:91fce2888b9a9643",
+  "emitted_signature": "91fce2888b9a9643",
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
@@ -4043,8 +4043,8 @@
   "payload_law_id": "000591",
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "69237d8f90474fa1"
+  "version_count": 2,
+  "version_signature": "3ad4092c52b458c4"
  },
  "law:eflaw:000592": {
   "collected_signature": "ad2c59646f6fe0c8",
@@ -6908,24 +6908,24 @@
  "law:eflaw:000977": {
   "collected_signature": "7dc68e4bd5535ec9",
   "content_hash": "15482c11fb426ffc22c68c9c77fbf21baf9a9e043f9f2c96f42ada7a90f135a8",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267421&type=HTML&mobileYn=&efYd=20251221",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289945&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "000977",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "7dc68e4bd5535ec9",
-  "enforcement_date": "20251221",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-24T07:30:41.528653+00:00",
   "last_collected_at": "2026-08-24T07:37:22.150344+00:00",
   "ministry": "해양경찰청",
-  "mst": "267421",
+  "mst": "289945",
   "name": "수상에서의 수색ㆍ구조 등에 관한 법률",
   "payload_law_id": "000977",
-  "promulgation_date": "20241220",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "7dc68e4bd5535ec9"
+  "version_signature": "4121811cda95df79"
  },
  "law:eflaw:000979": {
   "collected_signature": "83d5ac050977626b",
@@ -7696,8 +7696,8 @@
   "payload_law_id": "001123",
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "9e2e44c56bb15c80"
+  "version_count": 2,
+  "version_signature": "78371914e314da22"
  },
  "law:eflaw:001124": {
   "collected_signature": "ba103cf8195174a9",
@@ -9122,26 +9122,33 @@
   "version_signature": "09e535f82bfd6e3e"
  },
  "law:eflaw:001263": {
-  "collected_signature": "ea535a98a99d5b36",
-  "content_hash": "da7b3ea78fad3827ab4129e4cd2e030312d22885a4dc70a166223c637cc4e346",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=199494&type=HTML&mobileYn=&efYd=20171212",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 6078
+  },
+  "collected_signature": "ad2faeb7f27429a0",
+  "content_hash": "92553d046912b60608ec3eecd970a84c049af81ada6cfd6a18c28755561b7eb6",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289905&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "001263",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "ea535a98a99d5b36",
-  "enforcement_date": "20171212",
+  "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T14:38:39.247400+00:00",
-  "last_collected_at": "2026-08-22T14:43:09.916370+00:00",
+  "last_checked_at": "2026-09-23T01:33:17.835253+00:00",
+  "last_collected_at": "2026-09-23T01:34:11.522889+00:00",
   "ministry": "법무부",
-  "mst": "199494",
+  "mst": "289905",
   "name": "공익법인의 설립ㆍ운영에 관한 법률",
   "payload_law_id": "001263",
-  "promulgation_date": "20171212",
+  "prev_name": null,
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ea535a98a99d5b36"
+  "version_signature": "ad2faeb7f27429a0"
  },
  "law:eflaw:001264": {
   "collected_signature": "f773e055f214ee94",
@@ -11036,8 +11043,8 @@
   "payload_law_id": "001483",
   "promulgation_date": "20250916",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "0f30d0633e618624"
+  "version_count": 2,
+  "version_signature": "be0a2afbc33f4b54"
  },
  "law:eflaw:001486": {
   "collected_signature": "1edc1fdb1a696c86",
@@ -11058,8 +11065,8 @@
   "payload_law_id": "001486",
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "1edc1fdb1a696c86"
+  "version_count": 3,
+  "version_signature": "a1ffb94b9f0e0623"
  },
  "law:eflaw:001487": {
   "collected_signature": "f1fce4c49c703262",
@@ -13862,8 +13869,8 @@
   "payload_law_id": "001748",
   "promulgation_date": "20260529",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "5742fd4babdc43e7"
+  "version_count": 5,
+  "version_signature": "7c45273ca752c16c"
  },
  "law:eflaw:001749": {
   "collected_signature": "368f0361d83c06ba",
@@ -14249,8 +14256,8 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 6,
-  "version_signature": "13e62dcf652935b9"
+  "version_count": 7,
+  "version_signature": "194ab8754598c496"
  },
  "law:eflaw:001784": {
   "collected_signature": "90ee4041277c09f6",
@@ -14647,8 +14654,8 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "5baa5fca027a4338"
+  "version_count": 2,
+  "version_signature": "27344270357ff6b6"
  },
  "law:eflaw:001823": {
   "attempts": 0,
@@ -15622,8 +15629,8 @@
   "payload_law_id": "001979",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "ebf56ef69e8517c4"
+  "version_count": 2,
+  "version_signature": "0ffa7c0b8be87ca3"
  },
  "law:eflaw:001980": {
   "collected_signature": "fe7bbf03a667d4a7",
@@ -15849,8 +15856,8 @@
   "payload_law_id": "001994",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "8db9a3f80a7108aa"
+  "version_count": 2,
+  "version_signature": "3b19eef9572dbd47"
  },
  "law:eflaw:001996": {
   "collected_signature": "c687df68f681f295",
@@ -17056,8 +17063,13 @@
   "version_signature": "899e62ff72e7c664"
  },
  "law:eflaw:002115": {
-  "collected_signature": "b4e1bed6d8be9aff",
-  "content_hash": "a5bce59b51e6b87b0bacb51ea6a5645fda3f29cb2d4b2826b363499f409ef550",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 137,
+   "chars": 58473
+  },
+  "collected_signature": "da856c678ca16743",
+  "content_hash": "aba02ab05a5841dd470320eea2005854f09da53c67faa6f595a276468e4c83c6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287349&type=HTML&mobileYn=&efYd=20260623",
   "doc_domain": "law",
   "doc_id": "002115",
@@ -17065,17 +17077,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "b4e1bed6d8be9aff",
   "enforcement_date": "20260623",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T08:10:21.885875+00:00",
-  "last_collected_at": "2026-08-22T08:31:13.575818+00:00",
+  "last_checked_at": "2026-09-23T01:33:18.307967+00:00",
+  "last_collected_at": "2026-09-23T01:42:03.614676+00:00",
   "ministry": "국토교통부",
   "mst": "287349",
   "name": "건설산업기본법 시행령",
   "payload_law_id": "002115",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
   "version_count": 1,
-  "version_signature": "b4e1bed6d8be9aff"
+  "version_signature": "da856c678ca16743"
  },
  "law:eflaw:002116": {
   "collected_signature": "627d7ee4be3b7a19",
@@ -18224,8 +18238,13 @@
   "version_signature": "2b496d57d8ed6823"
  },
  "law:eflaw:002303": {
-  "collected_signature": "a663b26b3c4ecdae",
-  "content_hash": "e41ac47191e71b812b3d48be16da181d49b664439a72be60e2d68985ab1f57f4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 30910
+  },
+  "collected_signature": "6dc36a114e1a8509",
+  "content_hash": "7b0ffb13f7d47565962675f2bd8ec50a896dac8ec44b0a5c9d5ee81dff9a8142",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282475&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002303",
@@ -18233,17 +18252,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "a663b26b3c4ecdae",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:27:49.504970+00:00",
-  "last_collected_at": "2026-08-22T13:38:20.179956+00:00",
+  "last_checked_at": "2026-09-23T01:33:18.256961+00:00",
+  "last_collected_at": "2026-09-23T01:39:17.042185+00:00",
   "ministry": "인사혁신처",
   "mst": "282475",
   "name": "공무원수당 등에 관한 규정",
   "payload_law_id": "002303",
+  "prev_name": null,
   "promulgation_date": "20260102",
   "status": "done",
   "version_count": 1,
-  "version_signature": "a663b26b3c4ecdae"
+  "version_signature": "6dc36a114e1a8509"
  },
  "law:eflaw:002308": {
   "collected_signature": "729babcf6fc9af4b",
@@ -22976,7 +22997,7 @@
   "doc_id": "003325",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "emitted_signature": "__meta__:50739dd352297b29",
+  "emitted_signature": "50739dd352297b29",
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
@@ -31526,24 +31547,24 @@
  "law:eflaw:005042": {
   "collected_signature": "7f82dab5acd1215b",
   "content_hash": "9fc8900d0bbdeaa8138874e88277f8f65fbd1f2368bc96649e78e80d85e3457a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285217&type=HTML&mobileYn=&efYd=20260331",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289961&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "005042",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "7f82dab5acd1215b",
-  "enforcement_date": "20260331",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-25T12:48:43.184483+00:00",
   "last_collected_at": "2026-08-25T12:54:56.777523+00:00",
   "ministry": "행정안전부",
-  "mst": "285217",
+  "mst": "289961",
   "name": "지방공기업법 시행령",
   "payload_law_id": "005042",
-  "promulgation_date": "20260331",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "7f82dab5acd1215b"
+  "version_signature": "013ff21cf41704c1"
  },
  "law:eflaw:005044": {
   "collected_signature": "1bdd8cc2b64f3cf8",
@@ -31630,8 +31651,8 @@
   "payload_law_id": "005048",
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "502a72d3e022e7b1"
+  "version_count": 2,
+  "version_signature": "9aeb97e97757d2ef"
  },
  "law:eflaw:005050": {
   "collected_signature": "66416e371af1f542",
@@ -32377,8 +32398,8 @@
   "payload_law_id": "005209",
   "promulgation_date": "20260616",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "2cc877f9880316eb"
+  "version_count": 2,
+  "version_signature": "80fe06012dae87dd"
  },
  "law:eflaw:005212": {
   "collected_signature": "9fccb6fde541baae",
@@ -32849,8 +32870,8 @@
   "payload_law_id": "005299",
   "promulgation_date": "20220509",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "2609687ebd51b46a"
+  "version_count": 2,
+  "version_signature": "8993638a12aa8f93"
  },
  "law:eflaw:005300": {
   "collected_signature": "bbe06901d4a082a5",
@@ -43910,24 +43931,24 @@
  "law:eflaw:006971": {
   "collected_signature": "ba89b9eb9028461a",
   "content_hash": "a75963dabac3184b7039a635210a1a128d84103a44e65eb46ed460535a4cef3b",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289143&type=HTML&mobileYn=&efYd=20260827",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289989&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "006971",
   "doc_target": "eflaw",
   "doc_type": "농림축산식품부령",
   "emitted_signature": "ba89b9eb9028461a",
-  "enforcement_date": "20260827",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-23T05:27:47.614895+00:00",
   "last_collected_at": "2026-08-23T05:34:24.254325+00:00",
   "ministry": "농림축산식품부,해양수산부",
-  "mst": "289143",
+  "mst": "289989",
   "name": "농수산물 유통 및 가격안정에 관한 법률 시행규칙",
   "payload_law_id": "006971",
-  "promulgation_date": "20260827",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ba89b9eb9028461a"
+  "version_signature": "787cfd8619c3cd80"
  },
  "law:eflaw:006972": {
   "collected_signature": "3dbd858d40ab19df",
@@ -44204,24 +44225,24 @@
  "law:eflaw:007009": {
   "collected_signature": "ed6fe3cfe8f90d2b",
   "content_hash": "7f48799fa32d6dc982457a1f2a78906039d6b6958d2c1ecf79e7104e6e183db5",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279529&type=HTML&mobileYn=&efYd=20251031",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289987&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "007009",
   "doc_target": "eflaw",
   "doc_type": "농림축산식품부령",
   "emitted_signature": "ed6fe3cfe8f90d2b",
-  "enforcement_date": "20251031",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-23T06:52:58.788946+00:00",
   "last_collected_at": "2026-08-23T07:13:12.057778+00:00",
   "ministry": "농림축산식품부",
-  "mst": "279529",
+  "mst": "289987",
   "name": "농지법 시행규칙",
   "payload_law_id": "007009",
-  "promulgation_date": "20251031",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "ed6fe3cfe8f90d2b"
+  "version_signature": "ac14aa33641b3407"
  },
  "law:eflaw:007020": {
   "collected_signature": "fb05bd84e6bca8db",
@@ -54027,7 +54048,7 @@
   "doc_id": "008775",
   "doc_target": "eflaw",
   "doc_type": "감사원규칙",
-  "emitted_signature": "ba08a7cfb1f399d8",
+  "emitted_signature": "4cc150b1b27a7128",
   "enforcement_date": "20260921",
   "export_pending": null,
   "is_active": true,
@@ -54825,24 +54846,24 @@
  "law:eflaw:009201": {
   "collected_signature": "011ddfec03f20796",
   "content_hash": "fbc1cbdee3f58ce0677a67d6d0be6059e5b8176d93eab8dbc2c88d1a9a86e50c",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285157&type=HTML&mobileYn=&efYd=20260331",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289919&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "009201",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "011ddfec03f20796",
-  "enforcement_date": "20260331",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-24T06:24:58.359160+00:00",
   "last_collected_at": "2026-08-24T06:32:19.546396+00:00",
   "ministry": "산림청",
-  "mst": "285157",
+  "mst": "289919",
   "name": "수목원ㆍ정원의 조성 및 진흥에 관한 법률",
   "payload_law_id": "009201",
-  "promulgation_date": "20260331",
+  "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "011ddfec03f20796"
+  "version_count": 3,
+  "version_signature": "9ee895d5424151ef"
  },
  "law:eflaw:009202": {
   "collected_signature": "a7c5823aa245ae3d",
@@ -55521,24 +55542,24 @@
  "law:eflaw:009255": {
   "collected_signature": "c798816501a5cd6d",
   "content_hash": "a92c80777b321d992e588baa1137293f14a2d344d1fcb8bd17946ca4e89c9c90",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287505&type=HTML&mobileYn=&efYd=20260701",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289953&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "009255",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "c798816501a5cd6d",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-25T11:57:42.674389+00:00",
   "last_collected_at": "2026-08-25T12:02:59.729903+00:00",
   "ministry": "중소벤처기업부",
-  "mst": "287505",
+  "mst": "289953",
   "name": "중소기업 기술혁신 촉진법 시행령",
   "payload_law_id": "009255",
-  "promulgation_date": "20260630",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "c798816501a5cd6d"
+  "version_signature": "337bd9bd835f2ace"
  },
  "law:eflaw:009256": {
   "collected_signature": "011d5c4010826919",
@@ -57595,26 +57616,26 @@
   },
   "collected_signature": "489d23ceac108233",
   "content_hash": "188c711ae83f6cd570b95edc63d56601d023d31e95cf350d9aa3f92ee522bc56",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284371&type=HTML&mobileYn=&efYd=20260918",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289913&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "009412",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "489d23ceac108233",
-  "enforcement_date": "20260918",
+  "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-18T16:28:07.864946+00:00",
   "last_collected_at": "2026-09-18T16:33:56.417379+00:00",
   "ministry": "산림청",
-  "mst": "284371",
+  "mst": "289913",
   "name": "산지관리법",
   "payload_law_id": "009412",
   "prev_name": null,
-  "promulgation_date": "20260317",
+  "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "489d23ceac108233"
+  "version_count": 3,
+  "version_signature": "d2eefb96909770d0"
  },
  "law:eflaw:009413": {
   "collected_signature": "f874abd8343e1084",
@@ -57874,7 +57895,7 @@
   "doc_id": "009474",
   "doc_target": "eflaw",
   "doc_type": "기후에너지환경부령",
-  "emitted_signature": "__meta__:5a9586627b86378d",
+  "emitted_signature": "5a9586627b86378d",
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
@@ -64544,7 +64565,7 @@
   "doc_id": "010005",
   "doc_target": "eflaw",
   "doc_type": "법률",
-  "emitted_signature": "__meta__:4880b23faafdca15",
+  "emitted_signature": "4880b23faafdca15",
   "enforcement_date": "20260331",
   "is_active": true,
   "last_checked_at": "2026-08-23T22:16:23.949670+00:00",
@@ -66650,8 +66671,8 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 16,
-  "version_signature": "a76444295f240240"
+  "version_count": 17,
+  "version_signature": "aad47169c69279fd"
  },
  "law:eflaw:010163": {
   "collected_signature": "29aaf29708939efc",
@@ -76796,24 +76817,24 @@
  "law:eflaw:010868": {
   "collected_signature": "61b3725e3e31811c",
   "content_hash": "e01e719b3109317259dd6f2e1822b03a7034d02ba06aef03d4038f7dc8888d2c",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279039&type=HTML&mobileYn=&efYd=20251001",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289807&type=HTML&mobileYn=&efYd=20260923",
   "doc_domain": "law",
   "doc_id": "010868",
   "doc_target": "eflaw",
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "61b3725e3e31811c",
-  "enforcement_date": "20251001",
+  "enforcement_date": "20260923",
   "is_active": true,
   "last_checked_at": "2026-08-26T12:11:36.238676+00:00",
   "last_collected_at": "2026-08-26T12:13:40.714848+00:00",
   "ministry": "기후에너지환경부",
-  "mst": "279039",
+  "mst": "289807",
   "name": "환경교육의 활성화 및 지원에 관한 법률 시행규칙",
   "payload_law_id": "010868",
-  "promulgation_date": "20251001",
+  "promulgation_date": "20260923",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "61b3725e3e31811c"
+  "version_count": 3,
+  "version_signature": "129a49aa1f89eb99"
  },
  "law:eflaw:010869": {
   "collected_signature": "35c8d8a9097fbcbc",
@@ -78104,8 +78125,8 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "ee5e6e8261c9ba2f"
+  "version_count": 3,
+  "version_signature": "eb2bc88c084b09a5"
  },
  "law:eflaw:010974": {
   "attempts": 1,
@@ -80854,8 +80875,8 @@
    "articles": 68,
    "chars": 42711
   },
-  "collected_signature": "f704d6b377138323",
-  "content_hash": "af17148454bea0449f842c3ebd69a660a3e1921e5d371fdb3effab9c92c06c35",
+  "collected_signature": "6e3bf9a1ba88cc31",
+  "content_hash": "889cec9a6d6b40dd2daa31fe9617c308df922a4dea79d7b4a886c316b4f89598",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284343&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "011186",
@@ -80865,8 +80886,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T15:21:08.425427+00:00",
-  "last_collected_at": "2026-09-18T15:25:55.354241+00:00",
+  "last_checked_at": "2026-09-23T01:33:18.264289+00:00",
+  "last_collected_at": "2026-09-23T01:39:07.767680+00:00",
   "ministry": "해양수산부",
   "mst": "284343",
   "name": "공유수면 관리 및 매립에 관한 법률",
@@ -80875,7 +80896,7 @@
   "promulgation_date": "20260317",
   "status": "done",
   "version_count": 1,
-  "version_signature": "f704d6b377138323"
+  "version_signature": "6e3bf9a1ba88cc31"
  },
  "law:eflaw:011187": {
   "collected_signature": "4fda3d58fb9f84db",
@@ -82968,8 +82989,8 @@
   "payload_law_id": "011350",
   "promulgation_date": "20241220",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "40d56c371fada896"
+  "version_count": 2,
+  "version_signature": "945204930d5adcb3"
  },
  "law:eflaw:011351": {
   "collected_signature": "5b558fa0bb51f59a",
@@ -88560,8 +88581,8 @@
   "payload_law_id": "011712",
   "promulgation_date": "20260428",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "6287c9de9a9d1a3f"
+  "version_count": 2,
+  "version_signature": "0775af5d120f3321"
  },
  "law:eflaw:011713": {
   "collected_signature": "ff210f3af661da44",
@@ -90794,26 +90815,26 @@
   },
   "collected_signature": "eb7cb4724a1c03aa",
   "content_hash": "7751d2940f63a2e8661990cbc9bf434bc041ae9d415f2183827e33640dd4ad03",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288889&type=HTML&mobileYn=&efYd=20260918",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289975&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "011908",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "eb7cb4724a1c03aa",
-  "enforcement_date": "20260918",
+  "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-18T16:41:47.623603+00:00",
   "last_collected_at": "2026-09-18T16:48:33.669465+00:00",
   "ministry": "국토교통부",
-  "mst": "288889",
+  "mst": "289975",
   "name": "새만금사업 추진 및 지원에 관한 특별법 시행령",
   "payload_law_id": "011908",
   "prev_name": null,
-  "promulgation_date": "20260818",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "eb7cb4724a1c03aa"
+  "version_signature": "c630bfa850f89646"
  },
  "law:eflaw:011910": {
   "collected_signature": "3bef89034ff1d0b7",
@@ -92200,8 +92221,8 @@
   "payload_law_id": "012049",
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "e1473d089a53518f"
+  "version_count": 3,
+  "version_signature": "353981b001b30e6f"
  },
  "law:eflaw:012051": {
   "collected_signature": "77cff397e96478cc",
@@ -92294,24 +92315,24 @@
  "law:eflaw:012055": {
   "collected_signature": "823a2c48c34de0c3",
   "content_hash": "a269fb57a44f35f1a96332c7fae6aa570c4cedf375efbc1f69932390d4172d04",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=224253&type=HTML&mobileYn=&efYd=20210101",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289903&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "012055",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "823a2c48c34de0c3",
-  "enforcement_date": "20210101",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-26T06:54:06.021496+00:00",
   "last_collected_at": "2026-08-26T07:06:56.351338+00:00",
   "ministry": "국토교통부",
-  "mst": "224253",
+  "mst": "289903",
   "name": "항공안전기술원법",
   "payload_law_id": "012055",
-  "promulgation_date": "20201215",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "823a2c48c34de0c3"
+  "version_signature": "f9b83d1e2f45e5ea"
  },
  "law:eflaw:012057": {
   "collected_signature": "1f7e7ec84f6fe2d2",
@@ -94953,8 +94974,8 @@
   "payload_law_id": "012267",
   "promulgation_date": "20231031",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "5ff169972e5257f6"
+  "version_count": 2,
+  "version_signature": "193cc56921f10186"
  },
  "law:eflaw:012268": {
   "collected_signature": "120e628a4d9c3179",
@@ -95713,8 +95734,8 @@
   "payload_law_id": "012312",
   "promulgation_date": "20240123",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "a3f1b77cd5e48d77"
+  "version_count": 2,
+  "version_signature": "d1efc1a07a22bb9b"
  },
  "law:eflaw:012313": {
   "collected_signature": "2cc0cbcfb7c84442",
@@ -100388,8 +100409,8 @@
   "payload_law_id": "012712",
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "850448457f292def"
+  "version_count": 2,
+  "version_signature": "ba583064f01eec11"
  },
  "law:eflaw:012715": {
   "collected_signature": "5720cbf4f10c709b",
@@ -101381,24 +101402,24 @@
  "law:eflaw:012878": {
   "collected_signature": "cba7e1beba299f9e",
   "content_hash": "e10eb172901de5f4e6ad941ec7961cc9e9741a4781ff4576e4f22db8d506ba58",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279897&type=HTML&mobileYn=&efYd=20251125",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289963&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "012878",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "cba7e1beba299f9e",
-  "enforcement_date": "20251125",
+  "enforcement_date": "20260922",
   "is_active": true,
   "last_checked_at": "2026-08-25T04:53:02.373694+00:00",
   "last_collected_at": "2026-08-25T04:58:45.950682+00:00",
   "ministry": "문화체육관광부",
-  "mst": "279897",
+  "mst": "289963",
   "name": "점자법 시행령",
   "payload_law_id": "012878",
-  "promulgation_date": "20251125",
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "cba7e1beba299f9e"
+  "version_signature": "77495053a26ba05f"
  },
  "law:eflaw:012879": {
   "collected_signature": "8158ab85227f7655",
@@ -101661,8 +101682,8 @@
   "payload_law_id": "012900",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "2c863881ff719ce6"
+  "version_count": 2,
+  "version_signature": "27ba860a0f48f8be"
  },
  "law:eflaw:012901": {
   "collected_signature": "2b2627a7bda5e4f8",
@@ -104935,8 +104956,8 @@
   "payload_law_id": "013480",
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "b7c8b8e6633e6854"
+  "version_count": 2,
+  "version_signature": "30658abf49f43256"
  },
  "law:eflaw:013481": {
   "collected_signature": "1885ec395d0ecd60",
@@ -105668,8 +105689,8 @@
   "payload_law_id": "013575",
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "064974f697e9689f"
+  "version_count": 2,
+  "version_signature": "fa97ad96a8e2dad3"
  },
  "law:eflaw:013588": {
   "collected_signature": "db0a528c9e7527ae",
@@ -106712,8 +106733,8 @@
   "payload_law_id": "013682",
   "promulgation_date": "20230816",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "e07a12b7d266458a"
+  "version_count": 3,
+  "version_signature": "9feca138637db773"
  },
  "law:eflaw:013683": {
   "collected_signature": "014d0966819fdb7a",
@@ -106734,8 +106755,8 @@
   "payload_law_id": "013683",
   "promulgation_date": "20231031",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "014d0966819fdb7a"
+  "version_count": 2,
+  "version_signature": "cdb17635291e45bb"
  },
  "law:eflaw:013685": {
   "collected_signature": "b640e005ca0e8685",
@@ -107320,26 +107341,33 @@
   "version_signature": "0206eff031183cbe"
  },
  "law:eflaw:013742": {
-  "collected_signature": "287bdbc8c3b4f1b2",
-  "content_hash": "932eb14af74d8176ce6c2179881a5a47fa24ab12f37ecae30a53680b7d03e116",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284661&type=HTML&mobileYn=&efYd=20260324",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 46,
+   "chars": 28021
+  },
+  "collected_signature": "1194ff84988c8f6e",
+  "content_hash": "e345399a22059fd8f340150b5a15b240cc7734614ead733cb80c7ff2eebdd42c",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289799&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "013742",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "287bdbc8c3b4f1b2",
-  "enforcement_date": "20260324",
+  "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T08:32:01.016520+00:00",
-  "last_collected_at": "2026-08-22T08:38:05.477802+00:00",
+  "last_checked_at": "2026-09-23T01:33:17.958815+00:00",
+  "last_collected_at": "2026-09-23T01:40:46.883393+00:00",
   "ministry": "국토교통부",
-  "mst": "284661",
+  "mst": "289799",
   "name": "건축물관리법 시행령",
   "payload_law_id": "013742",
-  "promulgation_date": "20260324",
+  "prev_name": null,
+  "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
-  "version_signature": "287bdbc8c3b4f1b2"
+  "version_signature": "1194ff84988c8f6e"
  },
  "law:eflaw:013743": {
   "collected_signature": "1cb5b57a07d43d85",
@@ -109878,7 +109906,7 @@
   "doc_id": "013933",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "emitted_signature": "__meta__:8d83cb502fefecfb",
+  "emitted_signature": "8d83cb502fefecfb",
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
@@ -112930,8 +112958,8 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 4,
-  "version_signature": "b92158426387e0eb"
+  "version_count": 5,
+  "version_signature": "1df6f96124be3e5f"
  },
  "law:eflaw:014155": {
   "collected_signature": "a04dec384d764fa7",
@@ -114409,26 +114437,26 @@
   },
   "collected_signature": "48d76408b30d04bd",
   "content_hash": "839c1778bc77aea03abda445b2483b44d834ca743f79b08e60f0ecadfb0c6795",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288863&type=HTML&mobileYn=&efYd=20260918",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289965&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "014255",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "48d76408b30d04bd",
-  "enforcement_date": "20260918",
+  "enforcement_date": "20260922",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-18T15:45:15.066298+00:00",
   "last_collected_at": "2026-09-18T15:51:57.142017+00:00",
   "ministry": "기후에너지환경부",
-  "mst": "288863",
+  "mst": "289965",
   "name": "기후위기 대응을 위한 탄소중립ㆍ녹색성장 기본법 시행령",
   "payload_law_id": "014255",
   "prev_name": null,
-  "promulgation_date": "20260818",
+  "promulgation_date": "20260922",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "48d76408b30d04bd"
+  "version_count": 3,
+  "version_signature": "d08a85fdea42f59d"
  },
  "law:eflaw:014256": {
   "collected_signature": "ccf253f414e14964",
@@ -117633,8 +117661,8 @@
   "payload_law_id": "014515",
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "8d25c252e6de57bd"
+  "version_count": 4,
+  "version_signature": "cf6aca5f94fa74c4"
  },
  "law:eflaw:014516": {
   "collected_signature": "5574c254a386e9b3",
@@ -118881,8 +118909,8 @@
   "payload_law_id": "014609",
   "promulgation_date": "20240130",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c1422d0aad9d8bc3"
+  "version_count": 2,
+  "version_signature": "cbbdb747466c8a42"
  },
  "law:eflaw:014610": {
   "collected_signature": "c632dc83379f989f",
@@ -120763,8 +120791,8 @@
   "payload_law_id": "014722",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "27b66178b53e9ea7"
+  "version_count": 2,
+  "version_signature": "b1e58b223dc3b689"
  },
  "law:eflaw:014723": {
   "collected_signature": "14e266245bff2253",
@@ -125295,8 +125323,8 @@
   "prev_name": null,
   "promulgation_date": "20260908",
   "status": "done",
-  "version_count": 5,
-  "version_signature": "1a9cf9aee04b07da"
+  "version_count": 6,
+  "version_signature": "f6a505bb08ee5640"
  },
  "law:eflaw:015066": {
   "attempts": 0,
@@ -127558,6 +127586,82 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "5830cf98b858d856"
+ },
+ "law:eflaw:015214": {
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289909&type=HTML&mobileYn=&efYd=20270923",
+  "doc_domain": "law",
+  "doc_id": "015214",
+  "doc_target": "eflaw",
+  "doc_type": "법률",
+  "enforcement_date": "20270923",
+  "is_active": true,
+  "ministry": "농림축산식품부,해양수산부",
+  "mst": "289909",
+  "name": "농어업회의소법",
+  "promulgation_date": "20260922",
+  "status": "pending",
+  "version_count": 1,
+  "version_signature": "d82cbf27e8483b87"
+ },
+ "law:eflaw:015215": {
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289885&type=HTML&mobileYn=&efYd=20270923",
+  "doc_domain": "law",
+  "doc_id": "015215",
+  "doc_target": "eflaw",
+  "doc_type": "법률",
+  "enforcement_date": "20270923",
+  "is_active": true,
+  "ministry": "기후에너지환경부",
+  "mst": "289885",
+  "name": "기후위기 적응 및 회복력 강화에 관한 법률",
+  "promulgation_date": "20260922",
+  "status": "pending",
+  "version_count": 1,
+  "version_signature": "750706225cdca7f0"
+ },
+ "law:eflaw:015216": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 4897
+  },
+  "collected_signature": "e308da913894bf64",
+  "content_hash": "5243209e44288909f2c5d4e105f96db0f0d69fdc7d8ff4cc8f9e033c8ab716db",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289929&type=HTML&mobileYn=&efYd=20270223",
+  "doc_domain": "law",
+  "doc_id": "015216",
+  "doc_target": "eflaw",
+  "doc_type": "법률",
+  "enforcement_date": "20270223",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-23T01:33:18.258507+00:00",
+  "last_collected_at": "2026-09-23T01:33:21.479051+00:00",
+  "ministry": "해양수산부",
+  "mst": "289929",
+  "name": "2028 유엔해양총회 지원 특별법",
+  "payload_law_id": "015216",
+  "prev_name": null,
+  "promulgation_date": "20260922",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "e308da913894bf64"
+ },
+ "law:eflaw:015218": {
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289991&type=HTML&mobileYn=&efYd=20261002",
+  "doc_domain": "law",
+  "doc_id": "015218",
+  "doc_target": "eflaw",
+  "doc_type": "행정안전부령",
+  "enforcement_date": "20261002",
+  "is_active": true,
+  "ministry": "행정안전부",
+  "mst": "289991",
+  "name": "중대범죄수사청과 그 소속기관 직제 시행규칙",
+  "promulgation_date": "20260923",
+  "status": "pending",
+  "version_count": 1,
+  "version_signature": "d67b17dac5790972"
  },
  "law:eflaw:TESTFUT_PYTEST": {
   "attempts": 0,
