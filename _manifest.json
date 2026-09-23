@@ -66734,8 +66734,8 @@
    "articles": 494,
    "chars": 211654
   },
-  "collected_signature": "a76444295f240240",
-  "content_hash": "e8977fb160f6686305c6633bc1d7eb5bb9944bdebd4b3f5f067824c472f623d6",
+  "collected_signature": "aad47169c69279fd",
+  "content_hash": "516fcb153dc618baee8c0038e21799bee22f0e27f9da2ad4a095e360a28a676f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284321&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "010162",
@@ -66745,8 +66745,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T17:13:38.400413+00:00",
-  "last_collected_at": "2026-09-18T17:45:20.810209+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.599990+00:00",
+  "last_collected_at": "2026-09-23T02:38:49.381475+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "284321",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
@@ -66754,7 +66754,7 @@
   "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 17,
+  "version_count": 1,
   "version_signature": "aad47169c69279fd"
  },
  "law:eflaw:010163": {
@@ -88653,8 +88653,13 @@
   "version_signature": "28e8ccd13b00ef1c"
  },
  "law:eflaw:011712": {
-  "collected_signature": "6287c9de9a9d1a3f",
-  "content_hash": "52f42146a236442ea9920e88d8ce9516be6c5ac04740c548ede431ebc978975d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 77,
+   "chars": 59972
+  },
+  "collected_signature": "0775af5d120f3321",
+  "content_hash": "0bc96fd75e81bb91f17ba832e8aa07d20ffdf1bcd39e24aa6515498b778fe564",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285737&type=HTML&mobileYn=&efYd=20260429",
   "doc_domain": "law",
   "doc_id": "011712",
@@ -88662,16 +88667,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6287c9de9a9d1a3f",
   "enforcement_date": "20260429",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:53:26.259398+00:00",
-  "last_collected_at": "2026-08-24T14:04:05.601419+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.934960+00:00",
+  "last_collected_at": "2026-09-23T02:22:55.302772+00:00",
   "ministry": "기획예산처,기후에너지환경부",
   "mst": "285737",
   "name": "온실가스 배출권의 할당 및 거래에 관한 법률 시행령",
   "payload_law_id": "011712",
+  "prev_name": null,
   "promulgation_date": "20260428",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0775af5d120f3321"
  },
  "law:eflaw:011713": {
@@ -92293,8 +92300,13 @@
   "version_signature": "02359d2a3f7641af"
  },
  "law:eflaw:012049": {
-  "collected_signature": "e1473d089a53518f",
-  "content_hash": "46d40270b2dd633989f157c1ec24e032b9a12d67f50eab9f86e83dd365ae3156",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 30,
+   "chars": 10110
+  },
+  "collected_signature": "353981b001b30e6f",
+  "content_hash": "cca8e16b73d685069c000b2bf3be3e6b7ac2e4eb271a1f04862a723cdf082fe5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270841&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "012049",
@@ -92302,16 +92314,18 @@
   "doc_type": "법률",
   "emitted_signature": "e1473d089a53518f",
   "enforcement_date": "20251023",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:09:30.727892+00:00",
-  "last_collected_at": "2026-08-24T13:12:41.913048+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.750071+00:00",
+  "last_collected_at": "2026-09-23T02:12:05.583921+00:00",
   "ministry": "해양경찰청",
   "mst": "270841",
   "name": "연안사고 예방에 관한 법률",
   "payload_law_id": "012049",
+  "prev_name": null,
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "353981b001b30e6f"
  },
  "law:eflaw:012051": {
@@ -101504,8 +101518,13 @@
   "version_signature": "dabf874913b2e57d"
  },
  "law:eflaw:012878": {
-  "collected_signature": "cba7e1beba299f9e",
-  "content_hash": "e10eb172901de5f4e6ad941ec7961cc9e9741a4781ff4576e4f22db8d506ba58",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 8344
+  },
+  "collected_signature": "77495053a26ba05f",
+  "content_hash": "4b6bc7f18f22196884b77c24ad60457ff8fa4a51d32d2d412a85bd9c0753d661",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289963&type=HTML&mobileYn=&efYd=20260922",
   "doc_domain": "law",
   "doc_id": "012878",
@@ -101513,13 +101532,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "cba7e1beba299f9e",
   "enforcement_date": "20260922",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T04:53:02.373694+00:00",
-  "last_collected_at": "2026-08-25T04:58:45.950682+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.933865+00:00",
+  "last_collected_at": "2026-09-23T02:12:07.136176+00:00",
   "ministry": "문화체육관광부",
   "mst": "289963",
   "name": "점자법 시행령",
   "payload_law_id": "012878",
+  "prev_name": null,
   "promulgation_date": "20260922",
   "status": "done",
   "version_count": 1,
@@ -105049,8 +105070,13 @@
   "version_signature": "05f67467fcd9e697"
  },
  "law:eflaw:013480": {
-  "collected_signature": "b7c8b8e6633e6854",
-  "content_hash": "a4c87e36985b7c5a3368766cce201705f2cace7260cb776061ab5aa22a3fd359",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 26168
+  },
+  "collected_signature": "30658abf49f43256",
+  "content_hash": "2b2401092b27b5fa295a3a9fc0100fd2938d14b9f0202657c5c314eacb8f00a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284163&type=HTML&mobileYn=&efYd=20260618",
   "doc_domain": "law",
   "doc_id": "013480",
@@ -105058,16 +105084,18 @@
   "doc_type": "법률",
   "emitted_signature": "b7c8b8e6633e6854",
   "enforcement_date": "20260618",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:01:59.687888+00:00",
-  "last_collected_at": "2026-08-25T01:04:40.000784+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.754140+00:00",
+  "last_collected_at": "2026-09-23T02:12:55.389738+00:00",
   "ministry": "국토교통부",
   "mst": "284163",
   "name": "자율주행자동차 상용화 촉진 및 지원에 관한 법률",
   "payload_law_id": "013480",
+  "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "30658abf49f43256"
  },
  "law:eflaw:013481": {
@@ -125449,8 +125477,8 @@
    "articles": 408,
    "chars": 163126
   },
-  "collected_signature": "1a9cf9aee04b07da",
-  "content_hash": "9a193eeee54ddd92fa5dba9c5b2c03b4071bcbf1c3addb45d3f9a599ae37272b",
+  "collected_signature": "f6a505bb08ee5640",
+  "content_hash": "ebbe6c74c49af87a583288982a0f0cbc8e84590df48d0e69daeb05377853221b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289297&type=HTML&mobileYn=&efYd=20260908",
   "doc_domain": "law",
   "doc_id": "015064",
@@ -125460,8 +125488,8 @@
   "enforcement_date": "20260908",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:58:08.608948+00:00",
-  "last_collected_at": "2026-09-15T17:07:46.848835+00:00",
+  "last_checked_at": "2026-09-23T02:10:24.970682+00:00",
+  "last_collected_at": "2026-09-23T02:29:11.044844+00:00",
   "ministry": "행정안전부",
   "mst": "289297",
   "name": "전남광주통합특별시 설치를 위한 특별법",
@@ -125469,7 +125497,7 @@
   "prev_name": null,
   "promulgation_date": "20260908",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "f6a505bb08ee5640"
  },
  "law:eflaw:015066": {
