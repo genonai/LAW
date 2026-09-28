@@ -42495,26 +42495,33 @@
   "version_signature": "22e9689dd4f77579"
  },
  "law:eflaw:006696": {
-  "collected_signature": "338373a14fd0e308",
-  "content_hash": "ef574089fe01d7f48258fd825d66590f4ad9e6e39e741bab5abecb81d2e245d3",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288087&type=HTML&mobileYn=&efYd=20260811",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 77,
+   "chars": 42685
+  },
+  "collected_signature": "976555aab3a52e9d",
+  "content_hash": "5054dcf2793e3170b6eb4f08b7c74bb5fecb471a71500439c045453c7307234d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290599&type=HTML&mobileYn=&efYd=20260928",
   "doc_domain": "law",
   "doc_id": "006696",
   "doc_target": "eflaw",
   "doc_type": "보건복지부령",
   "emitted_signature": "338373a14fd0e308",
-  "enforcement_date": "20260811",
+  "enforcement_date": "20260928",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T21:16:45.624876+00:00",
-  "last_collected_at": "2026-08-22T21:51:46.248405+00:00",
+  "last_checked_at": "2026-09-28T15:00:27.191922+00:00",
+  "last_collected_at": "2026-09-28T15:04:01.530867+00:00",
   "ministry": "보건복지부",
-  "mst": "288087",
+  "mst": "290599",
   "name": "국민건강보험법 시행규칙",
   "payload_law_id": "006696",
-  "promulgation_date": "20260710",
+  "prev_name": null,
+  "promulgation_date": "20260928",
   "status": "done",
   "version_count": 1,
-  "version_signature": "338373a14fd0e308"
+  "version_signature": "976555aab3a52e9d"
  },
  "law:eflaw:006697": {
   "collected_signature": "8417cc1bf569ab48",
@@ -90047,8 +90054,12 @@
  },
  "law:eflaw:011817": {
   "attempts": 0,
-  "collected_signature": "720075771ad0cfc7",
-  "content_hash": "006c440a3d2d3fdae53d09e158267180ca99ee800057a30213af0c67c4e12bea",
+  "body_stats": {
+   "articles": 53,
+   "chars": 61520
+  },
+  "collected_signature": "fc46d49bea0cff48",
+  "content_hash": "2640ea7f5158a7ab84d702416550f76e59c147386ce06745172f99573eafee9b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289209&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "011817",
@@ -90056,18 +90067,20 @@
   "doc_type": "해양수산부령",
   "emitted_signature": "720075771ad0cfc7",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T05:08:14.270706+00:00",
-  "last_collected_at": "2026-09-03T05:10:58.084841+00:00",
+  "last_checked_at": "2026-09-28T15:00:27.567041+00:00",
+  "last_collected_at": "2026-09-28T15:01:27.852546+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "해양수산부",
   "mst": "289209",
   "name": "해양수산부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "011817",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
   "version_count": 1,
-  "version_signature": "720075771ad0cfc7"
+  "version_signature": "fc46d49bea0cff48"
  },
  "law:eflaw:011819": {
   "collected_signature": "c36b5f5c95c45aae",
@@ -128017,6 +128030,34 @@
   "status": "done",
   "version_count": 1,
   "version_signature": "d67b17dac5790972"
+ },
+ "law:eflaw:015223": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 3,
+   "chars": 273
+  },
+  "collected_signature": "661fa8ddceed6f22",
+  "content_hash": "ec60527ba4f8076ccb4f34e9e221f904a2b5b67c3d204ee759659a38caced8b6",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290595&type=HTML&mobileYn=&efYd=20260928",
+  "doc_domain": "law",
+  "doc_id": "015223",
+  "doc_target": "eflaw",
+  "doc_type": "재정경제부령",
+  "enforcement_date": "20260928",
+  "export_pending": null,
+  "is_active": true,
+  "last_checked_at": "2026-09-28T15:00:27.526942+00:00",
+  "last_collected_at": "2026-09-28T15:00:48.243810+00:00",
+  "ministry": "재정경제부",
+  "mst": "290595",
+  "name": "중국산 아크릴산 부틸에 대한 덤핑방지관세 부과에 관한 규칙",
+  "payload_law_id": "015223",
+  "prev_name": null,
+  "promulgation_date": "20260928",
+  "status": "done",
+  "version_count": 1,
+  "version_signature": "661fa8ddceed6f22"
  },
  "law:eflaw:TESTFUT_PYTEST": {
   "attempts": 0,
