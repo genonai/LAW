@@ -2910,8 +2910,25 @@
             "reference_id": "admrul:원자력안전위원회개인정보보호지침#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "원자력안전위원회 개인정보보호지침/원자력안전위원회 개인정보보호지침.json",
-            "target_git_path": "원자력안전위원회 개인정보보호지침/원자력안전위원회 개인정보보호지침.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "원자력안전위원회 개인정보보호 지침/원자력안전위원회 개인정보보호 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "원자력안전위원회 개인정보보호 지침/원자력안전위원회 개인정보보호 지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:원자력안전위원회개인정보보호지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20260917"
+              },
+              {
+                "git_path": "원자력안전위원회 개인정보보호 지침/원자력안전위원회 개인정보보호지침/원자력안전위원회 개인정보보호지침.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:원자력안전위원회개인정보보호지침:원자력안전위원회개인정보보호지침#DOC",
+                "is_current": true,
+                "enforcement_date": "20250824"
+              }
+            ]
           },
           {
             "relation_type": "delegation",

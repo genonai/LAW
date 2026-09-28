@@ -14912,13 +14912,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관",
             "resolve_method": "render",
             "source_provision_id": "law:조달사업에관한법률시행령#JO0039",
-            "reference_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관#DOC",
+            "reference_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
-            "target_git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
+            "target_git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#DOC",
+                "is_current": true,
+                "enforcement_date": "20260928"
+              },
+              {
+                "git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관:조달청비축물자이용업체와민간비축사업자등록이용약관#DOC",
+                "is_current": true,
+                "enforcement_date": "20260123"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -14993,11 +15010,28 @@
               "target_url": "https://www.law.go.kr/행정규칙/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관"
             },
             "source_provision_id": "law:조달사업에관한법률시행령#JO0039",
-            "reference_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관#DOC",
+            "reference_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
-            "target_git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록.이용약관#DOC",
+                "is_current": true,
+                "enforcement_date": "20260928"
+              },
+              {
+                "git_path": "조달청 비축물자 이용업체와 민간 비축 사업자 등록.이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관/조달청 비축물자 이용업체와 민간 비축 사업자 등록·이용약관.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:조달청비축물자이용업체와민간비축사업자등록이용약관:조달청비축물자이용업체와민간비축사업자등록이용약관#DOC",
+                "is_current": true,
+                "enforcement_date": "20260123"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
