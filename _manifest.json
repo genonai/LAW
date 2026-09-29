@@ -14267,8 +14267,13 @@
   "version_signature": "cc2049d269792598"
  },
  "law:eflaw:001747": {
-  "collected_signature": "db622677fa0b0fe8",
-  "content_hash": "53c290817a132806a36efa3c03b10d39a270d2dbe32ab660756925b94a38487b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 206,
+   "chars": 140433
+  },
+  "collected_signature": "e7f2bb15f0645254",
+  "content_hash": "5f7df7478819bc6596b5cf9ef3bba9422e99454c02a55a6b7aca6f6171de783f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286989&type=HTML&mobileYn=&efYd=20260616",
   "doc_domain": "law",
   "doc_id": "001747",
@@ -14276,16 +14281,18 @@
   "doc_type": "법률",
   "emitted_signature": "db622677fa0b0fe8",
   "enforcement_date": "20260616",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:48:37.473441+00:00",
-  "last_collected_at": "2026-08-24T20:08:48.725097+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.432021+00:00",
+  "last_collected_at": "2026-09-29T18:41:28.819308+00:00",
   "ministry": "국토교통부",
   "mst": "286989",
   "name": "자동차관리법",
   "payload_law_id": "001747",
+  "prev_name": null,
   "promulgation_date": "20260616",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "e7f2bb15f0645254"
  },
  "law:eflaw:001748": {
@@ -60845,8 +60852,13 @@
   "version_signature": "da59cff0c4455bb5"
  },
  "law:eflaw:009609": {
-  "collected_signature": "b59ecf9001581680",
-  "content_hash": "23c71384a03d62ba4a1523a3e426a2f7023c9cb10e224f6a8bd8a79f6a32d136",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 56,
+   "chars": 24757
+  },
+  "collected_signature": "64a5461f849d8288",
+  "content_hash": "9a81a96aa6c6a02e9276e88e2bbfd677029e2fe89ff7bc88caaa19fb049ec51b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261129&type=HTML&mobileYn=&efYd=20240319",
   "doc_domain": "law",
   "doc_id": "009609",
@@ -60854,16 +60866,18 @@
   "doc_type": "법률",
   "emitted_signature": "b59ecf9001581680",
   "enforcement_date": "20240319",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:12:33.318285+00:00",
-  "last_collected_at": "2026-08-24T19:16:50.984161+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.808310+00:00",
+  "last_collected_at": "2026-09-29T18:42:07.585325+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "261129",
   "name": "인체조직안전 및 관리 등에 관한 법률",
   "payload_law_id": "009609",
+  "prev_name": null,
   "promulgation_date": "20240319",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "64a5461f849d8288"
  },
  "law:eflaw:009615": {
@@ -95278,8 +95292,12 @@
  },
  "law:eflaw:012168": {
   "attempts": 0,
-  "collected_signature": "f5121609a97cf05b",
-  "content_hash": "bed72701d6915c55551411b86c60707b06943dcda72fd8506494512ebcff934a",
+  "body_stats": {
+   "articles": 36,
+   "chars": 12561
+  },
+  "collected_signature": "cc729d7a472f5fdc",
+  "content_hash": "3e08245b7914459e38375891e04d2ec9fe6d05c9bd147499891b4b2842a2af13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290161&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "012168",
@@ -95287,17 +95305,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "f5121609a97cf05b",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:27:59.136370+00:00",
-  "last_collected_at": "2026-09-03T04:29:29.350008+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.612469+00:00",
+  "last_collected_at": "2026-09-29T18:41:15.089744+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "인사혁신처,행정안전부",
   "mst": "290161",
   "name": "인사혁신처와 그 소속기관 직제",
   "payload_law_id": "012168",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cc729d7a472f5fdc"
  },
  "law:eflaw:012169": {
@@ -95324,8 +95344,12 @@
  },
  "law:eflaw:012176": {
   "attempts": 0,
-  "collected_signature": "d600a6e83ca25ed1",
-  "content_hash": "408d71cce79b5362a19a9817c4363239f1af320f3cae4da66fa9f13ac69f8cc5",
+  "body_stats": {
+   "articles": 27,
+   "chars": 18229
+  },
+  "collected_signature": "5282c15e87ed2ef2",
+  "content_hash": "d067a91013dc3e5cdde6876bc4559af0c32f44e642a93f41b009278379e48dff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290619&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "012176",
@@ -95333,17 +95357,19 @@
   "doc_type": "총리령",
   "emitted_signature": "d600a6e83ca25ed1",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:27:59.962674+00:00",
-  "last_collected_at": "2026-09-03T04:29:59.071398+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.617932+00:00",
+  "last_collected_at": "2026-09-29T18:41:08.676625+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "인사혁신처",
   "mst": "290619",
   "name": "인사혁신처와 그 소속기관 직제 시행규칙",
   "payload_law_id": "012176",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5282c15e87ed2ef2"
  },
  "law:eflaw:012177": {
@@ -106005,8 +106031,13 @@
   "version_signature": "26d102e5bbf90913"
  },
  "law:eflaw:013245": {
-  "collected_signature": "f6aaa7c72962dffc",
-  "content_hash": "2c5db71e30cd3904532f478cc42ff4ce9ab33356701873ffaa702b275a70bcb2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 3773
+  },
+  "collected_signature": "a750dd9882057662",
+  "content_hash": "4d7b2f60739cf4f1750662fff8ca475bac1dc9f1af34ee66a3682ef16520a8c4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278153&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013245",
@@ -106014,16 +106045,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "f6aaa7c72962dffc",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:18:18.980111+00:00",
-  "last_collected_at": "2026-08-24T19:19:52.652040+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.847301+00:00",
+  "last_collected_at": "2026-09-29T18:41:40.819809+00:00",
   "ministry": "금융위원회",
   "mst": "278153",
   "name": "인터넷전문은행 설립 및 운영에 관한 특례법 시행령",
   "payload_law_id": "013245",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a750dd9882057662"
  },
  "law:eflaw:013246": {
@@ -113384,8 +113417,13 @@
   "version_signature": "0834eea549770fd5"
  },
  "law:eflaw:014071": {
-  "collected_signature": "94ac4df948394888",
-  "content_hash": "ae851bc749a71a0149d6b5ba79dce504b2470eb9d7aeeded02ceeb0b583d237a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 50,
+   "chars": 18106
+  },
+  "collected_signature": "728fcb6dbaebd018",
+  "content_hash": "cabbe871708d062d2dc4382301def56858d076b9efffbd4c4554b48a88af4cf9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276899&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "014071",
@@ -113393,16 +113431,18 @@
   "doc_type": "법률",
   "emitted_signature": "94ac4df948394888",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:59:07.230112+00:00",
-  "last_collected_at": "2026-08-24T19:01:55.773495+00:00",
+  "last_checked_at": "2026-09-29T18:40:21.810591+00:00",
+  "last_collected_at": "2026-09-29T18:42:16.951264+00:00",
   "ministry": "성평등가족부",
   "mst": "276899",
   "name": "인신매매등방지 및 피해자보호 등에 관한 법률",
   "payload_law_id": "014071",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "728fcb6dbaebd018"
  },
  "law:eflaw:014073": {
