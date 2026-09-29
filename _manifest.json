@@ -355,8 +355,12 @@
  },
  "law:eflaw:000030": {
   "attempts": 0,
-  "collected_signature": "fc636ddb9c8c8f81",
-  "content_hash": "1e1856d41f798df91b5e0e67212cbb808462b0926690938e1e507334c6348e65",
+  "body_stats": {
+   "articles": 167,
+   "chars": 73913
+  },
+  "collected_signature": "5199239035e2ee18",
+  "content_hash": "52fe81e79a0aab95fc893762e4388ee51ae733690847f7d7361abd804723d9b8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283843&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "000030",
@@ -366,8 +370,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T16:09:11.877419+00:00",
-  "last_collected_at": "2026-09-11T16:14:49.708292+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.617717+00:00",
+  "last_collected_at": "2026-09-29T19:01:27.485902+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "283843",
   "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률",
@@ -375,7 +379,7 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "5199239035e2ee18"
  },
  "law:eflaw:000035": {
@@ -31687,8 +31691,13 @@
   "version_signature": "8df2721c666add84"
  },
  "law:eflaw:004794": {
-  "collected_signature": "d36e85801381f985",
-  "content_hash": "023d3303e0e4f7bba40e66655ffec6cf8eb363ba36977b54f612b75f2f5cd7c0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 4458
+  },
+  "collected_signature": "f5061dd28c641539",
+  "content_hash": "1964e40ff0bc0556bd607d79849f66c1c5c9c9806c72b63389061934e1ad0f95",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288393&type=HTML&mobileYn=&efYd=20260731",
   "doc_domain": "law",
   "doc_id": "004794",
@@ -31696,21 +31705,28 @@
   "doc_type": "대통령령",
   "emitted_signature": "d36e85801381f985",
   "enforcement_date": "20260731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:09:30.184689+00:00",
-  "last_collected_at": "2026-08-25T05:12:28.343698+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.475781+00:00",
+  "last_collected_at": "2026-09-29T18:58:13.171682+00:00",
   "ministry": "국가정보원",
   "mst": "288393",
   "name": "정보 및 보안 업무 기획ㆍ조정 규정",
   "payload_law_id": "004794",
+  "prev_name": null,
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f5061dd28c641539"
  },
  "law:eflaw:004797": {
-  "collected_signature": "68cb86b23dfa2aa7",
-  "content_hash": "ad30246ab67f57a22f0acd661c95a55622304009952348d5f49c1674c1bbd2aa",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 142,
+   "chars": 54116
+  },
+  "collected_signature": "b626f37572dbd463",
+  "content_hash": "66757c6dad5c6f949ffd014f33e3312ebf64be9e41084407d91bf21ff8ce9acb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288033&type=HTML&mobileYn=&efYd=20260707",
   "doc_domain": "law",
   "doc_id": "004797",
@@ -31718,16 +31734,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "68cb86b23dfa2aa7",
   "enforcement_date": "20260707",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:24:08.089342+00:00",
-  "last_collected_at": "2026-08-25T05:35:44.929476+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.639806+00:00",
+  "last_collected_at": "2026-09-29T19:03:50.564633+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "288033",
   "name": "정보통신망 이용촉진 및 정보보호 등에 관한 법률 시행령",
   "payload_law_id": "004797",
+  "prev_name": null,
   "promulgation_date": "20260707",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b626f37572dbd463"
  },
  "law:eflaw:004798": {
@@ -31797,8 +31815,13 @@
   "version_signature": "7f2bd3aa8e514922"
  },
  "law:eflaw:004826": {
-  "collected_signature": "44cdb7bc58670318",
-  "content_hash": "a7eb3368a70512196bbcdcf6807d5c02516ea6962d79702f5dc833dcf67f2886",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 7421
+  },
+  "collected_signature": "5b7eb4ba02b38838",
+  "content_hash": "5501a49fab9a5c1fbd5e1b93c8ca5e6beb3093f256d44dcd3c070dc938931c35",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290257&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "004826",
@@ -31806,13 +31829,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "44cdb7bc58670318",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:36:16.756877+00:00",
-  "last_collected_at": "2026-08-25T05:38:28.723727+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.339842+00:00",
+  "last_collected_at": "2026-09-29T18:58:08.829533+00:00",
   "ministry": "행정안전부",
   "mst": "290257",
   "name": "정부 표창 규정",
   "payload_law_id": "004826",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -63117,8 +63142,13 @@
   "version_signature": "027c1175ca228c83"
  },
  "law:eflaw:009767": {
-  "collected_signature": "309b6885f328ecc7",
-  "content_hash": "20c7564ea95ca90875eb2e0eac0cb7200881dfea6a9e3f0b9726073f9e632f28",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 108,
+   "chars": 52317
+  },
+  "collected_signature": "c1b7d0e4ccf08e7d",
+  "content_hash": "ad838ec65f82815b7cd0e6736a7d9cc7a07628a0965b50842ddcddd00b3e8d81",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290203&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "009767",
@@ -63126,16 +63156,18 @@
   "doc_type": "법률",
   "emitted_signature": "309b6885f328ecc7",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T04:38:48.008633+00:00",
-  "last_collected_at": "2026-08-25T04:52:29.986985+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.605397+00:00",
+  "last_collected_at": "2026-09-29T18:59:21.486891+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290203",
   "name": "전통시장 및 상점가 육성을 위한 특별법",
   "payload_law_id": "009767",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "c1b7d0e4ccf08e7d"
  },
  "law:eflaw:009770": {
@@ -77653,8 +77685,13 @@
   "version_signature": "5f2d4308f7109dd8"
  },
  "law:eflaw:010834": {
-  "collected_signature": "392a6fb1eb2800ab",
-  "content_hash": "3c161cbcde38bf69d0b7e493d874f32bbb31b694e84374f1f844c268e3128626",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 60,
+   "chars": 26334
+  },
+  "collected_signature": "ccef037647163fc0",
+  "content_hash": "e49823b5695dc74e340bd4145e6d7b0585dd9c2d48047fc0fb648e2fe9629c5a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286851&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "010834",
@@ -77662,16 +77699,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "392a6fb1eb2800ab",
   "enforcement_date": "20260624",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T04:24:38.857199+00:00",
-  "last_collected_at": "2026-08-25T04:32:34.043699+00:00",
+  "last_checked_at": "2026-09-29T18:57:27.340885+00:00",
+  "last_collected_at": "2026-09-29T19:02:12.895399+00:00",
   "ministry": "법무부",
   "mst": "286851",
   "name": "전자장치 부착 등에 관한 법률 시행령",
   "payload_law_id": "010834",
+  "prev_name": null,
   "promulgation_date": "20260609",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ccef037647163fc0"
  },
  "law:eflaw:010835": {
