@@ -7159,8 +7159,13 @@
   "version_signature": "c7e57d03b972d1c5"
  },
  "law:eflaw:000992": {
-  "collected_signature": "9c0f6b2d5e33cb1d",
-  "content_hash": "233c8f64b37b45b0863f3d0a846403ad0638f99bd5cdd4658c22ba2d256a8ff9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 13700
+  },
+  "collected_signature": "4f269c4d6a14d455",
+  "content_hash": "55bee75b22246d30ea6c93ae0bb2039e78bacb57c1e7e608fb567e3f0b977134",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268727&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "000992",
@@ -7168,16 +7173,18 @@
   "doc_type": "법률",
   "emitted_signature": "9c0f6b2d5e33cb1d",
   "enforcement_date": "20260201",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T18:33:53.348566+00:00",
-  "last_collected_at": "2026-08-22T18:36:11.515825+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.309678+00:00",
+  "last_collected_at": "2026-09-29T15:46:09.834694+00:00",
   "ministry": "경찰청",
   "mst": "268727",
   "name": "국가경찰과 자치경찰의 조직 및 운영에 관한 법률",
   "payload_law_id": "000992",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4f269c4d6a14d455"
  },
  "law:eflaw:000993": {
@@ -11759,8 +11766,13 @@
   "version_signature": "49ff86d10259b9b0"
  },
  "law:eflaw:001556": {
-  "collected_signature": "23ca46bb58f21a34",
-  "content_hash": "6b9f3cfb5f81195f8574a9d53b547b5e4e084a8cdbaaa2d2c5801cce5819ddf1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 424,
+   "chars": 208126
+  },
+  "collected_signature": "602bea8907a6c83e",
+  "content_hash": "ff37faf0fc048523e1fd7aa240adb05f3126fa01947a2983f5317af37eb96bbc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288689&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "001556",
@@ -11768,16 +11780,18 @@
   "doc_type": "법률",
   "emitted_signature": "23ca46bb58f21a34",
   "enforcement_date": "20260811",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T16:27:44.578958+00:00",
-  "last_collected_at": "2026-08-22T16:51:25.350123+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.434959+00:00",
+  "last_collected_at": "2026-09-29T15:53:22.562128+00:00",
   "ministry": "재정경제부",
   "mst": "288689",
   "name": "관세법",
   "payload_law_id": "001556",
+  "prev_name": null,
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "602bea8907a6c83e"
  },
  "law:eflaw:001561": {
@@ -12424,8 +12438,13 @@
   "version_signature": "0fdc866506a4b9f4"
  },
  "law:eflaw:001616": {
-  "collected_signature": "c5bc0cf47a2910a3",
-  "content_hash": "c84c7b22e33172201f14b1e178e8e340809f9ed48d27b7d210f1f62af3c7e289",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 85,
+   "chars": 36102
+  },
+  "collected_signature": "0bcd923482db71c9",
+  "content_hash": "34a7f1cdb6a3cf60f44332271e1c7474e491f820d3ac5f5e3ad29f7fe0319da8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273345&type=HTML&mobileYn=&efYd=20260215",
   "doc_domain": "law",
   "doc_id": "001616",
@@ -12433,16 +12452,18 @@
   "doc_type": "법률",
   "emitted_signature": "c5bc0cf47a2910a3",
   "enforcement_date": "20260215",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T17:57:56.315964+00:00",
-  "last_collected_at": "2026-08-22T18:07:30.541668+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.436213+00:00",
+  "last_collected_at": "2026-09-29T15:49:15.263824+00:00",
   "ministry": "교육부",
   "mst": "273345",
   "name": "교육공무원법",
   "payload_law_id": "001616",
+  "prev_name": null,
   "promulgation_date": "20250814",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "0bcd923482db71c9"
  },
  "law:eflaw:001618": {
@@ -19215,8 +19236,13 @@
   "version_signature": "4e6dc600ab50bc7e"
  },
  "law:eflaw:002521": {
-  "collected_signature": "59a88fcb44752ce1",
-  "content_hash": "1501d926d10785fd2f2f7cffa7d2f685abd6072cf924cb69fee7296ba639c763",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 53,
+   "chars": 14728
+  },
+  "collected_signature": "f8d84b7a28b342ff",
+  "content_hash": "abfa6fe2bd2ee1715885a7738c08db05fabe5e018f27e2417da77819e3a5bb9a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283659&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "002521",
@@ -19224,16 +19250,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "59a88fcb44752ce1",
   "enforcement_date": "20260624",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T17:26:24.875448+00:00",
-  "last_collected_at": "2026-08-22T17:32:36.340353+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.495891+00:00",
+  "last_collected_at": "2026-09-29T15:46:13.951163+00:00",
   "ministry": "재정경제부",
   "mst": "283659",
   "name": "관세사법 시행령",
   "payload_law_id": "002521",
+  "prev_name": null,
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f8d84b7a28b342ff"
  },
  "law:eflaw:002523": {
@@ -19642,8 +19670,13 @@
   "version_signature": "06119515a3123fc7"
  },
  "law:eflaw:002586": {
-  "collected_signature": "267d4d780a6e1158",
-  "content_hash": "790df969088efbca1f7406774133fed016804e5083f481810a878b1e028e58cc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 20454
+  },
+  "collected_signature": "406de07de821bd0c",
+  "content_hash": "b1b4da5fdb48a7ccc9871941ed01157fd0c5d85c57865bf9f2d15dafeaf1f0b0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280455&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "002586",
@@ -19651,16 +19684,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "267d4d780a6e1158",
   "enforcement_date": "20251223",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T17:57:58.074538+00:00",
-  "last_collected_at": "2026-08-22T18:02:43.427553+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.315045+00:00",
+  "last_collected_at": "2026-09-29T15:47:23.650294+00:00",
   "ministry": "교육부",
   "mst": "280455",
   "name": "교육공무원 징계령",
   "payload_law_id": "002586",
+  "prev_name": null,
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "406de07de821bd0c"
  },
  "law:eflaw:002599": {
@@ -62294,8 +62329,8 @@
    "articles": 48,
    "chars": 14430
   },
-  "collected_signature": "454cc1db54cbd0b9",
-  "content_hash": "efc31b0d1977a26333c604ea103b763b82d287f0f8d10af6c89e2fbd5503ae09",
+  "collected_signature": "faafdbe575ef7dcc",
+  "content_hash": "f382ae992b6548ef974e6193c72244e2319cc61ec9e3581074d4c63d019d308a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288691&type=HTML&mobileYn=&efYd=20260811",
   "doc_domain": "law",
   "doc_id": "009761",
@@ -62305,8 +62340,8 @@
   "enforcement_date": "20260811",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:13:05.119412+00:00",
-  "last_collected_at": "2026-09-15T15:15:11.259236+00:00",
+  "last_checked_at": "2026-09-29T15:45:24.313487+00:00",
+  "last_collected_at": "2026-09-29T15:46:48.041696+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "288691",
   "name": "과학기술분야 정부출연연구기관 등의 설립ㆍ운영 및 육성에 관한 법률",
@@ -62314,7 +62349,7 @@
   "prev_name": null,
   "promulgation_date": "20260811",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "faafdbe575ef7dcc"
  },
  "law:eflaw:009762": {
