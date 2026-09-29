@@ -7093,8 +7093,13 @@
   "version_signature": "c94bf1540ca21b01"
  },
  "law:eflaw:000981": {
-  "collected_signature": "9742f0c2d4a54f65",
-  "content_hash": "a76a5ea919f785ce9803bcdc0f353f70370e08d71c49bf525b85eb24ae4fb7f1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 26,
+   "chars": 9577
+  },
+  "collected_signature": "0be801858a3035c2",
+  "content_hash": "3b364b192eed6dcd5e9d2e7938875f82154df6847c3f717d939c12585a7fbc67",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283703&type=HTML&mobileYn=&efYd=20260227",
   "doc_domain": "law",
   "doc_id": "000981",
@@ -7102,16 +7107,18 @@
   "doc_type": "법률",
   "emitted_signature": "9742f0c2d4a54f65",
   "enforcement_date": "20260227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:20:18.433824+00:00",
-  "last_collected_at": "2026-08-25T17:22:33.602845+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.175852+00:00",
+  "last_collected_at": "2026-09-29T19:23:33.045574+00:00",
   "ministry": "경찰청",
   "mst": "283703",
   "name": "집회 및 시위에 관한 법률",
   "payload_law_id": "000981",
+  "prev_name": null,
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0be801858a3035c2"
  },
  "law:eflaw:000984": {
@@ -13603,8 +13610,13 @@
   "version_signature": "cf5c212f22fbac55"
  },
  "law:eflaw:001707": {
-  "collected_signature": "6d1e187925fe232d",
-  "content_hash": "2fbba51c1c72c5b69efd8dc0297974cb1c2ca6f3f71058d6c516b3aaf7caa9f0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 188,
+   "chars": 76951
+  },
+  "collected_signature": "bb144049d7add0fa",
+  "content_hash": "1af747884c9aaf0b39b2bb9160584d006a98fa4aec61c30ad9fef01099c4afe0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272921&type=HTML&mobileYn=&efYd=20260123",
   "doc_domain": "law",
   "doc_id": "001707",
@@ -13612,16 +13624,18 @@
   "doc_type": "법률",
   "emitted_signature": "6d1e187925fe232d",
   "enforcement_date": "20260123",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:37:18.921369+00:00",
-  "last_collected_at": "2026-08-25T19:44:11.961423+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.497332+00:00",
+  "last_collected_at": "2026-09-29T19:27:13.903116+00:00",
   "ministry": "법무부",
   "mst": "272921",
   "name": "출입국관리법",
   "payload_law_id": "001707",
+  "prev_name": null,
   "promulgation_date": "20250722",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bb144049d7add0fa"
  },
  "law:eflaw:001708": {
@@ -33341,8 +33355,13 @@
   "version_signature": "73978831db855314"
  },
  "law:eflaw:005176": {
-  "collected_signature": "8488f4e1d87320e6",
-  "content_hash": "9a35187f2b889524079773bf7ac8a63136ed4df09f89ca95243d0f9d97de4fab",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 20939
+  },
+  "collected_signature": "4a967ce08fd394bc",
+  "content_hash": "d6148900c924859b15d2c46a4ae4819ab7e0e47288ab09cbc881f4db296a4f32",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283467&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "005176",
@@ -33350,16 +33369,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8488f4e1d87320e6",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:38:38.667028+00:00",
-  "last_collected_at": "2026-08-25T17:49:12.514610+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.294668+00:00",
+  "last_collected_at": "2026-09-29T19:23:49.718563+00:00",
   "ministry": "행정안전부",
   "mst": "283467",
   "name": "책임운영기관의 설치ㆍ운영에 관한 법률 시행령",
   "payload_law_id": "005176",
+  "prev_name": null,
   "promulgation_date": "20260219",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4a967ce08fd394bc"
  },
  "law:eflaw:005177": {
@@ -33759,8 +33780,8 @@
    "articles": 185,
    "chars": 75543
   },
-  "collected_signature": "bd68104969bbf7d7",
-  "content_hash": "8207e1282d90d1891b69f72c9e06b2a73c7236b84cc0c42e0aecf71a3f652474",
+  "collected_signature": "b04b677c091e1e60",
+  "content_hash": "5e2c056a1bf81069c633e4a1435a688b28e6a3d0462aed6b59a6625ef8c27cac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289697&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "005256",
@@ -33770,8 +33791,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:55:28.803569+00:00",
-  "last_collected_at": "2026-09-15T18:08:06.571127+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.442416+00:00",
+  "last_collected_at": "2026-09-29T19:29:37.321152+00:00",
   "ministry": "법무부",
   "mst": "289697",
   "name": "출입국관리법 시행령",
@@ -33779,7 +33800,7 @@
   "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b04b677c091e1e60"
  },
  "law:eflaw:005271": {
@@ -64805,8 +64826,13 @@
   "version_signature": "f50b27a86c1bec2b"
  },
  "law:eflaw:009930": {
-  "collected_signature": "eca448e4ab69d597",
-  "content_hash": "97eb86f7a76af92ee97e7a0405370679ba46f6ccf6ab7a382d12c4cd8be1df3a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 699,
+   "chars": 189593
+  },
+  "collected_signature": "6c478b0f4ea3838f",
+  "content_hash": "dccd0f3e16c5222d44b17778bee368dd11a9bae5aacfdfdf37514ecfd1461a92",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267359&type=HTML&mobileYn=&efYd=20260301",
   "doc_domain": "law",
   "doc_id": "009930",
@@ -64814,16 +64840,18 @@
   "doc_type": "법률",
   "emitted_signature": "eca448e4ab69d597",
   "enforcement_date": "20260301",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:27:05.263792+00:00",
-  "last_collected_at": "2026-08-25T17:38:03.749314+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.459716+00:00",
+  "last_collected_at": "2026-09-29T19:23:58.048986+00:00",
   "ministry": "법무부",
   "mst": "267359",
   "name": "채무자 회생 및 파산에 관한 법률",
   "payload_law_id": "009930",
+  "prev_name": null,
   "promulgation_date": "20241220",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "6c478b0f4ea3838f"
  },
  "law:eflaw:009931": {
@@ -78732,8 +78760,13 @@
   "version_signature": "828ae88ddbd82c64"
  },
  "law:eflaw:010910": {
-  "collected_signature": "466279b5c51c3484",
-  "content_hash": "3fc50476d28e1ca25c11b1ea7f67221ac1faeb03dc97cc5a6cc6bbe5f473f0e6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 7903
+  },
+  "collected_signature": "79b6e26bc9003a74",
+  "content_hash": "fd020b4c089b3eb25e40bf9e608dafc35f703935e16fdf85e05ce147fc7d8f23",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268669&type=HTML&mobileYn=&efYd=20250722",
   "doc_domain": "law",
   "doc_id": "010910",
@@ -78741,16 +78774,18 @@
   "doc_type": "법률",
   "emitted_signature": "466279b5c51c3484",
   "enforcement_date": "20250722",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:27:04.694460+00:00",
-  "last_collected_at": "2026-08-25T17:34:45.986163+00:00",
+  "last_checked_at": "2026-09-29T19:22:59.490004+00:00",
+  "last_collected_at": "2026-09-29T19:23:53.840661+00:00",
   "ministry": "법무부",
   "mst": "268669",
   "name": "채권의 공정한 추심에 관한 법률",
   "payload_law_id": "010910",
+  "prev_name": null,
   "promulgation_date": "20250121",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "79b6e26bc9003a74"
  },
  "law:eflaw:010911": {
