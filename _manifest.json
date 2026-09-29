@@ -28215,8 +28215,13 @@
   "version_signature": "f24b1bad34a96a6e"
  },
  "law:eflaw:004088": {
-  "collected_signature": "6f8fae063054b4cb",
-  "content_hash": "5ff83f9a79cc4d9d6ebdf446d92209f8d43cefd05b892fba043ee3f8034a0617",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 3898
+  },
+  "collected_signature": "78e98e751511e8be",
+  "content_hash": "d77aadb1580a560462ee2b5284f44f9352163396f64bc019a2a7901f5643f722",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290589&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "004088",
@@ -28224,16 +28229,17 @@
   "doc_type": "대통령령",
   "emitted_signature": "6f8fae063054b4cb",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:31:54.775525+00:00",
-  "last_collected_at": "2026-08-24T08:40:31.952438+00:00",
+  "last_checked_at": "2026-09-29T18:16:30.384166+00:00",
+  "last_collected_at": "2026-09-29T18:17:48.261346+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "290589",
   "name": "시체 해부 및 보존 등에 관한 법률 시행령",
   "payload_law_id": "004088",
-  "prev_name": "시체 해부 및 보존에 관한 법률 시행령",
+  "prev_name": null,
   "promulgation_date": "20260929",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "78e98e751511e8be"
  },
@@ -77053,8 +77059,13 @@
   "version_signature": "8104cd1dbfe9ae78"
  },
  "law:eflaw:010793": {
-  "collected_signature": "6859467d62855aba",
-  "content_hash": "7eaaa961c3abce4aeaef619b27606b9a761810518f2419da445ece727444595b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 24034
+  },
+  "collected_signature": "5058af11c330ee0e",
+  "content_hash": "be8c25a630ea1fc7c073ed2a49d0003c9dbdd097f1d517e4a90cf51a6d65a838",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290541&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "010793",
@@ -77062,16 +77073,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6859467d62855aba",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:53:43.216544+00:00",
-  "last_collected_at": "2026-08-24T09:04:08.426350+00:00",
+  "last_checked_at": "2026-09-29T18:16:29.885838+00:00",
+  "last_collected_at": "2026-09-29T18:17:25.139350+00:00",
   "ministry": "농림축산식품부",
   "mst": "290541",
   "name": "식품산업진흥법 시행령",
   "payload_law_id": "010793",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5058af11c330ee0e"
  },
  "law:eflaw:010794": {
@@ -90687,8 +90700,12 @@
  },
  "law:eflaw:011791": {
   "attempts": 0,
-  "collected_signature": "cf4ec1f9ea8b5803",
-  "content_hash": "e95f6702c8094113f90bde9728e9c91899aa70fb50728aed1c69c0a50b27ec23",
+  "body_stats": {
+   "articles": 43,
+   "chars": 25254
+  },
+  "collected_signature": "e732c436f3e53202",
+  "content_hash": "1bc00bd969dfb6191a59cf6b91120b209ed22f401bf164139957877f2c349a75",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289085&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "011791",
@@ -90696,17 +90713,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "cf4ec1f9ea8b5803",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:11:09.956603+00:00",
-  "last_collected_at": "2026-09-03T04:11:51.910705+00:00",
+  "last_checked_at": "2026-09-29T18:16:30.020409+00:00",
+  "last_collected_at": "2026-09-29T18:17:52.253154+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "식품의약품안전처,행정안전부",
   "mst": "289085",
   "name": "식품의약품안전처와 그 소속기관 직제",
   "payload_law_id": "011791",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e732c436f3e53202"
  },
  "law:eflaw:011792": {
@@ -90779,8 +90798,13 @@
   "version_signature": "a3687bcc66fa03ad"
  },
  "law:eflaw:011797": {
-  "collected_signature": "9170ca8a6b193ffd",
-  "content_hash": "cefd838ef03996a02c1786ccd52a36e38cc72647f5525255a3a62666dac108c3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 5,
+   "chars": 1358
+  },
+  "collected_signature": "bdc6ae459c1e9d55",
+  "content_hash": "fe63c73aec8ee6879eb1e744094d1a47351c7e18fb5badbc763c27400bc25227",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290621&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "011797",
@@ -90788,13 +90812,15 @@
   "doc_type": "총리령",
   "emitted_signature": "9170ca8a6b193ffd",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:53:44.122655+00:00",
-  "last_collected_at": "2026-08-24T09:02:50.286901+00:00",
+  "last_checked_at": "2026-09-29T18:16:30.349914+00:00",
+  "last_collected_at": "2026-09-29T18:16:57.831559+00:00",
   "ministry": "식품의약품안전처",
   "mst": "290621",
   "name": "식품위생 분야 종사자의 건강진단 규칙",
   "payload_law_id": "011797",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -113234,8 +113260,13 @@
   "version_signature": "b7b9d73dbb569d45"
  },
  "law:eflaw:014070": {
-  "collected_signature": "3f5a3f92fbc4035b",
-  "content_hash": "28d924b9497dca8550084e33220c6339f790d80f9b0c70e963fce0afcfbee9c2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 14683
+  },
+  "collected_signature": "0834eea549770fd5",
+  "content_hash": "d95a08ff9a0f183285cbf823fc1e2b5d91a78a8e680b7acbacad64a7bde3e685",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252483&type=HTML&mobileYn=&efYd=20240112",
   "doc_domain": "law",
   "doc_id": "014070",
@@ -113243,16 +113274,18 @@
   "doc_type": "법률",
   "emitted_signature": "3f5a3f92fbc4035b",
   "enforcement_date": "20240112",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:11:09.737204+00:00",
-  "last_collected_at": "2026-08-24T08:12:28.490722+00:00",
+  "last_checked_at": "2026-09-29T18:16:30.133715+00:00",
+  "last_collected_at": "2026-09-29T18:17:30.635648+00:00",
   "ministry": "법무부",
   "mst": "252483",
   "name": "스토킹범죄의 처벌 등에 관한 법률",
   "payload_law_id": "014070",
+  "prev_name": null,
   "promulgation_date": "20230711",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "0834eea549770fd5"
  },
  "law:eflaw:014071": {
@@ -124758,8 +124791,13 @@
   "version_signature": "24af26cad1f99793"
  },
  "law:eflaw:014895": {
-  "collected_signature": "da72d54001915f3f",
-  "content_hash": "f528dd94adbc5bb396e0e30e2d00dd84e23f553050279dc872170055dce971ac",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 23,
+   "chars": 10096
+  },
+  "collected_signature": "9ec61b498f5a1016",
+  "content_hash": "fd91e9af002349d0d02dabe050f67b5fb1a2bb1ad9e2db2e5737bddec1d0aee1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273919&type=HTML&mobileYn=&efYd=20250926",
   "doc_domain": "law",
   "doc_id": "014895",
@@ -124767,16 +124805,18 @@
   "doc_type": "법률",
   "emitted_signature": "da72d54001915f3f",
   "enforcement_date": "20250926",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T07:58:37.688162+00:00",
-  "last_collected_at": "2026-08-24T08:03:20.377957+00:00",
+  "last_checked_at": "2026-09-29T18:16:29.886705+00:00",
+  "last_collected_at": "2026-09-29T18:17:50.240475+00:00",
   "ministry": "법무부",
   "mst": "273919",
   "name": "순직 해병 수사 방해 및 사건 은폐 등의 진상규명을 위한 특별검사의 임명 등에 관한 법률",
   "payload_law_id": "014895",
+  "prev_name": null,
   "promulgation_date": "20250926",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9ec61b498f5a1016"
  },
  "law:eflaw:014896": {
