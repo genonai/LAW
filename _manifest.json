@@ -7797,8 +7797,13 @@
   "version_signature": "63d5cdaed8f83895"
  },
  "law:eflaw:001118": {
-  "collected_signature": "a06c9a13eee52fc9",
-  "content_hash": "1a4e994444a4faa29cafbd02cbe089f37dcca2bcc12fb1b2370c4c6f477d9d01",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 8545
+  },
+  "collected_signature": "0e31aa9039bd1cea",
+  "content_hash": "bbbef82ea87413d1f2d5ffa831e1499035ec06eb5950f955f417917a19cf2c78",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257507&type=HTML&mobileYn=&efYd=20231229",
   "doc_domain": "law",
   "doc_id": "001118",
@@ -7806,21 +7811,28 @@
   "doc_type": "법률",
   "emitted_signature": "a06c9a13eee52fc9",
   "enforcement_date": "20231229",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:53.887965+00:00",
-  "last_collected_at": "2026-08-26T11:17:20.559214+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.644683+00:00",
+  "last_collected_at": "2026-09-29T19:57:24.529988+00:00",
   "ministry": "법무부",
   "mst": "257507",
   "name": "형사보상 및 명예회복에 관한 법률",
   "payload_law_id": "001118",
+  "prev_name": null,
   "promulgation_date": "20231229",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0e31aa9039bd1cea"
  },
  "law:eflaw:001119": {
-  "collected_signature": "cd0d5b9e07c4a0f1",
-  "content_hash": "662565c4ad774f382b7d62edf5ead8912a84f52304636c0f9520914c1f83b59e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 4,
+   "chars": 628
+  },
+  "collected_signature": "b77007b2aa155142",
+  "content_hash": "9fdd21269a4e94869548ac25b168ee3924bfec0d6e46de8ecad088b54c1e7333",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=235565&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "001119",
@@ -7828,16 +7840,18 @@
   "doc_type": "법률",
   "emitted_signature": "cd0d5b9e07c4a0f1",
   "enforcement_date": "20220701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T10:58:41.054624+00:00",
-  "last_collected_at": "2026-08-26T10:59:02.816070+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.007652+00:00",
+  "last_collected_at": "2026-09-29T19:56:43.140168+00:00",
   "ministry": "국방부,법무부",
   "mst": "235565",
   "name": "헌정질서 파괴범죄의 공소시효 등에 관한 특례법",
   "payload_law_id": "001119",
+  "prev_name": null,
   "promulgation_date": "20210924",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b77007b2aa155142"
  },
  "law:eflaw:001123": {
@@ -13458,8 +13472,12 @@
  },
  "law:eflaw:001692": {
   "attempts": 0,
-  "collected_signature": "2cb767b070b18d81",
-  "content_hash": "f2ce19c503876170f779530261a38b52fcba3d621770e7004313675f516b6fd9",
+  "body_stats": {
+   "articles": 402,
+   "chars": 49487
+  },
+  "collected_signature": "5de56118492fe885",
+  "content_hash": "dbbe7a633b0076eec9cc046091e187a1b39d7a6587d26e054c7bd9d59f876da5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284025&type=HTML&mobileYn=&efYd=20260913",
   "doc_domain": "law",
   "doc_id": "001692",
@@ -13469,8 +13487,8 @@
   "enforcement_date": "20260913",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-13T15:00:14.199755+00:00",
-  "last_collected_at": "2026-09-13T15:01:09.600941+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.582088+00:00",
+  "last_collected_at": "2026-09-29T19:58:00.549304+00:00",
   "ministry": "법무부",
   "mst": "284025",
   "name": "형법",
@@ -13478,7 +13496,7 @@
   "prev_name": null,
   "promulgation_date": "20260312",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5de56118492fe885"
  },
  "law:eflaw:001697": {
@@ -36383,8 +36401,13 @@
   "version_signature": "341d30ef8670570d"
  },
  "law:eflaw:005651": {
-  "collected_signature": "89f4658bb5bae34c",
-  "content_hash": "07bc433c90bec74a2239c82be2e2f007748afbf7bee4df9465ed76906f8f65a3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 2058
+  },
+  "collected_signature": "43a55d755580f660",
+  "content_hash": "18899f52fb7b8786e52b34931fa39789407ebc6c1d54cdd8eab6ee0bae923da8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=117324&type=HTML&mobileYn=&efYd=20111124",
   "doc_domain": "law",
   "doc_id": "005651",
@@ -36392,16 +36415,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "89f4658bb5bae34c",
   "enforcement_date": "20111124",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:53.931303+00:00",
-  "last_collected_at": "2026-08-26T11:14:03.026831+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.133644+00:00",
+  "last_collected_at": "2026-09-29T19:56:48.770537+00:00",
   "ministry": "법무부",
   "mst": "117324",
   "name": "형사보상 및 명예회복에 관한 법률 시행령",
   "payload_law_id": "005651",
+  "prev_name": null,
   "promulgation_date": "20110929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "43a55d755580f660"
  },
  "law:eflaw:005652": {
@@ -81628,8 +81653,13 @@
   "version_signature": "b94adfb43c0cf18f"
  },
  "law:eflaw:011139": {
-  "collected_signature": "23e7fe2bc145b356",
-  "content_hash": "e9ac17ccfabda6fbf7d5c4e7328d35842872f8d172179867026285d02301d65d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 17,
+   "chars": 4491
+  },
+  "collected_signature": "2dfb18c6bd81a219",
+  "content_hash": "556bdc252ef4bc125e850165d60885248cf5f9f1d625680091d5fa26ac5e7e5c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=238257&type=HTML&mobileYn=&efYd=20211228",
   "doc_domain": "law",
   "doc_id": "011139",
@@ -81637,16 +81667,18 @@
   "doc_type": "법률",
   "emitted_signature": "23e7fe2bc145b356",
   "enforcement_date": "20211228",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:53.287952+00:00",
-  "last_collected_at": "2026-08-26T11:17:41.210524+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.424702+00:00",
+  "last_collected_at": "2026-09-29T19:56:55.743723+00:00",
   "ministry": "법무부",
   "mst": "238257",
   "name": "형사사법절차 전자화 촉진법",
   "payload_law_id": "011139",
+  "prev_name": null,
   "promulgation_date": "20211228",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "2dfb18c6bd81a219"
  },
  "law:eflaw:011140": {
@@ -82629,8 +82661,13 @@
   "version_signature": "bebd49da0bd7953e"
  },
  "law:eflaw:011196": {
-  "collected_signature": "df35c220586d2eda",
-  "content_hash": "32ab1dfcd4059cddad9211c418dd5119fcd7a350183a863f27c38ca020859360",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 4363
+  },
+  "collected_signature": "b3cdb9bca846a2c1",
+  "content_hash": "40a8af47a072a990789dbd888b2765de73a6c2c2b882a99ce455d2dd3297d102",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=241529&type=HTML&mobileYn=&efYd=20220405",
   "doc_domain": "law",
   "doc_id": "011196",
@@ -82638,16 +82675,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "df35c220586d2eda",
   "enforcement_date": "20220405",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:54.047599+00:00",
-  "last_collected_at": "2026-08-26T11:17:37.469570+00:00",
+  "last_checked_at": "2026-09-29T19:56:07.666826+00:00",
+  "last_collected_at": "2026-09-29T19:57:17.445540+00:00",
   "ministry": "법무부",
   "mst": "241529",
   "name": "형사사법절차 전자화 촉진법 시행령",
   "payload_law_id": "011196",
+  "prev_name": null,
   "promulgation_date": "20220405",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b3cdb9bca846a2c1"
  },
  "law:eflaw:011199": {
