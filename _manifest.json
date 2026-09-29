@@ -9550,8 +9550,13 @@
   "version_signature": "eae5949f19e31fb9"
  },
  "law:eflaw:001291": {
-  "collected_signature": "ff68114bec203c7e",
-  "content_hash": "464b44a220b6def2a21cfe95fad3eb66988429b4d8dd82767070722210b278a3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 99,
+   "chars": 20870
+  },
+  "collected_signature": "56a3d9ea4b006e9f",
+  "content_hash": "3086d68224c4c7b21219d5c8a611ec477383a29c895389f774c984e885fffcd3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257211&type=HTML&mobileYn=&efYd=20241227",
   "doc_domain": "law",
   "doc_id": "001291",
@@ -9559,16 +9564,18 @@
   "doc_type": "법률",
   "emitted_signature": "ff68114bec203c7e",
   "enforcement_date": "20241227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:22:20.348975+00:00",
-  "last_collected_at": "2026-08-23T15:24:38.650333+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.855754+00:00",
+  "last_collected_at": "2026-09-29T17:08:51.541076+00:00",
   "ministry": "법무부",
   "mst": "257211",
   "name": "법무사법",
   "payload_law_id": "001291",
+  "prev_name": null,
   "promulgation_date": "20231226",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "56a3d9ea4b006e9f"
  },
  "law:eflaw:001292": {
@@ -13547,8 +13554,13 @@
   "version_signature": "585546dc392c10c3"
  },
  "law:eflaw:001710": {
-  "collected_signature": "b6ba17609483f431",
-  "content_hash": "c541a4e9d1a24394c7a9890c4a442f1b021ce7dfe6200d4bf39f1d53454c7b4b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 135,
+   "chars": 30236
+  },
+  "collected_signature": "a076af6d2c364bdf",
+  "content_hash": "b9ec3a328680d58fe31b58c8f61ad6b96580e027c582279ffe5af0f72da0991d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284023&type=HTML&mobileYn=&efYd=20260312",
   "doc_domain": "law",
   "doc_id": "001710",
@@ -13556,16 +13568,18 @@
   "doc_type": "법률",
   "emitted_signature": "b6ba17609483f431",
   "enforcement_date": "20260312",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:58:24.841920+00:00",
-  "last_collected_at": "2026-08-23T16:04:04.803689+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.532794+00:00",
+  "last_collected_at": "2026-09-29T17:08:43.133448+00:00",
   "ministry": "대법원",
   "mst": "284023",
   "name": "법원조직법",
   "payload_law_id": "001710",
+  "prev_name": null,
   "promulgation_date": "20260312",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "a076af6d2c364bdf"
  },
  "law:eflaw:001711": {
@@ -25160,8 +25174,12 @@
  },
  "law:eflaw:003602": {
   "attempts": 0,
-  "collected_signature": "3fd569a21e73aaf7",
-  "content_hash": "77d7cc47b10de793a9a437c80d0cf4aa28180848e7d15044e658330c22cceeb5",
+  "body_stats": {
+   "articles": 73,
+   "chars": 24445
+  },
+  "collected_signature": "11aedd549a6acc8a",
+  "content_hash": "d48552fa8a71116cd586e3938eb313be08049ac8b2b85681f1cafe3fd9b6ba73",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289061&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "003602",
@@ -25169,17 +25187,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "3fd569a21e73aaf7",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:43:36.538885+00:00",
-  "last_collected_at": "2026-09-03T03:46:20.424298+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.769270+00:00",
+  "last_collected_at": "2026-09-29T17:08:58.342828+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부,행정안전부",
   "mst": "289061",
   "name": "법무부와 그 소속기관 직제",
   "payload_law_id": "003602",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "11aedd549a6acc8a"
  },
  "law:eflaw:003605": {
@@ -64843,8 +64863,13 @@
   "version_signature": "ddfaa2c91473858f"
  },
  "law:eflaw:009958": {
-  "collected_signature": "b1af45740fd793ae",
-  "content_hash": "4a01d93b4b97ae7d8e79d982a4803e738d22f436ded900ad620570f9f153ec32",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 2178
+  },
+  "collected_signature": "554969a13fed6e97",
+  "content_hash": "27c8720b581e7ec77858cd6c4f012557e48622f3bf39156adca553ff1a26a1f2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=217629&type=HTML&mobileYn=&efYd=20200428",
   "doc_domain": "law",
   "doc_id": "009958",
@@ -64852,16 +64877,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "b1af45740fd793ae",
   "enforcement_date": "20200428",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:22:19.425029+00:00",
-  "last_collected_at": "2026-08-23T15:22:34.678309+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.541959+00:00",
+  "last_collected_at": "2026-09-29T17:07:58.371105+00:00",
   "ministry": "법무부",
   "mst": "217629",
   "name": "법무부감찰위원회 규정",
   "payload_law_id": "009958",
+  "prev_name": null,
   "promulgation_date": "20200428",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "554969a13fed6e97"
  },
  "law:eflaw:009965": {
@@ -83119,8 +83146,13 @@
   "version_signature": "f72e635f2fe975e2"
  },
  "law:eflaw:011307": {
-  "collected_signature": "29d75e74f1025f0b",
-  "content_hash": "603c3de8a425852e5bfb2080fe9f5e8cf46209318a28f6e4e78729b0aae4abb0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 4666
+  },
+  "collected_signature": "8f1093438a35df16",
+  "content_hash": "f6a1e151a67c9668bd22f871c4c17025536bbfa79a11759b37b449736bf6b28f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280985&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011307",
@@ -83128,16 +83160,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "29d75e74f1025f0b",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:12:32.379015+00:00",
-  "last_collected_at": "2026-08-23T15:15:31.409302+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.533762+00:00",
+  "last_collected_at": "2026-09-29T17:08:44.151587+00:00",
   "ministry": "법무부",
   "mst": "280985",
   "name": "범죄피해자보호기금법 시행령",
   "payload_law_id": "011307",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8f1093438a35df16"
  },
  "law:eflaw:011308": {
@@ -115551,8 +115585,13 @@
   "version_signature": "e4b87eb35c483cad"
  },
  "law:eflaw:014248": {
-  "collected_signature": "58317e8831553919",
-  "content_hash": "a3a4146b65574c0106b38fcf7022baf1ab06e75a2641b9f95f28c4171e080867",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 4087
+  },
+  "collected_signature": "e293153246e1080a",
+  "content_hash": "9a229081b6a20b30460e9b6a41ba829ae10eb18f905ee6a703c8edb721cdd61f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283267&type=HTML&mobileYn=&efYd=20260210",
   "doc_domain": "law",
   "doc_id": "014248",
@@ -115560,16 +115599,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "58317e8831553919",
   "enforcement_date": "20260210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:58:21.502441+00:00",
-  "last_collected_at": "2026-08-23T15:59:15.433071+00:00",
+  "last_checked_at": "2026-09-29T17:07:13.892909+00:00",
+  "last_collected_at": "2026-09-29T17:08:13.949681+00:00",
   "ministry": "국방부",
   "mst": "283267",
   "name": "법원이 재판권을 가지는 군인 등의 범죄에 대한 수사절차 등에 관한 규정",
   "payload_law_id": "014248",
+  "prev_name": null,
   "promulgation_date": "20260210",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e293153246e1080a"
  },
  "law:eflaw:014250": {
