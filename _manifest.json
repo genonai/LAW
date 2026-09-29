@@ -1855,8 +1855,13 @@
   "version_signature": "1676d07e4c926bcd"
  },
  "law:eflaw:000187": {
-  "collected_signature": "31cd812660e49f1c",
-  "content_hash": "907a6c2f3c616e4a402ca8d3cd47b69149c1b2523a52735662a8180bbb42b33e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 147,
+   "chars": 63331
+  },
+  "collected_signature": "62a3df54b9dfeba9",
+  "content_hash": "25fdb05dff29bfda568780723854542a812a3ba8dabfe1f21702cd78b3b223c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281941&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "000187",
@@ -1864,16 +1869,18 @@
   "doc_type": "법률",
   "emitted_signature": "31cd812660e49f1c",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:42:14.003702+00:00",
-  "last_collected_at": "2026-08-25T01:56:27.445460+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.412328+00:00",
+  "last_collected_at": "2026-09-29T18:48:52.111740+00:00",
   "ministry": "보건복지부",
   "mst": "281941",
   "name": "장애인복지법",
   "payload_law_id": "000187",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "62a3df54b9dfeba9"
  },
  "law:eflaw:000188": {
@@ -14245,8 +14252,13 @@
   "version_signature": "43774bdacce2f28c"
  },
  "law:eflaw:001746": {
-  "collected_signature": "d3ef181139c194c8",
-  "content_hash": "e22fa075cffb851beaee842073b7cb45caf3a33c1771dc3d55c62b2175c88556",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 86,
+   "chars": 35539
+  },
+  "collected_signature": "cc2049d269792598",
+  "content_hash": "1f3926c8c74a537284406778cbf0b68f5ae414b0611bcaf12da78e1058a9fe01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277017&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001746",
@@ -14254,16 +14266,18 @@
   "doc_type": "법률",
   "emitted_signature": "d3ef181139c194c8",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T20:47:57.281294+00:00",
-  "last_collected_at": "2026-08-24T20:57:58.308847+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.289005+00:00",
+  "last_collected_at": "2026-09-29T18:47:54.212779+00:00",
   "ministry": "국토교통부",
   "mst": "277017",
   "name": "자동차손해배상 보장법",
   "payload_law_id": "001746",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cc2049d269792598"
  },
  "law:eflaw:001747": {
@@ -16421,8 +16435,8 @@
    "articles": 61,
    "chars": 26057
   },
-  "collected_signature": "6a8f8071d9da3a68",
-  "content_hash": "5163d2ab3e9ffd27c78f327d305232b23c34af422e06e3bd4dba7e22ebc9a4a8",
+  "collected_signature": "c3360396887f74a0",
+  "content_hash": "7be65f52e974ad05ea88ae7e132eef649e0e6aa339efb5509fb461788dbf13b0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260589&type=HTML&mobileYn=&efYd=20250821",
   "doc_domain": "law",
   "doc_id": "001998",
@@ -16432,8 +16446,8 @@
   "enforcement_date": "20250821",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:46:06.815205+00:00",
-  "last_collected_at": "2026-09-15T16:48:41.428528+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.296042+00:00",
+  "last_collected_at": "2026-09-29T18:46:09.800398+00:00",
   "ministry": "보건복지부",
   "mst": "260589",
   "name": "장기등 이식에 관한 법률",
@@ -16441,7 +16455,7 @@
   "prev_name": null,
   "promulgation_date": "20240220",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "c3360396887f74a0"
  },
  "law:eflaw:001999": {
@@ -76354,8 +76368,13 @@
   "version_signature": "492d039844953c62"
  },
  "law:eflaw:010745": {
-  "collected_signature": "74673b37faa902c6",
-  "content_hash": "78bb7aa26dadafa7f5b7b0d2efbc1cb83b046939209bd7301f93efc2ea54cacd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 10262
+  },
+  "collected_signature": "ccc661f1d1fcbbf4",
+  "content_hash": "aa82d4558876f45ab74fe4770784803d0c5d1d8b0a81674832db935edb24a846",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282443&type=HTML&mobileYn=&efYd=20260122",
   "doc_domain": "law",
   "doc_id": "010745",
@@ -76363,16 +76382,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "74673b37faa902c6",
   "enforcement_date": "20260122",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:56:59.713155+00:00",
-  "last_collected_at": "2026-08-25T02:01:12.307457+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.580601+00:00",
+  "last_collected_at": "2026-09-29T18:47:22.490625+00:00",
   "ministry": "보건복지부",
   "mst": "282443",
   "name": "장애인차별금지 및 권리구제 등에 관한 법률 시행령",
   "payload_law_id": "010745",
+  "prev_name": null,
   "promulgation_date": "20251231",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ccc661f1d1fcbbf4"
  },
  "law:eflaw:010748": {
@@ -77382,8 +77403,13 @@
   "version_signature": "34445d4d7d69f1b9"
  },
  "law:eflaw:010817": {
-  "collected_signature": "3955ca1ebf1aa5e3",
-  "content_hash": "f0615b0a901a2e58ec1c8f3219c993184cb1f5d73376ea0661493312cff951fa",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 553,
+   "chars": 464353
+  },
+  "collected_signature": "3628966a88098f3b",
+  "content_hash": "2bab034d0b1571b600d5e69cb6519961fed48fe2f499eb645c02f7ba604b0d68",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288399&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "010817",
@@ -77391,16 +77417,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "3955ca1ebf1aa5e3",
   "enforcement_date": "20260804",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T21:15:43.533274+00:00",
-  "last_collected_at": "2026-08-25T00:08:03.928456+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.542983+00:00",
+  "last_collected_at": "2026-09-29T18:44:40.096278+00:00",
   "ministry": "금융위원회",
   "mst": "288399",
   "name": "자본시장과 금융투자업에 관한 법률 시행령",
   "payload_law_id": "010817",
+  "prev_name": null,
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "3628966a88098f3b"
  },
  "law:eflaw:010818": {
@@ -84439,8 +84467,8 @@
    "articles": 32,
    "chars": 18014
   },
-  "collected_signature": "328b02bb7c0ef9a3",
-  "content_hash": "d613a7f8e894c2acd952a8c912a651272cae66396c30629d3563fd31fbd1a968",
+  "collected_signature": "b878d2e5cb58b83c",
+  "content_hash": "bd09e502022b77e30e94bf2f0b3efe2e63b7179849011cc975b2fe40a60e6403",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289413&type=HTML&mobileYn=&efYd=20260908",
   "doc_domain": "law",
   "doc_id": "011359",
@@ -84450,8 +84478,8 @@
   "enforcement_date": "20260908",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-14T15:00:19.616328+00:00",
-  "last_collected_at": "2026-09-14T15:01:13.464517+00:00",
+  "last_checked_at": "2026-09-29T18:43:22.179922+00:00",
+  "last_collected_at": "2026-09-29T18:46:10.121022+00:00",
   "ministry": "경찰청,금융위원회",
   "mst": "289413",
   "name": "전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법",
@@ -84459,7 +84487,7 @@
   "prev_name": null,
   "promulgation_date": "20260908",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "b878d2e5cb58b83c"
  },
  "law:eflaw:011360": {
