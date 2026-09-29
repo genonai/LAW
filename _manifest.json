@@ -7964,8 +7964,13 @@
   "version_signature": "e3f816637be92d6a"
  },
  "law:eflaw:001129": {
-  "collected_signature": "bd44227dab495daa",
-  "content_hash": "074a9308211aa3ae3b45acc7f511afc262d735b5ca9b9d42fd6597aa693d320c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 5722
+  },
+  "collected_signature": "ac662692de2edb4d",
+  "content_hash": "1f33fbe311790bb9e05105abc2b9380cd0d5f499d5a27746784ee8e3a8f771b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252635&type=HTML&mobileYn=&efYd=20230706",
   "doc_domain": "law",
   "doc_id": "001129",
@@ -7973,16 +7978,18 @@
   "doc_type": "법률",
   "emitted_signature": "bd44227dab495daa",
   "enforcement_date": "20230706",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:19:05.099526+00:00",
-  "last_collected_at": "2026-08-26T11:23:15.679709+00:00",
+  "last_checked_at": "2026-09-29T19:58:41.310882+00:00",
+  "last_collected_at": "2026-09-29T19:59:34.556135+00:00",
   "ministry": "법무부",
   "mst": "252635",
   "name": "형의 실효 등에 관한 법률",
   "payload_law_id": "001129",
+  "prev_name": null,
   "promulgation_date": "20230706",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ac662692de2edb4d"
  },
  "law:eflaw:001131": {
@@ -13296,8 +13303,13 @@
   "version_signature": "dd9fa7f02c197e0a"
  },
  "law:eflaw:001668": {
-  "collected_signature": "4984d3faae2d6545",
-  "content_hash": "1364a3676d781c4764824d9a95fb1f5ea571ce7e2c2fdc15756a2ea3433a9d2f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 145,
+   "chars": 37955
+  },
+  "collected_signature": "7ab16b42bfea9f7b",
+  "content_hash": "1191cc210fa1139b61233af7c39e33e192076d883b7ecd010be7cbe0c32b0b3a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=246593&type=HTML&mobileYn=&efYd=20221227",
   "doc_domain": "law",
   "doc_id": "001668",
@@ -13305,16 +13317,18 @@
   "doc_type": "법률",
   "emitted_signature": "4984d3faae2d6545",
   "enforcement_date": "20221227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:19:03.875310+00:00",
-  "last_collected_at": "2026-08-26T11:23:17.973737+00:00",
+  "last_checked_at": "2026-09-29T19:58:41.322526+00:00",
+  "last_collected_at": "2026-09-29T20:00:24.343233+00:00",
   "ministry": "법무부",
   "mst": "246593",
   "name": "형의 집행 및 수용자의 처우에 관한 법률",
   "payload_law_id": "001668",
+  "prev_name": null,
   "promulgation_date": "20221227",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "7ab16b42bfea9f7b"
  },
  "law:eflaw:001669": {
@@ -13376,8 +13390,13 @@
   "version_signature": "566e3c175cfd9256"
  },
  "law:eflaw:001671": {
-  "collected_signature": "e8e87b01b4a10bd5",
-  "content_hash": "7fbceaf0331272c77cb069bccaefc3c3960b01b76b1ad773a1a1fdb114f38a22",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 619,
+   "chars": 115013
+  },
+  "collected_signature": "9cc9f3a8feb50675",
+  "content_hash": "43ab1f6874e3ef296cbc9c4074867c84f1df38768e3cd49bdddfe92ebd56a4b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281865&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001671",
@@ -13385,16 +13404,18 @@
   "doc_type": "법률",
   "emitted_signature": "e8e87b01b4a10bd5",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:19:02.633870+00:00",
-  "last_collected_at": "2026-08-26T11:25:47.903711+00:00",
+  "last_checked_at": "2026-09-29T19:58:41.350137+00:00",
+  "last_collected_at": "2026-09-29T19:59:50.758629+00:00",
   "ministry": "법무부",
   "mst": "281865",
   "name": "형사소송법",
   "payload_law_id": "001671",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "9cc9f3a8feb50675"
  },
  "law:eflaw:001674": {
@@ -36289,8 +36310,13 @@
   "version_signature": "74c7269ebe9b5cab"
  },
  "law:eflaw:005630": {
-  "collected_signature": "eb8e0ed5c76a6d50",
-  "content_hash": "3eb9c1ce79c5c9fda74a93f33492852210e6988433e4bacd2c78adb1fe679438",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 162,
+   "chars": 28094
+  },
+  "collected_signature": "ee26291a3096f4f7",
+  "content_hash": "f43344380e5c000cffe34090b97b76e50526e4b05a4361275ef81cdbe6740f7f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281471&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "005630",
@@ -36298,16 +36324,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "eb8e0ed5c76a6d50",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:26:34.880059+00:00",
-  "last_collected_at": "2026-08-26T11:30:16.970359+00:00",
+  "last_checked_at": "2026-09-29T19:58:40.900824+00:00",
+  "last_collected_at": "2026-09-29T20:01:39.875674+00:00",
   "ministry": "법무부",
   "mst": "281471",
   "name": "형의 집행 및 수용자의 처우에 관한 법률 시행령",
   "payload_law_id": "005630",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ee26291a3096f4f7"
  },
  "law:eflaw:005631": {
@@ -36430,8 +36458,13 @@
   "version_signature": "43a55d755580f660"
  },
  "law:eflaw:005652": {
-  "collected_signature": "89495e021b1603b2",
-  "content_hash": "3c07cbbca6f48b53e1fc4e53e4fe694eef388c2479caa4e220a53117eaca7ed8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 4468
+  },
+  "collected_signature": "890afd77ead7f6f2",
+  "content_hash": "4ddcdaf4eb3a473d4bf17847779cbb680d18c0e99c77ef909b5704ffec8fab48",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261599&type=HTML&mobileYn=&efYd=20240402",
   "doc_domain": "law",
   "doc_id": "005652",
@@ -36439,16 +36472,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "89495e021b1603b2",
   "enforcement_date": "20240402",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:19:05.178471+00:00",
-  "last_collected_at": "2026-08-26T11:23:03.901848+00:00",
+  "last_checked_at": "2026-09-29T19:58:41.161653+00:00",
+  "last_collected_at": "2026-09-29T20:00:02.701909+00:00",
   "ministry": "법무부",
   "mst": "261599",
   "name": "형의 실효 등에 관한 법률 시행령",
   "payload_law_id": "005652",
+  "prev_name": null,
   "promulgation_date": "20240402",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "890afd77ead7f6f2"
  },
  "law:eflaw:005653": {
@@ -123452,8 +123487,13 @@
   "version_signature": "38586f00190c2e98"
  },
  "law:eflaw:014751": {
-  "collected_signature": "dc97e33763d5b718",
-  "content_hash": "3c3da38bff94b1441817ac0a75647d7e65c1fe57dbf81715e52b3eaabe303055",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 17310
+  },
+  "collected_signature": "43d2965bf09b434a",
+  "content_hash": "34fafc624f5939389658a2ed4742b99c96c661611799274c96ee3da8392019ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=271391&type=HTML&mobileYn=&efYd=20250602",
   "doc_domain": "law",
   "doc_id": "014751",
@@ -123461,16 +123501,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "dc97e33763d5b718",
   "enforcement_date": "20250602",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:55.296513+00:00",
-  "last_collected_at": "2026-08-26T11:17:57.638804+00:00",
+  "last_checked_at": "2026-09-29T19:58:41.176720+00:00",
+  "last_collected_at": "2026-09-29T20:01:32.446788+00:00",
   "ministry": "법무부",
   "mst": "271391",
   "name": "형사사법절차에서의 전자문서 이용 등에 관한 법률 시행령",
   "payload_law_id": "014751",
+  "prev_name": null,
   "promulgation_date": "20250602",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "43d2965bf09b434a"
  },
  "law:eflaw:014752": {
