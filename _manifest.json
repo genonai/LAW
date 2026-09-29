@@ -3040,8 +3040,13 @@
   "version_signature": "9bc82ec9f56d0c07"
  },
  "law:eflaw:000354": {
-  "collected_signature": "94e90ebf7d742772",
-  "content_hash": "8fcaa83c0a67f22a4651f48e90a827c84500ecf1e651a8bf9fd9f71d727f6a73",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 74,
+   "chars": 43833
+  },
+  "collected_signature": "7afbd252b473b984",
+  "content_hash": "1461f87f15b31f3867e0138dfd7ce705d0f6112ae2b5f0218374f62caa79cae1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268293&type=HTML&mobileYn=&efYd=20250121",
   "doc_domain": "law",
   "doc_id": "000354",
@@ -3049,16 +3054,18 @@
   "doc_type": "법률",
   "emitted_signature": "94e90ebf7d742772",
   "enforcement_date": "20250121",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:24:06.544839+00:00",
-  "last_collected_at": "2026-08-23T14:30:59.644762+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.545480+00:00",
+  "last_collected_at": "2026-09-29T16:58:58.721187+00:00",
   "ministry": "공정거래위원회",
   "mst": "268293",
   "name": "방문판매 등에 관한 법률",
   "payload_law_id": "000354",
+  "prev_name": null,
   "promulgation_date": "20250121",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7afbd252b473b984"
  },
  "law:eflaw:000355": {
@@ -66897,8 +66904,12 @@
  },
  "law:eflaw:010107": {
   "attempts": 0,
-  "collected_signature": "d64e21fb17ef377b",
-  "content_hash": "21471127d7965274d658286b02ccf9cfe11d6aecf5f4047296458c594addfee7",
+  "body_stats": {
+   "articles": 88,
+   "chars": 39689
+  },
+  "collected_signature": "0ee43db4e63af9de",
+  "content_hash": "c6d8db20c7e1ded0c81a52c5faecbf18c58cb0b26524eed352f71f2b7e37c7c3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283939&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "010107",
@@ -66908,8 +66919,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:28:13.204507+00:00",
-  "last_collected_at": "2026-09-11T15:31:49.565183+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.922099+00:00",
+  "last_collected_at": "2026-09-29T16:59:56.511823+00:00",
   "ministry": "국방부,방위사업청,산업통상부",
   "mst": "283939",
   "name": "방위사업법",
@@ -66917,7 +66928,7 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "0ee43db4e63af9de"
  },
  "law:eflaw:010109": {
@@ -67105,8 +67116,12 @@
  },
  "law:eflaw:010126": {
   "attempts": 0,
-  "collected_signature": "b97eb9b34f5f4f73",
-  "content_hash": "64e5794187058ef048a0809c9dea6e921caa12147d965d1bbc326556e50cf13d",
+  "body_stats": {
+   "articles": 117,
+   "chars": 68711
+  },
+  "collected_signature": "07f1302065f1c785",
+  "content_hash": "041e38dbc6b85733d3d6fe307457a7877b7ad5e54ae7dfe548a4a9a2032d05d5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289173&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "010126",
@@ -67116,8 +67131,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:28:13.526980+00:00",
-  "last_collected_at": "2026-09-11T15:34:59.193595+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.923112+00:00",
+  "last_collected_at": "2026-09-29T17:01:58.168587+00:00",
   "ministry": "국방부,방위사업청,산업통상부",
   "mst": "289173",
   "name": "방위사업법 시행령",
@@ -67125,7 +67140,7 @@
   "prev_name": null,
   "promulgation_date": "20260908",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "07f1302065f1c785"
  },
  "law:eflaw:010129": {
@@ -93094,8 +93109,13 @@
   "version_signature": "2b0c4b8e2dfd7804"
  },
  "law:eflaw:012046": {
-  "collected_signature": "89c2a530ed2b50d0",
-  "content_hash": "53e907047e479066468d89d3cb9b18ad94b8ff7ae8fc7fdbc19c5cf00cb1aaf2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 50,
+   "chars": 22851
+  },
+  "collected_signature": "8d037ed2ace1d8fb",
+  "content_hash": "61d4542fa563bb951810cc803ba69a394f7a49b770aa4927c51448f08c2cac32",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279671&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "012046",
@@ -93103,16 +93123,18 @@
   "doc_type": "법률",
   "emitted_signature": "89c2a530ed2b50d0",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:17:16.020994+00:00",
-  "last_collected_at": "2026-08-23T14:21:54.881594+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.667311+00:00",
+  "last_collected_at": "2026-09-29T16:59:34.233901+00:00",
   "ministry": "보건복지부",
   "mst": "279671",
   "name": "발달장애인 권리보장 및 지원에 관한 법률",
   "payload_law_id": "012046",
+  "prev_name": null,
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "8d037ed2ace1d8fb"
  },
  "law:eflaw:012048": {
@@ -97539,8 +97561,13 @@
   "version_signature": "a0ab5f92121ef3d4"
  },
  "law:eflaw:012379": {
-  "collected_signature": "eb9445d4da68ea6e",
-  "content_hash": "856f6792e2a5b0c0472bda5b0e54166f407b5df4478585d0a2cf4e7d801761e4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 7583
+  },
+  "collected_signature": "ce9d8cf25b809b0a",
+  "content_hash": "7dc39fcbaf3e3c0b200a97757b056467d11bb489e03eb8211da6f50e272d925c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273849&type=HTML&mobileYn=&efYd=20260402",
   "doc_domain": "law",
   "doc_id": "012379",
@@ -97548,16 +97575,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "eb9445d4da68ea6e",
   "enforcement_date": "20260402",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:17:17.143609+00:00",
-  "last_collected_at": "2026-08-23T14:21:08.775145+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.664224+00:00",
+  "last_collected_at": "2026-09-29T16:56:13.409937+00:00",
   "ministry": "보건복지부",
   "mst": "273849",
   "name": "발달장애인 권리보장 및 지원에 관한 법률 시행령",
   "payload_law_id": "012379",
+  "prev_name": null,
   "promulgation_date": "20250923",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ce9d8cf25b809b0a"
  },
  "law:eflaw:012380": {
@@ -100117,8 +100146,12 @@
  },
  "law:eflaw:012592": {
   "attempts": 0,
-  "collected_signature": "a53e286da36deca0",
-  "content_hash": "0c00153907b885671fb29425a82157f98abedc2a471874ee120168e26bc18062",
+  "body_stats": {
+   "articles": 29,
+   "chars": 12231
+  },
+  "collected_signature": "c26090a75fcd2d3e",
+  "content_hash": "34f4fcfb0fac8c08581afee2a5a36c9c60361b4b25470a9cd871bf77e404efcf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289445&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "012592",
@@ -100128,8 +100161,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:35:17.481178+00:00",
-  "last_collected_at": "2026-09-11T15:37:06.594065+00:00",
+  "last_checked_at": "2026-09-29T16:55:21.544722+00:00",
+  "last_collected_at": "2026-09-29T16:59:02.579434+00:00",
   "ministry": "국방부,방위사업청",
   "mst": "289445",
   "name": "방위산업기술 보호법 시행령",
@@ -100137,7 +100170,7 @@
   "prev_name": null,
   "promulgation_date": "20260908",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c26090a75fcd2d3e"
  },
  "law:eflaw:012593": {
