@@ -7793,8 +7793,8 @@
    "articles": 116,
    "chars": 26735
   },
-  "collected_signature": "78371914e314da22",
-  "content_hash": "21aa0c7d49421ecdc2a17c450ee97df99a5ef7ae01fa28f72d9387ed4f707a62",
+  "collected_signature": "9019e1ed239b9064",
+  "content_hash": "ab3c7b6c48f700701f5735b08ebffdebcfd37a638f9839e4fbee6b7f94a7798e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268863&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "001123",
@@ -7804,8 +7804,8 @@
   "enforcement_date": "20260201",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:51:49.766248+00:00",
-  "last_collected_at": "2026-09-23T01:54:52.845075+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.569376+00:00",
+  "last_collected_at": "2026-09-29T17:30:35.946335+00:00",
   "ministry": "법무부",
   "mst": "268863",
   "name": "보호관찰 등에 관한 법률",
@@ -7813,7 +7813,7 @@
   "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "9019e1ed239b9064"
  },
  "law:eflaw:001124": {
@@ -13122,8 +13122,13 @@
   "version_signature": "bc9295e5c9f3f385"
  },
  "law:eflaw:001660": {
-  "collected_signature": "8ab062883015c33f",
-  "content_hash": "9b62f791f2923d50ebeb82891d1127881cbdb0ae3e5607866418407f99006eec",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 70,
+   "chars": 18789
+  },
+  "collected_signature": "342d86b0c1933409",
+  "content_hash": "1e153e944533933b09907da562d81dd3c99a93f41a91de82ebff03c153a671be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280385&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "001660",
@@ -13131,16 +13136,18 @@
   "doc_type": "법률",
   "emitted_signature": "8ab062883015c33f",
   "enforcement_date": "20251223",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:54:56.010477+00:00",
-  "last_collected_at": "2026-08-23T19:00:08.291558+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.446483+00:00",
+  "last_collected_at": "2026-09-29T17:30:04.541497+00:00",
   "ministry": "법무부",
   "mst": "280385",
   "name": "보호소년 등의 처우에 관한 법률",
   "payload_law_id": "001660",
+  "prev_name": null,
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "342d86b0c1933409"
  },
  "law:eflaw:001662": {
@@ -25614,8 +25621,13 @@
   "version_signature": "e2bd3e54092cd48d"
  },
  "law:eflaw:003648": {
-  "collected_signature": "decd273e39be36cc",
-  "content_hash": "1b00d8d566edd90ff03efb795c57338be54f4b963a0cb49cb9ed08aa27347fe3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 10481
+  },
+  "collected_signature": "d71b5cf5715e9425",
+  "content_hash": "c4c1cfd51faed67279482f7e8be732f24cbc64866fe30277f8507a2fc0753ee6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227509&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "003648",
@@ -25623,16 +25635,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "decd273e39be36cc",
   "enforcement_date": "20210105",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:29:30.194816+00:00",
-  "last_collected_at": "2026-08-23T18:30:55.334512+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.567670+00:00",
+  "last_collected_at": "2026-09-29T17:30:02.590472+00:00",
   "ministry": "법무부",
   "mst": "227509",
   "name": "보안관찰법 시행령",
   "payload_law_id": "003648",
+  "prev_name": null,
   "promulgation_date": "20210105",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d71b5cf5715e9425"
  },
  "law:eflaw:003649": {
@@ -25680,8 +25694,13 @@
   "version_signature": "51dffec4d82fa365"
  },
  "law:eflaw:003654": {
-  "collected_signature": "b16af64fbcfdc52b",
-  "content_hash": "8d106e6de4933e330f4d84c590afe08f64debf8e4fe1ccd9aa52c95391e1d0b8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 146,
+   "chars": 87292
+  },
+  "collected_signature": "baabad12af8a5159",
+  "content_hash": "ade66320ed1f35181c956aea6100b83ef666aa7ebed58d3051316da93ea83648",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285553&type=HTML&mobileYn=&efYd=20260421",
   "doc_domain": "law",
   "doc_id": "003654",
@@ -25689,21 +25708,28 @@
   "doc_type": "대통령령",
   "emitted_signature": "b16af64fbcfdc52b",
   "enforcement_date": "20260421",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:35:54.123771+00:00",
-  "last_collected_at": "2026-08-23T18:54:24.934670+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.570436+00:00",
+  "last_collected_at": "2026-09-29T17:28:37.576160+00:00",
   "ministry": "금융위원회",
   "mst": "285553",
   "name": "보험업법 시행령",
   "payload_law_id": "003654",
+  "prev_name": null,
   "promulgation_date": "20260421",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "baabad12af8a5159"
  },
  "law:eflaw:003655": {
-  "collected_signature": "e6bccab7ebda7be5",
-  "content_hash": "4e03ff33cfddca9ffd5ff6e765dfd1f1a8a97eab15879b15a69d7fa9e38025c2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 15814
+  },
+  "collected_signature": "9dc4ea5f96f0d665",
+  "content_hash": "56edd62f10bee014ef2ddc16a918ba5b6f6dc37744629cb579f826ab028d8e32",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=247017&type=HTML&mobileYn=&efYd=20221227",
   "doc_domain": "law",
   "doc_id": "003655",
@@ -25711,16 +25737,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "e6bccab7ebda7be5",
   "enforcement_date": "20221227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:54:54.294450+00:00",
-  "last_collected_at": "2026-08-23T19:00:38.373193+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.572904+00:00",
+  "last_collected_at": "2026-09-29T17:30:59.232036+00:00",
   "ministry": "법무부",
   "mst": "247017",
   "name": "보호관찰 등에 관한 법률 시행령",
   "payload_law_id": "003655",
+  "prev_name": null,
   "promulgation_date": "20221227",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9dc4ea5f96f0d665"
  },
  "law:eflaw:003658": {
@@ -101078,8 +101106,13 @@
   "version_signature": "0b5f27cee514055b"
  },
  "law:eflaw:012670": {
-  "collected_signature": "32b261c8f56908a6",
-  "content_hash": "56c41ebb5b784e6d62c9282fe9a7a9a638975781b634410ec6ad77f8d5cd81f0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 4201
+  },
+  "collected_signature": "fdbc3096a1ffd59a",
+  "content_hash": "d72c7860e7c4a6e009c75268771bad758255375c437b8e3814c775fed0f24076",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264719&type=HTML&mobileYn=&efYd=20240814",
   "doc_domain": "law",
   "doc_id": "012670",
@@ -101087,16 +101120,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "32b261c8f56908a6",
   "enforcement_date": "20240814",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:35:55.813560+00:00",
-  "last_collected_at": "2026-08-23T18:40:06.319870+00:00",
+  "last_checked_at": "2026-09-29T17:27:16.571756+00:00",
+  "last_collected_at": "2026-09-29T17:29:56.190982+00:00",
   "ministry": "금융위원회",
   "mst": "264719",
   "name": "보험사기방지 특별법 시행령",
   "payload_law_id": "012670",
+  "prev_name": null,
   "promulgation_date": "20240806",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fdbc3096a1ffd59a"
  },
  "law:eflaw:012673": {
