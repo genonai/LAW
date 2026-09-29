@@ -12676,8 +12676,12 @@
  },
  "law:eflaw:001627": {
   "attempts": 0,
-  "collected_signature": "3eff9dde6cfa403d",
-  "content_hash": "93eb5bc0c8671ed6a96ad3e73f605fc096a3dac1c9d615b70975e1c0d17054e9",
+  "body_stats": {
+   "articles": 56,
+   "chars": 23897
+  },
+  "collected_signature": "a1350fcdca145b32",
+  "content_hash": "6dbe7905b2eaaf7fb866844a44caeb38397f0754b071c06e79177c5ab04b1d2b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286749&type=HTML&mobileYn=&efYd=20260910",
   "doc_domain": "law",
   "doc_id": "001627",
@@ -12687,8 +12691,8 @@
   "enforcement_date": "20260910",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-10T15:00:25.689046+00:00",
-  "last_collected_at": "2026-09-10T15:03:23.131192+00:00",
+  "last_checked_at": "2026-09-29T16:17:59.923424+00:00",
+  "last_collected_at": "2026-09-29T16:19:00.828792+00:00",
   "ministry": "국방부",
   "mst": "286749",
   "name": "군인연금법",
@@ -12696,7 +12700,7 @@
   "prev_name": null,
   "promulgation_date": "20260609",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "a1350fcdca145b32"
  },
  "law:eflaw:001628": {
@@ -12722,8 +12726,13 @@
   "version_signature": "838b1220ab5b59f4"
  },
  "law:eflaw:001629": {
-  "collected_signature": "f57d68d25a7ac401",
-  "content_hash": "bd2860a40f91f3d5ea2668b2b9ec41196103ee1a09b4b612d477848c5200e28e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 112,
+   "chars": 50459
+  },
+  "collected_signature": "5ce74c1a1cd025b7",
+  "content_hash": "20c40aed919cd0c578b75a00bd653c49cab7b75b2cbbee655939a933783b3a12",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283197&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "001629",
@@ -12731,16 +12740,18 @@
   "doc_type": "법률",
   "emitted_signature": "f57d68d25a7ac401",
   "enforcement_date": "20260804",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:44:38.037431+00:00",
-  "last_collected_at": "2026-08-23T01:56:35.256818+00:00",
+  "last_checked_at": "2026-09-29T16:17:59.845572+00:00",
+  "last_collected_at": "2026-09-29T16:22:24.152169+00:00",
   "ministry": "국방부",
   "mst": "283197",
   "name": "군인사법",
   "payload_law_id": "001629",
+  "prev_name": null,
   "promulgation_date": "20260203",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "5ce74c1a1cd025b7"
  },
  "law:eflaw:001631": {
@@ -21828,8 +21839,13 @@
   "version_signature": "8eb82213e5f07444"
  },
  "law:eflaw:003026": {
-  "collected_signature": "dd9065d0d1b159c1",
-  "content_hash": "9a6aeba8f0a8c8d3db55af6e60e06fa2d0fe150b7547c81abedf31dc8ab617df",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 133,
+   "chars": 48345
+  },
+  "collected_signature": "a77d620d7d2ea509",
+  "content_hash": "e64f1e68e60464a5451e4cdbcf2db1a7e2b194ff7bb90ed121f5fb65478e36bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288449&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "003026",
@@ -21837,21 +21853,28 @@
   "doc_type": "대통령령",
   "emitted_signature": "dd9065d0d1b159c1",
   "enforcement_date": "20260804",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:44:36.431441+00:00",
-  "last_collected_at": "2026-08-23T01:58:31.390920+00:00",
+  "last_checked_at": "2026-09-29T16:18:00.223268+00:00",
+  "last_collected_at": "2026-09-29T16:24:10.145603+00:00",
   "ministry": "국방부",
   "mst": "288449",
   "name": "군인사법 시행령",
   "payload_law_id": "003026",
+  "prev_name": null,
   "promulgation_date": "20260803",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a77d620d7d2ea509"
  },
  "law:eflaw:003027": {
-  "collected_signature": "6308d0ec090f5faa",
-  "content_hash": "88723122c490cfa8d1b956e6a68144960032dca0a43cbfdbe3475055c96dbbf1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 61,
+   "chars": 28044
+  },
+  "collected_signature": "27ea70e093e69361",
+  "content_hash": "835c043511b131d391b65852d7f7fb1ad42d1abf526fddcf3062e426d2330c51",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263869&type=HTML&mobileYn=&efYd=20240717",
   "doc_domain": "law",
   "doc_id": "003027",
@@ -21859,16 +21882,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6308d0ec090f5faa",
   "enforcement_date": "20240717",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:44:38.138288+00:00",
-  "last_collected_at": "2026-08-23T01:56:13.146443+00:00",
+  "last_checked_at": "2026-09-29T16:18:00.184975+00:00",
+  "last_collected_at": "2026-09-29T16:23:16.461352+00:00",
   "ministry": "국방부",
   "mst": "263869",
   "name": "군인연금법 시행령",
   "payload_law_id": "003027",
+  "prev_name": null,
   "promulgation_date": "20240709",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "27ea70e093e69361"
  },
  "law:eflaw:003030": {
@@ -22004,8 +22029,13 @@
   "version_signature": "be4eda2c2e75bb01"
  },
  "law:eflaw:003057": {
-  "collected_signature": "da954f2cf3eee81e",
-  "content_hash": "b5e5dab95a7a2f95e7433a8fa723186a876616117dec36077e1adf2400f94750",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 7,
+   "chars": 2905
+  },
+  "collected_signature": "b3907327286dc14c",
+  "content_hash": "3f181f1c1823610ce71a59f2f8cbf65c64d1f0a6147103a74e49db63fd8a2882",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=108467&type=HTML&mobileYn=&efYd=20101027",
   "doc_domain": "law",
   "doc_id": "003057",
@@ -22013,16 +22043,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "da954f2cf3eee81e",
   "enforcement_date": "20101027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:11:10.113266+00:00",
-  "last_collected_at": "2026-08-23T02:12:31.737530+00:00",
+  "last_checked_at": "2026-09-29T16:17:59.805263+00:00",
+  "last_collected_at": "2026-09-29T16:18:33.436706+00:00",
   "ministry": "고용노동부",
   "mst": "108467",
   "name": "근로감독관규정",
   "payload_law_id": "003057",
+  "prev_name": null,
   "promulgation_date": "20101027",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b3907327286dc14c"
  },
  "law:eflaw:003058": {
@@ -99887,8 +99919,13 @@
   "version_signature": "16b78e37bfd4cac9"
  },
  "law:eflaw:012591": {
-  "collected_signature": "ce57a4a624817821",
-  "content_hash": "b344194ce2700dde786144b6d431d728f67add7e0e9fd5ee90f107b05d4aaa41",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 54,
+   "chars": 24479
+  },
+  "collected_signature": "198f64cdee6850d6",
+  "content_hash": "13ce9c5c307e0a8102ffc19a1211d2ba888efc3666e1973c40dbb81a4891e592",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280463&type=HTML&mobileYn=&efYd=20260108",
   "doc_domain": "law",
   "doc_id": "012591",
@@ -99896,16 +99933,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "ce57a4a624817821",
   "enforcement_date": "20260108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:58:54.807584+00:00",
-  "last_collected_at": "2026-08-23T02:01:28.683480+00:00",
+  "last_checked_at": "2026-09-29T16:18:00.186106+00:00",
+  "last_collected_at": "2026-09-29T16:22:01.698360+00:00",
   "ministry": "국방부",
   "mst": "280463",
   "name": "군인의 지위 및 복무에 관한 기본법 시행령",
   "payload_law_id": "012591",
+  "prev_name": null,
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "198f64cdee6850d6"
  },
  "law:eflaw:012592": {
