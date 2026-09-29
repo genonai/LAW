@@ -9625,8 +9625,13 @@
   "version_signature": "56a3d9ea4b006e9f"
  },
  "law:eflaw:001292": {
-  "collected_signature": "e8cf7feca28c2833",
-  "content_hash": "a397ea6d98a591d5b23b61ecbe78d615b9982780ea685db6aae70526019c5c24",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 4007
+  },
+  "collected_signature": "119fdb9c372636f3",
+  "content_hash": "53bb84a47d24c1c5c8ab83c095f153bb021a2ac6881bc7bc1f1803fd25250fcd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222441&type=HTML&mobileYn=&efYd=20210421",
   "doc_domain": "law",
   "doc_id": "001292",
@@ -9634,16 +9639,18 @@
   "doc_type": "법률",
   "emitted_signature": "e8cf7feca28c2833",
   "enforcement_date": "20210421",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:20:17.294015+00:00",
-  "last_collected_at": "2026-08-25T17:21:43.268827+00:00",
+  "last_checked_at": "2026-09-29T19:17:28.255067+00:00",
+  "last_collected_at": "2026-09-29T19:18:18.833539+00:00",
   "ministry": "법무부",
   "mst": "222441",
   "name": "집행관법",
   "payload_law_id": "001292",
+  "prev_name": null,
   "promulgation_date": "20201020",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "119fdb9c372636f3"
  },
  "law:eflaw:001293": {
@@ -64962,8 +64969,13 @@
   "version_signature": "bccf99be06e308dc"
  },
  "law:eflaw:009939": {
-  "collected_signature": "45cebf232b27bca9",
-  "content_hash": "4291a253554afdbee9d88ad2aed600444d97aca6ff25b1862a12cd112e57fbde",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 20881
+  },
+  "collected_signature": "a7ffa0482d8022a0",
+  "content_hash": "8a6611666126f7ed239cd27dc2ff9ce8ed8e55e54964e7023287954aa481f8ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283251&type=HTML&mobileYn=&efYd=20260806",
   "doc_domain": "law",
   "doc_id": "009939",
@@ -64971,16 +64983,18 @@
   "doc_type": "법률",
   "emitted_signature": "45cebf232b27bca9",
   "enforcement_date": "20260806",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:04:04.351160+00:00",
-  "last_collected_at": "2026-08-25T17:06:50.540178+00:00",
+  "last_checked_at": "2026-09-29T19:17:28.284221+00:00",
+  "last_collected_at": "2026-09-29T19:18:24.265373+00:00",
   "ministry": "진실화해를위한과거사정리위원회",
   "mst": "283251",
   "name": "진실ㆍ화해를 위한 과거사정리 기본법",
   "payload_law_id": "009939",
+  "prev_name": null,
   "promulgation_date": "20260205",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a7ffa0482d8022a0"
  },
  "law:eflaw:009940": {
@@ -67035,8 +67049,13 @@
   "version_signature": "b9c3f5daabde44a0"
  },
  "law:eflaw:010082": {
-  "collected_signature": "9428a2d003705d0e",
-  "content_hash": "d7d472a7520f8cc016215273da5f006db441716de80ac4bb8e144a24ad51137b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 10101
+  },
+  "collected_signature": "6781688042732d5d",
+  "content_hash": "c939a635c264acfe365f6901139f9896336b0091f6292b17446429dbe6c84639",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288459&type=HTML&mobileYn=&efYd=20260806",
   "doc_domain": "law",
   "doc_id": "010082",
@@ -67044,16 +67063,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9428a2d003705d0e",
   "enforcement_date": "20260806",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:04:02.484949+00:00",
-  "last_collected_at": "2026-08-25T17:05:07.780863+00:00",
+  "last_checked_at": "2026-09-29T19:17:28.307976+00:00",
+  "last_collected_at": "2026-09-29T19:18:53.429050+00:00",
   "ministry": "진실화해를위한과거사정리위원회",
   "mst": "288459",
   "name": "진실ㆍ화해를 위한 과거사정리 기본법 시행령",
   "payload_law_id": "010082",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6781688042732d5d"
  },
  "law:eflaw:010083": {
@@ -74400,8 +74421,13 @@
   "version_signature": "3ce760ff7b63109a"
  },
  "law:eflaw:010592": {
-  "collected_signature": "d58128df2b79a4b5",
-  "content_hash": "ab59fd04da970841bb155f9dbb0e2fa56b43f63d47a28ac9cedd08a79728bf3f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 61,
+   "chars": 13611
+  },
+  "collected_signature": "0fad4ed7804768ff",
+  "content_hash": "b37598c628cb2b3ab2c39a451b8e2e48110f66174d2d967094ba6069e2b66c02",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=224847&type=HTML&mobileYn=&efYd=20210101",
   "doc_domain": "law",
   "doc_id": "010592",
@@ -74409,16 +74435,18 @@
   "doc_type": "법률",
   "emitted_signature": "d58128df2b79a4b5",
   "enforcement_date": "20210101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:12:51.734239+00:00",
-  "last_collected_at": "2026-08-25T17:13:42.400812+00:00",
+  "last_checked_at": "2026-09-29T19:17:28.099720+00:00",
+  "last_collected_at": "2026-09-29T19:18:59.795394+00:00",
   "ministry": "법무부",
   "mst": "224847",
   "name": "질서위반행위규제법",
   "payload_law_id": "010592",
+  "prev_name": null,
   "promulgation_date": "20201229",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "0fad4ed7804768ff"
  },
  "law:eflaw:010593": {
@@ -83292,8 +83320,13 @@
   "version_signature": "1b661ad6c98e2255"
  },
  "law:eflaw:011277": {
-  "collected_signature": "0c682d6311ad5223",
-  "content_hash": "0c360f6df94e7a73c6cc932d8510f3e0cedd5ce3956290a329374e7d1367f2de",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 114,
+   "chars": 54582
+  },
+  "collected_signature": "05903b0051993951",
+  "content_hash": "decbf724465f132d9cbea520428f24955bbe02405d9bc7d49db1986cb9d87d19",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286471&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "011277",
@@ -83301,16 +83334,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "0c682d6311ad5223",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T13:47:38.474655+00:00",
-  "last_collected_at": "2026-08-25T14:23:22.456527+00:00",
+  "last_checked_at": "2026-09-29T19:17:28.096184+00:00",
+  "last_collected_at": "2026-09-29T19:22:23.061814+00:00",
   "ministry": "행정안전부",
   "mst": "286471",
   "name": "지방세기본법 시행령",
   "payload_law_id": "011277",
+  "prev_name": null,
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "05903b0051993951"
  },
  "law:eflaw:011278": {
@@ -102067,8 +102102,13 @@
   "version_signature": "61ae91a26cd9a2d8"
  },
  "law:eflaw:012708": {
-  "collected_signature": "a27ceb71c2eba52a",
-  "content_hash": "128558ca55be768ec2a84cf05648d16a76b0594d65412e5a89e1510bd92ca0e4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 122,
+   "chars": 46660
+  },
+  "collected_signature": "4ac09cc7efdc3ac0",
+  "content_hash": "0f77904ec4a2e72a721f00f07e5d4dc70a489fb56f23346d9c1dc140dc1a9f2e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283259&type=HTML&mobileYn=&efYd=20260205",
   "doc_domain": "law",
   "doc_id": "012708",
@@ -102076,16 +102116,18 @@
   "doc_type": "법률",
   "emitted_signature": "a27ceb71c2eba52a",
   "enforcement_date": "20260205",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T13:47:40.407076+00:00",
-  "last_collected_at": "2026-08-25T14:20:21.077994+00:00",
+  "last_checked_at": "2026-09-29T19:17:27.982039+00:00",
+  "last_collected_at": "2026-09-29T19:20:49.892437+00:00",
   "ministry": "행정안전부",
   "mst": "283259",
   "name": "지방세징수법",
   "payload_law_id": "012708",
+  "prev_name": null,
   "promulgation_date": "20260205",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4ac09cc7efdc3ac0"
  },
  "law:eflaw:012709": {
