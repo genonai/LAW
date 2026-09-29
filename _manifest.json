@@ -7806,8 +7806,13 @@
   "version_signature": "6d74a328a2d884af"
  },
  "law:eflaw:001126": {
-  "collected_signature": "e7d767b4de1530da",
-  "content_hash": "6d744b7f692a97b06c403239315181bc622bc408d69129925501919fa797a087",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 55,
+   "chars": 18020
+  },
+  "collected_signature": "e3f816637be92d6a",
+  "content_hash": "4c30447ab4df14da827c8247924af07cc95b3f207ab1a228ca7bd5ee20588b27",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=215973&type=HTML&mobileYn=&efYd=20210325",
   "doc_domain": "law",
   "doc_id": "001126",
@@ -7815,16 +7820,18 @@
   "doc_type": "법률",
   "emitted_signature": "e7d767b4de1530da",
   "enforcement_date": "20210325",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:27:52.867593+00:00",
-  "last_collected_at": "2026-08-22T13:32:14.410013+00:00",
+  "last_checked_at": "2026-09-29T15:25:48.132876+00:00",
+  "last_collected_at": "2026-09-29T15:28:14.134752+00:00",
   "ministry": "법무부",
   "mst": "215973",
   "name": "공무원범죄에 관한 몰수 특례법",
   "payload_law_id": "001126",
+  "prev_name": null,
   "promulgation_date": "20200324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e3f816637be92d6a"
  },
  "law:eflaw:001129": {
@@ -13441,8 +13448,13 @@
   "version_signature": "c200c690e83b4474"
  },
  "law:eflaw:001717": {
-  "collected_signature": "094aaeb1886ab40a",
-  "content_hash": "d24108af5cacbb6f5def8f35026a6f797a7e5de43af9b99d428303946b58149f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 95,
+   "chars": 33629
+  },
+  "collected_signature": "37a234fcbf67eaa3",
+  "content_hash": "cbe469933659fb831a34c55b47b7730093ded4bbac3f066c3429413b29ecc776",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277137&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001717",
@@ -13450,16 +13462,18 @@
   "doc_type": "법률",
   "emitted_signature": "094aaeb1886ab40a",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:49:15.738697+00:00",
-  "last_collected_at": "2026-08-22T13:56:22.070963+00:00",
+  "last_checked_at": "2026-09-29T15:25:48.175248+00:00",
+  "last_collected_at": "2026-09-29T15:26:42.408580+00:00",
   "ministry": "인사혁신처",
   "mst": "277137",
   "name": "공무원연금법",
   "payload_law_id": "001717",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "37a234fcbf67eaa3"
  },
  "law:eflaw:001718": {
@@ -18416,8 +18430,13 @@
   "version_signature": "1b1b25cb6ec043c0"
  },
  "law:eflaw:002298": {
-  "collected_signature": "2b496d57d8ed6823",
-  "content_hash": "f0ca145a8df3850bc7f5b91b592f3c7a58403293eb7efa9f93312f6e311ee357",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 92,
+   "chars": 42931
+  },
+  "collected_signature": "7dac44d909a0b000",
+  "content_hash": "d464e52fb2fed54c3aa1da26f73990485b9229259ec5180a041138da837f8048",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288433&type=HTML&mobileYn=&efYd=20260801",
   "doc_domain": "law",
   "doc_id": "002298",
@@ -18425,16 +18444,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "2b496d57d8ed6823",
   "enforcement_date": "20260801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:27:51.141372+00:00",
-  "last_collected_at": "2026-08-22T13:48:50.872153+00:00",
+  "last_checked_at": "2026-09-29T15:25:48.136075+00:00",
+  "last_collected_at": "2026-09-29T15:27:22.030589+00:00",
   "ministry": "인사혁신처",
   "mst": "288433",
   "name": "공무원보수규정",
   "payload_law_id": "002298",
+  "prev_name": null,
   "promulgation_date": "20260730",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "7dac44d909a0b000"
  },
  "law:eflaw:002303": {
@@ -18443,8 +18464,8 @@
    "articles": 41,
    "chars": 30910
   },
-  "collected_signature": "6dc36a114e1a8509",
-  "content_hash": "7b0ffb13f7d47565962675f2bd8ec50a896dac8ec44b0a5c9d5ee81dff9a8142",
+  "collected_signature": "10b3760dc0e6b691",
+  "content_hash": "9dfee20a323fb731221a77f344f339215f8aa6ac9c40844816c0baf2921ba34f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282475&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002303",
@@ -18454,8 +18475,8 @@
   "enforcement_date": "20260102",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:33:18.256961+00:00",
-  "last_collected_at": "2026-09-23T01:39:17.042185+00:00",
+  "last_checked_at": "2026-09-29T15:25:47.919030+00:00",
+  "last_collected_at": "2026-09-29T15:30:08.685016+00:00",
   "ministry": "인사혁신처",
   "mst": "282475",
   "name": "공무원수당 등에 관한 규정",
@@ -18463,12 +18484,17 @@
   "prev_name": null,
   "promulgation_date": "20260102",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "10b3760dc0e6b691"
  },
  "law:eflaw:002308": {
-  "collected_signature": "729babcf6fc9af4b",
-  "content_hash": "02d78cf8d7f1da6a6fbc6e7b2197269b259fe941769c44a535794e4c5a36096b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 98,
+   "chars": 41926
+  },
+  "collected_signature": "0923ef528c1c9039",
+  "content_hash": "4736c9f47dc383058b0c2e14d1753e56a2733d32e6433ee3a01294cf65c2fcba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281715&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002308",
@@ -18476,16 +18502,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "729babcf6fc9af4b",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:49:15.506301+00:00",
-  "last_collected_at": "2026-08-22T14:01:26.171781+00:00",
+  "last_checked_at": "2026-09-29T15:25:48.135053+00:00",
+  "last_collected_at": "2026-09-29T15:30:47.280797+00:00",
   "ministry": "인사혁신처",
   "mst": "281715",
   "name": "공무원연금법 시행령",
   "payload_law_id": "002308",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0923ef528c1c9039"
  },
  "law:eflaw:002315": {
@@ -66608,8 +66636,13 @@
   "version_signature": "26ff5837a0417d22"
  },
  "law:eflaw:010123": {
-  "collected_signature": "7a890e7d83ccdfcb",
-  "content_hash": "a8d70ea2e7b0552bc407cf017ba68ace81ff27cd8728253af24dce52fba354c8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 9135
+  },
+  "collected_signature": "cac03c2ff9126ecc",
+  "content_hash": "028507bb66a6ba1d298409f0a9d95ad12c01c0bd34e6f93f684fc5a270b3b6e0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=256437&type=HTML&mobileYn=&efYd=20231211",
   "doc_domain": "law",
   "doc_id": "010123",
@@ -66617,16 +66650,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "7a890e7d83ccdfcb",
   "enforcement_date": "20231211",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T13:49:15.096365+00:00",
-  "last_collected_at": "2026-08-22T13:51:31.062743+00:00",
+  "last_checked_at": "2026-09-29T15:25:47.785702+00:00",
+  "last_collected_at": "2026-09-29T15:28:14.657152+00:00",
   "ministry": "고용노동부",
   "mst": "256437",
   "name": "공무원의 노동조합 설립 및 운영 등에 관한 법률 시행령",
   "payload_law_id": "010123",
+  "prev_name": null,
   "promulgation_date": "20231205",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cac03c2ff9126ecc"
  },
  "law:eflaw:010125": {
