@@ -8074,8 +8074,13 @@
   "version_signature": "3a8dd24230c96bd0"
  },
  "law:eflaw:001135": {
-  "collected_signature": "121eb73d3eda67fa",
-  "content_hash": "1f3e1a43974f04897f55b4af4e4a9f5ba8e21889f72d0d9527b513804c312d76",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 3651
+  },
+  "collected_signature": "bac9ee9c0fccba76",
+  "content_hash": "5cd8dc0eff1d918673f8fe8b9ba00ebf037594b0ed466af81553d1da47b96743",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=178989&type=HTML&mobileYn=&efYd=20160106",
   "doc_domain": "law",
   "doc_id": "001135",
@@ -8083,16 +8088,18 @@
   "doc_type": "법률",
   "emitted_signature": "121eb73d3eda67fa",
   "enforcement_date": "20160106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T22:21:05.581341+00:00",
-  "last_collected_at": "2026-08-25T22:22:50.827050+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.972419+00:00",
+  "last_collected_at": "2026-09-29T19:40:26.879280+00:00",
   "ministry": "법무부",
   "mst": "178989",
   "name": "폭력행위 등 처벌에 관한 법률",
   "payload_law_id": "001135",
+  "prev_name": null,
   "promulgation_date": "20160106",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bac9ee9c0fccba76"
  },
  "law:eflaw:001136": {
@@ -16658,8 +16665,13 @@
   "version_signature": "c50e7b149e1b5570"
  },
  "law:eflaw:002009": {
-  "collected_signature": "2bc8060f6fb4d6e2",
-  "content_hash": "12760ae3cd7a036cd7f217f1d940280f6c802680ad36653ddb1ccab1d88a338e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 7005
+  },
+  "collected_signature": "1e0c5c9ec7d91f60",
+  "content_hash": "15e6104f7bacb63685c129ef5b878eed236338f7ab8b2ac341efcb637e3514ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=188381&type=HTML&mobileYn=&efYd=20161220",
   "doc_domain": "law",
   "doc_id": "002009",
@@ -16667,16 +16679,18 @@
   "doc_type": "법률",
   "emitted_signature": "2bc8060f6fb4d6e2",
   "enforcement_date": "20161220",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:17:39.736754+00:00",
-  "last_collected_at": "2026-08-25T21:19:16.522504+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.763948+00:00",
+  "last_collected_at": "2026-09-29T19:40:31.771915+00:00",
   "ministry": "법무부",
   "mst": "188381",
   "name": "특정범죄신고자 등 보호법",
   "payload_law_id": "002009",
+  "prev_name": null,
   "promulgation_date": "20161220",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "1e0c5c9ec7d91f60"
  },
  "law:eflaw:002010": {
@@ -34161,8 +34175,13 @@
   "version_signature": "bff12805cf9c4608"
  },
  "law:eflaw:005327": {
-  "collected_signature": "90053644c2af40d5",
-  "content_hash": "0d1660e359a1b2a3eff8a33e2f4e21dc8978c0da38303965e2426b30ac62132d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 20,
+   "chars": 4674
+  },
+  "collected_signature": "023b69781dd3978c",
+  "content_hash": "3b8fae7d40948640cd4a5bc5fdcfd486c2ae1de52142fd6af0dcbde350ec1b12",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=225685&type=HTML&mobileYn=&efYd=20210101",
   "doc_domain": "law",
   "doc_id": "005327",
@@ -34170,16 +34189,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "90053644c2af40d5",
   "enforcement_date": "20210101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:21:34.622743+00:00",
-  "last_collected_at": "2026-08-25T21:23:40.301734+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.921985+00:00",
+  "last_collected_at": "2026-09-29T19:40:32.640526+00:00",
   "ministry": "법무부",
   "mst": "225685",
   "name": "특정범죄신고자등보호법시행령",
   "payload_law_id": "005327",
+  "prev_name": null,
   "promulgation_date": "20201231",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "023b69781dd3978c"
  },
  "law:eflaw:005329": {
@@ -34696,8 +34717,13 @@
   "version_signature": "83f57273b881d52c"
  },
  "law:eflaw:005397": {
-  "collected_signature": "3e5d0ce92fb3ba68",
-  "content_hash": "035cd54016c348a07e44580f6b57ab5291a82f3e16a54ba86ac1a10605048f86",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 9866
+  },
+  "collected_signature": "9d3fea187c39ae6d",
+  "content_hash": "2cf5b47f047939428349291a68461cf6db52d1d03b9d8eaa6849444c4d3c68e5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284907&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "005397",
@@ -34705,16 +34731,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "3e5d0ce92fb3ba68",
   "enforcement_date": "20260324",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T23:08:52.425655+00:00",
-  "last_collected_at": "2026-08-25T23:13:18.977768+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.441847+00:00",
+  "last_collected_at": "2026-09-29T19:40:57.933066+00:00",
   "ministry": "교육부",
   "mst": "284907",
   "name": "학원의 설립ㆍ운영 및 과외교습에 관한 법률 시행령",
   "payload_law_id": "005397",
+  "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9d3fea187c39ae6d"
  },
  "law:eflaw:005398": {
@@ -119768,8 +119796,13 @@
   "version_signature": "b141ec058e7d2f39"
  },
  "law:eflaw:014514": {
-  "collected_signature": "63b6c2af5871531e",
-  "content_hash": "0cfe8b005803593ea640757c7511f50d82868a639dd9cd6b62a64c34fe51166e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 4167
+  },
+  "collected_signature": "966848eb6f2baa72",
+  "content_hash": "168633f8d3093bb834a247bdd267a77eb84886ca3807fea00a7af184831b1e61",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=255431&type=HTML&mobileYn=&efYd=20240125",
   "doc_domain": "law",
   "doc_id": "014514",
@@ -119777,16 +119810,18 @@
   "doc_type": "법률",
   "emitted_signature": "63b6c2af5871531e",
   "enforcement_date": "20240125",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:21:35.273044+00:00",
-  "last_collected_at": "2026-08-25T21:23:27.574591+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.575085+00:00",
+  "last_collected_at": "2026-09-29T19:40:30.966006+00:00",
   "ministry": "법무부",
   "mst": "255431",
   "name": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률",
   "payload_law_id": "014514",
+  "prev_name": null,
   "promulgation_date": "20231024",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "966848eb6f2baa72"
  },
  "law:eflaw:014515": {
@@ -120847,8 +120882,13 @@
   "version_signature": "05001ca914344b14"
  },
  "law:eflaw:014595": {
-  "collected_signature": "fb871b2ceaf29805",
-  "content_hash": "12a051466d436741ea6bd7bfc7ac5a398bcb0c8e9940c22c35db1a6af0e0f40a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 3435
+  },
+  "collected_signature": "da7c2073c7949599",
+  "content_hash": "5af7a8b976006ded02588613f3cac1f4d4e48e3fd6b0a2cb0cf2f6c73555cc5f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259309&type=HTML&mobileYn=&efYd=20240125",
   "doc_domain": "law",
   "doc_id": "014595",
@@ -120856,16 +120896,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "fb871b2ceaf29805",
   "enforcement_date": "20240125",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:21:36.940262+00:00",
-  "last_collected_at": "2026-08-25T21:23:26.491277+00:00",
+  "last_checked_at": "2026-09-29T19:39:00.922743+00:00",
+  "last_collected_at": "2026-09-29T19:40:29.641407+00:00",
   "ministry": "법무부",
   "mst": "259309",
   "name": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률 시행령",
   "payload_law_id": "014595",
+  "prev_name": null,
   "promulgation_date": "20240123",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "da7c2073c7949599"
  },
  "law:eflaw:014598": {
