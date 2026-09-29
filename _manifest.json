@@ -12232,8 +12232,12 @@
  },
  "law:eflaw:001591": {
   "attempts": 0,
-  "collected_signature": "90680ae49f85d198",
-  "content_hash": "ec07c888c20f90b9bff27b5d24aded33fa9019d5838e6aeab5831fb3e35d503f",
+  "body_stats": {
+   "articles": 138,
+   "chars": 74224
+  },
+  "collected_signature": "59ed5d6ddd3e31b1",
+  "content_hash": "ab04d3fcb961225eef844c8c4091fce95ee0091c52d4278f42ec92f7aec5adc8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285951&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "001591",
@@ -12241,16 +12245,18 @@
   "doc_type": "법률",
   "emitted_signature": "90680ae49f85d198",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T15:54:11.864804+00:00",
-  "last_collected_at": "2026-09-08T15:59:19.872955+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.903314+00:00",
+  "last_collected_at": "2026-09-29T16:46:59.030291+00:00",
   "ministry": "공정거래위원회",
   "mst": "285951",
   "name": "독점규제 및 공정거래에 관한 법률",
   "payload_law_id": "001591",
+  "prev_name": null,
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "59ed5d6ddd3e31b1"
  },
  "law:eflaw:001592": {
@@ -16682,8 +16688,8 @@
    "articles": 110,
    "chars": 57968
   },
-  "collected_signature": "e036f6dc307b4fde",
-  "content_hash": "8c290c354e6ef425b0d9b5011e2ce013602098f3ab968a7c50b57be0849a580b",
+  "collected_signature": "0a239647263261e8",
+  "content_hash": "2504c89f0218e4d3d266b6b0ea3562e2a78c9e392da208d5650c0ec483dbcefd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286167&type=HTML&mobileYn=&efYd=20260827",
   "doc_domain": "law",
   "doc_id": "002025",
@@ -16693,8 +16699,8 @@
   "enforcement_date": "20260827",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:50:49.776279+00:00",
-  "last_collected_at": "2026-09-15T15:56:21.106337+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.714536+00:00",
+  "last_collected_at": "2026-09-29T16:43:17.315225+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "286167",
   "name": "마약류 관리에 관한 법률",
@@ -16702,7 +16708,7 @@
   "prev_name": null,
   "promulgation_date": "20260526",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "0a239647263261e8"
  },
  "law:eflaw:002026": {
@@ -23841,8 +23847,13 @@
   "version_signature": "d2f021fae578c1d9"
  },
  "law:eflaw:003395": {
-  "collected_signature": "317aaa9250320e58",
-  "content_hash": "4806fc371fc6fbbd855688e7654c38103ea5b76ec4c7d53685052b700e5d1b06",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 123,
+   "chars": 57818
+  },
+  "collected_signature": "0f22b735cc24da09",
+  "content_hash": "e53eb2744b7036d401ac9125978fca15e6f237ef39c5d1b1effce0337d41545b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283551&type=HTML&mobileYn=&efYd=20260801",
   "doc_domain": "law",
   "doc_id": "003395",
@@ -23850,16 +23861,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "317aaa9250320e58",
   "enforcement_date": "20260801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:49:23.888353+00:00",
-  "last_collected_at": "2026-08-23T09:12:14.216086+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.700777+00:00",
+  "last_collected_at": "2026-09-29T16:47:51.643105+00:00",
   "ministry": "경찰청",
   "mst": "283551",
   "name": "도로교통법 시행령",
   "payload_law_id": "003395",
+  "prev_name": null,
   "promulgation_date": "20260219",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0f22b735cc24da09"
  },
  "law:eflaw:003400": {
@@ -80880,8 +80893,13 @@
   "version_signature": "9f87810f6f3846e5"
  },
  "law:eflaw:011143": {
-  "collected_signature": "0054bcb4ba7092e0",
-  "content_hash": "4680f277d82bf0bec5342653e7c3a3a0fdf766a461a3d961bb79eac5653f2dec",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 9106
+  },
+  "collected_signature": "a3e2bb52303319eb",
+  "content_hash": "048b565e90b428b52a80765c82c14286c4b65ea456517efa531512ffb8b34069",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=213449&type=HTML&mobileYn=&efYd=20200121",
   "doc_domain": "law",
   "doc_id": "011143",
@@ -80889,16 +80907,18 @@
   "doc_type": "법률",
   "emitted_signature": "0054bcb4ba7092e0",
   "enforcement_date": "20200121",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T11:35:27.820015+00:00",
-  "last_collected_at": "2026-08-23T11:37:43.405073+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.902290+00:00",
+  "last_collected_at": "2026-09-29T16:44:25.956420+00:00",
   "ministry": "경찰청,대검찰청,법무부",
   "mst": "213449",
   "name": "디엔에이신원확인정보의 이용 및 보호에 관한 법률",
   "payload_law_id": "011143",
+  "prev_name": null,
   "promulgation_date": "20200121",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a3e2bb52303319eb"
  },
  "law:eflaw:011146": {
@@ -82325,8 +82345,13 @@
   "version_signature": "416a7377054b93c8"
  },
  "law:eflaw:011235": {
-  "collected_signature": "7aad0ff962a3e2cb",
-  "content_hash": "51e0bacbd02b9348ae76ff6e77dc0ac39f2964ec3fc5df30e5a1a673c9f0712d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 8850
+  },
+  "collected_signature": "4bfe8d7ff990241e",
+  "content_hash": "32ec1cddb13eda56e1635a77bb4f529cdb6d30e60653fb93ce049417f35dbd04",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243617&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "011235",
@@ -82334,16 +82359,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "7aad0ff962a3e2cb",
   "enforcement_date": "20220701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T11:35:25.693525+00:00",
-  "last_collected_at": "2026-08-23T11:37:22.208856+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.938252+00:00",
+  "last_collected_at": "2026-09-29T16:43:56.801889+00:00",
   "ministry": "경찰청,대검찰청,법무부",
   "mst": "243617",
   "name": "디엔에이신원확인정보의 이용 및 보호에 관한 법률 시행령",
   "payload_law_id": "011235",
+  "prev_name": null,
   "promulgation_date": "20220630",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4bfe8d7ff990241e"
  },
  "law:eflaw:011236": {
@@ -90094,8 +90121,12 @@
  },
  "law:eflaw:011784": {
   "attempts": 0,
-  "collected_signature": "5ef26acecf2b11ba",
-  "content_hash": "f50a4487aac0b4c32bb2cfa3c88c7e8206dbd551df44940629d30a37043a29a2",
+  "body_stats": {
+   "articles": 11,
+   "chars": 2367
+  },
+  "collected_signature": "26ce152a65023ce4",
+  "content_hash": "a4488db7884f76f88a57c195bcceca9738a74afc357beae9c14adf938f124dd0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289279&type=HTML&mobileYn=&efYd=20260902",
   "doc_domain": "law",
   "doc_id": "011784",
@@ -90103,17 +90134,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "5ef26acecf2b11ba",
   "enforcement_date": "20260902",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:31:25.643294+00:00",
-  "last_collected_at": "2026-09-03T03:31:47.295827+00:00",
+  "last_checked_at": "2026-09-29T16:42:11.581358+00:00",
+  "last_collected_at": "2026-09-29T16:42:30.833718+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "행정안전부",
   "mst": "289279",
   "name": "대통령비서실 직제",
   "payload_law_id": "011784",
+  "prev_name": null,
   "promulgation_date": "20260902",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "26ce152a65023ce4"
  },
  "law:eflaw:011785": {
