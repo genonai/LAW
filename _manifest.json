@@ -13053,8 +13053,13 @@
   "version_signature": "9cc9f3a8feb50675"
  },
  "law:eflaw:001674": {
-  "collected_signature": "5bd483517f7b3529",
-  "content_hash": "c98c1f0a4bc9c5bc224239b337a09dd0108dd74b821a4506e5f07fbd5b922ad5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 7464
+  },
+  "collected_signature": "c3ab856a8f73c46d",
+  "content_hash": "89101aa82ce1e667ff09a97dd09c1742a47dbf54d93aacd133aacc20df6e6ac7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=198226&type=HTML&mobileYn=&efYd=20171024",
   "doc_domain": "law",
   "doc_id": "001674",
@@ -13062,16 +13067,18 @@
   "doc_type": "법률",
   "emitted_signature": "5bd483517f7b3529",
   "enforcement_date": "20171024",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T10:04:46.087688+00:00",
-  "last_collected_at": "2026-08-22T10:06:01.058058+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.628500+00:00",
+  "last_collected_at": "2026-09-29T15:15:45.873367+00:00",
   "ministry": "경찰청,해양경찰청",
   "mst": "198226",
   "name": "경범죄 처벌법",
   "payload_law_id": "001674",
+  "prev_name": null,
   "promulgation_date": "20171024",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c3ab856a8f73c46d"
  },
  "law:eflaw:001676": {
@@ -17487,8 +17494,13 @@
   "version_signature": "d483f6750d2ea93b"
  },
  "law:eflaw:002144": {
-  "collected_signature": "1e0fd8ec57048667",
-  "content_hash": "21ac42211145bd463ec97f1c5076c7f90c124e44242a5eb2f2830cc956f173f6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 3596
+  },
+  "collected_signature": "054c23f133590a38",
+  "content_hash": "fd31da8964ec4521b53efa01f15be5aa049337c83b4151a2135811e94e9cc241",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=241185&type=HTML&mobileYn=&efYd=20220308",
   "doc_domain": "law",
   "doc_id": "002144",
@@ -17496,16 +17508,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "1e0fd8ec57048667",
   "enforcement_date": "20220308",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T10:04:44.266179+00:00",
-  "last_collected_at": "2026-08-22T10:05:38.676495+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.591770+00:00",
+  "last_collected_at": "2026-09-29T15:16:25.336966+00:00",
   "ministry": "경찰청,해양경찰청",
   "mst": "241185",
   "name": "경범죄 처벌법 시행령",
   "payload_law_id": "002144",
+  "prev_name": null,
   "promulgation_date": "20220308",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "054c23f133590a38"
  },
  "law:eflaw:002146": {
@@ -17755,8 +17769,12 @@
  },
  "law:eflaw:002215": {
   "attempts": 0,
-  "collected_signature": "5a42f3783537682a",
-  "content_hash": "9c5c8f6a77711d5bab2177fa4591001c346ee6ab709eec8d8390eda45762587f",
+  "body_stats": {
+   "articles": 76,
+   "chars": 20412
+  },
+  "collected_signature": "18c2483d2a83d40a",
+  "content_hash": "b74442634dcf683c9b5c2d126129a2ff651fc05e2feed0bf21da1550024f85d6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289099&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "002215",
@@ -17764,17 +17782,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "5a42f3783537682a",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:46:23.099221+00:00",
-  "last_collected_at": "2026-09-03T02:49:03.922340+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.627299+00:00",
+  "last_collected_at": "2026-09-29T15:16:55.962542+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "경찰청,행정안전부",
   "mst": "289099",
   "name": "경찰청과 그 소속기관 직제",
   "payload_law_id": "002215",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "18c2483d2a83d40a"
  },
  "law:eflaw:002221": {
@@ -68043,8 +68063,13 @@
   "version_signature": "6c4fd81e22ce36f7"
  },
  "law:eflaw:010217": {
-  "collected_signature": "de4a7c37cf6c1f75",
-  "content_hash": "b85a43f4971d7b1225fbbf992af100ded1ee35a1d9b294f7b3244f3d5e0c0ba1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 22868
+  },
+  "collected_signature": "748b5a373473b3f8",
+  "content_hash": "cedb7ce34752af4a49877b8f3501e245eb7799cc9cfdf441a8c9731af75816bc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263095&type=HTML&mobileYn=&efYd=20240604",
   "doc_domain": "law",
   "doc_id": "010217",
@@ -68052,16 +68077,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "de4a7c37cf6c1f75",
   "enforcement_date": "20240604",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T12:06:35.690195+00:00",
-  "last_collected_at": "2026-08-22T12:10:51.923625+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.399023+00:00",
+  "last_collected_at": "2026-09-29T15:17:34.871979+00:00",
   "ministry": "인사혁신처",
   "mst": "263095",
   "name": "고위공무원단 인사규정",
   "payload_law_id": "010217",
+  "prev_name": null,
   "promulgation_date": "20240604",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "748b5a373473b3f8"
  },
  "law:eflaw:010221": {
@@ -107671,8 +107698,13 @@
   "version_signature": "92bbb7babf529433"
  },
  "law:eflaw:013736": {
-  "collected_signature": "808e9412beb77aa0",
-  "content_hash": "888cdd30cebf6ec948f36d52d0ac8cfeb637b6a541d1355704f34aede9e702c3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 11648
+  },
+  "collected_signature": "4afa06f564b626b1",
+  "content_hash": "202ee4ba4445ec7c7c60a261521b9cfb80dadc5a151d81543d8fc9fff013a231",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290223&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "013736",
@@ -107680,13 +107712,15 @@
   "doc_type": "법률",
   "emitted_signature": "808e9412beb77aa0",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T10:15:08.064861+00:00",
-  "last_collected_at": "2026-08-22T10:16:42.514551+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.589544+00:00",
+  "last_collected_at": "2026-09-29T15:15:50.575449+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290223",
   "name": "경영지도사 및 기술지도사에 관한 법률",
   "payload_law_id": "013736",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -108800,8 +108834,13 @@
   "version_signature": "568a203efcdf981e"
  },
  "law:eflaw:013809": {
-  "collected_signature": "5f21c344b6a67de3",
-  "content_hash": "f60c4eec04d04e6ff8663407236ade173fbb0dca85c773febaf7c185ff87dee5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 5456
+  },
+  "collected_signature": "2344df3bccc64583",
+  "content_hash": "2f40bb1093c94b1afc314d5c9673dae8f3e1bf709287262796844098e0d46771",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=219989&type=HTML&mobileYn=&efYd=20200715",
   "doc_domain": "law",
   "doc_id": "013809",
@@ -108809,16 +108848,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "5f21c344b6a67de3",
   "enforcement_date": "20200715",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T12:06:33.895944+00:00",
-  "last_collected_at": "2026-08-22T12:09:12.420529+00:00",
+  "last_checked_at": "2026-09-29T15:14:56.284153+00:00",
+  "last_collected_at": "2026-09-29T15:16:02.619384+00:00",
   "ministry": "고위공직자범죄수사처",
   "mst": "219989",
   "name": "고위공직자범죄등 내부고발자 보호에 관한 규정",
   "payload_law_id": "013809",
+  "prev_name": null,
   "promulgation_date": "20200714",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2344df3bccc64583"
  },
  "law:eflaw:013810": {
