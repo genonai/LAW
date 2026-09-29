@@ -36487,8 +36487,13 @@
   "version_signature": "890afd77ead7f6f2"
  },
  "law:eflaw:005653": {
-  "collected_signature": "e6ccf6191a508ea9",
-  "content_hash": "04b9e4dbe40074a22450429c431a1528202af98f6ba42c3082545c0bfc6b294f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 5,
+   "chars": 1299
+  },
+  "collected_signature": "8d51af53da6c693c",
+  "content_hash": "53495d343bf22f2da85ea7394fd6a0bf45532e99e316d4f904fe4cd1746e326a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243627&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "005653",
@@ -36496,16 +36501,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "e6ccf6191a508ea9",
   "enforcement_date": "20220701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:26:36.313022+00:00",
-  "last_collected_at": "2026-08-26T11:29:34.618794+00:00",
+  "last_checked_at": "2026-09-29T20:02:17.987999+00:00",
+  "last_collected_at": "2026-09-29T20:02:30.238935+00:00",
   "ministry": "법무부",
   "mst": "243627",
   "name": "형집행정지자관찰규정",
   "payload_law_id": "005653",
+  "prev_name": null,
   "promulgation_date": "20220630",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8d51af53da6c693c"
  },
  "law:eflaw:005659": {
@@ -36787,8 +36794,13 @@
   "version_signature": "5f5a1fbb46db6f4c"
  },
  "law:eflaw:005685": {
-  "collected_signature": "67b3abae4cdebc35",
-  "content_hash": "b449cab6dd8397c2747d05179f1ccee4ae62a6d7d4d49f44fb0ebfecbc718c6c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 12039
+  },
+  "collected_signature": "6138442379ec6cd1",
+  "content_hash": "7fda14b1734b84db02b9aeb760eae72246692fafd9473881e0f3bd64f4af2977",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280511&type=HTML&mobileYn=&efYd=20251223",
   "doc_domain": "law",
   "doc_id": "005685",
@@ -36796,16 +36808,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "67b3abae4cdebc35",
   "enforcement_date": "20251223",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T12:54:47.984686+00:00",
-  "last_collected_at": "2026-08-26T13:00:33.676697+00:00",
+  "last_checked_at": "2026-09-29T20:02:17.900104+00:00",
+  "last_collected_at": "2026-09-29T20:03:03.984869+00:00",
   "ministry": "기후에너지환경부",
   "mst": "280511",
   "name": "환경정책기본법 시행령",
   "payload_law_id": "005685",
+  "prev_name": null,
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6138442379ec6cd1"
  },
  "law:eflaw:005687": {
