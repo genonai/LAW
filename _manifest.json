@@ -6446,8 +6446,13 @@
   "version_signature": "4668a14a4929aa8a"
  },
  "law:eflaw:000928": {
-  "collected_signature": "2d42f9a8943104b0",
-  "content_hash": "4550283f7f72a530836777d1af9c223bcf40680ea04a3172963888c541335bba",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 4574
+  },
+  "collected_signature": "38bf72fa53432c65",
+  "content_hash": "7a4bc6f6e9e6ff748fc8914282499ed773e76592e8037b02850b4e5f8911beeb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245987&type=HTML&mobileYn=&efYd=20221213",
   "doc_domain": "law",
   "doc_id": "000928",
@@ -6455,16 +6460,18 @@
   "doc_type": "법률",
   "emitted_signature": "2d42f9a8943104b0",
   "enforcement_date": "20221213",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:20:13.773064+00:00",
-  "last_collected_at": "2026-08-23T01:22:53.278416+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.316715+00:00",
+  "last_collected_at": "2026-09-29T16:12:28.432518+00:00",
   "ministry": "국방부",
   "mst": "245987",
   "name": "군사기밀 보호법",
   "payload_law_id": "000928",
+  "prev_name": null,
   "promulgation_date": "20221213",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "38bf72fa53432c65"
  },
  "law:eflaw:000929": {
@@ -8171,8 +8178,13 @@
   "version_signature": "401eefed03be2c5f"
  },
  "law:eflaw:001155": {
-  "collected_signature": "657ed3741502b5f4",
-  "content_hash": "15e71793d88e80d7b8b2171e0794329ca6bf6bba63fa6be324c843b18f04cba0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 6,
+   "chars": 2077
+  },
+  "collected_signature": "2e8c262bc42a51f6",
+  "content_hash": "92b84bc4fadef45f31b5c9904235c9eab2c890353dffd2ccc521a6f1fd25d59f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=179005&type=HTML&mobileYn=&efYd=20160106",
   "doc_domain": "law",
   "doc_id": "001155",
@@ -8180,16 +8192,18 @@
   "doc_type": "법률",
   "emitted_signature": "657ed3741502b5f4",
   "enforcement_date": "20160106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:33:36.385346+00:00",
-  "last_collected_at": "2026-08-23T01:33:54.845380+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.363115+00:00",
+  "last_collected_at": "2026-09-29T16:13:04.293095+00:00",
   "ministry": "국방부,법무부",
   "mst": "179005",
   "name": "군용물 등 범죄에 관한 특별조치법",
   "payload_law_id": "001155",
+  "prev_name": null,
   "promulgation_date": "20160106",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2e8c262bc42a51f6"
  },
  "law:eflaw:001156": {
@@ -12579,8 +12593,13 @@
   "version_signature": "0e2d6ad12615a876"
  },
  "law:eflaw:001623": {
-  "collected_signature": "90596be611f3b001",
-  "content_hash": "5b292921bb34259fac5595c50ef8f00393323942e1a080c126f090952e7713f4",
+  "attempts": 1,
+  "body_stats": {
+   "articles": 699,
+   "chars": 131369
+  },
+  "collected_signature": null,
+  "content_hash": "9a5a53bb6076577addbdb02028994b27bd7d7dbb8f760789c12d19a8d84fb930",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283147&type=HTML&mobileYn=&efYd=20260205",
   "doc_domain": "law",
   "doc_id": "001623",
@@ -12588,16 +12607,19 @@
   "doc_type": "법률",
   "emitted_signature": "90596be611f3b001",
   "enforcement_date": "20260205",
+  "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:23:49.415012+00:00",
-  "last_collected_at": "2026-08-23T01:30:07.738553+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.332369+00:00",
+  "last_collected_at": "2026-09-29T16:16:45.015679+00:00",
+  "last_git_error": "git commit 실패(rc=128) /workspace/law_ai/data/LAW :: 군사법원법/법률 — fatal: invalid date format: 9999-01-01T12:00:00",
+  "last_git_error_at": "2026-09-29T16:17:50.581913+00:00",
   "ministry": "국방부",
   "mst": "283147",
   "name": "군사법원법",
   "payload_law_id": "001623",
   "promulgation_date": "20260205",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "1ff5472835804491"
  },
  "law:eflaw:001624": {
@@ -77142,8 +77164,13 @@
   "version_signature": "2279a68005afdb7c"
  },
  "law:eflaw:010841": {
-  "collected_signature": "4f64c04c6ac139b6",
-  "content_hash": "c975b7a83d47f929e22ccf7ba3f96276b56c6b75f852ea4774953cd33facd417",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 6549
+  },
+  "collected_signature": "f6f110ef07b7016e",
+  "content_hash": "c07850c3c495fecb13c20e7d0bcf360eb3165b236e97aa9027163ac2552efb01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290615&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "010841",
@@ -77151,13 +77178,15 @@
   "doc_type": "국방부령",
   "emitted_signature": "4f64c04c6ac139b6",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:20:12.700175+00:00",
-  "last_collected_at": "2026-08-23T01:22:27.314859+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.354268+00:00",
+  "last_collected_at": "2026-09-29T16:13:47.860605+00:00",
   "ministry": "국방부",
   "mst": "290615",
   "name": "군사기지 및 군사시설 보호법 시행규칙",
   "payload_law_id": "010841",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -77186,8 +77215,13 @@
   "version_signature": "f92a0cc562b1bf2c"
  },
  "law:eflaw:010843": {
-  "collected_signature": "57cf8011df79d8fb",
-  "content_hash": "502ebc16a1c5a274fec3098408c3a88f50be0ae9814bf222e63da68122343e3f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 14680
+  },
+  "collected_signature": "6d87782b8217628d",
+  "content_hash": "7237010183dae96e4d3ed84ed98259ca6fa51118f61fa5ea675eff18e8c92cfe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290159&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "010843",
@@ -77195,13 +77229,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "57cf8011df79d8fb",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:20:12.400700+00:00",
-  "last_collected_at": "2026-08-23T01:23:36.269493+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.085685+00:00",
+  "last_collected_at": "2026-09-29T16:15:25.998918+00:00",
   "ministry": "국방부",
   "mst": "290159",
   "name": "군사기지 및 군사시설 보호법 시행령",
   "payload_law_id": "010843",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -108934,8 +108970,13 @@
   "version_signature": "a16f79d66afe5dda"
  },
  "law:eflaw:013791": {
-  "collected_signature": "b064ae62cdb75542",
-  "content_hash": "c79b927d758412d40363261574de392fd116b7f9eb2d8d60e687f57568401e9f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 67,
+   "chars": 26629
+  },
+  "collected_signature": "9c76e616216cc0ca",
+  "content_hash": "1a8192489f4c9197fbc9b95a5b3e129e80746ca36e52bd307049ddc0d9cfc7b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272697&type=HTML&mobileYn=&efYd=20250708",
   "doc_domain": "law",
   "doc_id": "013791",
@@ -108943,16 +108984,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "b064ae62cdb75542",
   "enforcement_date": "20250708",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:38:12.359847+00:00",
-  "last_collected_at": "2026-08-23T01:41:38.563441+00:00",
+  "last_checked_at": "2026-09-29T16:11:51.208779+00:00",
+  "last_collected_at": "2026-09-29T16:16:48.239987+00:00",
   "ministry": "국방부",
   "mst": "272697",
   "name": "군인 재해보상법 시행령",
   "payload_law_id": "013791",
+  "prev_name": null,
   "promulgation_date": "20250707",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9c76e616216cc0ca"
  },
  "law:eflaw:013792": {
