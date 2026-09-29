@@ -3729,8 +3729,13 @@
   "version_signature": "7ca10e5bd2b2cc54"
  },
  "law:eflaw:000506": {
-  "collected_signature": "ba52d7f319eb8a8d",
-  "content_hash": "af4281dd622054df07fc6baf8fd394370ee49bc0fc35dbd93c4c20eec4ff1c07",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 60,
+   "chars": 13571
+  },
+  "collected_signature": "aa0dc504e594a9f1",
+  "content_hash": "84cdaacab3f4ed812aa5f65a94312a8edf31143e9e13a66598ee9eb94cc1e045",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277111&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000506",
@@ -3738,16 +3743,18 @@
   "doc_type": "법률",
   "emitted_signature": "ba52d7f319eb8a8d",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:20:43.538169+00:00",
-  "last_collected_at": "2026-08-23T03:22:42.522627+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.862060+00:00",
+  "last_collected_at": "2026-09-29T16:26:40.755725+00:00",
   "ministry": "중소벤처기업부",
   "mst": "277111",
   "name": "기술보증기금법",
   "payload_law_id": "000506",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "aa0dc504e594a9f1"
  },
  "law:eflaw:000507": {
@@ -3927,8 +3934,13 @@
   "version_signature": "fbce7de33c0a55b4"
  },
  "law:eflaw:000552": {
-  "collected_signature": "41e222a01b7dc94e",
-  "content_hash": "3b7abe095d29783670f820b6312eba3334515ecdee328e871abce3441c99ba54",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 76,
+   "chars": 13789
+  },
+  "collected_signature": "9c9c58d6d5f853fc",
+  "content_hash": "d3797429f8b78cb7722c055f805fc12a080b2bf102f7e58fbdc1fb267191fac3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277249&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "000552",
@@ -3936,16 +3948,18 @@
   "doc_type": "법률",
   "emitted_signature": "41e222a01b7dc94e",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:49:30.642108+00:00",
-  "last_collected_at": "2026-08-23T02:52:27.481651+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.652257+00:00",
+  "last_collected_at": "2026-09-29T16:26:32.750948+00:00",
   "ministry": "금융위원회",
   "mst": "277249",
   "name": "금융위원회의 설치 등에 관한 법률",
   "payload_law_id": "000552",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9c9c58d6d5f853fc"
  },
  "law:eflaw:000564": {
@@ -15562,8 +15576,13 @@
   "version_signature": "ed40150a188b3b24"
  },
  "law:eflaw:001872": {
-  "collected_signature": "0c7eff3cb4b16466",
-  "content_hash": "ec74ad75811c759343162ae362764955b5998ad1047b623801bfb215e29af421",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 133,
+   "chars": 39026
+  },
+  "collected_signature": "3898154d2d964882",
+  "content_hash": "e4bc26dbe1b8ebc903b8b435187e6bda4f5420f628c52272a3ca92a43639dd01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283457&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "001872",
@@ -15571,16 +15590,18 @@
   "doc_type": "법률",
   "emitted_signature": "0c7eff3cb4b16466",
   "enforcement_date": "20260820",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:15:59.534703+00:00",
-  "last_collected_at": "2026-08-23T02:24:43.215800+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.659314+00:00",
+  "last_collected_at": "2026-09-29T16:28:03.681750+00:00",
   "ministry": "고용노동부",
   "mst": "283457",
   "name": "근로기준법",
   "payload_law_id": "001872",
+  "prev_name": null,
   "promulgation_date": "20260219",
   "status": "done",
-  "version_count": 8,
+  "version_count": 1,
   "version_signature": "3898154d2d964882"
  },
  "law:eflaw:001962": {
@@ -74982,8 +75003,12 @@
  },
  "law:eflaw:010674": {
   "attempts": 0,
-  "collected_signature": "8695054ddbece528",
-  "content_hash": "af0ae64438ffbfac7dce1778c12da6b604e26781beecfbcff263b74f9f64913d",
+  "body_stats": {
+   "articles": 30,
+   "chars": 12683
+  },
+  "collected_signature": "98e2536fc2668d2f",
+  "content_hash": "264d2cb9f989a608250c7e6bc53fdfa186fdd382265dbe7e80249b8324f78d8a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289121&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "010674",
@@ -74991,17 +75016,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "8695054ddbece528",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:09:58.817777+00:00",
-  "last_collected_at": "2026-09-03T03:11:18.319822+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.845012+00:00",
+  "last_collected_at": "2026-09-29T16:26:13.537018+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "금융위원회,행정안전부",
   "mst": "289121",
   "name": "금융위원회와 그 소속기관 직제",
   "payload_law_id": "010674",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "98e2536fc2668d2f"
  },
  "law:eflaw:010684": {
@@ -100197,8 +100224,13 @@
   "version_signature": "ecdee364625cfa7a"
  },
  "law:eflaw:012620": {
-  "collected_signature": "8071017ed59cf42b",
-  "content_hash": "ce832caeac1891dc5f10c8a82658374a98778e2d5d21c2ba051fc819d35fddaf",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 39,
+   "chars": 36412
+  },
+  "collected_signature": "38691ea72b27b8ea",
+  "content_hash": "bec8760ac902289ff82a5cb39beb64b0c3295b07710216f97b5cd081225271a2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284695&type=HTML&mobileYn=&efYd=20260324",
   "doc_domain": "law",
   "doc_id": "012620",
@@ -100206,16 +100238,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8071017ed59cf42b",
   "enforcement_date": "20260324",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T02:54:45.233617+00:00",
-  "last_collected_at": "2026-08-23T03:04:17.818239+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.829402+00:00",
+  "last_collected_at": "2026-09-29T16:29:27.589320+00:00",
   "ministry": "금융위원회",
   "mst": "284695",
   "name": "금융회사의 지배구조에 관한 법률 시행령",
   "payload_law_id": "012620",
+  "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "38691ea72b27b8ea"
  },
  "law:eflaw:012631": {
@@ -124155,8 +124189,13 @@
   "version_signature": "9ec61b498f5a1016"
  },
  "law:eflaw:014896": {
-  "collected_signature": "c0debc9fc745fb3b",
-  "content_hash": "ecc11be0302f58e5af91f4e4e7ded8eaaa83e6b9c9996c716990c83811e4b3d3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 11812
+  },
+  "collected_signature": "411d1f842e2cc345",
+  "content_hash": "fa15b82dba0cf14a80a73d6dab2b951aaad571c26f217f824dfcf00d459282f2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273923&type=HTML&mobileYn=&efYd=20250926",
   "doc_domain": "law",
   "doc_id": "014896",
@@ -124164,16 +124203,18 @@
   "doc_type": "법률",
   "emitted_signature": "c0debc9fc745fb3b",
   "enforcement_date": "20250926",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:58:55.851905+00:00",
-  "last_collected_at": "2026-08-23T04:01:08.457588+00:00",
+  "last_checked_at": "2026-09-29T16:24:45.535570+00:00",
+  "last_collected_at": "2026-09-29T16:25:32.569818+00:00",
   "ministry": "법무부",
   "mst": "273923",
   "name": "김건희와 명태균ㆍ건진법사 관련 국정농단 및 불법 선거 개입 사건 등 진상규명을 위한 특별검사 임명 등에 관한 법률",
   "payload_law_id": "014896",
+  "prev_name": null,
   "promulgation_date": "20250926",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "411d1f842e2cc345"
  },
  "law:eflaw:014897": {
