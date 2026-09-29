@@ -405,8 +405,13 @@
   "version_signature": "89b1c4a38faa0932"
  },
  "law:eflaw:000036": {
-  "collected_signature": "bba93f8b12df648f",
-  "content_hash": "8750a96045735de6eb4b30bf6521224a39e63888f1ab14fc7b7dc7bcf2516f11",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 32,
+   "chars": 23820
+  },
+  "collected_signature": "86d2952f642b2a58",
+  "content_hash": "e0830af7dac54c589d2c1081081d47960cacac1e22530b4b6d42e45b5a6bf787",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268703&type=HTML&mobileYn=&efYd=20250801",
   "doc_domain": "law",
   "doc_id": "000036",
@@ -414,16 +419,18 @@
   "doc_type": "법률",
   "emitted_signature": "bba93f8b12df648f",
   "enforcement_date": "20250801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:47:23.891267+00:00",
-  "last_collected_at": "2026-08-25T20:52:22.415256+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.624647+00:00",
+  "last_collected_at": "2026-09-29T19:33:31.551718+00:00",
   "ministry": "과학기술정보통신부,법무부",
   "mst": "268703",
   "name": "통신비밀보호법",
   "payload_law_id": "000036",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "86d2952f642b2a58"
  },
  "law:eflaw:000041": {
@@ -33892,8 +33899,13 @@
   "version_signature": "2b0dd614d34a730b"
  },
  "law:eflaw:005292": {
-  "collected_signature": "c842574f84fdf366",
-  "content_hash": "aeef5e2333864b250df0c402073bdb92a41047922e22087047c791e9706029b4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 45,
+   "chars": 13934
+  },
+  "collected_signature": "4d0e58d7875dec27",
+  "content_hash": "e620fff58848c81c0c70e3299c879cbeed5e5d944e17b6a9addb907ff0484fd0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272943&type=HTML&mobileYn=&efYd=20250801",
   "doc_domain": "law",
   "doc_id": "005292",
@@ -33901,16 +33913,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "c842574f84fdf366",
   "enforcement_date": "20250801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:47:24.149936+00:00",
-  "last_collected_at": "2026-08-25T20:50:24.353327+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.679656+00:00",
+  "last_collected_at": "2026-09-29T19:33:42.354634+00:00",
   "ministry": "과학기술정보통신부,법무부",
   "mst": "272943",
   "name": "통신비밀보호법 시행령",
   "payload_law_id": "005292",
+  "prev_name": null,
   "promulgation_date": "20250729",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4d0e58d7875dec27"
  },
  "law:eflaw:005299": {
@@ -33965,8 +33979,13 @@
   "version_signature": "bbe06901d4a082a5"
  },
  "law:eflaw:005305": {
-  "collected_signature": "915ef2801b258482",
-  "content_hash": "ac5bfcfc77d123168537f11e6b2630de4f6540de7ff02f48f0a87f558d5fcee0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 16498
+  },
+  "collected_signature": "d4b0de32faf92939",
+  "content_hash": "0202af39388804c490e9e2a8d53fb51ebf3417d9da5b0a624e06639338f886c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277687&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "005305",
@@ -33974,16 +33993,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "915ef2801b258482",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:52:50.057669+00:00",
-  "last_collected_at": "2026-08-25T20:55:13.609648+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.689942+00:00",
+  "last_collected_at": "2026-09-29T19:33:44.934791+00:00",
   "ministry": "국방부",
   "mst": "277687",
   "name": "통합방위법 시행령",
   "payload_law_id": "005305",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d4b0de32faf92939"
  },
  "law:eflaw:005308": {
@@ -65696,8 +65717,13 @@
   "version_signature": "a700f21ffd799a12"
  },
  "law:eflaw:009998": {
-  "collected_signature": "ff045f658894b0de",
-  "content_hash": "8ae7cc0efdc593c4097ab0c08d9ace765167a69c662c584f885c0b76d96e9bf4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 72,
+   "chars": 22299
+  },
+  "collected_signature": "a21566378724e0af",
+  "content_hash": "759a3147e99c45ecbe7a6081bab7bcb7f4503c9ea69433174d25a6cb07ba9322",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=238757&type=HTML&mobileYn=&efYd=20220705",
   "doc_domain": "law",
   "doc_id": "009998",
@@ -65705,16 +65731,18 @@
   "doc_type": "법률",
   "emitted_signature": "ff045f658894b0de",
   "enforcement_date": "20220705",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:58:36.281241+00:00",
-  "last_collected_at": "2026-08-25T20:03:14.770360+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.133833+00:00",
+  "last_collected_at": "2026-09-29T19:33:44.273997+00:00",
   "ministry": "법무부",
   "mst": "238757",
   "name": "치료감호 등에 관한 법률",
   "payload_law_id": "009998",
+  "prev_name": null,
   "promulgation_date": "20220104",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a21566378724e0af"
  },
  "law:eflaw:009999": {
@@ -66625,8 +66653,13 @@
   "version_signature": "24f92a06ae394048"
  },
  "law:eflaw:010052": {
-  "collected_signature": "13774ba05b9157a2",
-  "content_hash": "31029e56047c826710b0fb558cb13c35fde23476289503344b9970d606c60aaa",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 18356
+  },
+  "collected_signature": "2ddb58f579b7aacb",
+  "content_hash": "a8953c52d106fa02c18199e0bfebc9857db53ebf60c3169c6135b5543937d87d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=230805&type=HTML&mobileYn=&efYd=20210421",
   "doc_domain": "law",
   "doc_id": "010052",
@@ -66634,16 +66667,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "13774ba05b9157a2",
   "enforcement_date": "20210421",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:58:37.707002+00:00",
-  "last_collected_at": "2026-08-25T20:03:00.190367+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.448734+00:00",
+  "last_collected_at": "2026-09-29T19:34:08.140073+00:00",
   "ministry": "법무부",
   "mst": "230805",
   "name": "치료감호 등에 관한 법률 시행령",
   "payload_law_id": "010052",
+  "prev_name": null,
   "promulgation_date": "20210406",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2ddb58f579b7aacb"
  },
  "law:eflaw:010053": {
@@ -93607,8 +93642,13 @@
   "version_signature": "f9f39a410dbfa11b"
  },
  "law:eflaw:012019": {
-  "collected_signature": "511f965f546f44a2",
-  "content_hash": "00eda2b0878eb368100b99d8de16246ae560151df85c443ac9a7fcbc1781b337",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 4135
+  },
+  "collected_signature": "b446d4014e490b24",
+  "content_hash": "30309bf5f8f8d3861745a171e721388e397321509585edfb34c96fddcd84051e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=152098&type=HTML&mobileYn=&efYd=20140619",
   "doc_domain": "law",
   "doc_id": "012019",
@@ -93616,16 +93656,18 @@
   "doc_type": "법률",
   "emitted_signature": "511f965f546f44a2",
   "enforcement_date": "20140619",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:59:20.581838+00:00",
-  "last_collected_at": "2026-08-25T21:00:10.117177+00:00",
+  "last_checked_at": "2026-09-29T19:30:06.378170+00:00",
+  "last_collected_at": "2026-09-29T19:31:12.161958+00:00",
   "ministry": "법무부",
   "mst": "152098",
   "name": "특별감찰관법",
   "payload_law_id": "012019",
+  "prev_name": null,
   "promulgation_date": "20140318",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "b446d4014e490b24"
  },
  "law:eflaw:012020": {
