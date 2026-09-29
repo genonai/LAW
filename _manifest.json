@@ -3473,8 +3473,12 @@
  },
  "law:eflaw:000433": {
   "attempts": 0,
-  "collected_signature": "c0ef10da78f2ed2f",
-  "content_hash": "83ad38f8fe94e07248c798dc4338937857d77849988ea6c4b7af624e4317d628",
+  "body_stats": {
+   "articles": 121,
+   "chars": 61145
+  },
+  "collected_signature": "9eb8441b1326f40a",
+  "content_hash": "efc49d83174b5c8024796a9c72706fa09546eff834bfe9063a78ee2d6f0c1148",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283749&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "000433",
@@ -3482,17 +3486,19 @@
   "doc_type": "법률",
   "emitted_signature": "c0ef10da78f2ed2f",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:17:30.319002+00:00",
-  "last_collected_at": "2026-09-03T03:22:19.003385+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.602496+00:00",
+  "last_collected_at": "2026-09-29T16:34:08.694150+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "283749",
   "name": "농수산물 유통 및 가격안정에 관한 법률",
   "payload_law_id": "000433",
+  "prev_name": null,
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "9eb8441b1326f40a"
  },
  "law:eflaw:000445": {
@@ -11484,8 +11490,12 @@
  },
  "law:eflaw:001519": {
   "attempts": 0,
-  "collected_signature": "8130e1609f349104",
-  "content_hash": "03bd4b651f8466026a81321fa47b4d37a87f2e0ed5fc5545502cf2a2f2912b8d",
+  "body_stats": {
+   "articles": 233,
+   "chars": 87787
+  },
+  "collected_signature": "deb25a3990bfc7ba",
+  "content_hash": "08dc1367eff05b54fb19517ce92e44fd19cc587c9d7d98c25ed6c7075807ac82",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283949&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "001519",
@@ -11495,8 +11505,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:22:37.014834+00:00",
-  "last_collected_at": "2026-09-11T15:27:33.422071+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.761824+00:00",
+  "last_collected_at": "2026-09-29T16:31:50.142964+00:00",
   "ministry": "농림축산식품부",
   "mst": "283949",
   "name": "농업협동조합법",
@@ -11504,7 +11514,7 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "deb25a3990bfc7ba"
  },
  "law:eflaw:001523": {
@@ -14462,8 +14472,13 @@
   "version_signature": "904e905ad61d4778"
  },
  "law:eflaw:001777": {
-  "collected_signature": "7fb072188f944954",
-  "content_hash": "50995c04f4a04e2b6a88255a4ef16586912859e466b0ea465b72d5b5c2382a8c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 107,
+   "chars": 37836
+  },
+  "collected_signature": "b9e21dd5a3b79339",
+  "content_hash": "3344ec64ab55ccb01326ef84c29e75b1ec02cb1f0365d597483892ff4568b225",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259093&type=HTML&mobileYn=&efYd=20260124",
   "doc_domain": "law",
   "doc_id": "001777",
@@ -14471,16 +14486,18 @@
   "doc_type": "법률",
   "emitted_signature": "7fb072188f944954",
   "enforcement_date": "20260124",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T04:40:42.673272+00:00",
-  "last_collected_at": "2026-08-23T04:47:51.860641+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.455987+00:00",
+  "last_collected_at": "2026-09-29T16:34:06.563383+00:00",
   "ministry": "보건복지부",
   "mst": "259093",
   "name": "노인복지법",
   "payload_law_id": "001777",
+  "prev_name": null,
   "promulgation_date": "20240123",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "b9e21dd5a3b79339"
  },
  "law:eflaw:001780": {
@@ -67391,8 +67408,13 @@
   "version_signature": "9cd9fa94fb9b6971"
  },
  "law:eflaw:010165": {
-  "collected_signature": "a494d2a4d4f914fb",
-  "content_hash": "cb769831c6596628791c14da14290742a54bf414086721b800fe67ad089a4513",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 82,
+   "chars": 45952
+  },
+  "collected_signature": "3e38e94515ee9025",
+  "content_hash": "c5cfad661d3d886f90bbd88f0016b6f419fccbdccf204ce63aecd2e76fe50b76",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290193&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "010165",
@@ -67400,16 +67422,18 @@
   "doc_type": "법률",
   "emitted_signature": "a494d2a4d4f914fb",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T07:34:05.096658+00:00",
-  "last_collected_at": "2026-08-23T07:39:34.254725+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.791643+00:00",
+  "last_collected_at": "2026-09-29T16:33:37.079224+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290193",
   "name": "대ㆍ중소기업 상생협력 촉진에 관한 법률",
   "payload_law_id": "010165",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "3e38e94515ee9025"
  },
  "law:eflaw:010166": {
@@ -70637,8 +70661,13 @@
   "version_signature": "792baa2c456ddf52"
  },
  "law:eflaw:010391": {
-  "collected_signature": "5bc13729f352e512",
-  "content_hash": "7413734dfc276f70b233ab50c5de572506e0eacd4e8dc9d218875602aafb3418",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 2,
+   "chars": 501
+  },
+  "collected_signature": "a56c06e5b9e0a100",
+  "content_hash": "e8405a06b6b601be03b1ec1813f4eb01ea0240c65cb09a020e1059c10943d2ed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=196436&type=HTML&mobileYn=&efYd=20170801",
   "doc_domain": "law",
   "doc_id": "010391",
@@ -70646,16 +70675,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "5bc13729f352e512",
   "enforcement_date": "20170801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T07:34:04.422222+00:00",
-  "last_collected_at": "2026-08-23T07:36:49.446223+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.606163+00:00",
+  "last_collected_at": "2026-09-29T16:30:40.640055+00:00",
   "ministry": "법무부",
   "mst": "196436",
   "name": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정",
   "payload_law_id": "010391",
+  "prev_name": null,
   "promulgation_date": "20170801",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a56c06e5b9e0a100"
  },
  "law:eflaw:010397": {
@@ -126796,8 +126827,13 @@
   "version_signature": "46f867f72e4fc55c"
  },
  "law:eflaw:015101": {
-  "collected_signature": "329f23c8d536d44b",
-  "content_hash": "7e1a8d728f8e5e4d0610635f6fc1ad1c48fb89b2cf0d7f0d4681a0a5bcd62473",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 43,
+   "chars": 13218
+  },
+  "collected_signature": "445538684d70b502",
+  "content_hash": "e89584b3f66285c9c70655b5710afe295ebadb3138dbb20879d102caf5abbdd4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285371&type=HTML&mobileYn=&efYd=20261208",
   "doc_domain": "law",
   "doc_id": "015101",
@@ -126805,16 +126841,18 @@
   "doc_type": "법률",
   "emitted_signature": "329f23c8d536d44b",
   "enforcement_date": "20261208",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T04:34:52.712051+00:00",
-  "last_collected_at": "2026-08-23T04:34:55.512360+00:00",
+  "last_checked_at": "2026-09-29T16:30:00.733958+00:00",
+  "last_collected_at": "2026-09-29T16:30:03.531972+00:00",
   "ministry": "고용노동부",
   "mst": "285371",
   "name": "노동감독관 직무집행법",
   "payload_law_id": "015101",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "445538684d70b502"
  },
  "law:eflaw:015102": {
