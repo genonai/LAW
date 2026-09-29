@@ -8794,8 +8794,13 @@
   "version_signature": "056800d3cd6e56fd"
  },
  "law:eflaw:001221": {
-  "collected_signature": "34432bcb2e1fb2a9",
-  "content_hash": "2b015dd6f88566326433308ba4632eca35c04dea1e2013792abbbf555f411336",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 2197
+  },
+  "collected_signature": "e9f11a2cef51b398",
+  "content_hash": "9dafc08ef4b07e545b8fe3ebbce2183b87a932a9659ce55b97cf0c6bcec50f17",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=91382&type=HTML&mobileYn=&efYd=20090130",
   "doc_domain": "law",
   "doc_id": "001221",
@@ -8803,16 +8808,18 @@
   "doc_type": "법률",
   "emitted_signature": "34432bcb2e1fb2a9",
   "enforcement_date": "20090130",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:04:14.904309+00:00",
-  "last_collected_at": "2026-08-22T19:05:27.291882+00:00",
+  "last_checked_at": "2026-09-29T15:54:06.005708+00:00",
+  "last_collected_at": "2026-09-29T15:54:47.686289+00:00",
   "ministry": "법무부",
   "mst": "91382",
   "name": "국가를 당사자로 하는 소송에 관한 법률",
   "payload_law_id": "001221",
+  "prev_name": null,
   "promulgation_date": "20090130",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e9f11a2cef51b398"
  },
  "law:eflaw:001226": {
@@ -13548,8 +13555,13 @@
   "version_signature": "2dabb5c4de154ecd"
  },
  "law:eflaw:001719": {
-  "collected_signature": "99062da0c39efdec",
-  "content_hash": "f8a16cf6b687ed8310ff6350aeb34ace54482c988521a55d6b079e0a6a87215f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 138,
+   "chars": 57781
+  },
+  "collected_signature": "4e476f97d2c37de7",
+  "content_hash": "f7ff77827e910af6bff604b5c73de80011a1b3993231e8a93c9900c5030bfc77",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286457&type=HTML&mobileYn=&efYd=20260602",
   "doc_domain": "law",
   "doc_id": "001719",
@@ -13557,16 +13569,18 @@
   "doc_type": "법률",
   "emitted_signature": "99062da0c39efdec",
   "enforcement_date": "20260602",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T18:42:21.323450+00:00",
-  "last_collected_at": "2026-08-22T18:52:12.510468+00:00",
+  "last_checked_at": "2026-09-29T15:54:05.947358+00:00",
+  "last_collected_at": "2026-09-29T15:55:16.857408+00:00",
   "ministry": "인사혁신처",
   "mst": "286457",
   "name": "국가공무원법",
   "payload_law_id": "001719",
+  "prev_name": null,
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "4e476f97d2c37de7"
  },
  "law:eflaw:001720": {
@@ -19891,8 +19905,13 @@
   "version_signature": "c19026fc777618db"
  },
  "law:eflaw:002641": {
-  "collected_signature": "d5d5ddb711db9cc3",
-  "content_hash": "62afd189e6f26ec0d50fd4c96183ab4d0078ce432c405ace700eaa4a0d550c45",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 11015
+  },
+  "collected_signature": "2b438be86735344b",
+  "content_hash": "29d1d98550219adff2410f35473c03a451ebd37075ecc92b432cbfd623a1efd9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281717&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002641",
@@ -19900,16 +19919,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "d5d5ddb711db9cc3",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T18:37:03.437959+00:00",
-  "last_collected_at": "2026-08-22T18:40:16.600331+00:00",
+  "last_checked_at": "2026-09-29T15:54:05.796186+00:00",
+  "last_collected_at": "2026-09-29T15:56:02.630248+00:00",
   "ministry": "인사혁신처",
   "mst": "281717",
   "name": "국가공무원 명예퇴직수당 등 지급 규정",
   "payload_law_id": "002641",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2b438be86735344b"
  },
  "law:eflaw:002642": {
@@ -19935,8 +19956,13 @@
   "version_signature": "a9a7fb71ac73df01"
  },
  "law:eflaw:002643": {
-  "collected_signature": "801cfad76ac740af",
-  "content_hash": "9a92fb7919b4a6c1f292e91cd05eb00c4d037d7f3911e8d18cc8f08391ef0f72",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 49,
+   "chars": 24278
+  },
+  "collected_signature": "65799cbf5e3b0f0f",
+  "content_hash": "bf1dd969b0bd94fb49acbadde7f7cdd93d2cade82357bc5b9b3f09366dc3dc63",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287327&type=HTML&mobileYn=&efYd=20260623",
   "doc_domain": "law",
   "doc_id": "002643",
@@ -19944,16 +19970,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "801cfad76ac740af",
   "enforcement_date": "20260623",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T18:37:02.732618+00:00",
-  "last_collected_at": "2026-08-22T18:42:06.905881+00:00",
+  "last_checked_at": "2026-09-29T15:54:05.953555+00:00",
+  "last_collected_at": "2026-09-29T15:56:44.494512+00:00",
   "ministry": "인사혁신처",
   "mst": "287327",
   "name": "국가공무원 복무규정",
   "payload_law_id": "002643",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "65799cbf5e3b0f0f"
  },
  "law:eflaw:002645": {
@@ -20045,8 +20073,13 @@
   "version_signature": "44d56400050c8dbd"
  },
  "law:eflaw:002653": {
-  "collected_signature": "f7594b3c3094f3b6",
-  "content_hash": "11880a679c8389a226be3e4fe47db84f83338f8756650a1c08f7b864bc8efe34",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 17,
+   "chars": 5985
+  },
+  "collected_signature": "3d28c4f8a3665cc1",
+  "content_hash": "ec8e84a40cd6847df6a0936df6c655f5ccc756c288345974ae9a982ed43c275d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227271&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "002653",
@@ -20054,16 +20087,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "f7594b3c3094f3b6",
   "enforcement_date": "20210105",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:04:16.171142+00:00",
-  "last_collected_at": "2026-08-22T19:05:35.536223+00:00",
+  "last_checked_at": "2026-09-29T15:54:05.627513+00:00",
+  "last_collected_at": "2026-09-29T15:54:37.636583+00:00",
   "ministry": "법무부",
   "mst": "227271",
   "name": "국가를 당사자로 하는 소송에 관한 법률 시행령",
   "payload_law_id": "002653",
+  "prev_name": null,
   "promulgation_date": "20210105",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3d28c4f8a3665cc1"
  },
  "law:eflaw:002655": {
@@ -62580,8 +62615,13 @@
   "version_signature": "1ac14883a8ebc7c2"
  },
  "law:eflaw:009811": {
-  "collected_signature": "680a24e7ab9cd78b",
-  "content_hash": "b5067e294ff28153aa95248f1054406715a7dbd9d848957cf75b5d7902bb1024",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 32,
+   "chars": 15840
+  },
+  "collected_signature": "d6c7cbe60fc621e2",
+  "content_hash": "ffbb2967844ca8861d4c508bdac5208f3b2342ee6b27de82896317654bafc602",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282929&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "009811",
@@ -62589,16 +62629,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "680a24e7ab9cd78b",
   "enforcement_date": "20260201",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T18:42:21.783874+00:00",
-  "last_collected_at": "2026-08-22T18:45:57.773758+00:00",
+  "last_checked_at": "2026-09-29T15:54:05.971364+00:00",
+  "last_collected_at": "2026-09-29T15:56:45.437601+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "282929",
   "name": "국가과학기술 경쟁력 강화를 위한 이공계지원 특별법 시행령",
   "payload_law_id": "009811",
+  "prev_name": null,
   "promulgation_date": "20260127",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d6c7cbe60fc621e2"
  },
  "law:eflaw:009815": {
