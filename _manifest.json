@@ -9337,8 +9337,13 @@
   "version_signature": "5f676a2fc581e2a1"
  },
  "law:eflaw:001282": {
-  "collected_signature": "aa4a7112c6053e36",
-  "content_hash": "6d1ec3c1359bd22fc2a84af626df879a7f3717fdeb9c8e9b38f44bb30e5cf590",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 4,
+   "chars": 415
+  },
+  "collected_signature": "89b2ccfec951f4db",
+  "content_hash": "a6b74a9c3c56e735969c75e4ae8335b59e1dc595ddae2c5f46e05a22790b1b3e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=121947&type=HTML&mobileYn=&efYd=20120117",
   "doc_domain": "law",
   "doc_id": "001282",
@@ -9346,16 +9351,18 @@
   "doc_type": "법률",
   "emitted_signature": "aa4a7112c6053e36",
   "enforcement_date": "20120117",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:28:49.957587+00:00",
-  "last_collected_at": "2026-08-22T09:29:39.862233+00:00",
+  "last_checked_at": "2026-09-29T15:08:56.131926+00:00",
+  "last_collected_at": "2026-09-29T15:09:34.581381+00:00",
   "ministry": "법무부",
   "mst": "121947",
   "name": "검사의 보수에 관한 법률",
   "payload_law_id": "001282",
+  "prev_name": null,
   "promulgation_date": "20120117",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "89b2ccfec951f4db"
  },
  "law:eflaw:001283": {
@@ -17312,8 +17319,13 @@
   "version_signature": "cd3215190d31c3b2"
  },
  "law:eflaw:002123": {
-  "collected_signature": "20e38e7a014c3a98",
-  "content_hash": "056ec9c58b77b16230ffd5389b36069bd0411507bfae268ffd03ff2c8f9ae813",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 5075
+  },
+  "collected_signature": "86cf5349bd6f373f",
+  "content_hash": "e2a761d7450c5966f8931af43aa11a5278ac7c827ff572885b1716ad32fba1b8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285407&type=HTML&mobileYn=&efYd=20260407",
   "doc_domain": "law",
   "doc_id": "002123",
@@ -17321,16 +17333,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "20e38e7a014c3a98",
   "enforcement_date": "20260407",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:28:48.873447+00:00",
-  "last_collected_at": "2026-08-22T09:33:13.676801+00:00",
+  "last_checked_at": "2026-09-29T15:08:56.173250+00:00",
+  "last_collected_at": "2026-09-29T15:09:53.829273+00:00",
   "ministry": "법무부",
   "mst": "285407",
   "name": "검사의 보수에 관한 법률 시행령",
   "payload_law_id": "002123",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "86cf5349bd6f373f"
  },
  "law:eflaw:002125": {
@@ -109572,8 +109586,13 @@
   "version_signature": "55d3223c1c29a169"
  },
  "law:eflaw:013871": {
-  "collected_signature": "27dfae4111ad7dbc",
-  "content_hash": "07f15e0f66b7e41b2e0c1d86d9da82fdefcf345e86ccc5c492df8d0b86c8f6bb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 90,
+   "chars": 37618
+  },
+  "collected_signature": "6d832e22a04cdd0c",
+  "content_hash": "a22996611a48f5c16467d5e8386cd88091a397c7b1167969f5500a8f66e35977",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287545&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "013871",
@@ -109581,21 +109600,28 @@
   "doc_type": "대통령령",
   "emitted_signature": "27dfae4111ad7dbc",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:28:51.346765+00:00",
-  "last_collected_at": "2026-08-22T09:31:59.554002+00:00",
+  "last_checked_at": "2026-09-29T15:08:56.131178+00:00",
+  "last_collected_at": "2026-09-29T15:11:10.953140+00:00",
   "ministry": "법무부",
   "mst": "287545",
   "name": "검사와 사법경찰관의 상호협력과 일반적 수사준칙에 관한 규정",
   "payload_law_id": "013871",
+  "prev_name": null,
   "promulgation_date": "20260630",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "6d832e22a04cdd0c"
  },
  "law:eflaw:013872": {
-  "collected_signature": "3e8b94ad5b8297a3",
-  "content_hash": "a7593798b2aca6116eb9ddfc9d39ed9ded3cef812ac420e942e8febd35429be5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 3,
+   "chars": 693
+  },
+  "collected_signature": "db175b6f12fd5215",
+  "content_hash": "603f3ecf7daf409d78dc013e2bd1b92d93a9e04da3458b51b76e41c2961beab5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=263971&type=HTML&mobileYn=&efYd=20241019",
   "doc_domain": "law",
   "doc_id": "013872",
@@ -109603,16 +109629,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "3e8b94ad5b8297a3",
   "enforcement_date": "20241019",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:33:23.850553+00:00",
-  "last_collected_at": "2026-08-22T09:34:52.434853+00:00",
+  "last_checked_at": "2026-09-29T15:08:55.947367+00:00",
+  "last_collected_at": "2026-09-29T15:09:42.221139+00:00",
   "ministry": "법무부",
   "mst": "263971",
   "name": "검사의 수사개시 범죄 범위에 관한 규정",
   "payload_law_id": "013872",
+  "prev_name": null,
   "promulgation_date": "20240716",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "db175b6f12fd5215"
  },
  "law:eflaw:013873": {
@@ -126715,8 +126743,13 @@
   "version_signature": "ef4992ff097a76c9"
  },
  "law:eflaw:015134": {
-  "collected_signature": "0904a66f4ce3462d",
-  "content_hash": "33e24f62d75ad60696f1981212905ca1df7f031067034721e56f12d3f4283ae4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 55,
+   "chars": 10796
+  },
+  "collected_signature": "7038b936892fa39d",
+  "content_hash": "0853c7876bbdf48e34d062ea2d45c19b4b42a3e00172ac5d4db6a9fdf1a5a88b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286401&type=HTML&mobileYn=&efYd=20260529",
   "doc_domain": "law",
   "doc_id": "015134",
@@ -126724,16 +126757,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "0904a66f4ce3462d",
   "enforcement_date": "20260529",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:28:51.667561+00:00",
-  "last_collected_at": "2026-08-22T09:31:12.118364+00:00",
+  "last_checked_at": "2026-09-29T15:08:55.824497+00:00",
+  "last_collected_at": "2026-09-29T15:10:15.031821+00:00",
   "ministry": "법무부",
   "mst": "286401",
   "name": "검사 인사 및 관련 위원회 규정",
   "payload_law_id": "015134",
+  "prev_name": null,
   "promulgation_date": "20260529",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7038b936892fa39d"
  },
  "law:eflaw:015135": {
@@ -128199,19 +128234,31 @@
   "version_signature": "661fa8ddceed6f22"
  },
  "law:eflaw:015224": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 11030
+  },
+  "collected_signature": "99cb91b59d8bcc0a",
+  "content_hash": "1bacc8bed53bd37924aff884d72d0bcc55c551f762885aadbfae565d3be759b0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290601&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015224",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-09-29T15:08:56.124161+00:00",
+  "last_collected_at": "2026-09-29T15:08:59.735120+00:00",
   "ministry": "법무부",
   "mst": "290601",
   "name": "검사와 특별사법경찰관의 상호협력에 관한 규정",
+  "payload_law_id": "015224",
+  "prev_name": null,
   "promulgation_date": "20260929",
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "99cb91b59d8bcc0a"
  },
  "law:eflaw:TESTFUT_PYTEST": {
