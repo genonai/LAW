@@ -8604,8 +8604,13 @@
   "version_signature": "419ebca89755090e"
  },
  "law:eflaw:001212": {
-  "collected_signature": "d2e2cc4a1a9405db",
-  "content_hash": "b0f41647c87ed65f567eda0cf727a45aeb81d6ed975ab9a05a15640187ef39fe",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 8095
+  },
+  "collected_signature": "6ec48d3aae199665",
+  "content_hash": "9ae3c89811b4f3eeb3aa876fd3713391c8bbb188b16764144b1e2d8042198594",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284413&type=HTML&mobileYn=&efYd=20260317",
   "doc_domain": "law",
   "doc_id": "001212",
@@ -8613,16 +8618,18 @@
   "doc_type": "법률",
   "emitted_signature": "d2e2cc4a1a9405db",
   "enforcement_date": "20260317",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:51:19.467861+00:00",
-  "last_collected_at": "2026-08-22T15:52:45.593242+00:00",
+  "last_checked_at": "2026-09-29T15:39:06.868375+00:00",
+  "last_collected_at": "2026-09-29T15:39:57.578009+00:00",
   "ministry": "법무부",
   "mst": "284413",
   "name": "공탁법",
   "payload_law_id": "001212",
+  "prev_name": null,
   "promulgation_date": "20260317",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6ec48d3aae199665"
  },
  "law:eflaw:001213": {
@@ -13491,8 +13498,13 @@
   "version_signature": "37a234fcbf67eaa3"
  },
  "law:eflaw:001718": {
-  "collected_signature": "e5a9bc86f6341cca",
-  "content_hash": "fb9f0e1fe31a8240d32414a80fc7e9b0974609dec783d6752155f99eef44e65b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 47827
+  },
+  "collected_signature": "2dabb5c4de154ecd",
+  "content_hash": "255bccc8afa50a1ecf31fb916b35bce9c02a10f767e6db0ce817aef20694bd4c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277139&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "001718",
@@ -13500,16 +13512,18 @@
   "doc_type": "법률",
   "emitted_signature": "e5a9bc86f6341cca",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:30:50.785664+00:00",
-  "last_collected_at": "2026-08-22T15:39:35.062008+00:00",
+  "last_checked_at": "2026-09-29T15:39:06.776545+00:00",
+  "last_collected_at": "2026-09-29T15:43:24.409808+00:00",
   "ministry": "인사혁신처",
   "mst": "277139",
   "name": "공직자윤리법",
   "payload_law_id": "001718",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2dabb5c4de154ecd"
  },
  "law:eflaw:001719": {
@@ -13623,8 +13637,13 @@
   "version_signature": "40b181bf82aa4aa6"
  },
  "law:eflaw:001725": {
-  "collected_signature": "a577bdb4a382e7ea",
-  "content_hash": "8f08f12544260b251032174a435dd2aac4ad2f3c5ab807402b4a719121e04382",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 375,
+   "chars": 273502
+  },
+  "collected_signature": "d67ee8e359b846e9",
+  "content_hash": "8f69c6ddcea511b16e7dd5aadaca7422b09967b3748b9f3d2741a022de983eba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285629&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001725",
@@ -13632,16 +13651,18 @@
   "doc_type": "법률",
   "emitted_signature": "a577bdb4a382e7ea",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:12:11.768263+00:00",
-  "last_collected_at": "2026-08-22T15:30:23.562780+00:00",
+  "last_checked_at": "2026-09-29T15:39:06.777445+00:00",
+  "last_collected_at": "2026-09-29T15:40:08.869106+00:00",
   "ministry": "중앙선거관리위원회",
   "mst": "285629",
   "name": "공직선거법",
   "payload_law_id": "001725",
+  "prev_name": null,
   "promulgation_date": "20260422",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "d67ee8e359b846e9"
  },
  "law:eflaw:001728": {
@@ -15520,8 +15541,13 @@
   "version_signature": "1caadc1f661f49dd"
  },
  "law:eflaw:001965": {
-  "collected_signature": "dbeccc6a63839df2",
-  "content_hash": "2f3c7e156ac2ed511009d59603c960ab7bdafa66908e224aca9af38f61d6ea50",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 6839
+  },
+  "collected_signature": "dbda47f20f79d70f",
+  "content_hash": "3d0ee9496ec6c491846e87ade9bceb5d7e516418afe6704be3c8b183cbd5c384",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=245981&type=HTML&mobileYn=&efYd=20230614",
   "doc_domain": "law",
   "doc_id": "001965",
@@ -15529,16 +15555,18 @@
   "doc_type": "법률",
   "emitted_signature": "dbeccc6a63839df2",
   "enforcement_date": "20230614",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:30:49.433741+00:00",
-  "last_collected_at": "2026-08-22T15:36:23.966797+00:00",
+  "last_checked_at": "2026-09-29T15:39:07.148286+00:00",
+  "last_collected_at": "2026-09-29T15:39:52.422450+00:00",
   "ministry": "국방부,병무청",
   "mst": "245981",
   "name": "공직자 등의 병역사항 신고 및 공개에 관한 법률",
   "payload_law_id": "001965",
+  "prev_name": null,
   "promulgation_date": "20221213",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "dbda47f20f79d70f"
  },
  "law:eflaw:001966": {
@@ -18956,8 +18984,13 @@
   "version_signature": "be848369330144c6"
  },
  "law:eflaw:002384": {
-  "collected_signature": "6dd990a118c55b8c",
-  "content_hash": "0c87b3cb208e9808575e0fe60a976131581d072fd9f9d71669ca2bd32420c5e8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 82,
+   "chars": 48186
+  },
+  "collected_signature": "4670ff4780484ba8",
+  "content_hash": "ac27a20623530e7450fec348bc7500d7acaa8f924ca37bd663a92116933e3a24",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281347&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "002384",
@@ -18965,16 +18998,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6dd990a118c55b8c",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:30:47.907696+00:00",
-  "last_collected_at": "2026-08-22T15:42:29.813460+00:00",
+  "last_checked_at": "2026-09-29T15:39:07.114531+00:00",
+  "last_collected_at": "2026-09-29T15:44:41.415045+00:00",
   "ministry": "인사혁신처",
   "mst": "281347",
   "name": "공직자윤리법 시행령",
   "payload_law_id": "002384",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4670ff4780484ba8"
  },
  "law:eflaw:002385": {
@@ -112462,8 +112497,13 @@
   "version_signature": "73afb7d07991684c"
  },
  "law:eflaw:014082": {
-  "collected_signature": "fb525db3f1324fa2",
-  "content_hash": "64efc022d423cbbe57c4365179bc00ccd5f2f36e9fef1d4576d8403e7a05021a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 18476
+  },
+  "collected_signature": "ef247fa1632a47a4",
+  "content_hash": "a84bc665a3da8a0c550ed7d64078ce350e0aac896500215fae1c37cc44d4b7d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=232253&type=HTML&mobileYn=&efYd=20220519",
   "doc_domain": "law",
   "doc_id": "014082",
@@ -112471,16 +112511,18 @@
   "doc_type": "법률",
   "emitted_signature": "fb525db3f1324fa2",
   "enforcement_date": "20220519",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:42:45.531852+00:00",
-  "last_collected_at": "2026-08-22T15:49:04.481987+00:00",
+  "last_checked_at": "2026-09-29T15:39:07.142125+00:00",
+  "last_collected_at": "2026-09-29T15:42:09.833242+00:00",
   "ministry": "국민권익위원회",
   "mst": "232253",
   "name": "공직자의 이해충돌 방지법",
   "payload_law_id": "014082",
+  "prev_name": null,
   "promulgation_date": "20210518",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ef247fa1632a47a4"
  },
  "law:eflaw:014083": {
