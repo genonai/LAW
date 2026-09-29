@@ -13172,8 +13172,13 @@
   "version_signature": "342d86b0c1933409"
  },
  "law:eflaw:001662": {
-  "collected_signature": "b482cbf8509ff5bc",
-  "content_hash": "863d4b2ce7c6f13106043d8c724c43ca0ab0c732de6d7c4711b9613bb729c2f2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 79,
+   "chars": 15152
+  },
+  "collected_signature": "dd9fa7f02c197e0a",
+  "content_hash": "c61fe3f846525a1a17e307b9680259bb5095006d7a1a6a074072c566fe1446b1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222435&type=HTML&mobileYn=&efYd=20210421",
   "doc_domain": "law",
   "doc_id": "001662",
@@ -13181,16 +13186,18 @@
   "doc_type": "법률",
   "emitted_signature": "b482cbf8509ff5bc",
   "enforcement_date": "20210421",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:54:35.292181+00:00",
-  "last_collected_at": "2026-08-24T03:56:01.996568+00:00",
+  "last_checked_at": "2026-09-29T18:08:43.804713+00:00",
+  "last_collected_at": "2026-09-29T18:10:28.504672+00:00",
   "ministry": "법무부",
   "mst": "222435",
   "name": "소년법",
   "payload_law_id": "001662",
+  "prev_name": null,
   "promulgation_date": "20201020",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "dd9fa7f02c197e0a"
  },
  "law:eflaw:001668": {
@@ -27216,8 +27223,13 @@
   "version_signature": "8b919f79838b10d8"
  },
  "law:eflaw:003940": {
-  "collected_signature": "64f1658e416ed78b",
-  "content_hash": "08ec3a6e4fe65197b0e24cd706dad09a4d4619e52e0519c7b73f92a93d634b0e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 75,
+   "chars": 23570
+  },
+  "collected_signature": "a5de3ccdf2254caf",
+  "content_hash": "2e47fa770551701b8214e8bf1289029c61c48ec554f9137bcdce38c9e252147d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286849&type=HTML&mobileYn=&efYd=20260624",
   "doc_domain": "law",
   "doc_id": "003940",
@@ -27225,16 +27237,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "64f1658e416ed78b",
   "enforcement_date": "20260624",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:44:00.314679+00:00",
-  "last_collected_at": "2026-08-24T03:50:22.886282+00:00",
+  "last_checked_at": "2026-09-29T18:08:43.785265+00:00",
+  "last_collected_at": "2026-09-29T18:09:31.280625+00:00",
   "ministry": "재정경제부",
   "mst": "286849",
   "name": "세무사법 시행령",
   "payload_law_id": "003940",
+  "prev_name": null,
   "promulgation_date": "20260609",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a5de3ccdf2254caf"
  },
  "law:eflaw:003945": {
@@ -27348,8 +27362,13 @@
   "version_signature": "44a61ab2604477d7"
  },
  "law:eflaw:003963": {
-  "collected_signature": "9c9382dae5fa712a",
-  "content_hash": "5364bfcf821a097fd3aa2090855966c439aa99be7a66f3a7549364a7cbafe3e9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 3663
+  },
+  "collected_signature": "7400f6ccd703f966",
+  "content_hash": "ec082c5f73661b722034962af7e48bec855b7fb224410ac975c68581e23d23c7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287241&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "003963",
@@ -27357,16 +27376,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9c9382dae5fa712a",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T04:22:00.258518+00:00",
-  "last_collected_at": "2026-08-24T04:34:32.745503+00:00",
+  "last_checked_at": "2026-09-29T18:08:44.054790+00:00",
+  "last_collected_at": "2026-09-29T18:09:37.373725+00:00",
   "ministry": "소방청",
   "mst": "287241",
   "name": "소방공무원 복무규정",
   "payload_law_id": "003963",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7400f6ccd703f966"
  },
  "law:eflaw:003966": {
@@ -61902,8 +61923,13 @@
   "version_signature": "a8ee2951c7b5b819"
  },
  "law:eflaw:009694": {
-  "collected_signature": "6bf4d4cca231907b",
-  "content_hash": "9e956b7738005949ca6b40ec2f8d73b190fe1b7bacee4c6281455ea9ee73564b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 52,
+   "chars": 20720
+  },
+  "collected_signature": "ed425f37e977b87a",
+  "content_hash": "dde98306a1b077f7f7491a1eb7087714d3fbf113e0fb1fc462b1ba3fc71e66ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287375&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009694",
@@ -61911,16 +61937,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6bf4d4cca231907b",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:36:28.545870+00:00",
-  "last_collected_at": "2026-08-24T05:45:58.856112+00:00",
+  "last_checked_at": "2026-09-29T18:08:43.782786+00:00",
+  "last_collected_at": "2026-09-29T18:12:13.283724+00:00",
   "ministry": "소방청",
   "mst": "287375",
   "name": "소방시설 설치 및 관리에 관한 법률 시행령",
   "payload_law_id": "009694",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "ed425f37e977b87a"
  },
  "law:eflaw:009695": {
@@ -82697,8 +82725,13 @@
   "version_signature": "4bfe8d7ff990241e"
  },
  "law:eflaw:011236": {
-  "collected_signature": "e51adf9c82ea3ec2",
-  "content_hash": "8321b5ea9a52a6ac776ef711a859fa0ed9ffad56d1e97f021051bc817debb3b6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 13469
+  },
+  "collected_signature": "0548ae9dd8173eaa",
+  "content_hash": "4fcdef6f2a517134f0166f55cf09303d4836c0abee7af37fed83479cfce13d88",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=213803&type=HTML&mobileYn=&efYd=20200204",
   "doc_domain": "law",
   "doc_id": "011236",
@@ -82706,16 +82739,18 @@
   "doc_type": "법률",
   "emitted_signature": "e51adf9c82ea3ec2",
   "enforcement_date": "20200204",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:41:12.530447+00:00",
-  "last_collected_at": "2026-08-24T03:43:40.287305+00:00",
+  "last_checked_at": "2026-09-29T18:08:44.087515+00:00",
+  "last_collected_at": "2026-09-29T18:10:50.148089+00:00",
   "ministry": "법무부",
   "mst": "213803",
   "name": "성폭력범죄자의 성충동 약물치료에 관한 법률",
   "payload_law_id": "011236",
+  "prev_name": null,
   "promulgation_date": "20200204",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0548ae9dd8173eaa"
  },
  "law:eflaw:011238": {
@@ -85133,8 +85168,13 @@
   "version_signature": "e2e5b4da868e6bab"
  },
  "law:eflaw:011424": {
-  "collected_signature": "1ca3a39951bb7802",
-  "content_hash": "b66c9700e6e21050d19929206b1ad6a5db3994eb0d3a8333a07d9851e8213d5b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 11303
+  },
+  "collected_signature": "56bf9341980ceed4",
+  "content_hash": "8dccbd8c80898608264d9ba0e8a0f6725cb94b7fd55711775228fd5af8bf365d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=200459&type=HTML&mobileYn=&efYd=20180101",
   "doc_domain": "law",
   "doc_id": "011424",
@@ -85142,16 +85182,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "1ca3a39951bb7802",
   "enforcement_date": "20180101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:41:13.145758+00:00",
-  "last_collected_at": "2026-08-24T03:43:42.122680+00:00",
+  "last_checked_at": "2026-09-29T18:08:44.041159+00:00",
+  "last_collected_at": "2026-09-29T18:11:40.666844+00:00",
   "ministry": "법무부",
   "mst": "200459",
   "name": "성폭력범죄자의 성충동 약물치료에 관한 법률 시행령",
   "payload_law_id": "011424",
+  "prev_name": null,
   "promulgation_date": "20171229",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "56bf9341980ceed4"
  },
  "law:eflaw:011427": {
