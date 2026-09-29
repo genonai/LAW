@@ -14796,8 +14796,12 @@
  },
  "law:eflaw:001788": {
   "attempts": 0,
-  "collected_signature": "1ba016bbcf8bef9c",
-  "content_hash": "38bd9ea066e8d8204dc0caccc51b56b6a5b8daf1be838ce9f1267401148b316e",
+  "body_stats": {
+   "articles": 156,
+   "chars": 77689
+  },
+  "collected_signature": "615a1c21474dbd6f",
+  "content_hash": "2f1f7ff667efc24f8341e02d4958c20204656e52601a0f898aff36ad63e7b7df",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283899&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "001788",
@@ -14807,8 +14811,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T16:03:06.523373+00:00",
-  "last_collected_at": "2026-09-11T16:08:21.945201+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.785160+00:00",
+  "last_collected_at": "2026-09-29T18:39:45.875777+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "283899",
   "name": "의료법",
@@ -14816,7 +14820,7 @@
   "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "615a1c21474dbd6f"
  },
  "law:eflaw:001790": {
@@ -29603,8 +29607,13 @@
   "version_signature": "382f77cb2bee838f"
  },
  "law:eflaw:004379": {
-  "collected_signature": "985c39cc1d27c445",
-  "content_hash": "9aa31f8671aeb2777029beef0d109c1396a188e67172d1e657016b06189c348f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 14729
+  },
+  "collected_signature": "a4e76dad26885760",
+  "content_hash": "f89ec69dface66326dd4af34c294a2feadb96938ac01729a8b8d1ce199e2dab7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290583&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "004379",
@@ -29612,13 +29621,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "985c39cc1d27c445",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:13:14.031664+00:00",
-  "last_collected_at": "2026-08-24T16:18:01.256397+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.945697+00:00",
+  "last_collected_at": "2026-09-29T18:38:01.341407+00:00",
   "ministry": "행정안전부",
   "mst": "290583",
   "name": "유선 및 도선 사업법 시행령",
   "payload_law_id": "004379",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -56408,8 +56419,13 @@
   "version_signature": "b22cfdb808e32806"
  },
  "law:eflaw:009250": {
-  "collected_signature": "9969f7d7d1af81d4",
-  "content_hash": "1001166789b33647c3c22dfbd51b7ad0afa803750820253211bac733ccd8a35f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 18929
+  },
+  "collected_signature": "f186ed6437b1b9de",
+  "content_hash": "ffb04bc003c37d67d3b29abb3b953c4cf52d1eb8d025cff2046b1ed73ed96660",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287383&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "009250",
@@ -56417,16 +56433,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9969f7d7d1af81d4",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:10:48.813745+00:00",
-  "last_collected_at": "2026-08-24T18:14:33.124942+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.510276+00:00",
+  "last_collected_at": "2026-09-29T18:37:37.900091+00:00",
   "ministry": "소방청",
   "mst": "287383",
   "name": "의무소방대설치법 시행령",
   "payload_law_id": "009250",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f186ed6437b1b9de"
  },
  "law:eflaw:009251": {
@@ -84702,8 +84720,13 @@
   "version_signature": "81263ba1efadc825"
  },
  "law:eflaw:011374": {
-  "collected_signature": "0fa64a59f862c24f",
-  "content_hash": "1c49c22177901c549a027d5998db06ae3d06d46d7b71ed337066d6dd78e9be88",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 70,
+   "chars": 24876
+  },
+  "collected_signature": "283d32ac31a49c82",
+  "content_hash": "899addde211e0544c74f1db9249ea7f12e8d77a270899f4e3abd89ce724ea5e2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265473&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "011374",
@@ -84711,16 +84734,18 @@
   "doc_type": "법률",
   "emitted_signature": "0fa64a59f862c24f",
   "enforcement_date": "20250621",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T17:48:47.350000+00:00",
-  "last_collected_at": "2026-08-24T17:53:44.850691+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.766524+00:00",
+  "last_collected_at": "2026-09-29T18:37:42.948515+00:00",
   "ministry": "보건복지부",
   "mst": "265473",
   "name": "의료사고 피해구제 및 의료분쟁 조정 등에 관한 법률",
   "payload_law_id": "011374",
+  "prev_name": null,
   "promulgation_date": "20240920",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "283d32ac31a49c82"
  },
  "law:eflaw:011377": {
@@ -124926,8 +124951,13 @@
   "version_signature": "411d1f842e2cc345"
  },
  "law:eflaw:014897": {
-  "collected_signature": "4362b8982f2f3210",
-  "content_hash": "5a41d5b898793dfb0df6680218376fc562897e4f7da9eea76b813c17354910e3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 11673
+  },
+  "collected_signature": "50bf7dd2012e7626",
+  "content_hash": "f0594e7b5c77a369308f71f9dc22cb0c1e0848d84e6e810c9d871d1b1424c418",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273921&type=HTML&mobileYn=&efYd=20251027",
   "doc_domain": "law",
   "doc_id": "014897",
@@ -124935,16 +124965,18 @@
   "doc_type": "법률",
   "emitted_signature": "4362b8982f2f3210",
   "enforcement_date": "20251027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:46:28.215843+00:00",
-  "last_collected_at": "2026-08-24T16:47:14.340086+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.513935+00:00",
+  "last_collected_at": "2026-09-29T18:35:49.200446+00:00",
   "ministry": "법무부",
   "mst": "273921",
   "name": "윤석열 전 대통령 등에 의한 내란ㆍ외환 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
   "payload_law_id": "014897",
+  "prev_name": null,
   "promulgation_date": "20250926",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "50bf7dd2012e7626"
  },
  "law:eflaw:014898": {
@@ -126598,8 +126630,13 @@
   "version_signature": "5348e28517718852"
  },
  "law:eflaw:015033": {
-  "collected_signature": "835b6194eca97e20",
-  "content_hash": "4b6fc916a735e331b63ec224980be8d9b71b30031d6549262642c4c27339289f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 13898
+  },
+  "collected_signature": "027f4e0fed047b5d",
+  "content_hash": "d6e91f8a712d2529e0ccc92a2194f84b0899a239ee8b9f630672efd98cb97413",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288407&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "015033",
@@ -126607,16 +126644,18 @@
   "doc_type": "법률",
   "emitted_signature": "835b6194eca97e20",
   "enforcement_date": "20260721",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:46:28.610291+00:00",
-  "last_collected_at": "2026-08-24T16:48:19.101689+00:00",
+  "last_checked_at": "2026-09-29T18:34:58.903661+00:00",
+  "last_collected_at": "2026-09-29T18:36:29.887581+00:00",
   "ministry": "법무부",
   "mst": "288407",
   "name": "윤석열ㆍ김건희에 의한 내란ㆍ외환 및 국정농단 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
   "payload_law_id": "015033",
+  "prev_name": null,
   "promulgation_date": "20260721",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "027f4e0fed047b5d"
  },
  "law:eflaw:015035": {
