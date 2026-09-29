@@ -7642,8 +7642,13 @@
   "version_signature": "a466f56edeccb2b9"
  },
  "law:eflaw:001112": {
-  "collected_signature": "85aa0834e30993f3",
-  "content_hash": "54583a52b0c8708bd7ac3f5ccef83bb9be21500bc7a41473e76eee8490b3c918",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 14050
+  },
+  "collected_signature": "0175ba004d40bed0",
+  "content_hash": "cc0cc262068b75f02a859ff2e4d80b66e3a9123fbdd3d7d6a967733270489801",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228087&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "001112",
@@ -7651,16 +7656,18 @@
   "doc_type": "법률",
   "emitted_signature": "85aa0834e30993f3",
   "enforcement_date": "20210105",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:09:59.729300+00:00",
-  "last_collected_at": "2026-08-23T15:11:47.250550+00:00",
+  "last_checked_at": "2026-09-29T17:02:36.269355+00:00",
+  "last_collected_at": "2026-09-29T17:03:56.167680+00:00",
   "ministry": "법무부",
   "mst": "228087",
   "name": "범죄인 인도법",
   "payload_law_id": "001112",
+  "prev_name": null,
   "promulgation_date": "20210105",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0175ba004d40bed0"
  },
  "law:eflaw:001113": {
@@ -66932,8 +66939,13 @@
   "version_signature": "0ee43db4e63af9de"
  },
  "law:eflaw:010109": {
-  "collected_signature": "cac6416025c5da99",
-  "content_hash": "2fb05c8965686443b775bea2a3bc849ded11f3c5a768c6fdc545dfd67cb282aa",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 55,
+   "chars": 18258
+  },
+  "collected_signature": "3248211c15af6eaf",
+  "content_hash": "d8c4956bc142a39bbb61d6a7d1271f036ed1f4b326277d46be3eeda716fd3f2a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265339&type=HTML&mobileYn=&efYd=20250321",
   "doc_domain": "law",
   "doc_id": "010109",
@@ -66941,16 +66953,18 @@
   "doc_type": "법률",
   "emitted_signature": "cac6416025c5da99",
   "enforcement_date": "20250321",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:12:32.037305+00:00",
-  "last_collected_at": "2026-08-23T15:15:46.322201+00:00",
+  "last_checked_at": "2026-09-29T17:02:36.149084+00:00",
+  "last_collected_at": "2026-09-29T17:04:19.840143+00:00",
   "ministry": "법무부",
   "mst": "265339",
   "name": "범죄피해자 보호법",
   "payload_law_id": "010109",
+  "prev_name": null,
   "promulgation_date": "20240920",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3248211c15af6eaf"
  },
  "law:eflaw:010110": {
@@ -68278,8 +68292,13 @@
   "version_signature": "43092478931ecf6b"
  },
  "law:eflaw:010201": {
-  "collected_signature": "5f9b1f2893d33e9d",
-  "content_hash": "4e8694f46f611342b25d6c594cc87ec54bb2d4b390c5e01f81b23c087605b396",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 23938
+  },
+  "collected_signature": "6f7dad256964d155",
+  "content_hash": "64131d1ef9e302d75c742e1e999437c334bba5a7cfb87fd86b4da9ee7c1fa999",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283967&type=HTML&mobileYn=&efYd=20260310",
   "doc_domain": "law",
   "doc_id": "010201",
@@ -68287,16 +68306,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "5f9b1f2893d33e9d",
   "enforcement_date": "20260310",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:12:31.437509+00:00",
-  "last_collected_at": "2026-08-23T15:16:39.962297+00:00",
+  "last_checked_at": "2026-09-29T17:02:35.964073+00:00",
+  "last_collected_at": "2026-09-29T17:05:04.847015+00:00",
   "ministry": "법무부",
   "mst": "283967",
   "name": "범죄피해자 보호법 시행령",
   "payload_law_id": "010201",
+  "prev_name": null,
   "promulgation_date": "20260310",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6f7dad256964d155"
  },
  "law:eflaw:010202": {
@@ -78657,8 +78678,13 @@
   "version_signature": "54ac273fa902aa26"
  },
  "law:eflaw:010944": {
-  "collected_signature": "a3edd162d197091e",
-  "content_hash": "5cf656bf11baa9aa2fe6333bee1376f3cec2819e2c892b3f68dd0bebebc46e30",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 17,
+   "chars": 5491
+  },
+  "collected_signature": "7e276381c07e803c",
+  "content_hash": "ee9fe568761258d00bf84e524b3500de3970c2afea8657b0e749aa1c96d39641",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=92106&type=HTML&mobileYn=&efYd=20090926",
   "doc_domain": "law",
   "doc_id": "010944",
@@ -78666,16 +78692,18 @@
   "doc_type": "법률",
   "emitted_signature": "a3edd162d197091e",
   "enforcement_date": "20090926",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:09:59.479760+00:00",
-  "last_collected_at": "2026-08-23T15:10:40.355239+00:00",
+  "last_checked_at": "2026-09-29T17:02:35.963012+00:00",
+  "last_collected_at": "2026-09-29T17:03:09.234606+00:00",
   "ministry": "법무부",
   "mst": "92106",
   "name": "벌금 미납자의 사회봉사 집행에 관한 특례법",
   "payload_law_id": "010944",
+  "prev_name": null,
   "promulgation_date": "20090325",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7e276381c07e803c"
  },
  "law:eflaw:010945": {
@@ -79563,8 +79591,13 @@
   "version_signature": "a29480722b59af2a"
  },
  "law:eflaw:011032": {
-  "collected_signature": "a1920eb5cf2858c7",
-  "content_hash": "bbc145c1a09590048d5f1f70e2d1c74ab1e84f2b507cc06f5e78c352d59cdb91",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 2632
+  },
+  "collected_signature": "9bde73d4aacef5e3",
+  "content_hash": "2b65d686b6f6804ef4b882c55752bf7aa1f80f1456db65dec5f691308adc1d39",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=213153&type=HTML&mobileYn=&efYd=20200107",
   "doc_domain": "law",
   "doc_id": "011032",
@@ -79572,16 +79605,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "a1920eb5cf2858c7",
   "enforcement_date": "20200107",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:09:58.788091+00:00",
-  "last_collected_at": "2026-08-23T15:11:10.300531+00:00",
+  "last_checked_at": "2026-09-29T17:02:36.310835+00:00",
+  "last_collected_at": "2026-09-29T17:04:14.346718+00:00",
   "ministry": "법무부",
   "mst": "213153",
   "name": "벌금 미납자의 사회봉사 집행에 관한 특례법 시행령",
   "payload_law_id": "011032",
+  "prev_name": null,
   "promulgation_date": "20200107",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9bde73d4aacef5e3"
  },
  "law:eflaw:011033": {
@@ -93350,8 +93385,13 @@
   "version_signature": "0180af9300446dee"
  },
  "law:eflaw:012060": {
-  "collected_signature": "99865bf5cccc0c5b",
-  "content_hash": "358cf0e76d8695a291eb506d545098cd2bc30ce8ff53bd58f78b4d60947016bf",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 6,
+   "chars": 2696
+  },
+  "collected_signature": "5015673c3fa32e7c",
+  "content_hash": "1257f1f24369f7c731ce1c64b11ef4f487a4c4103462e9a330820357ca6991d2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=229499&type=HTML&mobileYn=&efYd=20210217",
   "doc_domain": "law",
   "doc_id": "012060",
@@ -93359,16 +93399,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "99865bf5cccc0c5b",
   "enforcement_date": "20210217",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:10:00.936623+00:00",
-  "last_collected_at": "2026-08-23T15:10:43.827283+00:00",
+  "last_checked_at": "2026-09-29T17:02:36.128941+00:00",
+  "last_collected_at": "2026-09-29T17:04:03.766965+00:00",
   "ministry": "법무부",
   "mst": "229499",
   "name": "범죄수익은닉의 규제 및 처벌 등에 관한 법률 시행령",
   "payload_law_id": "012060",
+  "prev_name": null,
   "promulgation_date": "20210217",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5015673c3fa32e7c"
  },
  "law:eflaw:012065": {
