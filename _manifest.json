@@ -1904,8 +1904,8 @@
    "articles": 111,
    "chars": 57631
   },
-  "collected_signature": "b3a90a7a4e68c404",
-  "content_hash": "4dbd3b96631d4f052c8329c7f9226756b488b0c0639b400c5b9c48628c8d773a",
+  "collected_signature": "df8863b8b5a4b7e5",
+  "content_hash": "b0fc31a4d8361522200f783a4f3a24e768fa86b940b98ab9c3632eb964be08f7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289737&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000190",
@@ -1915,8 +1915,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:23:08.508204+00:00",
-  "last_collected_at": "2026-09-15T16:30:35.385197+00:00",
+  "last_checked_at": "2026-09-29T18:20:07.102468+00:00",
+  "last_collected_at": "2026-09-29T18:27:34.003727+00:00",
   "ministry": "보건복지부",
   "mst": "289737",
   "name": "아동복지법",
@@ -1924,7 +1924,7 @@
   "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "df8863b8b5a4b7e5"
  },
  "law:eflaw:000191": {
@@ -17183,8 +17183,13 @@
   "version_signature": "a9ee51f26c8c0d4d"
  },
  "law:eflaw:002044": {
-  "collected_signature": "bf91bb2c4be3aa8a",
-  "content_hash": "6d40ef0b6a210201c3db0e6fa22f20da06a432515b3cfd82cf2a737bbcd24d86",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 88,
+   "chars": 45210
+  },
+  "collected_signature": "6fe0dde5f26019e6",
+  "content_hash": "d020c860917c42f0c6989fb0fc0f19ce8e3b904ce8c4df030e8b1fd4b2604c0d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279715&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "002044",
@@ -17192,16 +17197,18 @@
   "doc_type": "법률",
   "emitted_signature": "bf91bb2c4be3aa8a",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:10:35.568796+00:00",
-  "last_collected_at": "2026-08-24T10:19:10.343838+00:00",
+  "last_checked_at": "2026-09-29T18:20:07.063411+00:00",
+  "last_collected_at": "2026-09-29T18:28:42.353234+00:00",
   "ministry": "성평등가족부",
   "mst": "279715",
   "name": "아동ㆍ청소년의 성보호에 관한 법률",
   "payload_law_id": "002044",
+  "prev_name": null,
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "6fe0dde5f26019e6"
  },
  "law:eflaw:002046": {
@@ -28364,8 +28371,13 @@
   "version_signature": "0c986065be516816"
  },
  "law:eflaw:004108": {
-  "collected_signature": "3ec373c1ab03a3ef",
-  "content_hash": "d71e315cb773d75edfb427f83f4868af73d9c4f8265c1275eab714cfc6d4c8a1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 63,
+   "chars": 33839
+  },
+  "collected_signature": "a4e19baba68d23a1",
+  "content_hash": "8eacf900f7efb167abb60558ff4dc96f5e2e7a028a7a6ddb2d968a15dfc08103",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287155&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "004108",
@@ -28373,16 +28385,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "3ec373c1ab03a3ef",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T09:32:21.607670+00:00",
-  "last_collected_at": "2026-08-24T09:38:46.311471+00:00",
+  "last_checked_at": "2026-09-29T18:20:06.726102+00:00",
+  "last_collected_at": "2026-09-29T18:28:55.746762+00:00",
   "ministry": "금융위원회",
   "mst": "287155",
   "name": "신용협동조합법 시행령",
   "payload_law_id": "004108",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a4e19baba68d23a1"
  },
  "law:eflaw:004109": {
@@ -33289,8 +33303,13 @@
   "version_signature": "80fe06012dae87dd"
  },
  "law:eflaw:005212": {
-  "collected_signature": "9fccb6fde541baae",
-  "content_hash": "3e8f4b53accf271b0e37f8019264762970a2f3c82b8a0e1541297b6bd5cbdd92",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 46,
+   "chars": 15500
+  },
+  "collected_signature": "0f3a2e26345bbebd",
+  "content_hash": "835210de4adab1df5b05d398b6319d7fd00ee29eb8d3e5ab7a14815363c98453",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279185&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "005212",
@@ -33298,16 +33317,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9fccb6fde541baae",
   "enforcement_date": "20251023",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:10:34.586432+00:00",
-  "last_collected_at": "2026-08-24T10:16:17.034712+00:00",
+  "last_checked_at": "2026-09-29T18:20:07.053067+00:00",
+  "last_collected_at": "2026-09-29T18:26:07.375485+00:00",
   "ministry": "성평등가족부",
   "mst": "279185",
   "name": "아동ㆍ청소년의 성보호에 관한 법률 시행령",
   "payload_law_id": "005212",
+  "prev_name": null,
   "promulgation_date": "20251010",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0f3a2e26345bbebd"
  },
  "law:eflaw:005214": {
@@ -92979,8 +93000,13 @@
   "version_signature": "0a7b36b64a5aaf67"
  },
  "law:eflaw:011997": {
-  "collected_signature": "9abaed64605e3991",
-  "content_hash": "75e0f1de49e2d7e64fb531b6692167f8ae87b61cdc7cc29ca9d0e7c94edca062",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 72,
+   "chars": 33917
+  },
+  "collected_signature": "d6970589a54203a8",
+  "content_hash": "5976293411ec40da9f7784bf20afb5c5e450b424c29ccf9c4543fbd90e9826ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283203&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "011997",
@@ -92988,16 +93014,18 @@
   "doc_type": "법률",
   "emitted_signature": "9abaed64605e3991",
   "enforcement_date": "20260804",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:32:00.854061+00:00",
-  "last_collected_at": "2026-08-24T10:37:18.670309+00:00",
+  "last_checked_at": "2026-09-29T18:20:06.846838+00:00",
+  "last_collected_at": "2026-09-29T18:26:01.551946+00:00",
   "ministry": "법무부",
   "mst": "283203",
   "name": "아동학대범죄의 처벌 등에 관한 특례법",
   "payload_law_id": "011997",
+  "prev_name": null,
   "promulgation_date": "20260203",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d6970589a54203a8"
  },
  "law:eflaw:011998": {
@@ -94866,8 +94894,13 @@
   "version_signature": "9cc6aa9ec32b5432"
  },
  "law:eflaw:012146": {
-  "collected_signature": "ada72a4c5b39bbb8",
-  "content_hash": "13d3311dc2cefd2ff34b7702b2906d0180e17edb24e33a7d0c7168a091598c4d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 5888
+  },
+  "collected_signature": "3477ab64996b90a2",
+  "content_hash": "8f367f30459df18a8860ddb32df6ef8a0d3b49ad342d440419289d0c952cb219",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283273&type=HTML&mobileYn=&efYd=20260212",
   "doc_domain": "law",
   "doc_id": "012146",
@@ -94875,16 +94908,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "ada72a4c5b39bbb8",
   "enforcement_date": "20260212",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:32:01.503556+00:00",
-  "last_collected_at": "2026-08-24T10:35:22.758318+00:00",
+  "last_checked_at": "2026-09-29T18:20:06.852906+00:00",
+  "last_collected_at": "2026-09-29T18:23:39.921335+00:00",
   "ministry": "법무부",
   "mst": "283273",
   "name": "아동학대범죄의 처벌 등에 관한 특례법 시행령",
   "payload_law_id": "012146",
+  "prev_name": null,
   "promulgation_date": "20260210",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3477ab64996b90a2"
  },
  "law:eflaw:012147": {
