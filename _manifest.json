@@ -3094,8 +3094,13 @@
   "version_signature": "567af7a33013ec0a"
  },
  "law:eflaw:000360": {
-  "collected_signature": "70a164823f31b1ea",
-  "content_hash": "8f2822b3f24c716f3e1755108483a87c6fa9af17cc7e9ef3c13858b334e530fc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 24745
+  },
+  "collected_signature": "ed5ca3306382fe9e",
+  "content_hash": "610669bf2f5b524a13adca1ab15df8a5a838e88541b902932e5a5ebe76450d04",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281985&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "000360",
@@ -3103,16 +3108,18 @@
   "doc_type": "법률",
   "emitted_signature": "70a164823f31b1ea",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:49:39.727267+00:00",
-  "last_collected_at": "2026-08-24T05:54:56.986103+00:00",
+  "last_checked_at": "2026-09-29T18:12:48.146810+00:00",
+  "last_collected_at": "2026-09-29T18:15:23.569648+00:00",
   "ministry": "중소벤처기업부",
   "mst": "281985",
   "name": "소상공인 보호 및 지원에 관한 법률",
   "payload_law_id": "000360",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "ed5ca3306382fe9e"
  },
  "law:eflaw:000370": {
@@ -8489,8 +8496,13 @@
   "version_signature": "0fc79f77e2c95b8d"
  },
  "law:eflaw:001183": {
-  "collected_signature": "b901aafb7cca8572",
-  "content_hash": "bd20e9441dd6a60c630124ccc8624b82c43a30a8daa3227951faff289bf038db",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 6550
+  },
+  "collected_signature": "9cf08dbc41e59f68",
+  "content_hash": "2c7e324d6d9c51dfb93b3c531862bd93649fe4863365d7cf7038fd4b36b0ed6d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=213805&type=HTML&mobileYn=&efYd=20200805",
   "doc_domain": "law",
   "doc_id": "001183",
@@ -8498,16 +8510,18 @@
   "doc_type": "법률",
   "emitted_signature": "b901aafb7cca8572",
   "enforcement_date": "20200805",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:39:31.552753+00:00",
-  "last_collected_at": "2026-08-24T06:41:59.138183+00:00",
+  "last_checked_at": "2026-09-29T18:12:48.294790+00:00",
+  "last_collected_at": "2026-09-29T18:14:09.232950+00:00",
   "ministry": "법무부",
   "mst": "213805",
   "name": "수복지역내소유자미복구토지의복구등록과보존등기등에관한특별조치법",
   "payload_law_id": "001183",
+  "prev_name": null,
   "promulgation_date": "20200204",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9cf08dbc41e59f68"
  },
  "law:eflaw:001184": {
@@ -28032,8 +28046,13 @@
   "version_signature": "3cb231beba2b6eca"
  },
  "law:eflaw:004057": {
-  "collected_signature": "8ba27e0cddb80696",
-  "content_hash": "86c1843cb928de01c0c06e16b65ecca60e574d68764c530548ee2d226ae436a5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 2638
+  },
+  "collected_signature": "623ace6ebe34c61f",
+  "content_hash": "0aced9cc801b5d7e9d64823ad1fcd7f710ef36f8b1ab4c00705f829f51aa9870",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227647&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "004057",
@@ -28041,16 +28060,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8ba27e0cddb80696",
   "enforcement_date": "20210105",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T07:53:27.926364+00:00",
-  "last_collected_at": "2026-08-24T07:53:45.745420+00:00",
+  "last_checked_at": "2026-09-29T18:12:47.910110+00:00",
+  "last_collected_at": "2026-09-29T18:13:15.530851+00:00",
   "ministry": "법무부",
   "mst": "227647",
   "name": "수형자 등 호송 규정",
   "payload_law_id": "004057",
+  "prev_name": null,
   "promulgation_date": "20210105",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "623ace6ebe34c61f"
  },
  "law:eflaw:004065": {
@@ -74391,8 +74412,13 @@
   "version_signature": "d1479deee908c7a8"
  },
  "law:eflaw:010602": {
-  "collected_signature": "c250a82bd73a74b7",
-  "content_hash": "692e3a8fa7c6e8ccd894a61dd1b2ee1562703cb5b20d51ad04d37488f621d53b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 87,
+   "chars": 43578
+  },
+  "collected_signature": "ae2bcf6dcba117f2",
+  "content_hash": "a941e9a8e6bb692717fb052b302af9a8d342c3e6d9b4125432c5adedf1bbe914",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259925&type=HTML&mobileYn=&efYd=20250807",
   "doc_domain": "law",
   "doc_id": "010602",
@@ -74400,16 +74426,18 @@
   "doc_type": "법률",
   "emitted_signature": "c250a82bd73a74b7",
   "enforcement_date": "20250807",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:46:41.829488+00:00",
-  "last_collected_at": "2026-08-24T06:55:23.826901+00:00",
+  "last_checked_at": "2026-09-29T18:12:48.296152+00:00",
+  "last_collected_at": "2026-09-29T18:15:22.706687+00:00",
   "ministry": "해양수산부",
   "mst": "259925",
   "name": "수산생물질병 관리법",
   "payload_law_id": "010602",
+  "prev_name": null,
   "promulgation_date": "20240206",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ae2bcf6dcba117f2"
  },
  "law:eflaw:010604": {
@@ -104863,8 +104891,13 @@
   "version_signature": "7d1f158bc1e5808a"
  },
  "law:eflaw:013139": {
-  "collected_signature": "5a953aa3900bfab6",
-  "content_hash": "e9114202c2dd5767ccd53fefaf870102695b95633d199433e188a51e52ef67e6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 20,
+   "chars": 7546
+  },
+  "collected_signature": "8c1c41840c30ec7d",
+  "content_hash": "82ba0415ff5c1189250cae2c0293eb522ded3d31a7024f4019c131076959bc67",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290199&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "013139",
@@ -104872,13 +104905,15 @@
   "doc_type": "법률",
   "emitted_signature": "5a953aa3900bfab6",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:56:13.606959+00:00",
-  "last_collected_at": "2026-08-24T05:58:21.775678+00:00",
+  "last_checked_at": "2026-09-29T18:12:47.911005+00:00",
+  "last_collected_at": "2026-09-29T18:14:11.532088+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290199",
   "name": "소상공인 생계형 적합업종 지정에 관한 특별법",
   "payload_law_id": "013139",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -108057,8 +108092,13 @@
   "version_signature": "47386012465ad533"
  },
  "law:eflaw:013671": {
-  "collected_signature": "6b85ed5905c16107",
-  "content_hash": "f0a4522e142db213614fb55e6a13d0289be5746c21aa40ca955bc64f713fa269",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 39,
+   "chars": 7936
+  },
+  "collected_signature": "5b1211ac34d92997",
+  "content_hash": "21c9a4667f724408825f621da7b6e6c86252e72232a39aabcb35266a19d8741d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280155&type=HTML&mobileYn=&efYd=20260603",
   "doc_domain": "law",
   "doc_id": "013671",
@@ -108066,16 +108106,18 @@
   "doc_type": "법률",
   "emitted_signature": "6b85ed5905c16107",
   "enforcement_date": "20260603",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:56:12.134549+00:00",
-  "last_collected_at": "2026-08-24T05:58:22.308662+00:00",
+  "last_checked_at": "2026-09-29T18:12:48.328756+00:00",
+  "last_collected_at": "2026-09-29T18:13:41.249424+00:00",
   "ministry": "중소벤처기업부",
   "mst": "280155",
   "name": "소상공인기본법",
   "payload_law_id": "013671",
+  "prev_name": null,
   "promulgation_date": "20251202",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5b1211ac34d92997"
  },
  "law:eflaw:013672": {
