@@ -13381,8 +13381,13 @@
   "version_signature": "035fe14bf468902d"
  },
  "law:eflaw:001699": {
-  "collected_signature": "12d5f63958db0018",
-  "content_hash": "24af87aa207bb167187690eba42d0d44da8c267cc31ca10d0446eaf608cf8cb3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 288,
+   "chars": 26079
+  },
+  "collected_signature": "5cae2413d16a6808",
+  "content_hash": "c5bb4e1579b86da85d7f595645cc7173932d1709a9dba00e76970f64c4a67677",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265395&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "001699",
@@ -13390,16 +13395,18 @@
   "doc_type": "법률",
   "emitted_signature": "12d5f63958db0018",
   "enforcement_date": "20250131",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:27:03.958009+00:00",
-  "last_collected_at": "2026-08-23T20:31:51.928989+00:00",
+  "last_checked_at": "2026-09-29T17:33:04.180020+00:00",
+  "last_collected_at": "2026-09-29T17:37:19.486380+00:00",
   "ministry": "대법원,법무부",
   "mst": "265395",
   "name": "비송사건절차법",
   "payload_law_id": "001699",
+  "prev_name": null,
   "promulgation_date": "20240920",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5cae2413d16a6808"
  },
  "law:eflaw:001700": {
@@ -56403,8 +56410,13 @@
   "version_signature": "386ba5264015e0cf"
  },
  "law:eflaw:009258": {
-  "collected_signature": "2646c6fbc33eb493",
-  "content_hash": "bfdb961f6384c9f53ad10f4b968d88c5fd0d6d144894d941fd65165743910695",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 104,
+   "chars": 35152
+  },
+  "collected_signature": "70461697b6b04e94",
+  "content_hash": "6080ebd539cead5d416ebe8dbd1fe960c1b8325c642b3de8b60d728298f81aa7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290539&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "009258",
@@ -56412,13 +56424,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "2646c6fbc33eb493",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:03:59.635194+00:00",
-  "last_collected_at": "2026-08-23T20:09:10.729601+00:00",
+  "last_checked_at": "2026-09-29T17:33:04.088328+00:00",
+  "last_collected_at": "2026-09-29T17:37:17.690706+00:00",
   "ministry": "국민권익위원회",
   "mst": "290539",
   "name": "부패방지 및 국민권익위원회의 설치와 운영에 관한 법률 시행령",
   "payload_law_id": "009258",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -65264,8 +65278,13 @@
   "version_signature": "ce157305054a776c"
  },
  "law:eflaw:009997": {
-  "collected_signature": "b0f2ef6d5484c16c",
-  "content_hash": "622119861580186158fdf0cea92a51d776067629b8b6063f49b2b1a7557a48b2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 16284
+  },
+  "collected_signature": "a700f21ffd799a12",
+  "content_hash": "a45fe7a8d84bb9db72205a6a7307a61306d53fa478420d4f00d65399a12c3b61",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=232299&type=HTML&mobileYn=&efYd=20220519",
   "doc_domain": "law",
   "doc_id": "009997",
@@ -65273,16 +65292,18 @@
   "doc_type": "법률",
   "emitted_signature": "b0f2ef6d5484c16c",
   "enforcement_date": "20220519",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:20:55.285882+00:00",
-  "last_collected_at": "2026-08-23T20:25:32.903152+00:00",
+  "last_checked_at": "2026-09-29T17:33:04.087120+00:00",
+  "last_collected_at": "2026-09-29T17:35:20.458610+00:00",
   "ministry": "법무부",
   "mst": "232299",
   "name": "불법정치자금 등의 몰수에 관한 특례법",
   "payload_law_id": "009997",
+  "prev_name": null,
   "promulgation_date": "20210518",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a700f21ffd799a12"
  },
  "law:eflaw:009998": {
@@ -75866,8 +75887,13 @@
   "version_signature": "6a7b78261c187671"
  },
  "law:eflaw:010725": {
-  "collected_signature": "430877ddb7fa060d",
-  "content_hash": "15fe8829ffaaee85e9b9c4fe2167aa0a5bcb803feef477328b78c0bb3d24e5e0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 6346
+  },
+  "collected_signature": "f89f63bf1df5b1d1",
+  "content_hash": "d0a1e923472756679cb727a4c6499b4ddce8d737d26b3cb77e5c42b0acd469e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280263&type=HTML&mobileYn=&efYd=20260617",
   "doc_domain": "law",
   "doc_id": "010725",
@@ -75875,16 +75901,18 @@
   "doc_type": "법률",
   "emitted_signature": "430877ddb7fa060d",
   "enforcement_date": "20260617",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:10:13.911391+00:00",
-  "last_collected_at": "2026-08-23T20:11:52.977434+00:00",
+  "last_checked_at": "2026-09-29T17:33:04.215031+00:00",
+  "last_collected_at": "2026-09-29T17:34:33.155702+00:00",
   "ministry": "법무부",
   "mst": "280263",
   "name": "부패재산의 몰수 및 회복에 관한 특례법",
   "payload_law_id": "010725",
+  "prev_name": null,
   "promulgation_date": "20251216",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "f89f63bf1df5b1d1"
  },
  "law:eflaw:010726": {
@@ -89656,8 +89684,13 @@
   "version_signature": "ff210f3af661da44"
  },
  "law:eflaw:011714": {
-  "collected_signature": "a7c7836d26e522fc",
-  "content_hash": "103e1021fe07ae5f3f3dbb6c9df2f8b08b559edb0196eb09b3755f2900315f06",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 4405
+  },
+  "collected_signature": "67501dbc55a77c1c",
+  "content_hash": "f0392251114d8771bc8b50ee0be7288d7d394693758d8adb891fc44674d6d58b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=222899&type=HTML&mobileYn=&efYd=20201124",
   "doc_domain": "law",
   "doc_id": "011714",
@@ -89665,16 +89698,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "a7c7836d26e522fc",
   "enforcement_date": "20201124",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:10:13.723100+00:00",
-  "last_collected_at": "2026-08-23T20:11:35.267405+00:00",
+  "last_checked_at": "2026-09-29T17:33:03.822438+00:00",
+  "last_collected_at": "2026-09-29T17:33:57.129077+00:00",
   "ministry": "법무부",
   "mst": "222899",
   "name": "부패재산의 몰수 및 회복에 관한 특례법 시행령",
   "payload_law_id": "011714",
+  "prev_name": null,
   "promulgation_date": "20201124",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "67501dbc55a77c1c"
  },
  "law:eflaw:011715": {
@@ -129122,18 +129157,30 @@
   "version_signature": "d67b17dac5790972"
  },
  "law:eflaw:015220": {
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 4656
+  },
+  "collected_signature": "5fd08653f03a43fd",
+  "content_hash": "1ba6faaec2c9631e9f41760abd95fa6c2a556d22caa495e98b4b9639e8628a57",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290269&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015220",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-09-29T17:33:03.823241+00:00",
+  "last_collected_at": "2026-09-29T17:33:07.793071+00:00",
   "ministry": "법무부",
   "mst": "290269",
   "name": "사건심의위원회의 구성 및 운영에 관한 규정",
+  "payload_law_id": "015220",
+  "prev_name": null,
   "promulgation_date": "20260929",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "5fd08653f03a43fd"
  },
