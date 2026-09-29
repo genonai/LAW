@@ -10117,8 +10117,13 @@
   "version_signature": "e901c44a84f7a3be"
  },
  "law:eflaw:001377": {
-  "collected_signature": "11007371d1c1ea35",
-  "content_hash": "ea1a6c513f953ec42dea24bfb93a8f8c8db8e86160715288bb60d7c54bf58321",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 7455
+  },
+  "collected_signature": "b06cb97c0b8c4b86",
+  "content_hash": "f558902c5c7eafbb80430d371958f56b5cde9460bc265ea1abe60ba04f037d54",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266713&type=HTML&mobileYn=&efYd=20250604",
   "doc_domain": "law",
   "doc_id": "001377",
@@ -10126,16 +10131,18 @@
   "doc_type": "법률",
   "emitted_signature": "11007371d1c1ea35",
   "enforcement_date": "20250604",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:27:26.514653+00:00",
-  "last_collected_at": "2026-08-23T08:30:18.025519+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.956389+00:00",
+  "last_collected_at": "2026-09-29T16:36:03.566586+00:00",
   "ministry": "대통령경호처",
   "mst": "266713",
   "name": "대통령 등의 경호에 관한 법률",
   "payload_law_id": "001377",
+  "prev_name": null,
   "promulgation_date": "20241203",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b06cb97c0b8c4b86"
  },
  "law:eflaw:001378": {
@@ -23417,8 +23424,13 @@
   "version_signature": "8561c7965b0246ea"
  },
  "law:eflaw:003301": {
-  "collected_signature": "ed0b66301bd47eaa",
-  "content_hash": "01b7745d7c58e9d790238146985daf28d24e7ac698168394810321bbf8b1fb84",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 3,
+   "chars": 206
+  },
+  "collected_signature": "661347873c34c1b7",
+  "content_hash": "9497f42cbb9a8314a458059d700925b18c38aa0b745a04dad279e91c4ec221be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287107&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "003301",
@@ -23426,16 +23438,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "ed0b66301bd47eaa",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T07:34:02.791380+00:00",
-  "last_collected_at": "2026-08-23T07:35:27.902340+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.756856+00:00",
+  "last_collected_at": "2026-09-29T16:35:54.875375+00:00",
   "ministry": "법무부",
   "mst": "287107",
   "name": "대검찰청의 위치와 각급 검찰청의 명칭 및 위치에 관한 규정",
   "payload_law_id": "003301",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "661347873c34c1b7"
  },
  "law:eflaw:003302": {
@@ -23512,8 +23526,13 @@
   "version_signature": "93ed9c73d1f34cc5"
  },
  "law:eflaw:003313": {
-  "collected_signature": "5d9bd472c1e96996",
-  "content_hash": "f67fbfa1f876362cf45d8c55e4a8ac35f119fc9eb7c4df276b250618d3c4c7fb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 120,
+   "chars": 49281
+  },
+  "collected_signature": "8bfd017e891c3be7",
+  "content_hash": "4acf2e679511f6f1c2c6a053710edc4d4b975698e2ec9b0a8c2a3ae4cb9cfae2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288381&type=HTML&mobileYn=&efYd=20260731",
   "doc_domain": "law",
   "doc_id": "003313",
@@ -23521,16 +23540,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "5d9bd472c1e96996",
   "enforcement_date": "20260731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:15:28.876780+00:00",
-  "last_collected_at": "2026-08-23T08:23:17.457309+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.967889+00:00",
+  "last_collected_at": "2026-09-29T16:40:58.371344+00:00",
   "ministry": "산업통상부",
   "mst": "288381",
   "name": "대외무역법 시행령",
   "payload_law_id": "003313",
+  "prev_name": null,
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8bfd017e891c3be7"
  },
  "law:eflaw:003325": {
@@ -23585,8 +23606,13 @@
   "version_signature": "7c98bf107e225e68"
  },
  "law:eflaw:003330": {
-  "collected_signature": "68b439314bfc3097",
-  "content_hash": "2410db749329811d3307dd1342ce3b47578672f6ae9f252914fdfebe8dbcd959",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 8,
+   "chars": 3719
+  },
+  "collected_signature": "d1abe631e022de81",
+  "content_hash": "44b15951de4079b270b3b18acf9c5a8a53373bbe7bf1cfbecf9712305e4e1290",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288383&type=HTML&mobileYn=&efYd=20260731",
   "doc_domain": "law",
   "doc_id": "003330",
@@ -23594,16 +23620,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "68b439314bfc3097",
   "enforcement_date": "20260731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:27:25.765899+00:00",
-  "last_collected_at": "2026-08-23T08:29:08.413974+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.755077+00:00",
+  "last_collected_at": "2026-09-29T16:35:38.633341+00:00",
   "ministry": "대통령경호처",
   "mst": "288383",
   "name": "대통령경호안전대책위원회규정",
   "payload_law_id": "003330",
+  "prev_name": null,
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d1abe631e022de81"
  },
  "law:eflaw:003349": {
@@ -57742,8 +57770,13 @@
   "version_signature": "884069c68c1cc0b9"
  },
  "law:eflaw:009365": {
-  "collected_signature": "1833035024bf47a9",
-  "content_hash": "845f366292cb874e3266ba85d0cc8ad1531a7146490514187562478daf9ee335",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 52,
+   "chars": 29210
+  },
+  "collected_signature": "7d0ac308cf5f14d6",
+  "content_hash": "3b6d9409ba1bc4238da78ace91ef93350834923cf8fe5c8eb5c7803468df11b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285821&type=HTML&mobileYn=&efYd=20260506",
   "doc_domain": "law",
   "doc_id": "009365",
@@ -57751,16 +57784,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "1833035024bf47a9",
   "enforcement_date": "20260506",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:09:40.695848+00:00",
-  "last_collected_at": "2026-08-23T08:15:12.297939+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.751036+00:00",
+  "last_collected_at": "2026-09-29T16:40:47.244764+00:00",
   "ministry": "금융위원회",
   "mst": "285821",
   "name": "대부업 등의 등록 및 금융이용자 보호에 관한 법률 시행령",
   "payload_law_id": "009365",
+  "prev_name": null,
   "promulgation_date": "20260506",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7d0ac308cf5f14d6"
  },
  "law:eflaw:009367": {
@@ -109196,8 +109231,13 @@
   "version_signature": "17a2d1ebbe0c9470"
  },
  "law:eflaw:013800": {
-  "collected_signature": "86bacfbb84bd5e24",
-  "content_hash": "f3446afa7b761d5070e983ac777e79af888cf5235dd75651ac1343e1974bcbf3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 17400
+  },
+  "collected_signature": "b7c5f2118b6ad43b",
+  "content_hash": "73a4a21451e5bbe5c0f612fbc49f498b2642a1c9477a2577f49ac7c9284311ed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288959&type=HTML&mobileYn=&efYd=20260825",
   "doc_domain": "law",
   "doc_id": "013800",
@@ -109205,16 +109245,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "86bacfbb84bd5e24",
   "enforcement_date": "20260825",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:27:27.105576+00:00",
-  "last_collected_at": "2026-08-23T08:30:15.010923+00:00",
+  "last_checked_at": "2026-09-29T16:35:11.920410+00:00",
+  "last_collected_at": "2026-09-29T16:37:18.742873+00:00",
   "ministry": "국방부,병무청",
   "mst": "288959",
   "name": "대체역의 편입 및 복무 등에 관한 법률 시행령",
   "payload_law_id": "013800",
+  "prev_name": null,
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b7c5f2118b6ad43b"
  },
  "law:eflaw:013802": {
