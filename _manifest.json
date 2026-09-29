@@ -7872,8 +7872,13 @@
   "version_signature": "0d3247c312e35e3e"
  },
  "law:eflaw:001132": {
-  "collected_signature": "d3dbe15247279f5a",
-  "content_hash": "ade8287663240828370aa04d0a51b0cfe0b399d13e38bcf8e9b0bcd783b7f9fe",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 80,
+   "chars": 23727
+  },
+  "collected_signature": "8d01f0ff301e42c7",
+  "content_hash": "7b6f86fd11948f38a1f51071b73bef073ac09399b6683402c6d7feaabc31d842",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270787&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "001132",
@@ -7881,16 +7886,18 @@
   "doc_type": "법률",
   "emitted_signature": "d3dbe15247279f5a",
   "enforcement_date": "20251023",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:06:43.094623+00:00",
-  "last_collected_at": "2026-08-22T06:12:17.482028+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.563027+00:00",
+  "last_collected_at": "2026-09-29T15:07:00.344449+00:00",
   "ministry": "법무부",
   "mst": "270787",
   "name": "가정폭력범죄의 처벌 등에 관한 특례법",
   "payload_law_id": "001132",
+  "prev_name": null,
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8d01f0ff301e42c7"
  },
  "law:eflaw:001133": {
@@ -16859,8 +16866,13 @@
   "version_signature": "209fdf374514e7ac"
  },
  "law:eflaw:002049": {
-  "collected_signature": "313f359af2b68b09",
-  "content_hash": "fe66ba732604c05ef91df137e2ef416da249848e0d4961b01d8587c4f2958eeb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 3426
+  },
+  "collected_signature": "5f8d4198f9aa9779",
+  "content_hash": "fbbdf45369c2b0780471340458477f5684cec6028d3a7b3a35c10ed030d97e11",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=243607&type=HTML&mobileYn=&efYd=20220701",
   "doc_domain": "law",
   "doc_id": "002049",
@@ -16868,16 +16880,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "313f359af2b68b09",
   "enforcement_date": "20220701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:00:37.381127+00:00",
-  "last_collected_at": "2026-08-22T06:01:11.784047+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.340317+00:00",
+  "last_collected_at": "2026-09-29T15:04:39.457975+00:00",
   "ministry": "법무부",
   "mst": "243607",
   "name": "가석방자관리규정",
   "payload_law_id": "002049",
+  "prev_name": null,
   "promulgation_date": "20220630",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5f8d4198f9aa9779"
  },
  "law:eflaw:002053": {
@@ -39669,8 +39683,13 @@
   "version_signature": "36b96ab370c56fd8"
  },
  "law:eflaw:006128": {
-  "collected_signature": "7e385c5061f06a75",
-  "content_hash": "7dce90bea7b67c4fd56f8bc323c48eed807fdd48dee39f59bc5d8813f1929043",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 97,
+   "chars": 60259
+  },
+  "collected_signature": "aacd3e4c1e18ad1b",
+  "content_hash": "9380caaa0df44e830a3a58173f767c28e740203ff778028f712a9e1676b47340",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290549&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "006128",
@@ -39678,16 +39697,18 @@
   "doc_type": "농림축산식품부령",
   "emitted_signature": "7e385c5061f06a75",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:20:28.678400+00:00",
-  "last_collected_at": "2026-08-22T06:32:19.995833+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.688238+00:00",
+  "last_collected_at": "2026-09-29T15:05:29.682424+00:00",
   "ministry": "농림축산식품부",
   "mst": "290549",
   "name": "가축전염병 예방법 시행규칙",
   "payload_law_id": "006128",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "aacd3e4c1e18ad1b"
  },
  "law:eflaw:006137": {
@@ -71048,8 +71069,13 @@
   "version_signature": "2953bd7b1004b988"
  },
  "law:eflaw:010444": {
-  "collected_signature": "41fcd6362fc2eca2",
-  "content_hash": "b0e1947467a95882930ad2bd156e1aab8aa62c1a1f37de2c276d60a018d1e091",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 139,
+   "chars": 32744
+  },
+  "collected_signature": "a37ea75c8c56dea0",
+  "content_hash": "9231655a8ed5ce32af53f67b304311bcb2ea7f52bf6953926c30ec42391022bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257203&type=HTML&mobileYn=&efYd=20241227",
   "doc_domain": "law",
   "doc_id": "010444",
@@ -71057,16 +71083,18 @@
   "doc_type": "법률",
   "emitted_signature": "41fcd6362fc2eca2",
   "enforcement_date": "20241227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:06:43.916972+00:00",
-  "last_collected_at": "2026-08-22T06:10:26.906362+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.728737+00:00",
+  "last_collected_at": "2026-09-29T15:06:49.925448+00:00",
   "ministry": "법무부",
   "mst": "257203",
   "name": "가족관계의 등록 등에 관한 법률",
   "payload_law_id": "010444",
+  "prev_name": null,
   "promulgation_date": "20231226",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a37ea75c8c56dea0"
  },
  "law:eflaw:010445": {
@@ -102328,8 +102356,13 @@
   "version_signature": "72d5458c3cf8df4b"
  },
  "law:eflaw:012969": {
-  "collected_signature": "32649bd3e1d0d880",
-  "content_hash": "23196197c4c4621f5dfc36faee0ae268afcd258e526482778cf7336993bdf7f5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 30994
+  },
+  "collected_signature": "efd6766122e05837",
+  "content_hash": "2133eacad50d1fffc8506567bb5d7c62080785795b0c1278a9d4096ecf9fed0b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278493&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012969",
@@ -102337,16 +102370,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "32649bd3e1d0d880",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:00:37.968832+00:00",
-  "last_collected_at": "2026-08-22T06:05:35.594884+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.725333+00:00",
+  "last_collected_at": "2026-09-29T15:08:15.344598+00:00",
   "ministry": "기후에너지환경부",
   "mst": "278493",
   "name": "가습기살균제 피해구제를 위한 특별법 시행령",
   "payload_law_id": "012969",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "efd6766122e05837"
  },
  "law:eflaw:012971": {
@@ -120520,8 +120555,13 @@
   "version_signature": "0d97bd1c4c651095"
  },
  "law:eflaw:014682": {
-  "collected_signature": "e67a1fe53255798d",
-  "content_hash": "e305ed93d6c1e77c0d2360354c3c636061a306b485bcca091cae769f4ec52f13",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 15683
+  },
+  "collected_signature": "50a27e5d687fe826",
+  "content_hash": "4ea15270ad32c65b5161f531c15a66810fad9e7bd38305e11f6c18b270e94825",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270729&type=HTML&mobileYn=&efYd=20250423",
   "doc_domain": "law",
   "doc_id": "014682",
@@ -120529,16 +120569,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "e67a1fe53255798d",
   "enforcement_date": "20250423",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T06:00:38.976047+00:00",
-  "last_collected_at": "2026-08-22T06:02:51.188611+00:00",
+  "last_checked_at": "2026-09-29T15:03:51.334173+00:00",
+  "last_collected_at": "2026-09-29T15:07:44.088813+00:00",
   "ministry": "금융위원회",
   "mst": "270729",
   "name": "가상자산 이용자 보호 등에 관한 법률 시행령",
   "payload_law_id": "014682",
+  "prev_name": null,
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "50a27e5d687fe826"
  },
  "law:eflaw:014683": {
