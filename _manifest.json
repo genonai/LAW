@@ -14378,8 +14378,13 @@
   "version_signature": "d5bd503afb49d0c2"
  },
  "law:eflaw:001760": {
-  "collected_signature": "3011813d783fe15a",
-  "content_hash": "45e5bd29d0138a3bbc7827daadf3bc328958e7f47ed7f25b85e8bd0c0e62c317",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 162,
+   "chars": 60795
+  },
+  "collected_signature": "e2178da2804824a1",
+  "content_hash": "37666575396c8cb39c1eee84d6e7c1ffcca73eeec088045cdd675ed8080b0276",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283459&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001760",
@@ -14387,16 +14392,18 @@
   "doc_type": "법률",
   "emitted_signature": "3011813d783fe15a",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T23:33:55.922636+00:00",
-  "last_collected_at": "2026-08-23T23:53:11.505857+00:00",
+  "last_checked_at": "2026-09-29T17:47:26.646485+00:00",
+  "last_collected_at": "2026-09-29T17:52:57.130738+00:00",
   "ministry": "고용노동부",
   "mst": "283459",
   "name": "산업재해보상보험법",
   "payload_law_id": "001760",
+  "prev_name": null,
   "promulgation_date": "20260219",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e2178da2804824a1"
  },
  "law:eflaw:001761": {
@@ -26317,8 +26324,12 @@
  },
  "law:eflaw:003750": {
   "attempts": 0,
-  "collected_signature": "75ed55b3e426d408",
-  "content_hash": "33d3ef7bab76a7a58f0f49bb1dbd0fc10c0ba387b330cec2f412fa5dfaf99714",
+  "body_stats": {
+   "articles": 72,
+   "chars": 29268
+  },
+  "collected_signature": "65382b98d654cdb3",
+  "content_hash": "899d33805bee1702cd43baac364b91ba905025a2299ed0cc886a42d1275a2a83",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289027&type=HTML&mobileYn=&efYd=20260903",
   "doc_domain": "law",
   "doc_id": "003750",
@@ -26326,17 +26337,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "75ed55b3e426d408",
   "enforcement_date": "20260903",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:58:31.574642+00:00",
-  "last_collected_at": "2026-09-03T04:02:22.098593+00:00",
+  "last_checked_at": "2026-09-29T17:47:26.430923+00:00",
+  "last_collected_at": "2026-09-29T17:52:42.331430+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "기획예산처",
   "mst": "289027",
   "name": "사회기반시설에 대한 민간투자법 시행령",
   "payload_law_id": "003750",
+  "prev_name": null,
   "promulgation_date": "20260901",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "65382b98d654cdb3"
  },
  "law:eflaw:003751": {
@@ -26823,8 +26836,13 @@
   "version_signature": "4b723c536af32739"
  },
  "law:eflaw:003826": {
-  "collected_signature": "03ed2e86a107f67d",
-  "content_hash": "ad10ce6fcd59b4e80b4d98b59076484f6542bf55fcc94c85603d9d49fce43450",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 8482
+  },
+  "collected_signature": "9a587364f4c29fe4",
+  "content_hash": "97983094b1a71cb01e72918dc93074e9bd9868bb780895a46a022e095ec2a14c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290255&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "003826",
@@ -26832,13 +26850,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "03ed2e86a107f67d",
   "enforcement_date": "20260929",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T01:15:54.135118+00:00",
-  "last_collected_at": "2026-08-24T01:23:50.207345+00:00",
+  "last_checked_at": "2026-09-29T17:47:25.738564+00:00",
+  "last_collected_at": "2026-09-29T17:48:15.629205+00:00",
   "ministry": "행정안전부",
   "mst": "290255",
   "name": "상훈법 시행령",
   "payload_law_id": "003826",
+  "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
   "version_count": 1,
@@ -69309,11 +69329,11 @@
  "law:eflaw:010265": {
   "attempts": 0,
   "body_stats": {
-   "articles": 116,
-   "chars": 42661
+   "articles": 118,
+   "chars": 43884
   },
-  "collected_signature": "93dfbb4bfdb54fc0",
-  "content_hash": "a914c2271d470130fa678474fac6fb89d9df1111d5c73c6f3cbbee03997e525d",
+  "collected_signature": "1dae8f63b4146a5a",
+  "content_hash": "5bf4063c4a65cdcc2a5e90832c8f4f2d2e51b72a260faa9a05ecb1ede586d3fe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290585&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "010265",
@@ -69323,8 +69343,8 @@
   "enforcement_date": "20260929",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:08:29.558360+00:00",
-  "last_collected_at": "2026-09-18T16:15:01.078540+00:00",
+  "last_checked_at": "2026-09-29T17:47:26.741657+00:00",
+  "last_collected_at": "2026-09-29T17:48:31.546787+00:00",
   "ministry": "산림청",
   "mst": "290585",
   "name": "산림자원의 조성 및 관리에 관한 법률 시행령",
@@ -69332,7 +69352,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "1dae8f63b4146a5a"
  },
  "law:eflaw:010266": {
@@ -97121,8 +97141,12 @@
  },
  "law:eflaw:012322": {
   "attempts": 0,
-  "collected_signature": "aa6a0480a4d88dae",
-  "content_hash": "89e912723243d9f65276c0a6415050df4b6887ae31f32aafbc1eed606e7e8997",
+  "body_stats": {
+   "articles": 33,
+   "chars": 20268
+  },
+  "collected_signature": "c6040d498d419917",
+  "content_hash": "35348ba74285cef962caa63132488c6d0987507b50df1ffad02eb1883272ed0f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290587&type=HTML&mobileYn=&efYd=20260929",
   "doc_domain": "law",
   "doc_id": "012322",
@@ -97132,8 +97156,8 @@
   "enforcement_date": "20260929",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-10T15:08:57.041578+00:00",
-  "last_collected_at": "2026-09-10T15:19:28.838748+00:00",
+  "last_checked_at": "2026-09-29T17:47:26.183799+00:00",
+  "last_collected_at": "2026-09-29T17:52:27.142982+00:00",
   "ministry": "보건복지부",
   "mst": "290587",
   "name": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률 시행령",
@@ -109596,8 +109620,13 @@
   "version_signature": "b7c5f2118b6ad43b"
  },
  "law:eflaw:013802": {
-  "collected_signature": "9d74a7be27adc564",
-  "content_hash": "28308b01c608bf4db7fc961d2f74f8663e864118b2a23b0f34ee77c5eff34add",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 2246
+  },
+  "collected_signature": "f8f0fe01252e3806",
+  "content_hash": "011a4421091cc9b8315b379f256520b4f01b99c2228b0d98c1c476b8ba0379b8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277491&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "013802",
@@ -109605,16 +109634,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9d74a7be27adc564",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T00:34:26.772890+00:00",
-  "last_collected_at": "2026-08-24T00:35:11.430955+00:00",
+  "last_checked_at": "2026-09-29T17:47:26.768788+00:00",
+  "last_collected_at": "2026-09-29T17:48:12.867092+00:00",
   "ministry": "중소벤처기업부",
   "mst": "277491",
   "name": "상생조정위원회의 설치 및 운영에 관한 규정",
   "payload_law_id": "013802",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f8f0fe01252e3806"
  },
  "law:eflaw:013803": {
