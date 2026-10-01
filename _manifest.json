@@ -18293,10 +18293,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 76,
-   "chars": 20412
+   "chars": 20428
   },
-  "collected_signature": "18c2483d2a83d40a",
-  "content_hash": "b74442634dcf683c9b5c2d126129a2ff651fc05e2feed0bf21da1550024f85d6",
+  "collected_signature": "45f14d15cf11709d",
+  "content_hash": "f65aa86841a5a8e3b9a7187a495d9d2afe7cb48c88949c2dffb88988595bf259",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290285&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "002215",
@@ -18306,8 +18306,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:14:56.627299+00:00",
-  "last_collected_at": "2026-09-29T15:16:55.962542+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.183754+00:00",
+  "last_collected_at": "2026-10-01T15:12:57.099184+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "경찰청,행정안전부",
   "mst": "290285",
@@ -41371,8 +41371,13 @@
   "version_signature": "ef4a6990a11bb1c4"
  },
  "law:eflaw:006205": {
-  "collected_signature": "19e28cebde4da3c6",
-  "content_hash": "168cb7455861e337828ef53d5cb97cd9124a992bcd94b5b8b07a781ac1a92cb8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 93,
+   "chars": 29852
+  },
+  "collected_signature": "e316687c6b77b6fa",
+  "content_hash": "ff787dd70c33ed62b7c2817d30ca647e904ced3df83bf92803722a725cdf1ad1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=262687&type=HTML&mobileYn=&efYd=20240517",
   "doc_domain": "law",
   "doc_id": "006205",
@@ -41380,16 +41385,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "19e28cebde4da3c6",
   "enforcement_date": "20240517",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:37:30.713471+00:00",
-  "last_collected_at": "2026-08-22T09:41:46.474480+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.365563+00:00",
+  "last_collected_at": "2026-10-01T15:12:59.974636+00:00",
   "ministry": "법무부",
   "mst": "262687",
   "name": "검찰압수물사무규칙",
   "payload_law_id": "006205",
+  "prev_name": null,
   "promulgation_date": "20240514",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e316687c6b77b6fa"
  },
  "law:eflaw:006206": {
@@ -41437,8 +41444,13 @@
   "version_signature": "50c64f373eb9da9a"
  },
  "law:eflaw:006208": {
-  "collected_signature": "1ebd4fbebca42d7d",
-  "content_hash": "3c375535e409ad44aa8dc231dc292b8d6cdecd7487e9ec175b11a5e9088cf244",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 1546
+  },
+  "collected_signature": "55611f16bbc5ca38",
+  "content_hash": "04a486506942522fea7e45f4d9afbaf44b4321970c468b1478d1a3de6355c8ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267881&type=HTML&mobileYn=&efYd=20241231",
   "doc_domain": "law",
   "doc_id": "006208",
@@ -41446,16 +41458,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "1ebd4fbebca42d7d",
   "enforcement_date": "20241231",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:37:31.467594+00:00",
-  "last_collected_at": "2026-08-22T09:41:08.117839+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.481791+00:00",
+  "last_collected_at": "2026-10-01T15:11:24.635905+00:00",
   "ministry": "법무부",
   "mst": "267881",
   "name": "검찰청 관인 관리 규칙",
   "payload_law_id": "006208",
+  "prev_name": null,
   "promulgation_date": "20241231",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "55611f16bbc5ca38"
  },
  "law:eflaw:006215": {
@@ -41658,8 +41672,12 @@
  },
  "law:eflaw:006255": {
   "attempts": 0,
-  "collected_signature": "dd423bc5ba1f720c",
-  "content_hash": "aba230263ee4b1bbd62315dcba416be8d8d8f388347e31377a6a41b8d10c134d",
+  "body_stats": {
+   "articles": 92,
+   "chars": 37657
+  },
+  "collected_signature": "95be6b57b5b72649",
+  "content_hash": "b72300691d5430b4f64b5f6bada495235cc9f5a52badb778670b3dd147b8e3b8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290853&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "006255",
@@ -41667,14 +41685,16 @@
   "doc_type": "행정안전부령",
   "emitted_signature": "dd423bc5ba1f720c",
   "enforcement_date": "20261001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:46:23.313597+00:00",
-  "last_collected_at": "2026-09-03T02:49:02.184104+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.128368+00:00",
+  "last_collected_at": "2026-10-01T15:12:58.285032+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "경찰청",
   "mst": "290853",
   "name": "경찰청과 그 소속기관 직제 시행규칙",
   "payload_law_id": "006255",
+  "prev_name": null,
   "promulgation_date": "20261001",
   "status": "done",
   "version_count": 1,
@@ -41704,8 +41724,13 @@
   "version_signature": "70ea9ae8377cd12a"
  },
  "law:eflaw:006269": {
-  "collected_signature": "6a10b392c3ac1e25",
-  "content_hash": "3cb2f616012338c315138b9c6e1e275d02b00b1c3c6b85215d6e0c5500f6a566",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 1390
+  },
+  "collected_signature": "2218619166d2c731",
+  "content_hash": "92c0e3edb50296aef440fb796c5ce0a7cba912cc195230f620879afea7f81b08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=116822&type=HTML&mobileYn=&efYd=20110909",
   "doc_domain": "law",
   "doc_id": "006269",
@@ -41713,16 +41738,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "6a10b392c3ac1e25",
   "enforcement_date": "20110909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T10:59:55.163689+00:00",
-  "last_collected_at": "2026-08-22T11:00:37.994794+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.477247+00:00",
+  "last_collected_at": "2026-10-01T15:11:32.331756+00:00",
   "ministry": "법무부",
   "mst": "116822",
   "name": "고등검찰청 검사의 지방검찰청 소재지에서의 사무처리에 관한 규칙",
   "payload_law_id": "006269",
+  "prev_name": null,
   "promulgation_date": "20110909",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2218619166d2c731"
  },
  "law:eflaw:006273": {
@@ -72430,8 +72457,13 @@
   "version_signature": "b12d46cb78918b42"
  },
  "law:eflaw:010440": {
-  "collected_signature": "f105f84f5810e3f6",
-  "content_hash": "44c54017d5a5bbfcd3169d3a15de87d3d0bed933897fe3238ea4964695446df3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 4016
+  },
+  "collected_signature": "ec34c76b9425b3cf",
+  "content_hash": "09ba76a354c8fd05cad0fd7f518fdb34999286562e646fc225fe687bec95f24a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283205&type=HTML&mobileYn=&efYd=20260130",
   "doc_domain": "law",
   "doc_id": "010440",
@@ -72439,16 +72471,18 @@
   "doc_type": "총리령",
   "emitted_signature": "f105f84f5810e3f6",
   "enforcement_date": "20260130",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T12:24:29.088623+00:00",
-  "last_collected_at": "2026-08-22T12:25:30.914223+00:00",
+  "last_checked_at": "2026-10-01T15:10:45.129198+00:00",
+  "last_collected_at": "2026-10-01T15:11:57.545519+00:00",
   "ministry": "국무조정실",
   "mst": "283205",
   "name": "공공기관의 갈등 예방과 해결에 관한 규정 시행규칙",
   "payload_law_id": "010440",
+  "prev_name": null,
   "promulgation_date": "20260130",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ec34c76b9425b3cf"
  },
  "law:eflaw:010442": {
