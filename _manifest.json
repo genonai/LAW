@@ -25513,10 +25513,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 269,
-   "chars": 316761
+   "chars": 318740
   },
-  "collected_signature": "22ca0a970faa541c",
-  "content_hash": "c0027b331e100c865e4ba721cac2edb629815be686d6c2ce9ec546c4d54d1eb0",
+  "collected_signature": "bcbe8fb3a0144372",
+  "content_hash": "683cae1ec471b5e174f2531dce9780c20aa7f91b1992da14f4c6aca9b49a3289",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290843&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "003608",
@@ -25526,8 +25526,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-30T15:00:19.756893+00:00",
-  "last_collected_at": "2026-09-30T15:03:23.145043+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.505002+00:00",
+  "last_collected_at": "2026-10-01T16:00:07.139445+00:00",
   "ministry": "재정경제부",
   "mst": "290843",
   "name": "법인세법 시행령",
@@ -25535,7 +25535,7 @@
   "prev_name": null,
   "promulgation_date": "20260930",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "bcbe8fb3a0144372"
  },
  "law:eflaw:003610": {
@@ -47494,8 +47494,13 @@
   "version_signature": "bbf64ee11c9ec1d2"
  },
  "law:eflaw:007278": {
-  "collected_signature": "d789a911df209cef",
-  "content_hash": "2c6a907161b3bf4557555b81db941f770db9dbb150280f794729e4e0afa6228b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 54,
+   "chars": 13325
+  },
+  "collected_signature": "675a04bd040b3f77",
+  "content_hash": "c007beee3fedfd3d85a8d574c17977cd02b15fa90bbcbb99254a38d20effc7cc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240269&type=HTML&mobileYn=&efYd=20220207",
   "doc_domain": "law",
   "doc_id": "007278",
@@ -47503,16 +47508,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "d789a911df209cef",
   "enforcement_date": "20220207",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:29:30.856165+00:00",
-  "last_collected_at": "2026-08-23T18:32:22.884132+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.374868+00:00",
+  "last_collected_at": "2026-10-01T15:42:52.334157+00:00",
   "ministry": "법무부",
   "mst": "240269",
   "name": "보안관찰법 시행규칙",
   "payload_law_id": "007278",
+  "prev_name": null,
   "promulgation_date": "20220207",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "675a04bd040b3f77"
  },
  "law:eflaw:007282": {
@@ -47538,8 +47545,13 @@
   "version_signature": "a0da8a1f52209252"
  },
  "law:eflaw:007284": {
-  "collected_signature": "d203315566ce9506",
-  "content_hash": "74b0a81b3813e32ac09ebc40750b26f1809665f5eba638186eb310e0dac5edc4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 87,
+   "chars": 13385
+  },
+  "collected_signature": "57f76bf5d8d41bff",
+  "content_hash": "4eed5c9ba61be5282961ba894459e1ff62923b976bf81e28f9ce79ca2ee707e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248585&type=HTML&mobileYn=&efYd=20230307",
   "doc_domain": "law",
   "doc_id": "007284",
@@ -47547,16 +47559,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "d203315566ce9506",
   "enforcement_date": "20230307",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T18:54:54.119199+00:00",
-  "last_collected_at": "2026-08-23T18:59:59.517622+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.176689+00:00",
+  "last_collected_at": "2026-10-01T15:44:09.090283+00:00",
   "ministry": "법무부",
   "mst": "248585",
   "name": "보호관찰 등에 관한 법률 시행규칙",
   "payload_law_id": "007284",
+  "prev_name": null,
   "promulgation_date": "20230307",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "57f76bf5d8d41bff"
  },
  "law:eflaw:007289": {
@@ -76756,10 +76770,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 22,
-   "chars": 6346
+   "chars": 6358
   },
-  "collected_signature": "f89f63bf1df5b1d1",
-  "content_hash": "d0a1e923472756679cb727a4c6499b4ddce8d737d26b3cb77e5c42b0acd469e6",
+  "collected_signature": "03c7865ad42fb366",
+  "content_hash": "f0e0f694a708302666e970bb3655036f71dce6e5eef17703d5c739772660576b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285181&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "010725",
@@ -76769,8 +76783,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:33:04.215031+00:00",
-  "last_collected_at": "2026-09-29T17:34:33.155702+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.543744+00:00",
+  "last_collected_at": "2026-10-01T15:42:01.861117+00:00",
   "ministry": "법무부",
   "mst": "285181",
   "name": "부패재산의 몰수 및 회복에 관한 특례법",
@@ -76778,7 +76792,7 @@
   "prev_name": null,
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "03c7865ad42fb366"
  },
  "law:eflaw:010726": {
@@ -102966,10 +102980,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 29,
-   "chars": 20231
+   "chars": 21421
   },
-  "collected_signature": "de394e829c50bd2b",
-  "content_hash": "79ec74b3a63c458a5ad69cfb82ba31b782d6fed43e83255d6413a2e98d7aaab4",
+  "collected_signature": "155c67f478038c65",
+  "content_hash": "9ee275c541f155257ee57e133ab1d73c05d0e98d4ae0d2143610552d086a9bd0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290839&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "012790",
@@ -102979,8 +102993,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-30T15:00:19.771381+00:00",
-  "last_collected_at": "2026-09-30T15:04:50.399982+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.542674+00:00",
+  "last_collected_at": "2026-10-01T15:45:51.573860+00:00",
   "ministry": "국토교통부",
   "mst": "290839",
   "name": "부동산 거래신고 등에 관한 법률 시행령",
@@ -112002,8 +112016,13 @@
   "version_signature": "79ac48f5a76e8ea8"
  },
  "law:eflaw:013895": {
-  "collected_signature": "40229eb8149b3cab",
-  "content_hash": "602cf48c63170346976ee900ed5d82b01b5d2beefba8ff3bd6dc7bc0fc62160e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 3207
+  },
+  "collected_signature": "999701da1fc4ff17",
+  "content_hash": "127a747fa8c2e4486163a67cd637408e08b7ee7e8e582c1e96565cb536e99242",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=223127&type=HTML&mobileYn=&efYd=20201124",
   "doc_domain": "law",
   "doc_id": "013895",
@@ -112011,16 +112030,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "40229eb8149b3cab",
   "enforcement_date": "20201124",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T20:10:13.850758+00:00",
-  "last_collected_at": "2026-08-23T20:11:38.959015+00:00",
+  "last_checked_at": "2026-10-01T15:40:53.089638+00:00",
+  "last_collected_at": "2026-10-01T15:41:35.648116+00:00",
   "ministry": "법무부",
   "mst": "223127",
   "name": "부패재산의 몰수 및 회복에 관한 특례법 시행규칙",
   "payload_law_id": "013895",
+  "prev_name": null,
   "promulgation_date": "20201124",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "999701da1fc4ff17"
  },
  "law:eflaw:013898": {
