@@ -12243,10 +12243,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 121,
-   "chars": 49203
+   "chars": 49252
   },
-  "collected_signature": "9540e05b148e529c",
-  "content_hash": "d0be2f363bf351908f3606252a4aeb59db712bf08bb3a3d155d2fd8c6d9eab19",
+  "collected_signature": "bb0b340acbe1d564",
+  "content_hash": "365e7b3abca3825f31d8beec2d8bb79bfd90fae44ce876d29e1eefd6af3b771f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280377&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "001585",
@@ -12256,8 +12256,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T16:01:46.214769+00:00",
-  "last_collected_at": "2026-09-29T16:05:41.189442+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.519415+00:00",
+  "last_collected_at": "2026-10-01T15:25:58.562984+00:00",
   "ministry": "재정경제부",
   "mst": "280377",
   "name": "국세징수법",
@@ -12265,7 +12265,7 @@
   "prev_name": null,
   "promulgation_date": "20251223",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bb0b340acbe1d564"
  },
  "law:eflaw:001586": {
@@ -21004,10 +21004,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 130,
-   "chars": 61874
+   "chars": 61955
   },
-  "collected_signature": "6bcb78119563c424",
-  "content_hash": "1553d752512225c85cecc16e61f278314e1d5c0e09bf930712b2cf97bd16308f",
+  "collected_signature": "95440322ba4231c7",
+  "content_hash": "4c63d50f490e8930ae14c72a1c9297af41b81b898550a6f180acc522ef67fdd5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289701&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "002813",
@@ -21017,8 +21017,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:17:52.088033+00:00",
-  "last_collected_at": "2026-09-15T15:28:39.132010+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.720020+00:00",
+  "last_collected_at": "2026-10-01T15:28:19.777137+00:00",
   "ministry": "보건복지부",
   "mst": "289701",
   "name": "국민건강보험법 시행령",
@@ -21026,7 +21026,7 @@
   "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "95440322ba4231c7"
  },
  "law:eflaw:002814": {
@@ -43275,8 +43275,13 @@
   "version_signature": "874d819a78d6773e"
  },
  "law:eflaw:006591": {
-  "collected_signature": "913d8deb97556c68",
-  "content_hash": "7d656a1e105be4b2d96bc4336f04bc52103893796d982393c14a3c6e7e567832",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 7182
+  },
+  "collected_signature": "f73a6178333d9da8",
+  "content_hash": "217513073ac1d74780c42959988e33efa91fbbe007fa17461e3f6e5d209ef398",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=240257&type=HTML&mobileYn=&efYd=20220207",
   "doc_domain": "law",
   "doc_id": "006591",
@@ -43284,16 +43289,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "913d8deb97556c68",
   "enforcement_date": "20220207",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:04:16.650900+00:00",
-  "last_collected_at": "2026-08-22T19:05:45.285978+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.522846+00:00",
+  "last_collected_at": "2026-10-01T15:23:24.819953+00:00",
   "ministry": "법무부",
   "mst": "240257",
   "name": "국가를 당사자로 하는 소송에 관한 법률 시행규칙",
   "payload_law_id": "006591",
+  "prev_name": null,
   "promulgation_date": "20220207",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f73a6178333d9da8"
  },
  "law:eflaw:006592": {
@@ -57458,8 +57465,13 @@
   "version_signature": "44b5848096bac230"
  },
  "law:eflaw:009285": {
-  "collected_signature": "b8711ad1a380c82a",
-  "content_hash": "56c96f9f0de401d7702ed61f5553a8a4b73ac0aa8b615b4a0ef1a765d4d8d4e3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 32,
+   "chars": 8636
+  },
+  "collected_signature": "5df951da16f0522e",
+  "content_hash": "f071047be33f89ae8436112e9a93841ad471b384f4f1b7847c7806d301444213",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=244419&type=HTML&mobileYn=&efYd=20220829",
   "doc_domain": "law",
   "doc_id": "009285",
@@ -57467,16 +57479,18 @@
   "doc_type": "감사원규칙",
   "emitted_signature": "b8711ad1a380c82a",
   "enforcement_date": "20220829",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T21:03:08.215600+00:00",
-  "last_collected_at": "2026-08-22T21:04:00.363283+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.841866+00:00",
+  "last_collected_at": "2026-10-01T15:23:25.481093+00:00",
   "ministry": "감사원",
   "mst": "244419",
   "name": "국민감사청구ㆍ부패행위신고등처리에관한규칙",
   "payload_law_id": "009285",
+  "prev_name": null,
   "promulgation_date": "20220829",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5df951da16f0522e"
  },
  "law:eflaw:009286": {
@@ -63691,10 +63705,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 32,
-   "chars": 15840
+   "chars": 16282
   },
-  "collected_signature": "d6c7cbe60fc621e2",
-  "content_hash": "ffbb2967844ca8861d4c508bdac5208f3b2342ee6b27de82896317654bafc602",
+  "collected_signature": "5b1c382b48008d7b",
+  "content_hash": "607f8e036508c9b173eb037663159b668e83892d804552ae055144435ffdd726",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290259&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "009811",
@@ -63704,8 +63718,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:54:05.971364+00:00",
-  "last_collected_at": "2026-09-29T15:56:45.437601+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.747611+00:00",
+  "last_collected_at": "2026-10-01T15:25:27.001116+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "290259",
   "name": "국가과학기술 경쟁력 강화를 위한 이공계지원 특별법 시행령",
@@ -101152,8 +101166,13 @@
   "version_signature": "b79820e906316a12"
  },
  "law:eflaw:012575": {
-  "collected_signature": "e0168bfcb32be582",
-  "content_hash": "805746d430815416b8748b2cce03db8c780c34ea808abbb1704396dc93199c9b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 6086
+  },
+  "collected_signature": "bff02eb16060efaf",
+  "content_hash": "a16f797f06a4778827ff9ba13036dab2576d38e76fa2838d1d1b18e140debfe2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272963&type=HTML&mobileYn=&efYd=20250729",
   "doc_domain": "law",
   "doc_id": "012575",
@@ -101161,16 +101180,18 @@
   "doc_type": "총리령",
   "emitted_signature": "e0168bfcb32be582",
   "enforcement_date": "20250729",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T21:52:10.526607+00:00",
-  "last_collected_at": "2026-08-22T21:56:47.914164+00:00",
+  "last_checked_at": "2026-10-01T15:21:42.800624+00:00",
+  "last_collected_at": "2026-10-01T15:24:08.565638+00:00",
   "ministry": "국가정보원,국무조정실",
   "mst": "272963",
   "name": "국민보호와 공공안전을 위한 테러방지법 시행규칙",
   "payload_law_id": "012575",
+  "prev_name": null,
   "promulgation_date": "20250729",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bff02eb16060efaf"
  },
  "law:eflaw:012578": {
