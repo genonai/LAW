@@ -79096,8 +79096,13 @@
   "version_signature": "e2485db4411e2575"
  },
  "law:eflaw:010883": {
-  "collected_signature": "2a2829c14f3a24b9",
-  "content_hash": "883c014a5a2b11fd6723010b70c1220e2584af0a7bd1e04ee6c37deb1e40bb7f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 294,
+   "chars": 73031
+  },
+  "collected_signature": "52d786adc83080f3",
+  "content_hash": "a79257af4ebbffba70f9a79b93371abe1dd6101326360a2b86389669feb2f5a7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283313&type=HTML&mobileYn=&efYd=20260806",
   "doc_domain": "law",
   "doc_id": "010883",
@@ -79105,16 +79110,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "2a2829c14f3a24b9",
   "enforcement_date": "20260806",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:19:02.142030+00:00",
-  "last_collected_at": "2026-08-26T11:23:14.180418+00:00",
+  "last_checked_at": "2026-10-01T18:09:15.823812+00:00",
+  "last_collected_at": "2026-10-01T18:13:17.133700+00:00",
   "ministry": "법무부",
   "mst": "283313",
   "name": "형의 집행 및 수용자의 처우에 관한 법률 시행규칙",
   "payload_law_id": "010883",
+  "prev_name": null,
   "promulgation_date": "20260205",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "52d786adc83080f3"
  },
  "law:eflaw:010884": {
@@ -92124,10 +92131,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 53,
-   "chars": 61520
+   "chars": 61646
   },
-  "collected_signature": "fc46d49bea0cff48",
-  "content_hash": "2640ea7f5158a7ab84d702416550f76e59c147386ce06745172f99573eafee9b",
+  "collected_signature": "1e90c47ce8440153",
+  "content_hash": "43277f6ab0251d568fd25ea9c0f9f8802dd5f51d72d5a6c9d0dc9cb351ed6bac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290597&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "011817",
@@ -92137,8 +92144,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-28T15:00:27.567041+00:00",
-  "last_collected_at": "2026-09-28T15:01:27.852546+00:00",
+  "last_checked_at": "2026-10-01T18:09:15.739601+00:00",
+  "last_collected_at": "2026-10-01T18:11:16.758651+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "해양수산부",
   "mst": "290597",
@@ -104283,13 +104290,13 @@
   "version_signature": "c8e7b9640fc41442"
  },
  "law:eflaw:012911": {
-  "attempts": 0,
+  "attempts": 1,
   "body_stats": {
    "articles": 80,
-   "chars": 40375
+   "chars": 39830
   },
-  "collected_signature": "094d0cc7f985c77f",
-  "content_hash": "0653d0d4589c2bef9651a97b236450b7d6a6270b0884ea3a37b585fbc5dcb413",
+  "collected_signature": null,
+  "content_hash": "499f38bd8d28054a327a0af7d597ec09bdaa7a67e3e0e17a1fc0a2add620ca77",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290271&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "012911",
@@ -104297,11 +104304,13 @@
   "doc_type": "대통령령",
   "emitted_signature": "094d0cc7f985c77f",
   "enforcement_date": "20261001",
-  "export_pending": null,
+  "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:52:16.141874+00:00",
-  "last_collected_at": "2026-09-29T19:55:18.367487+00:00",
+  "last_checked_at": "2026-10-01T18:09:16.083231+00:00",
+  "last_collected_at": "2026-10-01T18:12:10.974527+00:00",
   "last_error": "Child Workflow execution failed",
+  "last_git_error": "git commit 실패(rc=128) /workspace/law_ai/data/LAW :: 행정안전부와 그 소속기관 직제/법률 — ex.lock': File exists.\n\nAnother git process seems to be running in this repository, e.g.\nan editor opened by 'git commit'. Please make sure all processes\nare terminated then try again. If it still fails, a git process\nmay have crashed in this repository earlier:\nremove the file manually to continue.",
+  "last_git_error_at": "2026-10-01T18:12:29.338123+00:00",
   "ministry": "행정안전부",
   "mst": "290271",
   "name": "행정안전부와 그 소속기관 직제",
@@ -104430,10 +104439,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 69,
-   "chars": 102614
+   "chars": 102232
   },
-  "collected_signature": "67ad9f37f3d1f6ca",
-  "content_hash": "02a89dd39eebd902b3a1ae34916e1ce0cc5b73a645751e136ff94457d2384edd",
+  "collected_signature": "43e9436d64b46bce",
+  "content_hash": "525854a6d287b39f6f89f06cfd57789bf8af90b0f8026a9b886368d8525ccfe2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290809&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "012925",
@@ -104443,8 +104452,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:52:16.004895+00:00",
-  "last_collected_at": "2026-09-29T19:55:13.835979+00:00",
+  "last_checked_at": "2026-10-01T18:09:16.095592+00:00",
+  "last_collected_at": "2026-10-01T18:12:11.488079+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "행정안전부",
   "mst": "290809",
