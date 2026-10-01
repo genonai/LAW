@@ -358,7 +358,23 @@
             "target_repo": "ADMRUL",
             "target_git_path_guess": "진실·화해를위한과거사정리위원회 직제규칙/진실·화해를위한과거사정리위원회 직제규칙.json",
             "target_git_path": "진실·화해를위한과거사정리위원회 직제규칙/진실·화해를위한과거사정리위원회 직제규칙.json",
-            "target_source_repository": "ADMRUL"
+            "target_source_repository": "ADMRUL",
+            "target_candidate_paths": [
+              {
+                "git_path": "진실ㆍ화해를위한과거사정리위원회 직제규칙/진실·화해를위한과거사정리위원회 직제규칙/진실·화해를위한과거사정리위원회 직제규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:진실화해를위한과거사정리위원회직제규칙:진실화해를위한과거사정리위원회직제규칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20260724"
+              },
+              {
+                "git_path": "진실ㆍ화해를위한과거사정리위원회 직제규칙/진실ㆍ화해를위한과거사정리위원회 직제규칙.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:진실화해를위한과거사정리위원회직제규칙#DOC",
+                "is_current": true,
+                "enforcement_date": "20260724"
+              }
+            ]
           }
         ],
         "revision_type": "전부개정",
