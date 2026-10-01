@@ -304,7 +304,14 @@
         "changed": "N",
         "article_key": "0003021",
         "images": [],
-        "provision_id": "law:통일교육지원법시행령#JO0003_02"
+        "provision_id": "law:통일교육지원법시행령#JO0003_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261001",
+            "change": "개정",
+            "content": "제3조의2(통일교육기본계획 및 시행계획)\n① 통일부장관은 법 제6조제1항에 따른 통일교육기본계획(이하 \"기본계획\"이라 한다)을 수립ㆍ변경하거나 같은 조 제6항에 따른 시행계획을 수립하면 이를 관계 기관 및 단체의 장에게 통보하고, 지체 없이 관보에 고시해야 한다. 이 경우 필요하다고 인정하는 때에는 신문, 방송, 통일부의 인터넷 홈페이지 및 간행물 등에 이를 게재할 수 있다.\n② 법 제6조제3항 단서에서 \"대통령령으로 정하는 경미한 사항을 변경하는 경우\"란 다음 각 호의 경우를 말한다.\n1. 기본계획의 목적 및 방향이 바뀌지 않는 범위에서 통일교육에 관한 세부사업 등을 변경하는 경우\n2. 기본계획의 목적 및 방향에 영향을 미치지 않는 사항으로서 그 변경 근거가 분명한 사항을 변경하는 경우\n3. 단순한 착오, 오기(誤記), 누락 또는 이에 준하는 명백한 오류를 수정하는 경우"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -2003,6 +2010,19 @@
       "source_version_uid": "005299:242155:20220721",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220721"
+    },
+    {
+      "promulgation_date": "20260922",
+      "promulgation_no": "36690",
+      "addendum_key": "2026092236690",
+      "content": "부칙 <제36690호,2026.9.22>\n이 영은 2026년 10월 1일부터 시행한다.",
+      "provision_id": "law:통일교육지원법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289959",
+      "source_version_uid": "005299:289959:20261001",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261001",
+      "enforcement_date": "20261001"
     }
   ],
   "appendices": [
@@ -2229,8 +2249,10 @@
   "provision_id": "law:통일교육지원법시행령#DOC",
   "addendum_provision_id": "law:통일교육지원법시행령#ADDENDUM",
   "amendment_provision_id": "law:통일교육지원법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261001"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "통일교육 지원법/시행령/통일교육 지원법 시행령.json"
 }
