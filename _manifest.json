@@ -5636,8 +5636,13 @@
   "version_signature": "616845ef821a0ff1"
  },
  "law:eflaw:000850": {
-  "collected_signature": "bf0da70963474ccd",
-  "content_hash": "bee4067fce201665e41fb7ec6161919dce45e59db77773faa98a14988817ff74",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 17443
+  },
+  "collected_signature": "017fee8c0d245290",
+  "content_hash": "383faf907e52c40332d3b3278eea8b3bb8451d07f53bbb25714c78213ecf23e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285147&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "000850",
@@ -5645,13 +5650,15 @@
   "doc_type": "법률",
   "emitted_signature": "bf0da70963474ccd",
   "enforcement_date": "20261001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T23:05:19.968171+00:00",
-  "last_collected_at": "2026-08-25T23:08:23.308996+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.972771+00:00",
+  "last_collected_at": "2026-10-01T18:01:27.478287+00:00",
   "ministry": "교육부",
   "mst": "285147",
   "name": "학원의 설립ㆍ운영 및 과외교습에 관한 법률",
   "payload_law_id": "000850",
+  "prev_name": null,
   "promulgation_date": "20260331",
   "status": "done",
   "version_count": 1,
@@ -34830,10 +34837,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 35,
-   "chars": 9866
+   "chars": 10563
   },
-  "collected_signature": "9d3fea187c39ae6d",
-  "content_hash": "2cf5b47f047939428349291a68461cf6db52d1d03b9d8eaa6849444c4d3c68e5",
+  "collected_signature": "709558db76786cfb",
+  "content_hash": "059e0255175dcb3f17c8db5731ef75eb5f19dbbd371854cba2c921afd2144068",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290261&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "005397",
@@ -34843,8 +34850,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:39:00.441847+00:00",
-  "last_collected_at": "2026-09-29T19:40:57.933066+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.992672+00:00",
+  "last_collected_at": "2026-10-01T18:02:04.219843+00:00",
   "ministry": "교육부",
   "mst": "290261",
   "name": "학원의 설립ㆍ운영 및 과외교습에 관한 법률 시행령",
@@ -53888,8 +53895,13 @@
   "version_signature": "6104a24558262bad"
  },
  "law:eflaw:008553": {
-  "collected_signature": "467299645789d608",
-  "content_hash": "9c4feca9d4e5ccf3c9bec9aec2821943e90e39c15bb18af40570e5887b7a817d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 3129
+  },
+  "collected_signature": "2317e9783970c0eb",
+  "content_hash": "7e9cb2453269def243f8978a38181c19270586d2f37f0c98e21a7e5154418cce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264531&type=HTML&mobileYn=&efYd=20240730",
   "doc_domain": "law",
   "doc_id": "008553",
@@ -53897,16 +53909,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "467299645789d608",
   "enforcement_date": "20240730",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:17:37.835856+00:00",
-  "last_collected_at": "2026-08-25T21:18:19.871373+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.801925+00:00",
+  "last_collected_at": "2026-10-01T18:00:21.480016+00:00",
   "ministry": "법무부",
   "mst": "264531",
   "name": "특정범죄신고자 등 보호법 시행규칙",
   "payload_law_id": "008553",
+  "prev_name": null,
   "promulgation_date": "20240730",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2317e9783970c0eb"
  },
  "law:eflaw:008556": {
@@ -54025,8 +54039,8 @@
    "articles": 157,
    "chars": 100010
   },
-  "collected_signature": "c5070b1c14b5d739",
-  "content_hash": "05ef55663c736ebf69a18999c138f49edc673ee4c29590d69501c27f53c8a8fa",
+  "collected_signature": "abd995f1002ab9db",
+  "content_hash": "0294d5fcd0d9204b2b0057d76d8b61bef7d6afbcc17290d12992cfd308fc2e69",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289271&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "008567",
@@ -54036,8 +54050,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:05:09.195286+00:00",
-  "last_collected_at": "2026-09-18T18:15:11.350432+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.966353+00:00",
+  "last_collected_at": "2026-10-01T18:08:25.318017+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "기후에너지환경부",
   "mst": "289271",
@@ -54046,7 +54060,7 @@
   "prev_name": null,
   "promulgation_date": "20260831",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "abd995f1002ab9db"
  },
  "law:eflaw:008570": {
@@ -62171,10 +62185,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 59,
-   "chars": 23101
+   "chars": 23117
   },
-  "collected_signature": "fe0e4db805c00ca0",
-  "content_hash": "691edfb57ec6e9b793bc8c3fd530ccd4447d1a52ec88458d5730925242f10ac3",
+  "collected_signature": "f0477113b80553e6",
+  "content_hash": "79503bb5e6e288ce7b862ef011d5c8746c413b8293cfaab2dcc3576bcc2da8b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290577&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "009656",
@@ -62184,8 +62198,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:42:55.474683+00:00",
-  "last_collected_at": "2026-09-29T19:47:33.249572+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.487969+00:00",
+  "last_collected_at": "2026-10-01T18:05:19.857589+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:36.093080+00:00",
   "ministry": "금융위원회",
@@ -112959,8 +112973,13 @@
   "version_signature": "7fec7becf587521b"
  },
  "law:eflaw:013978": {
-  "collected_signature": "93c71046478bef91",
-  "content_hash": "9f9cfd1d7e8aab1d5061f2fdc8eb1f4cbb73bd381be10c40d0eb2141cfa08951",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 136,
+   "chars": 45938
+  },
+  "collected_signature": "af4ef5d02eddfca1",
+  "content_hash": "a11924e0bf6b505311c9d6032b9831b1cc7a3c60dae52e7632d9147db23c91cd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287777&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "013978",
@@ -112968,16 +112987,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "93c71046478bef91",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:59:21.131655+00:00",
-  "last_collected_at": "2026-08-25T21:01:54.206396+00:00",
+  "last_checked_at": "2026-10-01T17:58:24.965375+00:00",
+  "last_collected_at": "2026-10-01T18:04:47.508784+00:00",
   "ministry": "법무부",
   "mst": "287777",
   "name": "특별사법경찰관리에 대한 검사의 수사지휘 및 특별사법경찰관리의 수사준칙에 관한 규칙",
   "payload_law_id": "013978",
+  "prev_name": null,
   "promulgation_date": "20260630",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "af4ef5d02eddfca1"
  },
  "law:eflaw:013979": {
