@@ -26981,10 +26981,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 132,
-   "chars": 175020
+   "chars": 175090
   },
-  "collected_signature": "b4495314fcd167d2",
-  "content_hash": "5fa00970a3f3f05884367bd6de4474f60e52a5a77d22f5cc7e4b1c5eef922979",
+  "collected_signature": "2936cce29ba5c04e",
+  "content_hash": "8256d820ef8f348c53c47b5ff563a4b86fcb151ae884a385c07a5541679e9def",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290845&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "003814",
@@ -26994,8 +26994,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:28:08.298095+00:00",
-  "last_collected_at": "2026-09-18T16:29:11.708962+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.738563+00:00",
+  "last_collected_at": "2026-10-01T16:15:53.306448+00:00",
   "ministry": "재정경제부",
   "mst": "290845",
   "name": "상속세 및 증여세법 시행령",
@@ -66251,8 +66251,13 @@
   "version_signature": "8e5ef9feaf0ab6bf"
  },
  "law:eflaw:010005": {
-  "collected_signature": "4880b23faafdca15",
-  "content_hash": "b6a4f0a63f7535720afba40e131d686bcac45bfd675bd577d69310666b60c096",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 124,
+   "chars": 51717
+  },
+  "collected_signature": "22796372fbb0f58a",
+  "content_hash": "3647e2ee7b37e83d61935372988af5cfcbbf736fbc296ece97c71075ee9c7600",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285139&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "010005",
@@ -66260,16 +66265,18 @@
   "doc_type": "법률",
   "emitted_signature": "4880b23faafdca15",
   "enforcement_date": "20261001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:16:23.949670+00:00",
-  "last_collected_at": "2026-08-23T22:26:01.731013+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.628400+00:00",
+  "last_collected_at": "2026-10-01T16:03:30.755296+00:00",
   "ministry": "산림청",
   "mst": "285139",
   "name": "산림자원의 조성 및 관리에 관한 법률",
   "payload_law_id": "010005",
+  "prev_name": null,
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "22796372fbb0f58a"
  },
  "law:eflaw:010007": {
@@ -70113,10 +70120,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 118,
-   "chars": 43884
+   "chars": 43994
   },
-  "collected_signature": "1dae8f63b4146a5a",
-  "content_hash": "5bf4063c4a65cdcc2a5e90832c8f4f2d2e51b72a260faa9a05ecb1ede586d3fe",
+  "collected_signature": "83c167582a49f383",
+  "content_hash": "e729f5516a134747b4b54ad11485482c49c0bbb216fbc45e7fb64cbea17be9d0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290585&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "010265",
@@ -70126,8 +70133,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:47:26.741657+00:00",
-  "last_collected_at": "2026-09-29T17:48:31.546787+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.946460+00:00",
+  "last_collected_at": "2026-10-01T16:08:43.191396+00:00",
   "ministry": "산림청",
   "mst": "290585",
   "name": "산림자원의 조성 및 관리에 관한 법률 시행령",
@@ -70956,8 +70963,13 @@
   "version_signature": "4d0a4ed36c02693e"
  },
  "law:eflaw:010317": {
-  "collected_signature": "0a8ada7a11ad95f4",
-  "content_hash": "2c7f03a168bb6ad3654e233908e6955e70fdf122f6c1f7b975f0ebd9015edf51",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 100,
+   "chars": 36574
+  },
+  "collected_signature": "83d3410f796ac71f",
+  "content_hash": "93cb8b61a67273574823a93370b65c34180840124b8b54f52905825c2db231c4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290559&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "010317",
@@ -70965,13 +70977,15 @@
   "doc_type": "농림축산식품부령",
   "emitted_signature": "0a8ada7a11ad95f4",
   "enforcement_date": "20261001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:16:24.230711+00:00",
-  "last_collected_at": "2026-08-23T22:25:30.900123+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.888985+00:00",
+  "last_collected_at": "2026-10-01T16:07:45.959984+00:00",
   "ministry": "산림청",
   "mst": "290559",
   "name": "산림자원의 조성 및 관리에 관한 법률 시행규칙",
   "payload_law_id": "010317",
+  "prev_name": null,
   "promulgation_date": "20261001",
   "status": "done",
   "version_count": 1,
@@ -75427,8 +75441,12 @@
  },
  "law:eflaw:010626": {
   "attempts": 0,
-  "collected_signature": "385cbbf94dab918a",
-  "content_hash": "3eff53c5b9d5318516751f282e533a2abcaea9e028cd653bf284d9ea6217b818",
+  "body_stats": {
+   "articles": 10,
+   "chars": 4734
+  },
+  "collected_signature": "71a89e30261eea32",
+  "content_hash": "2a55baa5bd3e7e3cc977139ea0f6be6c9e8ec8452d5181dcee44f04e3ccc3af5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289163&type=HTML&mobileYn=&efYd=20260901",
   "doc_domain": "law",
   "doc_id": "010626",
@@ -75436,17 +75454,19 @@
   "doc_type": "법무부령",
   "emitted_signature": "385cbbf94dab918a",
   "enforcement_date": "20260901",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:58:30.872277+00:00",
-  "last_collected_at": "2026-09-03T03:59:26.923785+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.892304+00:00",
+  "last_collected_at": "2026-10-01T16:01:31.735008+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부",
   "mst": "289163",
   "name": "사건기록 열람ㆍ등사의 방법 및 수수료 등에 관한 규칙",
   "payload_law_id": "010626",
+  "prev_name": null,
   "promulgation_date": "20260901",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "71a89e30261eea32"
  },
  "law:eflaw:010630": {
@@ -76657,8 +76677,13 @@
   "version_signature": "0e3241a3d9ae998b"
  },
  "law:eflaw:010720": {
-  "collected_signature": "fff1d56713b6aea6",
-  "content_hash": "18a1e37e65e814c3f30e3d09d48eb9c03fe0226e7b027afd3e39262d25b8e614",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 2122
+  },
+  "collected_signature": "3c8e6d449d1db96c",
+  "content_hash": "26701ffab879ea52386b6b3e0fd4b51e07f25bd3eb6baf4e77b22380621be3a4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=86357&type=HTML&mobileYn=&efYd=20080327",
   "doc_domain": "law",
   "doc_id": "010720",
@@ -76666,16 +76691,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "fff1d56713b6aea6",
   "enforcement_date": "20080327",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T21:12:22.845477+00:00",
-  "last_collected_at": "2026-08-23T21:13:47.308874+00:00",
+  "last_checked_at": "2026-10-01T16:00:50.947422+00:00",
+  "last_collected_at": "2026-10-01T16:01:24.233507+00:00",
   "ministry": "법무부",
   "mst": "86357",
   "name": "사면법 시행규칙",
   "payload_law_id": "010720",
+  "prev_name": null,
   "promulgation_date": "20080327",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3c8e6d449d1db96c"
  },
  "law:eflaw:010721": {
