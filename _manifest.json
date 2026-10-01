@@ -13761,10 +13761,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 135,
-   "chars": 30236
+   "chars": 30248
   },
-  "collected_signature": "a076af6d2c364bdf",
-  "content_hash": "b9ec3a328680d58fe31b58c8f61ad6b96580e027c582279ffe5af0f72da0991d",
+  "collected_signature": "f95630baf4ec8788",
+  "content_hash": "6e7f1e4158987cd81cd32c271ee86c414677dace630ab0bf0cf5ea20164af3a7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285179&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "001710",
@@ -13774,8 +13774,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:07:13.532794+00:00",
-  "last_collected_at": "2026-09-29T17:08:43.133448+00:00",
+  "last_checked_at": "2026-10-01T15:36:39.885491+00:00",
+  "last_collected_at": "2026-10-01T15:39:31.461857+00:00",
   "ministry": "대법원",
   "mst": "285179",
   "name": "법원조직법",
@@ -13783,7 +13783,7 @@
   "prev_name": null,
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "f95630baf4ec8788"
  },
  "law:eflaw:001711": {
@@ -46993,8 +46993,13 @@
   "version_signature": "ce8e0ffec4e7fadf"
  },
  "law:eflaw:007211": {
-  "collected_signature": "937a7a09753b0b76",
-  "content_hash": "0acbcf474faa6b5600154d168e22fc5e6034a8f686243b57b1ffe2c760908526",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 6,
+   "chars": 2424
+  },
+  "collected_signature": "6bed80aa13973f0e",
+  "content_hash": "482ec5149c719b5e161bd714f3d83d971b579ab7dcb71dbf102903d1d0fb8f68",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=192674&type=HTML&mobileYn=&efYd=20170321",
   "doc_domain": "law",
   "doc_id": "007211",
@@ -47002,16 +47007,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "937a7a09753b0b76",
   "enforcement_date": "20170321",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:06:49.291291+00:00",
-  "last_collected_at": "2026-08-23T15:07:59.473328+00:00",
+  "last_checked_at": "2026-10-01T15:36:40.320739+00:00",
+  "last_collected_at": "2026-10-01T15:37:16.131941+00:00",
   "ministry": "법무부",
   "mst": "192674",
   "name": "배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙",
   "payload_law_id": "007211",
+  "prev_name": null,
   "promulgation_date": "20170321",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6bed80aa13973f0e"
  },
  "law:eflaw:007215": {
@@ -47038,8 +47045,12 @@
  },
  "law:eflaw:007223": {
   "attempts": 0,
-  "collected_signature": "2a80925bb765cf9c",
-  "content_hash": "a7f638136adb57172008d54f7bacd798497a021f56acde2e13f57434229ea719",
+  "body_stats": {
+   "articles": 56,
+   "chars": 62349
+  },
+  "collected_signature": "ca6f29d40b03bfdd",
+  "content_hash": "adba432e4bef2922adbcd474bc2591a4e58212fa128649a694bc05647e822c7d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289213&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "007223",
@@ -47047,17 +47058,19 @@
   "doc_type": "법무부령",
   "emitted_signature": "2a80925bb765cf9c",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:43:35.645459+00:00",
-  "last_collected_at": "2026-09-03T03:46:45.815572+00:00",
+  "last_checked_at": "2026-10-01T15:36:40.357118+00:00",
+  "last_collected_at": "2026-10-01T15:39:28.870186+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부",
   "mst": "289213",
   "name": "법무부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "007223",
+  "prev_name": null,
   "promulgation_date": "20260828",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ca6f29d40b03bfdd"
  },
  "law:eflaw:007225": {
@@ -69307,8 +69320,13 @@
   "version_signature": "ddf25ac9f115d91b"
  },
  "law:eflaw:010207": {
-  "collected_signature": "41e3a685bbf6bd06",
-  "content_hash": "c9bb6a0908f2b705c2d74d1adb45640b98f310ef0e715eed2cbf7a786c5a81e4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 20,
+   "chars": 8226
+  },
+  "collected_signature": "65ffaaa3e8b7cc24",
+  "content_hash": "8db22d4136846c3518879d03b486d32ee26e17e9a09976bf4af2b9cdd262e55c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284495&type=HTML&mobileYn=&efYd=20260311",
   "doc_domain": "law",
   "doc_id": "010207",
@@ -69316,16 +69334,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "41e3a685bbf6bd06",
   "enforcement_date": "20260311",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:12:33.819036+00:00",
-  "last_collected_at": "2026-08-23T15:15:48.353015+00:00",
+  "last_checked_at": "2026-10-01T15:36:40.071773+00:00",
+  "last_collected_at": "2026-10-01T15:39:15.583034+00:00",
   "ministry": "법무부",
   "mst": "284495",
   "name": "범죄피해자 보호법 시행규칙",
   "payload_law_id": "010207",
+  "prev_name": null,
   "promulgation_date": "20260311",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "65ffaaa3e8b7cc24"
  },
  "law:eflaw:010208": {
@@ -80653,8 +80673,13 @@
   "version_signature": "81733c1ebefbb1bb"
  },
  "law:eflaw:011034": {
-  "collected_signature": "5b2095520968f06e",
-  "content_hash": "0de4430816df3621d338a08af68da48745f012bdd4b7f06600aaa2edf5111375",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 1242
+  },
+  "collected_signature": "4d7dcd3ddeb1c619",
+  "content_hash": "8cc1f92188bc178db63663d97e536d96212c7f52225a9f2e78a17ef80f1e7e78",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=95035&type=HTML&mobileYn=&efYd=20090926",
   "doc_domain": "law",
   "doc_id": "011034",
@@ -80662,16 +80687,18 @@
   "doc_type": "법무부령",
   "emitted_signature": "5b2095520968f06e",
   "enforcement_date": "20090926",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:10:00.245514+00:00",
-  "last_collected_at": "2026-08-23T15:11:16.234891+00:00",
+  "last_checked_at": "2026-10-01T15:36:40.372248+00:00",
+  "last_collected_at": "2026-10-01T15:38:12.603786+00:00",
   "ministry": "법무부",
   "mst": "95035",
   "name": "벌금 미납자의 사회봉사 집행에 관한 특례법 시행규칙",
   "payload_law_id": "011034",
+  "prev_name": null,
   "promulgation_date": "20090626",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4d7dcd3ddeb1c619"
  },
  "law:eflaw:011042": {
@@ -126302,8 +126329,13 @@
   "version_signature": "8b057eb5146c1da5"
  },
  "law:eflaw:014931": {
-  "collected_signature": "1ef2a821be2645f2",
-  "content_hash": "3b832ece4b8f3839060953b2c7560936e8cac0f0cd4a67caecb206ca8c3024c1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 12684
+  },
+  "collected_signature": "4f63741d794f3122",
+  "content_hash": "19a0f92dc76eac66bc8dde4c0ede34361ea55600a4a3b9d6f6d9dd5dae3fa3df",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285177&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "014931",
@@ -126311,16 +126343,18 @@
   "doc_type": "법률",
   "emitted_signature": "1ef2a821be2645f2",
   "enforcement_date": "20261001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:35:22.284301+00:00",
-  "last_collected_at": "2026-08-23T14:36:05.183471+00:00",
+  "last_checked_at": "2026-10-01T15:36:40.321946+00:00",
+  "last_collected_at": "2026-10-01T15:39:17.391313+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "285177",
   "name": "방송미디어통신위원회의 설치 및 운영에 관한 법률",
   "payload_law_id": "014931",
+  "prev_name": null,
   "promulgation_date": "20260331",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4f63741d794f3122"
  },
  "law:eflaw:014932": {
