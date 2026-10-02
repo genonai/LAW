@@ -7974,10 +7974,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 14,
-   "chars": 5722
+   "chars": 5807
   },
-  "collected_signature": "ac662692de2edb4d",
-  "content_hash": "1f33fbe311790bb9e05105abc2b9380cd0d5f499d5a27746784ee8e3a8f771b4",
+  "collected_signature": "d63a6f88cb6cd918",
+  "content_hash": "e3682a9741b533606dbb00f795461d2469eef0f3d10c0297f5b0c88b25f9eb94",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290623&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001129",
@@ -7987,8 +7987,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:58:41.310882+00:00",
-  "last_collected_at": "2026-09-29T19:59:34.556135+00:00",
+  "last_checked_at": "2026-10-02T22:23:34.834107+00:00",
+  "last_collected_at": "2026-10-02T22:24:11.033494+00:00",
   "ministry": "법무부",
   "mst": "290623",
   "name": "형의 실효 등에 관한 법률",
@@ -13428,10 +13428,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 619,
-   "chars": 115013
+   "chars": 118191
   },
-  "collected_signature": "9cc9f3a8feb50675",
-  "content_hash": "43ab1f6874e3ef296cbc9c4074867c84f1df38768e3cd49bdddfe92ebd56a4b2",
+  "collected_signature": "463d10d9df999dce",
+  "content_hash": "56bc45a069e364926860635fde40456503f30f85701dc91ba8c24fcd08ed5e47",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290189&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001671",
@@ -13441,8 +13441,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:58:41.350137+00:00",
-  "last_collected_at": "2026-09-29T19:59:50.758629+00:00",
+  "last_checked_at": "2026-10-02T22:23:34.990098+00:00",
+  "last_collected_at": "2026-10-02T22:27:28.481587+00:00",
   "ministry": "법무부",
   "mst": "290189",
   "name": "형사소송법",
@@ -13450,7 +13450,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "463d10d9df999dce"
  },
  "law:eflaw:001674": {
@@ -39292,8 +39292,13 @@
   "version_signature": "29637479709d5154"
  },
  "law:eflaw:005988": {
-  "collected_signature": "bd102031e512d929",
-  "content_hash": "0d8f5ff087f6bfef98940d63501ba6f3cd524c90367ee6fc2e3ebc436c6622a2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 309,
+   "chars": 61732
+  },
+  "collected_signature": "14afc21aee616417",
+  "content_hash": "676aa7271a91217c470d34dc2f79765521423615f4c733b8a4d119c3addb14ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290807&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "005988",
@@ -39301,16 +39306,18 @@
   "doc_type": "대법원규칙",
   "emitted_signature": "bd102031e512d929",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:52.871507+00:00",
-  "last_collected_at": "2026-08-26T11:18:27.578295+00:00",
+  "last_checked_at": "2026-10-02T22:23:34.929656+00:00",
+  "last_collected_at": "2026-10-02T22:28:50.769249+00:00",
   "ministry": "대법원",
   "mst": "290807",
   "name": "형사소송규칙",
   "payload_law_id": "005988",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "14afc21aee616417"
  },
  "law:eflaw:005989": {
@@ -83336,10 +83343,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 19,
-   "chars": 4363
+   "chars": 4413
   },
-  "collected_signature": "b3cdb9bca846a2c1",
-  "content_hash": "40a8af47a072a990789dbd888b2765de73a6c2c2b882a99ce455d2dd3297d102",
+  "collected_signature": "9ef894f40b2c91ac",
+  "content_hash": "255d00f25ca302719e0c356522f450d5b110fa4a0922e08218a5d5542b56f0fa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290529&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "011196",
@@ -83349,8 +83356,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:56:07.666826+00:00",
-  "last_collected_at": "2026-09-29T19:57:17.445540+00:00",
+  "last_checked_at": "2026-10-02T22:23:35.218163+00:00",
+  "last_collected_at": "2026-10-02T22:25:14.726928+00:00",
   "ministry": "법무부",
   "mst": "290529",
   "name": "형사사법절차 전자화 촉진법 시행령",
@@ -116287,8 +116294,13 @@
   "version_signature": "033ff495c4b663f2"
  },
  "law:eflaw:014169": {
-  "collected_signature": "03d7811ae3e413a3",
-  "content_hash": "268304a78d9bb2e1ca79519659f216fcd44ce5e6c6cbe6623a17cf3769da06a3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 9093
+  },
+  "collected_signature": "c339d249e667fdc4",
+  "content_hash": "4984ccf02b7bcdf9abc02d1c297ded23abf8c8e149293c4f34d6320a19367508",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288629&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014169",
@@ -116296,13 +116308,15 @@
   "doc_type": "법률",
   "emitted_signature": "03d7811ae3e413a3",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:13:55.603781+00:00",
-  "last_collected_at": "2026-08-26T11:17:32.814214+00:00",
+  "last_checked_at": "2026-10-02T22:23:34.932932+00:00",
+  "last_collected_at": "2026-10-02T22:25:39.314329+00:00",
   "ministry": "법무부",
   "mst": "288629",
   "name": "형사사법절차에서의 전자문서 이용 등에 관한 법률",
   "payload_law_id": "014169",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
@@ -124347,10 +124361,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 37,
-   "chars": 17310
+   "chars": 17595
   },
-  "collected_signature": "43d2965bf09b434a",
-  "content_hash": "34fafc624f5939389658a2ed4742b99c96c661611799274c96ee3da8392019ae",
+  "collected_signature": "7b27b386126b5b72",
+  "content_hash": "fd74d70bd27b8f0f626e8f6da5b5176d5a7ca20f7e4c3c0839c3644e9ac7298f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290531&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014751",
@@ -124360,8 +124374,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:58:41.176720+00:00",
-  "last_collected_at": "2026-09-29T20:01:32.446788+00:00",
+  "last_checked_at": "2026-10-02T22:23:35.219717+00:00",
+  "last_collected_at": "2026-10-02T22:27:47.584825+00:00",
   "ministry": "법무부",
   "mst": "290531",
   "name": "형사사법절차에서의 전자문서 이용 등에 관한 법률 시행령",
