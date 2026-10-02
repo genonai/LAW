@@ -213,7 +213,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:사면법시행규칙#JO0003"
+        "provision_id": "law:사면법시행규칙#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(위원의 임명 및 위촉) 위원회의 위원은 다음 각 호의 자 중에서 법무부장관이 임명하거나 위촉한다. <개정 2026.10.1>\n1. 법무부차관, 법무부 기획조정실장ㆍ법무실장ㆍ형사사법국장ㆍ범죄예방정책국장ㆍ교정본부장ㆍ감찰관, 공소청 기획조정부장ㆍ공판송무부장\n2. 판사, 변호사, 법학교수, 그 밖에 학식과 경험이 풍부한 자"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -529,6 +536,19 @@
       "source_version_uid": "010720:86357:20080327",
       "source_revision_type": "제정",
       "version_enforcement_date": "20080327"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01138",
+      "addendum_key": "2026100101138",
+      "content": "부칙 <제1138호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:사면법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290569",
+      "source_version_uid": "010720:290569:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -561,8 +581,10 @@
   "provision_id": "law:사면법시행규칙#DOC",
   "addendum_provision_id": "law:사면법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:사면법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사면법/시행규칙/사면법 시행규칙.json"
 }
