@@ -122,7 +122,14 @@
         "changed": "N",
         "article_key": "0001001",
         "images": [],
-        "provision_id": "law:형집행정지자관찰규정#JO0001"
+        "provision_id": "law:형집행정지자관찰규정#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(형의 집행정지 통지 등)\n①검사는 「형사소송법」 제470조 또는 제471조에 따라 징역, 금고 또는 구류의 선고를 받은 자에 대하여 형의 집행을 정지한 때에는 다음 각 호의 사항을 형의 집행정지처분을 받은 자(이하 \"형집행정지자\"라 한다)의 거주지를 관할하는 경찰서장에게 통지하여야 한다. <개정 2012.4.23>\n1. 등록기준지ㆍ주소ㆍ성명ㆍ연령 및 직업.\n2. 판결법원ㆍ판결 및 판결확정년월일.\n3. 죄명ㆍ형명 및 형기.\n4. 형의 집행정지처분을 한 연월일 및 형의 집행정지사유.\n5. 출소교도소명.\n6. 그 밖에 필요하다고 인정하는 사항.\n②형의 집행정지처분을 한 검사가 형집행정지자의 거주지를 관할하는 지방공소청 또는 지방공소청 지청이 아닌 공소청에 소속된 경우에는 그 검사는 특별한 사유가 있는 경우를 제외하고는 집행정지에 관한 서류를 형집행정지자의 거주지를 관할하는 지방공소청 또는 지방공소청 지청의 검사에게 송부하고, 그 송부를 받은 검사가 제1항의 규정에 의한 통지를 하여야 한다. <개정 1991ㆍ6ㆍ19, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -410,6 +417,19 @@
       "source_version_uid": "005653:243627:20220701",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220701"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:형집행정지자관찰규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290537",
+      "source_version_uid": "005653:290537:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -442,8 +462,10 @@
   "provision_id": "law:형집행정지자관찰규정#DOC",
   "addendum_provision_id": "law:형집행정지자관찰규정#ADDENDUM",
   "amendment_provision_id": "law:형집행정지자관찰규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "형집행정지자관찰규정/법률/형집행정지자관찰규정.json"
 }
