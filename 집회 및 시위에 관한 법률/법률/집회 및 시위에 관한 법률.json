@@ -1822,7 +1822,14 @@
         "changed": "N",
         "article_key": "0022001",
         "images": [],
-        "provision_id": "law:집회및시위에관한법률#JO0022"
+        "provision_id": "law:집회및시위에관한법률#JO0022",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제22조(벌칙)\n①제3조제1항 또는 제2항을 위반한 자는 3년 이하의 징역 또는 300만원 이하의 벌금에 처한다. 다만, 군인ㆍ검사ㆍ중대범죄수사청수사관 또는 경찰관이 제3조제1항 또는 제2항을 위반한 경우에는 5년 이하의 징역에 처한다. <개정 2026.9.29>\n②제5조제1항 또는 제6조제1항을 위반하거나 제8조에 따라 금지를 통고한 집회 또는 시위를 주최한 자는 2년 이하의 징역 또는 200만원 이하의 벌금에 처한다.\n③제5조제2항 또는 제16조제4항을 위반한 자는 1년 이하의 징역 또는 100만원 이하의 벌금에 처한다.\n④그 사실을 알면서 제5조제1항을 위반한 집회 또는 시위에 참가한 자는 6개월 이하의 징역 또는 50만원 이하의 벌금ㆍ구류 또는 과료에 처한다."
+          }
+        ]
       },
       {
         "article_no": "제23조",
@@ -2378,6 +2385,19 @@
       "source_version_uid": "000981:283703:20260227",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260227"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22018",
+      "addendum_key": "2026092922018",
+      "content": "부칙 <제22018호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:집회및시위에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290129",
+      "source_version_uid": "000981:290129:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -2411,8 +2431,10 @@
   "provision_id": "law:집회및시위에관한법률#DOC",
   "addendum_provision_id": "law:집회및시위에관한법률#ADDENDUM",
   "amendment_provision_id": "law:집회및시위에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "집회 및 시위에 관한 법률/법률/집회 및 시위에 관한 법률.json"
 }
