@@ -1937,7 +1937,14 @@
         "changed": "N",
         "article_key": "0023001",
         "images": [],
-        "provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#JO0023"
+        "provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#JO0023",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제23조(조사결과의 처리)\n①감사원은 신고사항을 조사한 결과 위법ㆍ부당한 사항이 확인되는 때에는 감사원법이 정한 절차에 따라 관계기관에 처분요구 등을 하여야 한다.\n②감사원은 조사결과 범죄혐의사실이 확인된 때에는 중대범죄수사청, 고위공직자범죄수사처, 경찰 등 수사기관에 고발 또는 수사 의뢰하여야 한다. <개정 2020.7.20, 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제24조",
@@ -2656,6 +2663,19 @@
       "source_version_uid": "009285:244419:20220829",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220829"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "00392",
+      "addendum_key": "2026100100392",
+      "content": "부칙 <제392호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290857",
+      "source_version_uid": "009285:290857:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -2930,8 +2950,10 @@
   "provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#DOC",
   "addendum_provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:국민감사청구부패행위신고등처리에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국민감사청구ㆍ부패행위신고등처리에관한규칙/법률/국민감사청구ㆍ부패행위신고등처리에관한규칙.json"
 }
