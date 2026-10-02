@@ -1658,7 +1658,14 @@
         "changed": "N",
         "article_key": "0011001",
         "images": [],
-        "provision_id": "law:성매매방지및피해자보호등에관한법률#JO0011"
+        "provision_id": "law:성매매방지및피해자보호등에관한법률#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제11조(지원시설의 업무)\n① 일반 지원시설은 다음 각 호의 업무를 수행한다. <개정 2025.10.1, 2026.9.29>\n1. 숙식 제공\n2. 심리적 안정과 피해 회복을 위한 상담 및 치료\n3. 질병치료와 건강관리를 위하여 의료기관에 인도(引渡)하는 등의 의료지원\n4. 검사 또는 수사기관의 「형사소송법」 제245조의13에 따른 사실관계 확인이나 면담 또는 조사와 법원의 증인신문(證人訊問)에의 동행\n5. 「법률구조법」 제8조에 따른 대한법률구조공단 등 관계 기관에 필요한 협조와 지원 요청\n6. 자립ㆍ자활 교육의 실시와 취업정보 제공\n7. 「국민기초생활 보장법」 등 사회보장 관계 법령에 따른 급부(給付)의 수령 지원\n8. 기술교육(위탁교육을 포함한다)\n9. 다른 법률에서 지원시설에 위탁한 사항\n10. 그 밖에 성평등가족부령으로 정하는 사항\n② 청소년 지원시설은 제1항 각 호의 업무 외에 진학을 위한 교육을 제공하거나 교육기관에 취학을 연계하는 업무를 수행한다.\n③ 외국인 지원시설은 제1항제1호부터 제5호까지 및 제9호의 업무와 귀국을 지원하는 업무를 수행한다.\n④ 자립지원 공동생활시설은 다음 각 호의 업무를 수행한다. <개정 2025.10.1>\n1. 숙박 지원\n2. 취업 및 창업을 위한 정보 제공\n3. 그 밖에 사회 적응을 위하여 필요한 지원으로서 성평등가족부령으로 정하는 사항"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -4570,6 +4577,19 @@
       "source_version_uid": "009679:286827:20260609",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260609"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22026",
+      "addendum_key": "2026092922026",
+      "content": "부칙 <제22026호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:성매매방지및피해자보호등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290213",
+      "source_version_uid": "009679:290213:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -4603,8 +4623,10 @@
   "provision_id": "law:성매매방지및피해자보호등에관한법률#DOC",
   "addendum_provision_id": "law:성매매방지및피해자보호등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:성매매방지및피해자보호등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "성매매방지 및 피해자보호 등에 관한 법률/법률/성매매방지 및 피해자보호 등에 관한 법률.json"
 }
