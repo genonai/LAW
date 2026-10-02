@@ -2507,7 +2507,14 @@
         "changed": "N",
         "article_key": "0008001",
         "images": [],
-        "provision_id": "law:방위사업법시행령#JO0008"
+        "provision_id": "law:방위사업법시행령#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(범죄경력조회)\n① 국방부장관 또는 방위사업청장은 법 제6조의2제1항에 따라 범죄경력조회를 요청하는 경우에는 국방부령으로 정하는 범죄경력조회 요청서를 경찰청장이나 지방공소청장(지방공소청 지청장을 포함한다. 이하 이 조에서 같다) 또는 군검찰부의 장에게 제출해야 한다. 이 경우 국방부령으로 정하는 범죄경력조회 대상자의 동의서를 첨부해야 한다. <개정 2026.9.29>\n② 경찰청장, 지방공소청장 및 군검찰부의 장은 법 제6조의2제1항 및 이 조 제1항에 따라 범죄경력조회를 요청받았을 때에는 요청일부터 최근 5년 간 범죄경력조회 대상자의 「군사기밀 보호법」 또는 「방위산업기술 보호법」 위반 행위에 해당하는 죄의 범죄경력을 확인하여 국방부령으로 정하는 범죄경력조회 회신서에 따라 국방부장관 또는 방위사업청장에게 회신해야 한다. <개정 2026.9.29>\n③ 국방부장관 또는 방위사업청장은 법 제6조의2제1항 및 이 조 제1항에 따라 범죄경력조회를 요청하기 위해 필요한 범죄경력조회 대상자의 정보를 해당 방산업체등, 방위산업과 관련없는 일반업체 또는 연구기관에 요청할 수 있다."
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -25462,6 +25469,19 @@
       "source_version_uid": "010126:289173:20260911",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260911"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:방위사업법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290399",
+      "source_version_uid": "010126:290399:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -25587,8 +25607,10 @@
   "provision_id": "law:방위사업법시행령#DOC",
   "addendum_provision_id": "law:방위사업법시행령#ADDENDUM",
   "amendment_provision_id": "law:방위사업법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "방위사업법/시행령/방위사업법 시행령.json"
 }
