@@ -1226,7 +1226,14 @@
         "article_key": "0008001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0008"
+        "provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(신상정보공개심의위원회)\n① 검찰총장, 중대범죄수사청장 및 경찰청장은 제4조에 따른 신상정보 공개 여부에 관한 사항을 심의하기 위하여 신상정보공개심의위원회를 둘 수 있다. <개정 2026.9.29>\n② 신상정보공개심의위원회는 위원장을 포함하여 10인 이내의 위원으로 구성한다.\n③ 신상정보공개심의위원회는 신상정보 공개 여부에 관한 사항을 심의할 때 피의자에게 의견을 진술할 기회를 주어야 한다.\n④ 신상정보공개심의위원회 위원 또는 위원이었던 사람은 심의 과정에서 알게 된 비밀을 외부에 공개하거나 누설하여서는 아니 된다.\n⑤ 신상정보공개심의위원회의 구성 및 운영 등에 관한 구체적인 사항은 검찰총장, 중대범죄수사청장 및 경찰청장이 정한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -1296,6 +1303,19 @@
       "source_version_uid": "014514:255431:20240125",
       "source_revision_type": "제정",
       "version_enforcement_date": "20240125"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22004",
+      "addendum_key": "2026092922004",
+      "content": "부칙 <제22004호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290141",
+      "source_version_uid": "014514:290141:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -1330,8 +1350,10 @@
   "provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#DOC",
   "addendum_provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#ADDENDUM",
   "amendment_provision_id": "law:특정중대범죄피의자등신상정보공개에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "특정중대범죄 피의자 등 신상정보 공개에 관한 법률/법률/특정중대범죄 피의자 등 신상정보 공개에 관한 법률.json"
 }
