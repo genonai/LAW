@@ -29094,10 +29094,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 37,
-   "chars": 15860
+   "chars": 15888
   },
-  "collected_signature": "9e2ae6e010cdc53b",
-  "content_hash": "9a06f72272138a9c4484558ca1fe7e4cb88f28e3a8af55f0eb27253c17ad273d",
+  "collected_signature": "0f28f02172c0ce9e",
+  "content_hash": "95ecdb48f1f3ee0527950450f0b4277c36e9dfb03bed37cb67382914b626f3ca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290465&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "004179",
@@ -29107,8 +29107,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:51.777115+00:00",
-  "last_collected_at": "2026-09-29T18:33:08.419609+00:00",
+  "last_checked_at": "2026-10-02T19:07:38.734533+00:00",
+  "last_collected_at": "2026-10-02T19:10:23.750203+00:00",
   "ministry": "성평등가족부",
   "mst": "290465",
   "name": "양성평등기본법 시행령",
@@ -50451,8 +50451,13 @@
   "version_signature": "2b4aba380717f660"
  },
  "law:eflaw:007771": {
-  "collected_signature": "6507b37b3b8d6e16",
-  "content_hash": "b1a4bd0dd0624fbd8ea07aa86ccca86d693dbca89c96ac6a8cf975dee32ed8cd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 62,
+   "chars": 24630
+  },
+  "collected_signature": "4238ea71c0302ea4",
+  "content_hash": "155fe3eb5fc6a45092db7f1962926a120fbf6b1aec66bfd52c410d4f9fa64185",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290941&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007771",
@@ -50460,13 +50465,15 @@
   "doc_type": "법무부령",
   "emitted_signature": "6507b37b3b8d6e16",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T14:14:07.014505+00:00",
-  "last_collected_at": "2026-08-24T14:18:33.592299+00:00",
+  "last_checked_at": "2026-10-02T19:07:38.851037+00:00",
+  "last_collected_at": "2026-10-02T19:10:11.427035+00:00",
   "ministry": "법무부",
   "mst": "290941",
   "name": "외국인보호규칙",
   "payload_law_id": "007771",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -80069,10 +80076,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 90,
-   "chars": 31945
+   "chars": 32013
   },
-  "collected_signature": "218a4eeeb480e069",
-  "content_hash": "18bf206836cf920068426603f5cb6db5a545bdbd88f6f854dd6c62a30a7486da",
+  "collected_signature": "72e841c8fd74ebce",
+  "content_hash": "1208e710ee5a8ea9ac2c68f56154f98651c2fa503249cd24726c7c5af3a5bfb3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289997&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010947",
@@ -80082,8 +80089,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:52.020791+00:00",
-  "last_collected_at": "2026-09-29T18:33:16.257356+00:00",
+  "last_checked_at": "2026-10-02T19:07:39.069172+00:00",
+  "last_collected_at": "2026-10-02T19:10:33.677318+00:00",
   "ministry": "법무부",
   "mst": "289997",
   "name": "외국법자문사법",
@@ -106944,10 +106951,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 23,
-   "chars": 7047
+   "chars": 7125
   },
-  "collected_signature": "d7f1e4abab3eb044",
-  "content_hash": "d55a8bef6b0f925f2bdbe1f9302ca4bdf81fb6847960dd1bc057608e8dfa69c8",
+  "collected_signature": "46d29f0133cb8ea6",
+  "content_hash": "154453cbedc617aa40b68fcf1943e89ea429e9bf81b1d80ffe117b7fbd818faf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290739&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "013219",
@@ -106957,8 +106964,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:52.169258+00:00",
-  "last_collected_at": "2026-09-29T18:30:43.883188+00:00",
+  "last_checked_at": "2026-10-02T19:07:39.035763+00:00",
+  "last_collected_at": "2026-10-02T19:08:33.662778+00:00",
   "ministry": "성평등가족부",
   "mst": "290739",
   "name": "여성폭력방지기본법",
@@ -106966,7 +106973,7 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "46d29f0133cb8ea6"
  },
  "law:eflaw:013220": {
@@ -108967,10 +108974,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 11,
-   "chars": 5673
+   "chars": 5770
   },
-  "collected_signature": "5cce3e61066849be",
-  "content_hash": "78c0e92ce703ea71547228fb94ae9e4517e2bdb09a0125960878f4ee835a2f00",
+  "collected_signature": "f6e73e394393eae9",
+  "content_hash": "3ea22393f4734d7b6c43a89b8c65d8b53ad0e5c0b440906f0a31af7ba77a6f47",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290467&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "013630",
@@ -108980,8 +108987,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:52.029247+00:00",
-  "last_collected_at": "2026-09-29T18:31:17.447822+00:00",
+  "last_checked_at": "2026-10-02T19:07:39.036743+00:00",
+  "last_collected_at": "2026-10-02T19:09:13.905834+00:00",
   "ministry": "성평등가족부",
   "mst": "290467",
   "name": "여성폭력방지기본법 시행령",
@@ -113223,8 +113230,13 @@
   "version_signature": "90cd5b00ee531d27"
  },
  "law:eflaw:013979": {
-  "collected_signature": "ea23d317fee0b0f3",
-  "content_hash": "b1f33687727fdb5c4f642a1e5065022ccb6906b8b5b57de1bb99abc487d0b3b5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 30,
+   "chars": 8587
+  },
+  "collected_signature": "ec8b43ed7be97090",
+  "content_hash": "1bf2e4b0b9f74779951b0cfbe6a214c047db20839263bd221d80e696b9d1a1ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291025&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "013979",
@@ -113232,13 +113244,15 @@
   "doc_type": "법무부령",
   "emitted_signature": "ea23d317fee0b0f3",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:24:15.758936+00:00",
-  "last_collected_at": "2026-08-24T13:28:37.988751+00:00",
+  "last_checked_at": "2026-10-02T19:07:39.029803+00:00",
+  "last_collected_at": "2026-10-02T19:08:22.005724+00:00",
   "ministry": "법무부",
   "mst": "291025",
   "name": "영장심의위원회 규칙",
   "payload_law_id": "013979",
+  "prev_name": null,
   "promulgation_date": "20261001",
   "status": "done",
   "version_count": 1,
