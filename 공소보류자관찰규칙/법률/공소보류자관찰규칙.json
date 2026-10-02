@@ -87,7 +87,14 @@
         "article_key": "0001001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공소보류자관찰규칙#JO0001"
+        "provision_id": "law:공소보류자관찰규칙#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(목적) 이 영은 「국가보안법」 제20조제3항에 따라 공소보류 결정을 받은 사람에 대한 감시 및 보도에 관한 사항을 규정함을 목적으로 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -165,7 +172,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공소보류자관찰규칙#JO0002"
+        "provision_id": "law:공소보류자관찰규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(고지) 검사는 「국가보안법」 제20조제1항에 따라 공소보류 결정(이하 \"보류결정\"이라 한다)을 한 때에는 공소보류 결정을 받은 사람(이하 \"보류자\"라 한다)에 대하여 이 규칙을 준수할 것을 고지해야 한다."
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -383,7 +397,14 @@
         "article_key": "0009001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공소보류자관찰규칙#JO0009"
+        "provision_id": "law:공소보류자관찰규칙#JO0009",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제9조(공소보류자 명부) 지방공소청장 및 지방공소청 지청장은 공소보류자 명부를 작성 비치하고, 보류자의 동태와 감시 및 보도에 관한 사항을 기재하여야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제10조",
@@ -413,7 +434,14 @@
         "article_key": "0011001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공소보류자관찰규칙#JO0011"
+        "provision_id": "law:공소보류자관찰규칙#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제11조(갱생보호신청) 검사는 주거 및 연고자가 없는 자에 대하여 보류결정을 할 때에는 「보호관찰 등에 관한 법률」 제66조제1항에 따라 보호관찰소의 장, 갱생보호사업 허가를 받은 자 또는 한국법무보호복지공단에 갱생보호 신청을 해야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -536,6 +564,19 @@
       "source_version_uid": "006329:35068:19690823",
       "source_revision_type": "전부개정",
       "version_enforcement_date": "19690823"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01164",
+      "addendum_key": "2026100101164",
+      "content": "부칙 <제1164호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:공소보류자관찰규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290993",
+      "source_version_uid": "006329:290993:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -721,8 +762,10 @@
   "provision_id": "law:공소보류자관찰규칙#DOC",
   "addendum_provision_id": "law:공소보류자관찰규칙#ADDENDUM",
   "amendment_provision_id": "law:공소보류자관찰규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공소보류자관찰규칙/법률/공소보류자관찰규칙.json"
 }
