@@ -3858,7 +3858,14 @@
         "changed": "N",
         "article_key": "0017001",
         "images": [],
-        "provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#JO0017"
+        "provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#JO0017",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제17조(사법ㆍ행정절차 및 서비스에 있어서의 편의 제공 등)\n① 공공기관 및 그 소속원은 법 제26조제8항에 따라 장애인이 사법ㆍ행정절차 및 서비스를 이용하거나 그에 참여하기 위하여 요구할 경우 보조인력, 점자자료, 인쇄물음성출력기기, 한국수어 통역, 대독(代讀), 음성지원시스템, 컴퓨터 등의 필요한 정당한 편의를 제공하여야 하고, 장애인의 장애 유형 및 상태를 고려하여 교정ㆍ구금시설에서 계구(戒具)를 사용하거나 고충 상담, 교도작업 또는 직업능력개발훈련을 실시할 수 있다. <개정 2016.8.2>\n② 사법경찰관이 제1항에 따라 장애인인 피의자를 신문하는 경우에는 「형사소송법」 제244조의5에 따른다. <개정 2026.9.29>\n③ 검사가 제1항에 따라 장애인인 피의자를 상대로 「형사소송법」 제245조의13에 따른 사실관계 확인 또는 면담을 하는 경우에는 같은 법 제244조의5를 준용한다. <신설 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제18조",
@@ -4796,6 +4803,19 @@
       "source_version_uid": "010745:282443:20260122",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260122"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290475",
+      "source_version_uid": "010745:290475:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -5167,8 +5187,10 @@
   "provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#DOC",
   "addendum_provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:장애인차별금지및권리구제등에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "장애인차별금지 및 권리구제 등에 관한 법률/시행령/장애인차별금지 및 권리구제 등에 관한 법률 시행령.json"
 }
