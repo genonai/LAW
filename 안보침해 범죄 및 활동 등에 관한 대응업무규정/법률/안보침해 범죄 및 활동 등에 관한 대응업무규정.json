@@ -517,7 +517,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:안보침해범죄및활동등에관한대응업무규정#JO0002"
+        "provision_id": "law:안보침해범죄및활동등에관한대응업무규정#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(정의) 이 영에서 사용하는 용어의 뜻은 다음과 같다. <개정 2026.7.28, 2026.9.29>\n1. \"대응업무\"란 국가정보원이 다음 각 목의 정보와 관련하여 「국가정보원법」(이하 \"법\"이라 한다) 제4조제1항제1호 각 목 외의 부분 및 같은 항 제3호에 따라 수행하는 직무활동을 말한다.\n가. 법 제4조제1항제1호가목에 따른 정보 중 국가안보, 국익 또는 국민안전에 영향을 미칠 수 있는 모든 활동에 관한 정보\n나. 법 제4조제1항제1호나목에 따른 정보 중 북한에 의하여 또는 북한과 연계하여 이루어지는 모든 활동에 관한 정보\n다. 법 제4조제1항제1호다목 및 라목에 따른 정보\n2. \"유관기관\"이란 국가정보원이 대응업무를 수행하는 과정에서 상호 협력하는 다음 각 목의 기관을 말한다.\n가. 공소청\n나. 중대범죄수사청\n다. 경찰청\n라. 해양경찰청\n마. 국방방첩본부\n바. 국방부조사본부\n사. 그 밖에 대응업무의 효율적 수행을 위해 필요하다고 인정되는 기관으로서 국가정보원장이 지정하는 기관"
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -1581,6 +1588,19 @@
       "source_version_uid": "014549:288391:20260731",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260731"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:안보침해범죄및활동등에관한대응업무규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290463",
+      "source_version_uid": "014549:290463:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1726,8 +1746,10 @@
   "provision_id": "law:안보침해범죄및활동등에관한대응업무규정#DOC",
   "addendum_provision_id": "law:안보침해범죄및활동등에관한대응업무규정#ADDENDUM",
   "amendment_provision_id": "law:안보침해범죄및활동등에관한대응업무규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "안보침해 범죄 및 활동 등에 관한 대응업무규정/법률/안보침해 범죄 및 활동 등에 관한 대응업무규정.json"
 }
