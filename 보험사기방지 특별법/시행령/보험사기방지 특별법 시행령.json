@@ -2323,7 +2323,14 @@
         "article_key": "0003031",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:보험사기방지특별법시행령#JO0003_03"
+        "provision_id": "law:보험사기방지특별법시행령#JO0003_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조의3(입원적정성 심사 기준 등)\n① 「국민건강보험법」 제62조에 따른 건강보험심사평가원(이하 \"건강보험심사평가원\"이라 한다)은 법 제7조제3항 전단에 따라 법 제4조에 따른 보험계약자등의 입원이 적정한 것인지 여부(이하 \"입원적정성\"이라 한다)에 대한 심사 기준을 마련할 때에는 다음 각 호의 사항을 고려해야 한다.\n1. 병력ㆍ건강상태 등 환자 개인의 특성\n2. 입원치료의 유효성, 필요성 및 의학적 타당성\n② 건강보험심사평가원은 법 제7조제3항 전단에 따라 입원적정성에 대한 심사 기준을 마련하거나 변경한 경우에는 그 내용을 건강보험심사평가원의 홈페이지에 공고해야 한다.\n③ 법 제7조제3항 후단에서 \"수사기관 등 대통령령으로 정하는 자\"란 금융위원회 위원장, 「금융위원회의 설치 등에 관한 법률」에 따른 금융감독원 원장(이하 \"금융감독원장\"이라 한다), 검찰총장, 중대범죄수사청장, 경찰청장 및 해양경찰청장을 말한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제3조의4",
@@ -3723,6 +3730,19 @@
       "source_version_uid": "012670:264719:20240814",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240814"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:보험사기방지특별법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290425",
+      "source_version_uid": "012670:290425:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -3796,8 +3816,10 @@
   "provision_id": "law:보험사기방지특별법시행령#DOC",
   "addendum_provision_id": "law:보험사기방지특별법시행령#ADDENDUM",
   "amendment_provision_id": "law:보험사기방지특별법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "보험사기방지 특별법/시행령/보험사기방지 특별법 시행령.json"
 }
