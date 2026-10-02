@@ -67,7 +67,14 @@
         "changed": "N",
         "article_key": "0001001",
         "images": [],
-        "provision_id": "law:공무원보수규정#JO0001"
+        "provision_id": "law:공무원보수규정#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(목적) 이 영은 「국가공무원법」, 「헌법재판소법」, 「외무공무원법」, 「중대범죄수사청 조직 및 운영에 관한 법률」,「경찰공무원법」, 「의무경찰대 설치 및 운영에 관한 법률」, 「소방공무원법」, 「의무소방대설치법」, 「교육공무원법」, 「군인보수법」, 「군무원인사법」, 「국가정보원직원법」 및 「군법무관 임용 등에 관한 법률」에 따라 국가공무원의 보수에 관한 사항을 규정함을 목적으로 한다. <개정 2013.1.9, 2015.11.20, 2016.11.29, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -4353,6 +4360,19 @@
       "source_version_uid": "002298:288433:20260801",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260801"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:공무원보수규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290321",
+      "source_version_uid": "002298:290321:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -6239,8 +6259,10 @@
   "provision_id": "law:공무원보수규정#DOC",
   "addendum_provision_id": "law:공무원보수규정#ADDENDUM",
   "amendment_provision_id": "law:공무원보수규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공무원보수규정/법률/공무원보수규정.json"
 }
