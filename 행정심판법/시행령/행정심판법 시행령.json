@@ -322,7 +322,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:행정심판법시행령#JO0003"
+        "provision_id": "law:행정심판법시행령#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(중앙행정심판위원회에서 심리하지 아니하는 특별지방행정기관의 처분 등) 법 제6조제4항에서 \"대통령령으로 정하는 국가행정기관 소속 특별지방행정기관\"이란 법무부 및 공소청 소속 특별지방행정기관(직근 상급행정기관이나 소관 감독행정기관이 중앙행정기관인 경우는 제외한다)을 말한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -466,7 +473,14 @@
         "changed": "N",
         "article_key": "0005001",
         "images": [],
-        "provision_id": "law:행정심판법시행령#JO0005"
+        "provision_id": "law:행정심판법시행령#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제5조(일부 행정심판위원회의 회의 구성) 다음 각 호의 행정청에 두는 행정심판위원회의 회의는 법 제7조제5항 단서에 따라 위원장과 위원장이 회의마다 지정하는 6명의 위원으로 구성한다. <개정 2013.3.23, 2017.7.26, 2025.10.1, 2026.9.29>\n1. 대통령비서실장\n2. 국가안보실장\n3. 대통령경호처장\n4. 방송미디어통신위원회\n5. 국가정보원장\n6. 제3조에 따른 공소청 소속 특별지방행정기관의 장"
+          }
+        ]
       },
       {
         "article_no": "제6조",
@@ -6636,6 +6650,19 @@
       "source_version_uid": "005621:286953:20260616",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260616"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:행정심판법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290523",
+      "source_version_uid": "005621:290523:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -6669,8 +6696,10 @@
   "provision_id": "law:행정심판법시행령#DOC",
   "addendum_provision_id": "law:행정심판법시행령#ADDENDUM",
   "amendment_provision_id": "law:행정심판법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "행정심판법/시행령/행정심판법 시행령.json"
 }
