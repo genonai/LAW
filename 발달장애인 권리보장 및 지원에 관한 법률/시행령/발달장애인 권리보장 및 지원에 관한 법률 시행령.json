@@ -208,7 +208,14 @@
         "changed": "N",
         "article_key": "0008001",
         "images": [],
-        "provision_id": "law:발달장애인권리보장및지원에관한법률시행령#JO0008"
+        "provision_id": "law:발달장애인권리보장및지원에관한법률시행령#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(전담검사, 전담수사관 및 전담사법경찰관 등에 대한 교육) 검찰총장, 중대범죄수사청장 및 경찰청장은 법 제13조제4항에 따라 전담검사, 전담수사관 및 전담사법경찰관에게, 해양경찰청장 및 제주특별자치도지사는 같은 조 제6항에 따라 경찰공무원 및 자치경찰공무원에게 발달장애인의 특성에 대한 전문지식과 의사소통 방법 및 발달장애인 보호를 위한 수사 및 업무 처리 방법 등에 관한 교육을 실시하는 경우 교육주기, 교육방법 등에 관한 사항은 해당 기관의 장이 정한다. <개정 2017.7.26, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -482,6 +489,19 @@
       "source_version_uid": "012379:273849:20260402",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260402"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:발달장애인권리보장및지원에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290397",
+      "source_version_uid": "012379:290397:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -594,8 +614,10 @@
   "provision_id": "law:발달장애인권리보장및지원에관한법률시행령#DOC",
   "addendum_provision_id": "law:발달장애인권리보장및지원에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:발달장애인권리보장및지원에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "발달장애인 권리보장 및 지원에 관한 법률/시행령/발달장애인 권리보장 및 지원에 관한 법률 시행령.json"
 }
