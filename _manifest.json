@@ -7110,10 +7110,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 26,
-   "chars": 9577
+   "chars": 9603
   },
-  "collected_signature": "0be801858a3035c2",
-  "content_hash": "3b364b192eed6dcd5e9d2e7938875f82154df6847c3f717d939c12585a7fbc67",
+  "collected_signature": "14b4465020c2a65f",
+  "content_hash": "1120c1fc43f34e43f22af2b280c372d2a31707c3ccaba08919850cb57d3ca7d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290129&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "000981",
@@ -7123,8 +7123,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:22:59.175852+00:00",
-  "last_collected_at": "2026-09-29T19:23:33.045574+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.828655+00:00",
+  "last_collected_at": "2026-10-02T21:40:29.290313+00:00",
   "ministry": "경찰청",
   "mst": "290129",
   "name": "집회 및 시위에 관한 법률",
@@ -9685,10 +9685,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 27,
-   "chars": 4007
+   "chars": 4015
   },
-  "collected_signature": "119fdb9c372636f3",
-  "content_hash": "53bb84a47d24c1c5c8ab83c095f153bb021a2ac6881bc7bc1f1803fd25250fcd",
+  "collected_signature": "71cc50ffd2ed7b25",
+  "content_hash": "abde359be3c2011c161d746d6eaf432edd0c93f5af0b8c2db1b2ae1820809c4e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290633&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001292",
@@ -9698,8 +9698,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:17:28.255067+00:00",
-  "last_collected_at": "2026-09-29T19:18:18.833539+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.861599+00:00",
+  "last_collected_at": "2026-10-02T21:40:32.680074+00:00",
   "ministry": "법무부",
   "mst": "290633",
   "name": "집행관법",
@@ -53543,8 +53543,13 @@
   "version_signature": "a798cae6618fc226"
  },
  "law:eflaw:008437": {
-  "collected_signature": "85571fe5258d8fd2",
-  "content_hash": "023e9feb3c837846ba87f1da0feda6cdd628d2699fd8869aaa07129d6348be5f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 16,
+   "chars": 3105
+  },
+  "collected_signature": "8f6f8f7d783dbc49",
+  "content_hash": "c2a14542cd641d2906c56c3b092d42565d4aa7507288d73c651126d47322196b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290909&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "008437",
@@ -53552,13 +53557,15 @@
   "doc_type": "성평등가족부령",
   "emitted_signature": "85571fe5258d8fd2",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:00.595212+00:00",
-  "last_collected_at": "2026-08-25T18:23:42.781085+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.508923+00:00",
+  "last_collected_at": "2026-10-02T21:41:27.203828+00:00",
   "ministry": "성평등가족부",
   "mst": "290909",
   "name": "청소년 보호법 시행규칙",
   "payload_law_id": "008437",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -65469,10 +65476,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 699,
-   "chars": 189593
+   "chars": 189606
   },
-  "collected_signature": "6c478b0f4ea3838f",
-  "content_hash": "dccd0f3e16c5222d44b17778bee368dd11a9bae5aacfdfdf37514ecfd1461a92",
+  "collected_signature": "41eb564c62d56d87",
+  "content_hash": "eef36e2a4e360eaf6c298a970408fa102f071d87deb14c346ffdbe3bef8fdb9c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290631&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "009930",
@@ -65482,8 +65489,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:22:59.459716+00:00",
-  "last_collected_at": "2026-09-29T19:23:58.048986+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.857290+00:00",
+  "last_collected_at": "2026-10-02T21:46:05.133543+00:00",
   "ministry": "법무부",
   "mst": "290631",
   "name": "채무자 회생 및 파산에 관한 법률",
@@ -65491,7 +65498,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "41eb564c62d56d87"
  },
  "law:eflaw:009931": {
@@ -75191,10 +75198,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 61,
-   "chars": 13611
+   "chars": 13626
   },
-  "collected_signature": "0fad4ed7804768ff",
-  "content_hash": "b37598c628cb2b3ab2c39a451b8e2e48110f66174d2d967094ba6069e2b66c02",
+  "collected_signature": "fe525f3c6ca79118",
+  "content_hash": "2aa94f9da00ae4561489310825720444fa5b7b37018c9ed087a74230dc08a388",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290635&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010592",
@@ -75204,8 +75211,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:17:28.099720+00:00",
-  "last_collected_at": "2026-09-29T19:18:59.795394+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.620889+00:00",
+  "last_collected_at": "2026-10-02T21:41:13.265445+00:00",
   "ministry": "법무부",
   "mst": "290635",
   "name": "질서위반행위규제법",
@@ -75213,7 +75220,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fe525f3c6ca79118"
  },
  "law:eflaw:010593": {
@@ -79544,10 +79551,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 22,
-   "chars": 7903
+   "chars": 7949
   },
-  "collected_signature": "79b6e26bc9003a74",
-  "content_hash": "fd020b4c089b3eb25e40bf9e608dafc35f703935e16fdf85e05ce147fc7d8f23",
+  "collected_signature": "4ed12f49205eecc5",
+  "content_hash": "eb15ab334204f6652093b972474f6c55e9502cfbedbf1e21bb37655be2514ba5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290797&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010910",
@@ -79557,8 +79564,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:22:59.490004+00:00",
-  "last_collected_at": "2026-09-29T19:23:53.840661+00:00",
+  "last_checked_at": "2026-10-02T21:39:22.825736+00:00",
+  "last_collected_at": "2026-10-02T21:41:09.446326+00:00",
   "ministry": "법무부",
   "mst": "290797",
   "name": "채권의 공정한 추심에 관한 법률",
