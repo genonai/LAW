@@ -14323,10 +14323,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 202,
-   "chars": 69641
+   "chars": 69643
   },
-  "collected_signature": "d226b7a76081fc8a",
-  "content_hash": "66be8a2c92fd8459778cb28c13c41e60e923bfd4a92a921a66a59c37b54739f1",
+  "collected_signature": "8937a6a76119eeaa",
+  "content_hash": "9190a98d41c9c936caa28e63421dd7b76f381b5ad7c7c14818e2f52882eafb7e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290771&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001740",
@@ -14336,8 +14336,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:57:40.662483+00:00",
-  "last_collected_at": "2026-09-29T18:03:27.957009+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.908329+00:00",
+  "last_collected_at": "2026-10-02T18:41:08.019315+00:00",
   "ministry": "해양수산부",
   "mst": "290771",
   "name": "선원법",
@@ -15710,10 +15710,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 75,
-   "chars": 45433
+   "chars": 45479
   },
-  "collected_signature": "655efd39021616e4",
-  "content_hash": "70efcd645da5d3e3de06f723c97326f5f5f8fdcc90984fc6e0a7f571e5ce4ec4",
+  "collected_signature": "2fb3e82572d858bd",
+  "content_hash": "f2e70fb482db630278d7fe06915ea4ab90c60cb8e22a9626023f3e23df8cfb4e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290131&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001860",
@@ -15723,8 +15723,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:57:40.628615+00:00",
-  "last_collected_at": "2026-09-29T18:03:28.958584+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.496084+00:00",
+  "last_collected_at": "2026-10-02T18:41:11.556509+00:00",
   "ministry": "산업통상부",
   "mst": "290131",
   "name": "석유 및 석유대체연료 사업법",
@@ -48884,8 +48884,13 @@
   "version_signature": "018cf3fc0bd302bc"
  },
  "law:eflaw:007471": {
-  "collected_signature": "652afe817a75fd8d",
-  "content_hash": "975b1ab626f16bf77f3fac7e342bd4499674a7c59f94669e6345f7d2afc85e06",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 3159
+  },
+  "collected_signature": "999677f20251f30f",
+  "content_hash": "5d13916804cb61f38ccd1ed519e0228357577b4c97ecee71acd33654f244f37d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290939&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007471",
@@ -48893,13 +48898,15 @@
   "doc_type": "해양수산부령",
   "emitted_signature": "652afe817a75fd8d",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:12:38.207288+00:00",
-  "last_collected_at": "2026-08-24T03:15:31.661531+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.813393+00:00",
+  "last_collected_at": "2026-10-02T18:37:51.846835+00:00",
   "ministry": "해양수산부",
   "mst": "290939",
   "name": "선원근로감독관직무규칙",
   "payload_law_id": "007471",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -62505,10 +62512,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 39,
-   "chars": 14201
+   "chars": 14255
   },
-  "collected_signature": "2b373d477965ee01",
-  "content_hash": "8e9b7bb3b44a7e8ab91bf76e3dcff5b658409c7287d588e49a9be12ea93b6cfb",
+  "collected_signature": "c9cb08b00f11a005",
+  "content_hash": "63c9aff3a21f174e0a1141fb74fc21f0164f296172f940b10db6452fc5ac5871",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290213&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "009679",
@@ -62518,8 +62525,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:57:40.666998+00:00",
-  "last_collected_at": "2026-09-29T18:00:27.328706+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.489686+00:00",
+  "last_collected_at": "2026-10-02T18:38:59.983018+00:00",
   "ministry": "성평등가족부",
   "mst": "290213",
   "name": "성매매방지 및 피해자보호 등에 관한 법률",
@@ -71262,10 +71269,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 20,
-   "chars": 3065
+   "chars": 3213
   },
-  "collected_signature": "c2ccf21220effcb9",
-  "content_hash": "a83df3c0831930a1278a90303f3d271029bf87f321876a766c300bdf441d6717",
+  "collected_signature": "02c93e43cd5f9fd9",
+  "content_hash": "9f5ea00be732178298f351b535c07cb1ccca7a1349251dbd5a3262a18bac2c6f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290999&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010351",
@@ -71275,8 +71282,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:16:24.169588+00:00",
-  "last_collected_at": "2026-10-01T16:16:52.831500+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.494597+00:00",
+  "last_collected_at": "2026-10-02T18:37:25.434480+00:00",
   "ministry": "법무부",
   "mst": "290999",
   "name": "선거범죄 신고포상금 지급에 관한 규칙",
@@ -111118,10 +111125,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 12,
-   "chars": 2246
+   "chars": 2267
   },
-  "collected_signature": "f8f0fe01252e3806",
-  "content_hash": "011a4421091cc9b8315b379f256520b4f01b99c2228b0d98c1c476b8ba0379b8",
+  "collected_signature": "776d2615fe6d76b6",
+  "content_hash": "ef28f7549fc7f780d619b9173bdc0dcaaf26692015bd3707d578835457a6e950",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290439&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "013802",
@@ -111131,8 +111138,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:47:26.768788+00:00",
-  "last_collected_at": "2026-09-29T17:48:12.867092+00:00",
+  "last_checked_at": "2026-10-02T18:36:59.575768+00:00",
+  "last_collected_at": "2026-10-02T18:37:45.351631+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290439",
   "name": "상생조정위원회의 설치 및 운영에 관한 규정",
