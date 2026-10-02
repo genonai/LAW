@@ -277,7 +277,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#JO0003"
+        "provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(발급 업무 수행)\n① 공문서에 대한 아포스티유 및 본부영사확인서 발급 업무는 재외동포청장이 수행한다. <개정 2023.4.5>\n② 제1항에도 불구하고 다음 각 호의 어느 하나에 해당하는 공문서에 대한 아포스티유 발급 업무는 법무부장관이 수행한다. <개정 2026.9.29>\n1. 법무부 또는 그 소속 기관(공소청, 광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 이 조에서 같다)에서 공무상 작성한 문서\n2. 공증문서\n3. 법무부 또는 그 소속 기관에서 보존하는 재판서 또는 재판을 적은 조서의 등본이나 초본"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -1008,6 +1015,19 @@
       "source_version_uid": "013879:249557:20230605",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20230605"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290335",
+      "source_version_uid": "013879:290335:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -1041,8 +1061,10 @@
   "provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#DOC",
   "addendum_provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#ADDENDUM",
   "amendment_provision_id": "law:공문서에대한아포스티유및본부영사확인서발급에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공문서에 대한 아포스티유 및 본부영사확인서 발급에 관한 규정/법률/공문서에 대한 아포스티유 및 본부영사확인서 발급에 관한 규정.json"
 }
