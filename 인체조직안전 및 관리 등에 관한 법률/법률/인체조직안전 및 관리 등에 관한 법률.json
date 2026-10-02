@@ -3083,7 +3083,14 @@
         "changed": "N",
         "article_key": "0018001",
         "images": [],
-        "provision_id": "law:인체조직안전및관리등에관한법률#JO0018"
+        "provision_id": "law:인체조직안전및관리등에관한법률#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제18조(해부 또는 검시의 우선) 형사소송법 또는 검역법에 의하여 해부 또는 검시를 하여야 하는 경우에는 그 해부 또는 검시전에 조직의 이식을 위한 조직의 채취를 할 수 없다. 다만, 진료를 담당한 의료인이 채취할 조직과 사망의 원인간에 상관관계가 없고 해부 또는 검시를 기다려서는 채취할 시기를 상실할 우려가 있다고 판단하는 경우에는 관할 지방공소청 또는 지방공소청 지청의 검사, 관할 검역소장의 승인과 유족의 동의를 얻어 조직을 채취할 수 있다. <개정 2026.3.24>"
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -7014,6 +7021,19 @@
       "source_version_uid": "009609:261129:20240319",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240319"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <35>까지 생략\n<36> 인체조직안전 및 관리 등에 관한 법률 일부를 다음과 같이 개정한다.\n제18조 단서 중 \"지방검찰청 또는 지방검찰지청\"을 \"지방공소청 또는 지방공소청 지청\"으로 한다.\n<37>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:인체조직안전및관리등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290663",
+      "source_version_uid": "009609:290663:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -7047,8 +7067,10 @@
   "provision_id": "law:인체조직안전및관리등에관한법률#DOC",
   "addendum_provision_id": "law:인체조직안전및관리등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:인체조직안전및관리등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "인체조직안전 및 관리 등에 관한 법률/법률/인체조직안전 및 관리 등에 관한 법률.json"
 }
