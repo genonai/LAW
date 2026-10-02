@@ -3507,10 +3507,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 121,
-   "chars": 61145
+   "chars": 61156
   },
-  "collected_signature": "9eb8441b1326f40a",
-  "content_hash": "efc49d83174b5c8024796a9c72706fa09546eff834bfe9063a78ee2d6f0c1148",
+  "collected_signature": "dd0bc729143ab2a3",
+  "content_hash": "8046577885db56d1045a85ff77b0468558bf984c1bc4c3b3100b9d398af74edd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290693&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "000433",
@@ -3520,8 +3520,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T16:30:00.602496+00:00",
-  "last_collected_at": "2026-09-29T16:34:08.694150+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.677283+00:00",
+  "last_collected_at": "2026-10-02T17:13:10.121035+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "290693",
@@ -3530,7 +3530,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "dd0bc729143ab2a3"
  },
  "law:eflaw:000445": {
@@ -11664,10 +11664,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 233,
-   "chars": 87787
+   "chars": 87828
   },
-  "collected_signature": "deb25a3990bfc7ba",
-  "content_hash": "08dc1367eff05b54fb19517ce92e44fd19cc587c9d7d98c25ed6c7075807ac82",
+  "collected_signature": "8edb5281f804a08c",
+  "content_hash": "c0f0362bf4eff8c6db156f301fbd9cf4ab5acfef95123837c4348fb0042be0ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290695&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001519",
@@ -11677,8 +11677,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T16:30:00.761824+00:00",
-  "last_collected_at": "2026-09-29T16:31:50.142964+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.666128+00:00",
+  "last_collected_at": "2026-10-02T17:15:28.763933+00:00",
   "ministry": "농림축산식품부",
   "mst": "290695",
   "name": "농업협동조합법",
@@ -11686,7 +11686,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8edb5281f804a08c"
  },
  "law:eflaw:001523": {
@@ -14804,10 +14804,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 107,
-   "chars": 37836
+   "chars": 37900
   },
-  "collected_signature": "b9e21dd5a3b79339",
-  "content_hash": "3344ec64ab55ccb01326ef84c29e75b1ec02cb1f0365d597483892ff4568b225",
+  "collected_signature": "ed8f1c5e8050acb6",
+  "content_hash": "3978282a81d25876585bc18be5b996cb992f715a4191942b30c06cf49e9f58bd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290133&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001777",
@@ -14817,8 +14817,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T16:30:00.455987+00:00",
-  "last_collected_at": "2026-09-29T16:34:06.563383+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.715412+00:00",
+  "last_collected_at": "2026-10-02T17:13:45.974406+00:00",
   "ministry": "보건복지부",
   "mst": "290133",
   "name": "노인복지법",
@@ -14826,7 +14826,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ed8f1c5e8050acb6"
  },
  "law:eflaw:001780": {
@@ -87389,8 +87389,13 @@
   "version_signature": "65980fc44244648d"
  },
  "law:eflaw:011491": {
-  "collected_signature": "38fd74391e95c685",
-  "content_hash": "304882a3b0165ab2be92290d15a6b7bb57c54caffa9ce258de5a848889272f6a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 53,
+   "chars": 24208
+  },
+  "collected_signature": "9554ea2993faa50a",
+  "content_hash": "0a843d18a36eaa75ed6480919b223ef48708799446bdde818e440c2c91572f52",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288601&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "011491",
@@ -87398,13 +87403,15 @@
   "doc_type": "법률",
   "emitted_signature": "38fd74391e95c685",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T07:39:50.587619+00:00",
-  "last_collected_at": "2026-08-23T07:46:55.823065+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.676472+00:00",
+  "last_collected_at": "2026-10-02T17:11:25.816199+00:00",
   "ministry": "공정거래위원회",
   "mst": "288601",
   "name": "대규모유통업에서의 거래 공정화에 관한 법률",
   "payload_law_id": "011491",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
@@ -99620,8 +99627,13 @@
   "version_signature": "0da752b286c64f75"
  },
  "law:eflaw:012417": {
-  "collected_signature": "c9dd88cb6ba72039",
-  "content_hash": "af9bee5253142823d5831ac1f1a199387e8d81ba07893017187fc6478677e283",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 43,
+   "chars": 16964
+  },
+  "collected_signature": "f2aa096f3c6b5985",
+  "content_hash": "7d172f08814cfde88eb112b2e687c261914d687778460903d3724250fb059ccb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288603&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "012417",
@@ -99629,13 +99641,15 @@
   "doc_type": "법률",
   "emitted_signature": "c9dd88cb6ba72039",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T07:47:07.529616+00:00",
-  "last_collected_at": "2026-08-23T07:48:43.760568+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.126644+00:00",
+  "last_collected_at": "2026-10-02T17:10:47.026171+00:00",
   "ministry": "공정거래위원회",
   "mst": "288603",
   "name": "대리점거래의 공정화에 관한 법률",
   "payload_law_id": "012417",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
@@ -127742,8 +127756,13 @@
   "version_signature": "9f49d663d1d8c97c"
  },
  "law:eflaw:015020": {
-  "collected_signature": "8127459bea2ff0b5",
-  "content_hash": "aa936849b2436defcc74c4f38d74824a40775bb4b754ec08794c68a98fc1ce4a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 13,
+   "chars": 2791
+  },
+  "collected_signature": "2b8bb501e019225e",
+  "content_hash": "f5a3ccb0b833d1a87cd02b64999953820d4fbfe420bd2161986d24fd4e1e708a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288599&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015020",
@@ -127751,13 +127770,15 @@
   "doc_type": "법률",
   "emitted_signature": "8127459bea2ff0b5",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T04:31:27.535071+00:00",
-  "last_collected_at": "2026-08-23T04:32:55.633810+00:00",
+  "last_checked_at": "2026-10-02T17:08:33.490878+00:00",
+  "last_collected_at": "2026-10-02T17:09:08.833549+00:00",
   "ministry": "대법원",
   "mst": "288599",
   "name": "내란ㆍ외환ㆍ반란 범죄 등의 형사절차에 관한 특례법",
   "payload_law_id": "015020",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
