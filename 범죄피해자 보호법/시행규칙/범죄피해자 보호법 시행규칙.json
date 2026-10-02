@@ -324,7 +324,14 @@
         "changed": "N",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:범죄피해자보호법시행규칙#JO0002"
+        "provision_id": "law:범죄피해자보호법시행규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(주거지원 신청)\n① 「범죄피해자 보호법 시행령」(이하 \"영\"이라 한다) 제4조제1항에 따라 주거지원을 신청하려는 사람은 별지 제1호서식의 범죄피해자 주거지원 신청서에 다음 각 호의 서류를 첨부하여 그 주소지를 관할하는 「범죄피해자 보호법」(이하 \"법\"이라 한다) 제24조에 따른 범죄피해구조심의회(이하 \"지구심의회\"라 한다)에 제출하여야 한다. <개정 2015.10.2>\n1. 신청인이 범죄피해자의 가족인 경우 가족관계증명서, 주민등록표등본 등 가족관계를 증명할 수 있는 자료\n2. 범죄피해사실을 증명할 수 있는 사망진단서, 상해진단서, 진료기록부, 견적서 등\n3. 그 밖에 주택지원의 필요성을 입증할 수 있는 자료\n② 제1항에 따른 주거지원 신청을 받은 지구심의회가 신청인이 국민임대주택 우선 공급 대상자에 해당한다고 심의ㆍ의결하는 경우 지방공소청장은 해당 신청인에게 별지 제2호서식의 국민임대주택 신청용 범죄피해자 확인증을 발급하여야 한다. <개정 2015.10.2, 2026.10.1>\n③ 지구심의회는 신청인이 「주거기본법」 제18조 등에 따른 매입ㆍ전세 임대주택 지원 대상자에 해당한다고 심의ㆍ의결하는 경우에는 별지 제3호서식에 의하여 법무부장관에게 매입ㆍ전세 임대주택 지원 대상자로 추천하여 줄 것을 의뢰하여야 한다. <개정 2022.2.7>"
+          }
+        ]
       },
       {
         "article_no": "제2조의2",
@@ -3969,6 +3976,19 @@
       "source_version_uid": "010207:284495:20260311",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260311"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01137",
+      "addendum_key": "2026100101137",
+      "content": "부칙 <제1137호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:범죄피해자보호법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290879",
+      "source_version_uid": "010207:290879:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -5126,8 +5146,10 @@
   "provision_id": "law:범죄피해자보호법시행규칙#DOC",
   "addendum_provision_id": "law:범죄피해자보호법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:범죄피해자보호법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "범죄피해자 보호법/시행규칙/범죄피해자 보호법 시행규칙.json"
 }
