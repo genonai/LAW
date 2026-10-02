@@ -280,7 +280,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0002"
+        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(정원) 각 지방공소청 소속 공증인의 정원은 별표 1과 같다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제2조의2",
@@ -619,7 +626,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0003"
+        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(신원보증금의 액등)\n①법 제18조제1항의 규정에 의하여 납부할 신원보증금의 액은 별표 2와 같다. 다만, 인가공증인은 그 공증담당변호사 1인마다 별표 2에 규정한 액의 신원보증금을 납부하여야 한다. <개정 2004.5.10, 2010.2.5>\n②제1항의 규정에 의한 신원보증금은 직접 현금으로 납부하거나 소속 지방공소청 세입세출외현금출납공무원 계좌에 예치할 수 있고, 신원보증금 납부의무자와 소속 지방공소청 세입세출외현금출납공무원의 공동명의로 된 금융기관의 예금증서 또는 신원보증금에 갈음할 수 있는 보증보험증권(법 제19조의 규정에 의한 공고 비용의 납부의무불이행시에 이를 담보하는 것이어야 한다. 이하 이 조에서 같다.)으로 소속 지방공소청에 예치할 수 있다. <개정 2026.10.1>\n③신원보증금을 이에 갈음할 수 있는 보증보험증권으로 예치할 경우에 있어서는 공증인이 공고비용의 납부통지를 받고도 7일이내에 납부하지 아니한 때에 보험회사의 보험금으로 이를 충당한다."
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -692,7 +706,14 @@
         "article_key": "0004001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0004"
+        "provision_id": "law:공증인의정원및신원보증금에관한규칙#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제4조(신원보증금 환부의 공고)\n①법 제19조제1항의 규정에 의한 신원보증금 환부의 공고는 공증인이 소속하는 지방공소청장이 한다. <개정 2026.10.1>\n②제1항의 공고는 관보에 이를 게재하고 일간신문지에 2회이상 게재하여야 한다. <개정 1981.6.19>"
+          }
+        ]
       }
     ]
   },
@@ -804,6 +825,19 @@
       "source_version_uid": "006365:102647:20100207",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20100207"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01146",
+      "addendum_key": "2026100101146",
+      "content": "부칙 <제1146호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:공증인의정원및신원보증금에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290869",
+      "source_version_uid": "006365:290869:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -961,8 +995,10 @@
   "provision_id": "law:공증인의정원및신원보증금에관한규칙#DOC",
   "addendum_provision_id": "law:공증인의정원및신원보증금에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:공증인의정원및신원보증금에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공증인의 정원 및 신원보증금에 관한 규칙/법률/공증인의 정원 및 신원보증금에 관한 규칙.json"
 }
