@@ -606,7 +606,14 @@
         "changed": "N",
         "article_key": "0008001",
         "images": [],
-        "provision_id": "law:공무원인사운영에관한특례규정#JO0008"
+        "provision_id": "law:공무원인사운영에관한특례규정#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(임용권의 위임에 관한 특례) 인사특례운영기관의 장인 소속 장관은 「공무원임용령」 제5조제2항 및 제4항에도 불구하고 소속기관의 장(대학의 장, 특별시ㆍ광역시ㆍ특별자치시ㆍ도ㆍ특별자치도의 교육감, 검찰총장, 광역공소청장 및 지방공소청장과 대학교의 학장을 포함한다)에게 그 소속기관의 3급 이하 공무원의 임용권을 위임할 수 있다. 다만, 3급 이하 5급 이상 공무원의 직위해제, 정직, 강등, 면직, 해임 및 파면과 관련된 권한은 제외한다. <개정 2020.2.25, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제8조의2",
@@ -3282,6 +3289,19 @@
       "source_version_uid": "013627:280215:20251209",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251209"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:공무원인사운영에관한특례규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290315",
+      "source_version_uid": "013627:290315:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -3318,8 +3338,10 @@
   "provision_id": "law:공무원인사운영에관한특례규정#DOC",
   "addendum_provision_id": "law:공무원인사운영에관한특례규정#ADDENDUM",
   "amendment_provision_id": "law:공무원인사운영에관한특례규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공무원 인사 운영에 관한 특례규정/법률/공무원 인사 운영에 관한 특례규정.json"
 }
