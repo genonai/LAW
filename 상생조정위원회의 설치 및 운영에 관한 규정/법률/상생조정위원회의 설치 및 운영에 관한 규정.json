@@ -188,7 +188,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:상생조정위원회의설치및운영에관한규정#JO0003"
+        "provision_id": "law:상생조정위원회의설치및운영에관한규정#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(위원회의 구성)\n① 위원회는 위원장 1명을 포함하여 17명 이내의 위원으로 성별을 고려하여 구성한다.\n② 위원장은 중소벤처기업부장관이 된다.\n③ 위원회의 위원은 다음 각 호의 사람이 된다. <개정 2025.10.1, 2026.9.29>\n1. 중소벤처기업부 제2차관, 지식재산처차장, 공정거래위원회부위원장, 공소청차장검사, 중대범죄수사청차장, 경찰청차장\n2. 중소기업기술분쟁조정ㆍ중재위원회의 위원장\n3. 수ㆍ위탁 분쟁조정협의회의 위원장\n4. 중소기업기술 보호 및 수탁ㆍ위탁거래 공정화에 관하여 전문지식과 경험이 풍부한 사람 중에서 중소벤처기업부장관이 위촉하는 사람\n④ 위원회의 운영을 지원하기 위하여 위원회에 간사 1명을 두되, 간사는 중소벤처기업부의 고위공무원단에 속하는 공무원 중에서 수탁ㆍ위탁거래 공정화 업무를 담당하는 사람이 된다."
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -413,6 +420,19 @@
       "source_version_uid": "013802:277491:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:상생조정위원회의설치및운영에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290439",
+      "source_version_uid": "013802:290439:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -445,8 +465,10 @@
   "provision_id": "law:상생조정위원회의설치및운영에관한규정#DOC",
   "addendum_provision_id": "law:상생조정위원회의설치및운영에관한규정#ADDENDUM",
   "amendment_provision_id": "law:상생조정위원회의설치및운영에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "상생조정위원회의 설치 및 운영에 관한 규정/법률/상생조정위원회의 설치 및 운영에 관한 규정.json"
 }
