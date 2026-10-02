@@ -181,7 +181,14 @@
         "changed": "N",
         "article_key": "0001001",
         "images": [],
-        "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#JO0001"
+        "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(목적) 이 규칙은 「형의 실효 등에 관한 법률」 제2조제4호 및 같은 법 시행령 제2조제4항에 따른 수사자료표를 작성하는 경우 지문을 채취할 피의자의 범위를 정함을 목적으로 한다."
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -272,7 +279,14 @@
         "changed": "N",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#JO0002"
+        "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(지문을 채취할 피의자의 범위)\n①「형의 실효 등에 관한 법률 시행령」 제2조제4항에 따른 수사자료표를 작성하는 경우 지문을 채취할 피의자의 범위는 다음 각 호와 같다. <개정 2026.10.1>\n1. 형법 위반 피의자\n2. 별표에 정하여진 법률 위반 피의자\n②피의자가 제1항 각호의 1에 해당하지 아니하는 경우에도 피의자가 다음 각호의 1에 해당하는 때에는 당해피의자의 지문을 채취한다.\n1. 피의자가 그 신원을 증명하는 자료를 제시하지 아니하거나 제시하지 못하는 때\n2. 피의자가 제시한 자료에 의하여 피의자의 신원을 확인하기 어려운 때\n3. 피의자를 구속하는 때\n4. 수사상 특히 필요하다고 인정하여 피의자의 동의를 얻은 때\n③제1항의 규정에 불구하고 고소 또는 고발사건중 다음 각호의 1의 불기소처분사유에 해당하는 피의자에 대하여는 수사자료표작성과 지문채취를 하지 아니한다. 다만, 피의자가 제2항제1호, 제2호 또는 제4호의 1에 해당하는 때에는 그러하지 아니하다. <신설 1993.12.31, 1995.6.24, 1999.3.30>\n1. 혐의없음\n2. 공소권없음\n3. 죄가안됨\n4. 각하\n5. 참고인중지"
+          }
+        ]
       }
     ]
   },
@@ -336,6 +350,19 @@
       "source_version_uid": "008312:73737:20060424",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20060424"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01139",
+      "addendum_key": "2026100101139",
+      "content": "부칙 <제1139호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290571",
+      "source_version_uid": "008312:290571:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -413,8 +440,10 @@
   "provision_id": "law:지문을채취할형사피의자의범위에관한규칙#DOC",
   "addendum_provision_id": "law:지문을채취할형사피의자의범위에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:지문을채취할형사피의자의범위에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지문을채취할형사피의자의범위에관한규칙/법률/지문을채취할형사피의자의범위에관한규칙.json"
 }
