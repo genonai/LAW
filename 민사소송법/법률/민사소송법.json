@@ -6371,7 +6371,14 @@
         "changed": "N",
         "article_key": "0182001",
         "images": [],
-        "provision_id": "law:민사소송법#JO0182"
+        "provision_id": "law:민사소송법#JO0182",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제182조(구속된 사람 등에게 할 송달) 교도소ㆍ구치소나 경찰서 등 수사기관의 유치장에 체포ㆍ구속 또는 유치(留置)된 사람에게 할 송달은 교도소ㆍ구치소의 장이나 경찰서 등 수사기관의 장에게 한다. <개정 2006.2.21, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제183조",
@@ -10297,7 +10304,14 @@
         "changed": "N",
         "article_key": "0311001",
         "images": [],
-        "provision_id": "law:민사소송법#JO0311"
+        "provision_id": "law:민사소송법#JO0311",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제311조(증인이 출석하지 아니한 경우의 과태료 등)\n①증인이 정당한 사유 없이 출석하지 아니한 때에 법원은 결정으로 증인에게 이로 말미암은 소송비용을 부담하도록 명하고 500만원 이하의 과태료에 처한다.\n②법원은 증인이 제1항의 규정에 따른 과태료의 재판을 받고도 정당한 사유 없이 다시 출석하지 아니한 때에는 결정으로 증인을 7일 이내의 감치(監置)에 처한다.\n③법원은 감치재판기일에 증인을 소환하여 제2항의 정당한 사유가 있는지 여부를 심리하여야 한다.\n④감치에 처하는 재판은 그 재판을 한 법원의 재판장의 명령에 따라 법원공무원 또는 중대범죄수사청수사관ㆍ경찰공무원이 경찰서 등 수사기관의 유치장, 교도소 또는 구치소에 유치함으로써 집행한다. <개정 2006.2.21, 2020.12.22, 2026.9.29>\n⑤감치의 재판을 받은 증인이 제4항에 규정된 감치시설에 유치된 때에는 당해 감치시설의 장은 즉시 그 사실을 법원에 통보하여야 한다.\n⑥법원은 제5항의 통보를 받은 때에는 바로 증인신문기일을 열어야 한다.\n⑦감치의 재판을 받은 증인이 감치의 집행중에 증언을 한 때에는 법원은 바로 감치결정을 취소하고 그 증인을 석방하도록 명하여야 한다.\n⑧제1항과 제2항의 결정에 대하여는 즉시항고를 할 수 있다. 다만, 제447조의 규정은 적용하지 아니한다.\n⑨제2항 내지 제8항의 규정에 따른 재판절차 및 그 집행 그 밖에 필요한 사항은 대법원규칙으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제312조",
@@ -16177,6 +16191,19 @@
       "source_version_uid": "001700:252393:20250712",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250712"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "21993",
+      "addendum_key": "2026092921993",
+      "content": "부칙 <제21993호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:민사소송법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290113",
+      "source_version_uid": "001700:290113:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -16209,8 +16236,10 @@
   "provision_id": "law:민사소송법#DOC",
   "addendum_provision_id": "law:민사소송법#ADDENDUM",
   "amendment_provision_id": "law:민사소송법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "민사소송법/법률/민사소송법.json"
 }
