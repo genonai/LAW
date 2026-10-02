@@ -261,7 +261,14 @@
         "changed": "N",
         "article_key": "0002001",
         "images": [],
-        "provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#JO0002"
+        "provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(포상금심사위원회의 구성) 「국민보호와 공공안전을 위한 테러방지법 시행령」(이하 \"영\"이라 한다) 제30조제3항에서 \"총리령으로 정하는 관계기관\"이란 다음 각 호의 기관을 말한다. <개정 2026.10.1>\n1. 재정경제부, 법무부, 경찰청\n2. 제1호 외에 해당 사건과 관련 있는 중앙행정기관\n3. 국가정보원\n4. 그 밖에 「국민보호와 공공안전을 위한 테러방지법」(이하 \"법\"이라 한다) 제6조에 따른 대테러센터(이하 \"대테러센터\"라 한다)의 장(이하 \"대테러센터장\"이라 한다)이 영 제30조제1항에 따른 포상금심사위원회(이하 \"심사위원회\"라 한다)에 참여할 필요가 있다고 인정하는 기관"
+          }
+        ]
       },
       {
         "article_no": "제3조",
@@ -2615,6 +2622,19 @@
       "source_version_uid": "012575:272963:20250729",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250729"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "02164",
+      "addendum_key": "2026100102164",
+      "content": "부칙 <제2164호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290863",
+      "source_version_uid": "012575:290863:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -3065,8 +3085,10 @@
   "provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#DOC",
   "addendum_provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:국민보호와공공안전을위한테러방지법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국민보호와 공공안전을 위한 테러방지법/시행규칙/국민보호와 공공안전을 위한 테러방지법 시행규칙.json"
 }
