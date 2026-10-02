@@ -3737,7 +3737,14 @@
         "changed": "N",
         "article_key": "0024021",
         "images": [],
-        "provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#JO0024_02"
+        "provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#JO0024_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제24조의2(공소제기 등의 통보) 지방공소청 또는 지방공소청 지청의 장은 다음 각 호의 어느 하나에 해당하는 사건에 대하여 공소를 제기하거나 기소유예 결정을 한 경우로서 해당 사건에 부정청구등이 있다고 인정되는 경우에는 그 사실을 공소제기 또는 기소유예 결정을 한 날부터 10일 이내에 제8조제1항에 따라 부정이익등을 환수하여야 할 행정청에 통보하여야 한다. 이 경우 통보 내용은 부정이익등의 환수에 필요한 부분으로 한정한다. <개정 2026.3.24>\n1. 수사기관이 부정청구등에 따른 범죄혐의가 있다고 인지한 사건\n2. 제17조에 따라 수사기관에 신고된 사건"
+          }
+        ]
       },
       {
         "article_no": "제25조",
@@ -4687,6 +4694,19 @@
       "source_version_uid": "013463:261479:20240927",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240927"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 ④까지 생략\n⑤ 공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률 일부를 다음과 같이 개정한다.\n제24조의2 각 호 외의 부분 전단 중 \"지방검찰청 또는 지방검찰청 지청\"을 \"지방공소청 또는 지방공소청 지청\"으로 한다.\n⑥부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290651",
+      "source_version_uid": "013463:290651:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -4722,8 +4742,10 @@
   "provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#DOC",
   "addendum_provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:공공재정부정청구금지및부정이익환수등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률/법률/공공재정 부정청구 금지 및 부정이익 환수 등에 관한 법률.json"
 }
