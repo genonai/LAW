@@ -12078,7 +12078,14 @@
         "changed": "N",
         "article_key": "0053001",
         "images": [],
-        "provision_id": "law:자동차손해배상보장법#JO0053"
+        "provision_id": "law:자동차손해배상보장법#JO0053",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제53조(통고처분의 효과)\n① 제51조제1항에 따라 범칙금을 낸 자는 그 범칙행위에 대하여 다시 벌 받지 아니한다.\n② 특별사법경찰관리(「사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률」 제5조제35호에 따라 지명받은 공무원을 말한다) 또는 사법경찰관은 다음 각 호의 어느 하나에 해당하는 경우에는 지체 없이 관할 지방공소청 또는 지방공소청 지청에 사건을 송치하여야 한다. <개정 2012.2.22, 2026.3.24>\n1. 제50조제2항 각 호의 어느 하나에 해당하는 경우\n2. 제51조제1항 각 호의 어느 하나에 해당하는 경우\n3. 제52조제1항에 따른 납부기간에 범칙금을 내지 아니한 경우\n4. 제52조제2항에 따라 이의를 제기한 경우"
+          }
+        ]
       }
     ]
   },
@@ -12406,6 +12413,19 @@
       "source_version_uid": "001746:277017:20251001",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20251001"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <36>까지 생략\n<37> 자동차손해배상 보장법 일부를 다음과 같이 개정한다.\n제53조제2항 각 호 외의 부분 중 \"지방검찰청 또는 지방검찰청 지청\"을 \"지방공소청 또는 지방공소청 지청\"으로 한다.\n<38>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:자동차손해배상보장법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290659",
+      "source_version_uid": "001746:290659:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -12440,8 +12460,10 @@
   "provision_id": "law:자동차손해배상보장법#DOC",
   "addendum_provision_id": "law:자동차손해배상보장법#ADDENDUM",
   "amendment_provision_id": "law:자동차손해배상보장법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "자동차손해배상 보장법/법률/자동차손해배상 보장법.json"
 }
