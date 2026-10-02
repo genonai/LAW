@@ -3211,7 +3211,14 @@
         "article_key": "0054001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:질서위반행위규제법#JO0054"
+        "provision_id": "law:질서위반행위규제법#JO0054",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제54조(고액ㆍ상습체납자에 대한 제재)\n① 법원은 검사의 청구에 따라 결정으로 30일의 범위 이내에서 과태료의 납부가 있을 때까지 다음 각 호의 사유에 모두 해당하는 경우 체납자(법인인 경우에는 대표자를 말한다. 이하 이 조에서 같다)를 감치(監置)에 처할 수 있다.\n1. 과태료를 3회 이상 체납하고 있고, 체납발생일부터 각 1년이 경과하였으며, 체납금액의 합계가 1천만원 이상인 체납자 중 대통령령으로 정하는 횟수와 금액 이상을 체납한 경우\n2. 과태료 납부능력이 있음에도 불구하고 정당한 사유 없이 체납한 경우\n② 행정청은 과태료 체납자가 제1항 각 호의 사유에 모두 해당하는 경우에는 관할 지방공소청 또는 지청의 검사에게 체납자의 감치를 신청할 수 있다. <개정 2026.3.24>\n③ 제1항의 결정에 대하여는 즉시항고를 할 수 있다.\n④ 제1항에 따라 감치에 처하여진 과태료 체납자는 동일한 체납사실로 인하여 재차 감치되지 아니한다.\n⑤ 제1항에 따른 감치에 처하는 재판 절차 및 그 집행, 그 밖에 필요한 사항은 대법원규칙으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제55조",
@@ -3597,6 +3604,19 @@
       "source_version_uid": "010592:224847:20210101",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20210101"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <43>까지 생략\n<44> 질서위반행위규제법 일부를 다음과 같이 개정한다.\n제54조제2항 중 \"지방검찰청\"을 \"지방공소청\"으로 한다.\n<45>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:질서위반행위규제법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290635",
+      "source_version_uid": "010592:290635:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -3630,8 +3650,10 @@
   "provision_id": "law:질서위반행위규제법#DOC",
   "addendum_provision_id": "law:질서위반행위규제법#ADDENDUM",
   "amendment_provision_id": "law:질서위반행위규제법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "질서위반행위규제법/법률/질서위반행위규제법.json"
 }
