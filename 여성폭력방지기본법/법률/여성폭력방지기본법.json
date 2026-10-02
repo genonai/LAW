@@ -766,7 +766,14 @@
         "changed": "N",
         "article_key": "0018001",
         "images": [],
-        "provision_id": "law:여성폭력방지기본법#JO0018"
+        "provision_id": "law:여성폭력방지기본법#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제18조(2차 피해 방지)\n① 국가와 지방자치단체는 2차 피해를 방지하기 위하여 2차 피해 방지지침과 업무 관련자 교육 등 필요한 대책을 마련하여야 한다.\n② 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다) 및 수사기관의 장은 여성폭력 사건 담당자 등 업무 관련자를 대상으로 2차 피해 방지교육을 실시하여야 한다. <개정 2026.8.4>\n③ 국가와 지방자치단체는 2차 피해가 발생한 경우 피해를 최소화할 수 있는 조치를 취하여야 한다.\n④ 제2항에 따른 공소청 및 수사기관의 범위와 2차 피해 방지교육에 관하여 필요한 사항은 대통령령으로 정한다. <개정 2026.8.4>"
+          }
+        ]
       },
       {
         "article_no": "제18조의2",
@@ -1266,6 +1273,19 @@
       "source_version_uid": "013219:281961:20260701",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260804",
+      "promulgation_no": "21857",
+      "addendum_key": "2026080421857",
+      "content": "부칙(형사소송법) <제21857호,2026.8.4>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제14조까지 생략\n제15조(다른 법률의 개정) ①부터 <43>까지 생략\n<44> 여성폭력방지기본법 일부를 다음과 같이 개정한다. <신설 2026.9.29>\n제18조제2항 중 \"수사기관\"을 \"공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다) 및 수사기관\"으로 하고, 같은 조 제4항 중 \"수사기관\"을 \"공소청 및 수사기관\"으로 한다.\n<45>부터 <60>까지 생략\n제16조 생략",
+      "provision_id": "law:여성폭력방지기본법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290739",
+      "source_version_uid": "013219:290739:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -1396,8 +1416,10 @@
   "provision_id": "law:여성폭력방지기본법#DOC",
   "addendum_provision_id": "law:여성폭력방지기본법#ADDENDUM",
   "amendment_provision_id": "law:여성폭력방지기본법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "여성폭력방지기본법/법률/여성폭력방지기본법.json"
 }
