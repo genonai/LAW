@@ -438,7 +438,14 @@
         "changed": "N",
         "article_key": "0016001",
         "images": [],
-        "provision_id": "law:비송사건절차법#JO0016"
+        "provision_id": "law:비송사건절차법#JO0016",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제16조(검사에 대한 통지) 법원, 그 밖의 관청, 검사와 공무원은 그 직무상 검사의 청구에 의하여 재판을 하여야 할 경우가 발생한 것을 알았을 때에는 그 사실을 관할법원에 대응한 지방공소청 및 지방공소청 지청 검사에게 통지하여야 한다. <개정 2026.3.24>"
+          }
+        ]
       },
       {
         "article_no": "제17조",
@@ -16296,6 +16303,19 @@
       "source_version_uid": "001699:265395:20250131",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20250131"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <25>까지 생략\n<26> 비송사건절차법 일부를 다음과 같이 개정한다.\n제16조 중 \"검찰청\"을 \"지방공소청 및 지방공소청 지청\"으로 한다.\n<27>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:비송사건절차법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290717",
+      "source_version_uid": "001699:290717:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -16328,8 +16348,10 @@
   "provision_id": "law:비송사건절차법#DOC",
   "addendum_provision_id": "law:비송사건절차법#ADDENDUM",
   "amendment_provision_id": "law:비송사건절차법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "비송사건절차법/법률/비송사건절차법.json"
 }
