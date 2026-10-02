@@ -14982,10 +14982,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 156,
-   "chars": 77689
+   "chars": 77701
   },
-  "collected_signature": "615a1c21474dbd6f",
-  "content_hash": "2f1f7ff667efc24f8341e02d4958c20204656e52601a0f898aff36ad63e7b7df",
+  "collected_signature": "a372e6cc984180a3",
+  "content_hash": "be71c4d548be1bcb17ec603d52d1c373025f732a5a44a8c0d4e7a0afe5c506cf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290667&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001788",
@@ -14995,8 +14995,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:34:58.785160+00:00",
-  "last_collected_at": "2026-09-29T18:39:45.875777+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.493302+00:00",
+  "last_collected_at": "2026-10-02T19:16:48.044962+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "290667",
   "name": "의료법",
@@ -15004,7 +15004,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "a372e6cc984180a3"
  },
  "law:eflaw:001790": {
@@ -29607,10 +29607,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 81,
-   "chars": 39906
+   "chars": 39954
   },
-  "collected_signature": "41836d1bbb6d9df5",
-  "content_hash": "2ca4e4f8a86b52673b1f69f71de0fdb65cb4ce9515d14b3afaad4ae77b3e525e",
+  "collected_signature": "6965f89b92e8e2c1",
+  "content_hash": "cffa4707f4aebf8c06574937a260b632de640eaf9f64027246596b1d6e847118",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290469&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "004280",
@@ -29620,8 +29620,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:51.922363+00:00",
-  "last_collected_at": "2026-09-29T18:34:18.277233+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.146309+00:00",
+  "last_collected_at": "2026-10-02T19:16:38.246420+00:00",
   "ministry": "외교부",
   "mst": "290469",
   "name": "외무공무원임용령",
@@ -51101,8 +51101,13 @@
   "version_signature": "88a02a8098517448"
  },
  "law:eflaw:007876": {
-  "collected_signature": "a195112d05d105b7",
-  "content_hash": "c9d56bd8ffa043057ce8dffc49e5b454a8c07d825ec7331f8495adcbbb26e4f8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 5085
+  },
+  "collected_signature": "e1e5a749c8fd1095",
+  "content_hash": "d21aeb3389343c3377ffaa86434016f495037160d1a0738d149217efde5f2da1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290955&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007876",
@@ -51110,13 +51115,15 @@
   "doc_type": "보건복지부령",
   "emitted_signature": "a195112d05d105b7",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:10:47.114378+00:00",
-  "last_collected_at": "2026-08-24T18:12:35.508003+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.010102+00:00",
+  "last_collected_at": "2026-10-02T19:13:33.377420+00:00",
   "ministry": "보건복지부",
   "mst": "290955",
   "name": "의사상자 등 예우 및 지원에 관한 법률 시행규칙",
   "payload_law_id": "007876",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -57121,10 +57128,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 58,
-   "chars": 18929
+   "chars": 19083
   },
-  "collected_signature": "f186ed6437b1b9de",
-  "content_hash": "ffb04bc003c37d67d3b29abb3b953c4cf52d1eb8d025cff2046b1ed73ed96660",
+  "collected_signature": "0a02820409c689ba",
+  "content_hash": "4c73a746f2a77098ae3428152bb3758a390f1e6573fc6c2ad7338b040c17e89b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290471&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "009250",
@@ -57134,8 +57141,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:34:58.510276+00:00",
-  "last_collected_at": "2026-09-29T18:37:37.900091+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.528675+00:00",
+  "last_collected_at": "2026-10-02T19:13:39.224570+00:00",
   "ministry": "소방청",
   "mst": "290471",
   "name": "의무소방대설치법 시행령",
@@ -126311,10 +126318,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 25,
-   "chars": 11673
+   "chars": 11763
   },
-  "collected_signature": "50bf7dd2012e7626",
-  "content_hash": "f0594e7b5c77a369308f71f9dc22cb0c1e0848d84e6e810c9d871d1b1424c418",
+  "collected_signature": "06edfafdbab57046",
+  "content_hash": "3a778b6b042d06beed617308edf70c138660f58f915715c4ce5b1d5a4edc64bf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290671&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014897",
@@ -126324,8 +126331,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:34:58.513935+00:00",
-  "last_collected_at": "2026-09-29T18:35:49.200446+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.464692+00:00",
+  "last_collected_at": "2026-10-02T19:12:50.192903+00:00",
   "ministry": "법무부",
   "mst": "290671",
   "name": "윤석열 전 대통령 등에 의한 내란ㆍ외환 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
@@ -128004,10 +128011,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 28,
-   "chars": 13898
+   "chars": 14000
   },
-  "collected_signature": "027f4e0fed047b5d",
-  "content_hash": "d6e91f8a712d2529e0ccc92a2194f84b0899a239ee8b9f630672efd98cb97413",
+  "collected_signature": "97289d2cb6a38c32",
+  "content_hash": "63280edb68ad3e4701f8944d0d9cfce2a740b8be115074b4eba3790736f15624",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290677&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015033",
@@ -128017,8 +128024,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:34:58.903661+00:00",
-  "last_collected_at": "2026-09-29T18:36:29.887581+00:00",
+  "last_checked_at": "2026-10-02T19:10:52.315653+00:00",
+  "last_collected_at": "2026-10-02T19:11:56.588653+00:00",
   "ministry": "법무부",
   "mst": "290677",
   "name": "윤석열ㆍ김건희에 의한 내란ㆍ외환 및 국정농단 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률",
