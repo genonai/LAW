@@ -1757,7 +1757,14 @@
         "changed": "N",
         "article_key": "0008031",
         "images": [],
-        "provision_id": "law:공무원징계령#JO0008_03"
+        "provision_id": "law:공무원징계령#JO0008_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조의3(조사ㆍ수사 자료의 범위) 법 제83조제4항 전단에서 \"대통령령으로 정하는 조사ㆍ수사 자료\"란 다음 각 호의 자료를 말한다. <개정 2026.9.29>\n1. 감사원의 조사 자료: 공무원 징계처분 또는 징계부가금 부과처분 요구서, 혐의자ㆍ관련자에 대한 감사보고서, 문답서, 확인서 및 그 밖에 인사혁신처장이 감사원장과 협의하여 정하는 자료\n2. 공소청, 중대범죄수사청ㆍ경찰, 그 밖의 수사기관의 수사 자료 등: 수사개시통보서, 공무원 범죄처분 결과통보서, 공소장, 불기소 결정서, 송치 결정서, 불송치 결정서, 혐의자에 대한 신문조서, 진술서 및 그 밖에 인사혁신처장이 검찰총장, 중대범죄수사청장, 경찰청장 및 그 밖의 수사기관의 장과 협의하여 정하는 자료"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -4291,7 +4298,14 @@
         "changed": "N",
         "article_key": "0023021",
         "images": [],
-        "provision_id": "law:공무원징계령#JO0023_02"
+        "provision_id": "law:공무원징계령#JO0023_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제23조의2(퇴직을 희망하는 공무원의 징계사유 확인 등)\n① 임용권자 또는 임용제청권자는 공무원이 퇴직을 희망하는 경우에는 지체 없이 서면으로 감사원장, 검찰총장, 중대범죄수사청장, 경찰청장 및 그 밖의 수사기관 등의 장에게 해당 공무원이 법 제78조제1항 각 호에 따른 징계사유가 있는지 및 법 제78조의4제2항 각 호의 어느 하나에 해당하는지 여부에 대한 확인을 요청해야 한다. <개정 2026.9.29>\n② 제1항에 따라 확인 요청을 받은 기관의 장은 요청받은 날부터 10일 이내에 임용권자 또는 임용제청권자에게 확인 결과를 서면으로 통보해야 한다.\n③ 제1항 및 제2항에서 규정한 사항 외에 퇴직 제한 절차 등에 필요한 사항은 인사혁신처장이 정한다."
+          }
+        ]
       },
       {
         "article_no": "제24조",
@@ -5064,6 +5078,19 @@
       "source_version_uid": "002324:287529:20260630",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260630"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:공무원징계령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290317",
+      "source_version_uid": "002324:290317:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -5694,8 +5721,10 @@
   "provision_id": "law:공무원징계령#DOC",
   "addendum_provision_id": "law:공무원징계령#ADDENDUM",
   "amendment_provision_id": "law:공무원징계령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공무원 징계령/법률/공무원 징계령.json"
 }
