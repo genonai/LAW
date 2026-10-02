@@ -85,7 +85,14 @@
         "article_key": "0001001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#JO0001"
+        "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(목적) 이 영은 「공소청법」 등 법령에서 10년 이상의 법조경력을 요구하는 공소청 검사급 이상 검사의 범위를 정함을 목적으로 한다."
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -100,7 +107,14 @@
         "article_key": "0002001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#JO0002"
+        "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#JO0002",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제2조(공소청 검사급 이상 검사의 범위)\n① 공소청 검사급 이상 검사는 다음 각 호의 직위에 임용된 검사로 한다.\n1. 검찰총장\n2. 광역공소청장\n3. 공소청 차장검사\n4. 법무연수원장\n5. 「공소청법」 제13조의 공소청 검사\n6. 법무부 기획조정실장, 법무실장, 형사사법국장, 범죄예방정책국장, 감찰관, 출입국ㆍ외국인정책본부장\n7. 지방공소청장\n8. 사법연수원 부원장\n9. 법무연수원 기획부장\n10. 광역공소청 차장검사\n11. 법무연수원 연구위원(제2호부터 제10호까지의 직위에 있다가 임용된 검사로 한정한다)\n② 「공소청법」 제29조제3호에서 \"대통령령으로 정하는 검사\"란 제1항제4호부터 제11호까지의 검사를 말한다."
+          }
+        ]
       }
     ]
   },
@@ -188,6 +202,19 @@
       "source_version_uid": "010391:196436:20170801",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20170801"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290373",
+      "source_version_uid": "010391:290373:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -219,8 +246,10 @@
   "provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#DOC",
   "addendum_provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#ADDENDUM",
   "amendment_provision_id": "law:대검찰청검사급이상검사의보직범위에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "대검찰청 검사급 이상 검사의 보직범위에 관한 규정/법률/대검찰청 검사급 이상 검사의 보직범위에 관한 규정.json"
 }
