@@ -358,7 +358,14 @@
         "changed": "N",
         "article_key": "0008001",
         "images": [],
-        "provision_id": "law:국방부와그소속기관직제#JO0008"
+        "provision_id": "law:국방부와그소속기관직제#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(법무관리관)\n① 법무관리관은 고위공무원단에 속하는 일반직공무원으로 보한다.\n② 법무관리관은 다음 사항에 관하여 차관을 보좌한다. <개정 2010.7.21, 2022.2.22, 2023.4.18, 2026.9.29>\n1. 군 사법제도에 관한 계획 및 그 시행의 지도ㆍ감독\n2. 군사법원의 운영과 군 검찰기관, 군 수사기관 및 군 교도소에 대한 지도ㆍ감독\n3. 일반 사법기관 및 공소청ㆍ수사기관과의 협조\n4. 형의 집행ㆍ사면ㆍ감형ㆍ복권 및 가석방에 관한 사항\n5. 군 보안관찰처분 및 군 사회보호처분에 관한 사항\n6. 군법무관의 선발ㆍ관리 및 군법무관 제도의 개선\n7. 법제ㆍ사법에 관한 대국회 관련 업무\n8. 법령안의 입안ㆍ심사 등 입법 추진 총괄\n9. 국방정책, 외국과의 군사협정에 관한 법적 검토 및 지원\n10. 특별배상심의회의 운영 및 지구배상심의회의 지휘ㆍ감독\n11. 국방부 소관의 국가를 당사자로 하는 소송 및 국방부장관을 상대로 하여 제기된 행정소송의 지휘ㆍ감독\n12. 행정심판ㆍ소청 및 징계에 관한 사항\n13. 부내 규제의 정비 및 규제개혁에 관한 사항\n14. 국내외 계약에 관한 법적 검토 및 관련 심의회 운영\n15. 삭제<2022.2.22>"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -4800,6 +4807,19 @@
       "source_version_uid": "002863:289019:20260828",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260828"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:국방부와그소속기관직제#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290361",
+      "source_version_uid": "002863:290361:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -5028,8 +5048,10 @@
   "provision_id": "law:국방부와그소속기관직제#DOC",
   "addendum_provision_id": "law:국방부와그소속기관직제#ADDENDUM",
   "amendment_provision_id": "law:국방부와그소속기관직제#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국방부와 그 소속기관 직제/법률/국방부와 그 소속기관 직제.json"
 }
