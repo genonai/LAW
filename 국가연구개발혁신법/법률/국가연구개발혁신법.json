@@ -6042,7 +6042,14 @@
         "changed": "N",
         "article_key": "0037001",
         "images": [],
-        "provision_id": "law:국가연구개발혁신법#JO0037"
+        "provision_id": "law:국가연구개발혁신법#JO0037",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제37조(수사기관의 수사 등 개시ㆍ종료 통보) 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다)과 중대범죄수사청ㆍ경찰 등 수사기관의 장은 연구개발기관의 임직원에 대하여 국가연구개발활동과 관련된 사건에 관한 조사나 수사를 시작한 때와 이를 마친 때(공소청의 경우에는 공소제기 여부를 결정한 때를 말한다)에는 10일 이내에 해당 연구개발기관의 장과 소관 중앙행정기관의 장에게 그 사실을 통보하여야 한다. <개정 2026.8.4>"
+          }
+        ]
       },
       {
         "article_no": "제38조",
@@ -6613,6 +6620,19 @@
       "source_version_uid": "013774:283849:20260911",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260911"
+    },
+    {
+      "promulgation_date": "20260804",
+      "promulgation_no": "21857",
+      "addendum_key": "2026080421857",
+      "content": "부칙(형사소송법) <제21857호,2026.8.4>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제14조까지 생략\n제15조(다른 법률의 개정) ①부터 ⑭까지 생략\n⑮ 국가연구개발혁신법 일부를 다음과 같이 개정한다. <신설 2026.9.29>\n제37조 중 \"검찰, 경찰\"을 \"공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다)과 중대범죄수사청ㆍ경찰\"로, \"때에는\"을 \"때(공소청의 경우에는 공소제기 여부를 결정한 때를 말한다)에는\"으로 한다.\n<16>부터 <60>까지 생략\n제16조 생략",
+      "provision_id": "law:국가연구개발혁신법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290757",
+      "source_version_uid": "013774:290757:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -6647,8 +6667,10 @@
   "provision_id": "law:국가연구개발혁신법#DOC",
   "addendum_provision_id": "law:국가연구개발혁신법#ADDENDUM",
   "amendment_provision_id": "law:국가연구개발혁신법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가연구개발혁신법/법률/국가연구개발혁신법.json"
 }
