@@ -1920,10 +1920,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 111,
-   "chars": 57631
+   "chars": 57762
   },
-  "collected_signature": "df8863b8b5a4b7e5",
-  "content_hash": "b0fc31a4d8361522200f783a4f3a24e768fa86b940b98ab9c3632eb964be08f7",
+  "collected_signature": "e317c027e2e474e3",
+  "content_hash": "398785b2e727dfd4dd23885e3c873df4e2583a66a1df5e533ec641c14a9a1024",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290207&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "000190",
@@ -1933,8 +1933,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:20:07.102468+00:00",
-  "last_collected_at": "2026-09-29T18:27:34.003727+00:00",
+  "last_checked_at": "2026-10-02T19:01:55.091523+00:00",
+  "last_collected_at": "2026-10-02T19:07:18.820390+00:00",
   "ministry": "보건복지부",
   "mst": "290207",
   "name": "아동복지법",
@@ -1942,7 +1942,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e317c027e2e474e3"
  },
  "law:eflaw:000191": {
@@ -49887,8 +49887,13 @@
   "version_signature": "fe4b48ccffbf089a"
  },
  "law:eflaw:007661": {
-  "collected_signature": "05c5efc4f95a08e1",
-  "content_hash": "1c2fecbcebad5f1525f3e4b958c0d59366765ab36b9a3de03cae89539f2458d8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 49,
+   "chars": 17850
+  },
+  "collected_signature": "66e2ee893ad70c80",
+  "content_hash": "c3655fcdba32531668e7eed9ab436c3f94dcbed167efe0d1696a10cb664b0bea",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290953&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007661",
@@ -49896,13 +49901,15 @@
   "doc_type": "보건복지부령",
   "emitted_signature": "05c5efc4f95a08e1",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:19:34.801729+00:00",
-  "last_collected_at": "2026-08-24T10:26:03.279614+00:00",
+  "last_checked_at": "2026-10-02T19:01:55.140589+00:00",
+  "last_collected_at": "2026-10-02T19:06:52.544820+00:00",
   "ministry": "보건복지부",
   "mst": "290953",
   "name": "아동복지법 시행규칙",
   "payload_law_id": "007661",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -94134,10 +94141,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 72,
-   "chars": 33917
+   "chars": 34138
   },
-  "collected_signature": "d6970589a54203a8",
-  "content_hash": "5976293411ec40da9f7784bf20afb5c5e450b424c29ccf9c4543fbd90e9826ba",
+  "collected_signature": "353190ef3ea654a1",
+  "content_hash": "8b1d133b7d84854c3d6b8db7a345a9491587173a522499ffab3517397f4c02aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289809&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "011997",
@@ -94147,8 +94154,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:20:06.846838+00:00",
-  "last_collected_at": "2026-09-29T18:26:01.551946+00:00",
+  "last_checked_at": "2026-10-02T19:01:55.092386+00:00",
+  "last_collected_at": "2026-10-02T19:06:51.589702+00:00",
   "ministry": "법무부",
   "mst": "289809",
   "name": "아동학대범죄의 처벌 등에 관한 특례법",
@@ -96056,10 +96063,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 10,
-   "chars": 5888
+   "chars": 5935
   },
-  "collected_signature": "3477ab64996b90a2",
-  "content_hash": "8f367f30459df18a8860ddb32df6ef8a0d3b49ad342d440419289d0c952cb219",
+  "collected_signature": "69182d61b9395ca0",
+  "content_hash": "5522f768cfa46aaf3f8bcfd9d103679fee1986a0d1cadeda7b8c36414c76e807",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290461&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "012146",
@@ -96069,8 +96076,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:20:06.852906+00:00",
-  "last_collected_at": "2026-09-29T18:23:39.921335+00:00",
+  "last_checked_at": "2026-10-02T19:01:54.900579+00:00",
+  "last_collected_at": "2026-10-02T19:05:05.755834+00:00",
   "ministry": "법무부",
   "mst": "290461",
   "name": "아동학대범죄의 처벌 등에 관한 특례법 시행령",
@@ -96107,10 +96114,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 15,
-   "chars": 6713
+   "chars": 6737
   },
-  "collected_signature": "ef3874722ae905e6",
-  "content_hash": "fd4cc59f9ddbac52fa9bb706aed8edb9f368532d5b67f53ff744adff58e7e6f3",
+  "collected_signature": "f656603965f299d3",
+  "content_hash": "66bc6aa8ee04c2e7240bd708850b733e02353ae00dcab1f5a766da6a28a790ed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290573&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "012148",
@@ -96120,8 +96127,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:40:02.619081+00:00",
-  "last_collected_at": "2026-10-01T16:42:48.103873+00:00",
+  "last_checked_at": "2026-10-02T19:01:54.897245+00:00",
+  "last_collected_at": "2026-10-02T19:04:53.094197+00:00",
   "ministry": "법무부",
   "mst": "290573",
   "name": "아동학대범죄의 처벌 등에 관한 특례법 시행규칙",
@@ -121084,10 +121091,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 14,
-   "chars": 4840
+   "chars": 4862
   },
-  "collected_signature": "ce788e22f63826ee",
-  "content_hash": "74e0480ad1926ca76c3093b56a6f32bbfb4d38a94473550b84c85c7f7d83c7b6",
+  "collected_signature": "0e4e7d0917ba809e",
+  "content_hash": "32240a0490c48d4dacf3cfecbb15d5832422fa544ba471bf0527fa9a793b776c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290463&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014549",
@@ -121097,8 +121104,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:29:51.656855+00:00",
-  "last_collected_at": "2026-09-29T18:30:28.333041+00:00",
+  "last_checked_at": "2026-10-02T19:01:54.786732+00:00",
+  "last_collected_at": "2026-10-02T19:02:29.033554+00:00",
   "ministry": "국가정보원",
   "mst": "290463",
   "name": "안보침해 범죄 및 활동 등에 관한 대응업무규정",
