@@ -3936,7 +3936,14 @@
         "article_key": "0008021",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#JO0008_02"
+        "provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#JO0008_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조의2(불복절차)\n① 제8조제1항 또는 제2항에 따른 디엔에이감식시료채취영장에 의하여 디엔에이감식시료가 채취된 대상자는 채취에 관한 처분에 대하여 불복이 있으면 채취가 이루어진 날부터 7일 이내에 그 직무집행지의 관할법원 또는 검사의 소속 공소청(광역공소청, 지방공소청, 지방공소청 지청을 포함한다)에 대응한 법원에 그 처분의 취소를 청구할 수 있다. <개정 2026.3.24>\n② 제1항의 청구는 서면으로 관할 법원에 제출하여야 한다.\n③ 제1항의 청구가 있는 경우에는 「형사소송법」 제409조, 제413조, 제414조 및 제415조의 규정을 준용한다."
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -5070,6 +5077,19 @@
       "source_version_uid": "011143:213449:20200121",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20200121"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <19>까지 생략\n<20> 디엔에이신원확인정보의 이용 및 보호에 관한 법률 일부를 다음과 같이 개정한다.\n제8조의2제1항 중 \"소속검찰청\"을 \"소속 공소청(광역공소청, 지방공소청, 지방공소청 지청을 포함한다)\"으로 한다.\n<21>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290697",
+      "source_version_uid": "011143:290697:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -5103,8 +5123,10 @@
   "provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#DOC",
   "addendum_provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#ADDENDUM",
   "amendment_provision_id": "law:디엔에이신원확인정보의이용및보호에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "디엔에이신원확인정보의 이용 및 보호에 관한 법률/법률/디엔에이신원확인정보의 이용 및 보호에 관한 법률.json"
 }
