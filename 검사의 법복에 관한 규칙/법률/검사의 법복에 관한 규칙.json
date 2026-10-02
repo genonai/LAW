@@ -195,6 +195,19 @@
       "source_version_uid": "006194:240197:20220207",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220207"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01160",
+      "addendum_key": "2026100101160",
+      "content": "부칙 <제1160호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:검사의법복에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290877",
+      "source_version_uid": "006194:290877:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -262,8 +275,10 @@
   "provision_id": "law:검사의법복에관한규칙#DOC",
   "addendum_provision_id": "law:검사의법복에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:검사의법복에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "검사의 법복에 관한 규칙/법률/검사의 법복에 관한 규칙.json"
 }
