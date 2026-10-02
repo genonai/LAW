@@ -489,7 +489,14 @@
         "changed": "N",
         "article_key": "0004001",
         "images": [],
-        "provision_id": "law:지정공증인의사무처리등에관한규칙#JO0004"
+        "provision_id": "law:지정공증인의사무처리등에관한규칙#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제4조(전자서명)\n① 전자문서등에 대한 인증에 사용되는 전자서명은 전자공증시스템에 등록된 공인인증서에 기초한 「전자서명법」 제2조제3호에 따른 공인전자서명으로 하여야 한다.\n② 지정공증인은 법 제20조제1항에 따라 소속 지방공소청장에게 신고한 서명 및 직인(職印)의 인영(印影)과 동일한 이미지를 전자공증시스템에 등록하여야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -2201,6 +2208,19 @@
       "source_version_uid": "011238:240293:20220207",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220207"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01147",
+      "addendum_key": "2026100101147",
+      "content": "부칙 <제1147호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:지정공증인의사무처리등에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290871",
+      "source_version_uid": "011238:290871:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -2310,8 +2330,10 @@
   "provision_id": "law:지정공증인의사무처리등에관한규칙#DOC",
   "addendum_provision_id": "law:지정공증인의사무처리등에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:지정공증인의사무처리등에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "지정공증인의 사무처리 등에 관한 규칙/법률/지정공증인의 사무처리 등에 관한 규칙.json"
 }
