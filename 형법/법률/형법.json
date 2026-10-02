@@ -3250,7 +3250,14 @@
         "changed": "N",
         "article_key": "0124001",
         "images": [],
-        "provision_id": "law:형법#JO0124"
+        "provision_id": "law:형법#JO0124",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제124조(불법체포, 불법감금)\n①재판, 검사직무, 경찰 기타 인신구속에 관한 직무를 행하는 자 또는 이를 보조하는 자가 그 직권을 남용하여 사람을 체포 또는 감금한 때에는 7년 이하의 징역과 10년 이하의 자격정지에 처한다. <개정 2026.9.29>\n②전항의 미수범은 처벌한다."
+          }
+        ]
       },
       {
         "article_no": "제125조",
@@ -3265,7 +3272,14 @@
         "changed": "N",
         "article_key": "0125001",
         "images": [],
-        "provision_id": "law:형법#JO0125"
+        "provision_id": "law:형법#JO0125",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제125조(폭행, 가혹행위) 재판, 검사직무, 경찰 그 밖에 인신구속에 관한 직무를 수행하는 자 또는 이를 보조하는 자가 그 직무를 수행하면서 형사피의자나 그 밖의 사람에 대하여 폭행 또는 가혹행위를 한 경우에는 5년 이하의 징역과 10년 이하의 자격정지에 처한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제126조",
@@ -3280,7 +3294,14 @@
         "changed": "N",
         "article_key": "0126001",
         "images": [],
-        "provision_id": "law:형법#JO0126"
+        "provision_id": "law:형법#JO0126",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제126조(피의사실공표) 검사직무, 경찰 그 밖에 범죄수사에 관한 직무를 수행하는 자 또는 이를 감독하거나 보조하는 자가 그 직무를 수행하면서 알게 된 피의사실을 공소제기 전에 공표(公表)한 경우에는 3년 이하의 징역 또는 5년 이하의 자격정지에 처한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제127조",
@@ -3308,7 +3329,14 @@
         "changed": "N",
         "article_key": "0128001",
         "images": [],
-        "provision_id": "law:형법#JO0128"
+        "provision_id": "law:형법#JO0128",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제128조(선거방해) 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다), 중대범죄수사청, 경찰 또는 군의 직에 있는 공무원이 법령에 의한 선거에 관하여 선거인, 입후보자 또는 입후보자되려는 자에게 협박을 가하거나 기타 방법으로 선거의 자유를 방해한 때에는 10년 이하의 징역과 5년 이상의 자격정지에 처한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제129조",
@@ -13639,6 +13667,19 @@
       "source_version_uid": "001692:284025:20260913",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260913"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22007",
+      "addendum_key": "2026092922007",
+      "content": "부칙 <제22007호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:형법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290185",
+      "source_version_uid": "001692:290185:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -13671,8 +13712,10 @@
   "provision_id": "law:형법#DOC",
   "addendum_provision_id": "law:형법#ADDENDUM",
   "amendment_provision_id": "law:형법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "형법/법률/형법.json"
 }
