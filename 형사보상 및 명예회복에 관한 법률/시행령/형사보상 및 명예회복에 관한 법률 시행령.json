@@ -260,7 +260,14 @@
         "article_key": "0003001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0003"
+        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(피의자보상심의회의 구성) 법 제27조제3항에 따른 피의자보상심의회(이하 \"심의회\"라 한다)는 그 심의회가 설치된 지방공소청의 차장검사를 위원장으로 하고, 다음 각 호의 사람 중에서 법무부장관이 임명하거나 위촉하는 위원 4명으로 구성한다. <개정 2026.9.29>\n1. 해당 지방공소청 소속 공무원\n2. 법관 자격을 가진 사람\n3. 의사"
+          }
+        ]
       },
       {
         "article_no": "제4조",
@@ -323,7 +330,14 @@
         "article_key": "0007001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0007"
+        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0007",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제7조(법무부장관의 지휘ㆍ감독)\n① 법무부장관은 각 심의회를 지휘ㆍ감독하기 위하여 필요한 명령이나 조치를 할 수 있다.\n② 법무부장관은 제1항에 따른 직무를 수행하기 위하여 필요하다고 인정할 때에는 소속 직원 또는 공소청, 광역공소청 또는 지방공소청의 검사로 하여금 각 심의회의 업무처리를 감사(監査)하게 할 수 있다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제8조",
@@ -541,7 +555,14 @@
         "article_key": "0011001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0011"
+        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제11조(피의자 보상 지급의 청구) 제10조제3항에 따른 보상결정통지서를 받은 청구인이 보상금을 받으려면 다음 각 호의 사항을 적은 청구서를 보상결정을 한 심의회가 설치되어 있는 지방공소청에 제출하여야 한다. <개정 2026.9.29>\n1. 청구인의 성명, 주소 및 생년월일\n2. 보상결정의 사건번호 및 결정주문\n3. 청구 연월일"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -651,7 +672,14 @@
         "article_key": "0013001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0013"
+        "provision_id": "law:형사보상및명예회복에관한법률시행령#JO0013",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제13조(전담직원의 지정 등)\n① 법 제30조에 따른 무죄재판사건을 기소한 지방공소청(지방공소청 지청을 포함한다)의 장은 무죄재판서 게재 업무를 담당할 전담직원을 지정할 수 있다. <개정 2026.9.29>\n② 제1항의 전담직원은 무죄재판서 게재에 관한 장부를 작성하고, 매년 1회 이상 그 업무처리 상황을 법무부장관에게 보고하여야 한다."
+          }
+        ]
       }
     ]
   },
@@ -739,6 +767,19 @@
       "source_version_uid": "005651:117324:20111124",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20111124"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:형사보상및명예회복에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290527",
+      "source_version_uid": "005651:290527:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -771,8 +812,10 @@
   "provision_id": "law:형사보상및명예회복에관한법률시행령#DOC",
   "addendum_provision_id": "law:형사보상및명예회복에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:형사보상및명예회복에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "형사보상 및 명예회복에 관한 법률/시행령/형사보상 및 명예회복에 관한 법률 시행령.json"
 }
