@@ -642,7 +642,14 @@
         "article_key": "0004001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#JO0004"
+        "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제4조(포상금의 지급 신청)\n① 포상금을 받으려는 자는 법무부장관이 정하는 바에 따라 포상금 지급 신청서를 관할 지방공소청장(지방공소청 지청장을 포함한다. 이하 같다)에게 제출하여야 한다. <개정 2026.9.29>\n② 제1항에 따른 신청은 「민원 처리에 관한 법률 시행령」 제2조제1항제3호에도 불구하고 익명 또는 가명으로 할 수 있다. 이 경우 그 사유에 관하여 신청을 접수한 관할 지방공소청장의 확인이 있어야 한다. <개정 2016.2.12, 2026.9.29>\n③ 제1항에 따른 신청서를 접수한 관할 지방공소청장은 그 신청서에 법무부장관이 정하는 서류를 첨부하여 법무부장관에게 제출하여야 한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -768,7 +775,14 @@
         "article_key": "0006001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#JO0006"
+        "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제6조(민감정보 및 고유식별정보의 처리) 법무부장관과 지방공소청장은 포상금의 지급에 관한 사무를 처리하기 위하여 불가피한 경우 「개인정보 보호법」 제23조에 따른 민감정보나 같은 법 시행령 제19조제1호부터 제4호까지의 규정에 따른 주민등록번호, 여권번호, 운전면허의 면허번호 또는 외국인등록번호를 처리할 수 있다. <개정 2026.9.29>"
+          }
+        ]
       }
     ]
   },
@@ -808,6 +822,19 @@
       "source_version_uid": "012060:229499:20210217",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20210217"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290405",
+      "source_version_uid": "012060:290405:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -841,8 +868,10 @@
   "provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#DOC",
   "addendum_provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:범죄수익은닉의규제및처벌등에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "범죄수익은닉의 규제 및 처벌 등에 관한 법률/시행령/범죄수익은닉의 규제 및 처벌 등에 관한 법률 시행령.json"
 }
