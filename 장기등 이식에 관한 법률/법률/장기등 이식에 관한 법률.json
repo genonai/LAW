@@ -2760,7 +2760,14 @@
         "changed": "N",
         "article_key": "0024001",
         "images": [],
-        "provision_id": "law:장기등이식에관한법률#JO0024"
+        "provision_id": "law:장기등이식에관한법률#JO0024",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제24조(해부 또는 검시의 우선) 「형사소송법」 또는 「검역법」에 따라 해부 또는 검시를 하여야 하는 경우에는 그 해부 또는 검시를 하기 전에는 이식을 위하여 장기등을 적출할 수 없다. 다만, 진료담당의사가 적출할 장기등이 사망원인과 상관관계가 없고 해부 또는 검시가 끝날 때까지 기다리면 적출 시기를 놓칠 우려가 있다고 판단하는 경우에는 관할 지방공소청 또는 지방공소청 지청의 검사, 관할 검역소장의 승인과 유족의 동의를 받아 장기등을 적출할 수 있다. <개정 2026.3.24>"
+          }
+        ]
       },
       {
         "article_no": "제25조",
@@ -7815,6 +7822,19 @@
       "source_version_uid": "001998:260589:20250821",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250821"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 <37>까지 생략\n<38> 장기등 이식에 관한 법률 일부를 다음과 같이 개정한다.\n제24조 단서 중 \"지방검찰청 또는 지방검찰청지청\"을 \"지방공소청 또는 지방공소청 지청\"으로 한다.\n<39>부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:장기등이식에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290657",
+      "source_version_uid": "001998:290657:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -7848,8 +7868,10 @@
   "provision_id": "law:장기등이식에관한법률#DOC",
   "addendum_provision_id": "law:장기등이식에관한법률#ADDENDUM",
   "amendment_provision_id": "law:장기등이식에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "장기등 이식에 관한 법률/법률/장기등 이식에 관한 법률.json"
 }
