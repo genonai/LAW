@@ -11535,7 +11535,14 @@
         "changed": "N",
         "article_key": "0038041",
         "images": [],
-        "provision_id": "law:석유및석유대체연료사업법#JO0038_04"
+        "provision_id": "law:석유및석유대체연료사업법#JO0038_04",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제38조의4(비밀유지)\n① 다음 각 호의 어느 하나에 해당하는 자는 제38조 및 제38조의2에 따른 보고를 받는 업무를 담당하면서 취득한 정보 또는 자료를 다른 사람 또는 기관에 제공 또는 누설하거나 제29조의 의무위반 여부의 확인을 위한 용도 등 대통령령으로 정하는 목적 외의 용도로 사용하여서는 아니 된다. <개정 2020.10.20>\n1. 제38조 및 제38조의2에 따른 보고를 받는 업무를 담당하는 공무원\n2. 제38조 및 제38조의2에 따른 보고를 받는 업무를 위탁받은 자\n② 제1항에도 불구하고 같은 항 각 호의 어느 하나에 해당하는 자는 다음 각 호에 따라 제38조 및 제38조의2에 따른 업무를 담당하면서 취득한 정보 또는 자료의 제공을 요청받은 경우에는 그 사용 목적에 맞는 범위에서 취득한 정보 또는 자료를 제공할 수 있다. <신설 2020.10.20, 2025.10.1, 2026.9.29>\n1. 국세의 부과ㆍ징수, 조세쟁송 및 조세범 소추를 위하여 「국세기본법」에 따라 해당 세무관서의 장이 요청하는 경우\n2. 범죄의 수사 또는 「형사소송법」 제245조의13에 따른 사실관계 확인을 위하여 같은 법에 따라 해당 수사기관의 장 또는 검사가 요청하는 경우\n3. 통계의 작성을 위하여 「통계법」에 따라 국가데이터처장이 요청하는 경우\n4. 그 밖에 정보 또는 자료 활용의 필요성 및 정보 또는 자료 유출 방지 조치의 안전성을 갖추고 있다고 인정하여 산업통상부령으로 정하는 경우"
+          }
+        ]
       },
       {
         "article_no": "제39조",
@@ -16949,6 +16956,19 @@
       "source_version_uid": "001860:283933:20260310",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260310"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22019",
+      "addendum_key": "2026092922019",
+      "content": "부칙 <제22019호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:석유및석유대체연료사업법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290131",
+      "source_version_uid": "001860:290131:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -18076,8 +18096,10 @@
   "provision_id": "law:석유및석유대체연료사업법#DOC",
   "addendum_provision_id": "law:석유및석유대체연료사업법#ADDENDUM",
   "amendment_provision_id": "law:석유및석유대체연료사업법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "석유 및 석유대체연료 사업법/법률/석유 및 석유대체연료 사업법.json"
 }
