@@ -892,6 +892,19 @@
       "source_version_uid": "010637:202862:20180321",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20180321"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01168",
+      "addendum_key": "2026100101168",
+      "content": "부칙 <제1168호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:전문수사자문위원운영규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290983",
+      "source_version_uid": "010637:290983:20261002",
+      "source_revision_type": "폐지",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1153,8 +1166,14 @@
   "provision_id": "law:전문수사자문위원운영규칙#DOC",
   "addendum_provision_id": "law:전문수사자문위원운영규칙#ADDENDUM",
   "amendment_provision_id": "law:전문수사자문위원운영규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261002",
+    "revision_type": "폐지"
+  },
+  "version_count": 2,
   "git_path": "전문수사자문위원 운영규칙/법률/전문수사자문위원 운영규칙.json"
 }
