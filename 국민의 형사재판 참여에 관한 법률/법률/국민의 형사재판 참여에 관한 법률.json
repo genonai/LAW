@@ -826,7 +826,14 @@
         "article_key": "0018001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:국민의형사재판참여에관한법률#JO0018"
+        "provision_id": "law:국민의형사재판참여에관한법률#JO0018",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제18조(직업 등에 따른 제외사유) 다음 각 호의 어느 하나에 해당하는 사람을 배심원으로 선정하여서는 아니 된다. <개정 2016.5.29, 2026.3.24>\n1. 대통령\n2. 국회의원ㆍ지방자치단체의 장 및 지방의회의원\n3. 입법부ㆍ사법부ㆍ행정부ㆍ헌법재판소ㆍ중앙선거관리위원회ㆍ감사원의 정무직 공무원\n4. 법관ㆍ검사\n5. 변호사ㆍ법무사\n6. 법원ㆍ공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다) 공무원\n7. 중대범죄수사청ㆍ경찰ㆍ교정ㆍ보호관찰 공무원\n8. 군인ㆍ군무원ㆍ소방공무원 또는 「예비군법」에 따라 동원되거나 교육훈련의무를 이행 중인 예비군"
+          }
+        ]
       },
       {
         "article_no": "제19조",
@@ -2366,6 +2373,19 @@
       "source_version_uid": "010458:195047:20170726",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20170726"
+    },
+    {
+      "promulgation_date": "20260324",
+      "promulgation_no": "21490",
+      "addendum_key": "2026032421490",
+      "content": "부칙(공소청법) <제21490호,2026.3.24>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제8조까지 생략\n제9조(다른 법률의 개정) ①부터 ⑪까지 생략\n⑫ 국민의 형사재판 참여에 관한 법률 일부를 다음과 같이 개정한다.\n제18조제6호 중 \"법원ㆍ검찰\"을 \"법원ㆍ공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)\"으로 하고, 같은 조 제7호 중 \"경찰\"을 \"중대범죄수사청ㆍ경찰\"로 한다.\n⑬부터 <51>까지 생략\n제10조 및 제11조 생략",
+      "provision_id": "law:국민의형사재판참여에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290679",
+      "source_version_uid": "010458:290679:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -2399,8 +2419,10 @@
   "provision_id": "law:국민의형사재판참여에관한법률#DOC",
   "addendum_provision_id": "law:국민의형사재판참여에관한법률#ADDENDUM",
   "amendment_provision_id": "law:국민의형사재판참여에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국민의 형사재판 참여에 관한 법률/법률/국민의 형사재판 참여에 관한 법률.json"
 }
