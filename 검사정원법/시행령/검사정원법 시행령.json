@@ -105,7 +105,14 @@
         "changed": "N",
         "article_key": "0001001",
         "images": [],
-        "provision_id": "law:검사정원법시행령#JO0001"
+        "provision_id": "law:검사정원법시행령#JO0001",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제1조(목적) 이 영은 「검사정원법」 제2조에 따라 공소청별 검사의 정원을 정함을 목적으로 한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제2조",
@@ -133,7 +140,14 @@
         "changed": "N",
         "article_key": "0003001",
         "images": [],
-        "provision_id": "law:검사정원법시행령#JO0003"
+        "provision_id": "law:검사정원법시행령#JO0003",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제3조(정원) 공소청별 검사의 정원은 별표와 같다. <개정 2007.2.8, 2008.2.22, 2022.2.7, 2023.5.23, 2026.9.29>"
+          }
+        ]
       }
     ]
   },
@@ -1013,6 +1027,19 @@
       "source_version_uid": "002125:282489:20260106",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260106"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36707",
+      "addendum_key": "2026092936707",
+      "content": "부칙 <제36707호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다.\n제2조(소속 검사에 관한 경과조치) 이 영 시행 당시 종전의 「검찰청 사무기구에 관한 규정」에 따른 검찰청 소속 검사는 법률 제21490호 공소청법 부칙 제7조에 따라 제3조 및 별표의 개정규정에 따른 공소청, 각급 공소청 및 지청 소속 검사로 본다.",
+      "provision_id": "law:검사정원법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290267",
+      "source_version_uid": "002125:290267:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1102,8 +1129,10 @@
   "provision_id": "law:검사정원법시행령#DOC",
   "addendum_provision_id": "law:검사정원법시행령#ADDENDUM",
   "amendment_provision_id": "law:검사정원법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "검사정원법/시행령/검사정원법 시행령.json"
 }
