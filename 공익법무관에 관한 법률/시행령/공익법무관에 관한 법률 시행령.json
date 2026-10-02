@@ -856,7 +856,14 @@
         "changed": "N",
         "article_key": "0009001",
         "images": [],
-        "provision_id": "law:공익법무관에관한법률시행령#JO0009"
+        "provision_id": "law:공익법무관에관한법률시행령#JO0009",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제9조(공익법무관의 배치)\n① 법무부장관은 법률구조업무에 종사할 공익법무관을 다음 각 호의 법인이나 기관에, 국가소송 등의 사무에 종사할 공익법무관을 제2호의 기관에 배치하여야 한다. <개정 2016.3.30, 2026.9.29>\n1. 제2조에 따른 법인\n2. 법무부와 그 소속 기관, 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다)\n②법무부장관은 법률구조업무에 종사할 공익법무관을 공단에 우선 배치하되, 다음 각 호의 순위에 따라 지역별로 배치하여야 한다. 다만, 법무부장관은 제2조제2호 및 제3호에 따른 법인 또는 제1항제2호에 따른 기관이나 특정지역에 공익법무관을 우선 배치할 필요가 있다고 인정되는 경우에는 해당 법인 또는 기관이나 지역에 우선 배치할 수 있다. <개정 2016.3.30, 2026.9.29>\n1. 법원ㆍ공소청 소재지중 변호사가 없는 지역\n2. 법원ㆍ공소청 소재지중 제2조의 규정에 의한 법인 소속변호사가 없는 지역\n3. 기타 법무부장관이 법률구조수요가 많다고 인정하는 지역\n③법무부장관은 국가소송 등의 사무에 종사할 공익법무관을 배치함에 있어 그 수요를 고려하여 해당 기관에 적정하게 배치하여야 한다. <개정 2016.3.30>"
+          }
+        ]
       },
       {
         "article_no": "제10조",
@@ -2117,6 +2124,19 @@
       "source_version_uid": "002364:271437:20250602",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250602"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:공익법무관에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290337",
+      "source_version_uid": "002364:290337:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -2190,8 +2210,10 @@
   "provision_id": "law:공익법무관에관한법률시행령#DOC",
   "addendum_provision_id": "law:공익법무관에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:공익법무관에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공익법무관에 관한 법률/시행령/공익법무관에 관한 법률 시행령.json"
 }
