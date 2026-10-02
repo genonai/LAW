@@ -1507,6 +1507,19 @@
       "source_version_uid": "002144:241185:20220308",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20220308"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:경범죄처벌법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290303",
+      "source_version_uid": "002144:290303:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1603,8 +1616,10 @@
   "provision_id": "law:경범죄처벌법시행령#DOC",
   "addendum_provision_id": "law:경범죄처벌법시행령#ADDENDUM",
   "amendment_provision_id": "law:경범죄처벌법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "경범죄 처벌법/시행령/경범죄 처벌법 시행령.json"
 }
