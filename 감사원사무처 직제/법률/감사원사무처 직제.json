@@ -785,6 +785,19 @@
       "source_version_uid": "008775:289803:20260921",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260921"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "00393",
+      "addendum_key": "2026100100393",
+      "content": "부칙 <제393호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:감사원사무처직제#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290859",
+      "source_version_uid": "008775:290859:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -923,8 +936,10 @@
   "provision_id": "law:감사원사무처직제#DOC",
   "addendum_provision_id": "law:감사원사무처직제#ADDENDUM",
   "amendment_provision_id": "law:감사원사무처직제#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "감사원사무처 직제/법률/감사원사무처 직제.json"
 }
