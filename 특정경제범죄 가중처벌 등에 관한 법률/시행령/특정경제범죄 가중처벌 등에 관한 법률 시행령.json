@@ -507,7 +507,14 @@
         "changed": "N",
         "article_key": "0009001",
         "images": [],
-        "provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#JO0009"
+        "provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#JO0009",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제9조(수사기관 등의 통보 등)\n①지방공소청장 또는 지방공소청 지청장은 법 제3조ㆍ법 제4조제2항 (미수범을 포함한다)ㆍ법 제5조제4항 또는 법 제8조의 죄를 범한 사람에 대하여 공소가 제기된 경우에는 지체 없이 그 사실을 법무부장관에게 보고하여야 한다. <개정 2009.7.7, 2019.5.7, 2026.9.29>\n② 고위공직자범죄수사처장은 제1항에서 규정한 죄를 범한 사람에 대하여 공소가 제기된 경우에는 지체 없이 그 사실을 법무부장관에게 통보해야 한다. <신설 2020.7.14>\n③법무부장관은 경제사범의 관리를 위하여 필요할 경우 관계기관 또는 관계기업체의 장에게 자료의 제출을 요청할 수 있다. <개정 2009.7.7, 2020.7.14>"
+          }
+        ]
       },
       {
         "article_no": "제10조",
@@ -2311,6 +2318,19 @@
       "source_version_uid": "005321:287199:20260701",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260701"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290513",
+      "source_version_uid": "005321:290513:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -2456,8 +2476,10 @@
   "provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#DOC",
   "addendum_provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:특정경제범죄가중처벌등에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "특정경제범죄 가중처벌 등에 관한 법률/시행령/특정경제범죄 가중처벌 등에 관한 법률 시행령.json"
 }
