@@ -1803,7 +1803,14 @@
         "changed": "N",
         "article_key": "0032021",
         "images": [],
-        "provision_id": "law:금융위원회의설치등에관한법률#JO0032_02"
+        "provision_id": "law:금융위원회의설치등에관한법률#JO0032_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제32조의2(의원면직의 제한) 제29조제1항에 따른 원장, 부원장, 부원장보 또는 감사의 임명권자 또는 제청권자는 의원면직을 신청한 원장, 부원장, 부원장보 또는 감사가 다음 각 호의 어느 하나에 해당하는 경우에는 의원면직을 허용하지 아니할 수 있다.\n1. 비위와 관련하여 형사사건으로 기소된 경우\n2. 중대범죄수사청, 경찰 등 수사기관, 감사원 등 감사기관과 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다)에서 비위와 관련하여 수사 또는 감사 중(공소청의 경우에는 해당 사건이 송치된 후 공소제기 여부를 결정하기 전까지를 말한다)인 경우\n3. 금융감독원의 징계위원회에 중징계의결이 요구 중인 경우"
+          }
+        ]
       },
       {
         "article_no": "제33조",
@@ -3666,6 +3673,19 @@
       "source_version_uid": "000552:277249:20260102",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260102"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22045",
+      "addendum_key": "2026092922045",
+      "content": "부칙 <제22045호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:금융위원회의설치등에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290241",
+      "source_version_uid": "000552:290241:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -3700,8 +3720,10 @@
   "provision_id": "law:금융위원회의설치등에관한법률#DOC",
   "addendum_provision_id": "law:금융위원회의설치등에관한법률#ADDENDUM",
   "amendment_provision_id": "law:금융위원회의설치등에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "금융위원회의 설치 등에 관한 법률/법률/금융위원회의 설치 등에 관한 법률.json"
 }
