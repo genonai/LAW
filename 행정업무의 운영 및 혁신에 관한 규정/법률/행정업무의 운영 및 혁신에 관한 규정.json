@@ -7941,7 +7941,14 @@
         "changed": "N",
         "article_key": "0034001",
         "images": [],
-        "provision_id": "law:행정업무의운영및혁신에관한규정#JO0034"
+        "provision_id": "law:행정업무의운영및혁신에관한규정#JO0034",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제34조(특수 관인)\n① 행정기관의 장은 유가증권 등 특수한 증표 발행, 민원업무 또는 재무에 관한 업무 등 특수한 업무 처리에 사용하는 관인을 따로 가질 수 있다.\n② 세입징수관, 지출관, 회계 등 재무에 관한 업무를 담당하는 공무원의 직인은 재정경제부장관 및 기획예산처장관이, 국립의 각급 학교에서 사용하는 관인은 교육부장관이, 외교부와 재외공관에서 외교문서에 사용하는 관인은 외교부장관이, 공소청에서 사용하는 관인은 법무부장관이, 군 기관에서 사용하는 관인은 국방부장관이 각각 그 규격과 등록 등 관리에 필요한 사항을 정한다. <개정 2013.3.23, 2025.12.30, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제35조",
@@ -10550,6 +10557,19 @@
       "source_version_uid": "003728:286187:20260519",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260519"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:행정업무의운영및혁신에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290525",
+      "source_version_uid": "003728:290525:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -18515,8 +18535,10 @@
   "provision_id": "law:행정업무의운영및혁신에관한규정#DOC",
   "addendum_provision_id": "law:행정업무의운영및혁신에관한규정#ADDENDUM",
   "amendment_provision_id": "law:행정업무의운영및혁신에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "행정업무의 운영 및 혁신에 관한 규정/법률/행정업무의 운영 및 혁신에 관한 규정.json"
 }
