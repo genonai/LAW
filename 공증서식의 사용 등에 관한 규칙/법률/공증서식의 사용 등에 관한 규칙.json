@@ -623,7 +623,14 @@
         "changed": "N",
         "article_key": "0011001",
         "images": [],
-        "provision_id": "law:공증서식의사용등에관한규칙#JO0011"
+        "provision_id": "law:공증서식의사용등에관한규칙#JO0011",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제11조(공증업무처리현황보고) 공증인은 공증업무처리현황을 매월말 기준으로 다음달 15일까지 별지 제7호서식에 따라 소속 지방공소청을 거쳐 법무부장관에게 보고하여야 한다. <개정 2010.2.5, 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제12조",
@@ -2381,6 +2388,19 @@
       "source_version_uid": "006361:240211:20220207",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220207"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01145",
+      "addendum_key": "2026100101145",
+      "content": "부칙 <제1145호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:공증서식의사용등에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290565",
+      "source_version_uid": "006361:290565:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -4820,8 +4840,10 @@
   "provision_id": "law:공증서식의사용등에관한규칙#DOC",
   "addendum_provision_id": "law:공증서식의사용등에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:공증서식의사용등에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공증서식의 사용 등에 관한 규칙/법률/공증서식의 사용 등에 관한 규칙.json"
 }
