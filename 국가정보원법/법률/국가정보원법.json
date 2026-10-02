@@ -695,7 +695,14 @@
         "changed": "N",
         "article_key": "0005001",
         "images": [],
-        "provision_id": "law:국가정보원법#JO0005"
+        "provision_id": "law:국가정보원법#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제5조(국가기관 등에 대한 협조 요청 등)\n① 원장은 직무 수행과 관련하여 필요한 경우 국가기관이나 그 밖의 관계 기관 또는 단체(이하 \"국가기관 등\"이라 한다)에 대하여 사실의 조회ㆍ확인, 자료의 제출 등 필요한 협조 또는 지원을 요청할 수 있다. 이 경우 요청을 받은 국가기관 등의 장은 정당한 사유가 없으면 그 요청에 따라야 한다.\n② 직원은 제4조제1항제1호나목부터 마목까지 및 같은 조 같은 항 제2호의 직무수행을 위하여 필요한 경우 현장조사ㆍ문서열람ㆍ시료채취ㆍ자료제출 요구 및 진술요청 등의 방식으로 조사할 수 있다.\n③ 국정원은 제4조제1항제1호나목부터 라목까지에 관한 직무수행과 관련하여 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다) 및 각급 수사기관과 정보 공조체계를 구축하고, 국정원과 공소청 및 각급 수사기관은 상호 협력하여야 한다. <개정 2026.8.4>\n④ 직원은 정보수집을 위하여 필요한 최소한의 범위 안에서 조사를  행하여야 하며, 다른 목적을 위하여 조사 권한을 남용하여서는 아니된다."
+          }
+        ]
       },
       {
         "article_no": "제6조",
@@ -1641,6 +1648,19 @@
       "source_version_uid": "001371:277293:20260102",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260102"
+    },
+    {
+      "promulgation_date": "20260804",
+      "promulgation_no": "21857",
+      "addendum_key": "2026080421857",
+      "content": "부칙(형사소송법) <제21857호,2026.8.4>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제14조까지 생략\n제15조(다른 법률의 개정) ①부터 <16>까지 생략\n<17> 국가정보원법 일부를 다음과 같이 개정한다. <신설 2026.9.29>\n제5조제3항 중 \"각급 수사기관과\"를 \"공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다. 이하 같다) 및 각급 수사기관과\"로, \"각급 수사기관은\"을 \"공소청 및 각급 수사기관은\"으로 한다.\n<18>부터 <60> 까지 생략\n제16조 생략",
+      "provision_id": "law:국가정보원법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290761",
+      "source_version_uid": "001371:290761:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -1674,8 +1694,10 @@
   "provision_id": "law:국가정보원법#DOC",
   "addendum_provision_id": "law:국가정보원법#ADDENDUM",
   "amendment_provision_id": "law:국가정보원법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "국가정보원법/법률/국가정보원법.json"
 }
