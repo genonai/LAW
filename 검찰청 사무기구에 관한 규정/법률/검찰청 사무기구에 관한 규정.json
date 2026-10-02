@@ -6077,6 +6077,19 @@
       "source_version_uid": "002132:289097:20260828",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260828"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36718",
+      "addendum_key": "2026092936718",
+      "content": "부칙(공소청과 그 소속기관 직제) <제36718호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다.\n제2조 생략\n제3조(다른 법령의 폐지) 검찰청 사무기구에 관한 규정을 폐지한다.\n제4조 생략",
+      "provision_id": "law:검찰청사무기구에관한규정#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290253",
+      "source_version_uid": "002132:290253:20261002",
+      "source_revision_type": "타법폐지",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -6439,8 +6452,14 @@
   "provision_id": "law:검찰청사무기구에관한규정#DOC",
   "addendum_provision_id": "law:검찰청사무기구에관한규정#ADDENDUM",
   "amendment_provision_id": "law:검찰청사무기구에관한규정#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "repeal_scheduled": {
+    "enforcement_date": "20261002",
+    "revision_type": "타법폐지"
+  },
+  "version_count": 2,
   "git_path": "검찰청 사무기구에 관한 규정/법률/검찰청 사무기구에 관한 규정.json"
 }
