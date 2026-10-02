@@ -8390,6 +8390,19 @@
       "source_version_uid": "010836:258615:20240112",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20240112"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01135",
+      "addendum_key": "2026100101135",
+      "content": "부칙 <제1135호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:전자장치부착등에관한법률시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290567",
+      "source_version_uid": "010836:290567:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -11057,8 +11070,10 @@
   "provision_id": "law:전자장치부착등에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:전자장치부착등에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:전자장치부착등에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "전자장치 부착 등에 관한 법률/시행규칙/전자장치 부착 등에 관한 법률 시행규칙.json"
 }
