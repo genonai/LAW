@@ -2024,7 +2024,14 @@
         "article_key": "0010001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:폭력행위등처벌에관한법률#JO0010"
+        "provision_id": "law:폭력행위등처벌에관한법률#JO0010",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제10조(사법경찰관리의 행정적 책임)\n① 관할 지방공소청장은 제2조부터 제6조까지의 범죄가 발생하였는데도 그 사실을 자신에게 보고하지 아니하거나 수사를 게을리하거나 수사능력 부족 또는 그 밖의 이유로 사법경찰관리로서 부적당하다고 인정하는 사람에 대해서는 그 임명권자에게 징계, 해임 또는 교체임용을 요구할 수 있다. <개정 2026.9.29>\n② 제1항의 요구를 받은 임명권자는 2주일 이내에 해당 사법경찰관리에 대하여 행정처분을 한 후 그 사실을 관할 지방공소청장에게 통보하여야 한다. <개정 2026.9.29>"
+          }
+        ]
       }
     ]
   },
@@ -2148,6 +2155,19 @@
       "source_version_uid": "001135:178989:20160106",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20160106"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22005",
+      "addendum_key": "2026092922005",
+      "content": "부칙 <제22005호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:폭력행위등처벌에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290181",
+      "source_version_uid": "001135:290181:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -2182,8 +2202,10 @@
   "provision_id": "law:폭력행위등처벌에관한법률#DOC",
   "addendum_provision_id": "law:폭력행위등처벌에관한법률#ADDENDUM",
   "amendment_provision_id": "law:폭력행위등처벌에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
 }
