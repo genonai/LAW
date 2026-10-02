@@ -1342,7 +1342,14 @@
         "changed": "N",
         "article_key": "0017001",
         "images": [],
-        "provision_id": "law:대통령등의경호에관한법률#JO0017"
+        "provision_id": "law:대통령등의경호에관한법률#JO0017",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제17조(경호공무원의 사법경찰권)\n① 경호공무원(처장의 제청으로 서울중앙지방공소청장이 지명한 경호공무원을 말한다. 이하 이 조에서 같다)은 제4조제1항 각 호의 경호대상에 대한 경호업무 수행 중 인지한 그 소관에 속하는 범죄에 대하여 직무상 또는 수사상 긴급을 요하는 한도 내에서 사법경찰관리(司法警察官吏)의 직무를 수행할 수 있다. <개정 2013.3.23, 2017.7.26, 2026.9.29>\n② 제1항의 경우 7급 이상 경호공무원은 사법경찰관의 직무를 수행하고, 8급 이하 경호공무원은 사법경찰리(司法警察吏)의 직무를 수행한다."
+          }
+        ]
       },
       {
         "article_no": "제18조",
@@ -2027,6 +2034,19 @@
       "source_version_uid": "001377:266713:20250604",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20250604"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22050",
+      "addendum_key": "2026092922050",
+      "content": "부칙 <제22050호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:대통령등의경호에관한법률#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290151",
+      "source_version_uid": "001377:290151:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -2060,8 +2080,10 @@
   "provision_id": "law:대통령등의경호에관한법률#DOC",
   "addendum_provision_id": "law:대통령등의경호에관한법률#ADDENDUM",
   "amendment_provision_id": "law:대통령등의경호에관한법률#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "대통령 등의 경호에 관한 법률/법률/대통령 등의 경호에 관한 법률.json"
 }
