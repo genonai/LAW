@@ -2052,7 +2052,14 @@
         "article_key": "0013001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#JO0013"
+        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#JO0013",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제13조(치료명령을 받은 사람의 의무 등)\n① 보호관찰관은 치료명령을 받은 사람이 법 제15조제1항에 따른 의무를 준수하는지 확인할 필요가 있으면 호르몬 수치 검사 또는 상쇄약물 투약 여부 검사를 실시할 수 있다.\n② 치료명령을 받은 사람은 보호관찰관이 제1항에 따른 검사를 위하여 소변 등 시료(試料)의 제출을 지시할 때에는 이에 따라야 한다.\n③ 보호관찰소의 장은 치료명령을 받은 사람이 제출한 소변 등의 시료를 공소청 또는 국립과학수사연구원에 송부하여 제1항에 따른 검사를 의뢰하여야 한다. <개정 2015.12.30, 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제14조",
@@ -2905,7 +2912,14 @@
         "article_key": "0020001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#JO0020"
+        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#JO0020",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제20조(수용시설의 장의 통보) 수용시설의 장은 성폭력수형자가 제19조에 따라 약물치료에 동의한 경우에는 수용시설 소재지를 관할하는 지방공소청(지방공소청 지청을 포함한다)의 검사에게 지체 없이 다음 각 호의 사항을 통보하여야 한다. <개정 2026.9.29>\n1. 수용기록부\n2. 판결문 사본\n3. 분류처우심사표"
+          }
+        ]
       },
       {
         "article_no": "제21조",
@@ -6529,6 +6543,19 @@
       "source_version_uid": "011424:200459:20180101",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20180101"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290445",
+      "source_version_uid": "011424:290445:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -6563,8 +6590,10 @@
   "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#DOC",
   "addendum_provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "성폭력범죄자의 성충동 약물치료에 관한 법률/시행령/성폭력범죄자의 성충동 약물치료에 관한 법률 시행령.json"
 }
