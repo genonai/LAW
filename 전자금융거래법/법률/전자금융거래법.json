@@ -362,7 +362,14 @@
         "changed": "N",
         "article_key": "0006021",
         "images": [],
-        "provision_id": "law:전자금융거래법#JO0006_02"
+        "provision_id": "law:전자금융거래법#JO0006_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제6조의2(불법 광고에 이용된 전화번호의 이용중지 등)\n① 검찰총장, 중대범죄수사청장, 경찰청장 또는 금융감독원장(「금융위원회의 설치 등에 관한 법률」 제29조에 따른 금융감독원장을 말한다. 이하 같다)은 제6조제3항제5호에 따른 불법광고에 이용된 전화번호를 확인한 때에는 과학기술정보통신부장관에게 해당 전화번호에 대한 전기통신역무 제공의 중지를 요청할 수 있다. <개정 2017.7.26, 2026.9.29>\n② 제1항에 따른 요청으로 전기통신역무 제공이 중지된 사람은 전기통신역무 제공의 중지를 요청한 자에게 이의신청을 할 수 있다.\n③ 제2항에 따른 이의신청의 절차 등에 필요한 사항은 대통령령으로 정한다."
+          }
+        ]
       },
       {
         "article_no": "제6조의3",
@@ -3387,6 +3394,19 @@
       "source_version_uid": "010199:280277:20251216",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251216"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22048",
+      "addendum_key": "2026092922048",
+      "content": "부칙 <제22048호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:전자금융거래법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290247",
+      "source_version_uid": "010199:290247:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -3419,8 +3439,10 @@
   "provision_id": "law:전자금융거래법#DOC",
   "addendum_provision_id": "law:전자금융거래법#ADDENDUM",
   "amendment_provision_id": "law:전자금융거래법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "전자금융거래법/법률/전자금융거래법.json"
 }
