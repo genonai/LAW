@@ -9656,10 +9656,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 99,
-   "chars": 20870
+   "chars": 20954
   },
-  "collected_signature": "56a3d9ea4b006e9f",
-  "content_hash": "3086d68224c4c7b21219d5c8a611ec477383a29c895389f774c984e885fffcd3",
+  "collected_signature": "8a249ec8c6e9679b",
+  "content_hash": "9e0a3b877ec415cff07dc452c7d2f558cfbe7f262ab486730ff38f66ed6eed22",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290115&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001291",
@@ -9669,8 +9669,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:07:13.855754+00:00",
-  "last_collected_at": "2026-09-29T17:08:51.541076+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.285764+00:00",
+  "last_collected_at": "2026-10-02T17:51:32.186577+00:00",
   "ministry": "법무부",
   "mst": "290115",
   "name": "법무사법",
@@ -13789,10 +13789,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 135,
-   "chars": 30248
+   "chars": 30295
   },
-  "collected_signature": "f95630baf4ec8788",
-  "content_hash": "6e7f1e4158987cd81cd32c271ee86c414677dace630ab0bf0cf5ea20164af3a7",
+  "collected_signature": "f06abc567c634069",
+  "content_hash": "c7d8b52ec23e0f6b8bddd6ff854be25e16aac53f5e4742fc77e79e672b88560d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290233&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001710",
@@ -13802,8 +13802,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:36:39.885491+00:00",
-  "last_collected_at": "2026-10-01T15:39:31.461857+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.539422+00:00",
+  "last_collected_at": "2026-10-02T17:52:32.498615+00:00",
   "ministry": "대법원",
   "mst": "290233",
   "name": "법원조직법",
@@ -13811,7 +13811,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f06abc567c634069"
  },
  "law:eflaw:001711": {
@@ -25511,10 +25511,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 73,
-   "chars": 24445
+   "chars": 24556
   },
-  "collected_signature": "11aedd549a6acc8a",
-  "content_hash": "d48552fa8a71116cd586e3938eb313be08049ac8b2b85681f1cafe3fd9b6ba73",
+  "collected_signature": "a1a40e3e04129133",
+  "content_hash": "a64eda115198b3a0e1482dff529d5d888e3e99ea1442b18112b5c45e88e9abc4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290413&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "003602",
@@ -25524,8 +25524,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:07:13.769270+00:00",
-  "last_collected_at": "2026-09-29T17:08:58.342828+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.440233+00:00",
+  "last_collected_at": "2026-10-02T17:52:09.492690+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부,행정안전부",
   "mst": "290413",
@@ -47161,10 +47161,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 56,
-   "chars": 62349
+   "chars": 62425
   },
-  "collected_signature": "ca6f29d40b03bfdd",
-  "content_hash": "adba432e4bef2922adbcd474bc2591a4e58212fa128649a694bc05647e822c7d",
+  "collected_signature": "c2e59217d2ae427c",
+  "content_hash": "43adb50ff114801a1ad76c7b4f23f3b580ad0189f009defebd8eac604ec7a19a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290849&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007223",
@@ -47174,8 +47174,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:36:40.357118+00:00",
-  "last_collected_at": "2026-10-01T15:39:28.870186+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.119164+00:00",
+  "last_collected_at": "2026-10-02T17:52:28.493041+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법무부",
   "mst": "290849",
@@ -47321,8 +47321,12 @@
  },
  "law:eflaw:007233": {
   "attempts": 0,
-  "collected_signature": "c9db2621d79f49ec",
-  "content_hash": "020f12a7341e7ba4571ad16f5f96e2eab3d2c1f043473768a64f7300cc40777e",
+  "body_stats": {
+   "articles": 17,
+   "chars": 11315
+  },
+  "collected_signature": "cf89da3a967b3312",
+  "content_hash": "c546af1a64c2f3f370b4bd27dd2519053e032a0e4a7790725256176e65b7e07a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290897&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007233",
@@ -47330,17 +47334,19 @@
   "doc_type": "총리령",
   "emitted_signature": "c9db2621d79f49ec",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:47:10.660484+00:00",
-  "last_collected_at": "2026-09-03T03:48:01.534052+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.015583+00:00",
+  "last_collected_at": "2026-10-02T17:50:30.538984+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법제처",
   "mst": "290897",
   "name": "법제처 직제 시행규칙",
   "payload_law_id": "007233",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cf89da3a967b3312"
  },
  "law:eflaw:007234": {
@@ -117277,10 +117283,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 14,
-   "chars": 4087
+   "chars": 4155
   },
-  "collected_signature": "e293153246e1080a",
-  "content_hash": "9a229081b6a20b30460e9b6a41ba829ae10eb18f905ee6a703c8edb721cdd61f",
+  "collected_signature": "563b9595bfe75f8d",
+  "content_hash": "84a341690ba2aba5269fc47e92c306fd5412f0c50df6a6e756f782a0309888d1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290415&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014248",
@@ -117290,8 +117296,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:07:13.892909+00:00",
-  "last_collected_at": "2026-09-29T17:08:13.949681+00:00",
+  "last_checked_at": "2026-10-02T17:49:55.501047+00:00",
+  "last_collected_at": "2026-10-02T17:51:31.423530+00:00",
   "ministry": "국방부",
   "mst": "290415",
   "name": "법원이 재판권을 가지는 군인 등의 범죄에 대한 수사절차 등에 관한 규정",
