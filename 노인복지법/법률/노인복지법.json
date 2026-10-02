@@ -89,7 +89,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n국가와 지방자치단체가 지역정책과 발전과정에 노인이 능동적으로 참여하고 노인의 역량 강화, 돌봄 및 안전, 건강하고 활력 있는 노후생활이 구현되도록 정책을 운영하는 고령친화도시 조성에 노력하도록 하고, 보건복지부장관이 특별자치시ㆍ특별자치도 또는 시ㆍ군ㆍ자치구를 고령친화도시로 지정하고 지원할 수 있도록 근거를 마련함.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 106,
+    "article_count": 107,
     "articles": [
       {
         "article_no": "제1조",
@@ -2147,6 +2147,30 @@
         "article_key": "0008001",
         "images": [],
         "provision_id": "law:노인복지법#JO0008"
+      },
+      {
+        "article_no": "제8조의2",
+        "article_title": "사법경찰관의 사건송치",
+        "chapter": "제1장 총칙",
+        "chapter_path": "제1장 총칙",
+        "content": "제8조의2(사법경찰관의 사건송치) 사법경찰관은 노인학대관련범죄를 신속히 수사하여 사건을 검사에게 송치하여야 한다.",
+        "enforcement_date": "20261002",
+        "relations": [],
+        "note": "[본조신설 2026.9.29]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0008021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:노인복지법#JO0008_02",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "신설",
+            "content": "제8조의2(사법경찰관의 사건송치) 사법경찰관은 노인학대관련범죄를 신속히 수사하여 사건을 검사에게 송치하여야 한다."
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -5780,7 +5804,14 @@
         "changed": "N",
         "article_key": "0039081",
         "images": [],
-        "provision_id": "law:노인복지법#JO0039_08"
+        "provision_id": "law:노인복지법#JO0039_08",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제39조의8(보조인의 선임 등)\n①학대받은 노인의 법정대리인, 직계친족, 형제자매, 노인보호전문기관의 상담원 또는 변호사는 노인학대사건의 심리에 있어서 보조인이 될 수 있다. 다만, 변호사가 아닌 경우에는 법원의 허가를 받아야 한다.\n②법원은 학대받은 노인을 증인으로 신문하는 경우 본인ㆍ검사 또는 노인보호전문기관의 신청이 있는 때에는 본인과 신뢰관계에 있는 자의 동석을 허가할 수 있다.\n③검사 또는 수사기관이 학대받은 노인에 대하여 「형사소송법」 제245조의13에 따른 사실관계 확인이나 면담 또는 조사를 하는 경우에도 제1항 및 제2항의 절차를 준용한다. <개정 2026.9.29>"
+          }
+        ]
       },
       {
         "article_no": "제39조의9",
@@ -12335,6 +12366,19 @@
       "source_version_uid": "001777:259093:20260124",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260124"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "22020",
+      "addendum_key": "2026092922020",
+      "content": "부칙 <제22020호,2026.9.29>\n제1조(시행일) 이 법은 2026년 10월 2일부터 시행한다.\n제2조(적용례) 제8조의2의 개정규정은 이 법 시행 당시 수사 중인 노인학대관련범죄의 경우에도 적용한다. 이 경우 법률 제21857호 형사소송법 일부개정법률 제245조의5제1항제2호 후단의 기간이 경과하지 아니하거나 같은 법 제245조의8제1항에 따라 검사가 재수사요구를 한 경우를 포함한다.",
+      "provision_id": "law:노인복지법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290133",
+      "source_version_uid": "001777:290133:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [],
@@ -12368,8 +12412,10 @@
   "provision_id": "law:노인복지법#DOC",
   "addendum_provision_id": "law:노인복지법#ADDENDUM",
   "amendment_provision_id": "law:노인복지법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "노인복지법/법률/노인복지법.json"
 }
