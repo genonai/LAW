@@ -1869,10 +1869,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 147,
-   "chars": 63331
+   "chars": 63516
   },
-  "collected_signature": "62a3df54b9dfeba9",
-  "content_hash": "25fdb05dff29bfda568780723854542a812a3ba8dabfe1f21702cd78b3b223c2",
+  "collected_signature": "9955ae3c51c9fa6e",
+  "content_hash": "e24b1a90bd551da7bcff4536c7691d621d800f6013bd243c017d53f45c0976ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290211&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "000187",
@@ -1882,8 +1882,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:43:22.412328+00:00",
-  "last_collected_at": "2026-09-29T18:48:52.111740+00:00",
+  "last_checked_at": "2026-10-02T19:35:17.706389+00:00",
+  "last_collected_at": "2026-10-02T19:41:50.068769+00:00",
   "ministry": "보건복지부",
   "mst": "290211",
   "name": "장애인복지법",
@@ -1891,7 +1891,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "9955ae3c51c9fa6e"
  },
  "law:eflaw:000188": {
@@ -16596,10 +16596,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 61,
-   "chars": 26057
+   "chars": 26073
   },
-  "collected_signature": "c3360396887f74a0",
-  "content_hash": "7be65f52e974ad05ea88ae7e132eef649e0e6aa339efb5509fb461788dbf13b0",
+  "collected_signature": "4bdaeee2ab2fb812",
+  "content_hash": "e853a4ce3412c78054d01faeeb67ddfb0dbae854798c89c3fee2549141d67733",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290657&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001998",
@@ -16609,8 +16609,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:43:22.296042+00:00",
-  "last_collected_at": "2026-09-29T18:46:09.800398+00:00",
+  "last_checked_at": "2026-10-02T19:35:18.123136+00:00",
+  "last_collected_at": "2026-10-02T19:38:01.320982+00:00",
   "ministry": "보건복지부",
   "mst": "290657",
   "name": "장기등 이식에 관한 법률",
@@ -16618,7 +16618,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4bdaeee2ab2fb812"
  },
  "law:eflaw:001999": {
@@ -41488,10 +41488,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 49,
-   "chars": 14214
+   "chars": 14798
   },
-  "collected_signature": "19b775e77669dc64",
-  "content_hash": "8726ac7f293bce487da188c7df4ff420605be50025a180d240f77f7a69957f2e",
+  "collected_signature": "14460d8377764ef0",
+  "content_hash": "2bb02e2b955a4b6a5048be3bbf035bb059bb22c6707d39d39a7e32a294c4d3da",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291027&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "006206",
@@ -41501,8 +41501,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:44:36.533848+00:00",
-  "last_collected_at": "2026-10-01T16:45:46.039570+00:00",
+  "last_checked_at": "2026-10-02T19:35:17.795210+00:00",
+  "last_collected_at": "2026-10-02T19:36:43.246878+00:00",
   "ministry": "법무부",
   "mst": "291027",
   "name": "자유형등에 관한 검찰집행사무규칙",
@@ -51652,8 +51652,13 @@
   "version_signature": "d2b10e1f86cafe79"
  },
  "law:eflaw:007971": {
-  "collected_signature": "f9671fee7ec78722",
-  "content_hash": "8ed6cdbee3bd894f6457a2ea7f81b498aaed18c163f6be5d0b5c20b8740f9924",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 13357
+  },
+  "collected_signature": "37109ae12eb9fa03",
+  "content_hash": "bd078ea2c7f09341da5e319259ae5676230875589c8d04131f0ba87d8aa5403f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290901&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "007971",
@@ -51661,13 +51666,15 @@
   "doc_type": "고용노동부령",
   "emitted_signature": "f9671fee7ec78722",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:33:52.166300+00:00",
-  "last_collected_at": "2026-08-25T01:39:32.076726+00:00",
+  "last_checked_at": "2026-10-02T19:35:18.144157+00:00",
+  "last_collected_at": "2026-10-02T19:38:18.455791+00:00",
   "ministry": "고용노동부",
   "mst": "290901",
   "name": "장애인고용촉진 및 직업재활법 시행규칙",
   "payload_law_id": "007971",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -73953,10 +73960,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 599,
-   "chars": 370621
+   "chars": 370831
   },
-  "collected_signature": "b699560074d9d25c",
-  "content_hash": "0f523badee7daf6c142467a629a46dfdf656327d63a58ef87dfea86887db4182",
+  "collected_signature": "2a6f42d31b5ca5f7",
+  "content_hash": "977ceb386988a5e3e5cf9c7ecc8d40ac4ef093fd3f223bdaec11c7f8d645d75f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288615&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010513",
@@ -73966,8 +73973,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:44:36.535075+00:00",
-  "last_collected_at": "2026-10-01T17:02:29.422206+00:00",
+  "last_checked_at": "2026-10-02T19:35:18.117154+00:00",
+  "last_collected_at": "2026-10-02T19:55:49.095879+00:00",
   "ministry": "금융위원회",
   "mst": "288615",
   "name": "자본시장과 금융투자업에 관한 법률",
@@ -73975,7 +73982,7 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "2a6f42d31b5ca5f7"
  },
  "law:eflaw:010514": {
@@ -78323,10 +78330,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 553,
-   "chars": 464366
+   "chars": 464640
   },
-  "collected_signature": "f63d8a31b1635306",
-  "content_hash": "31d6daecf66c0f680b9970da64378ec6c23bf075f00905e5880c7f9f70a87d2b",
+  "collected_signature": "2e387e318ef0cc54",
+  "content_hash": "7d15de70a3e505fa0379debc12960941cd8c1345360b46c27aff0466fbd2bd7c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290473&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010817",
@@ -78336,8 +78343,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:44:36.190579+00:00",
-  "last_collected_at": "2026-10-01T17:23:28.450557+00:00",
+  "last_checked_at": "2026-10-02T19:35:17.967114+00:00",
+  "last_collected_at": "2026-10-02T20:15:24.867385+00:00",
   "ministry": "금융위원회",
   "mst": "290473",
   "name": "자본시장과 금융투자업에 관한 법률 시행령",
