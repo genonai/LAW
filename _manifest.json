@@ -41514,8 +41514,13 @@
   "version_signature": "14460d8377764ef0"
  },
  "law:eflaw:006207": {
-  "collected_signature": "50c64f373eb9da9a",
-  "content_hash": "7efbd57659fa1b1b5cb53fd857c8312cf1a7fbd466c5ef931719eacf5143d81a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 63,
+   "chars": 19679
+  },
+  "collected_signature": "6efe7ef8d84db971",
+  "content_hash": "a0e057e5a107e7ff5f823d2d51e13c1885dffeaed64b96434cec72b8e3985394",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291029&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "006207",
@@ -41523,16 +41528,17 @@
   "doc_type": "법무부령",
   "emitted_signature": "50c64f373eb9da9a",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:25:35.893251+00:00",
-  "last_collected_at": "2026-08-25T02:27:44.174670+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.896626+00:00",
+  "last_collected_at": "2026-10-02T20:18:30.747655+00:00",
   "ministry": "법무부",
   "mst": "291029",
   "name": "재산형등에 관한 공소청집행사무규칙",
   "payload_law_id": "006207",
-  "prev_name": "재산형 등에 관한 검찰 집행사무규칙",
+  "prev_name": null,
   "promulgation_date": "20261001",
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "6efe7ef8d84db971"
  },
@@ -77295,10 +77301,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 33,
-   "chars": 10262
+   "chars": 10380
   },
-  "collected_signature": "ccc661f1d1fcbbf4",
-  "content_hash": "aa82d4558876f45ab74fe4770784803d0c5d1d8b0a81674832db935edb24a846",
+  "collected_signature": "4487856b7d58455c",
+  "content_hash": "40760ee8a7e39a9582f2570b8e30bda8fb78d9acf97931bfa961db207dcb9d13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290475&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "010745",
@@ -77308,8 +77314,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:43:22.580601+00:00",
-  "last_collected_at": "2026-09-29T18:47:22.490625+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.782331+00:00",
+  "last_collected_at": "2026-10-02T20:19:31.588969+00:00",
   "ministry": "보건복지부",
   "mst": "290475",
   "name": "장애인차별금지 및 권리구제 등에 관한 법률 시행령",
@@ -82655,8 +82661,13 @@
   "version_signature": "cde5514f2216364c"
  },
  "law:eflaw:011157": {
-  "collected_signature": "6ab6844c5f79f01e",
-  "content_hash": "4d43dee55539176a58c020fde42e6d00c2e1472bb2dd70fe407e87fe577cfdc5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 15080
+  },
+  "collected_signature": "020e3f29cddc1c0d",
+  "content_hash": "299d30ce9eb62ad41aa014d8fcf2e3936556a5ff529b88afd13fdb325928e1f3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290945&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "011157",
@@ -82664,13 +82675,15 @@
   "doc_type": "국방부령",
   "emitted_signature": "6ab6844c5f79f01e",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:25:36.617978+00:00",
-  "last_collected_at": "2026-08-25T02:27:10.714663+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.535770+00:00",
+  "last_collected_at": "2026-10-02T20:17:08.331373+00:00",
   "ministry": "국방부",
   "mst": "290945",
   "name": "재산형 등에 관한 군검찰 집행사무규칙",
   "payload_law_id": "011157",
+  "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
   "version_count": 1,
@@ -85494,10 +85507,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 32,
-   "chars": 20067
+   "chars": 20088
   },
-  "collected_signature": "4dbcc55fbf6927e2",
-  "content_hash": "42beebb4a0d67897d5bfc67ec39ba4f7539a4928420d78d766e54461afa0b073",
+  "collected_signature": "194272be04a8a5e9",
+  "content_hash": "0f00995aa9799910c120c5d75148c136c57d188aa0e9ca012bcc0832a41bb434",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290245&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "011359",
@@ -85507,8 +85520,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T17:24:13.706292+00:00",
-  "last_collected_at": "2026-10-01T17:27:22.310783+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.919815+00:00",
+  "last_collected_at": "2026-10-02T20:19:21.805169+00:00",
   "ministry": "경찰청,금융위원회",
   "mst": "290245",
   "name": "전기통신금융사기 피해 방지 및 피해자산 환급에 관한 특별법",
@@ -103275,10 +103288,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 23,
-   "chars": 12267
+   "chars": 12326
   },
-  "collected_signature": "aa983b680cbcd410",
-  "content_hash": "05d3fe5342cd8829ef509ccd9415bad50f9d5add0e271dd0964abc2585406375",
+  "collected_signature": "93e33b8b32af2b15",
+  "content_hash": "ece4fc327e16ffc1a43d2ef38c6c0de3d2e489b0c1fcc5cabd660f19a4a9567e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290477&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "012787",
@@ -103288,8 +103301,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:49:34.864635+00:00",
-  "last_collected_at": "2026-09-29T18:52:18.192196+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.898212+00:00",
+  "last_collected_at": "2026-10-02T20:19:03.133036+00:00",
   "ministry": "인사혁신처",
   "mst": "290477",
   "name": "전문직공무원 인사규정",
@@ -119880,10 +119893,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 53,
-   "chars": 33337
+   "chars": 33388
   },
-  "collected_signature": "56b44b9c3459bb70",
-  "content_hash": "de7995a278225d5b9c521fc0aa475a6261a2708f8961c6dc225ebaa58a1ec0a4",
+  "collected_signature": "4352ed89efe37014",
+  "content_hash": "4debab49ba9f4aa6f7d1e2c6a986954eef8d08500c4f06c7c203570ae75d3f43",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290655&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014450",
@@ -119893,8 +119906,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:49:35.039346+00:00",
-  "last_collected_at": "2026-09-29T18:50:47.283174+00:00",
+  "last_checked_at": "2026-10-02T20:15:57.544569+00:00",
+  "last_collected_at": "2026-10-02T20:20:17.297730+00:00",
   "ministry": "국토교통부",
   "mst": "290655",
   "name": "전세사기피해자 지원 및 주거안정에 관한 특별법",
@@ -119902,7 +119915,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4352ed89efe37014"
  },
  "law:eflaw:014451": {
