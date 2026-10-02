@@ -718,7 +718,14 @@
         "changed": "N",
         "article_key": "0005001",
         "images": [],
-        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#JO0005"
+        "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#JO0005",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제5조(치료명령 청구사건의 보고)\n① 지방공소청장 또는 지방공소청 지청장은 법 제4조 및 제22조에 따라 치료명령을 청구하였을 때에는 지체 없이 법무부장관과 상급 공소청의 장에게 그 사실을 보고하여야 한다. <개정 2026.10.1>\n② 제1항에 따른 치료명령 청구사건의 재판이 확정되었을 때에는 그 법원에 대응하는 공소청의 장은 지체 없이 법무부장관과 상급 공소청의 장에게 그 사실을 보고해야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제5조의2",
@@ -4961,6 +4968,19 @@
       "source_version_uid": "011430:243761:20220705",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20220705"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01136",
+      "addendum_key": "2026100101136",
+      "content": "부칙 <제1136호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290889",
+      "source_version_uid": "011430:290889:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -6393,8 +6413,10 @@
   "provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:성폭력범죄자의성충동약물치료에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "성폭력범죄자의 성충동 약물치료에 관한 법률/시행규칙/성폭력범죄자의 성충동 약물치료에 관한 법률 시행규칙.json"
 }
