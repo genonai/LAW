@@ -13857,7 +13857,14 @@
         "article_key": "0025001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:사립학교법시행령#JO0025"
+        "provision_id": "law:사립학교법시행령#JO0025",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제25조(교원의 징계의결의 요구 등) 사립학교 교원의 임용권자가 법 제64조에 따라 징계의결을 요구하거나 법 제66조의2제3항에 따라 징계의결 재심의를 요구할 때에는 징계의결 요구서 또는 징계의결 재심의 요구서에 다음 각 호의 서류를 첨부해야 한다. <개정 2021.6.22, 2022.3.22, 2025.12.23, 2026.9.29>\n1. 징계혐의자의 인적사항을 기재한 서류\n2. 징계의 종류와 양을 기재한 서류\n3. 징계사유서와 징계요구자의 의견서\n4. 징계혐의사실을 입증하는 증거서류\n5. 징계혐의자의 이력서\n6. 근무성적표\n7. 징계 사유가 「국가공무원법」 제83조의2제1항제1호 각 목의 어느 하나에 해당하는 경우에는 정신건강의학과 의사, 심리학자 등 관련 전문가가 작성한 별지 서식의 전문가 의견서. 다만, 본문에 따른 징계 사유와 관련하여 공소청 또는 경찰 등 수사기관에서 공소장, 혐의자ㆍ관련자ㆍ관련증인에 대한 신문조서 및 진술서 등 수사기록이 통보된 경우는 제외한다."
+          }
+        ]
       },
       {
         "article_no": "제25조의2",
@@ -17457,6 +17464,19 @@
       "source_version_uid": "003727:280457:20251223",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20251223"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "36728",
+      "addendum_key": "2026092936728",
+      "content": "부칙(「공소청법」 및 「중대범죄수사청 조직 및 운영에 관한 법률」의 제정과 「형사소송법」 개정에 따른 관계 법령의 정비를 위한 126개 법령의 일부개정에 관한 대통령령) <제36728호,2026.9.29>\n제1조(시행일) 이 영은 2026년 10월 2일부터 시행한다. <단서 생략>\n제2조부터 제4조까지 생략",
+      "provision_id": "law:사립학교법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290435",
+      "source_version_uid": "003727:290435:20261002",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -17626,8 +17646,10 @@
   "provision_id": "law:사립학교법시행령#DOC",
   "addendum_provision_id": "law:사립학교법시행령#ADDENDUM",
   "amendment_provision_id": "law:사립학교법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "사립학교법/시행령/사립학교법 시행령.json"
 }
