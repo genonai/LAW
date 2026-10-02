@@ -735,7 +735,14 @@
         "changed": "N",
         "article_key": "0004001",
         "images": [],
-        "provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#JO0004"
+        "provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#JO0004",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제4조(위반자의 석방 등)\n①제3조제4항의 규정에 의하여 위반자에 대한 담보금이 납입되거나 담보금보증서가 제출된 때에는 검사는 위반자를 즉시 석방하고, 위반선박 및 압수를 계속할 필요가 없다고 판단되는 압수물을 환부하여야 한다.\n②제1항의 경우 사건사무담당직원은 별지 제9호서식의 위반자석방및위반선박등환부지휘서를 작성하여 검사의 서명ㆍ날인을 받아 해당법경찰관에게 송부하여야 한다.\n③공소청에 수리되어 있는 압수물의 환부절차에 관하여는 「공소청압수물사무규칙」 제4장제5절 및 제5장의 규정을 준용한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -1281,6 +1288,19 @@
       "source_version_uid": "007211:192674:20170321",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20170321"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01131",
+      "addendum_key": "2026100101131",
+      "content": "부칙 <제1131호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290847",
+      "source_version_uid": "007211:290847:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1734,8 +1754,10 @@
   "provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#DOC",
   "addendum_provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#ADDENDUM",
   "amendment_provision_id": "law:배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙/법률/배타적경제수역에서의외국인어업제한위반선박등에대한사법절차에관한규칙.json"
 }
