@@ -802,7 +802,14 @@
         "changed": "N",
         "article_key": "0008001",
         "images": [],
-        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0008"
+        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0008",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제8조(신원관리카드의 인계 등)\n①신원관리카드와 함께 사건기록을 배당받은 검사는 사건 종국결정시 신원관리카드에 해당사항을 기재한 후 즉시 신원관리카드를 관리하는 검사에게 이를 인계하고, 신원관리카드를 관리하는 검사는 별지 제7호서식에 의한 범죄신고자등 신원관리카드대장을 작성하여야 한다.\n②법원이 법 제6조의 규정에 의하여 보좌인을 지정ㆍ취소 또는 교체한 때에는 별지 제8호서식에 의하여 당해 사건을 기소한 공소청(광역공소청, 지방공소청 및 지방공소청 지청을 포함한다)의 신원관리카드를 관리하는 검사에게 그 내용을 통보하여야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제9조",
@@ -1200,7 +1207,14 @@
         "changed": "N",
         "article_key": "0013001",
         "images": [],
-        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0013"
+        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0013",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제13조(이의신청 방법)\n①법 제9조제5항의 규정에 의한 이의신청은 별지 제12호서식에 의한다.\n②지방공소청장(지방공소청 지청장을 포함한다)은 제1항의 규정에 의한 이의신청을 받은 때에는 그에 대한 수용여부를 결정한 후 지체없이 그 결과를 이의신청인에게 서면으로 통지하여야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제14조",
@@ -2313,7 +2327,14 @@
         "changed": "N",
         "article_key": "0023001",
         "images": [],
-        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0023"
+        "provision_id": "law:특정범죄신고자등보호법시행규칙#JO0023",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제23조(법무부장관에의 보고) 심의회는 매분기말 다음달 5일까지 별지 제25호서식에 의한 범죄신고자등구조금지급분기보고서를 공소청을 경유하여 법무부장관에게 제출하여야 한다. 이 경우 제20조제1항의 규정에 의한 가구조결정서 또는 동조제2항의 규정에 의한 구조결정서 등본 1통을 첨부하여야 한다. <개정 2026.10.1>"
+          }
+        ]
       },
       {
         "article_no": "제24조",
@@ -2651,6 +2672,19 @@
       "source_version_uid": "008553:264531:20240730",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20240730"
+    },
+    {
+      "promulgation_date": "20261001",
+      "promulgation_no": "01167",
+      "addendum_key": "2026100101167",
+      "content": "부칙 <제1167호,2026.10.1>\n이 규칙은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:특정범죄신고자등보호법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "290987",
+      "source_version_uid": "008553:290987:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -3702,8 +3736,10 @@
   "provision_id": "law:특정범죄신고자등보호법시행규칙#DOC",
   "addendum_provision_id": "law:특정범죄신고자등보호법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:특정범죄신고자등보호법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "특정범죄신고자 등 보호법/시행규칙/특정범죄신고자 등 보호법 시행규칙.json"
 }
