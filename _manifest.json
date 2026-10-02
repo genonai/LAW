@@ -10185,10 +10185,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 24,
-   "chars": 6779
+   "chars": 6843
   },
-  "collected_signature": "f7e695d32e6da721",
-  "content_hash": "3651353e0ea948f582cbfac5676254a9070aa4377cd65309d63d3074e6275e11",
+  "collected_signature": "b098cb8d2b298ecf",
+  "content_hash": "652b609cf6aa3d11d16d90ab2afceca6f3006f7611d6524a332be60adf2cef71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290761&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001371",
@@ -10198,8 +10198,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:57:59.442939+00:00",
-  "last_collected_at": "2026-09-29T15:59:43.631824+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.400260+00:00",
+  "last_collected_at": "2026-10-02T16:34:20.444663+00:00",
   "ministry": "국가정보원",
   "mst": "290761",
   "name": "국가정보원법",
@@ -10207,7 +10207,7 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b098cb8d2b298ecf"
  },
  "law:eflaw:001372": {
@@ -13486,8 +13486,13 @@
   "version_signature": "824a1b14bf0c7e9c"
  },
  "law:eflaw:001677": {
-  "collected_signature": "10badb48795114f9",
-  "content_hash": "df79925b4d7e541141618f68c624f154fd4890cc139ab87c9efd31d51a9560d1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 6698
+  },
+  "collected_signature": "955a4c237e94b9b4",
+  "content_hash": "7160f6bd9243160723cac71e549af8272d596baf6be58e0dd5f99980b6873cd8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288591&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001677",
@@ -13495,13 +13500,15 @@
   "doc_type": "법률",
   "emitted_signature": "10badb48795114f9",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:19:03.091902+00:00",
-  "last_collected_at": "2026-08-22T19:20:38.545355+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.057850+00:00",
+  "last_collected_at": "2026-10-02T16:33:43.928809+00:00",
   "ministry": "법무부",
   "mst": "288591",
   "name": "국가보안법",
   "payload_law_id": "001677",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
@@ -20602,10 +20609,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 20,
-   "chars": 5187
+   "chars": 5240
   },
-  "collected_signature": "4485fad6a60b1344",
-  "content_hash": "9bd1441b08820a8a9e23899d7ffc345d47b1ae4a57a7831e3de0dec8085b367c",
+  "collected_signature": "767029e946733ec6",
+  "content_hash": "cf2b08e245831f1c0b16137530408ff0b9efa3dab5f0de184ec9dd8ad79604e4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290355&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "002656",
@@ -20615,8 +20622,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:57:59.434930+00:00",
-  "last_collected_at": "2026-09-29T15:59:44.031537+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.413823+00:00",
+  "last_collected_at": "2026-10-02T16:34:43.826782+00:00",
   "ministry": "법무부",
   "mst": "290355",
   "name": "국가보안유공자 상금지급 등에 관한 규정",
@@ -55865,8 +55872,13 @@
   "version_signature": "8afdf51d62699052"
  },
  "law:eflaw:009146": {
-  "collected_signature": "a90bc72030a9188a",
-  "content_hash": "ec0490e7d3a450680d3f6e3145a5e174264becc0e46b9a025223b8a195acfa97",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 77,
+   "chars": 24401
+  },
+  "collected_signature": "0a2c0766f2f48fed",
+  "content_hash": "bb93cfda6117d6895707fc930269e00b874a4be6e1e018940f134c966d8475f1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288593&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "009146",
@@ -55874,13 +55886,15 @@
   "doc_type": "법률",
   "emitted_signature": "a90bc72030a9188a",
   "enforcement_date": "20261002",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:52:19.832376+00:00",
-  "last_collected_at": "2026-08-22T19:56:36.515007+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.415276+00:00",
+  "last_collected_at": "2026-10-02T16:35:02.903576+00:00",
   "ministry": "국가인권위원회",
   "mst": "288593",
   "name": "국가인권위원회법",
   "payload_law_id": "009146",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
   "version_count": 1,
@@ -57768,10 +57782,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 25,
-   "chars": 12334
+   "chars": 12355
   },
-  "collected_signature": "c69ab81bf673944c",
-  "content_hash": "2207a4ae35017e54ffa4c42c0b3d27f141393c647d0251ac7ffdc30823caef61",
+  "collected_signature": "bdf8e1c4ec56d861",
+  "content_hash": "b3f4b96620c8808c316667b183145a209c9afc5b4dc2b563e3b7069312574022",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290357&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "009296",
@@ -57781,8 +57795,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:57:59.270783+00:00",
-  "last_collected_at": "2026-09-29T15:59:35.732392+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.431723+00:00",
+  "last_collected_at": "2026-10-02T16:34:31.383842+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "국가인권위원회,행정안전부",
   "mst": "290357",
@@ -110628,10 +110642,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 43,
-   "chars": 25375
+   "chars": 25467
   },
-  "collected_signature": "7ea7d37c9f7ee14d",
-  "content_hash": "ebe340f12d8c17d1b726512f14c7a3d28813a1847960b21e738f6bdee1f46afe",
+  "collected_signature": "a03d3c4baa8c9d32",
+  "content_hash": "14d24592d56b4116745ad72cf3e2d8f62fbe04f446e763135b8833229d252d77",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290757&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "013774",
@@ -110641,8 +110655,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:57:59.147966+00:00",
-  "last_collected_at": "2026-09-29T15:59:57.034909+00:00",
+  "last_checked_at": "2026-10-02T16:33:08.202854+00:00",
+  "last_collected_at": "2026-10-02T16:35:03.621251+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "290757",
   "name": "국가연구개발혁신법",
@@ -110650,7 +110664,7 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a03d3c4baa8c9d32"
  },
  "law:eflaw:013779": {
