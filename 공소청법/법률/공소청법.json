@@ -947,8 +947,10 @@
   "provision_id": "law:공소청법#DOC",
   "addendum_provision_id": "law:공소청법#ADDENDUM",
   "amendment_provision_id": "law:공소청법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "공소청법/법률/공소청법.json"
 }
