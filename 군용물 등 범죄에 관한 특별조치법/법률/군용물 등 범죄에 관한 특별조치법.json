@@ -1226,7 +1226,14 @@
         "article_key": "0006001",
         "moved": "000000",
         "images": [],
-        "provision_id": "law:군용물등범죄에관한특별조치법#JO0006"
+        "provision_id": "law:군용물등범죄에관한특별조치법#JO0006",
+        "scheduled": [
+          {
+            "enforcement_date": "20261002",
+            "change": "개정",
+            "content": "제6조(검사와의 협력 등)\n① 「사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률」 제9조제1항에 따라 사법경찰관리의 직무를 하는 사람은 「군형법」의 적용대상자가 아닌 이 법 위반 피의자(이하 \"피의자\"라 한다)에 대한 범죄수사를 할 때에는 검사의 지도ㆍ조언을 요청할 수 있다. <개정 2026.9.29>\n② 지방공소청장 또는 지청장은 피의자에 대한 불법 구속의 여부를 조사하기 위하여 필요하다고 인정하면 소속 검사로 하여금 관하(管下) 군 수사기관의 피의자 구속장소를 점검하게 하며, 점검하는 검사는 피의자를 심문(審問)하고 구속에 관한 서류를 조사할 수 있다. <개정 2026.9.29>\n③ 검사는 피의자가 불법으로 구속된 것이라고 의심할 만한 충분한 이유가 있는 경우에는 즉시 해당 군 수사기관으로 하여금 구속된 자를 석방하게 하여야 한다. <개정 2026.9.29>"
+          }
+        ]
       }
     ]
   },
@@ -1266,6 +1273,19 @@
       "source_version_uid": "001155:179005:20160106",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20160106"
+    },
+    {
+      "promulgation_date": "20260929",
+      "promulgation_no": "21992",
+      "addendum_key": "2026092921992",
+      "content": "부칙 <제21992호,2026.9.29>\n이 법은 2026년 10월 2일부터 시행한다.",
+      "provision_id": "law:군용물등범죄에관한특별조치법#ADDENDUM",
+      "is_future": true,
+      "source_mst": "289813",
+      "source_version_uid": "001155:289813:20261002",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261002",
+      "enforcement_date": "20261002"
     }
   ],
   "appendices": [
@@ -1331,8 +1351,10 @@
   "provision_id": "law:군용물등범죄에관한특별조치법#DOC",
   "addendum_provision_id": "law:군용물등범죄에관한특별조치법#ADDENDUM",
   "amendment_provision_id": "law:군용물등범죄에관한특별조치법#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261002"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "군용물 등 범죄에 관한 특별조치법/법률/군용물 등 범죄에 관한 특별조치법.json"
 }
