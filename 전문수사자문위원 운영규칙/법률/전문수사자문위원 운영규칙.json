@@ -856,10 +856,10 @@
             "target_url": "https://www.law.go.kr/행정규칙/(법무부) 참고인등비용지급규칙",
             "resolve_method": "render",
             "source_provision_id": "law:전문수사자문위원운영규칙#JO0008",
-            "reference_id": "admrul:(법무부)참고인등비용지급규칙#DOC",
+            "reference_id": "admrul:(법무부)사건관계인등비용지급규칙#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(법무부) 참고인등비용지급규칙/(법무부) 참고인등비용지급규칙.json",
-            "target_git_path": "(법무부) 참고인등비용지급규칙/(법무부) 참고인등비용지급규칙.json",
+            "target_git_path": "(법무부) 사건관계인등비용지급규칙/(법무부) 사건관계인등비용지급규칙.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙"
@@ -886,10 +886,10 @@
               "target_url": "https://www.law.go.kr/행정규칙/(법무부) 참고인등비용지급규칙"
             },
             "source_provision_id": "law:전문수사자문위원운영규칙#JO0008",
-            "reference_id": "admrul:(법무부)참고인등비용지급규칙#DOC",
+            "reference_id": "admrul:(법무부)사건관계인등비용지급규칙#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "(법무부) 참고인등비용지급규칙/(법무부) 참고인등비용지급규칙.json",
-            "target_git_path": "(법무부) 참고인등비용지급규칙/(법무부) 참고인등비용지급규칙.json",
+            "target_git_path": "(법무부) 사건관계인등비용지급규칙/(법무부) 사건관계인등비용지급규칙.json",
             "target_source_repository": "ADMRUL"
           }
         ],
@@ -1250,5 +1250,6 @@
   "version_count": 2,
   "git_path": "전문수사자문위원 운영규칙/법률/전문수사자문위원 운영규칙.json",
   "repealed": true,
-  "repealed_at": "20261003"
+  "repealed_at": "20261003",
+  "_schlpub_id_suffix": "법률"
 }

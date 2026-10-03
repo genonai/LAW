@@ -76,7 +76,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:공소청법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -95,7 +97,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:공소청법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -114,7 +118,9 @@
             "source_provision_id": "law:검사정원법#JO0001",
             "reference_id": "law:공소청법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "revision_type": "타법개정",
@@ -149,7 +155,9 @@
             "source_provision_id": "law:검사정원법#JO0002",
             "reference_id": "law:검사정원법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/시행령/검사정원법 시행령.json"
+            "target_git_path_guess": "검사정원법/시행령/검사정원법 시행령.json",
+            "target_git_path": "검사정원법/시행령/검사정원법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -168,7 +176,9 @@
             "source_provision_id": "law:검사정원법#JO0002",
             "reference_id": "law:검사정원법#JO0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사정원법/법률/검사정원법.json"
+            "target_git_path_guess": "검사정원법/법률/검사정원법.json",
+            "target_git_path": "검사정원법/법률/검사정원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[제목개정 2026.3.24]",
@@ -253,5 +263,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검사정원법/법률/검사정원법.json"
+  "git_path": "검사정원법/법률/검사정원법.json",
+  "_schlpub_id_suffix": "법률"
 }

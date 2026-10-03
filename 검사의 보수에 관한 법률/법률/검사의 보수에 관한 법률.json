@@ -80,7 +80,9 @@
             "source_provision_id": "law:검사의보수에관한법률#JO0001",
             "reference_id": "law:공소청법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -99,7 +101,9 @@
             "source_provision_id": "law:검사의보수에관한법률#JO0001",
             "reference_id": "law:공소청법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -118,7 +122,9 @@
             "source_provision_id": "law:검사의보수에관한법률#JO0001",
             "reference_id": "law:공소청법#JO0044",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.11.2]",
@@ -154,7 +160,9 @@
             "source_provision_id": "law:검사의보수에관한법률#JO0002",
             "reference_id": "law:검사의보수에관한법률시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json"
+            "target_git_path_guess": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json",
+            "target_git_path": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -178,7 +186,10 @@
             "target_unit": "BYL0001",
             "reference_id": "law:검사의보수에관한법률#BYL0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json"
+            "target_git_path_guess": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json",
+            "target_git_path": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json",
+            "target_git_file_path": "검사의 보수에 관한 법률/법률/별표/별표1_검사의 봉급표.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -202,7 +213,10 @@
             "target_unit": "BYL0002",
             "reference_id": "law:검사의보수에관한법률#BYL0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json"
+            "target_git_path_guess": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json",
+            "target_git_path": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json",
+            "target_git_file_path": "검사의 보수에 관한 법률/법률/별표/별표2_검사의 봉급기준표.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.11.2]",
@@ -252,7 +266,9 @@
             "source_provision_id": "law:검사의보수에관한법률#JO0004",
             "reference_id": "law:검사의보수에관한법률시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json"
+            "target_git_path_guess": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json",
+            "target_git_path": "검사의 보수에 관한 법률/시행령/검사의 보수에 관한 법률 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.11.2]",
@@ -579,5 +595,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json"
+  "git_path": "검사의 보수에 관한 법률/법률/검사의 보수에 관한 법률.json",
+  "_schlpub_id_suffix": "법률"
 }

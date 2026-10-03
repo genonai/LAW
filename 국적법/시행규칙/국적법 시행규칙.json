@@ -78,7 +78,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0001",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -97,7 +99,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0001",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -132,7 +136,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -151,7 +157,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "law:국적법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -170,7 +178,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "law:국적법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -194,7 +204,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:국적법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식1_국적취득 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -213,7 +226,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -232,7 +247,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "law:가족관계의등록등에관한법률#JO0093",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -251,7 +268,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -277,7 +298,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0002",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -312,7 +335,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -331,7 +356,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -350,7 +377,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -374,7 +403,10 @@
             "target_unit": "FORM0002",
             "reference_id": "law:국적법시행규칙#FORM0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식2_귀화허가 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -393,7 +425,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -412,7 +446,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -431,7 +467,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -450,7 +488,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -469,7 +509,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -488,7 +530,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -507,7 +551,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -526,7 +572,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -545,7 +593,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -564,7 +614,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -583,7 +635,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -602,7 +656,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -621,7 +677,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -640,7 +698,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -659,7 +719,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행규칙#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -678,7 +740,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -697,7 +761,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -716,7 +782,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -735,7 +803,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -754,7 +824,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -773,7 +845,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -792,7 +866,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +887,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -830,7 +908,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -849,7 +929,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -868,7 +950,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -887,7 +971,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -906,7 +992,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -925,7 +1013,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -944,7 +1034,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -963,7 +1055,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -982,7 +1076,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1001,7 +1097,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1020,7 +1118,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1039,7 +1139,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1058,7 +1160,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1077,7 +1181,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1096,7 +1202,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1115,7 +1223,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1134,7 +1244,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1153,7 +1265,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1172,7 +1286,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1191,7 +1307,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1210,7 +1328,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1229,7 +1349,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1248,7 +1370,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1267,7 +1391,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1286,7 +1412,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1305,7 +1433,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1324,7 +1454,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1343,7 +1475,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1362,7 +1496,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1381,7 +1517,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1400,7 +1538,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1419,7 +1559,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:가족관계의등록등에관한법률#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1438,7 +1580,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1457,7 +1601,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1476,7 +1622,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1495,7 +1643,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1514,7 +1664,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1533,7 +1685,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1552,7 +1706,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1571,7 +1727,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1590,7 +1748,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1609,7 +1769,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1628,7 +1790,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1647,7 +1811,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -1671,7 +1837,10 @@
             "target_unit": "FORM0002_02",
             "reference_id": "law:국적법시행규칙#FORM0002_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식2의2_귀화 추천서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1690,7 +1859,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1709,7 +1880,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1728,7 +1901,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1747,7 +1922,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1766,7 +1943,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1785,7 +1964,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1804,7 +1985,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "law:국적법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1823,7 +2006,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1849,7 +2036,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0003",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -1884,7 +2073,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1903,7 +2094,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1922,7 +2115,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1941,7 +2136,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1960,7 +2157,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1979,7 +2178,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1998,7 +2199,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2017,7 +2220,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2036,7 +2241,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2055,7 +2262,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2074,7 +2283,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2093,7 +2304,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2112,7 +2325,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:출입국관리법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2131,7 +2346,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:출입국관리법#JO0039",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2150,7 +2367,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2169,7 +2388,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2188,7 +2409,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "law:국적법시행령#JO0004_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2207,7 +2430,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2226,7 +2453,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2252,7 +2483,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -2278,7 +2511,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0004",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27][제목개정 2014.6.18, 2017.8.29]",
@@ -2313,7 +2548,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2332,7 +2569,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005",
             "reference_id": "law:국적법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2351,7 +2590,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005",
             "reference_id": "law:국적법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2370,7 +2611,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2389,7 +2632,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005",
             "reference_id": "law:국적법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -2424,7 +2669,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2443,7 +2690,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:국적법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2462,7 +2711,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:국적법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2481,7 +2732,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2500,7 +2753,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2519,7 +2774,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#JO0059",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2538,7 +2795,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2557,7 +2816,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2576,7 +2837,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0005_02",
             "reference_id": "law:출입국관리법#JO0068",
             "target_repo": "LAW",
-            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json"
+            "target_git_path_guess": "출입국관리법/법률/출입국관리법.json",
+            "target_git_path": "출입국관리법/법률/출입국관리법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2018.12.20]",
@@ -2611,7 +2874,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2630,7 +2895,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -2654,7 +2921,10 @@
             "target_unit": "FORM0003",
             "reference_id": "law:국적법시행규칙#FORM0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식3_국적회복허가 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2673,7 +2943,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2692,7 +2964,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:가족관계의등록등에관한법률#JO0095",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2711,7 +2985,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2730,7 +3006,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2749,7 +3027,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2768,7 +3048,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2787,7 +3069,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2806,7 +3090,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2825,7 +3111,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2844,7 +3132,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2863,7 +3155,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -2889,7 +3185,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0006",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -2953,7 +3251,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2972,7 +3272,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2991,7 +3293,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3010,7 +3314,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3034,7 +3340,10 @@
             "target_unit": "FORM0005",
             "reference_id": "law:국적법시행규칙#FORM0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식5_외국국적 포기확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -3069,7 +3378,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3088,7 +3399,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3107,7 +3420,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3131,7 +3446,10 @@
             "target_unit": "FORM0005_02",
             "reference_id": "law:국적법시행규칙#FORM0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식5의2_외국국적불행사 서약서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3150,7 +3468,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3169,7 +3489,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3188,7 +3510,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3207,7 +3531,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3226,7 +3552,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3245,7 +3573,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3264,7 +3594,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3283,7 +3615,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3302,7 +3636,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3321,7 +3657,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0008_02",
             "reference_id": "law:국적법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3345,7 +3683,10 @@
             "target_unit": "FORM0005_03",
             "reference_id": "law:국적법시행규칙#FORM0005_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식5의3_외국국적불행사 서약확인서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -3394,7 +3735,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3413,7 +3756,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "law:국적법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3432,7 +3777,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "law:국적법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3456,7 +3803,10 @@
             "target_unit": "FORM0001",
             "reference_id": "law:국적법시행규칙#FORM0001",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식1_국적취득 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3475,7 +3825,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3494,7 +3846,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "law:가족관계의등록등에관한법률#JO0093",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -3513,7 +3867,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -3539,7 +3897,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -3574,7 +3934,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3593,7 +3955,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0010_02",
             "reference_id": "law:국적법시행령#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27][제목개정 2024.4.29]",
@@ -3628,7 +3992,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3647,7 +4013,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3666,7 +4034,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3685,7 +4055,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -3709,7 +4081,10 @@
             "target_unit": "FORM0007",
             "reference_id": "law:국적법시행규칙#FORM0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식7_국적선택 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3728,7 +4103,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3747,7 +4124,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3766,7 +4145,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3785,7 +4166,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3804,7 +4187,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3823,7 +4208,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3842,7 +4229,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3861,7 +4250,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3880,7 +4271,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3899,7 +4292,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3918,7 +4313,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3937,7 +4334,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -3956,7 +4355,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0011",
             "reference_id": "law:국적법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -3991,7 +4392,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4010,7 +4413,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4029,7 +4434,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4053,7 +4460,10 @@
             "target_unit": "FORM0008",
             "reference_id": "law:국적법시행규칙#FORM0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식8_국적이탈 신고서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4072,7 +4482,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4091,7 +4503,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법시행령#JO0016_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4110,7 +4524,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4129,7 +4545,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4148,7 +4566,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:국적법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4167,7 +4587,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4186,7 +4608,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4205,7 +4629,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -4240,7 +4666,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4259,7 +4687,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4278,7 +4708,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4297,7 +4729,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4321,7 +4755,10 @@
             "target_unit": "FORM0008_02",
             "reference_id": "law:국적법시행규칙#FORM0008_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식8의2_국적이탈 허가신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4340,7 +4777,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4359,7 +4798,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4378,7 +4819,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4397,7 +4840,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4416,7 +4861,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4435,7 +4882,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4454,7 +4903,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행령#JO0018_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4473,7 +4924,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4492,7 +4945,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4511,7 +4966,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4530,7 +4987,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행규칙#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4549,7 +5008,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행규칙#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -4568,7 +5029,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법시행규칙#JO0010_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4587,7 +5050,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4606,7 +5071,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4625,7 +5092,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:국적법#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4644,7 +5113,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4663,7 +5134,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4682,7 +5155,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_02",
             "reference_id": "law:전자정부법#JO0036",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2022.12.20][종전 제12조의2는 제12조의3으로 이동 <2022.12.20>]",
@@ -4717,7 +5192,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_03",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4736,7 +5213,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_03",
             "reference_id": "law:국적법시행령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4755,7 +5234,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_03",
             "reference_id": "law:국적법시행령#JO0018_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -4779,7 +5260,10 @@
             "target_unit": "FORM0008_03",
             "reference_id": "law:국적법시행규칙#FORM0008_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식8의3_국적선택명령서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27][제12조의2에서 이동, 종전 제12조의3은 제12조의4로 이동 <2022.12.20>]",
@@ -4814,7 +5298,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4833,7 +5319,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:국적법시행령#JO0018_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4852,7 +5340,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:국적법시행령#JO0018_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4871,7 +5361,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:형법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "형법/법률/형법.json"
+            "target_git_path_guess": "형법/법률/형법.json",
+            "target_git_path": "형법/법률/형법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4890,7 +5382,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:성폭력범죄의처벌등에관한특례법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json"
+            "target_git_path_guess": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_git_path": "성폭력범죄의 처벌 등에 관한 특례법/법률/성폭력범죄의 처벌 등에 관한 특례법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4909,7 +5403,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:마약류관리에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "마약류관리에 관한 법률/법률/마약류관리에 관한 법률.json"
+            "target_git_path_guess": "마약류관리에 관한 법률/법률/마약류관리에 관한 법률.json",
+            "target_git_path": "마약류 관리에 관한 법률/법률/마약류 관리에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4928,7 +5424,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4947,7 +5445,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0005_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4966,7 +5466,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0005_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -4985,7 +5487,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0005_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5004,7 +5508,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0005_09",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5023,7 +5529,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:특정범죄가중처벌등에관한법률#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json"
+            "target_git_path_guess": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_git_path": "특정범죄 가중처벌 등에 관한 법률/법률/특정범죄 가중처벌 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5042,7 +5550,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:폭력행위등처벌에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
+            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5061,7 +5571,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:폭력행위등처벌에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json"
+            "target_git_path_guess": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
+            "target_git_path": "폭력행위 등 처벌에 관한 법률/법률/폭력행위 등 처벌에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5080,7 +5592,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_04",
             "reference_id": "law:보건범죄단속에관한특별조치법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "보건범죄단속에 관한 특별조치법/법률/보건범죄단속에 관한 특별조치법.json"
+            "target_git_path_guess": "보건범죄단속에 관한 특별조치법/법률/보건범죄단속에 관한 특별조치법.json",
+            "target_git_path": "보건범죄 단속에 관한 특별조치법/법률/보건범죄 단속에 관한 특별조치법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27][제12조의3에서 이동, 종전 제12조의4는 제12조의5로 이동 <2022.12.20>]",
@@ -5115,7 +5629,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5134,7 +5650,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#JO0018_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5153,7 +5671,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#JO0018_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5177,7 +5697,10 @@
             "target_unit": "FORM0008_04",
             "reference_id": "law:국적법시행규칙#FORM0008_04",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식8의4_복수국적자 발견 통보서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5196,7 +5719,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5215,7 +5740,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#JO0018_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5234,7 +5761,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0012_05",
             "reference_id": "law:국적법시행령#JO0018_06",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5258,7 +5787,10 @@
             "target_unit": "FORM0008_05",
             "reference_id": "law:국적법시행규칙#FORM0008_05",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식8의5_복수국적자 기록표.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27][제12조의4에서 이동 <2022.12.20>]",
@@ -5293,7 +5825,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0013",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5312,7 +5846,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0013",
             "reference_id": "law:국적법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5331,7 +5867,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0013",
             "reference_id": "law:국적법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5355,7 +5893,10 @@
             "target_unit": "FORM0009",
             "reference_id": "law:국적법시행규칙#FORM0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식9_국적보유 신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -5390,7 +5931,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0014",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5409,7 +5952,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0014",
             "reference_id": "law:국적법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5428,7 +5973,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0014",
             "reference_id": "law:국적법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5452,7 +5999,10 @@
             "target_unit": "FORM0010",
             "reference_id": "law:국적법시행규칙#FORM0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식10_국적상실 신고서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -5487,7 +6037,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "law:국적법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5506,7 +6058,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "law:국적법시행령#JO0023",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행령/국적법 시행령.json"
+            "target_git_path_guess": "국적법/시행령/국적법 시행령.json",
+            "target_git_path": "국적법/시행령/국적법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5530,7 +6084,10 @@
             "target_unit": "FORM0011",
             "reference_id": "law:국적법시행규칙#FORM0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식11_국적 판정 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5549,7 +6106,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "law:가족관계의등록등에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5568,7 +6127,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "law:가족관계의등록등에관한법률#JO0098",
             "target_repo": "LAW",
-            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json"
+            "target_git_path_guess": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_git_path": "가족관계의 등록 등에 관한 법률/법률/가족관계의 등록 등에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5587,7 +6148,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -5613,7 +6178,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0015",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -5668,7 +6235,10 @@
             "target_unit": "FORM0012",
             "reference_id": "law:국적법시행규칙#FORM0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식12_사실증명서 발급 신청서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5692,7 +6262,10 @@
             "target_unit": "FORM0013",
             "reference_id": "law:국적법시행규칙#FORM0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식13_국적취득 사실증명서.hwp",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "appendix_ref",
@@ -5716,7 +6289,10 @@
             "target_unit": "FORM0014",
             "reference_id": "law:국적법시행규칙#FORM0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_file_path": "국적법/시행규칙/서식/서식14_(국적상실, 국적선택, 국적보유신고, 국적이탈) 사실증명서.hwp",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.6.18]",
@@ -5751,7 +6327,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법시행규칙#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json"
+            "target_git_path_guess": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_git_path": "국적법/시행규칙/국적법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5770,7 +6348,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5789,7 +6369,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5808,7 +6390,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5827,7 +6411,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5846,7 +6432,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5865,7 +6453,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5884,7 +6474,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5903,7 +6495,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:국적법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "국적법/법률/국적법.json"
+            "target_git_path_guess": "국적법/법률/국적법.json",
+            "target_git_path": "국적법/법률/국적법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5922,7 +6516,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:전자정부법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5941,7 +6537,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:전자정부법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -5960,7 +6558,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "law:전자정부법#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "전자정부법/법률/전자정부법.json"
+            "target_git_path_guess": "전자정부법/법률/전자정부법.json",
+            "target_git_path": "전자정부법/법률/전자정부법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -5979,7 +6579,11 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -6005,7 +6609,9 @@
             "source_provision_id": "law:국적법시행규칙#JO0018",
             "reference_id": "admrul:국적업무처리지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json"
+            "target_git_path_guess": "국적업무처리지침/국적업무처리지침.json",
+            "target_git_path": "국적업무처리지침/국적업무처리지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2011.5.27]",
@@ -7219,5 +7825,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "국적법/시행규칙/국적법 시행규칙.json"
+  "git_path": "국적법/시행규칙/국적법 시행규칙.json",
+  "_schlpub_id_suffix": "시행규칙"
 }

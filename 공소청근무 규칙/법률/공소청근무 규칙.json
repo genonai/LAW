@@ -79,7 +79,9 @@
             "source_provision_id": "law:공소청근무규칙#JO0001",
             "reference_id": "law:공소청법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -98,7 +100,9 @@
             "source_provision_id": "law:공소청근무규칙#JO0001",
             "reference_id": "law:공소청법#JO0058",
             "target_repo": "LAW",
-            "target_git_path_guess": "공소청법/법률/공소청법.json"
+            "target_git_path_guess": "공소청법/법률/공소청법.json",
+            "target_git_path": "공소청법/법률/공소청법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2026.10.1]",
@@ -438,5 +442,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "공소청근무 규칙/법률/공소청근무 규칙.json"
+  "git_path": "공소청근무 규칙/법률/공소청근무 규칙.json",
+  "_schlpub_id_suffix": "법률"
 }
