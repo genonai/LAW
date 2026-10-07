@@ -4571,13 +4571,30 @@
             "target_url": "https://www.law.go.kr/행정규칙/산림병해충 방제규정",
             "resolve_method": "render",
             "source_provision_id": "law:산림재난방지법#JO0044",
-            "reference_id": "admrul:산림병해충방제규정#DOC",
+            "reference_id": "admrul:산림병해충방제규정:admrul_98356#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산림병해충 방제규정/산림병해충 방제규정.json",
-            "target_git_path": "산림병해충 방제규정/산림병해충 방제규정.json",
+            "target_git_path": "산림병해충 방제규정/admrul_98356/산림병해충 방제규정.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
-            "target_doc_kind": "행정규칙"
+            "target_doc_kind": "행정규칙",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산림병해충 방제규정/admrul_35237/산림병해충 방제규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산림병해충방제규정:admrul_35237#DOC",
+                "is_current": true,
+                "enforcement_date": "20241210"
+              },
+              {
+                "git_path": "산림병해충 방제규정/admrul_98356/산림병해충 방제규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산림병해충방제규정:admrul_98356#DOC",
+                "is_current": true,
+                "enforcement_date": "20260908"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -4617,11 +4634,28 @@
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
             "source_provision_id": "law:산림재난방지법#JO0044",
-            "reference_id": "admrul:산림병해충방제규정#DOC",
+            "reference_id": "admrul:산림병해충방제규정:admrul_98356#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "산림병해충 방제규정/산림병해충 방제규정.json",
-            "target_git_path": "산림병해충 방제규정/산림병해충 방제규정.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "산림병해충 방제규정/admrul_98356/산림병해충 방제규정.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "산림병해충 방제규정/admrul_35237/산림병해충 방제규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산림병해충방제규정:admrul_35237#DOC",
+                "is_current": true,
+                "enforcement_date": "20241210"
+              },
+              {
+                "git_path": "산림병해충 방제규정/admrul_98356/산림병해충 방제규정.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:산림병해충방제규정:admrul_98356#DOC",
+                "is_current": true,
+                "enforcement_date": "20260908"
+              }
+            ]
           }
         ],
         "revision_type": "일부개정",
