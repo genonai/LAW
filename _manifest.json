@@ -5377,8 +5377,13 @@
   "version_signature": "2223d1d212528b12"
  },
  "law:eflaw:000815": {
-  "collected_signature": "4191787a2f36a86c",
-  "content_hash": "c19ebf7533e346fcae6a8af24d7dece3272337c9f824084d4999e8fdd6ff6730",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 67,
+   "chars": 28781
+  },
+  "collected_signature": "698822b48fae1095",
+  "content_hash": "66e93dba9acc1e59f3b5b5badbdba0475d2e4ee40b9794331fe6fa46297d29db",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285397&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "000815",
@@ -5386,16 +5391,18 @@
   "doc_type": "법률",
   "emitted_signature": "4191787a2f36a86c",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:03.845867+00:00",
-  "last_collected_at": "2026-08-25T18:26:43.778781+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.838960+00:00",
+  "last_collected_at": "2026-10-08T01:35:10.331274+00:00",
   "ministry": "성평등가족부",
   "mst": "285397",
   "name": "청소년 보호법",
   "payload_law_id": "000815",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "698822b48fae1095"
  },
  "law:eflaw:000816": {
@@ -11573,8 +11580,13 @@
   "version_signature": "4b28728071d5a148"
  },
  "law:eflaw:001507": {
-  "collected_signature": "10fad57fc030f0f8",
-  "content_hash": "b2ff69fbabd4b4a229a9a4e1539a06925d78b0fd2799dcfd1ff27dbcda0ccc7a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 75,
+   "chars": 49041
+  },
+  "collected_signature": "f760a24e72ebe44c",
+  "content_hash": "c9e0aa722ae095948808310e194aaaa553c87654241cb4f71d97503b7412e0a5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285351&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "001507",
@@ -11582,16 +11594,18 @@
   "doc_type": "법률",
   "emitted_signature": "10fad57fc030f0f8",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T19:15:13.869128+00:00",
-  "last_collected_at": "2026-08-25T19:28:40.796453+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.804308+00:00",
+  "last_collected_at": "2026-10-08T01:35:56.537490+00:00",
   "ministry": "식품의약품안전처",
   "mst": "285351",
   "name": "축산물 위생관리법",
   "payload_law_id": "001507",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f760a24e72ebe44c"
  },
  "law:eflaw:001509": {
@@ -16922,10 +16936,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 71,
-   "chars": 28972
+   "chars": 28959
   },
-  "collected_signature": "0ac6eab2045d1e99",
-  "content_hash": "007f67618466db7a28322d9b9d86c064ac4ac0f0f7a38e3e7e0320c6ab70e830",
+  "collected_signature": "048a37601dbb0ba9",
+  "content_hash": "8fe2b90971dfe7fa75cf0d17339781423d8dff70a2d638740162d3723aed8e37",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285353&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "002015",
@@ -16935,8 +16949,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T18:08:27.624952+00:00",
-  "last_collected_at": "2026-09-15T18:10:46.938652+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.641134+00:00",
+  "last_collected_at": "2026-10-08T01:33:28.392623+00:00",
   "ministry": "식품의약품안전처",
   "mst": "285353",
   "name": "화장품법",
@@ -16944,7 +16958,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "048a37601dbb0ba9"
  },
  "law:eflaw:002016": {
@@ -33667,10 +33681,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 53,
-   "chars": 22339
+   "chars": 22237
   },
-  "collected_signature": "80fe06012dae87dd",
-  "content_hash": "309d349c4befcf4038a80075c6c3e1f65b2d5faee17f032922b44298d50220c1",
+  "collected_signature": "dd1c6385fb9d021e",
+  "content_hash": "5939d74eea4bbd38e15427c809d9405e2f2a05403a03dab91451029dad081343",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289973&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "005209",
@@ -33680,8 +33694,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:40:23.418979+00:00",
-  "last_collected_at": "2026-09-23T02:44:53.303488+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.804115+00:00",
+  "last_collected_at": "2026-10-08T01:35:50.537860+00:00",
   "ministry": "성평등가족부",
   "mst": "289973",
   "name": "청소년 보호법 시행령",
@@ -107996,8 +108010,13 @@
   "version_signature": "30658abf49f43256"
  },
  "law:eflaw:013481": {
-  "collected_signature": "1885ec395d0ecd60",
-  "content_hash": "86cfcf5f1538dec4d02eafa7a5fc4a8579d4c6ea61c64290a8f576f282fb28bc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 18198
+  },
+  "collected_signature": "a078e895c6aea51f",
+  "content_hash": "db61cf1b82c05768a5cdbb72e17b832e469bd72d4270aa13a15f385fe348755e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285349&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "013481",
@@ -108005,13 +108024,15 @@
   "doc_type": "법률",
   "emitted_signature": "1885ec395d0ecd60",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:39:05.821405+00:00",
-  "last_collected_at": "2026-08-25T18:42:33.812447+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.506114+00:00",
+  "last_collected_at": "2026-10-08T01:32:35.614846+00:00",
   "ministry": "식품의약품안전처",
   "mst": "285349",
   "name": "체외진단의료기기법",
   "payload_law_id": "013481",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
   "version_count": 1,
@@ -108655,8 +108676,13 @@
   "version_signature": "1975841a93f3128f"
  },
  "law:eflaw:013572": {
-  "collected_signature": "efa02474c349e8a0",
-  "content_hash": "72b5edf538342e40d441bc6c69f722b67d0a5dbfd3e31ffbbcad4b10b71131a7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 41353
+  },
+  "collected_signature": "4fbcdf4e6ded0848",
+  "content_hash": "fc692098b293a50de5ed7e2a123f93935c1f2a24193e320760a9e47b01533c6f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285347&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "013572",
@@ -108664,16 +108690,18 @@
   "doc_type": "법률",
   "emitted_signature": "efa02474c349e8a0",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:14:08.476903+00:00",
-  "last_collected_at": "2026-08-25T18:20:38.053451+00:00",
+  "last_checked_at": "2026-10-08T01:29:42.622102+00:00",
+  "last_collected_at": "2026-10-08T01:34:25.644432+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "285347",
   "name": "첨단재생의료 및 첨단바이오의약품 안전 및 지원에 관한 법률",
   "payload_law_id": "013572",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "4fbcdf4e6ded0848"
  },
  "law:eflaw:013573": {
