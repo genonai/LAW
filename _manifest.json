@@ -1492,8 +1492,13 @@
   "version_signature": "49076e728b57bb73"
  },
  "law:eflaw:000162": {
-  "collected_signature": "507ab103eeba729d",
-  "content_hash": "333fa85cb7fd819f0afedda7337e7561e0b02a13bae29874e1e0f2699318448b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 79,
+   "chars": 51271
+  },
+  "collected_signature": "c75c7a5d1cf76ca2",
+  "content_hash": "a1dfa318a7c5bf6dc55f934fa1bba016f708a645f5a22e111a791a7229dcd934",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285367&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "000162",
@@ -1501,13 +1506,15 @@
   "doc_type": "법률",
   "emitted_signature": "507ab103eeba729d",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:48:23.877483+00:00",
-  "last_collected_at": "2026-08-26T11:56:48.447334+00:00",
+  "last_checked_at": "2026-10-08T01:36:40.377072+00:00",
+  "last_collected_at": "2026-10-08T01:39:50.851347+00:00",
   "ministry": "기후에너지환경부",
   "mst": "285367",
   "name": "화학물질관리법",
   "payload_law_id": "000162",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
   "version_count": 1,
@@ -30029,10 +30036,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 34,
-   "chars": 15403
+   "chars": 15507
   },
-  "collected_signature": "493be0837cfbf02d",
-  "content_hash": "8ebeae8fb50bdb9571a3e85f03a1c8bc410e8270e9b3428b2230dbeadf955bd8",
+  "collected_signature": "039969c6d3a26f13",
+  "content_hash": "b512b20a03dbd6bece6bb5c1bb9a056c4d471a78db2b65c7a4fcea91daa0ff3e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290837&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "004390",
@@ -30042,8 +30049,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-06T15:11:35.431606+00:00",
-  "last_collected_at": "2026-10-06T15:12:50.390890+00:00",
+  "last_checked_at": "2026-10-08T01:36:40.377946+00:00",
+  "last_collected_at": "2026-10-08T01:40:00.158784+00:00",
   "ministry": "기후에너지환경부",
   "mst": "290837",
   "name": "화학물질관리법 시행령",
@@ -36973,10 +36980,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 38,
-   "chars": 12039
+   "chars": 12042
   },
-  "collected_signature": "6138442379ec6cd1",
-  "content_hash": "7fda14b1734b84db02b9aeb760eae72246692fafd9473881e0f3bd64f4af2977",
+  "collected_signature": "faa6a160d866b8a4",
+  "content_hash": "51e98ad0ece357c9e21766e81108466463d0bb8d0154eddb4b0edf6f23d7b8bc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290593&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "005685",
@@ -36986,8 +36993,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T20:02:17.900104+00:00",
-  "last_collected_at": "2026-09-29T20:03:03.984869+00:00",
+  "last_checked_at": "2026-10-08T01:36:40.462025+00:00",
+  "last_collected_at": "2026-10-08T01:38:25.559255+00:00",
   "ministry": "기후에너지환경부",
   "mst": "290593",
   "name": "환경정책기본법 시행령",
