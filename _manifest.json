@@ -3770,10 +3770,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 60,
-   "chars": 13571
+   "chars": 13783
   },
-  "collected_signature": "aa0dc504e594a9f1",
-  "content_hash": "84cdaacab3f4ed812aa5f65a94312a8edf31143e9e13a66598ee9eb94cc1e045",
+  "collected_signature": "4e1a45654248a897",
+  "content_hash": "8b05efc35528ca15e13e0d60f4acff30e8e9f5ac4e335be6540676dc03d02e71",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285277&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "000506",
@@ -3783,8 +3783,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T16:24:45.862060+00:00",
-  "last_collected_at": "2026-09-29T16:26:40.755725+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.327681+00:00",
+  "last_collected_at": "2026-10-08T00:58:23.339646+00:00",
   "ministry": "중소벤처기업부",
   "mst": "285277",
   "name": "기술보증기금법",
@@ -3792,7 +3792,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "4e1a45654248a897"
  },
  "law:eflaw:000507": {
@@ -10024,10 +10024,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 35,
-   "chars": 7502
+   "chars": 7512
   },
-  "collected_signature": "24f300c97103f4e9",
-  "content_hash": "d2edf6889d1eb7f782ae9bc802855e01fcdd60fcf5bce363546f4417d0d3f0c1",
+  "collected_signature": "91356240d82c96d8",
+  "content_hash": "044d7a8b89a6f0e7e63bcf04be83f5785295a7e9091686f04a4f449ca9c93464",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285365&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "001351",
@@ -10037,8 +10037,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T16:35:31.310906+00:00",
-  "last_collected_at": "2026-10-02T16:36:13.163147+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.338733+00:00",
+  "last_collected_at": "2026-10-08T00:57:13.815545+00:00",
   "ministry": "국가정보원",
   "mst": "285365",
   "name": "국가정보원직원법",
@@ -15956,10 +15956,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 133,
-   "chars": 39032
+   "chars": 39167
   },
-  "collected_signature": "150782e3a5a28383",
-  "content_hash": "c6d029e469de7e2297e2a46e41af166de69ae3dae0ac4603a28b06cc33b2ee06",
+  "collected_signature": "0974e8e3e7563dd6",
+  "content_hash": "22c00c7ff6af17d9dc2eb66a69025c204d605f255511b90078a880f3deefa7a4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285279&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "001872",
@@ -15969,8 +15969,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:04:00.017255+00:00",
-  "last_collected_at": "2026-10-02T17:07:56.963061+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.642916+00:00",
+  "last_collected_at": "2026-10-08T01:00:21.056552+00:00",
   "ministry": "고용노동부",
   "mst": "285279",
   "name": "근로기준법",
@@ -15978,7 +15978,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "0974e8e3e7563dd6"
  },
  "law:eflaw:001962": {
@@ -16167,8 +16167,13 @@
   "version_signature": "b5167f3233fce5de"
  },
  "law:eflaw:001971": {
-  "collected_signature": "d7563de25b9caf37",
-  "content_hash": "935caae1fc1331563f8983e32326e47d2cf976d1c67408f5c90b36161bda6d25",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 152,
+   "chars": 68047
+  },
+  "collected_signature": "8e89e005acaf29e1",
+  "content_hash": "f027c0441684fc08b4db9d19e72b84ef95a3fb37c6b19f7d1d9ad3e60b1770b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285273&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "001971",
@@ -16176,16 +16181,18 @@
   "doc_type": "법률",
   "emitted_signature": "d7563de25b9caf37",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T21:03:09.199777+00:00",
-  "last_collected_at": "2026-08-22T21:16:27.054238+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.329932+00:00",
+  "last_collected_at": "2026-10-08T01:01:09.644207+00:00",
   "ministry": "보건복지부",
   "mst": "285273",
   "name": "국민건강보험법",
   "payload_law_id": "001971",
+  "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "8e89e005acaf29e1"
  },
  "law:eflaw:001972": {
@@ -20675,8 +20682,13 @@
   "version_signature": "767029e946733ec6"
  },
  "law:eflaw:002664": {
-  "collected_signature": "fdf23af708b91f25",
-  "content_hash": "74e85012e857486a1fe9d0a47733bd43d50fd2510f8f9e0d15720c6aed0fb9c8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 62,
+   "chars": 19147
+  },
+  "collected_signature": "ef4695b6b40933e0",
+  "content_hash": "78a866db8e7e1d13d741bd7b58267d604372f29f87b96861a9586c85b08ec028",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288011&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "002664",
@@ -20684,13 +20696,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "fdf23af708b91f25",
   "enforcement_date": "20261008",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T20:07:05.267764+00:00",
-  "last_collected_at": "2026-08-22T20:10:47.283863+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.418756+00:00",
+  "last_collected_at": "2026-10-08T01:00:08.093128+00:00",
   "ministry": "국가정보원",
   "mst": "288011",
   "name": "국가정보원직원법 시행령",
   "payload_law_id": "002664",
+  "prev_name": null,
   "promulgation_date": "20260707",
   "status": "done",
   "version_count": 1,
@@ -124101,10 +124115,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 12,
-   "chars": 5371
+   "chars": 5382
   },
-  "collected_signature": "b1e58b223dc3b689",
-  "content_hash": "891dd46a3f4672fbb857028effcd62b11371789654d0be9d02a83c27546f5f21",
+  "collected_signature": "c60ab7789b3a81bf",
+  "content_hash": "5cde45eb103035c9bb233318672830bfe57df5d4df55d6d238c14d387a482c4c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289969&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "014722",
@@ -124114,8 +124128,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:42:37.450233+00:00",
-  "last_collected_at": "2026-09-23T01:45:06.044398+00:00",
+  "last_checked_at": "2026-10-08T00:56:05.377415+00:00",
+  "last_collected_at": "2026-10-08T00:59:01.406440+00:00",
   "ministry": "국토교통부,기후에너지환경부",
   "mst": "289969",
   "name": "국제항공 탄소 배출량 관리에 관한 법률 시행령",
