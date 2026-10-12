@@ -7659,11 +7659,28 @@
               "target_url": "https://www.law.go.kr/행정규칙/당직 및 비상근무 내규"
             },
             "source_provision_id": "law:국가공무원복무규칙#JO0065",
-            "reference_id": "admrul:당직및비상근무내규#DOC",
+            "reference_id": "admrul:당직및비상근무내규:admrul_98428#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "당직 및 비상근무 내규/당직 및 비상근무 내규.json",
-            "target_git_path": "당직 및 비상근무 내규/당직 및 비상근무 내규.json",
-            "target_source_repository": "ADMRUL"
+            "target_git_path": "당직 및 비상근무 내규/admrul_98428/당직 및 비상근무 내규.json",
+            "target_source_repository": "ADMRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "당직 및 비상근무 내규/admrul_26911/당직 및 비상근무 내규.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:당직및비상근무내규:admrul_26911#DOC",
+                "is_current": true,
+                "enforcement_date": "20260120"
+              },
+              {
+                "git_path": "당직 및 비상근무 내규/admrul_98428/당직 및 비상근무 내규.json",
+                "source_repository": "ADMRUL",
+                "provision_id": "admrul:당직및비상근무내규:admrul_98428#DOC",
+                "is_current": true,
+                "enforcement_date": "20261002"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
