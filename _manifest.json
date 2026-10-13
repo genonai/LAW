@@ -6944,8 +6944,8 @@
   "payload_law_id": "000956",
   "promulgation_date": "20240326",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "8cdc074a9174f463"
+  "version_count": 3,
+  "version_signature": "44fc64a2704a2ec4"
  },
  "law:eflaw:000958": {
   "collected_signature": "1e2bab311f18354a",
@@ -7493,8 +7493,8 @@
   "payload_law_id": "001015",
   "promulgation_date": "20230214",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "c3e00d54815cd0d5"
+  "version_count": 2,
+  "version_signature": "c8ed0be7f5bb1d58"
  },
  "law:eflaw:001020": {
   "collected_signature": "536bed7f1971f707",
@@ -11002,8 +11002,8 @@
   "payload_law_id": "001458",
   "promulgation_date": "20240130",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d89c4c01a32f6867"
+  "version_count": 2,
+  "version_signature": "7be1b3b71eae23fe"
  },
  "law:eflaw:001459": {
   "collected_signature": "bcf552ca51b7a52b",
@@ -13032,24 +13032,24 @@
  "law:eflaw:001638": {
   "collected_signature": "e326c09bf2f36b4d",
   "content_hash": "13999ef14a7543168a74ccfd83559654d96c5429be958139fa50ab1c0e743243",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281875&type=HTML&mobileYn=&efYd=20260701",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291133&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "001638",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "e326c09bf2f36b4d",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20261013",
   "is_active": true,
   "last_checked_at": "2026-08-23T08:49:23.614675+00:00",
   "last_collected_at": "2026-08-23T09:10:59.154122+00:00",
   "ministry": "경찰청",
-  "mst": "281875",
+  "mst": "291133",
   "name": "도로교통법",
   "payload_law_id": "001638",
-  "promulgation_date": "20251230",
+  "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 3,
-  "version_signature": "e326c09bf2f36b4d"
+  "version_count": 5,
+  "version_signature": "d58592f0c70006fe"
  },
  "law:eflaw:001642": {
   "collected_signature": "3dbb1449daf81428",
@@ -13120,24 +13120,24 @@
  "law:eflaw:001645": {
   "collected_signature": "7853a0111f834e50",
   "content_hash": "218f28c80f22e3710577416ac0b8ac54305fc1b99cde9475269b064f734ba4eb",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268095&type=HTML&mobileYn=&efYd=20260315",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291153&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "001645",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "7853a0111f834e50",
-  "enforcement_date": "20260315",
+  "enforcement_date": "20261013",
   "is_active": true,
   "last_checked_at": "2026-08-24T01:15:55.027522+00:00",
   "last_collected_at": "2026-08-24T01:25:48.282978+00:00",
   "ministry": "행정안전부",
-  "mst": "268095",
+  "mst": "291153",
   "name": "새마을금고법",
   "payload_law_id": "001645",
-  "promulgation_date": "20250107",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "7853a0111f834e50"
+  "version_signature": "0ace8539e0db3130"
  },
  "law:eflaw:001648": {
   "attempts": 0,
@@ -13307,8 +13307,8 @@
   "payload_law_id": "001656",
   "promulgation_date": "20260305",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "bc9295e5c9f3f385"
+  "version_count": 4,
+  "version_signature": "f9959b27650922b6"
  },
  "law:eflaw:001660": {
   "attempts": 0,
@@ -16042,8 +16042,13 @@
   "version_signature": "73a901b5192e741a"
  },
  "law:eflaw:001963": {
-  "collected_signature": "9745aa6d05387145",
-  "content_hash": "9e24351d8566cd2d0c636b7eb4990b68bf064daea8a5daf54634660885c11375",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 21720
+  },
+  "collected_signature": "d5623b9330985742",
+  "content_hash": "8f0108e38d8443dc768f7a3357f6f11c233515804ede92fd3754746feb50b301",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277313&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001963",
@@ -16051,17 +16056,19 @@
   "doc_type": "법률",
   "emitted_signature": "9745aa6d05387145",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T12:31:22.765062+00:00",
-  "last_collected_at": "2026-08-22T12:35:33.110180+00:00",
+  "last_checked_at": "2026-10-13T15:00:16.089256+00:00",
+  "last_collected_at": "2026-10-13T15:02:36.519427+00:00",
   "ministry": "행정안전부",
   "mst": "277313",
   "name": "공공기록물 관리에 관한 법률",
   "payload_law_id": "001963",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
   "version_count": 1,
-  "version_signature": "9745aa6d05387145"
+  "version_signature": "d5623b9330985742"
  },
  "law:eflaw:001964": {
   "collected_signature": "1caadc1f661f49dd",
@@ -17358,8 +17365,8 @@
   "payload_law_id": "002038",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "b4bdcafaee2ac96b"
+  "version_count": 3,
+  "version_signature": "f682d530ade866b6"
  },
  "law:eflaw:002039": {
   "collected_signature": "33f632aaa1f91934",
@@ -19172,30 +19179,30 @@
   "attempts": 0,
   "body_stats": {
    "articles": 65,
-   "chars": 46116
+   "chars": 46506
   },
-  "collected_signature": "a5351f346a247a16",
-  "content_hash": "0225381f60712af758b577dc104ff5eb0bde5a96f21bbcfb925945fdc3efe725",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290331&type=HTML&mobileYn=&efYd=20261002",
+  "collected_signature": "a537ed0b6e004f2c",
+  "content_hash": "0d4554382ff88f65b53aa3f2b30f95ee99916f4d99f507ce87f459bf94d906d3",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291083&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "002317",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "a5351f346a247a16",
-  "enforcement_date": "20261002",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T15:29:33.398392+00:00",
-  "last_collected_at": "2026-10-02T15:35:24.861560+00:00",
+  "last_checked_at": "2026-10-13T15:00:16.814884+00:00",
+  "last_collected_at": "2026-10-13T15:05:00.313573+00:00",
   "ministry": "인사혁신처",
-  "mst": "290331",
+  "mst": "291083",
   "name": "공무원임용시험령",
   "payload_law_id": "002317",
   "prev_name": null,
-  "promulgation_date": "20260929",
+  "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 4,
-  "version_signature": "a5351f346a247a16"
+  "version_count": 1,
+  "version_signature": "a537ed0b6e004f2c"
  },
  "law:eflaw:002321": {
   "collected_signature": "8e52ea893a112aa6",
@@ -27182,8 +27189,8 @@
   "payload_law_id": "003823",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "11d35edbf146216f"
+  "version_count": 2,
+  "version_signature": "0ab5bd55dbd3fb82"
  },
  "law:eflaw:003825": {
   "collected_signature": "4b723c536af32739",
@@ -28736,8 +28743,8 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "9affa5e17baae82b"
+  "version_count": 2,
+  "version_signature": "f1c4587b5d78c184"
  },
  "law:eflaw:004109": {
   "collected_signature": "754454aecc2c143d",
@@ -28809,8 +28816,8 @@
   "payload_law_id": "004119",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "cfa3619e1690fa45"
+  "version_count": 2,
+  "version_signature": "f96121084a44d609"
  },
  "law:eflaw:004124": {
   "collected_signature": "8ca1a51a3ea2a9a1",
@@ -30491,8 +30498,8 @@
   "payload_law_id": "004498",
   "promulgation_date": "20251125",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "93e4bd2dbe844d3c"
+  "version_count": 2,
+  "version_signature": "34f133acfdbba9cc"
  },
  "law:eflaw:004499": {
   "collected_signature": "b440947b17d0fffc",
@@ -30720,8 +30727,8 @@
   "payload_law_id": "004551",
   "promulgation_date": "20260506",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "d218dcb1d9c40d69"
+  "version_count": 2,
+  "version_signature": "636aa6188ed3f8f1"
  },
  "law:eflaw:004552": {
   "collected_signature": "b8134f438be561cc",
@@ -32246,8 +32253,8 @@
   "payload_law_id": "004840",
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "23a8c0c91ad142f4"
+  "version_count": 2,
+  "version_signature": "249aa110a2c0e043"
  },
  "law:eflaw:004844": {
   "collected_signature": "6d700fbab2a99167",
@@ -34529,8 +34536,8 @@
   "payload_law_id": "005343",
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "fc102c89b19de8a7"
+  "version_count": 2,
+  "version_signature": "47444fb09eb2f941"
  },
  "law:eflaw:005348": {
   "collected_signature": "be53baf20658f00d",
@@ -57219,26 +57226,26 @@
   },
   "collected_signature": "272d50ed7e7e9dbe",
   "content_hash": "0211f788a5f7233ffd19489b8921985d7e5e0bc6250032cd8d292779ff6f65cc",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289667&type=HTML&mobileYn=&efYd=20260915",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291181&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "009236",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "272d50ed7e7e9dbe",
-  "enforcement_date": "20260915",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-15T16:01:34.652469+00:00",
   "last_collected_at": "2026-09-15T16:07:20.235008+00:00",
   "ministry": "국토교통부",
-  "mst": "289667",
+  "mst": "291181",
   "name": "부동산투자회사법 시행령",
   "payload_law_id": "009236",
   "prev_name": null,
-  "promulgation_date": "20260915",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "272d50ed7e7e9dbe"
+  "version_signature": "e5d9265f208e6406"
  },
  "law:eflaw:009239": {
   "collected_signature": "f86207067e9be28a",
@@ -57702,7 +57709,7 @@
   "doc_id": "009265",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
-  "emitted_signature": "__meta__:5f2ff058988451a9",
+  "emitted_signature": "5f2ff058988451a9",
   "enforcement_date": "20250715",
   "is_active": true,
   "last_checked_at": "2026-08-24T14:52:16.434193+00:00",
@@ -60362,8 +60369,8 @@
   "payload_law_id": "009505",
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "6cffd67be136a1e6"
+  "version_count": 2,
+  "version_signature": "90ee0c105cc81963"
  },
  "law:eflaw:009506": {
   "collected_signature": "8975dd951809a8da",
@@ -65368,26 +65375,26 @@
   },
   "collected_signature": "0961ac7f26dc9929",
   "content_hash": "30436c8860092bdadcd510a1d2acac89878df43e84fdc780ba807d96adaf6ffb",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287015&type=HTML&mobileYn=&efYd=20260701",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291179&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "009908",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "0961ac7f26dc9929",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-15T17:46:27.141760+00:00",
   "last_collected_at": "2026-09-15T17:50:57.254318+00:00",
   "ministry": "성평등가족부",
-  "mst": "287015",
+  "mst": "291179",
   "name": "청소년복지 지원법 시행령",
   "payload_law_id": "009908",
   "prev_name": null,
-  "promulgation_date": "20260616",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 2,
-  "version_signature": "0961ac7f26dc9929"
+  "version_signature": "fb61ddfeda67e207"
  },
  "law:eflaw:009909": {
   "collected_signature": "4355a129a181a944",
@@ -66670,26 +66677,34 @@
   "version_signature": "383f17f59ceb62c4"
  },
  "law:eflaw:010000": {
-  "collected_signature": "38f579391ff36ef1",
-  "content_hash": "d59b1fb15958f9b3da6c4114b3a552d83b7f2338518a2c69785609078eebd80d",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=258477&type=HTML&mobileYn=&efYd=20240710",
+  "attempts": 1,
+  "body_stats": {
+   "articles": 121,
+   "chars": 38289
+  },
+  "collected_signature": null,
+  "content_hash": "e252c6734a83603eda52ce7ac4b65de54c3ca3e209cf55e34f7cc711a7966c3b",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291145&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010000",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "38f579391ff36ef1",
-  "enforcement_date": "20240710",
+  "enforcement_date": "20261013",
+  "export_pending": true,
   "is_active": true,
-  "last_checked_at": "2026-08-22T14:24:04.316008+00:00",
-  "last_collected_at": "2026-08-22T14:33:56.930763+00:00",
+  "last_checked_at": "2026-10-13T15:00:16.778174+00:00",
+  "last_collected_at": "2026-10-13T15:03:18.532623+00:00",
+  "last_git_error": "git commit 실패(rc=-7) /workspace/law_ai/data/LAW :: 공유재산 및 물품 관리법/법률 — ",
+  "last_git_error_at": "2026-10-13T15:04:34.138747+00:00",
   "ministry": "행정안전부",
-  "mst": "258477",
+  "mst": "291145",
   "name": "공유재산 및 물품 관리법",
   "payload_law_id": "010000",
-  "promulgation_date": "20240109",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "38f579391ff36ef1"
+  "version_signature": "37760151fa084fd5"
  },
  "law:eflaw:010001": {
   "collected_signature": "95acbf6a2d53f26a",
@@ -66875,8 +66890,13 @@
   "version_signature": "de6c83c6f9aa7295"
  },
  "law:eflaw:010013": {
-  "collected_signature": "c9e1d6f434fc21aa",
-  "content_hash": "50260799cbac3ac6e2db3f497932365ef5db4dc1d1122750fb76366074152b9c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 19171
+  },
+  "collected_signature": "ca29eaf9eb541a76",
+  "content_hash": "07362bfd453e1e989024bf1b839963aa69dccd8edc51da7d37fbcc00caeaae92",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=260765&type=HTML&mobileYn=&efYd=20250228",
   "doc_domain": "law",
   "doc_id": "010013",
@@ -66884,17 +66904,19 @@
   "doc_type": "법률",
   "emitted_signature": "c9e1d6f434fc21aa",
   "enforcement_date": "20250228",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T20:39:39.276070+00:00",
-  "last_collected_at": "2026-08-22T20:44:54.208732+00:00",
+  "last_checked_at": "2026-10-13T15:00:16.772058+00:00",
+  "last_collected_at": "2026-10-13T15:04:24.156074+00:00",
   "ministry": "국가보훈부",
   "mst": "260765",
   "name": "국립묘지의 설치 및 운영에 관한 법률",
   "payload_law_id": "010013",
+  "prev_name": null,
   "promulgation_date": "20240227",
   "status": "done",
   "version_count": 1,
-  "version_signature": "c9e1d6f434fc21aa"
+  "version_signature": "ca29eaf9eb541a76"
  },
  "law:eflaw:010014": {
   "collected_signature": "fca4eaf6fe58c2be",
@@ -66915,8 +66937,8 @@
   "payload_law_id": "010014",
   "promulgation_date": "20260127",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "fca4eaf6fe58c2be"
+  "version_count": 2,
+  "version_signature": "d0d81c1e5ef913d5"
  },
  "law:eflaw:010015": {
   "collected_signature": "7fff7196d5a73f23",
@@ -67073,8 +67095,13 @@
   "version_signature": "ede204ea750a788f"
  },
  "law:eflaw:010025": {
-  "collected_signature": "7162e7a77b63dbd3",
-  "content_hash": "2da8d381269ca3c7cdd7f8f62ac0c521801f3580cc5a0e3fbe6cf73893daad00",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 11739
+  },
+  "collected_signature": "9029a8acaa619d1d",
+  "content_hash": "42d5d440d2a09560f1baae56940fc761e6d80f3f43ab44966a6c835fbffacbee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270625&type=HTML&mobileYn=&efYd=20250423",
   "doc_domain": "law",
   "doc_id": "010025",
@@ -67082,17 +67109,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "7162e7a77b63dbd3",
   "enforcement_date": "20250423",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T23:07:31.798319+00:00",
-  "last_collected_at": "2026-08-22T23:11:42.944740+00:00",
+  "last_checked_at": "2026-10-13T15:00:15.921203+00:00",
+  "last_collected_at": "2026-10-13T15:02:47.740317+00:00",
   "ministry": "문화체육관광부",
   "mst": "270625",
   "name": "국어기본법 시행령",
   "payload_law_id": "010025",
+  "prev_name": null,
   "promulgation_date": "20250415",
   "status": "done",
   "version_count": 1,
-  "version_signature": "7162e7a77b63dbd3"
+  "version_signature": "9029a8acaa619d1d"
  },
  "law:eflaw:010026": {
   "collected_signature": "a1786e8ab3e05631",
@@ -68918,26 +68947,26 @@
   },
   "collected_signature": "aad47169c69279fd",
   "content_hash": "516fcb153dc618baee8c0038e21799bee22f0e27f9da2ad4a095e360a28a676f",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284321&type=HTML&mobileYn=&efYd=20260918",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291149&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010162",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "aad47169c69279fd",
-  "enforcement_date": "20260918",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-23T02:10:24.599990+00:00",
   "last_collected_at": "2026-09-23T02:38:49.381475+00:00",
   "ministry": "국토교통부,행정안전부",
-  "mst": "284321",
+  "mst": "291149",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
   "payload_law_id": "010162",
   "prev_name": null,
-  "promulgation_date": "20260317",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 17,
-  "version_signature": "aad47169c69279fd"
+  "version_signature": "87ff9e5e438f40a7"
  },
  "law:eflaw:010163": {
   "collected_signature": "29aaf29708939efc",
@@ -72241,8 +72270,8 @@
   "payload_law_id": "010384",
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "bc8db8130b886722"
+  "version_count": 3,
+  "version_signature": "7514b9cf15937529"
  },
  "law:eflaw:010387": {
   "collected_signature": "713a81ca2aaf4c1a",
@@ -73855,8 +73884,8 @@
   "payload_law_id": "010485",
   "promulgation_date": "20210112",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "226c46622fec0a24"
+  "version_count": 2,
+  "version_signature": "604a0ab78acab0c3"
  },
  "law:eflaw:010486": {
   "collected_signature": "1156e162c709053c",
@@ -78656,26 +78685,26 @@
   },
   "collected_signature": "2e387e318ef0cc54",
   "content_hash": "7d15de70a3e505fa0379debc12960941cd8c1345360b46c27aff0466fbd2bd7c",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290473&type=HTML&mobileYn=&efYd=20261002",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291081&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010817",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "2e387e318ef0cc54",
-  "enforcement_date": "20261002",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-10-02T19:35:17.967114+00:00",
   "last_collected_at": "2026-10-02T20:15:24.867385+00:00",
   "ministry": "금융위원회",
-  "mst": "290473",
+  "mst": "291081",
   "name": "자본시장과 금융투자업에 관한 법률 시행령",
   "payload_law_id": "010817",
   "prev_name": null,
-  "promulgation_date": "20260929",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "2e387e318ef0cc54"
+  "version_signature": "dabc1eaf5d397f95"
  },
  "law:eflaw:010818": {
   "collected_signature": "59cf9e76d810082e",
@@ -87849,8 +87878,8 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "9554ea2993faa50a"
+  "version_count": 2,
+  "version_signature": "acc25be26deffbb0"
  },
  "law:eflaw:011492": {
   "collected_signature": "c424f670c582ae39",
@@ -89152,24 +89181,24 @@
  "law:eflaw:011563": {
   "collected_signature": "9d81757242904de5",
   "content_hash": "0a9171d9fbe254b552f4a57a3e5ee19b2904f9dc52cf4c19a326ec8aec0c13d5",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270329&type=HTML&mobileYn=&efYd=20260402",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291075&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "011563",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "9d81757242904de5",
-  "enforcement_date": "20260402",
+  "enforcement_date": "20261013",
   "is_active": true,
   "last_checked_at": "2026-08-24T04:22:01.526871+00:00",
   "last_collected_at": "2026-08-24T04:23:41.817178+00:00",
   "ministry": "소방청",
-  "mst": "270329",
+  "mst": "291075",
   "name": "소방공무원 보건안전 및 복지 기본법",
   "payload_law_id": "011563",
-  "promulgation_date": "20250401",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "9d81757242904de5"
+  "version_signature": "f5fe3481778f1eb3"
  },
  "law:eflaw:011564": {
   "collected_signature": "b64dc33184f9fd43",
@@ -94545,24 +94574,24 @@
  "law:eflaw:011998": {
   "collected_signature": "feba14335f939e1b",
   "content_hash": "860207f17a243f248ded033dd8e24f1f3ddec74f28e1a486a1c340c190bb24e7",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273369&type=HTML&mobileYn=&efYd=20250814",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291143&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "011998",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "feba14335f939e1b",
-  "enforcement_date": "20250814",
+  "enforcement_date": "20261013",
   "is_active": true,
   "last_checked_at": "2026-08-24T18:32:02.489811+00:00",
   "last_collected_at": "2026-08-24T18:33:11.494557+00:00",
   "ministry": "소방청",
-  "mst": "273369",
+  "mst": "291143",
   "name": "의용소방대 설치 및 운영에 관한 법률",
   "payload_law_id": "011998",
-  "promulgation_date": "20250814",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
-  "version_signature": "feba14335f939e1b"
+  "version_signature": "ed00b0c4a1d7aa06"
  },
  "law:eflaw:011999": {
   "collected_signature": "48c2decdb19cf0c3",
@@ -97978,8 +98007,8 @@
   "payload_law_id": "012268",
   "promulgation_date": "20250121",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "120e628a4d9c3179"
+  "version_count": 2,
+  "version_signature": "01b2c9b4a974866e"
  },
  "law:eflaw:012269": {
   "collected_signature": "1ebb4999aa0c1565",
@@ -104365,7 +104394,7 @@
   "doc_id": "012857",
   "doc_target": "eflaw",
   "doc_type": "총리령",
-  "emitted_signature": "__meta__:cee07197bce43533",
+  "emitted_signature": "cee07197bce43533",
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
@@ -115292,8 +115321,8 @@
    "articles": 28,
    "chars": 18529
   },
-  "collected_signature": "f696f9d87ff30e65",
-  "content_hash": "d4b59520b51ff639a112b0ae488c387aeee465c30589d8a4947e6a0ef72c3c94",
+  "collected_signature": "8e18acee53f58979",
+  "content_hash": "b0f5d48f13d13b7302c4911f715a7d0c79a2008f0222dc13711c07192ca3862f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290665&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "014082",
@@ -115303,8 +115332,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T16:15:47.844739+00:00",
-  "last_collected_at": "2026-10-02T16:18:58.078692+00:00",
+  "last_checked_at": "2026-10-13T15:00:16.852217+00:00",
+  "last_collected_at": "2026-10-13T15:04:07.312006+00:00",
   "ministry": "국민권익위원회",
   "mst": "290665",
   "name": "공직자의 이해충돌 방지법",
@@ -115313,7 +115342,7 @@
   "promulgation_date": "20260324",
   "status": "done",
   "version_count": 1,
-  "version_signature": "f696f9d87ff30e65"
+  "version_signature": "8e18acee53f58979"
  },
  "law:eflaw:014083": {
   "collected_signature": "574184b75805d19c",
@@ -120414,8 +120443,8 @@
   "payload_law_id": "014453",
   "promulgation_date": "20250919",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "f0b73e9e70fd298f"
+  "version_count": 2,
+  "version_signature": "a9104eeba2c4af7d"
  },
  "law:eflaw:014454": {
   "attempts": 0,
@@ -120616,24 +120645,24 @@
  "law:eflaw:014464": {
   "collected_signature": "8d229d50acdf99a7",
   "content_hash": "bcda7e3d7cecd37cf55ecf6d3c7dffdeeacd193191eab202519ec367d0c9cd0f",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=266295&type=HTML&mobileYn=&efYd=20241111",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291183&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "014464",
   "doc_target": "eflaw",
   "doc_type": "대통령령",
   "emitted_signature": "8d229d50acdf99a7",
-  "enforcement_date": "20241111",
+  "enforcement_date": "20261013",
   "is_active": true,
   "last_checked_at": "2026-08-25T03:56:54.890457+00:00",
   "last_collected_at": "2026-08-25T03:57:42.926581+00:00",
   "ministry": "국토교통부",
-  "mst": "266295",
+  "mst": "291183",
   "name": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행령",
   "payload_law_id": "014464",
-  "promulgation_date": "20241108",
+  "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 1,
-  "version_signature": "8d229d50acdf99a7"
+  "version_count": 2,
+  "version_signature": "1a4848cbbc456520"
  },
  "law:eflaw:014465": {
   "collected_signature": "eb805183bb7bf206",
@@ -125739,8 +125768,8 @@
   "payload_law_id": "014829",
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 4,
-  "version_signature": "550aa466e48b752f"
+  "version_count": 5,
+  "version_signature": "537978db1443f2aa"
  },
  "law:eflaw:014830": {
   "collected_signature": "4474a264223569fa",
@@ -128989,26 +129018,26 @@
   },
   "collected_signature": "f6a505bb08ee5640",
   "content_hash": "ebbe6c74c49af87a583288982a0f0cbc8e84590df48d0e69daeb05377853221b",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289297&type=HTML&mobileYn=&efYd=20260908",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291147&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "015064",
   "doc_target": "eflaw",
   "doc_type": "법률",
   "emitted_signature": "f6a505bb08ee5640",
-  "enforcement_date": "20260908",
+  "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
   "last_checked_at": "2026-09-23T02:10:24.970682+00:00",
   "last_collected_at": "2026-09-23T02:29:11.044844+00:00",
   "ministry": "행정안전부",
-  "mst": "289297",
+  "mst": "291147",
   "name": "전남광주통합특별시 설치를 위한 특별법",
   "payload_law_id": "015064",
   "prev_name": null,
-  "promulgation_date": "20260908",
+  "promulgation_date": "20261013",
   "status": "done",
   "version_count": 6,
-  "version_signature": "f6a505bb08ee5640"
+  "version_signature": "5184adf480873dab"
  },
  "law:eflaw:015066": {
   "attempts": 0,
