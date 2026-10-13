@@ -6926,8 +6926,13 @@
   "version_signature": "0b70de8c74320d52"
  },
  "law:eflaw:000956": {
-  "collected_signature": "8cdc074a9174f463",
-  "content_hash": "d6ee515e1ce3b32041071f1005fd997b9b120bfde525129328a5b2d75e03b31d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 10306
+  },
+  "collected_signature": "44fc64a2704a2ec4",
+  "content_hash": "0361b4be1e0e1a8ee63ac726e9b93e9c952b7ca40d344300733fae1a9c44577d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=261437&type=HTML&mobileYn=&efYd=20240814",
   "doc_domain": "law",
   "doc_id": "000956",
@@ -6935,16 +6940,18 @@
   "doc_type": "법률",
   "emitted_signature": "8cdc074a9174f463",
   "enforcement_date": "20240814",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:21:52.016523+00:00",
-  "last_collected_at": "2026-08-24T05:25:28.701018+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.638789+00:00",
+  "last_collected_at": "2026-10-13T15:24:01.439379+00:00",
   "ministry": "소방청",
   "mst": "261437",
   "name": "소방공무원법",
   "payload_law_id": "000956",
+  "prev_name": null,
   "promulgation_date": "20240326",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "44fc64a2704a2ec4"
  },
  "law:eflaw:000958": {
@@ -13125,8 +13132,13 @@
   "version_signature": "09332919c60a94ca"
  },
  "law:eflaw:001645": {
-  "collected_signature": "7853a0111f834e50",
-  "content_hash": "218f28c80f22e3710577416ac0b8ac54305fc1b99cde9475269b064f734ba4eb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 130,
+   "chars": 58329
+  },
+  "collected_signature": "0ace8539e0db3130",
+  "content_hash": "871224c89b2b9ed4e85724f3034eb4f63cf7cc473533f063aded4cff2d31c47b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291153&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "001645",
@@ -13134,13 +13146,15 @@
   "doc_type": "법률",
   "emitted_signature": "7853a0111f834e50",
   "enforcement_date": "20261013",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T01:15:55.027522+00:00",
-  "last_collected_at": "2026-08-24T01:25:48.282978+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.220984+00:00",
+  "last_collected_at": "2026-10-13T15:25:10.253441+00:00",
   "ministry": "행정안전부",
   "mst": "291153",
   "name": "새마을금고법",
   "payload_law_id": "001645",
+  "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
@@ -27178,8 +27192,13 @@
   "version_signature": "218ba38481bb83cc"
  },
  "law:eflaw:003823": {
-  "collected_signature": "11d35edbf146216f",
-  "content_hash": "cb5300451463d346030db3a5f8516e10f37bd7ea801880dcc199bb17e6c62ee7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 11435
+  },
+  "collected_signature": "0ab5bd55dbd3fb82",
+  "content_hash": "b75053b257bebfdfef02773f25f183a3321f751aff08142c1020c85d5763a895",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277543&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "003823",
@@ -27187,16 +27206,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "11d35edbf146216f",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T00:48:54.014830+00:00",
-  "last_collected_at": "2026-08-24T01:08:17.747878+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.430329+00:00",
+  "last_collected_at": "2026-10-13T15:24:38.658300+00:00",
   "ministry": "지식재산처",
   "mst": "277543",
   "name": "상표법 시행령",
   "payload_law_id": "003823",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0ab5bd55dbd3fb82"
  },
  "law:eflaw:003825": {
@@ -60365,8 +60386,12 @@
  },
  "law:eflaw:009505": {
   "attempts": 0,
-  "collected_signature": "6cffd67be136a1e6",
-  "content_hash": "a663a169099b6c626a6c5666e8f28975abc3bc07a0f7d6fe8f19206e1c2c1445",
+  "body_stats": {
+   "articles": 90,
+   "chars": 22067
+  },
+  "collected_signature": "90ee0c105cc81963",
+  "content_hash": "04bcc82e77a7d1a6351887ad03b832ef18492802ec5db1cd0e99d64b79615ef7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286459&type=HTML&mobileYn=&efYd=20260903",
   "doc_domain": "law",
   "doc_id": "009505",
@@ -60374,16 +60399,18 @@
   "doc_type": "법률",
   "emitted_signature": "6cffd67be136a1e6",
   "enforcement_date": "20260903",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:39:17.998875+00:00",
-  "last_collected_at": "2026-09-03T02:41:04.722915+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.615841+00:00",
+  "last_collected_at": "2026-10-13T15:23:59.686447+00:00",
   "ministry": "소방청",
   "mst": "286459",
   "name": "소방기본법",
   "payload_law_id": "009505",
+  "prev_name": null,
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "90ee0c105cc81963"
  },
  "law:eflaw:009506": {
@@ -89200,8 +89227,13 @@
   "version_signature": "9a30c7458cfc62e0"
  },
  "law:eflaw:011563": {
-  "collected_signature": "9d81757242904de5",
-  "content_hash": "0a9171d9fbe254b552f4a57a3e5ee19b2904f9dc52cf4c19a326ec8aec0c13d5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 8433
+  },
+  "collected_signature": "f5fe3481778f1eb3",
+  "content_hash": "8ab486a9a66441e00f78e70f54a0cec8313057d0d02b74cc23ad027c4a4ee3ca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291075&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "011563",
@@ -89209,13 +89241,15 @@
   "doc_type": "법률",
   "emitted_signature": "9d81757242904de5",
   "enforcement_date": "20261013",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T04:22:01.526871+00:00",
-  "last_collected_at": "2026-08-24T04:23:41.817178+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.603497+00:00",
+  "last_collected_at": "2026-10-13T15:22:23.911251+00:00",
   "ministry": "소방청",
   "mst": "291075",
   "name": "소방공무원 보건안전 및 복지 기본법",
   "payload_law_id": "011563",
+  "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
@@ -125778,8 +125812,13 @@
   "version_signature": "2075edd49051c4e1"
  },
  "law:eflaw:014829": {
-  "collected_signature": "550aa466e48b752f",
-  "content_hash": "6e21c511de04827888fc5687323c5f24bd2e90cc4cd644ab4f2c283b6c66407d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 81,
+   "chars": 32289
+  },
+  "collected_signature": "537978db1443f2aa",
+  "content_hash": "c245694b1c240a0c140848b6b3f766afe413e202047d853fca1e86594dff4817",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285927&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "014829",
@@ -125787,16 +125826,18 @@
   "doc_type": "법률",
   "emitted_signature": "550aa466e48b752f",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:16:22.032261+00:00",
-  "last_collected_at": "2026-08-23T22:17:28.582312+00:00",
+  "last_checked_at": "2026-10-13T15:21:14.421194+00:00",
+  "last_collected_at": "2026-10-13T15:24:58.967100+00:00",
   "ministry": "산림청",
   "mst": "285927",
   "name": "산림재난방지법",
   "payload_law_id": "014829",
+  "prev_name": null,
   "promulgation_date": "20260512",
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "537978db1443f2aa"
  },
  "law:eflaw:014830": {
