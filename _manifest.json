@@ -7482,8 +7482,13 @@
   "version_signature": "bcdd3d117806f23e"
  },
  "law:eflaw:001015": {
-  "collected_signature": "c3e00d54815cd0d5",
-  "content_hash": "1062af5f3df33f530f844988612d23e2ed3d0e825e845a228082615e5fb7188a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 52,
+   "chars": 22251
+  },
+  "collected_signature": "c8ed0be7f5bb1d58",
+  "content_hash": "ea33a3b89c9444de8d90fe25250513ad3c376c79a1a0ec6d3839ef1084e772b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248145&type=HTML&mobileYn=&efYd=20240215",
   "doc_domain": "law",
   "doc_id": "001015",
@@ -7491,16 +7496,18 @@
   "doc_type": "법률",
   "emitted_signature": "c3e00d54815cd0d5",
   "enforcement_date": "20240215",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:13:13.423638+00:00",
-  "last_collected_at": "2026-08-24T16:18:10.549481+00:00",
+  "last_checked_at": "2026-10-13T15:26:52.019841+00:00",
+  "last_collected_at": "2026-10-13T15:30:00.655999+00:00",
   "ministry": "행정안전부",
   "mst": "248145",
   "name": "유선 및 도선 사업법",
   "payload_law_id": "001015",
+  "prev_name": null,
   "promulgation_date": "20230214",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c8ed0be7f5bb1d58"
  },
  "law:eflaw:001020": {
@@ -10991,8 +10998,13 @@
   "version_signature": "f14865c9d14a56a4"
  },
  "law:eflaw:001458": {
-  "collected_signature": "d89c4c01a32f6867",
-  "content_hash": "d788d9cec3f9e7fb29570ead3686b903f11b888584ad3fe66954febd80f2d71f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 83,
+   "chars": 40160
+  },
+  "collected_signature": "7be1b3b71eae23fe",
+  "content_hash": "cdd442a16df21731d24604bfec6b8d91ef81c7662450510efe864712f013dda1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259475&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "001458",
@@ -11000,16 +11012,18 @@
   "doc_type": "법률",
   "emitted_signature": "d89c4c01a32f6867",
   "enforcement_date": "20250131",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:13:13.351742+00:00",
-  "last_collected_at": "2026-08-24T08:18:09.683699+00:00",
+  "last_checked_at": "2026-10-13T15:26:52.015573+00:00",
+  "last_collected_at": "2026-10-13T15:30:37.744933+00:00",
   "ministry": "행정안전부",
   "mst": "259475",
   "name": "승강기 안전관리법",
   "payload_law_id": "001458",
+  "prev_name": null,
   "promulgation_date": "20240130",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7be1b3b71eae23fe"
  },
  "law:eflaw:001459": {
@@ -28748,11 +28762,11 @@
  "law:eflaw:004108": {
   "attempts": 0,
   "body_stats": {
-   "articles": 63,
-   "chars": 33859
+   "articles": 65,
+   "chars": 34583
   },
-  "collected_signature": "9affa5e17baae82b",
-  "content_hash": "69c0ebde1f6945f1878ecbae585820a86fac117f97ddabf0144daef93993414e",
+  "collected_signature": "f1c4587b5d78c184",
+  "content_hash": "285e0dc30f488c56def08527c2c06e861083576d01ffc6e26052eda789129886",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290457&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "004108",
@@ -28762,8 +28776,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:55:04.373238+00:00",
-  "last_collected_at": "2026-10-02T19:01:26.948060+00:00",
+  "last_checked_at": "2026-10-13T15:26:52.058835+00:00",
+  "last_collected_at": "2026-10-13T15:32:46.918460+00:00",
   "ministry": "금융위원회",
   "mst": "290457",
   "name": "신용협동조합법 시행령",
@@ -28771,7 +28785,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f1c4587b5d78c184"
  },
  "law:eflaw:004109": {
@@ -28826,8 +28840,13 @@
   "version_signature": "e4d33b624a70c4b6"
  },
  "law:eflaw:004119": {
-  "collected_signature": "cfa3619e1690fa45",
-  "content_hash": "d1be2f8c39b8460a22fde60dbd02f039fa10b0230c257bcfbf4028fe78f9a1c1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 11839
+  },
+  "collected_signature": "f96121084a44d609",
+  "content_hash": "5370f977d797196d0e9c12d47fd1f88b5358ea8204fb8d9b9642c46142688014",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277545&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "004119",
@@ -28835,16 +28854,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "cfa3619e1690fa45",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:00:14.458157+00:00",
-  "last_collected_at": "2026-08-24T10:06:56.584713+00:00",
+  "last_checked_at": "2026-10-13T15:26:52.019067+00:00",
+  "last_collected_at": "2026-10-13T15:31:47.678363+00:00",
   "ministry": "지식재산처",
   "mst": "277545",
   "name": "실용신안법 시행령",
   "payload_law_id": "004119",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f96121084a44d609"
  },
  "law:eflaw:004124": {
@@ -72300,8 +72321,13 @@
   "version_signature": "a8f35350fc29b8ef"
  },
  "law:eflaw:010384": {
-  "collected_signature": "bc8db8130b886722",
-  "content_hash": "a1dbf79f605448f75f46f7eabfa460eab9b045089e3aba7bfe7a99d7d6dc9a4e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 13984
+  },
+  "collected_signature": "7514b9cf15937529",
+  "content_hash": "e39b9305fa713a20c3ff86b829e355827c5e359b2c2843148342964a01182543",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283741&type=HTML&mobileYn=&efYd=20260227",
   "doc_domain": "law",
   "doc_id": "010384",
@@ -72309,16 +72335,18 @@
   "doc_type": "법률",
   "emitted_signature": "bc8db8130b886722",
   "enforcement_date": "20260227",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:37:54.571302+00:00",
-  "last_collected_at": "2026-08-24T11:40:06.360513+00:00",
+  "last_checked_at": "2026-10-13T15:26:51.928697+00:00",
+  "last_collected_at": "2026-10-13T15:28:12.737078+00:00",
   "ministry": "행정안전부",
   "mst": "283741",
   "name": "어린이놀이시설 안전관리법",
   "payload_law_id": "010384",
+  "prev_name": null,
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "7514b9cf15937529"
  },
  "law:eflaw:010387": {
@@ -94627,8 +94655,13 @@
   "version_signature": "353190ef3ea654a1"
  },
  "law:eflaw:011998": {
-  "collected_signature": "feba14335f939e1b",
-  "content_hash": "860207f17a243f248ded033dd8e24f1f3ddec74f28e1a486a1c340c190bb24e7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 4835
+  },
+  "collected_signature": "ed00b0c4a1d7aa06",
+  "content_hash": "b9aa80dacfb8ed7ca0101985d5a557744f7a17727d8ef428f3272925d189509b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291143&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "011998",
@@ -94636,13 +94669,15 @@
   "doc_type": "법률",
   "emitted_signature": "feba14335f939e1b",
   "enforcement_date": "20261013",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:32:02.489811+00:00",
-  "last_collected_at": "2026-08-24T18:33:11.494557+00:00",
+  "last_checked_at": "2026-10-13T15:26:51.712584+00:00",
+  "last_collected_at": "2026-10-13T15:27:21.135712+00:00",
   "ministry": "소방청",
   "mst": "291143",
   "name": "의용소방대 설치 및 운영에 관한 법률",
   "payload_law_id": "011998",
+  "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
   "version_count": 1,
