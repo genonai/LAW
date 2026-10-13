@@ -30765,8 +30765,12 @@
  },
  "law:eflaw:004551": {
   "attempts": 0,
-  "collected_signature": "d218dcb1d9c40d69",
-  "content_hash": "34a8152e9943c18f09e4d175829a2d70bb03f56bb8020dffe2021f809cf73497",
+  "body_stats": {
+   "articles": 39,
+   "chars": 17015
+  },
+  "collected_signature": "636aa6188ed3f8f1",
+  "content_hash": "e3d7ec4f6801bf4950207820b7602a564ad04c8d82bca0625445130e4e4481ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285855&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "004551",
@@ -30774,16 +30778,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "d218dcb1d9c40d69",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:20:13.453542+00:00",
-  "last_collected_at": "2026-08-27T08:34:59.236241+00:00",
+  "last_checked_at": "2026-10-13T15:33:14.751589+00:00",
+  "last_collected_at": "2026-10-13T15:37:47.581688+00:00",
   "ministry": "고용노동부",
   "mst": "285855",
   "name": "임금채권보장법 시행령",
   "payload_law_id": "004551",
+  "prev_name": null,
   "promulgation_date": "20260506",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "636aa6188ed3f8f1"
  },
  "law:eflaw:004552": {
@@ -73942,8 +73948,13 @@
   "version_signature": "e0e36fe578dacbf5"
  },
  "law:eflaw:010485": {
-  "collected_signature": "226c46622fec0a24",
-  "content_hash": "74df0e1233380a12618411997262dc96df5663bc60aa7f9328c621d05f68cd58",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 14296
+  },
+  "collected_signature": "604a0ab78acab0c3",
+  "content_hash": "a56f62de2a4e0e9c36da67967b19889302313ef3961b7c3019cc0abaed3788e0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=228707&type=HTML&mobileYn=&efYd=20210112",
   "doc_domain": "law",
   "doc_id": "010485",
@@ -73951,16 +73962,18 @@
   "doc_type": "법률",
   "emitted_signature": "226c46622fec0a24",
   "enforcement_date": "20210112",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:41:16.471939+00:00",
-  "last_collected_at": "2026-08-25T02:45:03.763633+00:00",
+  "last_checked_at": "2026-10-13T15:33:15.085148+00:00",
+  "last_collected_at": "2026-10-13T15:34:45.191763+00:00",
   "ministry": "행정안전부",
   "mst": "228707",
   "name": "재해경감을 위한 기업의 자율활동 지원에 관한 법률",
   "payload_law_id": "010485",
+  "prev_name": null,
   "promulgation_date": "20210112",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "604a0ab78acab0c3"
  },
  "law:eflaw:010486": {
@@ -78757,10 +78770,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 553,
-   "chars": 464640
+   "chars": 464751
   },
-  "collected_signature": "2e387e318ef0cc54",
-  "content_hash": "7d15de70a3e505fa0379debc12960941cd8c1345360b46c27aff0466fbd2bd7c",
+  "collected_signature": "dabc1eaf5d397f95",
+  "content_hash": "2322def05e156841091330a0a7a80c72d0aea9d1af76ef76eaf18ce6ad2740fd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291081&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010817",
@@ -78770,8 +78783,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:35:17.967114+00:00",
-  "last_collected_at": "2026-10-02T20:15:24.867385+00:00",
+  "last_checked_at": "2026-10-13T15:33:14.879575+00:00",
+  "last_collected_at": "2026-10-13T16:08:20.781615+00:00",
   "ministry": "금융위원회",
   "mst": "291081",
   "name": "자본시장과 금융투자업에 관한 법률 시행령",
@@ -120522,8 +120535,13 @@
   "version_signature": "2b8c7632bc9e6617"
  },
  "law:eflaw:014453": {
-  "collected_signature": "f0b73e9e70fd298f",
-  "content_hash": "e1730e1095c03a238c991529f26cbcd7ed9147373a6e2f769ae8cea47b0ef71e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 9984
+  },
+  "collected_signature": "a9104eeba2c4af7d",
+  "content_hash": "e49eca9f6ded8fde61b54ed55c6dd4e188c957392b14dc547f820b55b277a459",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=273851&type=HTML&mobileYn=&efYd=20250919",
   "doc_domain": "law",
   "doc_id": "014453",
@@ -120531,16 +120549,18 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "f0b73e9e70fd298f",
   "enforcement_date": "20250919",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T03:56:56.231713+00:00",
-  "last_collected_at": "2026-08-25T04:00:51.331770+00:00",
+  "last_checked_at": "2026-10-13T15:33:15.125018+00:00",
+  "last_collected_at": "2026-10-13T15:34:52.430897+00:00",
   "ministry": "국토교통부",
   "mst": "273851",
   "name": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행규칙",
   "payload_law_id": "014453",
+  "prev_name": null,
   "promulgation_date": "20250919",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a9104eeba2c4af7d"
  },
  "law:eflaw:014454": {
@@ -120740,8 +120760,13 @@
   "version_signature": "04c5970781c97104"
  },
  "law:eflaw:014464": {
-  "collected_signature": "8d229d50acdf99a7",
-  "content_hash": "bcda7e3d7cecd37cf55ecf6d3c7dffdeeacd193191eab202519ec367d0c9cd0f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 8444
+  },
+  "collected_signature": "1a4848cbbc456520",
+  "content_hash": "01b9e84c68d66ed532d673f1826b4d71aecbe40c71265a058e4ba4b1e7b2e133",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291183&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "014464",
@@ -120749,16 +120774,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8d229d50acdf99a7",
   "enforcement_date": "20261013",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T03:56:54.890457+00:00",
-  "last_collected_at": "2026-08-25T03:57:42.926581+00:00",
+  "last_checked_at": "2026-10-13T15:33:14.881877+00:00",
+  "last_collected_at": "2026-10-13T15:35:48.829179+00:00",
   "ministry": "국토교통부",
   "mst": "291183",
   "name": "전세사기피해자 지원 및 주거안정에 관한 특별법 시행령",
   "payload_law_id": "014464",
+  "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "1a4848cbbc456520"
  },
  "law:eflaw:014465": {
@@ -129118,10 +129145,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 408,
-   "chars": 163126
+   "chars": 163142
   },
-  "collected_signature": "f6a505bb08ee5640",
-  "content_hash": "ebbe6c74c49af87a583288982a0f0cbc8e84590df48d0e69daeb05377853221b",
+  "collected_signature": "5184adf480873dab",
+  "content_hash": "f086046a7b19826c6e52a83d5f3d4fae147388cf3927f953a321afc45d3c3889",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291147&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "015064",
@@ -129131,8 +129158,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:10:24.970682+00:00",
-  "last_collected_at": "2026-09-23T02:29:11.044844+00:00",
+  "last_checked_at": "2026-10-13T15:33:15.086315+00:00",
+  "last_collected_at": "2026-10-13T15:46:24.899235+00:00",
   "ministry": "행정안전부",
   "mst": "291147",
   "name": "전남광주통합특별시 설치를 위한 특별법",
@@ -129140,7 +129167,7 @@
   "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "5184adf480873dab"
  },
  "law:eflaw:015066": {
