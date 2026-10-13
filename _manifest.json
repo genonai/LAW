@@ -13324,8 +13324,13 @@
   "version_signature": "3751289a34f02e84"
  },
  "law:eflaw:001656": {
-  "collected_signature": "bc9295e5c9f3f385",
-  "content_hash": "f737d9580a44b3e3e464b17fe53540e67f22c865e4cd4a197f1214dfc604f603",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 220,
+   "chars": 67531
+  },
+  "collected_signature": "f9959b27650922b6",
+  "content_hash": "fbf36830e35b878ceddbd2c8ed7f8d7f3014f71b7d175804ab273c50f52d7520",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284005&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "001656",
@@ -13333,16 +13338,18 @@
   "doc_type": "법률",
   "emitted_signature": "bc9295e5c9f3f385",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T15:45:52.721157+00:00",
-  "last_collected_at": "2026-08-25T15:57:24.812685+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.606064+00:00",
+  "last_collected_at": "2026-10-13T16:13:44.188319+00:00",
   "ministry": "행정안전부",
   "mst": "284005",
   "name": "지방자치법",
   "payload_law_id": "001656",
+  "prev_name": null,
   "promulgation_date": "20260305",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "f9959b27650922b6"
  },
  "law:eflaw:001660": {
@@ -17382,8 +17389,12 @@
  },
  "law:eflaw:002038": {
   "attempts": 0,
-  "collected_signature": "b4bdcafaee2ac96b",
-  "content_hash": "26a6422143c7e03f0bc2d3c2247cd941d6d78d225dd77ea5e3a64b1b26c345cc",
+  "body_stats": {
+   "articles": 34,
+   "chars": 17671
+  },
+  "collected_signature": "f682d530ade866b6",
+  "content_hash": "83df9bf8fcaea84392a50e458a8178eed271e5ca2870be8c21fdc4efecb95f6e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276333&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "002038",
@@ -17391,16 +17402,18 @@
   "doc_type": "법률",
   "emitted_signature": "b4bdcafaee2ac96b",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T17:33:56.931905+00:00",
-  "last_collected_at": "2026-09-08T17:38:37.449334+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.858600+00:00",
+  "last_collected_at": "2026-10-13T16:14:11.542809+00:00",
   "ministry": "행정안전부",
   "mst": "276333",
   "name": "접경지역 지원 특별법",
   "payload_law_id": "002038",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f682d530ade866b6"
  },
  "law:eflaw:002039": {
@@ -32297,8 +32310,13 @@
   "version_signature": "8135aae052260aab"
  },
  "law:eflaw:004840": {
-  "collected_signature": "23a8c0c91ad142f4",
-  "content_hash": "604c644745f667195e654b8bf87fe82b443c9dbcb50eeabeb5b80be83d8549ec",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 56,
+   "chars": 22027
+  },
+  "collected_signature": "249aa110a2c0e043",
+  "content_hash": "c178b7b14b1ad0d4b19b485f06da23dfb5803f3931a5a2c8e06258dc9b7b0bc7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288983&type=HTML&mobileYn=&efYd=20260825",
   "doc_domain": "law",
   "doc_id": "004840",
@@ -32306,16 +32324,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "23a8c0c91ad142f4",
   "enforcement_date": "20260825",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T01:11:19.323493+00:00",
-  "last_collected_at": "2026-08-27T01:22:36.960765+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.916584+00:00",
+  "last_collected_at": "2026-10-13T16:15:52.569112+00:00",
   "ministry": "국가보훈부",
   "mst": "288983",
   "name": "제대군인지원에 관한 법률 시행령",
   "payload_law_id": "004840",
+  "prev_name": null,
   "promulgation_date": "20260825",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "249aa110a2c0e043"
  },
  "law:eflaw:004844": {
@@ -34580,8 +34600,13 @@
   "version_signature": "e529efeb34610d54"
  },
  "law:eflaw:005343": {
-  "collected_signature": "fc102c89b19de8a7",
-  "content_hash": "40fe4ade27d0062ef70bbb16a9b8987f281fb71e14bf3a9cfe315f8fcb4f791b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 21633
+  },
+  "collected_signature": "47444fb09eb2f941",
+  "content_hash": "7b9010fa6409ba493540ae782dee6464ebc42564bdc8de00ead40a9ef285974e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277553&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "005343",
@@ -34589,16 +34614,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "fc102c89b19de8a7",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:25:37.362745+00:00",
-  "last_collected_at": "2026-08-25T21:35:01.700386+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.457785+00:00",
+  "last_collected_at": "2026-10-13T16:15:28.346918+00:00",
   "ministry": "지식재산처",
   "mst": "277553",
   "name": "특허법 시행령",
   "payload_law_id": "005343",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "47444fb09eb2f941"
  },
  "law:eflaw:005348": {
@@ -65439,10 +65466,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 30,
-   "chars": 14618
+   "chars": 15016
   },
-  "collected_signature": "0961ac7f26dc9929",
-  "content_hash": "30436c8860092bdadcd510a1d2acac89878df43e84fdc780ba807d96adaf6ffb",
+  "collected_signature": "fb61ddfeda67e207",
+  "content_hash": "388dbf6726728b965ca48c108a0f96d5ed412f3a43067f2c2ec63b5f90263c08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291179&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "009908",
@@ -65452,8 +65479,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:46:27.141760+00:00",
-  "last_collected_at": "2026-09-15T17:50:57.254318+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.852263+00:00",
+  "last_collected_at": "2026-10-13T16:14:56.805354+00:00",
   "ministry": "성평등가족부",
   "mst": "291179",
   "name": "청소년복지 지원법 시행령",
@@ -65461,7 +65488,7 @@
   "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fb61ddfeda67e207"
  },
  "law:eflaw:009909": {
@@ -69018,10 +69045,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 494,
-   "chars": 211654
+   "chars": 211670
   },
-  "collected_signature": "aad47169c69279fd",
-  "content_hash": "516fcb153dc618baee8c0038e21799bee22f0e27f9da2ad4a095e360a28a676f",
+  "collected_signature": "87ff9e5e438f40a7",
+  "content_hash": "385b52c289e8002588b73d9ef441f16ca7f30ab17b030aa0a93880550e9cf350",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291149&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010162",
@@ -69031,8 +69058,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:10:24.599990+00:00",
-  "last_collected_at": "2026-09-23T02:38:49.381475+00:00",
+  "last_checked_at": "2026-10-13T16:08:55.842783+00:00",
+  "last_collected_at": "2026-10-13T16:32:41.679899+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "291149",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
@@ -69040,7 +69067,7 @@
   "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 17,
+  "version_count": 1,
   "version_signature": "87ff9e5e438f40a7"
  },
  "law:eflaw:010163": {
