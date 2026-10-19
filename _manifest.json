@@ -47638,21 +47638,21 @@
   "attempts": 0,
   "body_stats": {
    "articles": 17,
-   "chars": 11315
+   "chars": 11545
   },
-  "collected_signature": "cf89da3a967b3312",
-  "content_hash": "c546af1a64c2f3f370b4bd27dd2519053e032a0e4a7790725256176e65b7e07a",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290897&type=HTML&mobileYn=&efYd=20261002",
+  "collected_signature": "0bb404c99dab13a4",
+  "content_hash": "2a964da779f3408cd64fff8a55fbfaca887c73e8273a387bb8ddbcb673f18660",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290897&type=HTML&mobileYn=&efYd=20261019",
   "doc_domain": "law",
   "doc_id": "007233",
   "doc_target": "eflaw",
   "doc_type": "총리령",
   "emitted_signature": "cf89da3a967b3312",
-  "enforcement_date": "20261002",
+  "enforcement_date": "20261019",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:49:55.015583+00:00",
-  "last_collected_at": "2026-10-02T17:50:30.538984+00:00",
+  "last_checked_at": "2026-10-19T15:00:25.155184+00:00",
+  "last_collected_at": "2026-10-19T15:01:15.905144+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "법제처",
   "mst": "290897",
@@ -47661,8 +47661,8 @@
   "prev_name": null,
   "promulgation_date": "20261002",
   "status": "done",
-  "version_count": 2,
-  "version_signature": "cf89da3a967b3312"
+  "version_count": 1,
+  "version_signature": "0bb404c99dab13a4"
  },
  "law:eflaw:007234": {
   "collected_signature": "3e5494509d0d8fcc",
@@ -49451,26 +49451,33 @@
   "version_signature": "d9423e94ff40eae9"
  },
  "law:eflaw:007517": {
-  "collected_signature": "608bcc4aa0c7b173",
-  "content_hash": "3c9608fe5c235d6830870ba5f075af4e784221d82d6bd673d2517d9bd89918f3",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287833&type=HTML&mobileYn=&efYd=20260701",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 49,
+   "chars": 29342
+  },
+  "collected_signature": "2217c7ec19474f4b",
+  "content_hash": "7124a800f51323a40a654715122a8e18db01382d472201efc5508fe2f4d910c0",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291411&type=HTML&mobileYn=&efYd=20261019",
   "doc_domain": "law",
   "doc_id": "007517",
   "doc_target": "eflaw",
   "doc_type": "행정안전부령",
   "emitted_signature": "608bcc4aa0c7b173",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20261019",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:36:31.288094+00:00",
-  "last_collected_at": "2026-08-24T05:41:31.698032+00:00",
+  "last_checked_at": "2026-10-19T15:00:25.471343+00:00",
+  "last_collected_at": "2026-10-19T15:03:24.335122+00:00",
   "ministry": "소방청",
-  "mst": "287833",
+  "mst": "291411",
   "name": "소방용품의 품질관리 등에 관한 규칙",
   "payload_law_id": "007517",
-  "promulgation_date": "20260701",
+  "prev_name": null,
+  "promulgation_date": "20261019",
   "status": "done",
   "version_count": 1,
-  "version_signature": "608bcc4aa0c7b173"
+  "version_signature": "2217c7ec19474f4b"
  },
  "law:eflaw:007519": {
   "collected_signature": "4afc504074a8fa06",
@@ -52687,8 +52694,13 @@
   "version_signature": "85992b8710eca384"
  },
  "law:eflaw:008189": {
-  "collected_signature": "803983793fab865e",
-  "content_hash": "32f6766008c7310adda5a079cb9ce27ad8db6902df9bfd4e413484085e243236",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 5359
+  },
+  "collected_signature": "e66b202744aad717",
+  "content_hash": "d2c707ae3467bcabef87c3b70f58d5ccf460723b29806c2d38e1f6f8e25b2dbe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287391&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "008189",
@@ -52696,17 +52708,19 @@
   "doc_type": "국가보훈부령",
   "emitted_signature": "803983793fab865e",
   "enforcement_date": "20260820",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T06:00:09.479224+00:00",
-  "last_collected_at": "2026-08-25T06:02:14.926160+00:00",
+  "last_checked_at": "2026-10-19T15:00:25.598647+00:00",
+  "last_collected_at": "2026-10-19T15:02:31.263380+00:00",
   "ministry": "국가보훈부",
   "mst": "287391",
   "name": "제대군인지원에 관한 법률 시행규칙",
   "payload_law_id": "008189",
+  "prev_name": null,
   "promulgation_date": "20260618",
   "status": "done",
   "version_count": 1,
-  "version_signature": "803983793fab865e"
+  "version_signature": "e66b202744aad717"
  },
  "law:eflaw:008190": {
   "collected_signature": "12f499f82459e2cd",
@@ -54689,8 +54703,13 @@
   "version_signature": "f9341d0e25b4e8f9"
  },
  "law:eflaw:008594": {
-  "collected_signature": "e2131d56b08c5d27",
-  "content_hash": "2ea6e3e997d64601e167c1ad8b0a9484ae7f6c3a8c12492dc2b531be632259d0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 17,
+   "chars": 6049
+  },
+  "collected_signature": "e4984a47b71da8c9",
+  "content_hash": "e1404132a36e0cb453a11a6c2b51cd0f8b107b8ec8ecbbe302ccebc3e6cece0c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269791&type=HTML&mobileYn=&efYd=20250310",
   "doc_domain": "law",
   "doc_id": "008594",
@@ -54698,17 +54717,19 @@
   "doc_type": "교육부령",
   "emitted_signature": "e2131d56b08c5d27",
   "enforcement_date": "20250310",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T22:47:20.554684+00:00",
-  "last_collected_at": "2026-08-25T22:49:22.870131+00:00",
+  "last_checked_at": "2026-10-19T15:00:25.108644+00:00",
+  "last_collected_at": "2026-10-19T15:01:29.830072+00:00",
   "ministry": "교육부",
   "mst": "269791",
   "name": "학교건강검사규칙",
   "payload_law_id": "008594",
+  "prev_name": null,
   "promulgation_date": "20250310",
   "status": "done",
   "version_count": 1,
-  "version_signature": "e2131d56b08c5d27"
+  "version_signature": "e4984a47b71da8c9"
  },
  "law:eflaw:008596": {
   "collected_signature": "5c8c99c858b76083",
@@ -63696,26 +63717,33 @@
   "version_signature": "8fc8610a15c0395e"
  },
  "law:eflaw:009730": {
-  "collected_signature": "d51d4b551df44662",
-  "content_hash": "7db902879c75cea7dd1c9ffd8fee746744650aa20328542724e7d8615fb93461",
-  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287831&type=HTML&mobileYn=&efYd=20260701",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 21465
+  },
+  "collected_signature": "b24e25ae853fddb4",
+  "content_hash": "9b8505b100163c3818a8f5d983582d8fe9aebf619305253673b14f432f7b8e2d",
+  "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291409&type=HTML&mobileYn=&efYd=20261019",
   "doc_domain": "law",
   "doc_id": "009730",
   "doc_target": "eflaw",
   "doc_type": "행정안전부령",
   "emitted_signature": "d51d4b551df44662",
-  "enforcement_date": "20260701",
+  "enforcement_date": "20261019",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:29:49.855588+00:00",
-  "last_collected_at": "2026-08-24T05:35:07.358016+00:00",
+  "last_checked_at": "2026-10-19T15:00:25.193415+00:00",
+  "last_collected_at": "2026-10-19T15:03:34.840758+00:00",
   "ministry": "소방청",
-  "mst": "287831",
+  "mst": "291409",
   "name": "소방시설 설치 및 관리에 관한 법률 시행규칙",
   "payload_law_id": "009730",
-  "promulgation_date": "20260701",
+  "prev_name": null,
+  "promulgation_date": "20261019",
   "status": "done",
   "version_count": 1,
-  "version_signature": "d51d4b551df44662"
+  "version_signature": "b24e25ae853fddb4"
  },
  "law:eflaw:009731": {
   "collected_signature": "a820aba20e6086c6",
