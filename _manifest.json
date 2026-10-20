@@ -12663,8 +12663,12 @@
  },
  "law:eflaw:001605": {
   "attempts": 0,
-  "collected_signature": "0be1ffe2527939b6",
-  "content_hash": "135bc206275ac31d3727c9f8eef68692513ac1e03088f10ab81a73ea6a7cbb48",
+  "body_stats": {
+   "articles": 108,
+   "chars": 47265
+  },
+  "collected_signature": "1a487d39f6023ff1",
+  "content_hash": "32868417e1c5b9ed5426dc0febc71e361e96e7b014e753e24be987beb58dd85c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286627&type=HTML&mobileYn=&efYd=20260903",
   "doc_domain": "law",
   "doc_id": "001605",
@@ -12672,17 +12676,19 @@
   "doc_type": "법률",
   "emitted_signature": "0be1ffe2527939b6",
   "enforcement_date": "20260903",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:01:35.249367+00:00",
-  "last_collected_at": "2026-09-03T03:05:01.163337+00:00",
+  "last_checked_at": "2026-10-20T15:12:54.066349+00:00",
+  "last_collected_at": "2026-10-20T15:16:51.075732+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "문화체육관광부",
   "mst": "286627",
   "name": "국민체육진흥법",
   "payload_law_id": "001605",
+  "prev_name": null,
   "promulgation_date": "20260602",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "1a487d39f6023ff1"
  },
  "law:eflaw:001607": {
@@ -14948,10 +14954,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 164,
-   "chars": 68110
+   "chars": 69009
   },
-  "collected_signature": "abbf00bfd71fff9e",
-  "content_hash": "7c8b44e9a9d9530693c8c0c07a81baaf7eff0730ae1be197d05a1bd822e8a624",
+  "collected_signature": "12887f98d5159d13",
+  "content_hash": "43c59de17a920be24e90f84f5bb7bd09e485767bdcc52ba16882a240de0ad690",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291347&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "001781",
@@ -14961,8 +14967,8 @@
   "enforcement_date": "20261020",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:17:51.568640+00:00",
-  "last_collected_at": "2026-09-15T15:24:28.637884+00:00",
+  "last_checked_at": "2026-10-20T15:12:54.060532+00:00",
+  "last_collected_at": "2026-10-20T15:17:50.431961+00:00",
   "ministry": "보건복지부",
   "mst": "291347",
   "name": "국민연금법",
@@ -14970,7 +14976,7 @@
   "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "12887f98d5159d13"
  },
  "law:eflaw:001783": {
@@ -16328,11 +16334,11 @@
  "law:eflaw:001973": {
   "attempts": 0,
   "body_stats": {
-   "articles": 85,
-   "chars": 33635
+   "articles": 86,
+   "chars": 33779
   },
-  "collected_signature": "8cf35430f5f248f7",
-  "content_hash": "003c739f8e7785f7dc8f25b4f3860bce4a00a990c152fab17e19483f9432d643",
+  "collected_signature": "48438feea534686f",
+  "content_hash": "7c06aa6fb7a293c619fd670a5ece967f8b6dfb13d3e7dab62b8608bf1fd989b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276653&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001973",
@@ -16342,8 +16348,8 @@
   "enforcement_date": "20251001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:17:52.072368+00:00",
-  "last_collected_at": "2026-09-15T15:23:01.901471+00:00",
+  "last_checked_at": "2026-10-20T15:12:54.185487+00:00",
+  "last_collected_at": "2026-10-20T15:16:25.378620+00:00",
   "ministry": "보건복지부",
   "mst": "276653",
   "name": "국민기초생활 보장법",
@@ -16351,7 +16357,7 @@
   "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "48438feea534686f"
  },
  "law:eflaw:001974": {
@@ -21044,8 +21050,13 @@
   "version_signature": "f9855fbdf52206b7"
  },
  "law:eflaw:002701": {
-  "collected_signature": "d2f63e184da3719f",
-  "content_hash": "536e47a6ac5a3fa3ac282397744c0ba7d247264aed705674176e4f2dfc749a5e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 4,
+   "chars": 795
+  },
+  "collected_signature": "160cd6dea5ffdb03",
+  "content_hash": "e325e8033ea65a7f5f7339bbb01af1b7380da5f7b1ce03a305fcca8d97f412c7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=264605&type=HTML&mobileYn=&efYd=20241001",
   "doc_domain": "law",
   "doc_id": "002701",
@@ -21053,16 +21064,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "d2f63e184da3719f",
   "enforcement_date": "20241001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T20:30:17.929658+00:00",
-  "last_collected_at": "2026-08-22T20:30:40.519000+00:00",
+  "last_checked_at": "2026-10-20T15:12:53.798031+00:00",
+  "last_collected_at": "2026-10-20T15:13:27.133740+00:00",
   "ministry": "국방부",
   "mst": "264605",
   "name": "국군조직법 제9조제3항에 따른 전투를 주임무로 하는 각 군의 작전부대 등에 관한 규정",
   "payload_law_id": "002701",
+  "prev_name": null,
   "promulgation_date": "20240806",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "160cd6dea5ffdb03"
  },
  "law:eflaw:002703": {
@@ -72850,8 +72863,13 @@
   "version_signature": "e12f855969ad1239"
  },
  "law:eflaw:010411": {
-  "collected_signature": "2eb33ebe0529534b",
-  "content_hash": "f5b45de430cbaa4b1b71db5161ad3994283ce7a3c9373e97b6b67d4a25f83679",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 7330
+  },
+  "collected_signature": "fc5c096b63bce279",
+  "content_hash": "b321c98bdcaa61b08f3939bb6c2f6f9c511eacdd8158f51025b3b7499f7cdf25",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288375&type=HTML&mobileYn=&efYd=20260731",
   "doc_domain": "law",
   "doc_id": "010411",
@@ -72859,16 +72877,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "2eb33ebe0529534b",
   "enforcement_date": "20260731",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T22:29:48.614011+00:00",
-  "last_collected_at": "2026-08-22T22:32:41.065799+00:00",
+  "last_checked_at": "2026-10-20T15:12:53.680976+00:00",
+  "last_collected_at": "2026-10-20T15:13:57.544181+00:00",
   "ministry": "국방부",
   "mst": "288375",
   "name": "국방개혁에 관한 법률 시행령",
   "payload_law_id": "010411",
+  "prev_name": null,
   "promulgation_date": "20260728",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fc5c096b63bce279"
  },
  "law:eflaw:010412": {
@@ -80830,8 +80850,13 @@
   "version_signature": "7a5301924eee8c70"
  },
  "law:eflaw:010954": {
-  "collected_signature": "f2657d8e78b06632",
-  "content_hash": "606577602410913d7e172d7bc2630c6eb99d7998b29ca382da1e89125f123e81",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 5095
+  },
+  "collected_signature": "f336ee346ef6048d",
+  "content_hash": "cbae8f87a5165f26565c4c91b5613831bff44062c7e19538039d8d7869639660",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=202640&type=HTML&mobileYn=&efYd=20180914",
   "doc_domain": "law",
   "doc_id": "010954",
@@ -80839,16 +80864,18 @@
   "doc_type": "법률",
   "emitted_signature": "f2657d8e78b06632",
   "enforcement_date": "20180914",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T20:50:54.722970+00:00",
-  "last_collected_at": "2026-08-22T20:51:46.111825+00:00",
+  "last_checked_at": "2026-10-20T15:12:54.041104+00:00",
+  "last_collected_at": "2026-10-20T15:13:56.450154+00:00",
   "ministry": "보건복지부",
   "mst": "202640",
   "name": "국립중앙의료원의 설립 및 운영에 관한 법률",
   "payload_law_id": "010954",
+  "prev_name": null,
   "promulgation_date": "20180313",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f336ee346ef6048d"
  },
  "law:eflaw:010956": {
