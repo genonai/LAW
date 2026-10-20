@@ -22461,8 +22461,8 @@
    "articles": 133,
    "chars": 48415
   },
-  "collected_signature": "b2a285dae0b8fd16",
-  "content_hash": "15cd8f2dddcbd75a8ca2f30b7d4c540a599618b4c67f71a17daf78d60157a6c5",
+  "collected_signature": "0537c735005959bc",
+  "content_hash": "1c2882981f880624d2bdb64d2441db6c41c0e5f79fabff2c1c479bdf0f6ce3dd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290365&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "003026",
@@ -22472,8 +22472,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T16:56:44.940060+00:00",
-  "last_collected_at": "2026-10-02T17:03:38.991121+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.489857+00:00",
+  "last_collected_at": "2026-10-20T15:23:45.064081+00:00",
   "ministry": "국방부",
   "mst": "290365",
   "name": "군인사법 시행령",
@@ -22481,7 +22481,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0537c735005959bc"
  },
  "law:eflaw:003027": {
@@ -45357,8 +45357,12 @@
  },
  "law:eflaw:006883": {
   "attempts": 0,
-  "collected_signature": "b39eea18051421a9",
-  "content_hash": "2ecc261790e86bdeb066bea9a4aef42321ca3ab5e30a07f23f7168f8d0349e2a",
+  "body_stats": {
+   "articles": 31,
+   "chars": 29509
+  },
+  "collected_signature": "4717eb1130f7965d",
+  "content_hash": "f17afd1e52f584d43cc24ef73341bb590f7a041d3de1168a2ed517342bd233ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291425&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "006883",
@@ -45366,14 +45370,16 @@
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "b39eea18051421a9",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:14:55.612398+00:00",
-  "last_collected_at": "2026-09-03T03:17:01.393231+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.981145+00:00",
+  "last_collected_at": "2026-10-20T15:20:35.462983+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "기상청",
   "mst": "291425",
   "name": "기상청과 그 소속기관 직제 시행규칙",
   "payload_law_id": "006883",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
@@ -59680,8 +59686,13 @@
   "version_signature": "9fb95881701571a1"
  },
  "law:eflaw:009399": {
-  "collected_signature": "b11e807a06dc6cd6",
-  "content_hash": "2c412ff8641d4afea9dfca99efa77d77757ad3528b4844a396307a54f6bd0959",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 6874
+  },
+  "collected_signature": "908069a1c3961747",
+  "content_hash": "1e8b80d41e18da79e4bd1cce439b3597ecbcff21e039c78644758bfbfc0fb5d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268829&type=HTML&mobileYn=&efYd=20250801",
   "doc_domain": "law",
   "doc_id": "009399",
@@ -59689,16 +59700,18 @@
   "doc_type": "법률",
   "emitted_signature": "b11e807a06dc6cd6",
   "enforcement_date": "20250801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T04:06:14.187992+00:00",
-  "last_collected_at": "2026-08-23T04:07:07.390477+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.795704+00:00",
+  "last_collected_at": "2026-10-20T15:19:27.839220+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "268829",
   "name": "나노기술개발 촉진법",
   "payload_law_id": "009399",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "908069a1c3961747"
  },
  "law:eflaw:009401": {
@@ -89697,8 +89710,13 @@
   "version_signature": "f3367b194fb0764c"
  },
  "law:eflaw:011574": {
-  "collected_signature": "20c40fb92fb2908e",
-  "content_hash": "f47bb8b2376e0a030603d14583b80671db66238a02ba2df4f48b644e2ce391cd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 6420
+  },
+  "collected_signature": "423cee9855c26653",
+  "content_hash": "bc1d8e85c53c38f36d470bd476de04d2dfb8d59673c0502ff48af739ee5db4a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=269899&type=HTML&mobileYn=&efYd=20250919",
   "doc_domain": "law",
   "doc_id": "011574",
@@ -89706,16 +89724,18 @@
   "doc_type": "법률",
   "emitted_signature": "20c40fb92fb2908e",
   "enforcement_date": "20250919",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T01:18:13.524518+00:00",
-  "last_collected_at": "2026-08-23T01:19:23.060043+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.945834+00:00",
+  "last_collected_at": "2026-10-20T15:19:20.538189+00:00",
   "ministry": "국방부",
   "mst": "269899",
   "name": "군보건의료에 관한 법률",
   "payload_law_id": "011574",
+  "prev_name": null,
   "promulgation_date": "20250318",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "423cee9855c26653"
  },
  "law:eflaw:011575": {
@@ -95353,8 +95373,13 @@
   "version_signature": "d87ccb8b9a26d955"
  },
  "law:eflaw:012045": {
-  "collected_signature": "2b0c4b8e2dfd7804",
-  "content_hash": "dc3b7e7ce810eeceb22770e53eaa3bb25d3233d447618d2a0a36042a48dcc6a0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 14796
+  },
+  "collected_signature": "f3008d2493c9a942",
+  "content_hash": "fcef1613b550e89a171cf7f20f74e9cfb1c5f24f05286f596e6d1f4aa324f463",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276657&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012045",
@@ -95362,16 +95387,18 @@
   "doc_type": "법률",
   "emitted_signature": "2b0c4b8e2dfd7804",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:46:39.121432+00:00",
-  "last_collected_at": "2026-08-23T03:51:20.385887+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.580311+00:00",
+  "last_collected_at": "2026-10-20T15:21:30.231645+00:00",
   "ministry": "보건복지부",
   "mst": "276657",
   "name": "기초연금법",
   "payload_law_id": "012045",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f3008d2493c9a942"
  },
  "law:eflaw:012046": {
@@ -103042,8 +103069,13 @@
   "version_signature": "722c1f935916140e"
  },
  "law:eflaw:012642": {
-  "collected_signature": "966dcaa02adae5ec",
-  "content_hash": "e61c7a467f538ed33b9f4cf4a717d7777e099a31c91d1a7d13b66cfd880b5ed5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 21516
+  },
+  "collected_signature": "de9415af70ec238e",
+  "content_hash": "fbc1e7a116df4dbec5de7a144fe0b7f5b0a6785e1d74ca4acc33e3746e7399c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287401&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "012642",
@@ -103051,16 +103083,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "966dcaa02adae5ec",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:24:36.291799+00:00",
-  "last_collected_at": "2026-08-23T03:27:13.538330+00:00",
+  "last_checked_at": "2026-10-20T15:18:35.961087+00:00",
+  "last_collected_at": "2026-10-20T15:22:37.016475+00:00",
   "ministry": "산업통상부",
   "mst": "287401",
   "name": "기업 활력 제고를 위한 특별법 시행령",
   "payload_law_id": "012642",
+  "prev_name": null,
   "promulgation_date": "20260630",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "de9415af70ec238e"
  },
  "law:eflaw:012644": {
