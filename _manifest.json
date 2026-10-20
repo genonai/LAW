@@ -2046,8 +2046,8 @@
    "articles": 48,
    "chars": 13962
   },
-  "collected_signature": "cd979603ca735510",
-  "content_hash": "15a34f02009346a0741fc77102fabc49ff368f3d7605cb86d0666422667e3be6",
+  "collected_signature": "062e1bcc96b3d6da",
+  "content_hash": "d9d86cb01e4c0f31439d939406c173fa644f3fdde3f91c0ea40dfeea35d7e023",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289735&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000204",
@@ -2057,8 +2057,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:07:47.184890+00:00",
-  "last_collected_at": "2026-09-15T16:09:44.966224+00:00",
+  "last_checked_at": "2026-10-20T15:30:17.191605+00:00",
+  "last_collected_at": "2026-10-20T15:31:30.911587+00:00",
   "ministry": "보건복지부",
   "mst": "289735",
   "name": "사회보장기본법",
@@ -2066,7 +2066,7 @@
   "prev_name": null,
   "promulgation_date": "20260915",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "062e1bcc96b3d6da"
  },
  "law:eflaw:000207": {
@@ -5275,8 +5275,13 @@
   "version_signature": "bb6a87d7d67fb69f"
  },
  "law:eflaw:000794": {
-  "collected_signature": "b8ab3db0b9871c52",
-  "content_hash": "5ba0a1a53dcccd4f7bdc507812bd9ce9af0fa69d0affd13343d4df523b707d7e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 145,
+   "chars": 74594
+  },
+  "collected_signature": "b76e1baaacfab456",
+  "content_hash": "7402a575237a46b84fafe7667e0f0443196e63a38a90abe1829f94180c2f7515",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285487&type=HTML&mobileYn=&efYd=20260421",
   "doc_domain": "law",
   "doc_id": "000794",
@@ -5284,16 +5289,18 @@
   "doc_type": "법률",
   "emitted_signature": "b8ab3db0b9871c52",
   "enforcement_date": "20260421",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:35:25.043477+00:00",
-  "last_collected_at": "2026-08-23T14:45:17.984919+00:00",
+  "last_checked_at": "2026-10-20T15:30:17.190731+00:00",
+  "last_collected_at": "2026-10-20T15:34:59.826934+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "285487",
   "name": "방송법",
   "payload_law_id": "000794",
+  "prev_name": null,
   "promulgation_date": "20260421",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b76e1baaacfab456"
  },
  "law:eflaw:000798": {
@@ -25930,8 +25937,8 @@
    "articles": 112,
    "chars": 29670
   },
-  "collected_signature": "833d87783d8f371a",
-  "content_hash": "bb6767988fd63c0d706116cefa8e65f97c0a66690da97ad78602c86239fe3251",
+  "collected_signature": "67c0a0d83cf5efa9",
+  "content_hash": "290519edba829b08b942cd9ca52ae6f653206538bc359d169e74e92e2d7acac7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290419&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "003623",
@@ -25941,8 +25948,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:52:55.149811+00:00",
-  "last_collected_at": "2026-10-02T18:01:29.511278+00:00",
+  "last_checked_at": "2026-10-20T15:30:16.828127+00:00",
+  "last_collected_at": "2026-10-20T15:35:54.842793+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "290419",
   "name": "별정우체국법 시행령",
@@ -25950,7 +25957,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "67c0a0d83cf5efa9"
  },
  "law:eflaw:003624": {
@@ -97517,11 +97524,11 @@
  "law:eflaw:012197": {
   "attempts": 0,
   "body_stats": {
-   "articles": 65,
-   "chars": 35068
+   "articles": 67,
+   "chars": 35358
   },
-  "collected_signature": "eff128e71fcc49e8",
-  "content_hash": "1c5e7a8c8a6b7bc2f288ae354bdddbfc1c193641ea2c09752b5fc2d38a91d4fb",
+  "collected_signature": "3cd1de886762a9db",
+  "content_hash": "190bdf1461bb0217e314cad26a6e176eaf5f9d95acca45d32a0ccb55e0d3aedb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285335&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "012197",
@@ -97531,8 +97538,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:01:54.275199+00:00",
-  "last_collected_at": "2026-10-08T01:07:28.174848+00:00",
+  "last_checked_at": "2026-10-20T15:30:17.317178+00:00",
+  "last_collected_at": "2026-10-20T15:35:51.514052+00:00",
   "ministry": "보건복지부",
   "mst": "285335",
   "name": "사회보장급여의 이용ㆍ제공 및 수급권자 발굴에 관한 법률",
@@ -97540,7 +97547,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "3cd1de886762a9db"
  },
  "law:eflaw:012198": {
@@ -127827,8 +127834,13 @@
   "version_signature": "50c9cb9cb059eadf"
  },
  "law:eflaw:014936": {
-  "collected_signature": "63bf994f1ac4cfab",
-  "content_hash": "6ec84f708eb32e6c110b5cfa4a1b9ab7adf47e838062377136a02714950f625f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 30145
+  },
+  "collected_signature": "60acd3b10da38fd1",
+  "content_hash": "cf62aef4e9c738df2f3c0dbd4534d8eea9f30e936c1269fbc0688ac293b8deaa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291385&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "014936",
@@ -127836,13 +127848,15 @@
   "doc_type": "대통령령",
   "emitted_signature": "63bf994f1ac4cfab",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T23:58:29.095179+00:00",
-  "last_collected_at": "2026-08-24T00:01:38.575733+00:00",
+  "last_checked_at": "2026-10-20T15:30:17.192392+00:00",
+  "last_collected_at": "2026-10-20T15:32:40.787158+00:00",
   "ministry": "행정안전부",
   "mst": "291385",
   "name": "산업통상부와 그 소속기관 직제",
   "payload_law_id": "014936",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
@@ -127963,8 +127977,13 @@
   "version_signature": "11211f8c727de18c"
  },
  "law:eflaw:014944": {
-  "collected_signature": "109aa677eb813251",
-  "content_hash": "0d6c97f9b3df0c82d655538bf893cdad3930dbd4517a976da65eb232758caa2d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 43,
+   "chars": 81572
+  },
+  "collected_signature": "67371a7dc23f98f0",
+  "content_hash": "8d29114a45ef8d97acf067bd39851a07ed49454ff359a840ad9b0cf6f7bb3f9b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291427&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "014944",
@@ -127972,13 +127991,15 @@
   "doc_type": "산업통상부령",
   "emitted_signature": "109aa677eb813251",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T23:58:26.389102+00:00",
-  "last_collected_at": "2026-08-24T00:00:43.608008+00:00",
+  "last_checked_at": "2026-10-20T15:30:17.015551+00:00",
+  "last_collected_at": "2026-10-20T15:34:19.187924+00:00",
   "ministry": "산업통상부",
   "mst": "291427",
   "name": "산업통상부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "014944",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
