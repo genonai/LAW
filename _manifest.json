@@ -1929,8 +1929,8 @@
    "articles": 111,
    "chars": 57762
   },
-  "collected_signature": "e317c027e2e474e3",
-  "content_hash": "398785b2e727dfd4dd23885e3c873df4e2583a66a1df5e533ec641c14a9a1024",
+  "collected_signature": "46d0970d88392753",
+  "content_hash": "0bb8e56b975cc4670384b6f60757e9b1483b12aa905717bcd6554d707c2a9cb9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290207&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "000190",
@@ -1940,8 +1940,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:01:55.091523+00:00",
-  "last_collected_at": "2026-10-02T19:07:18.820390+00:00",
+  "last_checked_at": "2026-10-20T15:43:32.342913+00:00",
+  "last_collected_at": "2026-10-20T15:51:52.090125+00:00",
   "ministry": "보건복지부",
   "mst": "290207",
   "name": "아동복지법",
@@ -1949,7 +1949,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "46d0970d88392753"
  },
  "law:eflaw:000191": {
@@ -14989,11 +14989,11 @@
  "law:eflaw:001783": {
   "attempts": 0,
   "body_stats": {
-   "articles": 221,
-   "chars": 132217
+   "articles": 222,
+   "chars": 132358
   },
-  "collected_signature": "6f2fe6b89f2ce951",
-  "content_hash": "f2e169ca0c609cbf4671b0495c2270d3dfd8f12d058e6cd6ef8c0528f71eac0e",
+  "collected_signature": "024f17ed69259d9a",
+  "content_hash": "fd11fac5b5da99a710582f504151ae7d8530e2dbf5139d0f41cefd0fe59e2f6e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285341&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "001783",
@@ -15003,8 +15003,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:10:19.101187+00:00",
-  "last_collected_at": "2026-10-08T01:19:20.235322+00:00",
+  "last_checked_at": "2026-10-20T15:43:32.202891+00:00",
+  "last_collected_at": "2026-10-20T15:54:05.556745+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "285341",
   "name": "약사법",
@@ -15012,7 +15012,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 8,
+  "version_count": 1,
   "version_signature": "024f17ed69259d9a"
  },
  "law:eflaw:001784": {
@@ -28294,8 +28294,13 @@
   "version_signature": "abaf52230510266e"
  },
  "law:eflaw:004019": {
-  "collected_signature": "7597fe8d0ad22b70",
-  "content_hash": "4cafc64b4662a9e40b1b87ae0a5a25ba8735dea507cc0106172514436d372022",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 84,
+   "chars": 38451
+  },
+  "collected_signature": "f83e65a80448051c",
+  "content_hash": "85ccb3eac3709558f274a7298dd83c7632c9e5816e94185a89494fa6ecd4aa45",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287149&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "004019",
@@ -28303,16 +28308,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "7597fe8d0ad22b70",
   "enforcement_date": "20260701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:56:15.634528+00:00",
-  "last_collected_at": "2026-08-24T07:09:30.500485+00:00",
+  "last_checked_at": "2026-10-20T15:43:31.960554+00:00",
+  "last_collected_at": "2026-10-20T15:53:28.891493+00:00",
   "ministry": "해양수산부",
   "mst": "287149",
   "name": "수산업법 시행령",
   "payload_law_id": "004019",
+  "prev_name": null,
   "promulgation_date": "20260623",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f83e65a80448051c"
  },
  "law:eflaw:004021": {
@@ -65278,8 +65285,12 @@
  },
  "law:eflaw:009878": {
   "attempts": 0,
-  "collected_signature": "80743614aa04cc41",
-  "content_hash": "8cb772df88f923c332740adf6110fedd9c856a71f22619fd96ae349c69a617b1",
+  "body_stats": {
+   "articles": 110,
+   "chars": 51772
+  },
+  "collected_signature": "20e09aea46674ee5",
+  "content_hash": "643c0d4a1e827ccfa9e0544c346fd292ce90d9b101877c9805f75f3d7f37c826",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283353&type=HTML&mobileYn=&efYd=20260820",
   "doc_domain": "law",
   "doc_id": "009878",
@@ -65287,16 +65298,18 @@
   "doc_type": "법률",
   "emitted_signature": "80743614aa04cc41",
   "enforcement_date": "20260820",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:41:33.648161+00:00",
-  "last_collected_at": "2026-09-08T16:48:22.640954+00:00",
+  "last_checked_at": "2026-10-20T15:43:31.957053+00:00",
+  "last_collected_at": "2026-10-20T15:52:27.499317+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "283353",
   "name": "연구개발특구의 육성에 관한 특별법",
   "payload_law_id": "009878",
+  "prev_name": null,
   "promulgation_date": "20260219",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "20e09aea46674ee5"
  },
  "law:eflaw:009880": {
@@ -98217,8 +98230,13 @@
   "version_signature": "a24a54ebb167c0ea"
  },
  "law:eflaw:012262": {
-  "collected_signature": "ca762eb40399bb38",
-  "content_hash": "edc8008a7fb131c6b04465e9a7943516d9a6e82dce3e2702515a0f21c1d1536e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 17851
+  },
+  "collected_signature": "3656af9ee56ed42e",
+  "content_hash": "97836e4009b5f3123d4ab144b06e6861699d5760e52b2f228fb38d4404630151",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281633&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "012262",
@@ -98226,16 +98244,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "ca762eb40399bb38",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:33:54.335053+00:00",
-  "last_collected_at": "2026-08-24T11:37:35.372437+00:00",
+  "last_checked_at": "2026-10-20T15:43:32.307959+00:00",
+  "last_collected_at": "2026-10-20T15:50:11.271712+00:00",
   "ministry": "성평등가족부",
   "mst": "281633",
   "name": "양육비 이행확보 및 지원에 관한 법률 시행령",
   "payload_law_id": "012262",
+  "prev_name": null,
   "promulgation_date": "20251230",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "3656af9ee56ed42e"
  },
  "law:eflaw:012263": {
@@ -106711,8 +106731,12 @@
  },
  "law:eflaw:013103": {
   "attempts": 0,
-  "collected_signature": "9205b62e8947a068",
-  "content_hash": "c29afc8d293268281add729b39fdd62f23f34979ccd3ba15d933f43f9c7ff681",
+  "body_stats": {
+   "articles": 27,
+   "chars": 10389
+  },
+  "collected_signature": "bee95bb42d349ce4",
+  "content_hash": "108671dd0f8c4c5196a6efcf36bef77b0ca486d72f61a2c86c6069618b3de746",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286729&type=HTML&mobileYn=&efYd=20260910",
   "doc_domain": "law",
   "doc_id": "013103",
@@ -106722,8 +106746,8 @@
   "enforcement_date": "20260910",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-10T15:20:54.461231+00:00",
-  "last_collected_at": "2026-09-10T15:22:58.639177+00:00",
+  "last_checked_at": "2026-10-20T15:43:32.314037+00:00",
+  "last_collected_at": "2026-10-20T15:45:43.200349+00:00",
   "ministry": "보건복지부",
   "mst": "286729",
   "name": "아동수당법",
@@ -106731,7 +106755,7 @@
   "prev_name": null,
   "promulgation_date": "20260609",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bee95bb42d349ce4"
  },
  "law:eflaw:013104": {
