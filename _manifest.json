@@ -2218,11 +2218,11 @@
  "law:eflaw:000222": {
   "attempts": 0,
   "body_stats": {
-   "articles": 102,
-   "chars": 55989
+   "articles": 103,
+   "chars": 56985
   },
-  "collected_signature": "14e86dc1369fcb43",
-  "content_hash": "e675be415d3b10249903a8cc92b6093c66626fc71562b97a3d831b8e61b24255",
+  "collected_signature": "3dd75c3393e62072",
+  "content_hash": "0d3050ee79ef61eee6b552b68990f801a4684abf54fa3e8baf8d0ab74c3252a1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285345&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
   "doc_id": "000222",
@@ -2232,8 +2232,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:20:03.636553+00:00",
-  "last_collected_at": "2026-10-08T01:25:04.835891+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.271681+00:00",
+  "last_collected_at": "2026-10-20T16:24:11.447577+00:00",
   "ministry": "보건복지부",
   "mst": "285345",
   "name": "정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률",
@@ -2241,7 +2241,7 @@
   "prev_name": null,
   "promulgation_date": "20260407",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "3dd75c3393e62072"
  },
  "law:eflaw:000223": {
@@ -13212,10 +13212,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 132,
-   "chars": 36313
+   "chars": 36385
   },
-  "collected_signature": "5c2d2ea3de62191a",
-  "content_hash": "1479308fbf947788c6e26ba73aaa7f74646036c488d3b5c5cf5ac1c004fe544e",
+  "collected_signature": "52b8a3b45337e956",
+  "content_hash": "42b2091b2d8cb8fc12742d10f8686799dbe5aba1f11002fdc9c746bf1176ae70",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291233&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "001648",
@@ -13225,8 +13225,8 @@
   "enforcement_date": "20261020",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T21:22:59.772410+00:00",
-  "last_collected_at": "2026-10-02T21:25:31.319072+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.413219+00:00",
+  "last_collected_at": "2026-10-20T16:23:26.611248+00:00",
   "ministry": "행정안전부",
   "mst": "291233",
   "name": "지방공기업법",
@@ -66863,8 +66863,13 @@
   "version_signature": "f055a684e825b42c"
  },
  "law:eflaw:009996": {
-  "collected_signature": "ce157305054a776c",
-  "content_hash": "ad58c4e5ee211dcfb41c008ed2d1712b0a60797328b4359234c9f7884c70f375",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 11854
+  },
+  "collected_signature": "7cebde65b176ec28",
+  "content_hash": "ab63a0f23c7b08e98405e15d75f7e156691979bced689b6abace8e2948ec99d4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291235&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "009996",
@@ -66872,13 +66877,15 @@
   "doc_type": "법률",
   "emitted_signature": "ce157305054a776c",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T15:23:56.398750+00:00",
-  "last_collected_at": "2026-08-25T15:27:37.803091+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.028934+00:00",
+  "last_collected_at": "2026-10-20T16:21:11.846428+00:00",
   "ministry": "행정안전부",
   "mst": "291235",
   "name": "지방자치단체 기금관리기본법",
   "payload_law_id": "009996",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
@@ -69248,8 +69255,8 @@
    "articles": 494,
    "chars": 211670
   },
-  "collected_signature": "87ff9e5e438f40a7",
-  "content_hash": "385b52c289e8002588b73d9ef441f16ca7f30ab17b030aa0a93880550e9cf350",
+  "collected_signature": "39ba22578ed5a77b",
+  "content_hash": "55ac2cfdd8f12d1650d5f1c829840739300d63888f2d6eb662dd13cf51f581bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291149&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010162",
@@ -69259,8 +69266,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T16:08:55.842783+00:00",
-  "last_collected_at": "2026-10-13T16:32:41.679899+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.541331+00:00",
+  "last_collected_at": "2026-10-20T16:42:19.210676+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "291149",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법",
@@ -69268,7 +69275,7 @@
   "prev_name": null,
   "promulgation_date": "20261013",
   "status": "done",
-  "version_count": 18,
+  "version_count": 1,
   "version_signature": "39ba22578ed5a77b"
  },
  "law:eflaw:010163": {
@@ -70597,11 +70604,11 @@
  "law:eflaw:010231": {
   "attempts": 0,
   "body_stats": {
-   "articles": 87,
-   "chars": 29747
+   "articles": 92,
+   "chars": 32124
   },
-  "collected_signature": "110e3366569dcf25",
-  "content_hash": "7dac3ce8d3bd9219ad1062fa3606ffbf696be4308edb7aa6c841e55ce632302d",
+  "collected_signature": "1b9945a246a05e01",
+  "content_hash": "139a4a53c59862f093b93e4dd7f54f97c70775e328361a49ba7bd6ec4c5181ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291391&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "010231",
@@ -70611,8 +70618,8 @@
   "enforcement_date": "20261020",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T17:13:37.905533+00:00",
-  "last_collected_at": "2026-09-18T17:18:46.595791+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.412422+00:00",
+  "last_collected_at": "2026-10-20T16:27:03.977934+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "291391",
   "name": "제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 시행령",
@@ -94942,8 +94949,13 @@
   "version_signature": "40a9f12f8b732f45"
  },
  "law:eflaw:011995": {
-  "collected_signature": "a034339e945b3c5b",
-  "content_hash": "57259d89cdd450d0b7fc3696e05166597c6c1c15b4b179e11ce6af8757cce10f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 26,
+   "chars": 7728
+  },
+  "collected_signature": "c974542665ca6a3f",
+  "content_hash": "1316ca890b38b4dc76eaafff383966f5b73d5c680441bbecc90f0bcc6705db3f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=250087&type=HTML&mobileYn=&efYd=20231019",
   "doc_domain": "law",
   "doc_id": "011995",
@@ -94951,16 +94963,18 @@
   "doc_type": "법률",
   "emitted_signature": "a034339e945b3c5b",
   "enforcement_date": "20231019",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T10:04:53.763681+00:00",
-  "last_collected_at": "2026-08-25T10:05:51.494596+00:00",
+  "last_checked_at": "2026-10-20T16:19:40.279670+00:00",
+  "last_collected_at": "2026-10-20T16:22:25.723586+00:00",
   "ministry": "국토교통부",
   "mst": "250087",
   "name": "주거급여법",
   "payload_law_id": "011995",
+  "prev_name": null,
   "promulgation_date": "20230418",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c974542665ca6a3f"
  },
  "law:eflaw:011996": {
