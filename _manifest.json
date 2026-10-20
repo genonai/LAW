@@ -14479,8 +14479,13 @@
   "version_signature": "7c4072237824cdc0"
  },
  "law:eflaw:001744": {
-  "collected_signature": "43774bdacce2f28c",
-  "content_hash": "0b35dca7700f49a0a42bb2bd3693b9f4330c3fbd023a19c176c773ca3e39621f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 132,
+   "chars": 68288
+  },
+  "collected_signature": "ce2e03088c31c84e",
+  "content_hash": "df23c81bc28c3331fb3615b8df04dc1dc978610935e11f0fa34c5a2ace3bdf58",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279659&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "001744",
@@ -14488,16 +14493,18 @@
   "doc_type": "법률",
   "emitted_signature": "43774bdacce2f28c",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T16:15:48.159982+00:00",
-  "last_collected_at": "2026-08-22T16:27:27.753023+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.307585+00:00",
+  "last_collected_at": "2026-10-20T15:11:23.979493+00:00",
   "ministry": "문화체육관광부",
   "mst": "279659",
   "name": "관광진흥법",
   "payload_law_id": "001744",
+  "prev_name": null,
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "ce2e03088c31c84e"
  },
  "law:eflaw:001746": {
@@ -15123,8 +15130,13 @@
   "version_signature": "6d87b1d4a4f62858"
  },
  "law:eflaw:001791": {
-  "collected_signature": "f15ff5b470dbf8fa",
-  "content_hash": "80470c79087aca45fc0c0d5684b04fe6f5c638780a69d2d71c9fa8d8d1fa7ba3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 13318
+  },
+  "collected_signature": "a406073d7b59c869",
+  "content_hash": "30f9c553ffc454e2dd3c4fe11edd6321f773a46316da729da1a97a98534f1345",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277213&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "001791",
@@ -15132,16 +15144,18 @@
   "doc_type": "법률",
   "emitted_signature": "f15ff5b470dbf8fa",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T09:50:44.287566+00:00",
-  "last_collected_at": "2026-08-22T09:52:27.405687+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.464606+00:00",
+  "last_collected_at": "2026-10-20T15:07:25.189222+00:00",
   "ministry": "질병관리청",
   "mst": "277213",
   "name": "결핵예방법",
   "payload_law_id": "001791",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "a406073d7b59c869"
  },
  "law:eflaw:001792": {
@@ -19568,8 +19582,13 @@
   "version_signature": "e1b93a11dbb7aef3"
  },
  "law:eflaw:002373": {
-  "collected_signature": "7e2220638f9c0ad8",
-  "content_hash": "3a7d94d844f670924b5d4a610314c886596f5c218380666ded98ad90e4c61944",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 6282
+  },
+  "collected_signature": "9b30ac9301c36d08",
+  "content_hash": "c4072f6cdc4328110476ed2ca0badbd513c19aa3e197fdb697270f1c0700f3aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291365&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "002373",
@@ -19577,16 +19596,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "7e2220638f9c0ad8",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T15:06:35.352186+00:00",
-  "last_collected_at": "2026-08-22T15:08:53.375563+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.174070+00:00",
+  "last_collected_at": "2026-10-20T15:08:33.844857+00:00",
   "ministry": "보건복지부",
   "mst": "291365",
   "name": "공중위생관리법 시행령",
   "payload_law_id": "002373",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9b30ac9301c36d08"
  },
  "law:eflaw:002378": {
@@ -19806,8 +19827,13 @@
   "version_signature": "e9762d7d7de2f289"
  },
  "law:eflaw:002413": {
-  "collected_signature": "9d481a666ec33525",
-  "content_hash": "0cae634340c562ecc4c4b0a9cfc93382c57950da68c4a51455a03a79ad1181d6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 107,
+   "chars": 51990
+  },
+  "collected_signature": "db6547dab7095b1e",
+  "content_hash": "622d0c8b637cd5503e80468feecc00e633e22200022d7289d41a83bff94aad83",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288461&type=HTML&mobileYn=&efYd=20260804",
   "doc_domain": "law",
   "doc_id": "002413",
@@ -19815,16 +19841,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "9d481a666ec33525",
   "enforcement_date": "20260804",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T16:27:48.107240+00:00",
-  "last_collected_at": "2026-08-22T16:45:19.641439+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.496354+00:00",
+  "last_collected_at": "2026-10-20T15:11:39.766208+00:00",
   "ministry": "문화체육관광부",
   "mst": "288461",
   "name": "관광진흥법 시행령",
   "payload_law_id": "002413",
+  "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "db6547dab7095b1e"
  },
  "law:eflaw:002416": {
@@ -43509,8 +43537,13 @@
   "version_signature": "05b7a49566577f84"
  },
  "law:eflaw:006562": {
-  "collected_signature": "49dfefaf6d32ab15",
-  "content_hash": "9a59ed03828ef77bd7ec89e24df348161fff16a9ee6e9198385e62f4e98b934e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 40,
+   "chars": 11918
+  },
+  "collected_signature": "27e2235fc262d5d1",
+  "content_hash": "75df428467fcc40cecdda2c1657bee1268df43e056a2455fb80c10d8de92cf46",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291269&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "006562",
@@ -43518,13 +43551,15 @@
   "doc_type": "교육부령",
   "emitted_signature": "49dfefaf6d32ab15",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T17:54:02.251637+00:00",
-  "last_collected_at": "2026-08-22T17:56:35.489841+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.465508+00:00",
+  "last_collected_at": "2026-10-20T15:07:50.836176+00:00",
   "ministry": "교육부",
   "mst": "291269",
   "name": "교육감 소속 지방공무원 평정규칙",
   "payload_law_id": "006562",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
@@ -130531,8 +130566,13 @@
   "version_signature": "a86d03982937b6e0"
  },
  "law:eflaw:015144": {
-  "collected_signature": "96a96fd5b8c2c9d4",
-  "content_hash": "dce92bef317496a2126e8aef451ff68e891bbda0a8bce5b264ee59cd83fadd9e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 32,
+   "chars": 13598
+  },
+  "collected_signature": "6a162882edb94953",
+  "content_hash": "442c83e5357cc1d9370f3fa053bf4ddbab3126eda6896a02d7f363b66fe10427",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291231&type=HTML&mobileYn=&efYd=20270610",
   "doc_domain": "law",
   "doc_id": "015144",
@@ -130540,16 +130580,18 @@
   "doc_type": "법률",
   "emitted_signature": "96a96fd5b8c2c9d4",
   "enforcement_date": "20270610",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T19:23:40.819571+00:00",
-  "last_collected_at": "2026-08-22T19:23:43.608331+00:00",
+  "last_checked_at": "2026-10-20T15:05:53.096910+00:00",
+  "last_collected_at": "2026-10-20T15:05:56.002094+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "291231",
   "name": "국가연구데이터 관리 및 활용 촉진에 관한 법률",
   "payload_law_id": "015144",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6a162882edb94953"
  },
  "law:eflaw:015145": {
