@@ -15111,8 +15111,8 @@
    "articles": 156,
    "chars": 77701
   },
-  "collected_signature": "a372e6cc984180a3",
-  "content_hash": "be71c4d548be1bcb17ec603d52d1c373025f732a5a44a8c0d4e7a0afe5c506cf",
+  "collected_signature": "725eac5781d5d887",
+  "content_hash": "a65e03d6d2eb668dee1e959fc4f7163fb7057014326b93b088b751d1212e1d3c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290667&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "001788",
@@ -15122,8 +15122,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:10:52.493302+00:00",
-  "last_collected_at": "2026-10-02T19:16:48.044962+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.669928+00:00",
+  "last_collected_at": "2026-10-20T16:09:06.044249+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "290667",
   "name": "의료법",
@@ -15131,7 +15131,7 @@
   "prev_name": null,
   "promulgation_date": "20260324",
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "725eac5781d5d887"
  },
  "law:eflaw:001790": {
@@ -60797,11 +60797,11 @@
  "law:eflaw:009514": {
   "attempts": 0,
   "body_stats": {
-   "articles": 101,
-   "chars": 61783
+   "articles": 103,
+   "chars": 63889
   },
-  "collected_signature": "2a8dfd569e856694",
-  "content_hash": "1bf74a775a8e8cc9155a91bd0e84234129efd2e2d5063220fde0f85dbc49905d",
+  "collected_signature": "7877c366eea89c6e",
+  "content_hash": "35d3bb1947c107e3439f46827e1c779b31be7838f04254fbbe3b3e6bc1438b28",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291321&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "009514",
@@ -60811,8 +60811,8 @@
   "enforcement_date": "20261020",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:20:03.306435+00:00",
-  "last_collected_at": "2026-10-08T01:26:13.493534+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.772241+00:00",
+  "last_collected_at": "2026-10-20T16:07:15.461033+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "291321",
   "name": "의료기기법",
@@ -60820,7 +60820,7 @@
   "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "7877c366eea89c6e"
  },
  "law:eflaw:009516": {
@@ -79103,8 +79103,13 @@
   "version_signature": "88078501304380aa"
  },
  "law:eflaw:010820": {
-  "collected_signature": "99cffb8b1fbae040",
-  "content_hash": "96de56575d0ce10a2abbf91dee11d0772d3e9c28139d2dd3735e39822f7de672",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 22726
+  },
+  "collected_signature": "a36b65464e4000b5",
+  "content_hash": "940e64ae59257f5539043da47520daef216acd590bac5d680edfdccb3fb77747",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291415&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "010820",
@@ -79112,13 +79117,15 @@
   "doc_type": "총리령",
   "emitted_signature": "99cffb8b1fbae040",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T21:15:42.741583+00:00",
-  "last_collected_at": "2026-08-24T21:22:34.354366+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.794918+00:00",
+  "last_collected_at": "2026-10-20T16:08:30.587492+00:00",
   "ministry": "금융위원회",
   "mst": "291415",
   "name": "자본시장과 금융투자업에 관한 법률 시행규칙",
   "payload_law_id": "010820",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
   "version_count": 1,
@@ -83806,8 +83813,13 @@
   "version_signature": "aba9110503132300"
  },
  "law:eflaw:011181": {
-  "collected_signature": "698891da979bdb32",
-  "content_hash": "b79f53c86e41a1402cbeb767841cdc0a0484376331d7884db110aad96e59add5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 14051
+  },
+  "collected_signature": "9138a0dd2260c173",
+  "content_hash": "1e9549e4cebd03047b9214baab7bf7f52a12000a17c619ffa87dca35bbe858ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276683&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "011181",
@@ -83815,16 +83827,18 @@
   "doc_type": "법률",
   "emitted_signature": "698891da979bdb32",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:42:14.453760+00:00",
-  "last_collected_at": "2026-08-25T01:50:41.815152+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.670156+00:00",
+  "last_collected_at": "2026-10-20T16:04:25.663367+00:00",
   "ministry": "보건복지부",
   "mst": "276683",
   "name": "장애인연금법",
   "payload_law_id": "011181",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "9138a0dd2260c173"
  },
  "law:eflaw:011183": {
@@ -86384,8 +86398,13 @@
   "version_signature": "3b8c6de1aa5e4465"
  },
  "law:eflaw:011365": {
-  "collected_signature": "5f7c1a62023573bd",
-  "content_hash": "09d878c60f16e317d552e4cb2a600535f5a63e1691edffd34e86f3061c7506cc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 17451
+  },
+  "collected_signature": "931174781922ea3f",
+  "content_hash": "3f2606721d4120e01a819069222a31d0681020bf11c3c1fc0b178044ecb25cec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279695&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "011365",
@@ -86393,16 +86412,18 @@
   "doc_type": "법률",
   "emitted_signature": "5f7c1a62023573bd",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T21:15:43.283469+00:00",
-  "last_collected_at": "2026-08-24T21:25:23.726955+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.860774+00:00",
+  "last_collected_at": "2026-10-20T16:03:54.115295+00:00",
   "ministry": "보건복지부",
   "mst": "279695",
   "name": "자살예방 및 생명존중문화 조성을 위한 법률",
   "payload_law_id": "011365",
+  "prev_name": null,
   "promulgation_date": "20251111",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "931174781922ea3f"
  },
  "law:eflaw:011366": {
@@ -126117,8 +126138,13 @@
   "version_signature": "307c5f9f6a785c4a"
  },
  "law:eflaw:014820": {
-  "collected_signature": "e437dcbbe000fb74",
-  "content_hash": "73be7d80653d6b6849289ee7a4b493212b7182832b5e48860a2a6333d4626b96",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 47,
+   "chars": 25913
+  },
+  "collected_signature": "331f7cd4610479cb",
+  "content_hash": "318b74d7ca2e9a2206dd835b83f60284719fd5082e37a159f049290060511ada",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282791&type=HTML&mobileYn=&efYd=20260721",
   "doc_domain": "law",
   "doc_id": "014820",
@@ -126126,16 +126152,18 @@
   "doc_type": "법률",
   "emitted_signature": "e437dcbbe000fb74",
   "enforcement_date": "20260721",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:46:50.065784+00:00",
-  "last_collected_at": "2026-08-24T18:49:03.719990+00:00",
+  "last_checked_at": "2026-10-20T16:01:45.773252+00:00",
+  "last_collected_at": "2026-10-20T16:03:08.366954+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "282791",
   "name": "인공지능 발전과 신뢰 기반 조성 등에 관한 기본법",
   "payload_law_id": "014820",
+  "prev_name": null,
   "promulgation_date": "20260120",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "331f7cd4610479cb"
  },
  "law:eflaw:014823": {
