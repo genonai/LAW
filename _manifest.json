@@ -2289,8 +2289,13 @@
   "version_signature": "040bda038c7a6595"
  },
  "law:eflaw:000236": {
-  "collected_signature": "a08dfd33ba4f707e",
-  "content_hash": "194c38bd685daf3d1a2a99123c055b4bcfde1da679ae18c3d74db29f68ef7b20",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 14078
+  },
+  "collected_signature": "b9acda43296821c5",
+  "content_hash": "985d44fee1d3bf02a7d2a76cc16b911fa9cd4a50522a7efa6f279ec2327d4f56",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=265479&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "000236",
@@ -2298,16 +2303,18 @@
   "doc_type": "법률",
   "emitted_signature": "a08dfd33ba4f707e",
   "enforcement_date": "20250621",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:27:53.655813+00:00",
-  "last_collected_at": "2026-08-25T16:30:15.003430+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.379986+00:00",
+  "last_collected_at": "2026-10-20T16:50:03.373566+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "265479",
   "name": "지역보건법",
   "payload_law_id": "000236",
+  "prev_name": null,
   "promulgation_date": "20240920",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "b9acda43296821c5"
  },
  "law:eflaw:000237": {
@@ -6146,8 +6153,13 @@
   "version_signature": "9446377c2aa9561f"
  },
  "law:eflaw:000890": {
-  "collected_signature": "b259fea8b6cd4c5f",
-  "content_hash": "2089bf16d182aadb995afd7f92afa49b1a20e02d4b94c5a2bc66448bf88f0407",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 12520
+  },
+  "collected_signature": "49698232e7f57952",
+  "content_hash": "875d39f88b80d4479f54739d5c5a2f02eaa2fa3e3d9c0202748b816245c11e70",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276197&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "000890",
@@ -6155,16 +6167,18 @@
   "doc_type": "법률",
   "emitted_signature": "b259fea8b6cd4c5f",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T22:51:23.874732+00:00",
-  "last_collected_at": "2026-08-25T22:55:46.158628+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.707849+00:00",
+  "last_collected_at": "2026-10-20T16:50:14.466041+00:00",
   "ministry": "교육부",
   "mst": "276197",
   "name": "학교보건법",
   "payload_law_id": "000890",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "49698232e7f57952"
  },
  "law:eflaw:000891": {
@@ -17063,11 +17077,11 @@
  "law:eflaw:002015": {
   "attempts": 0,
   "body_stats": {
-   "articles": 71,
-   "chars": 28959
+   "articles": 72,
+   "chars": 29643
   },
-  "collected_signature": "048a37601dbb0ba9",
-  "content_hash": "8fe2b90971dfe7fa75cf0d17339781423d8dff70a2d638740162d3723aed8e37",
+  "collected_signature": "9e73bafcaa750498",
+  "content_hash": "d7b29d1c69ca6960bd393a5b862f872d186c333b3214f5c99807dba7fbd62496",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291337&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "002015",
@@ -17077,8 +17091,8 @@
   "enforcement_date": "20261020",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:29:42.641134+00:00",
-  "last_collected_at": "2026-10-08T01:33:28.392623+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.260750+00:00",
+  "last_collected_at": "2026-10-20T16:50:48.730958+00:00",
   "ministry": "식품의약품안전처",
   "mst": "291337",
   "name": "화장품법",
@@ -17086,7 +17100,7 @@
   "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 8,
+  "version_count": 1,
   "version_signature": "9e73bafcaa750498"
  },
  "law:eflaw:002016": {
@@ -72789,8 +72803,13 @@
   "version_signature": "c2b2e49a31aae288"
  },
  "law:eflaw:010400": {
-  "collected_signature": "3dcf0a5da6602832",
-  "content_hash": "d8e72b09dc18dbd80f3fe1e0c21c9bd57926429880cf29acc8e2f0763476ff16",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 14293
+  },
+  "collected_signature": "d97dea5cd74d3b9b",
+  "content_hash": "b33a9ed70f5c30b73268c08a38c8847f53cf1b57c2037b5c32bc859ca7ead846",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278461&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "010400",
@@ -72798,16 +72817,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "3dcf0a5da6602832",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:47:21.716153+00:00",
-  "last_collected_at": "2026-08-25T20:49:40.070200+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.583901+00:00",
+  "last_collected_at": "2026-10-20T16:50:56.842663+00:00",
   "ministry": "고용노동부,산업통상부",
   "mst": "278461",
   "name": "통상환경변화 대응 및 지원 등에 관한 법률 시행령",
   "payload_law_id": "010400",
+  "prev_name": null,
   "promulgation_date": "20251001",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d97dea5cd74d3b9b"
  },
  "law:eflaw:010402": {
@@ -102594,8 +102615,13 @@
   "version_signature": "44e93763beab9a8e"
  },
  "law:eflaw:012580": {
-  "collected_signature": "50ec278c7239ab91",
-  "content_hash": "c58681f2b124e25144a7c0d4cdc5294f868932eedb56f77b481feda6417e6c06",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 16,
+   "chars": 3966
+  },
+  "collected_signature": "2c2c151e6e8fe0e6",
+  "content_hash": "c523ae677d71e9d3413223d580b587f4eda628dc547a934842ee737077b50b92",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291261&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "012580",
@@ -102603,16 +102629,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "50ec278c7239ab91",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:27:53.922058+00:00",
-  "last_collected_at": "2026-08-25T16:29:31.385553+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.371643+00:00",
+  "last_collected_at": "2026-10-20T16:49:57.185324+00:00",
   "ministry": "농림축산식품부",
   "mst": "291261",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률 시행령",
   "payload_law_id": "012580",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2c2c151e6e8fe0e6"
  },
  "law:eflaw:012582": {
@@ -126994,8 +127022,13 @@
   "version_signature": "c126cd12db7550a1"
  },
  "law:eflaw:014872": {
-  "collected_signature": "52618d071c7163b9",
-  "content_hash": "1fb10462b0b3551f159427848031db4fddfb183cd107fe8b4f10154e54388eb3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 5081
+  },
+  "collected_signature": "01b9bff92d7c2a6a",
+  "content_hash": "b1a9bf48c7b5863a427fe8db7cfa3c5ecfd0cad9f52bd62310ba601f99960b22",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=270743&type=HTML&mobileYn=&efYd=20251023",
   "doc_domain": "law",
   "doc_id": "014872",
@@ -127003,16 +127036,18 @@
   "doc_type": "법률",
   "emitted_signature": "52618d071c7163b9",
   "enforcement_date": "20251023",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:14:06.854349+00:00",
-  "last_collected_at": "2026-08-25T20:15:45.877794+00:00",
+  "last_checked_at": "2026-10-20T16:47:41.582997+00:00",
+  "last_collected_at": "2026-10-20T16:48:18.160645+00:00",
   "ministry": "질병관리청",
   "mst": "270743",
   "name": "코로나바이러스감염증-19 예방접종 피해보상 등에 관한 특별법",
   "payload_law_id": "014872",
+  "prev_name": null,
   "promulgation_date": "20250422",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "01b9bff92d7c2a6a"
  },
  "law:eflaw:014873": {
