@@ -17167,11 +17167,11 @@
  "law:eflaw:002025": {
   "attempts": 0,
   "body_stats": {
-   "articles": 110,
-   "chars": 58081
+   "articles": 113,
+   "chars": 59896
   },
-  "collected_signature": "1935803028afafcf",
-  "content_hash": "e5a0028a1aa8691790ce014d37da6aca2c6c7bf22f39ad8d4360d50e80ae4e81",
+  "collected_signature": "2b12110e14fe7449",
+  "content_hash": "ecab1b577a11e191b3ed0d61a2573f867fdd4a41b1dc11fed4fb4d54bd0fb6ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290787&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "002025",
@@ -17181,8 +17181,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:21:49.898379+00:00",
-  "last_collected_at": "2026-10-02T17:27:40.253663+00:00",
+  "last_checked_at": "2026-10-20T15:24:29.720524+00:00",
+  "last_collected_at": "2026-10-20T15:28:56.356954+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "290787",
   "name": "마약류 관리에 관한 법률",
@@ -17190,7 +17190,7 @@
   "prev_name": null,
   "promulgation_date": "20260804",
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "2b12110e14fe7449"
  },
  "law:eflaw:002026": {
@@ -24103,11 +24103,11 @@
  "law:eflaw:003313": {
   "attempts": 0,
   "body_stats": {
-   "articles": 120,
-   "chars": 49305
+   "articles": 124,
+   "chars": 51817
   },
-  "collected_signature": "251556c305a72d94",
-  "content_hash": "1bc11acfdb117fe4366e7ae5f3817f21ab47f55519bc20033ddebff8c455f12b",
+  "collected_signature": "ffb9ec280c73fffc",
+  "content_hash": "6c1836f225573d949668a8451efdbd22e72bba01f323791aad4504fc76878f79",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290379&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "003313",
@@ -24117,8 +24117,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:15:54.973540+00:00",
-  "last_collected_at": "2026-10-02T17:21:22.831429+00:00",
+  "last_checked_at": "2026-10-20T15:24:29.911566+00:00",
+  "last_collected_at": "2026-10-20T15:29:45.905020+00:00",
   "ministry": "산업통상부",
   "mst": "290379",
   "name": "대외무역법 시행령",
@@ -24126,7 +24126,7 @@
   "prev_name": null,
   "promulgation_date": "20260929",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ffb9ec280c73fffc"
  },
  "law:eflaw:003325": {
@@ -84698,8 +84698,13 @@
   "version_signature": "0252d17db509163a"
  },
  "law:eflaw:011249": {
-  "collected_signature": "6e80155139ada43c",
-  "content_hash": "7f3f14e60994be2bd5be6cdb53c4fce5d38091144c4690dbacc3025ef530a1bc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 18,
+   "chars": 11024
+  },
+  "collected_signature": "f07492fe3a56bc4a",
+  "content_hash": "baed215cdc33e3826bb7c91ebbdaf9521389fadc67882962524191fd0a2e88aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291357&type=HTML&mobileYn=&efYd=20261020",
   "doc_domain": "law",
   "doc_id": "011249",
@@ -84707,16 +84712,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "6e80155139ada43c",
   "enforcement_date": "20261020",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T05:42:51.676193+00:00",
-  "last_collected_at": "2026-08-23T05:47:10.625237+00:00",
+  "last_checked_at": "2026-10-20T15:24:29.713263+00:00",
+  "last_collected_at": "2026-10-20T15:27:12.033271+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "291357",
   "name": "농수산물의 원산지 표시 등에 관한 법률 시행령",
   "payload_law_id": "011249",
+  "prev_name": null,
   "promulgation_date": "20261020",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f07492fe3a56bc4a"
  },
  "law:eflaw:011250": {
@@ -101246,8 +101253,13 @@
   "version_signature": "d0d0ac8f3fb3b62f"
  },
  "law:eflaw:012490": {
-  "collected_signature": "694f28208e55621b",
-  "content_hash": "1b123ea997c2ec1f1e98f86b5fdaf36d614eff43e1d75c36cbf09114b6fa875e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 9953
+  },
+  "collected_signature": "fe71cc985e9f74b5",
+  "content_hash": "759e37e81cbaeba03711a443f7a8a0c91ef47078e214e1ac599b454c8bda0a9a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268747&type=HTML&mobileYn=&efYd=20250801",
   "doc_domain": "law",
   "doc_id": "012490",
@@ -101255,16 +101267,18 @@
   "doc_type": "법률",
   "emitted_signature": "694f28208e55621b",
   "enforcement_date": "20250801",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T12:29:19.590646+00:00",
-  "last_collected_at": "2026-08-23T12:31:05.432344+00:00",
+  "last_checked_at": "2026-10-20T15:24:29.601947+00:00",
+  "last_collected_at": "2026-10-20T15:25:55.139217+00:00",
   "ministry": "문화체육관광부",
   "mst": "268747",
   "name": "문학진흥법",
   "payload_law_id": "012490",
+  "prev_name": null,
   "promulgation_date": "20250131",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fe71cc985e9f74b5"
  },
  "law:eflaw:012491": {
@@ -117005,8 +117019,12 @@
  },
  "law:eflaw:014168": {
   "attempts": 0,
-  "collected_signature": "033ff495c4b663f2",
-  "content_hash": "18ce253ecd403d21fbe0674f5100bb5505a13240c74394f26a12ad73aebc5b67",
+  "body_stats": {
+   "articles": 48,
+   "chars": 16582
+  },
+  "collected_signature": "387f932e0187dd81",
+  "content_hash": "43efa3610ddbcdc5d46ae0054ff28f65f3833bf5676387051f62fe598322c7be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283739&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "014168",
@@ -117014,17 +117032,19 @@
   "doc_type": "법률",
   "emitted_signature": "033ff495c4b663f2",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:31:26.172281+00:00",
-  "last_collected_at": "2026-09-03T03:32:14.999395+00:00",
+  "last_checked_at": "2026-10-20T15:24:29.599384+00:00",
+  "last_collected_at": "2026-10-20T15:25:20.167597+00:00",
   "last_error": "Child Workflow execution failed",
   "ministry": "과학기술정보통신부",
   "mst": "283739",
   "name": "데이터 산업진흥 및 이용촉진에 관한 기본법",
   "payload_law_id": "014168",
+  "prev_name": null,
   "promulgation_date": "20260227",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "387f932e0187dd81"
  },
  "law:eflaw:014169": {
@@ -120927,8 +120947,13 @@
   "version_signature": "7f4502737d80d967"
  },
  "law:eflaw:014459": {
-  "collected_signature": "2f06e65fda096970",
-  "content_hash": "1ada08a04534a6cb9a28cb8bd6ca16dcd1cdf738e10b2d8778d96f04b97762e4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 8,
+   "chars": 1036
+  },
+  "collected_signature": "73c89568e48a569a",
+  "content_hash": "02c5724682917e5467b27bd9ee99d40c390739be671412ebb68685b99419e150",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252001&type=HTML&mobileYn=&efYd=20230901",
   "doc_domain": "law",
   "doc_id": "014459",
@@ -120936,16 +120961,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "2f06e65fda096970",
   "enforcement_date": "20230901",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T11:29:04.141301+00:00",
-  "last_collected_at": "2026-08-23T11:29:07.918058+00:00",
+  "last_checked_at": "2026-10-20T15:24:30.051554+00:00",
+  "last_collected_at": "2026-10-20T15:25:26.333204+00:00",
   "ministry": "국방부",
   "mst": "252001",
   "name": "드론작전사령부령",
   "payload_law_id": "014459",
+  "prev_name": null,
   "promulgation_date": "20230627",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "73c89568e48a569a"
  },
  "law:eflaw:014460": {
