@@ -1901,7 +1901,14 @@
         "changed": "N",
         "article_key": "0006021",
         "images": [],
-        "provision_id": "law:제대군인지원에관한법률시행규칙#JO0006_02"
+        "provision_id": "law:제대군인지원에관한법률시행규칙#JO0006_02",
+        "scheduled": [
+          {
+            "enforcement_date": "20261022",
+            "change": "개정",
+            "content": "제6조의2(제대군인 고용 우수 기업등의 지정)\n① 영 제19조의2제2항에 따른 제대군인 고용 우수 기업등의 지정 신청서는 별지 제11호의2서식에 따른다. <개정 2026.10.19>\n② 영 제19조의2제4항에 따른 고용 우수 기업등 지정서는 별지 제11호의3서식에 따른다. <개정 2026.10.19>\n③ 영 제19조의2제7항에 따른 재발급 신청서는 별지 제11호의4서식에 따른다. <개정 2026.10.19>"
+          }
+        ]
       },
       {
         "article_no": "제6조의3",
@@ -1998,7 +2005,14 @@
         "changed": "N",
         "article_key": "0006031",
         "images": [],
-        "provision_id": "law:제대군인지원에관한법률시행규칙#JO0006_03"
+        "provision_id": "law:제대군인지원에관한법률시행규칙#JO0006_03",
+        "scheduled": [
+          {
+            "enforcement_date": "20261022",
+            "change": "개정",
+            "content": "제6조의3(제대군인 고용우수기업등지정의 표시 등) 법 제16조의2제3항에 따른 고용우수기업등지정의 표시 및 표지판은 별표 3과 같다. <개정 2023.6.5, 2026.10.19>"
+          }
+        ]
       },
       {
         "article_no": "제6조의4",
@@ -4199,6 +4213,19 @@
       "source_version_uid": "008189:287391:20260820",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260820"
+    },
+    {
+      "promulgation_date": "20261019",
+      "promulgation_no": "00077",
+      "addendum_key": "2026101900077",
+      "content": "부칙 <제77호,2026.10.19>\n이 규칙은 2026년 10월 22일부터 시행한다.",
+      "provision_id": "law:제대군인지원에관한법률시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291413",
+      "source_version_uid": "008189:291413:20261022",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261022",
+      "enforcement_date": "20261022"
     }
   ],
   "appendices": [
@@ -5527,8 +5554,10 @@
   "provision_id": "law:제대군인지원에관한법률시행규칙#DOC",
   "addendum_provision_id": "law:제대군인지원에관한법률시행규칙#ADDENDUM",
   "amendment_provision_id": "law:제대군인지원에관한법률시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261022"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "제대군인지원에 관한 법률/시행규칙/제대군인지원에 관한 법률 시행규칙.json"
 }
