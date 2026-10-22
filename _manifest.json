@@ -13335,10 +13335,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 132,
-   "chars": 53638
+   "chars": 53782
   },
-  "collected_signature": "ed8b6ee491a3d021",
-  "content_hash": "4c723f6339b8945f782bb34bbb9f100aaf9711099825b36310cca0d9811426fe",
+  "collected_signature": "b8941bdc80cea10a",
+  "content_hash": "fb02aeaa1d45002a85f1bb7461b1aca13f04867a42d61d2b5c4ab7b3ea073f5b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285475&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "001653",
@@ -13348,8 +13348,8 @@
   "enforcement_date": "20261022",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T21:26:00.812782+00:00",
-  "last_collected_at": "2026-10-02T21:31:15.901760+00:00",
+  "last_checked_at": "2026-10-22T15:39:17.461171+00:00",
+  "last_collected_at": "2026-10-22T15:42:36.124951+00:00",
   "ministry": "행정안전부",
   "mst": "285475",
   "name": "지방공무원법",
@@ -13357,7 +13357,7 @@
   "prev_name": null,
   "promulgation_date": "20260421",
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b8941bdc80cea10a"
  },
  "law:eflaw:001654": {
@@ -32494,10 +32494,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 56,
-   "chars": 22027
+   "chars": 22135
   },
-  "collected_signature": "249aa110a2c0e043",
-  "content_hash": "c178b7b14b1ad0d4b19b485f06da23dfb5803f3931a5a2c8e06258dc9b7b0bc7",
+  "collected_signature": "5ae5dfba791a6088",
+  "content_hash": "300850bd1fce8e46379910921887d5b56e8e58f6b89a9ea332bfd0c055b0967d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291175&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "004840",
@@ -32507,8 +32507,8 @@
   "enforcement_date": "20261022",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T16:08:55.916584+00:00",
-  "last_collected_at": "2026-10-13T16:15:52.569112+00:00",
+  "last_checked_at": "2026-10-22T15:39:17.248755+00:00",
+  "last_collected_at": "2026-10-22T15:43:06.877248+00:00",
   "ministry": "국가보훈부",
   "mst": "291175",
   "name": "제대군인지원에 관한 법률 시행령",
@@ -52898,10 +52898,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 21,
-   "chars": 5359
+   "chars": 5419
   },
-  "collected_signature": "e66b202744aad717",
-  "content_hash": "d2c707ae3467bcabef87c3b70f58d5ccf460723b29806c2d38e1f6f8e25b2dbe",
+  "collected_signature": "b4f28ef9eb14137d",
+  "content_hash": "2ad38d172f6281a704045670a1e736ff0ff04aeea8cb9512d9d1a9c56761b719",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291413&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "008189",
@@ -52911,8 +52911,8 @@
   "enforcement_date": "20261022",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:00:25.598647+00:00",
-  "last_collected_at": "2026-10-19T15:02:31.263380+00:00",
+  "last_checked_at": "2026-10-22T15:39:17.450280+00:00",
+  "last_collected_at": "2026-10-22T15:41:20.864373+00:00",
   "ministry": "국가보훈부",
   "mst": "291413",
   "name": "제대군인지원에 관한 법률 시행규칙",
@@ -70145,8 +70145,13 @@
   "version_signature": "2048d481b61d6e2e"
  },
  "law:eflaw:010198": {
-  "collected_signature": "93462ab52d53fa0c",
-  "content_hash": "ca704822194ec87c14a9d587001127b1c233ec3e329f48ffa5dac7527506ff75",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 13084
+  },
+  "collected_signature": "45243ea3ea760150",
+  "content_hash": "8ccdd0bd3b803a1c1b2f34243cb9a49d2ccc9645b7c4b1b440bb443c8347b865",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285481&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "010198",
@@ -70154,13 +70159,15 @@
   "doc_type": "법률",
   "emitted_signature": "93462ab52d53fa0c",
   "enforcement_date": "20261022",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:47:21.635015+00:00",
-  "last_collected_at": "2026-08-25T20:49:40.029754+00:00",
+  "last_checked_at": "2026-10-22T15:39:16.738219+00:00",
+  "last_collected_at": "2026-10-22T15:40:54.633778+00:00",
   "ministry": "고용노동부,산업통상부",
   "mst": "285481",
   "name": "통상환경변화 대응 및 지원 등에 관한 법률",
   "payload_law_id": "010198",
+  "prev_name": null,
   "promulgation_date": "20260421",
   "status": "done",
   "version_count": 1,
@@ -99426,8 +99433,13 @@
   "version_signature": "16c3aa319e26b212"
  },
  "law:eflaw:012317": {
-  "collected_signature": "c9e007a7fb9c480c",
-  "content_hash": "bd6d4c5c1fc3d0832997e44e6c2473291407720c1de73592653528c07877ec08",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 12935
+  },
+  "collected_signature": "0433c16cdf39816d",
+  "content_hash": "d5f70588fc96ef8b95b1509cc6bf31f3f7a071f883cf2e36427cd74fb1242be3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285549&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "012317",
@@ -99435,13 +99447,15 @@
   "doc_type": "법률",
   "emitted_signature": "c9e007a7fb9c480c",
   "enforcement_date": "20261022",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:22:11.675735+00:00",
-  "last_collected_at": "2026-08-25T16:25:14.656643+00:00",
+  "last_checked_at": "2026-10-22T15:39:17.062249+00:00",
+  "last_collected_at": "2026-10-22T15:40:44.546625+00:00",
   "ministry": "농림축산식품부",
   "mst": "285549",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률",
   "payload_law_id": "012317",
+  "prev_name": null,
   "promulgation_date": "20260421",
   "status": "done",
   "version_count": 1,
@@ -102695,10 +102709,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 16,
-   "chars": 3966
+   "chars": 4072
   },
-  "collected_signature": "2c2c151e6e8fe0e6",
-  "content_hash": "c523ae677d71e9d3413223d580b587f4eda628dc547a934842ee737077b50b92",
+  "collected_signature": "36ff7ccf587c5cff",
+  "content_hash": "4b1a608732a9b2b8420e6fc6f9746f8654ab124104c4ccafcf4754eeb31eac9f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291261&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "012580",
@@ -102708,8 +102722,8 @@
   "enforcement_date": "20261022",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:47:41.371643+00:00",
-  "last_collected_at": "2026-10-20T16:49:57.185324+00:00",
+  "last_checked_at": "2026-10-22T15:39:17.508083+00:00",
+  "last_collected_at": "2026-10-22T15:40:13.681498+00:00",
   "ministry": "농림축산식품부",
   "mst": "291261",
   "name": "지역농산물 이용촉진 등 농산물 직거래 활성화에 관한 법률 시행령",
