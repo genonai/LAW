@@ -72869,10 +72869,10 @@
   "attempts": 0,
   "body_stats": {
    "articles": 33,
-   "chars": 14293
+   "chars": 14428
   },
-  "collected_signature": "d97dea5cd74d3b9b",
-  "content_hash": "b33a9ed70f5c30b73268c08a38c8847f53cf1b57c2037b5c32bc859ca7ead846",
+  "collected_signature": "61059fa5ec540c48",
+  "content_hash": "80099713ecd7d9fd6a8aa6baf4186daacd0b0eb6976c56f11f2eb39a6b53db81",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291359&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "010400",
@@ -72882,8 +72882,8 @@
   "enforcement_date": "20261022",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:47:41.583901+00:00",
-  "last_collected_at": "2026-10-20T16:50:56.842663+00:00",
+  "last_checked_at": "2026-10-22T15:43:24.833914+00:00",
+  "last_collected_at": "2026-10-22T15:44:47.596627+00:00",
   "ministry": "고용노동부,산업통상부",
   "mst": "291359",
   "name": "통상환경변화 대응 및 지원 등에 관한 법률 시행령",
@@ -73415,8 +73415,13 @@
   "version_signature": "b43681a7c90cdcd7"
  },
  "law:eflaw:010427": {
-  "collected_signature": "d08bf309fe452203",
-  "content_hash": "b65299ba1d695d4ad827a6cbb5922d963cd91bce9818a3db6fa081d49d178bfb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 3511
+  },
+  "collected_signature": "bc9d7f3bc2d8d9b3",
+  "content_hash": "f8f891a095a07bc691c307c3340de93c4389597320cf0dbd53d572e9d78cc0a8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291503&type=HTML&mobileYn=&efYd=20261022",
   "doc_domain": "law",
   "doc_id": "010427",
@@ -73424,13 +73429,15 @@
   "doc_type": "산업통상부령",
   "emitted_signature": "d08bf309fe452203",
   "enforcement_date": "20261022",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:47:22.264552+00:00",
-  "last_collected_at": "2026-08-25T20:49:40.496463+00:00",
+  "last_checked_at": "2026-10-22T15:43:24.919327+00:00",
+  "last_collected_at": "2026-10-22T15:44:15.158295+00:00",
   "ministry": "고용노동부,산업통상부",
   "mst": "291503",
   "name": "통상환경변화 대응 및 지원 등에 관한 법률 시행규칙",
   "payload_law_id": "010427",
+  "prev_name": null,
   "promulgation_date": "20261022",
   "status": "done",
   "version_count": 1,
