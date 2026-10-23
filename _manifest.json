@@ -56692,13 +56692,14 @@
   "version_signature": "6aa3386693be78db"
  },
  "law:eflaw:008494": {
+  "attempt_run": "01a16950-fa5",
   "attempts": 0,
   "body_stats": {
    "articles": 192,
    "chars": 82519
   },
-  "collected_signature": "61e24e9a00228205",
-  "content_hash": "92fdb8edc4dc30d0262a102e30b9c0dec5fd2d171d16f5e385a816a6f89ae60d",
+  "collected_signature": "2cad62161f4bfef6",
+  "content_hash": "b30b2f6fc59858aa0be3780b37ad3d07376d702c140723093479bff3885cbb30",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291289&type=HTML&mobileYn=&efYd=20261023",
   "doc_domain": "law",
   "doc_id": "008494",
@@ -56708,8 +56709,8 @@
   "enforcement_date": "20261023",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:46:26.991295+00:00",
-  "last_collected_at": "2026-09-15T17:54:35.355449+00:00",
+  "last_checked_at": "2026-10-23T15:11:17.356386+00:00",
+  "last_collected_at": "2026-10-23T15:16:29.317142+00:00",
   "last_seen_at": "2026-10-23T15:00:29.310460+00:00",
   "ministry": "법무부",
   "mst": "291289",
@@ -56717,8 +56718,9 @@
   "payload_law_id": "008494",
   "prev_name": null,
   "promulgation_date": "20261023",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2cad62161f4bfef6"
  },
  "law:eflaw:008503": {
