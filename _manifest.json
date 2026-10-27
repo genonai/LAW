@@ -35706,9 +35706,14 @@
   "version_signature": "89d979311e7c18fe"
  },
  "law:eflaw:005238": {
+  "attempt_run": "01a17df9-b8c",
   "attempts": 0,
-  "collected_signature": "fd9a7935f51923c2",
-  "content_hash": "e114de85d5e3a1d5923bdbd351f2b5d4a608c64d6c8c50e40d88c748a2a3cddd",
+  "body_stats": {
+   "articles": 181,
+   "chars": 96364
+  },
+  "collected_signature": "157f5ee4dab06289",
+  "content_hash": "a428131313b6618fefbe61ce9c5de072ec4c2f63a147ad76e817b6f8c53b3168",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289439&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "005238",
@@ -35718,8 +35723,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T16:09:10.873059+00:00",
-  "last_collected_at": "2026-09-11T16:18:52.148855+00:00",
+  "last_checked_at": "2026-10-27T15:28:02.428969+00:00",
+  "last_collected_at": "2026-10-27T15:35:56.176947+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "교육부",
   "mst": "289439",
@@ -35727,8 +35732,9 @@
   "payload_law_id": "005238",
   "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "157f5ee4dab06289"
  },
  "law:eflaw:005239": {
@@ -72487,13 +72493,14 @@
   "version_signature": "78fcef692b19389b"
  },
  "law:eflaw:010162": {
+  "attempt_run": "01a17df9-b96",
   "attempts": 0,
   "body_stats": {
    "articles": 494,
    "chars": 211670
   },
-  "collected_signature": "39ba22578ed5a77b",
-  "content_hash": "55ac2cfdd8f12d1650d5f1c829840739300d63888f2d6eb662dd13cf51f581bb",
+  "collected_signature": "075cd93411f9483f",
+  "content_hash": "b5e6c08a060fdbcc75b5a97a47835159ca8087cf6796a8532ebe31ce58d9b93c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291149&type=HTML&mobileYn=&efYd=20261013",
   "doc_domain": "law",
   "doc_id": "010162",
@@ -72503,8 +72510,8 @@
   "enforcement_date": "20261013",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:19:40.541331+00:00",
-  "last_collected_at": "2026-10-20T16:42:19.210676+00:00",
+  "last_checked_at": "2026-10-27T15:28:04.606982+00:00",
+  "last_collected_at": "2026-10-27T15:50:38.919523+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "국토교통부,행정안전부",
   "mst": "291149",
@@ -72512,8 +72519,9 @@
   "payload_law_id": "010162",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 20,
+  "version_count": 1,
   "version_signature": "075cd93411f9483f"
  },
  "law:eflaw:010163": {
@@ -99394,13 +99402,14 @@
   "version_signature": "40a9f12f8b732f45"
  },
  "law:eflaw:011995": {
+  "attempt_run": "01a17df9-b8f",
   "attempts": 0,
   "body_stats": {
-   "articles": 26,
-   "chars": 7728
+   "articles": 27,
+   "chars": 8093
   },
-  "collected_signature": "c974542665ca6a3f",
-  "content_hash": "1316ca890b38b4dc76eaafff383966f5b73d5c680441bbecc90f0bcc6705db3f",
+  "collected_signature": "69538490ee631e9a",
+  "content_hash": "aa9e27390cc6df178df8e10a134c62d6ae041027e850b77d272bd0bfaeab326e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=250087&type=HTML&mobileYn=&efYd=20231019",
   "doc_domain": "law",
   "doc_id": "011995",
@@ -99410,8 +99419,8 @@
   "enforcement_date": "20231019",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:19:40.279670+00:00",
-  "last_collected_at": "2026-10-20T16:22:25.723586+00:00",
+  "last_checked_at": "2026-10-27T15:28:01.581596+00:00",
+  "last_collected_at": "2026-10-27T15:29:48.965397+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "국토교통부",
   "mst": "250087",
@@ -99419,8 +99428,9 @@
   "payload_law_id": "011995",
   "prev_name": null,
   "promulgation_date": "20230418",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "69538490ee631e9a"
  },
  "law:eflaw:011996": {
@@ -104122,13 +104132,14 @@
   "version_signature": "c6040d498d419917"
  },
  "law:eflaw:012323": {
+  "attempt_run": "01a17df9-b92",
   "attempts": 0,
   "body_stats": {
    "articles": 34,
-   "chars": 19763
+   "chars": 19907
   },
-  "collected_signature": "757666ccf021f9dc",
-  "content_hash": "805992e76a3dd936e548f7cdc88e8308c1f5447048f39d98cc735b3193f3e23b",
+  "collected_signature": "16bb01a3c7d1ca0c",
+  "content_hash": "d8e7600433f95778146ad83c2e7df66675bcf67c374cc5ed6d73b49e0319cf53",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291481&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "012323",
@@ -104138,8 +104149,8 @@
   "enforcement_date": "20261027",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:08:20.965796+00:00",
-  "last_collected_at": "2026-09-15T17:13:39.469074+00:00",
+  "last_checked_at": "2026-10-27T15:28:00.968352+00:00",
+  "last_collected_at": "2026-10-27T15:28:36.343799+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "국토교통부",
   "mst": "291481",
@@ -104147,6 +104158,7 @@
   "payload_law_id": "012323",
   "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "16bb01a3c7d1ca0c"
@@ -105118,8 +105130,14 @@
   "version_signature": "118ae9ee4722efc6"
  },
  "law:eflaw:012401": {
-  "collected_signature": "82a80c6df8e8d56c",
-  "content_hash": "a904c6c801ede78b1bea0f194d4223e0c5ecdca12e6a50a535e3948e7eec9100",
+  "attempt_run": "01a17df9-b89",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 13216
+  },
+  "collected_signature": "5b95751aa2cf1e4a",
+  "content_hash": "42ea6303ae2a526413090ba7c40a5c72dd81b823dcf26290a2770fcc8e9731a8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=278237&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
   "doc_id": "012401",
@@ -105127,17 +105145,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "82a80c6df8e8d56c",
   "enforcement_date": "20251001",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:09:27.325575+00:00",
-  "last_collected_at": "2026-08-25T05:12:08.440150+00:00",
+  "last_checked_at": "2026-10-27T15:28:00.454228+00:00",
+  "last_collected_at": "2026-10-27T15:30:30.330374+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "278237",
   "name": "정보보호산업의 진흥에 관한 법률 시행령",
   "payload_law_id": "012401",
+  "prev_name": null,
   "promulgation_date": "20251001",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5b95751aa2cf1e4a"
  },
  "law:eflaw:012408": {
@@ -126937,8 +126958,14 @@
   "version_signature": "1b03461962f25cd0"
  },
  "law:eflaw:014469": {
-  "collected_signature": "bb3434ae186718d3",
-  "content_hash": "60992d9fd721b09aa40313e9a0a5f6370c06b18f2a5c45f1a39687918b0bcab0",
+  "attempt_run": "01a17df9-b94",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 96,
+   "chars": 42760
+  },
+  "collected_signature": "db0ba1338402655c",
+  "content_hash": "7096c0a00e7a8d5259a1b0655eb90ba174898ef3ac2527afbf23d962de6f07ec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291495&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "014469",
@@ -126946,9 +126973,10 @@
   "doc_type": "대통령령",
   "emitted_signature": "bb3434ae186718d3",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T15:58:17.965474+00:00",
-  "last_collected_at": "2026-08-25T16:02:23.142399+00:00",
+  "last_checked_at": "2026-10-27T15:28:03.566301+00:00",
+  "last_collected_at": "2026-10-27T15:29:27.147585+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "국토교통부,기획예산처,산업통상부,행정안전부",
   "mst": "291495",
@@ -126957,13 +126985,16 @@
    "지방자치분권 및 지역균형발전에 관한 특별법 시행령"
   ],
   "payload_law_id": "014469",
-  "prev_name": "지방자치분권 및 지역균형발전에 관한 특별법 시행령",
+  "prev_name": null,
   "promulgation_date": "20261027",
   "rename_pending": {
    "at": "2026-10-27T15:00:30.516306Z",
-   "old": "지방자치분권 및 지역균형발전에 관한 특별법 시행령"
+   "new_dir": "지방자치분권 및 균형성장에 관한 특별법/시행령",
+   "old": "지방자치분권 및 지역균형발전에 관한 특별법 시행령",
+   "old_dir": "지방자치분권 및 지역균형발전에 관한 특별법/시행령"
   },
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "db0ba1338402655c"
  },
