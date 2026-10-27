@@ -42961,8 +42961,14 @@
   "version_signature": "e23ada47cbd6c92b"
  },
  "law:eflaw:006092": {
-  "collected_signature": "45852cae7b15e01c",
-  "content_hash": "c7e33ae7acab158a46f19c23b81af57361e6bd1eb4b4eda9118c791ff2fba196",
+  "attempt_run": "01a17e14-c0d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 17,
+   "chars": 9179
+  },
+  "collected_signature": "682011ac6ca32fbb",
+  "content_hash": "045cc8094ddd0e09dbfd73d77b83806669351f3cc8039710f5ab0c8e04e4aee5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291523&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "006092",
@@ -42970,15 +42976,18 @@
   "doc_type": "헌법재판소규칙",
   "emitted_signature": "45852cae7b15e01c",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T10:51:13.815519+00:00",
-  "last_collected_at": "2026-08-26T10:52:32.256349+00:00",
+  "last_checked_at": "2026-10-27T15:57:31.979181+00:00",
+  "last_collected_at": "2026-10-27T15:58:02.620036+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "헌법재판소",
   "mst": "291523",
   "name": "헌법재판소 사무기구에 관한 규칙",
   "payload_law_id": "006092",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "682011ac6ca32fbb"
