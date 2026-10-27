@@ -12065,8 +12065,14 @@
   "version_signature": "dae445d406ad8034"
  },
  "law:eflaw:001487": {
-  "collected_signature": "f1fce4c49c703262",
-  "content_hash": "e4c2d27354dd8bd3907065767fdc816c8bec3c4051650f277f2175d3cd21f5e2",
+  "attempt_run": "01a17def-3bc",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 219,
+   "chars": 78350
+  },
+  "collected_signature": "93fdfd380efedb13",
+  "content_hash": "d41c11bc76a14cc62dfc86f7670ba9053982d9e513bd4bcfc6357050f6f3b0ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291277&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "001487",
@@ -12074,17 +12080,20 @@
   "doc_type": "법률",
   "emitted_signature": "f1fce4c49c703262",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T07:10:02.238357+00:00",
-  "last_collected_at": "2026-08-24T07:19:42.307315+00:00",
+  "last_checked_at": "2026-10-27T15:16:38.546775+00:00",
+  "last_collected_at": "2026-10-27T15:17:44.453937+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "291277",
   "name": "수산업협동조합법",
   "payload_law_id": "001487",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "93fdfd380efedb13"
  },
  "law:eflaw:001498": {
@@ -15139,13 +15148,14 @@
   "version_signature": "e4ba920332444e51"
  },
  "law:eflaw:001740": {
+  "attempt_run": "01a17def-3b8",
   "attempts": 0,
   "body_stats": {
-   "articles": 202,
-   "chars": 69643
+   "articles": 204,
+   "chars": 70588
   },
-  "collected_signature": "8937a6a76119eeaa",
-  "content_hash": "9190a98d41c9c936caa28e63421dd7b76f381b5ad7c7c14818e2f52882eafb7e",
+  "collected_signature": "abf8377d8b349623",
+  "content_hash": "45551d589a7924a9e209940aee06e4fa9c1e07b304d017e9d04a8b07e124c1b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291275&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "001740",
@@ -15155,8 +15165,8 @@
   "enforcement_date": "20261027",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:36:59.908329+00:00",
-  "last_collected_at": "2026-10-02T18:41:08.019315+00:00",
+  "last_checked_at": "2026-10-27T15:16:33.383688+00:00",
+  "last_collected_at": "2026-10-27T15:17:39.247990+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "291275",
@@ -15164,8 +15174,9 @@
   "payload_law_id": "001740",
   "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "abf8377d8b349623"
  },
  "law:eflaw:001742": {
@@ -15533,8 +15544,14 @@
   "version_signature": "e4f30196f9f68001"
  },
  "law:eflaw:001766": {
-  "collected_signature": "ffe7c07b534e4e82",
-  "content_hash": "b70d1107538a3a7064d47b7c3d340788789810f4704654911be45d1834f55220",
+  "attempt_run": "01a17def-3ad",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 188,
+   "chars": 88326
+  },
+  "collected_signature": "85cd456d92e5a693",
+  "content_hash": "0a8ba040063ac53c25be6a7118f04b21357b5cfaa31bafdc02676c2947b6fb2c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291447&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "001766",
@@ -15542,17 +15559,20 @@
   "doc_type": "법률",
   "emitted_signature": "ffe7c07b534e4e82",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:53:32.299532+00:00",
-  "last_collected_at": "2026-08-23T23:10:53.188032+00:00",
+  "last_checked_at": "2026-10-27T15:16:37.318577+00:00",
+  "last_collected_at": "2026-10-27T15:21:48.664972+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "고용노동부",
   "mst": "291447",
   "name": "산업안전보건법",
   "payload_law_id": "001766",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "85cd456d92e5a693"
  },
  "law:eflaw:001771": {
@@ -17416,8 +17436,14 @@
   "version_signature": "d37005ff3b125853"
  },
  "law:eflaw:001988": {
-  "collected_signature": "6031c0424c60208a",
-  "content_hash": "670953a057291ba7f19070c0d1be1220fb190a5583362846b32ac09b2084ecc5",
+  "attempt_run": "01a17def-3ab",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 67,
+   "chars": 24553
+  },
+  "collected_signature": "e3ac2f6c8ddd8c72",
+  "content_hash": "7661af7d43f2178b3d24ea7577ff4c6b152f2b393a77d8724085f6b8782f543b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267437&type=HTML&mobileYn=&efYd=20250621",
   "doc_domain": "law",
   "doc_id": "001988",
@@ -17425,17 +17451,20 @@
   "doc_type": "법률",
   "emitted_signature": "6031c0424c60208a",
   "enforcement_date": "20250621",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T07:22:25.286940+00:00",
-  "last_collected_at": "2026-08-24T07:28:22.041515+00:00",
+  "last_checked_at": "2026-10-27T15:16:32.977268+00:00",
+  "last_collected_at": "2026-10-27T15:18:25.830587+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양경찰청",
   "mst": "267437",
   "name": "수상레저안전법",
   "payload_law_id": "001988",
+  "prev_name": null,
   "promulgation_date": "20241220",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e3ac2f6c8ddd8c72"
  },
  "law:eflaw:001989": {
@@ -101612,8 +101641,14 @@
   "version_signature": "f6594024d9da58d9"
  },
  "law:eflaw:012154": {
-  "collected_signature": "c8737d683a8de0e3",
-  "content_hash": "75e515a3a90952810ccf994e52ddb23ef5249e5e4c9eff75f0cde4bf97fc00e1",
+  "attempt_run": "01a17def-3ba",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 36,
+   "chars": 15717
+  },
+  "collected_signature": "27a39389b1bfeab1",
+  "content_hash": "17cf39ac44f53b92a00c804c15d9a35dab6db8fbd3d818911e0e94172ac41617",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291469&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "012154",
@@ -101621,17 +101656,20 @@
   "doc_type": "법률",
   "emitted_signature": "c8737d683a8de0e3",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:46:42.610727+00:00",
-  "last_collected_at": "2026-08-24T06:54:34.957755+00:00",
+  "last_checked_at": "2026-10-27T15:16:35.580984+00:00",
+  "last_collected_at": "2026-10-27T15:17:24.329504+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "291469",
   "name": "수산업ㆍ어촌 공익기능 증진을 위한 직접지불제도 운영에 관한 법률",
   "payload_law_id": "012154",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "27a39389b1bfeab1"
  },
  "law:eflaw:012155": {
@@ -103783,13 +103821,14 @@
   "version_signature": "e53b9a6a42bcfe7a"
  },
  "law:eflaw:012312": {
+  "attempt_run": "01a17def-3bf",
   "attempts": 0,
   "body_stats": {
    "articles": 43,
    "chars": 16542
   },
-  "collected_signature": "d1efc1a07a22bb9b",
-  "content_hash": "2ce9211dd3ccda45ed0cbc7951ad38a6147fb187f21055cc73bae5835173a174",
+  "collected_signature": "19efaae0fc5378d6",
+  "content_hash": "c50e14cbf53c476dfc3ca67aca69a155c0eb7db3d7122f1fa44a6907e0561566",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259239&type=HTML&mobileYn=&efYd=20240123",
   "doc_domain": "law",
   "doc_id": "012312",
@@ -103799,8 +103838,8 @@
   "enforcement_date": "20240123",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:58:06.936410+00:00",
-  "last_collected_at": "2026-09-23T01:59:49.529933+00:00",
+  "last_checked_at": "2026-10-27T15:16:36.264834+00:00",
+  "last_collected_at": "2026-10-27T15:17:52.552986+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "259239",
@@ -103808,8 +103847,9 @@
   "payload_law_id": "012312",
   "prev_name": null,
   "promulgation_date": "20240123",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "19efaae0fc5378d6"
  },
  "law:eflaw:012313": {
