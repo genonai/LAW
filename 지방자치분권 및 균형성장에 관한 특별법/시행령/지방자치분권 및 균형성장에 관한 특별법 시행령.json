@@ -130,7 +130,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0003",
             "reference_id": "admrul:인구감소지역및인구감소관심지역지정고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인구감소지역 및 인구감소관심지역 지정 고시/인구감소지역 및 인구감소관심지역 지정 고시.json"
+            "target_git_path_guess": "인구감소지역 및 인구감소관심지역 지정 고시/인구감소지역 및 인구감소관심지역 지정 고시.json",
+            "target_git_path": "인구감소지역 및 인구감소관심지역 지정 고시/인구감소지역 및 인구감소관심지역 지정 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -151,7 +153,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0003",
             "reference_id": "admrul:인구감소지역지정변경고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인구감소지역 지정 변경 고시/인구감소지역 지정 변경 고시.json"
+            "target_git_path_guess": "인구감소지역 지정 변경 고시/인구감소지역 지정 변경 고시.json",
+            "target_git_path": "인구감소지역 지정 변경 고시/인구감소지역 지정 변경 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -169,9 +173,13 @@
             "resolve_method": "delegation",
             "is_current_target": false,
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0003",
-            "reference_id": "admrul:인구감소관심지역지정고시#DOC",
+            "reference_id": "admrul:인구감소지역및인구감소관심지역지정고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "인구감소관심지역 지정 고시/인구감소관심지역 지정 고시.json"
+            "target_git_path_guess": "인구감소관심지역 지정 고시/인구감소관심지역 지정 고시.json",
+            "target_git_path": "인구감소지역 및 인구감소관심지역 지정 고시/인구감소지역 및 인구감소관심지역 지정 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "note": "[제목개정 2025.11.25]",
@@ -402,7 +410,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0018",
             "reference_id": "admrul:지역산업지원사업공통운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json"
+            "target_git_path_guess": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json",
+            "target_git_path": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -423,7 +435,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0018",
             "reference_id": "admrul:지역산업지원사업공통운영요령#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json"
+            "target_git_path_guess": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json",
+            "target_git_path": "지역산업지원사업 공통운영요령/지역산업지원사업 공통운영요령.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -472,7 +486,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -491,7 +509,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구지정통합고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구 지정 통합고시/기회발전특구 지정 통합고시.json"
+            "target_git_path_guess": "기회발전특구 지정 통합고시/기회발전특구 지정 통합고시.json",
+            "target_git_path": "기회발전특구 지정 통합고시/기회발전특구 지정 통합고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -510,7 +532,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -529,7 +555,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -555,7 +585,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -601,7 +633,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -627,7 +661,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0020",
             "reference_id": "admrul:기회발전특구의지정운영등에관한지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json"
+            "target_git_path_guess": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_git_path": "기회발전특구의 지정·운영 등에 관한 지침/기회발전특구의 지정·운영 등에 관한 지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -773,7 +809,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0029",
             "reference_id": "admrul:지역혁신융복합단지지정(변경)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json"
+            "target_git_path_guess": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json",
+            "target_git_path": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -794,7 +834,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0029",
             "reference_id": "admrul:지역혁신융복합단지지정(변경)#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json"
+            "target_git_path_guess": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json",
+            "target_git_path": "지역혁신융복합단지 지정(변경)/지역혁신융복합단지 지정(변경).json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -996,7 +1038,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0042",
             "reference_id": "admrul:지역발전투자협약운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json"
+            "target_git_path_guess": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json",
+            "target_git_path": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1017,7 +1063,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0042",
             "reference_id": "admrul:지역발전투자협약운영지침#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json"
+            "target_git_path_guess": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json",
+            "target_git_path": "지역발전투자협약 운영지침/지역발전투자협약 운영지침.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "revision_type": "일부개정",
@@ -1094,7 +1142,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0044_02",
             "reference_id": "admrul:지방자치분권및지역균형발전에관한특별법시행령제44조의2제1항의출자대상범위에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json"
+            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_git_path": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1113,7 +1165,11 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0044_02",
             "reference_id": "admrul:지방자치분권및지역균형발전에관한특별법시행령제44조의2제1항의출자대상범위에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json"
+            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_git_path": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1134,7 +1190,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0044_02",
             "reference_id": "admrul:지방자치분권및지역균형발전에관한특별법시행령제44조의2제1항의출자대상범위에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json"
+            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_git_path": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -1155,7 +1213,9 @@
             "source_provision_id": "law:지방자치분권및균형성장에관한특별법시행령#JO0044_02",
             "reference_id": "admrul:지방자치분권및지역균형발전에관한특별법시행령제44조의2제1항의출자대상범위에관한고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json"
+            "target_git_path_guess": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_git_path": "지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시/지방자치분권 및 지역균형발전에 관한 특별법 시행령 제44조의2제1항의 출자 대상 범위에 관한 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[본조신설 2024.1.16]",
@@ -2437,5 +2497,6 @@
   "future_enforcement_dates": [],
   "has_future": false,
   "version_count": 1,
-  "git_path": "지방자치분권 및 균형성장에 관한 특별법/시행령/지방자치분권 및 균형성장에 관한 특별법 시행령.json"
+  "git_path": "지방자치분권 및 균형성장에 관한 특별법/시행령/지방자치분권 및 균형성장에 관한 특별법 시행령.json",
+  "_schlpub_id_suffix": "시행령"
 }
