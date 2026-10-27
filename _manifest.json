@@ -607,8 +607,14 @@
   "version_signature": "545b431272793416"
  },
  "law:eflaw:000062": {
-  "collected_signature": "cfd39eaece6cf738",
-  "content_hash": "008e3df74eeb4e7fdeb9dd7dae81763620a18dfbde3556761b2d7b0f641ed8ce",
+  "attempt_run": "01a17e10-7e2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 16513
+  },
+  "collected_signature": "e271733a2f7b6e31",
+  "content_hash": "a32cf5f86880406ec027c4214a89c3420ce0be78848ee54fda3cf625cefafbf0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285943&type=HTML&mobileYn=&efYd=20260813",
   "doc_domain": "law",
   "doc_id": "000062",
@@ -616,17 +622,20 @@
   "doc_type": "법률",
   "emitted_signature": "cfd39eaece6cf738",
   "enforcement_date": "20260813",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:01:45.575909+00:00",
-  "last_collected_at": "2026-08-26T08:05:44.844477+00:00",
+  "last_checked_at": "2026-10-27T15:52:53.176184+00:00",
+  "last_collected_at": "2026-10-27T15:55:16.970281+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "285943",
   "name": "항만운송사업법",
   "payload_law_id": "000062",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e271733a2f7b6e31"
  },
  "law:eflaw:000064": {
@@ -3635,13 +3644,14 @@
   "version_signature": "24f13667ed3303cf"
  },
  "law:eflaw:000419": {
+  "attempt_run": "01a17e10-7e0",
   "attempts": 0,
   "body_stats": {
-   "articles": 75,
-   "chars": 45971
+   "articles": 77,
+   "chars": 47058
   },
-  "collected_signature": "f7f2a9027f92e790",
-  "content_hash": "54c21e610952a19c8216dfc3e6557429800bef075faadec61a2efd19fd949742",
+  "collected_signature": "8623c6599482996b",
+  "content_hash": "e7bcb5c3d33f6053f6b66dcb41a3eedfecf6874e9ae7b4e2d71e1bb5fdc45c4f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289593&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "000419",
@@ -3651,8 +3661,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:55:28.375980+00:00",
-  "last_collected_at": "2026-09-15T18:00:56.494371+00:00",
+  "last_checked_at": "2026-10-27T15:52:56.819070+00:00",
+  "last_collected_at": "2026-10-27T15:56:32.767652+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "289593",
@@ -3660,8 +3670,9 @@
   "payload_law_id": "000419",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "8623c6599482996b"
  },
  "law:eflaw:000422": {
@@ -15111,8 +15122,14 @@
   "version_signature": "88ea29e8925888f5"
  },
  "law:eflaw:001737": {
-  "collected_signature": "3fc742d2aad67026",
-  "content_hash": "0998382215670c106b0ade976ea3652d411e428b1dc7bdc3bceaf7a414599e00",
+  "attempt_run": "01a17e10-7e6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 114,
+   "chars": 59553
+  },
+  "collected_signature": "e7c716ecddc40e0a",
+  "content_hash": "a252540e44316bcbdb3cc679c494ea0f3c0e22aaefcafe4ae4f98d8cc148478d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291459&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "001737",
@@ -15120,17 +15137,20 @@
   "doc_type": "법률",
   "emitted_signature": "3fc742d2aad67026",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T07:45:12.579642+00:00",
-  "last_collected_at": "2026-08-26T07:55:06.680624+00:00",
+  "last_checked_at": "2026-10-27T15:52:53.757928+00:00",
+  "last_collected_at": "2026-10-27T15:54:13.244275+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "291459",
   "name": "항만법",
   "payload_law_id": "001737",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "e7c716ecddc40e0a"
  },
  "law:eflaw:001739": {
@@ -15212,8 +15232,14 @@
   "version_signature": "bc2406f0b20aabf1"
  },
  "law:eflaw:001743": {
-  "collected_signature": "7c4072237824cdc0",
-  "content_hash": "eb843fc10085920baac20783bdf6b1ca356f02f6490a08bc626032b7d0efa131",
+  "attempt_run": "01a17e10-7e4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 93,
+   "chars": 43876
+  },
+  "collected_signature": "47d80ad9ed423364",
+  "content_hash": "8e33ae755bbe9538059bd9e0b903cb2859730bc27af8316266f2123388b61382",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291467&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "001743",
@@ -15221,17 +15247,20 @@
   "doc_type": "법률",
   "emitted_signature": "7c4072237824cdc0",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T09:26:05.416517+00:00",
-  "last_collected_at": "2026-08-26T09:32:30.402758+00:00",
+  "last_checked_at": "2026-10-27T15:52:55.695004+00:00",
+  "last_collected_at": "2026-10-27T15:53:51.934998+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "291467",
   "name": "해운법",
   "payload_law_id": "001743",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "47d80ad9ed423364"
  },
  "law:eflaw:001744": {
@@ -127190,8 +127219,14 @@
   "version_signature": "c67915c495b8ab58"
  },
  "law:eflaw:014483": {
-  "collected_signature": "f50c1799fd67c695",
-  "content_hash": "1a671c239f605d549d09f9ffc7c0f1bd704d03d5dacc0eb2a96c790fb597d4ff",
+  "attempt_run": "01a17e10-7db",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 124,
+   "chars": 64448
+  },
+  "collected_signature": "5b0a36ae31b86d20",
+  "content_hash": "643bebb98e7a6457579a0a729c0e8fcc91009be7b6c15bb7a2f06ef04e982775",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=252871&type=HTML&mobileYn=&efYd=20240726",
   "doc_domain": "law",
   "doc_id": "014483",
@@ -127199,17 +127234,20 @@
   "doc_type": "법률",
   "emitted_signature": "f50c1799fd67c695",
   "enforcement_date": "20240726",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:08:12.777689+00:00",
-  "last_collected_at": "2026-08-26T08:11:31.977060+00:00",
+  "last_checked_at": "2026-10-27T15:52:54.579738+00:00",
+  "last_collected_at": "2026-10-27T15:57:03.460633+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "252871",
   "name": "해상교통안전법",
   "payload_law_id": "014483",
+  "prev_name": null,
   "promulgation_date": "20230725",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "5b0a36ae31b86d20"
  },
  "law:eflaw:014484": {
@@ -138579,19 +138617,33 @@
   "version_signature": "bf446b7df7496ca6"
  },
  "law:eflaw:015238": {
+  "attempt_run": "01a17e10-7dd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 1280
+  },
+  "collected_signature": "1f6fba786b57354d",
+  "content_hash": "c78a5b35efefcba219a6fd262928b1aeaac11fee80b375f0ecd3520c76c98e5a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291521&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "015238",
   "doc_target": "eflaw",
   "doc_type": "헌법재판소규칙",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
+  "last_checked_at": "2026-10-27T15:52:52.717092+00:00",
+  "last_collected_at": "2026-10-27T15:53:54.736896+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "헌법재판소",
   "mst": "291521",
   "name": "헌법재판소 기부심사위원회 규칙",
+  "payload_law_id": "015238",
+  "prev_name": null,
   "promulgation_date": "20261027",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "1f6fba786b57354d"
  },
