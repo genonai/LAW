@@ -529,8 +529,14 @@
   "version_signature": "85727c75a401bdbf"
  },
  "law:eflaw:000054": {
-  "collected_signature": "62c56888a40c2d03",
-  "content_hash": "4d6766dd84dcfb9a49ba20189a7796667c7a541d557b6c3147f0c946b7ff6113",
+  "attempt_run": "01a17de5-7a3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 49,
+   "chars": 12234
+  },
+  "collected_signature": "f0f6fbb80f408f88",
+  "content_hash": "4249386a123a03588f25c3e5630e8a66b64d2b238f19b5b98120cdec677c1b44",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257781&type=HTML&mobileYn=&efYd=20240630",
   "doc_domain": "law",
   "doc_id": "000054",
@@ -538,17 +544,20 @@
   "doc_type": "법률",
   "emitted_signature": "62c56888a40c2d03",
   "enforcement_date": "20240630",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T09:30:48.416224+00:00",
-  "last_collected_at": "2026-08-23T09:34:14.702851+00:00",
+  "last_checked_at": "2026-10-27T15:05:55.409355+00:00",
+  "last_collected_at": "2026-10-27T15:07:30.610307+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "해양수산부",
   "mst": "257781",
   "name": "도선법",
   "payload_law_id": "000054",
+  "prev_name": null,
   "promulgation_date": "20231229",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f0f6fbb80f408f88"
  },
  "law:eflaw:000058": {
@@ -3571,8 +3580,14 @@
   "version_signature": "8ca04948fd11c298"
  },
  "law:eflaw:000412": {
-  "collected_signature": "a6dc007ab07d61b1",
-  "content_hash": "49344a88be2516a32c47cb5d08540eda6d6f7e845836e954ffd51e66f0ce6c8e",
+  "attempt_run": "01a17de5-79e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 117,
+   "chars": 60463
+  },
+  "collected_signature": "74ce8409f9698218",
+  "content_hash": "dfdde40069faa997effc12f170c3c90c82c2de86ecc222de9129eaf3c340223f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291441&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "000412",
@@ -3580,17 +3595,20 @@
   "doc_type": "법률",
   "emitted_signature": "a6dc007ab07d61b1",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T11:09:25.807245+00:00",
-  "last_collected_at": "2026-08-23T11:18:22.939546+00:00",
+  "last_checked_at": "2026-10-27T15:05:53.696657+00:00",
+  "last_collected_at": "2026-10-27T15:06:52.681062+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부",
   "mst": "291441",
   "name": "동물보호법",
   "payload_law_id": "000412",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "74ce8409f9698218"
  },
  "law:eflaw:000416": {
@@ -3864,9 +3882,14 @@
   "version_signature": "f760e6df4fb58d47"
  },
  "law:eflaw:000478": {
+  "attempt_run": "01a17de5-7a5",
   "attempts": 0,
-  "collected_signature": "42789d11502f8b0e",
-  "content_hash": "81cc030e1467a40a4c6a033254efebeb6129ed33b9856bd1a5b6f14a725e1f0e",
+  "body_stats": {
+   "articles": 155,
+   "chars": 74095
+  },
+  "collected_signature": "5104362ccb7a4378",
+  "content_hash": "c09d3b57dd6c80aa067ca19e334686fb9b68096395eadbc8c40daadac59a66da",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283947&type=HTML&mobileYn=&efYd=20260911",
   "doc_domain": "law",
   "doc_id": "000478",
@@ -3876,8 +3899,8 @@
   "enforcement_date": "20260911",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:17:14.876139+00:00",
-  "last_collected_at": "2026-09-11T15:21:59.523434+00:00",
+  "last_checked_at": "2026-10-27T15:05:54.064370+00:00",
+  "last_collected_at": "2026-10-27T15:10:31.626182+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "283947",
@@ -3885,8 +3908,9 @@
   "payload_law_id": "000478",
   "prev_name": null,
   "promulgation_date": "20260310",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "5104362ccb7a4378"
  },
  "law:eflaw:000479": {
@@ -65300,8 +65324,14 @@
   "version_signature": "ce7c4b4ff062ffa2"
  },
  "law:eflaw:009633": {
-  "collected_signature": "c099f8b03420ad5d",
-  "content_hash": "f282536bdafba53b67775d68b8a84b9226fb66e1d99df26e6f328ea6c0856851",
+  "attempt_run": "01a17de5-7a7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 64,
+   "chars": 20575
+  },
+  "collected_signature": "9bf4332e5e2bb749",
+  "content_hash": "7257490bad8b19f8eb13a66d68980b5e3053cf1095e14927b2b47c8413fcb968",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291457&type=HTML&mobileYn=&efYd=20261027",
   "doc_domain": "law",
   "doc_id": "009633",
@@ -65309,17 +65339,20 @@
   "doc_type": "법률",
   "emitted_signature": "c099f8b03420ad5d",
   "enforcement_date": "20261027",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T05:55:14.417797+00:00",
-  "last_collected_at": "2026-08-23T05:58:54.551571+00:00",
+  "last_checked_at": "2026-10-27T15:05:56.258235+00:00",
+  "last_collected_at": "2026-10-27T15:09:02.987739+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "291457",
   "name": "농어업인 삶의 질 향상 및 농어촌지역 개발촉진에 관한 특별법",
   "payload_law_id": "009633",
+  "prev_name": null,
   "promulgation_date": "20261027",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "9bf4332e5e2bb749"
  },
  "law:eflaw:009634": {
@@ -79453,8 +79486,14 @@
   "version_signature": "d9b61977a3ac0480"
  },
  "law:eflaw:010598": {
-  "collected_signature": "bd7ce3386f20f958",
-  "content_hash": "b33d5ded447c17278c66596fd22452c18d1bb850b1ea785f2a188dc9d753ed29",
+  "attempt_run": "01a17de5-7a8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 53,
+   "chars": 22610
+  },
+  "collected_signature": "636a9fc8b8bffa2a",
+  "content_hash": "13545efcea45ebe74d832b4a66622d7f7cb9ce2935f017250b09257a359441ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267363&type=HTML&mobileYn=&efYd=20260101",
   "doc_domain": "law",
   "doc_id": "010598",
@@ -79462,17 +79501,20 @@
   "doc_type": "법률",
   "emitted_signature": "bd7ce3386f20f958",
   "enforcement_date": "20260101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T10:25:30.587751+00:00",
-  "last_collected_at": "2026-08-23T10:30:38.674319+00:00",
+  "last_checked_at": "2026-10-27T15:05:57.576702+00:00",
+  "last_collected_at": "2026-10-27T15:08:11.281351+00:00",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "267363",
   "name": "도시와 농어촌 간의 교류촉진에 관한 법률",
   "payload_law_id": "010598",
+  "prev_name": null,
   "promulgation_date": "20241220",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "636a9fc8b8bffa2a"
  },
  "law:eflaw:010599": {
@@ -84677,9 +84719,14 @@
   "version_signature": "5c0ff477793ffa8b"
  },
  "law:eflaw:010958": {
+  "attempt_run": "01a17de5-7a0",
   "attempts": 0,
-  "collected_signature": "093c1182a0b46399",
-  "content_hash": "dd47d5a25c784027d7624c5f9ab25bab8c736979c4e22d8a78b697ade4b1b783",
+  "body_stats": {
+   "articles": 59,
+   "chars": 26387
+  },
+  "collected_signature": "f7709d34f934c87f",
+  "content_hash": "9b4cab833db05a3780391380275ea23bf50e63a6c49887dfb86a35eb52a7d437",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286905&type=HTML&mobileYn=&efYd=20260828",
   "doc_domain": "law",
   "doc_id": "010958",
@@ -84687,18 +84734,21 @@
   "doc_type": "법률",
   "emitted_signature": "093c1182a0b46399",
   "enforcement_date": "20260828",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:17:31.076600+00:00",
-  "last_collected_at": "2026-09-03T03:21:12.532850+00:00",
+  "last_checked_at": "2026-10-27T15:05:54.638167+00:00",
+  "last_collected_at": "2026-10-27T15:08:50.776665+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-10-27T15:00:28.896832+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "286905",
   "name": "농어업경영체 육성 및 지원에 관한 법률",
   "payload_law_id": "010958",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f7709d34f934c87f"
  },
  "law:eflaw:010964": {
