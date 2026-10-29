@@ -5597,13 +5597,14 @@
   "version_signature": "b76e1baaacfab456"
  },
  "law:eflaw:000798": {
+  "attempt_run": "01a1883e-3fd",
   "attempts": 0,
   "body_stats": {
    "articles": 202,
-   "chars": 78181
+   "chars": 79564
   },
-  "collected_signature": "a8ddba248441646e",
-  "content_hash": "5e096d32b6cad34e9c07e9c94cc909d20ac6fa7c3a4039b3c0edcf7845a66189",
+  "collected_signature": "3fd6ab0382b7fd29",
+  "content_hash": "eb05f3fe741ababead197a420bef838e1228fac96ebe7f5d9df5c04a01628709",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285693&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "000798",
@@ -5613,8 +5614,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:09:48.437243+00:00",
-  "last_collected_at": "2026-10-20T16:15:14.670768+00:00",
+  "last_checked_at": "2026-10-29T15:19:03.941899+00:00",
+  "last_collected_at": "2026-10-29T15:23:42.272702+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285693",
@@ -5622,8 +5623,9 @@
   "payload_law_id": "000798",
   "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "3fd6ab0382b7fd29"
  },
  "law:eflaw:000812": {
@@ -33220,14 +33222,14 @@
   "version_signature": "56ea2e2159bbd9d2"
  },
  "law:eflaw:004680": {
-  "attempt_run": "01a17df4-e1a",
+  "attempt_run": "01a1883e-401",
   "attempts": 0,
   "body_stats": {
    "articles": 130,
-   "chars": 46722
+   "chars": 46284
   },
-  "collected_signature": "10dab57e76d1d6d9",
-  "content_hash": "ef5983cbb13acb9f395bdc3907ff8ce072ff2453449549e196776826bd7ff422",
+  "collected_signature": "70f989f96a9db0e1",
+  "content_hash": "1579b2f12841e872a05835a51287f03d6013c3a1fd704102d7b5abfb21fbaf2d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291497&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "004680",
@@ -33237,8 +33239,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:22:44.366670+00:00",
-  "last_collected_at": "2026-10-27T15:27:15.561214+00:00",
+  "last_checked_at": "2026-10-29T15:19:04.597085+00:00",
+  "last_collected_at": "2026-10-29T15:25:39.014304+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "291497",
@@ -33248,7 +33250,7 @@
   "promulgation_date": "20261027",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "70f989f96a9db0e1"
  },
  "law:eflaw:004685": {
@@ -54989,8 +54991,14 @@
   "version_signature": "e3d0727db8e896f8"
  },
  "law:eflaw:008026": {
-  "collected_signature": "8c802b4bea96cdd0",
-  "content_hash": "d8b952ec4cfe455883d47e8a526bf5828e3b5090e6120a68a2a8f52839aac81c",
+  "attempt_run": "01a1883e-3ff",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 48,
+   "chars": 14796
+  },
+  "collected_signature": "eae163b66d7268be",
+  "content_hash": "626d42d17d1907b1649f954701ec1343882d123f6ecc047864ff0c904cf92fac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291525&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "008026",
@@ -54998,15 +55006,18 @@
   "doc_type": "문화체육관광부령",
   "emitted_signature": "8c802b4bea96cdd0",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:47:22.800135+00:00",
-  "last_collected_at": "2026-08-25T02:54:04.696327+00:00",
+  "last_checked_at": "2026-10-29T15:19:05.410773+00:00",
+  "last_collected_at": "2026-10-29T15:23:57.938851+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "291525",
   "name": "저작권법 시행규칙",
   "payload_law_id": "008026",
+  "prev_name": null,
   "promulgation_date": "20261029",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "eae163b66d7268be"
@@ -55664,13 +55675,14 @@
   "version_signature": "6e0f6857436ba942"
  },
  "law:eflaw:008230": {
+  "attempt_run": "01a1883e-3fa",
   "attempts": 0,
   "body_stats": {
    "articles": 32,
-   "chars": 15899
+   "chars": 17267
   },
-  "collected_signature": "7695db5f1104c4fd",
-  "content_hash": "164adb88686f4b0845b1eb2c1789e153138c3296935b29a88dc9b7f3533d9607",
+  "collected_signature": "a7f1e04e27b69779",
+  "content_hash": "f5170d65306a16d0321a4ebc5272596bc3b99315cc614ee60299ca3c8ecc91f4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285757&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "008230",
@@ -55680,8 +55692,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T20:27:44.744193+00:00",
-  "last_collected_at": "2026-10-02T20:31:26.077342+00:00",
+  "last_checked_at": "2026-10-29T15:19:08.374091+00:00",
+  "last_collected_at": "2026-10-29T15:24:39.478077+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "행정안전부",
   "mst": "285757",
@@ -55689,6 +55701,7 @@
   "payload_law_id": "008230",
   "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a7f1e04e27b69779"
@@ -92577,8 +92590,14 @@
   "version_signature": "acc25be26deffbb0"
  },
  "law:eflaw:011492": {
-  "collected_signature": "c424f670c582ae39",
-  "content_hash": "5dd10fa71d11f1702a1e51994e1fb0eceb8a346e5ca0f6a74f5340742b34bdd0",
+  "attempt_run": "01a1883e-3f8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 11166
+  },
+  "collected_signature": "c7508a31adee3cbe",
+  "content_hash": "03d25535ef90f517dd1b19f3c5d246fb8126d659d595f392dce5d86858b3a795",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285689&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "011492",
@@ -92586,15 +92605,18 @@
   "doc_type": "법률",
   "emitted_signature": "c424f670c582ae39",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:50:20.454475+00:00",
-  "last_collected_at": "2026-08-24T13:53:10.903739+00:00",
+  "last_checked_at": "2026-10-29T15:19:03.554639+00:00",
+  "last_collected_at": "2026-10-29T15:20:08.791791+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285689",
   "name": "예술인 복지법",
   "payload_law_id": "011492",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c7508a31adee3cbe"
@@ -93648,8 +93670,14 @@
   "version_signature": "19a02662e10a7804"
  },
  "law:eflaw:011548": {
-  "collected_signature": "19520f75131dd0cc",
-  "content_hash": "3a57c8642547b6eda098b3a29947f9a9887e2dc8fdfdb172befcef509a3df5c1",
+  "attempt_run": "01a1883e-403",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 5126
+  },
+  "collected_signature": "9155eedc1ebd2a96",
+  "content_hash": "fd6643c2300687c11a7a77633f1000aa8b44d834b714852a16b499224b8cc6a9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285691&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "011548",
@@ -93657,15 +93685,18 @@
   "doc_type": "법률",
   "emitted_signature": "19520f75131dd0cc",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T18:35:17.038925+00:00",
-  "last_collected_at": "2026-08-24T18:36:24.355566+00:00",
+  "last_checked_at": "2026-10-29T15:19:06.595993+00:00",
+  "last_collected_at": "2026-10-29T15:19:51.630916+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285691",
   "name": "이스포츠(전자스포츠) 진흥에 관한 법률",
   "payload_law_id": "011548",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9155eedc1ebd2a96"
