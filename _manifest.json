@@ -5820,8 +5820,14 @@
   "version_signature": "c8f1f69e758b85b1"
  },
  "law:eflaw:000830": {
-  "collected_signature": "175ef3023b9ec2a5",
-  "content_hash": "82a6622f3d353f52291a16b4a184092f6cbea5dc437c506234abacc7d95e5e6c",
+  "attempt_run": "01a18835-5f3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 18588
+  },
+  "collected_signature": "2fb9e245bfc0de3f",
+  "content_hash": "5ce954c8edb86b3815f136a38e58b49e991edac2dc495940da0bf1831b80db96",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285639&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "000830",
@@ -5829,17 +5835,20 @@
   "doc_type": "법률",
   "emitted_signature": "175ef3023b9ec2a5",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T09:30:50.323151+00:00",
-  "last_collected_at": "2026-08-23T09:33:26.043604+00:00",
+  "last_checked_at": "2026-10-29T15:09:25.906723+00:00",
+  "last_collected_at": "2026-10-29T15:10:40.256680+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285639",
   "name": "도서관법",
   "payload_law_id": "000830",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2fb9e245bfc0de3f"
  },
  "law:eflaw:000832": {
@@ -68423,9 +68432,14 @@
   "version_signature": "9a9e36174aca109e"
  },
  "law:eflaw:009877": {
+  "attempt_run": "01a18835-5f4",
   "attempts": 0,
-  "collected_signature": "0653c1d94fb2d66e",
-  "content_hash": "9643b0d71b31f5ac230f9131adf3fee4e4ffc772df32c9a93455bdd64c4bc83e",
+  "body_stats": {
+   "articles": 29,
+   "chars": 7359
+  },
+  "collected_signature": "22f6aa2f680fbd52",
+  "content_hash": "91836ff294d56d35401b97b4a7f9e3c1e39e87769ed7622996d685b4c065b773",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285635&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "009877",
@@ -68433,15 +68447,18 @@
   "doc_type": "법률",
   "emitted_signature": "0653c1d94fb2d66e",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:39:18.516910+00:00",
-  "last_collected_at": "2026-09-03T02:40:34.802635+00:00",
+  "last_checked_at": "2026-10-29T15:09:24.287699+00:00",
+  "last_collected_at": "2026-10-29T15:10:20.553214+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285635",
   "name": "국어기본법",
   "payload_law_id": "009877",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "22f6aa2f680fbd52"
@@ -70628,13 +70645,14 @@
   "version_signature": "ede204ea750a788f"
  },
  "law:eflaw:010025": {
+  "attempt_run": "01a18835-5ee",
   "attempts": 0,
   "body_stats": {
    "articles": 29,
    "chars": 11739
   },
-  "collected_signature": "9029a8acaa619d1d",
-  "content_hash": "42d5d440d2a09560f1baae56940fc761e6d80f3f43ab44966a6c835fbffacbee",
+  "collected_signature": "bc78042f0770129d",
+  "content_hash": "3e3f1a0b3809c02f871027f5c42515c02252bcdbc0a7c82cc88dfb634b17f6a4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291087&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "010025",
@@ -70644,8 +70662,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:00:15.921203+00:00",
-  "last_collected_at": "2026-10-13T15:02:47.740317+00:00",
+  "last_checked_at": "2026-10-29T15:09:22.175883+00:00",
+  "last_collected_at": "2026-10-29T15:11:00.140966+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "291087",
@@ -70653,6 +70671,7 @@
   "payload_law_id": "010025",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "bc78042f0770129d"
@@ -87258,8 +87277,14 @@
   "version_signature": "5317f932786fc941"
  },
  "law:eflaw:011152": {
-  "collected_signature": "70651e45f496af22",
-  "content_hash": "32c153e84e9147851b8e879189197d6fa0666bf8106e2bbf838221e742fb4817",
+  "attempt_run": "01a18835-5e9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 50,
+   "chars": 16559
+  },
+  "collected_signature": "400533cfff3fd7b3",
+  "content_hash": "490f241373b734622b6fe78068baabbc8e0124f5a9c6bfd17626e8b813359ca3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285641&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "011152",
@@ -87267,15 +87292,18 @@
   "doc_type": "법률",
   "emitted_signature": "70651e45f496af22",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T12:08:40.321224+00:00",
-  "last_collected_at": "2026-08-23T12:12:49.957277+00:00",
+  "last_checked_at": "2026-10-29T15:09:21.700300+00:00",
+  "last_collected_at": "2026-10-29T15:10:44.081166+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "국가유산청",
   "mst": "285641",
   "name": "매장유산 보호 및 조사에 관한 법률",
   "payload_law_id": "011152",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "400533cfff3fd7b3"
@@ -111364,14 +111392,14 @@
   "version_signature": "7ca6c419c403d0e6"
  },
  "law:eflaw:013043": {
-  "attempt_run": "01a17de0-8f4",
+  "attempt_run": "01a18835-5eb",
   "attempts": 0,
   "body_stats": {
    "articles": 11,
-   "chars": 1525
+   "chars": 1914
   },
-  "collected_signature": "6063e69fa8272e9d",
-  "content_hash": "8f488f491256e32bdd7dcecdd38141c676d8f314a7770e65b399df0992c4babb",
+  "collected_signature": "b52643a0a09a4449",
+  "content_hash": "3cd444b16dcf80791168ae0c70c6c2b246d3fbd89b73a884c6acfaaf68a8fdd0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291281&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "013043",
@@ -111381,8 +111409,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:00:31.826749+00:00",
-  "last_collected_at": "2026-10-27T15:01:10.031493+00:00",
+  "last_checked_at": "2026-10-29T15:09:22.733811+00:00",
+  "last_collected_at": "2026-10-29T15:10:00.829411+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "291281",
@@ -122444,8 +122472,14 @@
   "version_signature": "30acb2e2e30e9434"
  },
  "law:eflaw:014148": {
-  "collected_signature": "65fd4bc4fba8ba76",
-  "content_hash": "dbe0691ea3cbc7588a96650293fc0a676641470bc88246eb23c77c85959cb6b4",
+  "attempt_run": "01a18835-5f0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 3562
+  },
+  "collected_signature": "4e5b71d13e970dee",
+  "content_hash": "49a46fd068028905ae9478b2e35092a246fbdbd205e42fd17323dadd1b0c1857",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285645&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "014148",
@@ -122453,15 +122487,18 @@
   "doc_type": "법률",
   "emitted_signature": "65fd4bc4fba8ba76",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T03:53:54.084117+00:00",
-  "last_collected_at": "2026-08-23T03:56:00.462938+00:00",
+  "last_checked_at": "2026-10-29T15:09:23.457208+00:00",
+  "last_collected_at": "2026-10-29T15:10:16.733311+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "교육부",
   "mst": "285645",
   "name": "기초학력 보장법",
   "payload_law_id": "014148",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4e5b71d13e970dee"
