@@ -5730,8 +5730,14 @@
   "version_signature": "698822b48fae1095"
  },
  "law:eflaw:000816": {
-  "collected_signature": "c593b8c3827c5491",
-  "content_hash": "9abc24ca10a417616833333792ef8703a3e97d90b2985d48cdd115dd8953e9e6",
+  "attempt_run": "01a18844-be6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 91,
+   "chars": 20413
+  },
+  "collected_signature": "8fe74013783d913b",
+  "content_hash": "0c3dab0ef2dc60d832378bac5ecfe29e6abbfba474b3e9e44662122a151bab01",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285713&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "000816",
@@ -5739,17 +5745,20 @@
   "doc_type": "법률",
   "emitted_signature": "c593b8c3827c5491",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:04.462392+00:00",
-  "last_collected_at": "2026-08-25T18:26:20.681766+00:00",
+  "last_checked_at": "2026-10-29T15:26:09.617138+00:00",
+  "last_collected_at": "2026-10-29T15:27:36.020874+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "성평등가족부",
   "mst": "285713",
   "name": "청소년 기본법",
   "payload_law_id": "000816",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "8fe74013783d913b"
  },
  "law:eflaw:000820": {
@@ -6690,9 +6699,14 @@
   "version_signature": "a2cf60d9e5ad553e"
  },
  "law:eflaw:000900": {
+  "attempt_run": "01a18844-be1",
   "attempts": 0,
-  "collected_signature": "f7212a7f961b7b2b",
-  "content_hash": "b114626c47125f887af0b52109ad27b361f29084434a55de6ddc259f5d138b06",
+  "body_stats": {
+   "articles": 119,
+   "chars": 38816
+  },
+  "collected_signature": "d00a0fe6c36436d8",
+  "content_hash": "d72a99b71f5df89ee48d00eb31284068f340797c2ad0f0606432ff3720fc21ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285599&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "000900",
@@ -6702,8 +6716,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T16:09:11.938817+00:00",
-  "last_collected_at": "2026-09-11T16:12:01.920589+00:00",
+  "last_checked_at": "2026-10-29T15:26:09.277071+00:00",
+  "last_collected_at": "2026-10-29T15:28:56.902910+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "교육부",
   "mst": "285599",
@@ -6711,8 +6725,9 @@
   "payload_law_id": "000900",
   "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d00a0fe6c36436d8"
  },
  "law:eflaw:000901": {
@@ -34265,8 +34280,14 @@
   "version_signature": "1ed5d6170df4345a"
  },
  "law:eflaw:004936": {
-  "collected_signature": "c5d13425a29e8a80",
-  "content_hash": "25cc49e8373613d996823e2abde437e3bc1c9779dd26c5d03cd8cc56dddaa28e",
+  "attempt_run": "01a18844-be8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 92,
+   "chars": 57770
+  },
+  "collected_signature": "3286f91dc1a4eb55",
+  "content_hash": "46ba20e381b89838a4aaa6441115199b6751da38d1216fcc7b3f85e48948b84e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285733&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "004936",
@@ -34274,15 +34295,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "c5d13425a29e8a80",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T10:18:11.664978+00:00",
-  "last_collected_at": "2026-08-25T10:29:36.399158+00:00",
+  "last_checked_at": "2026-10-29T15:26:11.169875+00:00",
+  "last_collected_at": "2026-10-29T15:33:00.240503+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "행정안전부",
   "mst": "285733",
   "name": "주민등록법 시행령",
   "payload_law_id": "004936",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3286f91dc1a4eb55"
@@ -35767,14 +35791,14 @@
   "version_signature": "89d979311e7c18fe"
  },
  "law:eflaw:005238": {
-  "attempt_run": "01a17df9-b8c",
+  "attempt_run": "01a18844-be3",
   "attempts": 0,
   "body_stats": {
    "articles": 181,
-   "chars": 96364
+   "chars": 96729
   },
-  "collected_signature": "157f5ee4dab06289",
-  "content_hash": "a428131313b6618fefbe61ce9c5de072ec4c2f63a147ad76e817b6f8c53b3168",
+  "collected_signature": "68ce7a1a1658c520",
+  "content_hash": "b8151dad9cb9b8b76e7e692cf47002163c12d7148c32dc7806db283d307b5e25",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291283&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "005238",
@@ -35784,8 +35808,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:28:02.428969+00:00",
-  "last_collected_at": "2026-10-27T15:35:56.176947+00:00",
+  "last_checked_at": "2026-10-29T15:26:10.270055+00:00",
+  "last_collected_at": "2026-10-29T15:33:33.194121+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "교육부",
   "mst": "291283",
