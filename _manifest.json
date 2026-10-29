@@ -50233,13 +50233,14 @@
   "version_signature": "3b42ccceb9545edb"
  },
  "law:eflaw:007248": {
+  "attempt_run": "01a18837-821",
   "attempts": 0,
   "body_stats": {
    "articles": 178,
-   "chars": 53862
+   "chars": 54157
   },
-  "collected_signature": "3cc8f94fe42f6856",
-  "content_hash": "81943b5dd478cb6ca0b766cfd97869b44bac8d5d27e4bddf6cf681ced6d688d3",
+  "collected_signature": "062bbb109a11c956",
+  "content_hash": "251451bcf87c69cc1dceef75bf53f6b927a2dc9c06b878df44e6fa3e78d65b3e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291527&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "007248",
@@ -50249,8 +50250,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:52:54.794197+00:00",
-  "last_collected_at": "2026-10-02T18:02:53.489683+00:00",
+  "last_checked_at": "2026-10-29T15:11:43.325751+00:00",
+  "last_collected_at": "2026-10-29T15:18:29.250583+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "국방부,병무청",
   "mst": "291527",
@@ -50258,6 +50259,7 @@
   "payload_law_id": "007248",
   "prev_name": null,
   "promulgation_date": "20261029",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "062bbb109a11c956"
@@ -76579,8 +76581,14 @@
   "version_signature": "22312e6c76ebbf6a"
  },
  "law:eflaw:010415": {
-  "collected_signature": "6a0030476dc18cac",
-  "content_hash": "3eebf7a246aafe89d94f05d100c69a99829fc8681d7cbae3b5fdcc9fc359fe49",
+  "attempt_run": "01a18837-813",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 26,
+   "chars": 8040
+  },
+  "collected_signature": "69fd1f78422b039b",
+  "content_hash": "1c246c1d8f4be93d9f35e696205d3315bd0ed6657aea2ccbdd82bb6479c42c31",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285685&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "010415",
@@ -76588,15 +76596,18 @@
   "doc_type": "법률",
   "emitted_signature": "6a0030476dc18cac",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:11:10.767894+00:00",
-  "last_collected_at": "2026-08-24T08:12:59.398109+00:00",
+  "last_checked_at": "2026-10-29T15:11:45.023710+00:00",
+  "last_collected_at": "2026-10-29T15:13:23.916012+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "문화체육관광부",
   "mst": "285685",
   "name": "스포츠산업 진흥법",
   "payload_law_id": "010415",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "69fd1f78422b039b"
@@ -90106,14 +90117,14 @@
   "version_signature": "717ad9a1a311cb26"
  },
  "law:eflaw:011339": {
-  "attempt_run": "01a17dea-468",
+  "attempt_run": "01a18837-812",
   "attempts": 0,
   "body_stats": {
    "articles": 49,
    "chars": 18834
   },
-  "collected_signature": "14c9e3965af39c1c",
-  "content_hash": "d736fb4a5f463caebe940164956529e8e3755b2d0f85c7e13506498463ede09e",
+  "collected_signature": "44bef6d11ca496c5",
+  "content_hash": "0469fd7d8b85fb8546edd01dea17bdd74f73d663d41cf94a724fb0d0999443ab",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291477&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "011339",
@@ -90123,8 +90134,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:11:08.596353+00:00",
-  "last_collected_at": "2026-10-27T15:15:21.372856+00:00",
+  "last_checked_at": "2026-10-29T15:11:41.611568+00:00",
+  "last_collected_at": "2026-10-29T15:16:36.115345+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "국가유산청",
   "mst": "291477",
@@ -100002,8 +100013,14 @@
   "version_signature": "9175afc5c31f4e59"
  },
  "law:eflaw:012027": {
-  "collected_signature": "b7cc646e307cce81",
-  "content_hash": "db9504edc44fdb8bb9ce95e5e97044cd3e490d5fe94c8678fbd61080dee9344a",
+  "attempt_run": "01a18837-818",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 48,
+   "chars": 19720
+  },
+  "collected_signature": "a5c27d9b77bd7185",
+  "content_hash": "0930a5a75e402c3f64c433d6934cd6e6dc046f4ad46ce9bb4e27e19a95c355d5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285711&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "012027",
@@ -100011,15 +100028,18 @@
   "doc_type": "법률",
   "emitted_signature": "b7cc646e307cce81",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:27:26.485877+00:00",
-  "last_collected_at": "2026-08-24T11:29:05.159804+00:00",
+  "last_checked_at": "2026-10-29T15:11:41.970925+00:00",
+  "last_collected_at": "2026-10-29T15:14:21.191275+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "성평등가족부",
   "mst": "285711",
   "name": "양육비 이행확보 및 지원에 관한 법률",
   "payload_law_id": "012027",
+  "prev_name": null,
   "promulgation_date": "20260428",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a5c27d9b77bd7185"
@@ -103033,13 +103053,14 @@
   "version_signature": "a24a54ebb167c0ea"
  },
  "law:eflaw:012262": {
+  "attempt_run": "01a18837-815",
   "attempts": 0,
   "body_stats": {
    "articles": 35,
-   "chars": 17851
+   "chars": 17286
   },
-  "collected_signature": "3656af9ee56ed42e",
-  "content_hash": "97836e4009b5f3123d4ab144b06e6861699d5760e52b2f228fb38d4404630151",
+  "collected_signature": "290e67b44a1ba55a",
+  "content_hash": "38554f39480b86a4aa291385f693063704bba8cadcedbe30e8fa1410a8df020a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291367&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "012262",
@@ -103049,8 +103070,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:43:32.307959+00:00",
-  "last_collected_at": "2026-10-20T15:50:11.271712+00:00",
+  "last_checked_at": "2026-10-29T15:11:46.552006+00:00",
+  "last_collected_at": "2026-10-29T15:16:16.090217+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "성평등가족부",
   "mst": "291367",
@@ -103058,6 +103079,7 @@
   "payload_law_id": "012262",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "290e67b44a1ba55a"
@@ -103284,14 +103306,14 @@
   "version_signature": "df7187af7a768613"
  },
  "law:eflaw:012273": {
-  "attempt_run": "01a178ba-2e0",
+  "attempt_run": "01a18837-81d",
   "attempts": 0,
   "body_stats": {
    "articles": 26,
-   "chars": 7727
+   "chars": 7965
   },
-  "collected_signature": "71494eebb45dab81",
-  "content_hash": "b8bc85d5f38c302a8d3115f5af283007d0047f772fb86a46d866fa6c780b987b",
+  "collected_signature": "41ac98d169a662ac",
+  "content_hash": "e936af9206dd47736ec3a6be83cc65450d6709bee81565aec9cfc7c1f208f0b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291535&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "012273",
@@ -103301,8 +103323,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-26T15:00:31.988963+00:00",
-  "last_collected_at": "2026-10-26T15:01:36.566313+00:00",
+  "last_checked_at": "2026-10-29T15:11:42.532061+00:00",
+  "last_collected_at": "2026-10-29T15:14:44.445572+00:00",
   "last_seen_at": "2026-10-29T15:00:30.205349+00:00",
   "ministry": "성평등가족부",
   "mst": "291535",
