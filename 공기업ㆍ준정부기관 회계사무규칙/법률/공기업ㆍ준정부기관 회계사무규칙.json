@@ -5432,13 +5432,30 @@
             "target_url": "https://www.law.go.kr/학칙공단/(국립공원공단) 내부통제 규칙",
             "resolve_method": "render",
             "source_provision_id": "law:공기업준정부기관회계사무규칙#JO0021",
-            "reference_id": "SchlPubRul:(국립공원공단)내부통제규칙#DOC",
+            "reference_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2142001#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
-            "target_git_path": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
+            "target_git_path": "(국립공원공단) 내부통제 규칙/pi_2142001/(국립공원공단) 내부통제 규칙.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
-            "target_doc_kind": "공단정관"
+            "target_doc_kind": "공단정관",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(국립공원공단) 내부통제 규칙/pi_2130143/(국립공원공단) 내부통제 규칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2130143#DOC",
+                "is_current": true,
+                "enforcement_date": "20250618"
+              },
+              {
+                "git_path": "(국립공원공단) 내부통제 규칙/pi_2142001/(국립공원공단) 내부통제 규칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2142001#DOC",
+                "is_current": true,
+                "enforcement_date": "20261012"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
@@ -5692,11 +5709,28 @@
               "target_url": "https://www.law.go.kr/학칙공단/(국립공원공단) 내부통제 규칙"
             },
             "source_provision_id": "law:공기업준정부기관회계사무규칙#JO0021",
-            "reference_id": "SchlPubRul:(국립공원공단)내부통제규칙#DOC",
+            "reference_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2142001#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
-            "target_git_path": "(국립공원공단) 내부통제 규칙/(국립공원공단) 내부통제 규칙.json",
-            "target_source_repository": "SCHLPUBRUL"
+            "target_git_path": "(국립공원공단) 내부통제 규칙/pi_2142001/(국립공원공단) 내부통제 규칙.json",
+            "target_source_repository": "SCHLPUBRUL",
+            "target_candidates": 2,
+            "target_candidate_paths": [
+              {
+                "git_path": "(국립공원공단) 내부통제 규칙/pi_2130143/(국립공원공단) 내부통제 규칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2130143#DOC",
+                "is_current": true,
+                "enforcement_date": "20250618"
+              },
+              {
+                "git_path": "(국립공원공단) 내부통제 규칙/pi_2142001/(국립공원공단) 내부통제 규칙.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:(국립공원공단)내부통제규칙:pi_2142001#DOC",
+                "is_current": true,
+                "enforcement_date": "20261012"
+              }
+            ]
           },
           {
             "relation_type": "delegation",
