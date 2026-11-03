@@ -40186,8 +40186,14 @@
   "version_signature": "271f85c6bcaf386d"
  },
  "law:eflaw:005797": {
-  "collected_signature": "9ad56426db24f077",
-  "content_hash": "a861c4ccc143fbcb37eb00e72874e208d771466a76dbed252c6ea9f1fcc9828d",
+  "attempt_run": "01a1a1f4-db7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 73,
+   "chars": 22642
+  },
+  "collected_signature": "00fcf3286fb45c45",
+  "content_hash": "2530eab9be8e6a7556d9e4d68e4f1531b8b68105a13e3a12180e34393bb7d79a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291553&type=HTML&mobileYn=&efYd=20261103",
   "doc_domain": "law",
   "doc_id": "005797",
@@ -40195,15 +40201,18 @@
   "doc_type": "대법원규칙",
   "emitted_signature": "9ad56426db24f077",
   "enforcement_date": "20261103",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T15:22:21.822342+00:00",
-  "last_collected_at": "2026-08-23T15:24:06.999671+00:00",
+  "last_checked_at": "2026-11-03T15:09:01.758877+00:00",
+  "last_collected_at": "2026-11-03T15:12:55.203213+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "대법원",
   "mst": "291553",
   "name": "법무사규칙",
   "payload_law_id": "005797",
+  "prev_name": null,
   "promulgation_date": "20261103",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "00fcf3286fb45c45"
@@ -40853,8 +40862,14 @@
   "version_signature": "b5c1e3b34c038198"
  },
  "law:eflaw:005868": {
-  "collected_signature": "9a50f6a8b9899996",
-  "content_hash": "10105379a57b12ac433bcf57bdce3a0bfbc6dbd9868a47e8174a0941539e5e09",
+  "attempt_run": "01a1a1f4-dba",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 192,
+   "chars": 56732
+  },
+  "collected_signature": "aff7d39d772d174c",
+  "content_hash": "73d8ec8fe14fa4734603e6b57eef3d5d73060e910d443df0a37e2b1d5a28a656",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291555&type=HTML&mobileYn=&efYd=20261103",
   "doc_domain": "law",
   "doc_id": "005868",
@@ -40862,17 +40877,20 @@
   "doc_type": "대법원규칙",
   "emitted_signature": "9a50f6a8b9899996",
   "enforcement_date": "20261103",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T19:44:24.259934+00:00",
-  "last_collected_at": "2026-08-23T19:49:10.703759+00:00",
+  "last_checked_at": "2026-11-03T15:09:04.660559+00:00",
+  "last_collected_at": "2026-11-03T15:14:13.781860+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "대법원",
   "mst": "291555",
   "name": "부동산등기규칙",
   "payload_law_id": "005868",
+  "prev_name": null,
   "promulgation_date": "20261103",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "aff7d39d772d174c"
  },
  "law:eflaw:005870": {
@@ -88288,8 +88306,14 @@
   "version_signature": "549c13a1ecf67853"
  },
  "law:eflaw:011204": {
-  "collected_signature": "76c41f3b4d26eb4c",
-  "content_hash": "1c2fa25ba86bb6d3e99414534f1d06f5c1e9c9eaea4a290e5b021095ae30a209",
+  "attempt_run": "01a1a1f4-db5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 10392
+  },
+  "collected_signature": "13344ccbbf37c2cd",
+  "content_hash": "06131a0479f77618439726ec657548048589a67a8effe427087ef4bc44d39da7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291545&type=HTML&mobileYn=&efYd=20261103",
   "doc_domain": "law",
   "doc_id": "011204",
@@ -88297,15 +88321,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "76c41f3b4d26eb4c",
   "enforcement_date": "20261103",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T05:10:51.601082+00:00",
-  "last_collected_at": "2026-08-23T05:15:45.276142+00:00",
+  "last_checked_at": "2026-11-03T15:09:05.643204+00:00",
+  "last_collected_at": "2026-11-03T15:13:24.817115+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "291545",
   "name": "농림수산식품투자조합 결성 및 운용에 관한 법률 시행령",
   "payload_law_id": "011204",
+  "prev_name": null,
   "promulgation_date": "20261103",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "13344ccbbf37c2cd"
@@ -90469,8 +90496,14 @@
   "version_signature": "2229ad23309ee1dd"
  },
  "law:eflaw:011356": {
-  "collected_signature": "24793c5a2c582e1b",
-  "content_hash": "89b579b641726e3ffa55a6c19055e67087eaef90a1f3b0444eed4b99d9b7a50a",
+  "attempt_run": "01a1a1f4-db3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 49,
+   "chars": 20278
+  },
+  "collected_signature": "33b9075caec4b0d0",
+  "content_hash": "efd486a0cb2014d157993fd46786afa93c1d9264d8c70a8d0c1920d2a551f013",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291533&type=HTML&mobileYn=&efYd=20261103",
   "doc_domain": "law",
   "doc_id": "011356",
@@ -90478,15 +90511,18 @@
   "doc_type": "대법원규칙",
   "emitted_signature": "24793c5a2c582e1b",
   "enforcement_date": "20261103",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T13:52:13.198707+00:00",
-  "last_collected_at": "2026-08-23T13:55:19.918457+00:00",
+  "last_checked_at": "2026-11-03T15:09:01.349809+00:00",
+  "last_collected_at": "2026-11-03T15:12:43.172070+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "대법원",
   "mst": "291533",
   "name": "민사소송 등에서의 전자문서 이용 등에 관한 규칙",
   "payload_law_id": "011356",
+  "prev_name": null,
   "promulgation_date": "20261103",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "33b9075caec4b0d0"
@@ -92708,8 +92744,14 @@
   "version_signature": "c7508a31adee3cbe"
  },
  "law:eflaw:011493": {
-  "collected_signature": "25de2a6ebbfc1d11",
-  "content_hash": "385632aed8d995af9e0a540476b484a1473a52a8bc9af5279e4b27dc13d46fc5",
+  "attempt_run": "01a1a1f4-dbe",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 16601
+  },
+  "collected_signature": "7fdd7aa6965bfc4f",
+  "content_hash": "87530cf63d38f320f7c9af2d94f6c2eaa78454ec8180adc27e638cdc22da861f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291561&type=HTML&mobileYn=&efYd=20261103",
   "doc_domain": "law",
   "doc_id": "011493",
@@ -92717,15 +92759,18 @@
   "doc_type": "대법원규칙",
   "emitted_signature": "25de2a6ebbfc1d11",
   "enforcement_date": "20261103",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T11:27:33.359593+00:00",
-  "last_collected_at": "2026-08-23T11:28:47.312704+00:00",
+  "last_checked_at": "2026-11-03T15:09:03.749392+00:00",
+  "last_collected_at": "2026-11-03T15:11:48.840798+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "대법원",
   "mst": "291561",
   "name": "동산ㆍ채권의 담보등기 등에 관한 규칙",
   "payload_law_id": "011493",
+  "prev_name": null,
   "promulgation_date": "20261103",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7fdd7aa6965bfc4f"
@@ -134720,13 +134765,14 @@
   "version_signature": "b98d7bde62919ed2"
  },
  "law:eflaw:014976": {
+  "attempt_run": "01a1a1f4-dbc",
   "attempts": 0,
   "body_stats": {
-   "articles": 23,
-   "chars": 8030
+   "articles": 25,
+   "chars": 9149
   },
-  "collected_signature": "9bd74ac2d2c35323",
-  "content_hash": "27b0b0c18e7ecb43dfd385b94849abe80e5c78e0ce29d3954b1a978a5a494127",
+  "collected_signature": "c5df23b8e5eee70f",
+  "content_hash": "28891f9d2b3b1de48a10dcbd5dc2b803db7415b7209fb76c17ceb88876c18463",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289665&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
   "doc_id": "014976",
@@ -134736,8 +134782,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:01:34.662631+00:00",
-  "last_collected_at": "2026-09-15T16:04:31.231154+00:00",
+  "last_checked_at": "2026-11-03T15:09:02.661440+00:00",
+  "last_collected_at": "2026-11-03T15:12:56.144890+00:00",
   "last_seen_at": "2026-11-03T15:00:26.335192+00:00",
   "ministry": "국토교통부",
   "mst": "289665",
@@ -134745,8 +134791,9 @@
   "payload_law_id": "014976",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "c5df23b8e5eee70f"
  },
  "law:eflaw:014977": {
