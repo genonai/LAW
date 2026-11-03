@@ -1728,10 +1728,10 @@
             "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관",
             "resolve_method": "render",
             "source_provision_id": "law:국민건강보험요양급여의기준에관한규칙#JO0005_02",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#DOC",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142087#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
+            "target_git_path": "건강보험심사평가원 정관/pi_2142087/건강보험심사평가원 정관.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_doc_target": "pi",
             "target_doc_kind": "공단정관",
@@ -1749,8 +1749,16 @@
                 "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#DOC",
                 "is_current": true,
                 "enforcement_date": "20250124"
+              },
+              {
+                "git_path": "건강보험심사평가원 정관/pi_2142087/건강보험심사평가원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142087#DOC",
+                "is_current": true,
+                "enforcement_date": "20260401"
               }
-            ]
+            ],
+            "target_candidates": 3
           },
           {
             "relation_type": "delegation",
@@ -1802,10 +1810,10 @@
               "target_url": "https://www.law.go.kr/학칙공단/건강보험심사평가원 정관"
             },
             "source_provision_id": "law:국민건강보험요양급여의기준에관한규칙#JO0005_02",
-            "reference_id": "SchlPubRul:건강보험심사평가원정관#DOC",
+            "reference_id": "SchlPubRul:건강보험심사평가원정관:pi_2142087#DOC",
             "target_repo": "SCHLPUBRUL",
             "target_git_path_guess": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
-            "target_git_path": "건강보험심사평가원 정관/건강보험심사평가원 정관.json",
+            "target_git_path": "건강보험심사평가원 정관/pi_2142087/건강보험심사평가원 정관.json",
             "target_source_repository": "SCHLPUBRUL",
             "target_candidate_paths": [
               {
@@ -1821,8 +1829,16 @@
                 "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142085#DOC",
                 "is_current": true,
                 "enforcement_date": "20250124"
+              },
+              {
+                "git_path": "건강보험심사평가원 정관/pi_2142087/건강보험심사평가원 정관.json",
+                "source_repository": "SCHLPUBRUL",
+                "provision_id": "SchlPubRul:건강보험심사평가원정관:pi_2142087#DOC",
+                "is_current": true,
+                "enforcement_date": "20260401"
               }
-            ]
+            ],
+            "target_candidates": 3
           }
         ],
         "note": "[본조신설 2005.10.11]",
@@ -2642,7 +2658,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -2705,7 +2721,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -2798,7 +2814,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -3347,7 +3363,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3496,7 +3512,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3559,7 +3575,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3599,7 +3615,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3639,7 +3655,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3679,7 +3695,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3719,7 +3735,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -3867,7 +3883,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -3912,7 +3928,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -3985,7 +4001,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -4030,7 +4046,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -4075,7 +4091,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -7488,7 +7504,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -7575,7 +7591,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -8562,7 +8578,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -8728,7 +8744,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -11290,7 +11306,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -11353,7 +11369,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -11456,7 +11472,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_doc_target": "admrul",
             "target_doc_kind": "행정규칙",
@@ -11727,7 +11743,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
@@ -11845,7 +11861,7 @@
             "reference_id": "admrul:건강보험행위급여비급여목록표및급여상대가치점수#DOC",
             "target_repo": "ADMRUL",
             "target_git_path_guess": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
-            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여 상대가치점수.json",
+            "target_git_path": "건강보험 행위 급여·비급여 목록표 및 급여상대가치점수/건강보험 행위 급여·비급여 목록표 및 급여상대가치점수.json",
             "target_source_repository": "ADMRUL",
             "target_candidates": 2,
             "target_candidate_paths": [
