@@ -7378,13 +7378,14 @@
   "version_signature": "0b70de8c74320d52"
  },
  "law:eflaw:000956": {
+  "attempt_run": "01a1acdb-108",
   "attempts": 0,
   "body_stats": {
    "articles": 37,
    "chars": 10306
   },
-  "collected_signature": "44fc64a2704a2ec4",
-  "content_hash": "0361b4be1e0e1a8ee63ac726e9b93e9c952b7ca40d344300733fae1a9c44577d",
+  "collected_signature": "362725153b209566",
+  "content_hash": "2b2947f6a1f407295a6147ea9fd50144f640898a04c697dcf034fadd26dd7e3c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291135&type=HTML&mobileYn=&efYd=20270114",
   "doc_domain": "law",
   "doc_id": "000956",
@@ -7394,8 +7395,8 @@
   "enforcement_date": "20270114",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:21:14.638789+00:00",
-  "last_collected_at": "2026-10-13T15:24:01.439379+00:00",
+  "last_checked_at": "2026-11-05T17:56:44.579441+00:00",
+  "last_collected_at": "2026-11-05T17:59:05.154212+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "291135",
@@ -7403,8 +7404,9 @@
   "payload_law_id": "000956",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "362725153b209566"
  },
  "law:eflaw:000958": {
@@ -29370,13 +29372,14 @@
   "version_signature": "2a340d9764f52696"
  },
  "law:eflaw:003956": {
+  "attempt_run": "01a1acdb-0fd",
   "attempts": 0,
   "body_stats": {
    "articles": 468,
    "chars": 414513
   },
-  "collected_signature": "9a15620848e7d886",
-  "content_hash": "b12d80b19a0ee31a176cbde61ead7141eeb5c8addb9138d06a2ac5ff0e796e4a",
+  "collected_signature": "909a4d76986506b6",
+  "content_hash": "a0d4bcb5d28a522af6252fd18868cc2723a7bc6b92e4c3ecdca9423b7dc07abe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283631&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
   "doc_id": "003956",
@@ -29386,8 +29389,8 @@
   "enforcement_date": "20260701",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:16:24.492769+00:00",
-  "last_collected_at": "2026-10-01T16:38:27.418395+00:00",
+  "last_checked_at": "2026-11-05T17:56:43.446540+00:00",
+  "last_collected_at": "2026-11-05T18:26:48.441302+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부",
   "mst": "283631",
@@ -29395,8 +29398,9 @@
   "payload_law_id": "003956",
   "prev_name": null,
   "promulgation_date": "20260227",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 11,
+  "version_count": 1,
   "version_signature": "909a4d76986506b6"
  },
  "law:eflaw:003959": {
@@ -29499,8 +29503,14 @@
   "version_signature": "ae9ef2c3c34eb099"
  },
  "law:eflaw:003967": {
-  "collected_signature": "19a17d36ea9cb857",
-  "content_hash": "ba841d0261a0648036e2bf8e440326a673e6d42aa771bf6b96d6191f24265ab6",
+  "attempt_run": "01a1acdb-101",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 80,
+   "chars": 37642
+  },
+  "collected_signature": "e7d91774d796db97",
+  "content_hash": "96c5c422631ad988aac4b8d88b84c4d112b14bbbbfa2438bc8485b83120d8dc6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281833&type=HTML&mobileYn=&efYd=20270901",
   "doc_domain": "law",
   "doc_id": "003967",
@@ -29508,17 +29518,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "19a17d36ea9cb857",
   "enforcement_date": "20270901",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:21:52.682574+00:00",
-  "last_collected_at": "2026-08-24T05:29:24.885056+00:00",
+  "last_checked_at": "2026-11-05T17:56:41.860916+00:00",
+  "last_collected_at": "2026-11-05T18:01:21.473855+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "281833",
   "name": "소방공무원 임용령",
   "payload_law_id": "003967",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e7d91774d796db97"
  },
  "law:eflaw:003968": {
@@ -52249,8 +52262,14 @@
   "version_signature": "fda2469d8bca701c"
  },
  "law:eflaw:007513": {
-  "collected_signature": "67eb2e967bd25650",
-  "content_hash": "3b78c30e7c19b12c8aa451a313cd9d00325d8ded9b2e05cfc63bfc1cb427e1c8",
+  "attempt_run": "01a1acdb-102",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 54,
+   "chars": 13764
+  },
+  "collected_signature": "b6e11d6aebfc1c32",
+  "content_hash": "8fe7f32ecc279229e77fa4da524ed99dc015f5a5d02fbe1a505d56f3d566224a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282545&type=HTML&mobileYn=&efYd=20270901",
   "doc_domain": "law",
   "doc_id": "007513",
@@ -52258,15 +52277,18 @@
   "doc_type": "행정안전부령",
   "emitted_signature": "67eb2e967bd25650",
   "enforcement_date": "20270901",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:21:50.001025+00:00",
-  "last_collected_at": "2026-08-24T05:24:24.827317+00:00",
+  "last_checked_at": "2026-11-05T17:56:40.779713+00:00",
+  "last_collected_at": "2026-11-05T17:59:08.451822+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "282545",
   "name": "소방공무원 임용령 시행규칙",
   "payload_law_id": "007513",
+  "prev_name": null,
   "promulgation_date": "20251231",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "b6e11d6aebfc1c32"
@@ -63921,13 +63943,14 @@
   "version_signature": "ad9a5d8b7ba62803"
  },
  "law:eflaw:009505": {
+  "attempt_run": "01a1acdb-104",
   "attempts": 0,
   "body_stats": {
    "articles": 90,
    "chars": 22067
   },
-  "collected_signature": "90ee0c105cc81963",
-  "content_hash": "04bcc82e77a7d1a6351887ad03b832ef18492802ec5db1cd0e99d64b79615ef7",
+  "collected_signature": "f4f62856059bb597",
+  "content_hash": "40b5fca2133134bb4ba72ec041d5c98d20774b889bd11f52634bdb85b2ee746f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291137&type=HTML&mobileYn=&efYd=20270414",
   "doc_domain": "law",
   "doc_id": "009505",
@@ -63937,8 +63960,8 @@
   "enforcement_date": "20270414",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:21:14.615841+00:00",
-  "last_collected_at": "2026-10-13T15:23:59.686447+00:00",
+  "last_checked_at": "2026-11-05T17:56:42.498530+00:00",
+  "last_collected_at": "2026-11-05T17:59:11.059413+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "291137",
@@ -63946,6 +63969,7 @@
   "payload_law_id": "009505",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "f4f62856059bb597"
@@ -66756,13 +66780,14 @@
   "version_signature": "a8ee2951c7b5b819"
  },
  "law:eflaw:009694": {
+  "attempt_run": "01a1acdb-0fa",
   "attempts": 0,
   "body_stats": {
    "articles": 52,
    "chars": 20720
   },
-  "collected_signature": "b62ac7a0a8590801",
-  "content_hash": "4c767bf1fdaf71f05ce17ef227d2eebc3b2f077872ab68df3acabce731f8850a",
+  "collected_signature": "cb3cdd37d07fc305",
+  "content_hash": "4e72795ecc6a81830eab6b8b2ac3cf20333a724c072f96d11ea0d7a9ce9535d1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267669&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "009694",
@@ -66772,8 +66797,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:51:21.305040+00:00",
-  "last_collected_at": "2026-10-02T18:54:37.167466+00:00",
+  "last_checked_at": "2026-11-05T17:56:40.270702+00:00",
+  "last_collected_at": "2026-11-05T18:01:46.330449+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "267669",
@@ -66781,6 +66806,7 @@
   "payload_law_id": "009694",
   "prev_name": null,
   "promulgation_date": "20241231",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "cb3cdd37d07fc305"
