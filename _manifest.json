@@ -7867,8 +7867,14 @@
   "version_signature": "20bda4bff3b8f908"
  },
  "law:eflaw:000993": {
-  "collected_signature": "ff4c4f5f105b2b78",
-  "content_hash": "123413c902d48f57e8ebc19c8426ac20442c22f2dc20c899211f46dc8b36bfb2",
+  "attempt_run": "01a1ad98-8a5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 9474
+  },
+  "collected_signature": "12a008429bc0eab3",
+  "content_hash": "6901278a10bd798a6dd42767aa316dc3caa865b2884ecad29d214a8818bd300d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287987&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "000993",
@@ -7876,15 +7882,18 @@
   "doc_type": "법률",
   "emitted_signature": "ff4c4f5f105b2b78",
   "enforcement_date": "20270108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:04:58.010027+00:00",
-  "last_collected_at": "2026-08-25T01:08:37.679861+00:00",
+  "last_checked_at": "2026-11-05T21:23:38.400581+00:00",
+  "last_collected_at": "2026-11-05T21:24:27.151090+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "287987",
   "name": "자전거 이용 활성화에 관한 법률",
   "payload_law_id": "000993",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "12a008429bc0eab3"
@@ -17993,13 +18002,14 @@
   "version_signature": "ad7862c46f21b79a"
  },
  "law:eflaw:001998": {
+  "attempt_run": "01a1ad98-8ab",
   "attempts": 0,
   "body_stats": {
    "articles": 61,
    "chars": 26073
   },
-  "collected_signature": "4bdaeee2ab2fb812",
-  "content_hash": "e853a4ce3412c78054d01faeeb67ddfb0dbae854798c89c3fee2549141d67733",
+  "collected_signature": "0718ec0556829708",
+  "content_hash": "1be8812c067c86c5d8af9a2cbce06df2ff8110c2213fdb0837fe9981b4c240db",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289741&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "001998",
@@ -18009,8 +18019,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:35:18.123136+00:00",
-  "last_collected_at": "2026-10-02T19:38:01.320982+00:00",
+  "last_checked_at": "2026-11-05T21:23:39.228851+00:00",
+  "last_collected_at": "2026-11-05T21:25:50.744144+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "289741",
@@ -18018,6 +18028,7 @@
   "payload_law_id": "001998",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "0718ec0556829708"
@@ -73591,8 +73602,14 @@
   "version_signature": "b97ea48a73314008"
  },
  "law:eflaw:010172": {
-  "collected_signature": "d30c07a35b55446b",
-  "content_hash": "aba3a3927ca39b209526115fca9b2df416ccbac9655b0c86855c55c5acf10443",
+  "attempt_run": "01a1ad98-8a0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 80,
+   "chars": 64587
+  },
+  "collected_signature": "db4ee3bbc8427518",
+  "content_hash": "881c6e62f406730b049b9f8eb787e9a569f9050adcb18899ccc9836065d4c463",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282745&type=HTML&mobileYn=&efYd=20260501",
   "doc_domain": "law",
   "doc_id": "010172",
@@ -73600,17 +73617,20 @@
   "doc_type": "재정경제부령",
   "emitted_signature": "d30c07a35b55446b",
   "enforcement_date": "20260501",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:53:26.202260+00:00",
-  "last_collected_at": "2026-08-25T01:00:02.163687+00:00",
+  "last_checked_at": "2026-11-05T21:23:37.877828+00:00",
+  "last_collected_at": "2026-11-05T21:27:43.293040+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부",
   "mst": "282745",
   "name": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행규칙",
   "payload_law_id": "010172",
+  "prev_name": null,
   "promulgation_date": "20260106",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "db4ee3bbc8427518"
  },
  "law:eflaw:010173": {
@@ -73660,8 +73680,14 @@
   "version_signature": "1c744c7414eb059c"
  },
  "law:eflaw:010175": {
-  "collected_signature": "f718714014ca3477",
-  "content_hash": "9e7983c602b58d5fa77a4ddf74e39966445f1297e7960565192b5ab9f720c3b5",
+  "attempt_run": "01a1ad98-8a7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 133,
+   "chars": 104677
+  },
+  "collected_signature": "f9d273ec8603418b",
+  "content_hash": "75ab00539dd8501e45557a3e0b976874de622d496c36d391c80b2eb651aceea1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282485&type=HTML&mobileYn=&efYd=99990101",
   "doc_domain": "law",
   "doc_id": "010175",
@@ -73669,17 +73695,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "f718714014ca3477",
   "enforcement_date": "99990101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:53:26.944757+00:00",
-  "last_collected_at": "2026-08-25T01:01:28.733779+00:00",
+  "last_checked_at": "2026-11-05T21:23:40.990775+00:00",
+  "last_collected_at": "2026-11-05T21:29:04.420012+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부",
   "mst": "282485",
   "name": "자유무역협정의 이행을 위한 관세법의 특례에 관한 법률 시행령",
   "payload_law_id": "010175",
+  "prev_name": null,
   "promulgation_date": "20260106",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "f9d273ec8603418b"
  },
  "law:eflaw:010176": {
@@ -92654,8 +92683,14 @@
   "version_signature": "37b4d2b3f62c02fd"
  },
  "law:eflaw:011443": {
-  "collected_signature": "9a925ca33699f00e",
-  "content_hash": "ccada0b2bc30393e9aa3073e5a805f602f712701e6079cbcd8c299089a2485b7",
+  "attempt_run": "01a1ad98-8a2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 48,
+   "chars": 19407
+  },
+  "collected_signature": "d55a7546f9506dd8",
+  "content_hash": "df931b51771efeb6066bb58a796425ba292aa5ec23616969476f82a5b62d7d98",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286227&type=HTML&mobileYn=&efYd=20280527",
   "doc_domain": "law",
   "doc_id": "011443",
@@ -92663,15 +92698,18 @@
   "doc_type": "법률",
   "emitted_signature": "9a925ca33699f00e",
   "enforcement_date": "20280527",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:18:11.698414+00:00",
-  "last_collected_at": "2026-08-25T01:23:44.601980+00:00",
+  "last_checked_at": "2026-11-05T21:23:39.878989+00:00",
+  "last_collected_at": "2026-11-05T21:27:48.486968+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부,보건복지부",
   "mst": "286227",
   "name": "장애아동 복지지원법",
   "payload_law_id": "011443",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d55a7546f9506dd8"
@@ -115141,13 +115179,14 @@
   "version_signature": "05f67467fcd9e697"
  },
  "law:eflaw:013480": {
+  "attempt_run": "01a1ad98-8a9",
   "attempts": 0,
   "body_stats": {
    "articles": 57,
    "chars": 26168
   },
-  "collected_signature": "30658abf49f43256",
-  "content_hash": "2b2401092b27b5fa295a3a9fc0100fd2938d14b9f0202657c5c314eacb8f00a0",
+  "collected_signature": "50e43893beef5ae1",
+  "content_hash": "33f7aebf8f9489f6ec9323b077260426bc584e6ce21ff5ebebd9e88c47d00b70",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289899&type=HTML&mobileYn=&efYd=20261223",
   "doc_domain": "law",
   "doc_id": "013480",
@@ -115157,8 +115196,8 @@
   "enforcement_date": "20261223",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:10:24.754140+00:00",
-  "last_collected_at": "2026-09-23T02:12:55.389738+00:00",
+  "last_checked_at": "2026-11-05T21:23:42.196650+00:00",
+  "last_collected_at": "2026-11-05T21:26:55.621082+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289899",
@@ -115166,6 +115205,7 @@
   "payload_law_id": "013480",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "50e43893beef5ae1"
