@@ -2189,12 +2189,13 @@
   "version_signature": "9a6f80f24e5d8c6b"
  },
  "law:eflaw:000204": {
+  "attempt_run": "01a1aca3-29a",
   "attempts": 0,
   "body_stats": {
    "articles": 48,
    "chars": 13962
   },
-  "collected_signature": "062e1bcc96b3d6da",
+  "collected_signature": "692982e8973a1bf9",
   "content_hash": "d9d86cb01e4c0f31439d939406c173fa644f3fdde3f91c0ea40dfeea35d7e023",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291355&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
@@ -2205,8 +2206,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:30:17.191605+00:00",
-  "last_collected_at": "2026-10-20T15:31:30.911587+00:00",
+  "last_checked_at": "2026-11-05T16:55:38.672216+00:00",
+  "last_collected_at": "2026-11-05T16:57:09.857523+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "291355",
@@ -2214,6 +2215,7 @@
   "payload_law_id": "000204",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "692982e8973a1bf9"
@@ -70628,13 +70630,14 @@
   "version_signature": "8e5ef9feaf0ab6bf"
  },
  "law:eflaw:010005": {
+  "attempt_run": "01a1aca3-298",
   "attempts": 0,
   "body_stats": {
    "articles": 124,
    "chars": 51717
   },
-  "collected_signature": "22796372fbb0f58a",
-  "content_hash": "3647e2ee7b37e83d61935372988af5cfcbbf736fbc296ece97c71075ee9c7600",
+  "collected_signature": "b3c976399733d473",
+  "content_hash": "94c7a2681cf89eca0a10219ac7aefe05e891339e0d55cda5208451323996179d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286919&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "010005",
@@ -70644,8 +70647,8 @@
   "enforcement_date": "20261217",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:00:50.628400+00:00",
-  "last_collected_at": "2026-10-01T16:03:30.755296+00:00",
+  "last_checked_at": "2026-11-05T16:55:36.870442+00:00",
+  "last_collected_at": "2026-11-05T16:58:44.353390+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "286919",
@@ -70653,8 +70656,9 @@
   "payload_law_id": "010005",
   "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b3c976399733d473"
  },
  "law:eflaw:010007": {
@@ -76063,8 +76067,14 @@
   "version_signature": "add127d633b8874e"
  },
  "law:eflaw:010365": {
-  "collected_signature": "086563820d3a2ca7",
-  "content_hash": "8ab50ec38435170b1f31ddf34988f307c825828d00f6ee9786303f49d9052926",
+  "attempt_run": "01a1aca3-29f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 8577
+  },
+  "collected_signature": "4e0b9a1d510050c7",
+  "content_hash": "295a7b3867f18779eae738816bd8d0194ce006baf992c7e2a8b53c6e0a9c4939",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286815&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "010365",
@@ -76072,15 +76082,18 @@
   "doc_type": "법률",
   "emitted_signature": "086563820d3a2ca7",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T21:59:44.970634+00:00",
-  "last_collected_at": "2026-08-23T22:00:29.370225+00:00",
+  "last_checked_at": "2026-11-05T16:55:37.287307+00:00",
+  "last_collected_at": "2026-11-05T16:56:26.248050+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "286815",
   "name": "사회적기업 육성법",
   "payload_law_id": "010365",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4e0b9a1d510050c7"
@@ -85774,8 +85787,14 @@
   "version_signature": "557b6304e5c7e2cf"
  },
  "law:eflaw:011019": {
-  "collected_signature": "e4bec8d575b39ee8",
-  "content_hash": "afff01923f0e6de078b51ec9729316bff34fd66dec348e369c36179f6e26eca9",
+  "attempt_run": "01a1aca3-2a0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 114,
+   "chars": 33248
+  },
+  "collected_signature": "facce7c1c1548c06",
+  "content_hash": "a121eb5a9abcbe63d43f694d01afa322466eff5bae7f9eb7e0f549bb78a203e7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285919&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "011019",
@@ -85783,17 +85802,20 @@
   "doc_type": "법률",
   "emitted_signature": "e4bec8d575b39ee8",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:06:06.989736+00:00",
-  "last_collected_at": "2026-08-23T22:15:09.022728+00:00",
+  "last_checked_at": "2026-11-05T16:55:39.882279+00:00",
+  "last_collected_at": "2026-11-05T16:58:37.469090+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "285919",
   "name": "산림보호법",
   "payload_law_id": "011019",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "facce7c1c1548c06"
  },
  "law:eflaw:011020": {
@@ -103741,8 +103763,14 @@
   "version_signature": "1ebb4999aa0c1565"
  },
  "law:eflaw:012270": {
-  "collected_signature": "dd3e47b2d7c50e8f",
-  "content_hash": "121068ab207c0c2b9e60bed5b411a214f7195b67b82076e442255e21471246b5",
+  "attempt_run": "01a1aca3-2a2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 70,
+   "chars": 28047
+  },
+  "collected_signature": "08bb814daa3e112d",
+  "content_hash": "fc36628775359bcee9b4c7030e28577b8b27062ca3f977447a722d48f11e1edb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285921&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "012270",
@@ -103750,15 +103778,18 @@
   "doc_type": "법률",
   "emitted_signature": "dd3e47b2d7c50e8f",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:16:21.832472+00:00",
-  "last_collected_at": "2026-08-23T22:24:32.827273+00:00",
+  "last_checked_at": "2026-11-05T16:55:40.572669+00:00",
+  "last_collected_at": "2026-11-05T16:59:11.937222+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "285921",
   "name": "산림복지 진흥에 관한 법률",
   "payload_law_id": "012270",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "08bb814daa3e112d"
@@ -111624,9 +111655,14 @@
   "version_signature": "63f614f63fa3349e"
  },
  "law:eflaw:013021": {
+  "attempt_run": "01a1aca3-29d",
   "attempts": 0,
-  "collected_signature": "79e96cc7ef434046",
-  "content_hash": "3053142a07e413868cdca57da2c2699e08bedefa3be45b3051909b57a6e14f3e",
+  "body_stats": {
+   "articles": 33,
+   "chars": 15650
+  },
+  "collected_signature": "a7ceb0af9707f0a0",
+  "content_hash": "14dfe1774de4d2840b96509c9ed80c5b9438e50215f51bdc8a4a5bb687b0b09f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287973&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "013021",
@@ -111634,16 +111670,19 @@
   "doc_type": "법률",
   "emitted_signature": "79e96cc7ef434046",
   "enforcement_date": "20270108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:58:30.353292+00:00",
-  "last_collected_at": "2026-09-03T04:00:17.510452+00:00",
+  "last_checked_at": "2026-11-05T16:55:37.933987+00:00",
+  "last_collected_at": "2026-11-05T16:57:12.319736+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "287973",
   "name": "산림기술 진흥 및 관리에 관한 법률",
   "payload_law_id": "013021",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a7ceb0af9707f0a0"
