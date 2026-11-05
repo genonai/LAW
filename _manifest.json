@@ -5732,14 +5732,14 @@
   "version_signature": "73328c0c1e1c5aa3"
  },
  "law:eflaw:000798": {
-  "attempt_run": "01a1883e-3fd",
+  "attempt_run": "01a1adae-995",
   "attempts": 0,
   "body_stats": {
    "articles": 202,
    "chars": 79564
   },
-  "collected_signature": "3fd6ab0382b7fd29",
-  "content_hash": "eb05f3fe741ababead197a420bef838e1228fac96ebe7f5d9df5c04a01628709",
+  "collected_signature": "95c8aff7e990015f",
+  "content_hash": "34b68f35bf7f4407947eed7d2ded6cb7ba8f896cbe8d7fe654a2b0f75ab156d0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285693&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "000798",
@@ -5749,8 +5749,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-29T15:19:03.941899+00:00",
-  "last_collected_at": "2026-10-29T15:23:42.272702+00:00",
+  "last_checked_at": "2026-11-05T21:47:43.907794+00:00",
+  "last_collected_at": "2026-11-05T21:48:47.463991+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "문화체육관광부",
   "mst": "285693",
@@ -5760,7 +5760,7 @@
   "promulgation_date": "20260428",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "95c8aff7e990015f"
  },
  "law:eflaw:000812": {
@@ -33711,14 +33711,14 @@
   "version_signature": "56ea2e2159bbd9d2"
  },
  "law:eflaw:004680": {
-  "attempt_run": "01a1883e-401",
+  "attempt_run": "01a1adae-998",
   "attempts": 0,
   "body_stats": {
    "articles": 130,
    "chars": 46284
   },
-  "collected_signature": "70f989f96a9db0e1",
-  "content_hash": "1579b2f12841e872a05835a51287f03d6013c3a1fd704102d7b5abfb21fbaf2d",
+  "collected_signature": "571e10ac0e40ab30",
+  "content_hash": "c1fe04d6d2a7a437b7949e838c9e2030b7138a978d0160a14afaeb478c38d053",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291497&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "004680",
@@ -33728,8 +33728,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-29T15:19:04.597085+00:00",
-  "last_collected_at": "2026-10-29T15:25:39.014304+00:00",
+  "last_checked_at": "2026-11-05T21:47:47.474731+00:00",
+  "last_collected_at": "2026-11-05T21:48:40.054341+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "문화체육관광부",
   "mst": "291497",
@@ -77953,8 +77953,14 @@
   "version_signature": "827d6ae44ca2d306"
  },
  "law:eflaw:010437": {
-  "collected_signature": "b12d46cb78918b42",
-  "content_hash": "d88c136c9b0ce3bc08a9a6cecac7b65db0f0e19491641caf62b94a7d52de7f10",
+  "attempt_run": "01a1adae-98f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 64,
+   "chars": 28356
+  },
+  "collected_signature": "9fa27b44319521bc",
+  "content_hash": "0ffeb30805077b051cabe92b4c8e91dd450f268e1120556e934993764513d317",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286767&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "010437",
@@ -77962,15 +77968,18 @@
   "doc_type": "법률",
   "emitted_signature": "b12d46cb78918b42",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T03:00:32.449074+00:00",
-  "last_collected_at": "2026-08-25T03:05:22.225949+00:00",
+  "last_checked_at": "2026-11-05T21:47:43.496208+00:00",
+  "last_collected_at": "2026-11-05T21:50:11.460892+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "286767",
   "name": "전기ㆍ전자제품 및 자동차의 자원순환에 관한 법률",
   "payload_law_id": "010437",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9fa27b44319521bc"
@@ -78988,9 +78997,14 @@
   "version_signature": "623d249574486546"
  },
  "law:eflaw:010504": {
+  "attempt_run": "01a1adae-992",
   "attempts": 0,
-  "collected_signature": "a14a7e7fb03f9362",
-  "content_hash": "37509e85e709e044796802eba81e271a74ab8e7147f17cc3581fd4ed3f69d119",
+  "body_stats": {
+   "articles": 40,
+   "chars": 18948
+  },
+  "collected_signature": "ca18bdfa114528ac",
+  "content_hash": "34f71b67484bef836fa6f9f18cf7bc87e4a380c25f6c323a7f31f24c550348cd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289373&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "010504",
@@ -78998,15 +79012,18 @@
   "doc_type": "법률",
   "emitted_signature": "a14a7e7fb03f9362",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:55:43.426988+00:00",
-  "last_collected_at": "2026-09-08T16:59:20.593931+00:00",
+  "last_checked_at": "2026-11-05T21:47:44.658400+00:00",
+  "last_collected_at": "2026-11-05T21:50:34.949861+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "289373",
   "name": "재해위험 개선사업 및 이주대책에 관한 특별법",
   "payload_law_id": "010504",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ca18bdfa114528ac"
@@ -106614,8 +106631,14 @@
   "version_signature": "f68e3f499ca96fe0"
  },
  "law:eflaw:012413": {
-  "collected_signature": "b3c31e29a78307f8",
-  "content_hash": "4e1aae7a25bb3acdc93e9bef22641454ce27c31b136e78cb06ac925449f33713",
+  "attempt_run": "01a1adae-997",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 10111
+  },
+  "collected_signature": "224a5dfff550fb27",
+  "content_hash": "6f5923c9536a7276d526a68ec40e8c1522ef431f80568242d48e5f831116383d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281943&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "012413",
@@ -106623,15 +106646,18 @@
   "doc_type": "법률",
   "emitted_signature": "b3c31e29a78307f8",
   "enforcement_date": "20261231",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T02:56:46.464381+00:00",
-  "last_collected_at": "2026-08-25T02:59:44.486787+00:00",
+  "last_checked_at": "2026-11-05T21:47:45.668786+00:00",
+  "last_collected_at": "2026-11-05T21:49:08.064381+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "281943",
   "name": "전공의의 수련환경 개선 및 지위 향상을 위한 법률",
   "payload_law_id": "012413",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "224a5dfff550fb27"
@@ -110169,8 +110195,14 @@
   "version_signature": "11da201be9a602d5"
  },
  "law:eflaw:012702": {
-  "collected_signature": "7e2dd7b5d6cbbbec",
-  "content_hash": "2065e217559d7c6595228647ff505fc4b6d2592862163c430c19bf12128eef21",
+  "attempt_run": "01a1adae-99b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 6706
+  },
+  "collected_signature": "8f335625e5140467",
+  "content_hash": "c6dbcab8a6790b19982f5b3acfe23cca33fadc402b9040c9ff2d033e8f8d0a53",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285051&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "012702",
@@ -110178,15 +110210,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "7e2dd7b5d6cbbbec",
   "enforcement_date": "20261231",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T03:00:33.588307+00:00",
-  "last_collected_at": "2026-08-25T03:03:59.928333+00:00",
+  "last_checked_at": "2026-11-05T21:47:46.709290+00:00",
+  "last_collected_at": "2026-11-05T21:50:07.843182+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "285051",
   "name": "전공의의 수련환경 개선 및 지위 향상을 위한 법률 시행령",
   "payload_law_id": "012702",
+  "prev_name": null,
   "promulgation_date": "20260330",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "8f335625e5140467"
