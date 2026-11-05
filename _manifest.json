@@ -2244,8 +2244,14 @@
   "version_signature": "75b8016795387ed1"
  },
  "law:eflaw:000212": {
-  "collected_signature": "7365d7c24e90b27f",
-  "content_hash": "41ded277cb0e89bc77714c3ee2af53cae8b2af3e606ba7ce8d7fe1a208fdab65",
+  "attempt_run": "01a1ad0e-48d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 10732
+  },
+  "collected_signature": "74cceae08d77db3c",
+  "content_hash": "ffbaf56c30013a2afd4ecf8a423063071d307dd0b595a606d14961e0364a2e9c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279705&type=HTML&mobileYn=&efYd=20271112",
   "doc_domain": "law",
   "doc_id": "000212",
@@ -2253,15 +2259,18 @@
   "doc_type": "법률",
   "emitted_signature": "7365d7c24e90b27f",
   "enforcement_date": "20271112",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:25:12.309001+00:00",
-  "last_collected_at": "2026-08-24T08:29:10.678274+00:00",
+  "last_checked_at": "2026-11-05T18:52:38.146245+00:00",
+  "last_collected_at": "2026-11-05T18:54:12.383729+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "279705",
   "name": "시체 해부 및 보존 등에 관한 법률",
   "payload_law_id": "000212",
+  "prev_name": null,
   "promulgation_date": "20251111",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "74cceae08d77db3c"
@@ -12435,14 +12444,14 @@
   "version_signature": "0337815c0e5a4a3d"
  },
  "law:eflaw:001513": {
-  "attempt_run": "01a17df4-e1c",
+  "attempt_run": "01a1ad0e-489",
   "attempts": 0,
   "body_stats": {
    "articles": 92,
    "chars": 46634
   },
-  "collected_signature": "fe9bc703bd2da657",
-  "content_hash": "f0f7cf7e425378769b2ae90e067336a17bd66fd9c4890d19e593a7728b5202d5",
+  "collected_signature": "a2a0a492f0f8ba17",
+  "content_hash": "21f8837b33c5987ade83cb42866a2dca2889a12bcbc99c7e96b2fcf6d405d016",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286943&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "001513",
@@ -12452,8 +12461,8 @@
   "enforcement_date": "20261217",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:22:43.266643+00:00",
-  "last_collected_at": "2026-10-27T15:26:25.476130+00:00",
+  "last_checked_at": "2026-11-05T18:52:37.494086+00:00",
+  "last_collected_at": "2026-11-05T18:53:33.593440+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "농림축산식품부",
   "mst": "286943",
@@ -12463,7 +12472,7 @@
   "promulgation_date": "20260616",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a2a0a492f0f8ba17"
  },
  "law:eflaw:001514": {
@@ -30371,13 +30380,14 @@
   "version_signature": "37f1ba6975e5a7ed"
  },
  "law:eflaw:004083": {
+  "attempt_run": "01a1ad0e-48f",
   "attempts": 0,
   "body_stats": {
    "articles": 59,
    "chars": 23519
   },
-  "collected_signature": "f24b1bad34a96a6e",
-  "content_hash": "a5f2a665e045b3e9d70d36ab7e387c054f8d1bc88960f3ccd21bcccf0a3eb392",
+  "collected_signature": "a2ae64ddf4130cf2",
+  "content_hash": "e4df733ec6fc19b82d2ac8a5e4eb7bf2ad4129710710cb09983529e3111082d1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279977&type=HTML&mobileYn=&efYd=20261204",
   "doc_domain": "law",
   "doc_id": "004083",
@@ -30387,8 +30397,8 @@
   "enforcement_date": "20261204",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:16:43.896845+00:00",
-  "last_collected_at": "2026-09-15T16:21:49.811169+00:00",
+  "last_checked_at": "2026-11-05T18:52:40.628843+00:00",
+  "last_collected_at": "2026-11-05T18:56:53.119374+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
@@ -30397,6 +30407,7 @@
   "payload_law_id": "004083",
   "prev_name": null,
   "promulgation_date": "20251202",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a2ae64ddf4130cf2"
@@ -52947,13 +52958,14 @@
   "version_signature": "b5c301d183572151"
  },
  "law:eflaw:007624": {
+  "attempt_run": "01a1ad0e-486",
   "attempts": 0,
   "body_stats": {
    "articles": 14,
    "chars": 6389
   },
-  "collected_signature": "45aa8c58f48371b6",
-  "content_hash": "c020591d33d21046d2c4de88e3bdc01b3d6c365f6eb8495a7ba901c3fe061e47",
+  "collected_signature": "f18fcb5bd6e0a557",
+  "content_hash": "240af37dafdbc65690858b6385a7d1257a4cb2702d89633d618d7de3c06dff70",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291193&type=HTML&mobileYn=&efYd=20271112",
   "doc_domain": "law",
   "doc_id": "007624",
@@ -52963,8 +52975,8 @@
   "enforcement_date": "20271112",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-12T04:30:56.393028+00:00",
-  "last_collected_at": "2026-10-12T04:32:30.530013+00:00",
+  "last_checked_at": "2026-11-05T18:52:39.000791+00:00",
+  "last_collected_at": "2026-11-05T18:55:12.692376+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "291193",
@@ -52972,6 +52984,7 @@
   "payload_law_id": "007624",
   "prev_name": null,
   "promulgation_date": "20261012",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "f18fcb5bd6e0a557"
@@ -99091,8 +99104,14 @@
   "version_signature": "6dbdea857a828ce1"
  },
  "law:eflaw:011892": {
-  "collected_signature": "dc4c48835596132a",
-  "content_hash": "e01af619997a0b86db70c204bd033c93f53148ee6bbb0b9951f54469eec7798b",
+  "attempt_run": "01a1ad0e-484",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 34,
+   "chars": 15759
+  },
+  "collected_signature": "4ca5c16ad5a99b98",
+  "content_hash": "28cd4ead5a1b4b642791c7cef6c18bcfdd38aafc5b2def974a32338ef209d673",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286273&type=HTML&mobileYn=&efYd=20270527",
   "doc_domain": "law",
   "doc_id": "011892",
@@ -99100,15 +99119,18 @@
   "doc_type": "법률",
   "emitted_signature": "dc4c48835596132a",
   "enforcement_date": "20270527",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:47:56.185783+00:00",
-  "last_collected_at": "2026-08-24T08:50:57.951263+00:00",
+  "last_checked_at": "2026-11-05T18:52:37.082774+00:00",
+  "last_collected_at": "2026-11-05T18:55:30.572813+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "286273",
   "name": "식품ㆍ의약품분야 시험ㆍ검사 등에 관한 법률",
   "payload_law_id": "011892",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4ca5c16ad5a99b98"
@@ -112587,8 +112609,14 @@
   "version_signature": "3ab6a20c11773aac"
  },
  "law:eflaw:013094": {
-  "collected_signature": "f3c0ac7e6e810e46",
-  "content_hash": "5f5ba5c778c8870831861fea1cfb0f3886307cff294484c884c7fded695f2640",
+  "attempt_run": "01a1ad0e-48a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 16912
+  },
+  "collected_signature": "abade54925bb4fb0",
+  "content_hash": "80ebf0dbf7293bcee315be6b45d5b75769645b24ac4562f7f8a6d1b5c5dd70aa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286269&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "013094",
@@ -112596,15 +112624,18 @@
   "doc_type": "법률",
   "emitted_signature": "f3c0ac7e6e810e46",
   "enforcement_date": "20261127",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:44:23.057772+00:00",
-  "last_collected_at": "2026-08-24T08:47:39.213229+00:00",
+  "last_checked_at": "2026-11-05T18:52:39.514874+00:00",
+  "last_collected_at": "2026-11-05T18:55:59.694254+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "286269",
   "name": "식품 등의 표시ㆍ광고에 관한 법률",
   "payload_law_id": "013094",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "abade54925bb4fb0"
