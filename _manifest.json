@@ -13134,13 +13134,14 @@
   "version_signature": "f444bef0797aefa1"
  },
  "law:eflaw:001587": {
+  "attempt_run": "01a1ac9b-057",
   "attempts": 0,
   "body_stats": {
    "articles": 98,
    "chars": 36808
   },
-  "collected_signature": "11239b355173451e",
-  "content_hash": "da1eb6d1428e82a04149e9187dd8b1c24be33c2f05874176ef762d6657f9ba79",
+  "collected_signature": "44397f3aaaea96db",
+  "content_hash": "385523b762686b4ec6f6a1fbe766dc9be2b5cd7a55d1c24f5b791a7fdad1d325",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289359&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "001587",
@@ -13150,8 +13151,8 @@
   "enforcement_date": "20270909",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:08:29.326679+00:00",
-  "last_collected_at": "2026-09-18T16:09:27.870892+00:00",
+  "last_checked_at": "2026-11-05T16:46:44.853803+00:00",
+  "last_collected_at": "2026-11-05T16:53:24.143759+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기획예산처",
   "mst": "289359",
@@ -13159,6 +13160,7 @@
   "payload_law_id": "001587",
   "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "44397f3aaaea96db"
@@ -14298,13 +14300,14 @@
   "version_signature": "68a438c7ec57e9d2"
  },
  "law:eflaw:001670": {
+  "attempt_run": "01a1ac9b-050",
   "attempts": 0,
   "body_stats": {
    "articles": 15,
    "chars": 19404
   },
-  "collected_signature": "1084432915ae7cf1",
-  "content_hash": "d9ded1f9a2b85f9c6f27ce782aeff2a3df36b83baef7ef1696248b21b29d9379",
+  "collected_signature": "e3087a9d5036a219",
+  "content_hash": "61130be915822fbb3b96644760f897964d5b58999f677b28c919d3e2901275fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285377&type=HTML&mobileYn=&efYd=20261208",
   "doc_domain": "law",
   "doc_id": "001670",
@@ -14314,8 +14317,8 @@
   "enforcement_date": "20261208",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:29:27.846059+00:00",
-  "last_collected_at": "2026-10-02T18:36:01.489671+00:00",
+  "last_checked_at": "2026-11-05T16:46:47.100816+00:00",
+  "last_collected_at": "2026-11-05T16:54:46.287680+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "285377",
@@ -14323,6 +14326,7 @@
   "payload_law_id": "001670",
   "prev_name": null,
   "promulgation_date": "20260407",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "e3087a9d5036a219"
@@ -60200,9 +60204,14 @@
   "version_signature": "af188f569a95461a"
  },
  "law:eflaw:009208": {
+  "attempt_run": "01a1ac9b-054",
   "attempts": 0,
-  "collected_signature": "c7cb168dcc3c894e",
-  "content_hash": "93e15c7980d1d3fd29e586a7da0464aa1d640ef1d979708928a6484b900d5ae8",
+  "body_stats": {
+   "articles": 48,
+   "chars": 23168
+  },
+  "collected_signature": "3259257c594a3767",
+  "content_hash": "353caea642143b2ff7aae5abba7cb553318a3fcadd8c885ba3c6b910d3cc9eed",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289131&type=HTML&mobileYn=&efYd=99990101",
   "doc_domain": "law",
   "doc_id": "009208",
@@ -60210,9 +60219,10 @@
   "doc_type": "대통령령",
   "emitted_signature": "c7cb168dcc3c894e",
   "enforcement_date": "99990101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T05:23:10.618169+00:00",
-  "last_collected_at": "2026-09-03T05:23:24.539674+00:00",
+  "last_checked_at": "2026-11-05T16:46:44.068664+00:00",
+  "last_collected_at": "2026-11-05T16:51:01.241977+00:00",
   "last_error": "Child Workflow execution failed",
   "last_git_error": "git commit 실패(rc=128) /workspace/law_ai/data/LAW :: 불공정무역행위 조사 및 산업피해구제에 관한 법률/시행령 — fatal: invalid date format: 9999-01-01T12:00:00",
   "last_git_error_at": "2026-09-03T04:02:18.806777+00:00",
@@ -60221,7 +60231,9 @@
   "mst": "289131",
   "name": "불공정무역행위 조사 및 산업피해구제에 관한 법률 시행령",
   "payload_law_id": "009208",
+  "prev_name": null,
   "promulgation_date": "20260901",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3259257c594a3767"
@@ -102822,13 +102834,14 @@
   "version_signature": "e4888a1310f08a66"
  },
  "law:eflaw:012197": {
+  "attempt_run": "01a1ac9b-04e",
   "attempts": 0,
   "body_stats": {
    "articles": 67,
    "chars": 35358
   },
-  "collected_signature": "3cd1de886762a9db",
-  "content_hash": "190bdf1461bb0217e314cad26a6e176eaf5f9d95acca45d32a0ccb55e0d3aedb",
+  "collected_signature": "b465b497d417abae",
+  "content_hash": "2291de9edc3351a6ac2c73c83c0d037cf9ddf8b2fcc049ef2134dc8d605c6470",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291353&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
   "doc_id": "012197",
@@ -102838,8 +102851,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:30:17.317178+00:00",
-  "last_collected_at": "2026-10-20T15:35:51.514052+00:00",
+  "last_checked_at": "2026-11-05T16:46:43.181102+00:00",
+  "last_collected_at": "2026-11-05T16:53:16.967982+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "291353",
@@ -102847,8 +102860,9 @@
   "payload_law_id": "012197",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b465b497d417abae"
  },
  "law:eflaw:012198": {
@@ -110002,9 +110016,14 @@
   "version_signature": "e6a4257e5fed5865"
  },
  "law:eflaw:012805": {
+  "attempt_run": "01a1ac9b-055",
   "attempts": 0,
-  "collected_signature": "dc08837c67d03949",
-  "content_hash": "ec2eee581cb32ad3a653724fe618924c3fda944f6878368fd36ac437775a0bea",
+  "body_stats": {
+   "articles": 81,
+   "chars": 65334
+  },
+  "collected_signature": "362b686d7a023d52",
+  "content_hash": "568648fdc35cad7fd1811238448b8440dcf9995c930a7f89a653d9603814c349",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286947&type=HTML&mobileYn=&efYd=20270617",
   "doc_domain": "law",
   "doc_id": "012805",
@@ -110012,17 +110031,20 @@
   "doc_type": "법률",
   "emitted_signature": "dc08837c67d03949",
   "enforcement_date": "20270617",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:10:16.292241+00:00",
-  "last_collected_at": "2026-09-08T16:17:46.682000+00:00",
+  "last_checked_at": "2026-11-05T16:46:46.043765+00:00",
+  "last_collected_at": "2026-11-05T16:54:49.774397+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286947",
   "name": "빈집 및 소규모주택 정비에 관한 특례법",
   "payload_law_id": "012805",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "362b686d7a023d52"
  },
  "law:eflaw:012810": {
@@ -127391,13 +127413,14 @@
   "version_signature": "80a716363dd82b55"
  },
  "law:eflaw:014457": {
+  "attempt_run": "01a1ac9b-052",
   "attempts": 0,
   "body_stats": {
    "articles": 66,
    "chars": 27933
   },
-  "collected_signature": "ec5aec8792688654",
-  "content_hash": "74f1e32a88871864e5ef8676703ac121ccd76b2a5242804381cd3bcee1eab9ac",
+  "collected_signature": "eb74856f95170810",
+  "content_hash": "cd74aaf9ded4e3515c7a53238b689c9cb7d27bcecb15c6c877316a70edb297fb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289747&type=HTML&mobileYn=&efYd=20261216",
   "doc_domain": "law",
   "doc_id": "014457",
@@ -127407,8 +127430,8 @@
   "enforcement_date": "20261216",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:08:29.794742+00:00",
-  "last_collected_at": "2026-09-18T16:10:55.431156+00:00",
+  "last_checked_at": "2026-11-05T16:46:43.561678+00:00",
+  "last_collected_at": "2026-11-05T16:50:28.331639+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289747",
@@ -127416,6 +127439,7 @@
   "payload_law_id": "014457",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "eb74856f95170810"
