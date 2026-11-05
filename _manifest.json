@@ -1572,8 +1572,14 @@
   "version_signature": "0851f10d561be92e"
  },
  "law:eflaw:000161": {
-  "collected_signature": "49076e728b57bb73",
-  "content_hash": "c50465295a0cfb2ca96fa71faef0ecc6d05b9d3b676a51ad9556d350685f7d19",
+  "attempt_run": "01a1ad12-ac6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 46,
+   "chars": 21552
+  },
+  "collected_signature": "0e1d4d92f9f48ebd",
+  "content_hash": "da49952c98fa17d30fd524667f22f94fa53be88fff9c33ec020567040d039dc7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287999&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "000161",
@@ -1581,15 +1587,18 @@
   "doc_type": "법률",
   "emitted_signature": "49076e728b57bb73",
   "enforcement_date": "20270108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T09:48:04.144788+00:00",
-  "last_collected_at": "2026-08-24T09:51:16.503164+00:00",
+  "last_checked_at": "2026-11-05T18:57:25.171765+00:00",
+  "last_collected_at": "2026-11-05T19:00:24.435175+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "287999",
   "name": "실내공기질 관리법",
   "payload_law_id": "000161",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "0e1d4d92f9f48ebd"
@@ -11614,13 +11623,14 @@
   "version_signature": "32b12a72d63f0d29"
  },
  "law:eflaw:001454": {
+  "attempt_run": "01a1ad12-ac8",
   "attempts": 0,
   "body_stats": {
    "articles": 65,
    "chars": 26806
   },
-  "collected_signature": "f62b59160a205610",
-  "content_hash": "8f9cd8bb80dac6f791f099b4c94343a35c1f6124697b310e5b735aa6d0c78c13",
+  "collected_signature": "17f23daa1260ea9b",
+  "content_hash": "730288818cc3ddf597c2be7b9722bfecb7305685e67ad4c134cf1809752fa9dd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289723&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "001454",
@@ -11630,8 +11640,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:23:07.933927+00:00",
-  "last_collected_at": "2026-09-15T16:28:01.178178+00:00",
+  "last_checked_at": "2026-11-05T18:57:27.838827+00:00",
+  "last_collected_at": "2026-11-05T19:03:44.944979+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "지식재산처",
   "mst": "289723",
@@ -11639,6 +11649,7 @@
   "payload_law_id": "001454",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "17f23daa1260ea9b"
@@ -16262,13 +16273,14 @@
   "version_signature": "852983d835e428a1"
  },
  "law:eflaw:001805": {
+  "attempt_run": "01a1ad12-ac4",
   "attempts": 0,
   "body_stats": {
    "articles": 152,
    "chars": 77312
   },
-  "collected_signature": "1f31473a45fcf714",
-  "content_hash": "6e04fb3f5b50926d901ef82b7fcc4b62b39773f9f58a793561ddbf6e0c5e8542",
+  "collected_signature": "d59554d72abdf87c",
+  "content_hash": "08417960267c4ff383277493a01a26d4bf9ef9276a627d83ceeac3b9f913c579",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282007&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "001805",
@@ -16278,8 +16290,8 @@
   "enforcement_date": "20261231",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:10:19.148175+00:00",
-  "last_collected_at": "2026-10-08T01:17:59.846159+00:00",
+  "last_checked_at": "2026-11-05T18:57:25.651420+00:00",
+  "last_collected_at": "2026-11-05T19:05:28.866127+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "282007",
@@ -16287,8 +16299,9 @@
   "payload_law_id": "001805",
   "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "d59554d72abdf87c"
  },
  "law:eflaw:001807": {
@@ -30469,8 +30482,14 @@
   "version_signature": "65d597bf0dff1a8f"
  },
  "law:eflaw:004097": {
-  "collected_signature": "91179b0cbb1c85e6",
-  "content_hash": "a2868693a1309c07aa321b109ccfd7a40a8e224015fc84d90224496660d3a904",
+  "attempt_run": "01a1ad12-acb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 89,
+   "chars": 37628
+  },
+  "collected_signature": "d4819a13e36edf6f",
+  "content_hash": "1c4f69ca1c479d08447b53d873339cb063c83d9f8526305e54ac3aaaf69496b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288767&type=HTML&mobileYn=&efYd=20280701",
   "doc_domain": "law",
   "doc_id": "004097",
@@ -30478,15 +30497,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "91179b0cbb1c85e6",
   "enforcement_date": "20280701",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T08:53:44.971326+00:00",
-  "last_collected_at": "2026-08-24T09:11:21.343151+00:00",
+  "last_checked_at": "2026-11-05T18:57:26.376946+00:00",
+  "last_collected_at": "2026-11-05T19:05:52.452549+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "288767",
   "name": "식품위생법 시행령",
   "payload_law_id": "004097",
+  "prev_name": null,
   "promulgation_date": "20260818",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d4819a13e36edf6f"
@@ -30654,13 +30676,14 @@
   "version_signature": "e4d33b624a70c4b6"
  },
  "law:eflaw:004119": {
+  "attempt_run": "01a1ad12-ac2",
   "attempts": 0,
   "body_stats": {
    "articles": 11,
    "chars": 11839
   },
-  "collected_signature": "f96121084a44d609",
-  "content_hash": "5370f977d797196d0e9c12d47fd1f88b5358ea8204fb8d9b9642c46142688014",
+  "collected_signature": "070ad2c9d5f1de16",
+  "content_hash": "851efabec852de639b03cd412cfd88a8aef794d5d749cfdca56b9fb56a0ed187",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291167&type=HTML&mobileYn=&efYd=20261221",
   "doc_domain": "law",
   "doc_id": "004119",
@@ -30670,8 +30693,8 @@
   "enforcement_date": "20261221",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:26:52.019067+00:00",
-  "last_collected_at": "2026-10-13T15:31:47.678363+00:00",
+  "last_checked_at": "2026-11-05T18:57:29.788134+00:00",
+  "last_collected_at": "2026-11-05T19:04:56.282139+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "지식재산처",
   "mst": "291167",
@@ -30679,6 +30702,7 @@
   "payload_law_id": "004119",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "070ad2c9d5f1de16"
@@ -80358,13 +80382,14 @@
   "version_signature": "a8f614004bb58b01"
  },
  "law:eflaw:010607": {
+  "attempt_run": "01a1ad12-ac0",
   "attempts": 0,
   "body_stats": {
    "articles": 57,
    "chars": 29487
   },
-  "collected_signature": "7cc5d4c72083906f",
-  "content_hash": "eea178170654910cb6a2d74820da84fff2d1e6908bb826653eb7825ad650b935",
+  "collected_signature": "26be1be58bc686fa",
+  "content_hash": "1d70f467003fa8502c0b348e6c0239eccc2e3b2c350a00aaa834f22325ee79f0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285931&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "010607",
@@ -80374,8 +80399,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:16:24.300049+00:00",
-  "last_collected_at": "2026-10-01T16:19:36.461892+00:00",
+  "last_checked_at": "2026-11-05T18:57:24.787113+00:00",
+  "last_collected_at": "2026-11-05T19:00:36.257206+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "농림축산식품부",
   "mst": "285931",
@@ -80383,6 +80408,7 @@
   "payload_law_id": "010607",
   "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "26be1be58bc686fa"
