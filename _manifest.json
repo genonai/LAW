@@ -8038,13 +8038,14 @@
   "version_signature": "bcdd3d117806f23e"
  },
  "law:eflaw:001015": {
+  "attempt_run": "01a1ad46-8b8",
   "attempts": 0,
   "body_stats": {
    "articles": 52,
    "chars": 22251
   },
-  "collected_signature": "c8ed0be7f5bb1d58",
-  "content_hash": "ea33a3b89c9444de8d90fe25250513ad3c376c79a1a0ec6d3839ef1084e772b5",
+  "collected_signature": "10a2b51971927544",
+  "content_hash": "1ae8d24a5b5f976b15f228c0db95a0ceb1d2b7f1467831a5f23c2506ba351b79",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291157&type=HTML&mobileYn=&efYd=20270414",
   "doc_domain": "law",
   "doc_id": "001015",
@@ -8054,8 +8055,8 @@
   "enforcement_date": "20270414",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:26:52.019841+00:00",
-  "last_collected_at": "2026-10-13T15:30:00.655999+00:00",
+  "last_checked_at": "2026-11-05T19:54:05.092173+00:00",
+  "last_collected_at": "2026-11-05T19:57:47.834307+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "291157",
@@ -8063,6 +8064,7 @@
   "payload_law_id": "001015",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "10a2b51971927544"
@@ -65846,8 +65848,14 @@
   "version_signature": "4225a3dcb14d7095"
  },
  "law:eflaw:009621": {
-  "collected_signature": "3fd018a5499358ab",
-  "content_hash": "93c926e711a974da9383149ff53535179ec127c0902e535c20d29907eb3513db",
+  "attempt_run": "01a1ad46-8b3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 23130
+  },
+  "collected_signature": "d24cd0165fd33285",
+  "content_hash": "5a91fef84ada37bd1f32e8d5cd72516239d5e79442511d26e7255682ea1f000e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286061&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "009621",
@@ -65855,17 +65863,20 @@
   "doc_type": "법률",
   "emitted_signature": "3fd018a5499358ab",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:13:14.709058+00:00",
-  "last_collected_at": "2026-08-24T16:18:56.111915+00:00",
+  "last_checked_at": "2026-11-05T19:54:05.989034+00:00",
+  "last_collected_at": "2026-11-05T19:57:56.780417+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "286061",
   "name": "유아교육법",
   "payload_law_id": "009621",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d24cd0165fd33285"
  },
  "law:eflaw:009622": {
@@ -74054,13 +74065,14 @@
   "version_signature": "586e4a93b2d09b2b"
  },
  "law:eflaw:010197": {
+  "attempt_run": "01a1ad46-8a9",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 18060
   },
-  "collected_signature": "2048d481b61d6e2e",
-  "content_hash": "8236a040804152c06e8ec6996f054ede1a493a05808afbc7710566a9786a4074",
+  "collected_signature": "0292d7cb8afa4d7b",
+  "content_hash": "d5852ce3fc4f6d6b8d5fea87262fde41d024814c4372f0a9829ce91794b69728",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291257&type=HTML&mobileYn=&efYd=20271021",
   "doc_domain": "law",
   "doc_id": "010197",
@@ -74070,8 +74082,8 @@
   "enforcement_date": "20271021",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:55:02.859940+00:00",
-  "last_collected_at": "2026-10-20T15:56:25.955638+00:00",
+  "last_checked_at": "2026-11-05T19:54:04.143862+00:00",
+  "last_collected_at": "2026-11-05T19:55:10.668021+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "문화체육관광부",
   "mst": "291257",
@@ -74079,6 +74091,7 @@
   "payload_law_id": "010197",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "0292d7cb8afa4d7b"
@@ -92357,13 +92370,14 @@
   "version_signature": "82ff4ac1256726de"
  },
  "law:eflaw:011435": {
+  "attempt_run": "01a1ad46-8ac",
   "attempts": 0,
   "body_stats": {
    "articles": 161,
    "chars": 76851
   },
-  "collected_signature": "b6ca5d8e81c9c014",
-  "content_hash": "921126ec77d41c6ebf2e76e671ef567a0e6fb3e972b7b2f8b3620a86cacb008b",
+  "collected_signature": "f2b7643b3606e838",
+  "content_hash": "87565dd9ee0881a506456b24a461029d09870d46dcb5648f015c7f1d0155d36d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286119&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "011435",
@@ -92373,8 +92387,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:34:37.219810+00:00",
-  "last_collected_at": "2026-09-15T16:43:47.813803+00:00",
+  "last_checked_at": "2026-11-05T19:54:08.194607+00:00",
+  "last_collected_at": "2026-11-05T20:03:51.697763+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "원자력안전위원회",
   "mst": "286119",
@@ -92382,8 +92396,9 @@
   "payload_law_id": "011435",
   "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "f2b7643b3606e838"
  },
  "law:eflaw:011436": {
@@ -99153,9 +99168,14 @@
   "version_signature": "e11c6b1d91070b44"
  },
  "law:eflaw:011880": {
+  "attempt_run": "01a1ad46-8b5",
   "attempts": 0,
-  "collected_signature": "6074ecc75683e3da",
-  "content_hash": "cb211c1d8ab9007eca1fe94273e5a1d15f1f2411b8b3f047f0966a0829e1fd83",
+  "body_stats": {
+   "articles": 175,
+   "chars": 83776
+  },
+  "collected_signature": "73d1908c14b11477",
+  "content_hash": "03823b8e5fb39e8f9c76046a128c4c416f98aede54112074c7f2bf8ac6e35aec",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=262137&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "011880",
@@ -99163,15 +99183,18 @@
   "doc_type": "총리령",
   "emitted_signature": "6074ecc75683e3da",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:41:33.005775+00:00",
-  "last_collected_at": "2026-09-08T16:54:45.470543+00:00",
+  "last_checked_at": "2026-11-05T19:54:07.112067+00:00",
+  "last_collected_at": "2026-11-05T20:07:57.515309+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "원자력안전위원회",
   "mst": "262137",
   "name": "원자력안전법 시행규칙",
   "payload_law_id": "011880",
+  "prev_name": null,
   "promulgation_date": "20240425",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "73d1908c14b11477"
@@ -110984,8 +111007,14 @@
   "version_signature": "cee07197bce43533"
  },
  "law:eflaw:012863": {
-  "collected_signature": "6b69ad8de3c80c13",
-  "content_hash": "2d2fc40d9957c20a932ef16bf9459c178df86c75d405fbc7a448514b9e83480f",
+  "attempt_run": "01a1ad46-8b0",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 39,
+   "chars": 15951
+  },
+  "collected_signature": "75454b4ed3246d88",
+  "content_hash": "edb8afe33a7ec8de03c06102e3399e6ffae096ccb34e66712655775b5677dbb1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282011&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "012863",
@@ -110993,15 +111022,18 @@
   "doc_type": "법률",
   "emitted_signature": "6b69ad8de3c80c13",
   "enforcement_date": "20261231",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T15:39:23.083384+00:00",
-  "last_collected_at": "2026-08-24T15:42:34.944738+00:00",
+  "last_checked_at": "2026-11-05T19:54:04.566802+00:00",
+  "last_collected_at": "2026-11-05T19:56:13.335336+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "282011",
   "name": "위생용품 관리법",
   "payload_law_id": "012863",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "75454b4ed3246d88"
