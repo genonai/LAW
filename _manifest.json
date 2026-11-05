@@ -3349,13 +3349,14 @@
   "version_signature": "286c69a19a781775"
  },
  "law:eflaw:000360": {
+  "attempt_run": "01a1acf8-211",
   "attempts": 0,
   "body_stats": {
    "articles": 59,
    "chars": 24745
   },
-  "collected_signature": "ed5ca3306382fe9e",
-  "content_hash": "610669bf2f5b524a13adca1ab15df8a5a838e88541b902932e5a5ebe76450d04",
+  "collected_signature": "dcf365fefc4b2dec",
+  "content_hash": "7c12a6a6d24f922385bc776c58e511a29f46481505d9ee37424218a596e757be",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286259&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "000360",
@@ -3365,8 +3366,8 @@
   "enforcement_date": "20261127",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:12:48.146810+00:00",
-  "last_collected_at": "2026-09-29T18:15:23.569648+00:00",
+  "last_checked_at": "2026-11-05T18:28:25.243829+00:00",
+  "last_collected_at": "2026-11-05T18:31:12.764013+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "286259",
@@ -3374,8 +3375,9 @@
   "payload_law_id": "000360",
   "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "dcf365fefc4b2dec"
  },
  "law:eflaw:000370": {
@@ -5175,8 +5177,14 @@
   "version_signature": "252515abf71a5eef"
  },
  "law:eflaw:000751": {
-  "collected_signature": "3dca3f170d4bc102",
-  "content_hash": "06f451544da6af27531eaa8208c2825713801d5aa65f0db1933e880f57dddbe5",
+  "attempt_run": "01a1acf8-213",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 81,
+   "chars": 30898
+  },
+  "collected_signature": "aac9bc8295085f2e",
+  "content_hash": "8767aac53f191faa4216175230ad34579af5a893f41e24dd02c101103bf9b038",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288697&type=HTML&mobileYn=&efYd=20270212",
   "doc_domain": "law",
   "doc_id": "000751",
@@ -5184,15 +5192,18 @@
   "doc_type": "법률",
   "emitted_signature": "3dca3f170d4bc102",
   "enforcement_date": "20270212",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:07:01.389778+00:00",
-  "last_collected_at": "2026-08-24T06:13:07.463632+00:00",
+  "last_checked_at": "2026-11-05T18:28:26.297266+00:00",
+  "last_collected_at": "2026-11-05T18:30:58.630312+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "288697",
   "name": "소프트웨어 진흥법",
   "payload_law_id": "000751",
+  "prev_name": null,
   "promulgation_date": "20260811",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "aac9bc8295085f2e"
@@ -9502,8 +9513,14 @@
   "version_signature": "bb2a3b4b94e87220"
  },
  "law:eflaw:001219": {
-  "collected_signature": "c3a741277c06b2f3",
-  "content_hash": "15cbed1bbccf98c9a1685ece6d39a8c0ff2dfb2f5e96d9b481755533a01e5aef",
+  "attempt_run": "01a1acf8-220",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 4472
+  },
+  "collected_signature": "273688aa95126e63",
+  "content_hash": "093f5605e05bc96fd2c6022d8ad320dc0c7321462de1d5365a320bb2af25e270",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284421&type=HTML&mobileYn=&efYd=20280301",
   "doc_domain": "law",
   "doc_id": "001219",
@@ -9511,15 +9528,18 @@
   "doc_type": "법률",
   "emitted_signature": "c3a741277c06b2f3",
   "enforcement_date": "20280301",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:00:26.398076+00:00",
-  "last_collected_at": "2026-08-24T06:01:06.290912+00:00",
+  "last_checked_at": "2026-11-05T18:28:28.561951+00:00",
+  "last_collected_at": "2026-11-05T18:29:15.535687+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "284421",
   "name": "소액사건심판법",
   "payload_law_id": "001219",
+  "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "273688aa95126e63"
@@ -17623,8 +17643,14 @@
   "version_signature": "6d74a6b14cb1da09"
  },
  "law:eflaw:001987": {
-  "collected_signature": "d37005ff3b125853",
-  "content_hash": "741fc0e732abe227e9e0c79f40800ef65c72babc5a01ca371330529b3ce1303c",
+  "attempt_run": "01a1acf8-21a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 93,
+   "chars": 24340
+  },
+  "collected_signature": "cbbd2d13d556b383",
+  "content_hash": "593e480934f9ab304acff466b2856fd92e77acd39cce2580fd71d2bc0a6cb6ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285953&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "001987",
@@ -17632,15 +17658,18 @@
   "doc_type": "법률",
   "emitted_signature": "d37005ff3b125853",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:49:39.386849+00:00",
-  "last_collected_at": "2026-08-24T05:54:42.182220+00:00",
+  "last_checked_at": "2026-11-05T18:28:27.038278+00:00",
+  "last_collected_at": "2026-11-05T18:30:21.189586+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "공정거래위원회",
   "mst": "285953",
   "name": "소비자생활협동조합법",
   "payload_law_id": "001987",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "cbbd2d13d556b383"
@@ -112136,8 +112165,14 @@
   "version_signature": "b52643a0a09a4449"
  },
  "law:eflaw:013050": {
-  "collected_signature": "42dd2e60df8dfef7",
-  "content_hash": "5e6823114c81ae67b5b071197f6855fd5b64491b709a1085ce4629b445eebb0d",
+  "attempt_run": "01a1acf8-215",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 16769
+  },
+  "collected_signature": "effe107a5f2dba62",
+  "content_hash": "17cdd5b1588177ba8e8cdbba28860eb9ef8981153df45edb207288e07dad2461",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286461&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "013050",
@@ -112145,15 +112180,18 @@
   "doc_type": "법률",
   "emitted_signature": "42dd2e60df8dfef7",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:46:30.404436+00:00",
-  "last_collected_at": "2026-08-24T05:48:25.576594+00:00",
+  "last_checked_at": "2026-11-05T18:28:25.698867+00:00",
+  "last_collected_at": "2026-11-05T18:30:42.746178+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청",
   "mst": "286461",
   "name": "소방장비관리법",
   "payload_law_id": "013050",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "effe107a5f2dba62"
@@ -116482,12 +116520,13 @@
   "version_signature": "dcb16b5cb30efb27"
  },
  "law:eflaw:013671": {
+  "attempt_run": "01a1acf8-21d",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 7936
   },
-  "collected_signature": "3923fa2d1b92a126",
+  "collected_signature": "7f80b0a2678b8008",
   "content_hash": "ab63e510e03ba18f12c52291fe5aa96d645529086d5582c90e18efcb515ba695",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290201&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
@@ -116498,8 +116537,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:36:39.015296+00:00",
-  "last_collected_at": "2026-10-20T15:37:43.753134+00:00",
+  "last_checked_at": "2026-11-05T18:28:29.371154+00:00",
+  "last_collected_at": "2026-11-05T18:29:27.366156+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290201",
@@ -116507,8 +116546,9 @@
   "payload_law_id": "013671",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7f80b0a2678b8008"
  },
  "law:eflaw:013672": {
