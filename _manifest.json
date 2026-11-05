@@ -2972,8 +2972,14 @@
   "version_signature": "e0d31edfbaae184e"
  },
  "law:eflaw:000298": {
-  "collected_signature": "58f08a0166da5da2",
-  "content_hash": "5a0d0dcdd274c302efc201c832a006f8d9452eb93d9c9986253c439c063b5249",
+  "attempt_run": "01a1ad32-f0d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 3305
+  },
+  "collected_signature": "eec77285863bc25a",
+  "content_hash": "a21596736a48fb90488ebddf7cb577709d763f05c79e909878c1c549d3154df1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=242977&type=HTML&mobileYn=&efYd=20270531",
   "doc_domain": "law",
   "doc_id": "000298",
@@ -2981,15 +2987,18 @@
   "doc_type": "법률",
   "emitted_signature": "58f08a0166da5da2",
   "enforcement_date": "20270531",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T12:05:24.693416+00:00",
-  "last_collected_at": "2026-08-24T12:09:12.032475+00:00",
+  "last_checked_at": "2026-11-05T19:32:43.271207+00:00",
+  "last_collected_at": "2026-11-05T19:34:00.890376+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "242977",
   "name": "에너지 및 자원사업 특별회계법",
   "payload_law_id": "000298",
+  "prev_name": null,
   "promulgation_date": "20220610",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "eec77285863bc25a"
@@ -15620,8 +15629,14 @@
   "version_signature": "9c66aa5d98ebc4c3"
  },
  "law:eflaw:001749": {
-  "collected_signature": "368f0361d83c06ba",
-  "content_hash": "68a17f4cb867eec55a76f96202b076c78773c5c28d68c1ac057295b91c59a1f5",
+  "attempt_run": "01a1ad32-f0b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 141,
+   "chars": 75558
+  },
+  "collected_signature": "880416deb115adaf",
+  "content_hash": "4d3181e7289bb4f76c9544a6dff0ba78d2123f88f1383b2cb8a8eed5dff10f3e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286391&type=HTML&mobileYn=&efYd=20261130",
   "doc_domain": "law",
   "doc_id": "001749",
@@ -15629,17 +15644,20 @@
   "doc_type": "법률",
   "emitted_signature": "368f0361d83c06ba",
   "enforcement_date": "20261130",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T12:17:43.822732+00:00",
-  "last_collected_at": "2026-08-24T12:32:52.144874+00:00",
+  "last_checked_at": "2026-11-05T19:32:42.063102+00:00",
+  "last_collected_at": "2026-11-05T19:37:50.638740+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286391",
   "name": "여객자동차 운수사업법",
   "payload_law_id": "001749",
+  "prev_name": null,
   "promulgation_date": "20260529",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "880416deb115adaf"
  },
  "law:eflaw:001751": {
@@ -65594,9 +65612,14 @@
   "version_signature": "b18855c40debf8af"
  },
  "law:eflaw:009600": {
+  "attempt_run": "01a1ad32-f08",
   "attempts": 0,
-  "collected_signature": "7c60aa44f638f375",
-  "content_hash": "00c9d9c664996ccdf33e5623987c1acff27280c58813a0f95617ab675021aac0",
+  "body_stats": {
+   "articles": 30,
+   "chars": 7907
+  },
+  "collected_signature": "780140047bb6759c",
+  "content_hash": "27e51eb1c613e22bdf26f706c846967fcb72453edd577b574d7ff013d9aeae6d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289829&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "009600",
@@ -65606,8 +65629,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-11T15:49:26.101565+00:00",
-  "last_collected_at": "2026-09-11T15:52:20.677856+00:00",
+  "last_checked_at": "2026-11-05T19:32:40.550115+00:00",
+  "last_collected_at": "2026-11-05T19:35:17.536990+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289829",
@@ -65615,6 +65638,7 @@
   "payload_law_id": "009600",
   "prev_name": null,
   "promulgation_date": "20260911",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "780140047bb6759c"
@@ -70034,8 +70058,14 @@
   "version_signature": "89c7cf4ef4cc755b"
  },
  "law:eflaw:009943": {
-  "collected_signature": "9a2aa92899d6574a",
-  "content_hash": "f1f54e5eecfa5cbade06e70dd46969ebb2187530cde4608a2c79e74f524bcebb",
+  "attempt_run": "01a1ad32-f12",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 84,
+   "chars": 38434
+  },
+  "collected_signature": "00d1fa3a6038af02",
+  "content_hash": "03314604b159b8f4acdb0a973d1bb07b5d886eb51057f387774bdb2987eaff5c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285483&type=HTML&mobileYn=&efYd=20270422",
   "doc_domain": "law",
   "doc_id": "009943",
@@ -70043,15 +70073,18 @@
   "doc_type": "법률",
   "emitted_signature": "9a2aa92899d6574a",
   "enforcement_date": "20270422",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:58:35.962066+00:00",
-  "last_collected_at": "2026-08-24T12:04:20.479031+00:00",
+  "last_checked_at": "2026-11-05T19:32:41.159311+00:00",
+  "last_collected_at": "2026-11-05T19:36:37.616460+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "285483",
   "name": "어촌ㆍ어항법",
   "payload_law_id": "009943",
+  "prev_name": null,
   "promulgation_date": "20260421",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "00d1fa3a6038af02"
@@ -114032,13 +114065,14 @@
   "version_signature": "6e78b204dbc32ed6"
  },
  "law:eflaw:013219": {
+  "attempt_run": "01a1ad32-f10",
   "attempts": 0,
   "body_stats": {
    "articles": 23,
    "chars": 7125
   },
-  "collected_signature": "46d29f0133cb8ea6",
-  "content_hash": "154453cbedc617aa40b68fcf1943e89ea429e9bf81b1d80ffe117b7fbd818faf",
+  "collected_signature": "4ce7e57889819caf",
+  "content_hash": "9057e56ebce9fd679fcbed35f81d5f659daa6cbbaaeff035d2475b6845d58fe2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286783&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "013219",
@@ -114048,8 +114082,8 @@
   "enforcement_date": "20261210",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:07:39.035763+00:00",
-  "last_collected_at": "2026-10-02T19:08:33.662778+00:00",
+  "last_checked_at": "2026-11-05T19:32:39.839363+00:00",
+  "last_collected_at": "2026-11-05T19:33:28.935678+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "286783",
@@ -114057,6 +114091,7 @@
   "payload_law_id": "013219",
   "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4ce7e57889819caf"
@@ -119312,8 +119347,14 @@
   "version_signature": "f05d5cbaf8fd14d3"
  },
  "law:eflaw:013852": {
-  "collected_signature": "85455cc873cddf11",
-  "content_hash": "208eab38780d44d0669498773f05881d4cd639988be965412e71a22091326496",
+  "attempt_run": "01a1ad32-f06",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 12431
+  },
+  "collected_signature": "3674146e5061aa53",
+  "content_hash": "5418dc744258ee7ab1998b613a3876f2d505592ede38055fae217bfedd78f54b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285749&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "013852",
@@ -119321,15 +119362,18 @@
   "doc_type": "해양수산부령",
   "emitted_signature": "85455cc873cddf11",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:41:53.873288+00:00",
-  "last_collected_at": "2026-08-24T11:49:36.257562+00:00",
+  "last_checked_at": "2026-11-05T19:32:39.459796+00:00",
+  "last_collected_at": "2026-11-05T19:35:14.554766+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "285749",
   "name": "어선안전조업 및 어선원의 안전ㆍ보건 증진 등에 관한 법률 시행규칙",
   "payload_law_id": "013852",
+  "prev_name": null,
   "promulgation_date": "20260424",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3674146e5061aa53"
