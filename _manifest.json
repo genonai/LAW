@@ -16030,13 +16030,14 @@
   "version_signature": "12887f98d5159d13"
  },
  "law:eflaw:001783": {
+  "attempt_run": "01a1ad23-437",
   "attempts": 0,
   "body_stats": {
    "articles": 222,
    "chars": 132358
   },
-  "collected_signature": "024f17ed69259d9a",
-  "content_hash": "fd11fac5b5da99a710582f504151ae7d8530e2dbf5139d0f41cefd0fe59e2f6e",
+  "collected_signature": "ca5e8bba7c0b1a21",
+  "content_hash": "03dcc0c397870ac25c95e59f6d9b41cd1c5ce0cbc245e5ac15a20d6bf524c5e9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286219&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "001783",
@@ -16046,8 +16047,8 @@
   "enforcement_date": "20261112",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:43:32.202891+00:00",
-  "last_collected_at": "2026-10-20T15:54:05.556745+00:00",
+  "last_checked_at": "2026-11-05T19:15:33.876324+00:00",
+  "last_collected_at": "2026-11-05T19:27:39.751400+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "286219",
@@ -16055,8 +16056,9 @@
   "payload_law_id": "001783",
   "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 7,
+  "version_count": 1,
   "version_signature": "ca5e8bba7c0b1a21"
  },
  "law:eflaw:001784": {
@@ -16692,8 +16694,14 @@
   "version_signature": "6dc19c2855fb87ce"
  },
  "law:eflaw:001849": {
-  "collected_signature": "a71fa673a73d0e48",
-  "content_hash": "e63f837e891584a797081495d1966971da55f3a67d1b4e76344d7511b535c584",
+  "attempt_run": "01a1ad23-435",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 88,
+   "chars": 48703
+  },
+  "collected_signature": "691c8973d4b62836",
+  "content_hash": "369a6c823f77fb2c3824bf976cd2d74dd3d6e447ba7e9c4fa338918cda9a2819",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281893&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "001849",
@@ -16701,15 +16709,18 @@
   "doc_type": "법률",
   "emitted_signature": "a71fa673a73d0e48",
   "enforcement_date": "20261231",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:43:27.626468+00:00",
-  "last_collected_at": "2026-08-24T10:49:31.872536+00:00",
+  "last_checked_at": "2026-11-05T19:15:32.406238+00:00",
+  "last_collected_at": "2026-11-05T19:19:40.976031+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "281893",
   "name": "액화석유가스의 안전관리 및 사업법",
   "payload_law_id": "001849",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "691c8973d4b62836"
@@ -66675,8 +66686,14 @@
   "version_signature": "c9cb08b00f11a005"
  },
  "law:eflaw:009680": {
-  "collected_signature": "cefc384537a2419d",
-  "content_hash": "d067c57c4d3626ddbf4614eb09d81d50e1f9ce8d482cb474932f407d37bba8ed",
+  "attempt_run": "01a1ad23-431",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 39,
+   "chars": 16321
+  },
+  "collected_signature": "3a1491726f3347e5",
+  "content_hash": "05c4aa4043d1fd6c8effb9123ad4b9a72eb377857091e66cf903aca2dab6d9eb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288001&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "009680",
@@ -66684,15 +66701,18 @@
   "doc_type": "법률",
   "emitted_signature": "cefc384537a2419d",
   "enforcement_date": "20270108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:38:36.935446+00:00",
-  "last_collected_at": "2026-08-24T10:41:03.215544+00:00",
+  "last_checked_at": "2026-11-05T19:15:32.020971+00:00",
+  "last_collected_at": "2026-11-05T19:16:52.873289+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288001",
   "name": "악취방지법",
   "payload_law_id": "009680",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3a1491726f3347e5"
@@ -66744,8 +66764,14 @@
   "version_signature": "ab8184748e810f78"
  },
  "law:eflaw:009683": {
-  "collected_signature": "c34086714de44c1d",
-  "content_hash": "03c437e258e2b6c14227d0dbbc2ee95b144df01e56fc6e159a4865fea54f3d17",
+  "attempt_run": "01a1ad23-439",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 139,
+   "chars": 74624
+  },
+  "collected_signature": "5742ccef908cdb34",
+  "content_hash": "0fee39f8a1d7e8d07e41bee99453f7462e5343a53afc634792622726136bf756",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286743&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "009683",
@@ -66753,15 +66779,18 @@
   "doc_type": "법률",
   "emitted_signature": "c34086714de44c1d",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:49:52.080557+00:00",
-  "last_collected_at": "2026-08-24T11:07:06.693424+00:00",
+  "last_checked_at": "2026-11-05T19:15:33.186776+00:00",
+  "last_collected_at": "2026-11-05T19:22:48.126125+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "286743",
   "name": "야생생물 보호 및 관리에 관한 법률",
   "payload_law_id": "009683",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "5742ccef908cdb34"
@@ -115471,8 +115500,14 @@
   "version_signature": "f83de9d96bb86e25"
  },
  "law:eflaw:013570": {
-  "collected_signature": "b2c78e87094f36dc",
-  "content_hash": "bb2ed3a81c00bc0fb9b709027e04975175aff22e6c47da75c8132322a4894892",
+  "attempt_run": "01a1ad23-43b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 5748
+  },
+  "collected_signature": "707d2003752ee746",
+  "content_hash": "1589eeabbad5fcf7b452629e88e82f655cdf782855728d89b70d226e41501f5b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286923&type=HTML&mobileYn=&efYd=20270617",
   "doc_domain": "law",
   "doc_id": "013570",
@@ -115480,15 +115515,18 @@
   "doc_type": "법률",
   "emitted_signature": "b2c78e87094f36dc",
   "enforcement_date": "20270617",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:15:06.575204+00:00",
-  "last_collected_at": "2026-08-24T11:21:01.323516+00:00",
+  "last_checked_at": "2026-11-05T19:15:35.236651+00:00",
+  "last_collected_at": "2026-11-05T19:16:25.770927+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "농림축산식품부",
   "mst": "286923",
   "name": "양봉산업의 육성 및 지원에 관한 법률",
   "payload_law_id": "013570",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "707d2003752ee746"
@@ -115572,13 +115610,14 @@
   "version_signature": "e443c8070ece6788"
  },
  "law:eflaw:013574": {
+  "attempt_run": "01a1ad23-433",
   "attempts": 0,
   "body_stats": {
    "articles": 89,
    "chars": 36430
   },
-  "collected_signature": "99c6bca001217229",
-  "content_hash": "97deb60de284aa6ddcf2a0a315d4b791d30ffe4a385056928369dd8075277496",
+  "collected_signature": "e0151f921df2908b",
+  "content_hash": "306676f6e8439cada5b0ceba6db49ad4933e17da2f1067268c3b40eaa8fa7c65",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281971&type=HTML&mobileYn=&efYd=20261231",
   "doc_domain": "law",
   "doc_id": "013574",
@@ -115588,8 +115627,8 @@
   "enforcement_date": "20261231",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:40:03.106029+00:00",
-  "last_collected_at": "2026-10-01T16:43:44.264810+00:00",
+  "last_checked_at": "2026-11-05T19:15:36.063742+00:00",
+  "last_collected_at": "2026-11-05T19:21:02.694595+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "281971",
@@ -115597,8 +115636,9 @@
   "payload_law_id": "013574",
   "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "e0151f921df2908b"
  },
  "law:eflaw:013575": {
