@@ -8389,13 +8389,14 @@
   "version_signature": "52bcdfa43a380b35"
  },
  "law:eflaw:001123": {
+  "attempt_run": "01a1ac90-7dc",
   "attempts": 0,
   "body_stats": {
    "articles": 116,
    "chars": 26792
   },
-  "collected_signature": "7eef3a3521f6938d",
-  "content_hash": "c649444025cd0a762f58bd9bc464a9993766a5cc7c71a0d70dc9ab89121bb8dc",
+  "collected_signature": "fec0cbb2e5ff5cc5",
+  "content_hash": "81b58c0f100f8bc73939d85710cbbbbc453b0d4dd904ab779206d0e8f8fd37f6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289907&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "001123",
@@ -8405,8 +8406,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:03:26.901549+00:00",
-  "last_collected_at": "2026-10-02T18:06:39.554940+00:00",
+  "last_checked_at": "2026-11-05T16:35:15.265406+00:00",
+  "last_collected_at": "2026-11-05T16:38:42.183380+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "289907",
@@ -8414,6 +8415,7 @@
   "payload_law_id": "001123",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "fec0cbb2e5ff5cc5"
@@ -27683,13 +27685,14 @@
   "version_signature": "51dffec4d82fa365"
  },
  "law:eflaw:003654": {
+  "attempt_run": "01a1ac90-7d6",
   "attempts": 0,
   "body_stats": {
    "articles": 146,
    "chars": 87312
   },
-  "collected_signature": "917e82e614c306fe",
-  "content_hash": "658a197008d58b49cb596182173848f348348b40f81dab2ba26bd704367d027a",
+  "collected_signature": "16f594b6371527a0",
+  "content_hash": "7153532fa4652c04eed0f65bbd2a15d17487fbbd6893f3caabd7c899835211bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285553&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "003654",
@@ -27699,8 +27702,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:03:27.234110+00:00",
-  "last_collected_at": "2026-10-02T18:15:12.741284+00:00",
+  "last_checked_at": "2026-11-05T16:35:16.453724+00:00",
+  "last_collected_at": "2026-11-05T16:43:14.630894+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "금융위원회",
   "mst": "285553",
@@ -27708,6 +27711,7 @@
   "payload_law_id": "003654",
   "prev_name": null,
   "promulgation_date": "20260421",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "16f594b6371527a0"
@@ -92468,9 +92472,14 @@
   "version_signature": "3c4515d3f1ff5b84"
  },
  "law:eflaw:011460": {
+  "attempt_run": "01a1ac90-7db",
   "attempts": 0,
-  "collected_signature": "73b59ea5d6e35920",
-  "content_hash": "27c9ace0d5249b130368e845e4f1a1ed16da17be2cdb688bc44f79f565c7cb5e",
+  "body_stats": {
+   "articles": 88,
+   "chars": 36907
+  },
+  "collected_signature": "bedcbb5f61f1d979",
+  "content_hash": "028b0eaa802e49f09f9616fea6ef45ff12d153f18410ff03e3e15e2529234b40",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289311&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "011460",
@@ -92478,17 +92487,20 @@
   "doc_type": "법률",
   "emitted_signature": "73b59ea5d6e35920",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:10:15.605043+00:00",
-  "last_collected_at": "2026-09-08T16:15:41.047714+00:00",
+  "last_checked_at": "2026-11-05T16:35:13.700326+00:00",
+  "last_collected_at": "2026-11-05T16:39:20.484891+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국가보훈부",
   "mst": "289311",
   "name": "보훈보상대상자 지원에 관한 법률",
   "payload_law_id": "011460",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bedcbb5f61f1d979"
  },
  "law:eflaw:011462": {
@@ -106576,9 +106588,14 @@
   "version_signature": "6db89e7844750612"
  },
  "law:eflaw:012480": {
+  "attempt_run": "01a1ac90-7dd",
   "attempts": 0,
-  "collected_signature": "cfdcabddcfde51ae",
-  "content_hash": "9c482135dd35de15d71f0ce416ea071b12d3fb82a3d3b4b93ed5d5db0f01d1de",
+  "body_stats": {
+   "articles": 40,
+   "chars": 19959
+  },
+  "collected_signature": "d2643bf58043b9fb",
+  "content_hash": "d22ed13deb7bfae3580caa54069ffe153ea46cc7f90accc12b0e31cbd42d8410",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289317&type=HTML&mobileYn=&efYd=20261209",
   "doc_domain": "law",
   "doc_id": "012480",
@@ -106586,17 +106603,20 @@
   "doc_type": "법률",
   "emitted_signature": "cfdcabddcfde51ae",
   "enforcement_date": "20261209",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:10:16.821601+00:00",
-  "last_collected_at": "2026-09-08T16:13:09.266738+00:00",
+  "last_checked_at": "2026-11-05T16:35:17.274659+00:00",
+  "last_collected_at": "2026-11-05T16:37:59.178958+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289317",
   "name": "부동산 거래신고 등에 관한 법률",
   "payload_law_id": "012480",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "d2643bf58043b9fb"
  },
  "law:eflaw:012481": {
@@ -133888,8 +133908,14 @@
   "version_signature": "aa4d8316435d0172"
  },
  "law:eflaw:014887": {
-  "collected_signature": "98357ece43a8060d",
-  "content_hash": "7af73632cc909cd9d421198496ae270e667c9517bbfe84a4e28c0b4b2e8a8dfc",
+  "attempt_run": "01a1ac90-7df",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 9847
+  },
+  "collected_signature": "2a79d80144a12a02",
+  "content_hash": "b20675c2624f31d02fdd8038e9eedaf8fe00aa42663cb1ea4ca71587b6d0bc1f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285961&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "014887",
@@ -133897,17 +133923,20 @@
   "doc_type": "법률",
   "emitted_signature": "98357ece43a8060d",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T19:40:29.257575+00:00",
-  "last_collected_at": "2026-08-23T19:43:04.179847+00:00",
+  "last_checked_at": "2026-11-05T16:35:14.361934+00:00",
+  "last_collected_at": "2026-11-05T16:36:38.163667+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "285961",
   "name": "부동산개발사업 관리 등에 관한 법률",
   "payload_law_id": "014887",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2a79d80144a12a02"
  },
  "law:eflaw:014888": {
@@ -135189,8 +135218,14 @@
   "version_signature": "94ad39762100c283"
  },
  "law:eflaw:014981": {
-  "collected_signature": "417954113b57fe53",
-  "content_hash": "e30fc326721ad09350bf31159b0c33b68bf86105c850e883eebabf0082f4384f",
+  "attempt_run": "01a1ac90-7d8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 3,
+   "chars": 542
+  },
+  "collected_signature": "d13e4f3551a1a854",
+  "content_hash": "8011bb364ed1c0d4574b1dd561da0e4b51c3be809eac4fbca5adefcd8c7ff523",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280167&type=HTML&mobileYn=&efYd=20270528",
   "doc_domain": "law",
   "doc_id": "014981",
@@ -135198,15 +135233,18 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "417954113b57fe53",
   "enforcement_date": "20270528",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T19:40:31.108472+00:00",
-  "last_collected_at": "2026-08-23T19:42:28.232136+00:00",
+  "last_checked_at": "2026-11-05T16:35:13.197621+00:00",
+  "last_collected_at": "2026-11-05T16:35:46.236850+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "280167",
   "name": "부동산개발사업 관리 등에 관한 법률 시행규칙",
   "payload_law_id": "014981",
+  "prev_name": null,
   "promulgation_date": "20251127",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d13e4f3551a1a854"
