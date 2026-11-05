@@ -1530,8 +1530,14 @@
   "version_signature": "9f0b32e6c771970b"
  },
  "law:eflaw:000155": {
-  "collected_signature": "340649aba1f9fee1",
-  "content_hash": "dafd3e0ae80f7dc5ae9d07b7f4297eaed915cbdf68c962fa0a049414796e7cbe",
+  "attempt_run": "01a1ad92-cfb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 103,
+   "chars": 45535
+  },
+  "collected_signature": "234bc99094b3fb1e",
+  "content_hash": "99a36eb36f1e5e632b41eb0ac39283eb3730a629d461b26bf9c6d96562fda1d2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288017&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "000155",
@@ -1539,15 +1545,18 @@
   "doc_type": "법률",
   "emitted_signature": "340649aba1f9fee1",
   "enforcement_date": "20270108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:37:48.515111+00:00",
-  "last_collected_at": "2026-08-25T00:49:36.106449+00:00",
+  "last_checked_at": "2026-11-05T21:17:25.477505+00:00",
+  "last_collected_at": "2026-11-05T21:21:41.388159+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288017",
   "name": "자원의 절약과 재활용촉진에 관한 법률",
   "payload_law_id": "000155",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "234bc99094b3fb1e"
@@ -1769,13 +1778,14 @@
   "version_signature": "a2ece0f920fee850"
  },
  "law:eflaw:000169": {
+  "attempt_run": "01a1ad92-cf8",
   "attempts": 0,
   "body_stats": {
    "articles": 93,
    "chars": 50622
   },
-  "collected_signature": "da57fde2e6ee181e",
-  "content_hash": "66ec436a3f6083743dc9d9a5c22ef01ebe9af7f0a08af227a67a92d3d9752917",
+  "collected_signature": "4f424e37ceaa8daa",
+  "content_hash": "9f988750166041f2a26d18b458a8f33e7d4be067ef9116aca301ae4db3720f8b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284433&type=HTML&mobileYn=&efYd=20270318",
   "doc_domain": "law",
   "doc_id": "000169",
@@ -1785,8 +1795,8 @@
   "enforcement_date": "20270318",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-26T15:00:26.282648+00:00",
-  "last_collected_at": "2026-09-26T15:01:43.915973+00:00",
+  "last_checked_at": "2026-11-05T21:17:22.840694+00:00",
+  "last_collected_at": "2026-11-05T21:19:57.392497+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284433",
@@ -1794,6 +1804,7 @@
   "payload_law_id": "000169",
   "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4f424e37ceaa8daa"
@@ -11952,8 +11963,14 @@
   "version_signature": "9454223539043874"
  },
  "law:eflaw:001466": {
-  "collected_signature": "5e02e46928718b28",
-  "content_hash": "397139da7eb44693fd93f8358f98fec0dd1b2c876dc231564a0fdb43f4ace21e",
+  "attempt_run": "01a1ad92-cf1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 85,
+   "chars": 36926
+  },
+  "collected_signature": "4ef9723835266b0a",
+  "content_hash": "8c80235b18e704e598aa992a2f50a2a0a0eedb2eac2127804cd25c2672d73dd2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286291&type=HTML&mobileYn=&efYd=20270527",
   "doc_domain": "law",
   "doc_id": "001466",
@@ -11961,15 +11978,18 @@
   "doc_type": "법률",
   "emitted_signature": "5e02e46928718b28",
   "enforcement_date": "20270527",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:37:47.115666+00:00",
-  "last_collected_at": "2026-08-25T00:49:43.610723+00:00",
+  "last_checked_at": "2026-11-05T21:17:24.376351+00:00",
+  "last_collected_at": "2026-11-05T21:22:43.562240+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "286291",
   "name": "자유무역지역의 지정 및 운영에 관한 법률",
   "payload_law_id": "001466",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4ef9723835266b0a"
@@ -16687,8 +16707,14 @@
   "version_signature": "7fd537dce7c624ec"
  },
  "law:eflaw:001837": {
-  "collected_signature": "dd4f97eb5ee536bb",
-  "content_hash": "bb865836a177c639190de5e5be6358bb6a8374d35fd3a95be8f306187d9f25ed",
+  "attempt_run": "01a1ad92-cf5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 111,
+   "chars": 35481
+  },
+  "collected_signature": "5005d7515660d828",
+  "content_hash": "c1f8fa50eb36ae3e1b195badfb2cb1d905a1fc9c23531f61be14c193fac145c9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288003&type=HTML&mobileYn=&efYd=20270708",
   "doc_domain": "law",
   "doc_id": "001837",
@@ -16696,15 +16722,18 @@
   "doc_type": "법률",
   "emitted_signature": "dd4f97eb5ee536bb",
   "enforcement_date": "20270708",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:08:42.054152+00:00",
-  "last_collected_at": "2026-08-25T00:18:13.378633+00:00",
+  "last_checked_at": "2026-11-05T21:17:23.447222+00:00",
+  "last_collected_at": "2026-11-05T21:22:06.623122+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "288003",
   "name": "자연공원법",
   "payload_law_id": "001837",
+  "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "5005d7515660d828"
@@ -70932,8 +70961,14 @@
   "version_signature": "37760151fa084fd5"
  },
  "law:eflaw:010001": {
-  "collected_signature": "95acbf6a2d53f26a",
-  "content_hash": "353752471cf8f7cb7fe52514d014e0d52ae4ae54b7a33043a5f87e4e3702acae",
+  "attempt_run": "01a1ad92-cf7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 5559
+  },
+  "collected_signature": "7f21483057105564",
+  "content_hash": "6db876f15acf4ecedf57536cf50bf1ae4b0e9d5e7bc1e8a70cbe2c9bfa84a048",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286121&type=HTML&mobileYn=&efYd=20270520",
   "doc_domain": "law",
   "doc_id": "010001",
@@ -70941,9 +70976,10 @@
   "doc_type": "법률",
   "emitted_signature": "95acbf6a2d53f26a",
   "enforcement_date": "20270520",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T00:20:07.423579+00:00",
-  "last_collected_at": "2026-08-25T00:20:41.185630+00:00",
+  "last_checked_at": "2026-11-05T21:17:26.670828+00:00",
+  "last_collected_at": "2026-11-05T21:18:08.750705+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286121",
@@ -70952,13 +70988,16 @@
    "자원봉사활동 기본법"
   ],
   "payload_law_id": "010001",
-  "prev_name": "자원봉사활동 기본법",
+  "prev_name": null,
   "promulgation_date": "20260519",
   "rename_pending": {
    "at": "2026-11-05T15:00:32.803980Z",
-   "old": "자원봉사활동 기본법"
+   "new_dir": "자원봉사기본법/법률",
+   "old": "자원봉사활동 기본법",
+   "old_dir": "자원봉사활동 기본법/법률"
   },
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "7f21483057105564"
  },
@@ -91457,13 +91496,14 @@
   "version_signature": "3b8c6de1aa5e4465"
  },
  "law:eflaw:011365": {
+  "attempt_run": "01a1ad92-cef",
   "attempts": 0,
   "body_stats": {
    "articles": 41,
    "chars": 17451
   },
-  "collected_signature": "931174781922ea3f",
-  "content_hash": "3f2606721d4120e01a819069222a31d0681020bf11c3c1fc0b178044ecb25cec",
+  "collected_signature": "21296eefab0d5b41",
+  "content_hash": "6ea9c669eada90bb08d52155b4f49fc4ddcd3387463682959c4662e27f47df08",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279695&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "011365",
@@ -91473,8 +91513,8 @@
   "enforcement_date": "20261112",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:01:45.860774+00:00",
-  "last_collected_at": "2026-10-20T16:03:54.115295+00:00",
+  "last_checked_at": "2026-11-05T21:17:22.404353+00:00",
+  "last_collected_at": "2026-11-05T21:18:24.241702+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "279695",
@@ -91482,8 +91522,9 @@
   "payload_law_id": "011365",
   "prev_name": null,
   "promulgation_date": "20251111",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "21296eefab0d5b41"
  },
  "law:eflaw:011366": {
