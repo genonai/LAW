@@ -2063,13 +2063,14 @@
   "version_signature": "970249dca3027ba3"
  },
  "law:eflaw:000187": {
+  "attempt_run": "01a1ada2-ec6",
   "attempts": 0,
   "body_stats": {
    "articles": 147,
    "chars": 63516
   },
-  "collected_signature": "9955ae3c51c9fa6e",
-  "content_hash": "e24b1a90bd551da7bcff4536c7691d621d800f6013bd243c017d53f45c0976ae",
+  "collected_signature": "26e5d74fb56f670e",
+  "content_hash": "e0170d7f150722846b00b4216aa9dbfb5376d0ddabc153ca91c6f18db2fe86e6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288735&type=HTML&mobileYn=&efYd=20270212",
   "doc_domain": "law",
   "doc_id": "000187",
@@ -2079,8 +2080,8 @@
   "enforcement_date": "20270212",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:35:17.706389+00:00",
-  "last_collected_at": "2026-10-02T19:41:50.068769+00:00",
+  "last_checked_at": "2026-11-05T21:34:59.371181+00:00",
+  "last_collected_at": "2026-11-05T21:41:49.188406+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "288735",
@@ -2088,8 +2089,9 @@
   "payload_law_id": "000187",
   "prev_name": null,
   "promulgation_date": "20260811",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "26e5d74fb56f670e"
  },
  "law:eflaw:000188": {
@@ -55309,8 +55311,14 @@
   "version_signature": "37109ae12eb9fa03"
  },
  "law:eflaw:007972": {
-  "collected_signature": "daaec3edad5f743a",
-  "content_hash": "8323bbb2f88355d7b8b5d5f57e25cf13c425cf1931dbdf68e577ee88ae6afaf3",
+  "attempt_run": "01a1ada2-ecb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 106,
+   "chars": 39610
+  },
+  "collected_signature": "c9071c605149dc0d",
+  "content_hash": "1cf9d828e30a286d507eb1e2d606cb72dc556010642c33c1a60e4136969e3400",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282417&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "007972",
@@ -55318,15 +55326,18 @@
   "doc_type": "보건복지부령",
   "emitted_signature": "daaec3edad5f743a",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:42:13.745417+00:00",
-  "last_collected_at": "2026-08-25T01:55:15.106132+00:00",
+  "last_checked_at": "2026-11-05T21:34:59.986725+00:00",
+  "last_collected_at": "2026-11-05T21:42:06.345271+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "282417",
   "name": "장애인복지법 시행규칙",
   "payload_law_id": "007972",
+  "prev_name": null,
   "promulgation_date": "20251231",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c9071c605149dc0d"
@@ -66364,13 +66375,14 @@
   "version_signature": "917d437bd3032fef"
  },
  "law:eflaw:009640": {
+  "attempt_run": "01a1ada2-ec1",
   "attempts": 0,
   "body_stats": {
    "articles": 156,
    "chars": 87747
   },
-  "collected_signature": "deb4fda1a015d6ed",
-  "content_hash": "041df4d15c00d54f1da6950ec7455db28ee274786ef09eb516b961886d03f518",
+  "collected_signature": "ea365b67f95c2957",
+  "content_hash": "0457d5d3a9b33d7bdd7ffa75c9843af16d55a9d4e10c004bb0980696d7fca010",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287801&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "009640",
@@ -66380,8 +66392,8 @@
   "enforcement_date": "20270108",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:20:03.664256+00:00",
-  "last_collected_at": "2026-10-08T01:26:29.757304+00:00",
+  "last_checked_at": "2026-11-05T21:34:58.367286+00:00",
+  "last_collected_at": "2026-11-05T21:40:11.289489+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "소방청,해양경찰청,행정안전부",
   "mst": "287801",
@@ -66389,8 +66401,9 @@
   "payload_law_id": "009640",
   "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ea365b67f95c2957"
  },
  "law:eflaw:009641": {
@@ -74496,9 +74509,14 @@
   "version_signature": "d7919183a3143f9d"
  },
  "law:eflaw:010209": {
+  "attempt_run": "01a1ada2-ec8",
   "attempts": 0,
-  "collected_signature": "7b98935a97b6d6cc",
-  "content_hash": "c939e9fb151e8920e4192525fca389a180fc47363587f73b8c998dd069368950",
+  "body_stats": {
+   "articles": 27,
+   "chars": 16041
+  },
+  "collected_signature": "ad27eb21afea7338",
+  "content_hash": "d501b2e0e16202f4bad569c52a10093bc9fee8367a0c39d6989749340515371c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289371&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "010209",
@@ -74506,15 +74524,18 @@
   "doc_type": "법률",
   "emitted_signature": "7b98935a97b6d6cc",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:55:43.852972+00:00",
-  "last_collected_at": "2026-09-08T16:58:14.300922+00:00",
+  "last_checked_at": "2026-11-05T21:35:02.097530+00:00",
+  "last_collected_at": "2026-11-05T21:38:03.201639+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289371",
   "name": "재건축초과이익 환수에 관한 법률",
   "payload_law_id": "010209",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ad27eb21afea7338"
@@ -88815,13 +88836,14 @@
   "version_signature": "aba9110503132300"
  },
  "law:eflaw:011181": {
+  "attempt_run": "01a1ada2-ec3",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
    "chars": 14051
   },
-  "collected_signature": "9138a0dd2260c173",
-  "content_hash": "1e9549e4cebd03047b9214baab7bf7f52a12000a17c619ffa87dca35bbe858ab",
+  "collected_signature": "54a5de95855276fa",
+  "content_hash": "3d8ef71b9b26c31f158d3ee8749cacfb400a2c0336d40b303b58cbbb61754c6e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291327&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
   "doc_id": "011181",
@@ -88831,8 +88853,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:01:45.670156+00:00",
-  "last_collected_at": "2026-10-20T16:04:25.663367+00:00",
+  "last_checked_at": "2026-11-05T21:35:00.986344+00:00",
+  "last_collected_at": "2026-11-05T21:38:44.764494+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "291327",
@@ -88840,8 +88862,9 @@
   "payload_law_id": "011181",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "54a5de95855276fa"
  },
  "law:eflaw:011183": {
@@ -90849,8 +90872,14 @@
   "version_signature": "088f11d347dd1ca5"
  },
  "law:eflaw:011330": {
-  "collected_signature": "ded38917b4937147",
-  "content_hash": "ede0a4137173bcde10f765c4d5cd87ce7b7018e1d5c3d07dac41b17b8620faeb",
+  "attempt_run": "01a1ada2-ec9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 25040
+  },
+  "collected_signature": "5ed15a85fcc7595f",
+  "content_hash": "995c84935a57c2aa5afe9d9a6caf495d6bc8736e0974d3ed2a0c235e79d5e2b1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286249&type=HTML&mobileYn=&efYd=20270527",
   "doc_domain": "law",
   "doc_id": "011330",
@@ -90858,17 +90887,20 @@
   "doc_type": "법률",
   "emitted_signature": "ded38917b4937147",
   "enforcement_date": "20270527",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T01:56:58.654636+00:00",
-  "last_collected_at": "2026-08-25T02:01:48.511938+00:00",
+  "last_checked_at": "2026-11-05T21:34:58.806390+00:00",
+  "last_collected_at": "2026-11-05T21:38:13.046082+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "286249",
   "name": "장애인활동 지원에 관한 법률",
   "payload_law_id": "011330",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "5ed15a85fcc7595f"
  },
  "law:eflaw:011331": {
