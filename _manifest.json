@@ -12186,13 +12186,14 @@
   "version_signature": "d689d02110810c7d"
  },
  "law:eflaw:001483": {
+  "attempt_run": "01a1ad2f-2ca",
   "attempts": 0,
   "body_stats": {
    "articles": 72,
    "chars": 29274
   },
-  "collected_signature": "be0a2afbc33f4b54",
-  "content_hash": "e2e6cc91115d9528d5c7a63809093082ff32907e841c2aa57eecefa09f4857ba",
+  "collected_signature": "ce07a5dda9a9e755",
+  "content_hash": "9f4094df0a37b9e1ed9bfa9e94bf40f268cda10f117ebb9299684241b73ce8c5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289947&type=HTML&mobileYn=&efYd=20270617",
   "doc_domain": "law",
   "doc_id": "001483",
@@ -12202,8 +12203,8 @@
   "enforcement_date": "20270617",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:03:36.794122+00:00",
-  "last_collected_at": "2026-09-23T02:04:34.754508+00:00",
+  "last_checked_at": "2026-11-05T19:28:33.828754+00:00",
+  "last_collected_at": "2026-11-05T19:32:05.342864+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289947",
@@ -12211,6 +12212,7 @@
   "payload_law_id": "001483",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ce07a5dda9a9e755"
@@ -76666,13 +76668,14 @@
   "version_signature": "a8f35350fc29b8ef"
  },
  "law:eflaw:010384": {
+  "attempt_run": "01a1ad2f-2c0",
   "attempts": 0,
   "body_stats": {
    "articles": 40,
    "chars": 13984
   },
-  "collected_signature": "7514b9cf15937529",
-  "content_hash": "e39b9305fa713a20c3ff86b829e355827c5e359b2c2843148342964a01182543",
+  "collected_signature": "7301b744fbb80d15",
+  "content_hash": "939550ebaeaa1ff3372df2a372d37e76fec5067523b1c0986e010a1587c98eb9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283741&type=HTML&mobileYn=&efYd=20270228",
   "doc_domain": "law",
   "doc_id": "010384",
@@ -76682,8 +76685,8 @@
   "enforcement_date": "20270228",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:26:51.928697+00:00",
-  "last_collected_at": "2026-10-13T15:28:12.737078+00:00",
+  "last_checked_at": "2026-11-05T19:28:36.781853+00:00",
+  "last_collected_at": "2026-11-05T19:29:56.229640+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "283741",
@@ -76691,8 +76694,9 @@
   "payload_law_id": "010384",
   "prev_name": null,
   "promulgation_date": "20260227",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7301b744fbb80d15"
  },
  "law:eflaw:010387": {
@@ -79871,8 +79875,14 @@
   "version_signature": "1a585918676e8444"
  },
  "law:eflaw:010575": {
-  "collected_signature": "2e1506ef31e2a14c",
-  "content_hash": "64bf2cea82f71b866365a458c022fd5d6092351061b42b4de6607a5e7aa55480",
+  "attempt_run": "01a1ad2f-2c5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 8452
+  },
+  "collected_signature": "68ac3d15788e714d",
+  "content_hash": "191b336f06d4d2e854fcd881110e602ba1207c31f5a128695a8cd5ac92aa3304",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=267127&type=HTML&mobileYn=&efYd=20261218",
   "doc_domain": "law",
   "doc_id": "010575",
@@ -79880,15 +79890,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "2e1506ef31e2a14c",
   "enforcement_date": "20261218",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:37:55.112127+00:00",
-  "last_collected_at": "2026-08-24T11:40:59.055214+00:00",
+  "last_checked_at": "2026-11-05T19:28:33.064402+00:00",
+  "last_collected_at": "2026-11-05T19:30:43.846051+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "267127",
   "name": "어린이놀이시설 안전관리법 시행령",
   "payload_law_id": "010575",
+  "prev_name": null,
   "promulgation_date": "20241217",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "68ac3d15788e714d"
@@ -101325,8 +101338,14 @@
   "version_signature": "3e385f9ebc7774c6"
  },
  "law:eflaw:012070": {
-  "collected_signature": "9228a6211240e657",
-  "content_hash": "58e9123d87a11b2eac57ee60c360ba82c55d852db093d7294b8d1dacbf95c2d1",
+  "attempt_run": "01a1ad2f-2cd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 47,
+   "chars": 28823
+  },
+  "collected_signature": "33ea980668107bf1",
+  "content_hash": "940fb37a961b21a06ceaccebb11c22ead962407593e82daa45092157f7e19341",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280051&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "012070",
@@ -101334,15 +101353,18 @@
   "doc_type": "법률",
   "emitted_signature": "9228a6211240e657",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:41:55.021755+00:00",
-  "last_collected_at": "2026-08-24T11:49:52.968268+00:00",
+  "last_checked_at": "2026-11-05T19:28:35.897429+00:00",
+  "last_collected_at": "2026-11-05T19:31:33.356398+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "280051",
   "name": "어린이제품 안전 특별법",
   "payload_law_id": "012070",
+  "prev_name": null,
   "promulgation_date": "20251202",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "33ea980668107bf1"
@@ -115642,13 +115664,13 @@
   "version_signature": "e0151f921df2908b"
  },
  "law:eflaw:013575": {
-  "attempt_run": "01a17df4-e1f",
+  "attempt_run": "01a1ad2f-2c2",
   "attempts": 0,
   "body_stats": {
    "articles": 59,
    "chars": 18762
   },
-  "collected_signature": "cb3dc64ac48e123d",
+  "collected_signature": "44e156537da7fc9b",
   "content_hash": "ffaabf20f36cd08b31f84dc96da0416c26b30985d20c64d8aded5f8c678dea8d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289949&type=HTML&mobileYn=&efYd=20270923",
   "doc_domain": "law",
@@ -115659,8 +115681,8 @@
   "enforcement_date": "20270923",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:22:46.859190+00:00",
-  "last_collected_at": "2026-10-27T15:24:09.466570+00:00",
+  "last_checked_at": "2026-11-05T19:28:32.616162+00:00",
+  "last_collected_at": "2026-11-05T19:29:24.169429+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289949",
@@ -115670,7 +115692,7 @@
   "promulgation_date": "20260922",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "44e156537da7fc9b"
  },
  "law:eflaw:013588": {
@@ -128827,8 +128849,14 @@
   "version_signature": "bd21627fb44c104c"
  },
  "law:eflaw:014525": {
-  "collected_signature": "0b2e9f6f0d50b688",
-  "content_hash": "6c0c1504c6d244c1e2db09185603cc41eb1b433cdc147c25a1c85472cd739a03",
+  "attempt_run": "01a1ad2f-2c7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 42,
+   "chars": 17135
+  },
+  "collected_signature": "753bdca6d097a192",
+  "content_hash": "8dbe7723fd0725a306a08c33fa602bd4c46547be8f640ccc5b72b5d5521c688d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286075&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014525",
@@ -128836,15 +128864,18 @@
   "doc_type": "법률",
   "emitted_signature": "0b2e9f6f0d50b688",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T11:33:52.196221+00:00",
-  "last_collected_at": "2026-08-24T11:36:04.825778+00:00",
+  "last_checked_at": "2026-11-05T19:28:34.369077+00:00",
+  "last_collected_at": "2026-11-05T19:30:10.877160+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "286075",
   "name": "양자과학기술 및 양자산업 육성에 관한 법률",
   "payload_law_id": "014525",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "753bdca6d097a192"
