@@ -11699,13 +11699,14 @@
   "version_signature": "bcf552ca51b7a52b"
  },
  "law:eflaw:001460": {
+  "attempt_run": "01a1aca7-ceb",
   "attempts": 0,
   "body_stats": {
    "articles": 56,
    "chars": 23073
   },
-  "collected_signature": "88bd349a4df75846",
-  "content_hash": "7bad0b3e25bed0b607f6a21b16bc454f34503ee90cfa85a008bfceea4fe5e8d7",
+  "collected_signature": "b14a038e0186afa5",
+  "content_hash": "e57c2e09aee935b6bf5f9c957ae2b3db80a201ec7d06ab532c2703f0de1a2d6a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289543&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "001460",
@@ -11715,8 +11716,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:07:47.441606+00:00",
-  "last_collected_at": "2026-09-15T16:10:19.089364+00:00",
+  "last_checked_at": "2026-11-05T17:00:45.397389+00:00",
+  "last_collected_at": "2026-11-05T17:03:54.877013+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "289543",
@@ -11724,6 +11725,7 @@
   "payload_law_id": "001460",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "b14a038e0186afa5"
@@ -15610,13 +15612,14 @@
   "version_signature": "d5bd503afb49d0c2"
  },
  "law:eflaw:001760": {
+  "attempt_run": "01a1aca7-ced",
   "attempts": 0,
   "body_stats": {
    "articles": 162,
    "chars": 60795
   },
-  "collected_signature": "e2178da2804824a1",
-  "content_hash": "37666575396c8cb39c1eee84d6e7c1ffcca73eeec088045cdd675ed8080b0276",
+  "collected_signature": "c8dea98533a64830",
+  "content_hash": "3520801eb09a1006fe691e8887da97ed079b8dcf69487ab3c0a180a882d373d4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290149&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
   "doc_id": "001760",
@@ -15626,8 +15629,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:47:26.646485+00:00",
-  "last_collected_at": "2026-09-29T17:52:57.130738+00:00",
+  "last_checked_at": "2026-11-05T17:00:42.318881+00:00",
+  "last_collected_at": "2026-11-05T17:09:41.736346+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "290149",
@@ -15635,6 +15638,7 @@
   "payload_law_id": "001760",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c8dea98533a64830"
@@ -15716,14 +15720,14 @@
   "version_signature": "9fd723491665bebe"
  },
  "law:eflaw:001766": {
-  "attempt_run": "01a17def-3ad",
+  "attempt_run": "01a1aca7-ce9",
   "attempts": 0,
   "body_stats": {
    "articles": 188,
    "chars": 88326
   },
-  "collected_signature": "85cd456d92e5a693",
-  "content_hash": "0a8ba040063ac53c25be6a7118f04b21357b5cfaa31bafdc02676c2947b6fb2c",
+  "collected_signature": "5c7ac3163cba07b5",
+  "content_hash": "991d8d8301bb171fab34070b668547cb729b7438397e5b735631eac1670dd8b3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285379&type=HTML&mobileYn=&efYd=20261208",
   "doc_domain": "law",
   "doc_id": "001766",
@@ -15733,8 +15737,8 @@
   "enforcement_date": "20261208",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:16:37.318577+00:00",
-  "last_collected_at": "2026-10-27T15:21:48.664972+00:00",
+  "last_checked_at": "2026-11-05T17:00:43.913730+00:00",
+  "last_collected_at": "2026-11-05T17:10:13.492213+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "285379",
@@ -15744,7 +15748,7 @@
   "promulgation_date": "20260407",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "5c7ac3163cba07b5"
  },
  "law:eflaw:001771": {
@@ -28605,8 +28609,14 @@
   "version_signature": "808fe92c1a693715"
  },
  "law:eflaw:003786": {
-  "collected_signature": "deb1d5cf8487200b",
-  "content_hash": "ed53af6de2cb3b1a7718600e4014db313637f2e32d157c854c1bc7bed334a369",
+  "attempt_run": "01a1aca7-ce8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 125,
+   "chars": 55710
+  },
+  "collected_signature": "91f90a4f69043464",
+  "content_hash": "3d2a19dbcae77e70ef15176a4e5ea1b5add1dae7b2eb5ecad7008bcabca43d9c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288347&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "003786",
@@ -28614,15 +28624,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "deb1d5cf8487200b",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T22:53:32.733068+00:00",
-  "last_collected_at": "2026-08-23T23:09:10.988006+00:00",
+  "last_checked_at": "2026-11-05T17:00:41.549942+00:00",
+  "last_collected_at": "2026-11-05T17:12:36.612700+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "288347",
   "name": "산업안전보건법 시행령",
   "payload_law_id": "003786",
+  "prev_name": null,
   "promulgation_date": "20260728",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "91f90a4f69043464"
@@ -63117,13 +63130,14 @@
   "version_signature": "4d505e31ae1245fd"
  },
  "law:eflaw:009412": {
+  "attempt_run": "01a1aca7-ce4",
   "attempts": 0,
   "body_stats": {
    "articles": 83,
    "chars": 60155
   },
-  "collected_signature": "d2eefb96909770d0",
-  "content_hash": "11262dfff4941a795514e84d9e94a1d8e7383bc1cf5fb141c1213a7132ed0658",
+  "collected_signature": "0afb166c509f732b",
+  "content_hash": "93bdbea29b643b9e3d916a9e4c5120fc326f3bfc78bc2dada67bb8f5a6452468",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289913&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "009412",
@@ -63133,8 +63147,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:51:50.358237+00:00",
-  "last_collected_at": "2026-09-23T01:52:46.353546+00:00",
+  "last_checked_at": "2026-11-05T17:00:43.178038+00:00",
+  "last_collected_at": "2026-11-05T17:09:18.045407+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "289913",
@@ -63142,8 +63156,9 @@
   "payload_law_id": "009412",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0afb166c509f732b"
  },
  "law:eflaw:009413": {
@@ -132994,13 +133009,14 @@
   "version_signature": "2075edd49051c4e1"
  },
  "law:eflaw:014829": {
+  "attempt_run": "01a1aca7-ce2",
   "attempts": 0,
   "body_stats": {
    "articles": 81,
    "chars": 32289
   },
-  "collected_signature": "537978db1443f2aa",
-  "content_hash": "c245694b1c240a0c140848b6b3f766afe413e202047d853fca1e86594dff4817",
+  "collected_signature": "94ada29bedd0984e",
+  "content_hash": "10db848f40ccd2e611a4e7e1e724148ab8649edc324322eb7eccd34f8039effc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285927&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "014829",
@@ -133010,8 +133026,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:21:14.421194+00:00",
-  "last_collected_at": "2026-10-13T15:24:58.967100+00:00",
+  "last_checked_at": "2026-11-05T17:00:41.164641+00:00",
+  "last_collected_at": "2026-11-05T17:02:19.684730+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "285927",
@@ -133019,8 +133035,9 @@
   "payload_law_id": "014829",
   "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "94ada29bedd0984e"
  },
  "law:eflaw:014830": {
