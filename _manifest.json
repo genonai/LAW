@@ -7421,8 +7421,14 @@
   "version_signature": "362725153b209566"
  },
  "law:eflaw:000958": {
-  "collected_signature": "1e2bab311f18354a",
-  "content_hash": "ae125fa006fbf00c050631bd65a83bdb9970bf8604c1f4d7590504f5596ba60a",
+  "attempt_run": "01a1acfb-ec8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 45,
+   "chars": 20794
+  },
+  "collected_signature": "deec8004a1872715",
+  "content_hash": "7ef7aa71279d0432c651478d71fda8d5d91ac354d33b6a092626589c217622ca",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286463&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "000958",
@@ -7430,15 +7436,18 @@
   "doc_type": "법률",
   "emitted_signature": "1e2bab311f18354a",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T06:07:00.192965+00:00",
-  "last_collected_at": "2026-08-24T06:15:01.163258+00:00",
+  "last_checked_at": "2026-11-05T18:32:36.373232+00:00",
+  "last_collected_at": "2026-11-05T18:36:50.570973+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286463",
   "name": "소하천정비법",
   "payload_law_id": "000958",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "deec8004a1872715"
@@ -12183,13 +12192,14 @@
   "version_signature": "ce07a5dda9a9e755"
  },
  "law:eflaw:001486": {
+  "attempt_run": "01a1acfb-ec6",
   "attempts": 0,
   "body_stats": {
    "articles": 116,
    "chars": 47805
   },
-  "collected_signature": "dae445d406ad8034",
-  "content_hash": "f8ea1e6f1716df3787f2169137f3df55f89c6a79c168e80c9cc7ba5fedf01a77",
+  "collected_signature": "9d5fee8c4cd8591d",
+  "content_hash": "d5032a5715caf7cda6bd63601f32aa96257a5760fb8c5a5bdc52d38dfd237f02",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289939&type=HTML&mobileYn=&efYd=20270617",
   "doc_domain": "law",
   "doc_id": "001486",
@@ -12199,8 +12209,8 @@
   "enforcement_date": "20270617",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-22T15:12:40.019840+00:00",
-  "last_collected_at": "2026-10-22T15:18:06.397896+00:00",
+  "last_checked_at": "2026-11-05T18:32:33.950823+00:00",
+  "last_collected_at": "2026-11-05T18:38:01.329837+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289939",
@@ -12208,6 +12218,7 @@
   "payload_law_id": "001486",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9d5fee8c4cd8591d"
@@ -60200,13 +60211,14 @@
   "version_signature": "c40a79e4f0fe36b0"
  },
  "law:eflaw:009201": {
+  "attempt_run": "01a1acfb-ecc",
   "attempts": 0,
   "body_stats": {
    "articles": 58,
    "chars": 22110
   },
-  "collected_signature": "2a0680746008df51",
-  "content_hash": "93f3ef2d3951296a11670cbb4c9e16d8597bd3582bc957e6f110e10a39b32ead",
+  "collected_signature": "1ac7def1914f69bb",
+  "content_hash": "9a62061d2a2c4b80e5bdd4e9113cfe3eb713fae3500ca122b78d17489480400d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289919&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "009201",
@@ -60216,8 +60228,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T16:16:24.529763+00:00",
-  "last_collected_at": "2026-10-01T16:19:07.044511+00:00",
+  "last_checked_at": "2026-11-05T18:32:35.591577+00:00",
+  "last_collected_at": "2026-11-05T18:35:49.310997+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "289919",
@@ -60225,6 +60237,7 @@
   "payload_law_id": "009201",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "1ac7def1914f69bb"
@@ -102464,14 +102477,14 @@
   "version_signature": "f6594024d9da58d9"
  },
  "law:eflaw:012154": {
-  "attempt_run": "01a17def-3ba",
+  "attempt_run": "01a1acfb-ed0",
   "attempts": 0,
   "body_stats": {
    "articles": 36,
    "chars": 15717
   },
-  "collected_signature": "27a39389b1bfeab1",
-  "content_hash": "17cf39ac44f53b92a00c804c15d9a35dab6db8fbd3d818911e0e94172ac41617",
+  "collected_signature": "b8e65068f3c4952a",
+  "content_hash": "1073739bfe1a6d411e500673c7982eda2e891fe93be427d08fff395360218d8c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291469&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "012154",
@@ -102481,8 +102494,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:16:35.580984+00:00",
-  "last_collected_at": "2026-10-27T15:17:24.329504+00:00",
+  "last_checked_at": "2026-11-05T18:32:34.932422+00:00",
+  "last_collected_at": "2026-11-05T18:36:10.260869+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "291469",
@@ -103840,13 +103853,14 @@
   "version_signature": "a717699f637418f7"
  },
  "law:eflaw:012267": {
+  "attempt_run": "01a1acfb-ecb",
   "attempts": 0,
   "body_stats": {
    "articles": 66,
    "chars": 25468
   },
-  "collected_signature": "193cc56921f10186",
-  "content_hash": "ce8fae4a736bc742b559091e6eda9c024e0f1649f0339c37893518cfb1cf5e9f",
+  "collected_signature": "d1b379320d34b2d3",
+  "content_hash": "51c1785df9e236c0da46974c66d1e4d2777a04ba3dd28873e32e251e72bc8bde",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289935&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "012267",
@@ -103856,8 +103870,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:58:07.187158+00:00",
-  "last_collected_at": "2026-09-23T02:00:37.700417+00:00",
+  "last_checked_at": "2026-11-05T18:32:34.371048+00:00",
+  "last_collected_at": "2026-11-05T18:35:46.970665+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289935",
@@ -103865,6 +103879,7 @@
   "payload_law_id": "012267",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d1b379320d34b2d3"
@@ -116685,13 +116700,14 @@
   "version_signature": "80ce31b445662c7b"
  },
  "law:eflaw:013683": {
+  "attempt_run": "01a1acfb-ece",
   "attempts": 0,
   "body_stats": {
    "articles": 47,
    "chars": 24646
   },
-  "collected_signature": "cdb17635291e45bb",
-  "content_hash": "d06befa9df6e485cd265c70cbdd1d0c955f384a9b3dc01eafd1bc58c3591a3ce",
+  "collected_signature": "be398f273ce59342",
+  "content_hash": "66b27c121530b7a1029e1facfbda14e7f6c41ea42e570ce65f6f18df38fae0fe",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289937&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "013683",
@@ -116701,8 +116717,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:58:07.141200+00:00",
-  "last_collected_at": "2026-09-23T02:01:45.884622+00:00",
+  "last_checked_at": "2026-11-05T18:32:37.691617+00:00",
+  "last_collected_at": "2026-11-05T18:37:17.754393+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289937",
@@ -116710,6 +116726,7 @@
   "payload_law_id": "013683",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "be398f273ce59342"
