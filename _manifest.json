@@ -14587,9 +14587,14 @@
   "version_signature": "8492ddde92e0e6e0"
  },
  "law:eflaw:001702": {
+  "attempt_run": "01a1acb3-858",
   "attempts": 0,
-  "collected_signature": "7bf6ac31d4f9758f",
-  "content_hash": "f72f164a1f692edf052784485015c8ec70bb6a7c1ddf79ffbb533ee5f0b79c6d",
+  "body_stats": {
+   "articles": 1188,
+   "chars": 232061
+  },
+  "collected_signature": "0b1d00ddc5adb040",
+  "content_hash": "37cf640056fac7fbd82a864d7e431ebb305352091ec34c9e0bd174a185bb1910",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284143&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "001702",
@@ -14599,8 +14604,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-10T15:08:56.804118+00:00",
-  "last_collected_at": "2026-09-10T15:19:33.198258+00:00",
+  "last_checked_at": "2026-11-05T17:13:29.942912+00:00",
+  "last_collected_at": "2026-11-05T17:31:58.776187+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "284143",
@@ -14608,8 +14613,9 @@
   "payload_law_id": "001702",
   "prev_name": null,
   "promulgation_date": "20260306",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0b1d00ddc5adb040"
  },
  "law:eflaw:001706": {
@@ -28740,8 +28746,14 @@
   "version_signature": "18a31ed87e263307"
  },
  "law:eflaw:003811": {
-  "collected_signature": "da44eb6bd4ff5bd1",
-  "content_hash": "6d57bc30aa0d7a80c902467e2a78033382874294f99615b12895e8ac8d144f97",
+  "attempt_run": "01a1acb3-864",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 29761
+  },
+  "collected_signature": "21cbc0f4ab3722ac",
+  "content_hash": "64aedc9454f1818493f3e778ad27bcb2f6a02fc75a9c8f99758e6988f2ffe1b2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288205&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "003811",
@@ -28749,15 +28761,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "da44eb6bd4ff5bd1",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T00:34:27.330835+00:00",
-  "last_collected_at": "2026-08-24T00:44:06.197824+00:00",
+  "last_checked_at": "2026-11-05T17:13:31.717665+00:00",
+  "last_collected_at": "2026-11-05T17:20:40.433233+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "288205",
   "name": "상법 시행령",
   "payload_law_id": "003811",
+  "prev_name": null,
   "promulgation_date": "20260721",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "21cbc0f4ab3722ac"
@@ -28816,13 +28831,14 @@
   "version_signature": "218ba38481bb83cc"
  },
  "law:eflaw:003823": {
+  "attempt_run": "01a1acb3-85b",
   "attempts": 0,
   "body_stats": {
    "articles": 22,
    "chars": 11435
   },
-  "collected_signature": "0ab5bd55dbd3fb82",
-  "content_hash": "b75053b257bebfdfef02773f25f183a3321f751aff08142c1020c85d5763a895",
+  "collected_signature": "20ac5edfd8f769ca",
+  "content_hash": "1786864cbf60cabd0fd544ef45ff1e1af59053c8226a8249881248e6fbc774ac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291169&type=HTML&mobileYn=&efYd=20261221",
   "doc_domain": "law",
   "doc_id": "003823",
@@ -28832,8 +28848,8 @@
   "enforcement_date": "20261221",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:21:14.430329+00:00",
-  "last_collected_at": "2026-10-13T15:24:38.658300+00:00",
+  "last_checked_at": "2026-11-05T17:13:29.376241+00:00",
+  "last_collected_at": "2026-11-05T17:17:52.795552+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "지식재산처",
   "mst": "291169",
@@ -28841,6 +28857,7 @@
   "payload_law_id": "003823",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "20ac5edfd8f769ca"
@@ -93968,8 +93985,14 @@
   "version_signature": "e90b6043b8ebc415"
  },
  "law:eflaw:011540": {
-  "collected_signature": "d44673b1214aa4e3",
-  "content_hash": "c9de25b9d3ac53e27c0c3324684c3295fb33abfffa1bcc805515007e7275450b",
+  "attempt_run": "01a1acb3-861",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 47,
+   "chars": 20553
+  },
+  "collected_signature": "80164bf48c03f4cc",
+  "content_hash": "4ab85f6cc7c978499a2c8461891ef0a55dcc988ac079ab715409f18ec4ae0c34",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279787&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "011540",
@@ -93977,15 +94000,18 @@
   "doc_type": "법률",
   "emitted_signature": "d44673b1214aa4e3",
   "enforcement_date": "20261112",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T01:44:18.459990+00:00",
-  "last_collected_at": "2026-08-24T01:47:11.381552+00:00",
+  "last_checked_at": "2026-11-05T17:13:30.679856+00:00",
+  "last_collected_at": "2026-11-05T17:16:14.058903+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "279787",
   "name": "생물다양성 보전 및 이용에 관한 법률",
   "payload_law_id": "011540",
+  "prev_name": null,
   "promulgation_date": "20251111",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "80164bf48c03f4cc"
@@ -96924,13 +96950,14 @@
   "version_signature": "6c2eb0ffa031922c"
  },
  "law:eflaw:011724": {
+  "attempt_run": "01a1acb3-85d",
   "attempts": 0,
   "body_stats": {
    "articles": 131,
    "chars": 59865
   },
-  "collected_signature": "aa5c57e946ebd18b",
-  "content_hash": "4c718210970209728349002d4b28830d93576e9b38f6874658d460533bae597a",
+  "collected_signature": "dbbd3ac485640345",
+  "content_hash": "19c8d494e0f46fbd54a8efe4cab52900b9ce5e0ac6826933ae0e889f9df60c66",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286935&type=HTML&mobileYn=&efYd=20270617",
   "doc_domain": "law",
   "doc_id": "011724",
@@ -96940,8 +96967,8 @@
   "enforcement_date": "20270617",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T16:28:07.645164+00:00",
-  "last_collected_at": "2026-09-18T16:38:57.027034+00:00",
+  "last_checked_at": "2026-11-05T17:13:32.824465+00:00",
+  "last_collected_at": "2026-11-05T17:22:19.359123+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286935",
@@ -96949,8 +96976,9 @@
   "payload_law_id": "011724",
   "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "dbbd3ac485640345"
  },
  "law:eflaw:011727": {
@@ -120542,9 +120570,14 @@
   "version_signature": "1edd85e86566e25a"
  },
  "law:eflaw:013994": {
+  "attempt_run": "01a1acb3-856",
   "attempts": 0,
-  "collected_signature": "baaa3cff70509000",
-  "content_hash": "4b7dc6256b4243e714466b24de8ef2565ed3accb05cda1b5e15f498e1fee6458",
+  "body_stats": {
+   "articles": 58,
+   "chars": 26632
+  },
+  "collected_signature": "15719bfb2dca1685",
+  "content_hash": "1026136db1749e1b1c13fa98f1d908a21b5d24f44dd0da214b741bc56ffdc003",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280107&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "013994",
@@ -120552,16 +120585,19 @@
   "doc_type": "법률",
   "emitted_signature": "baaa3cff70509000",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:02:37.143536+00:00",
-  "last_collected_at": "2026-09-03T04:05:30.602664+00:00",
+  "last_checked_at": "2026-11-05T17:13:28.955555+00:00",
+  "last_collected_at": "2026-11-05T17:15:59.354600+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "280107",
   "name": "생활물류서비스산업발전법",
   "payload_law_id": "013994",
+  "prev_name": null,
   "promulgation_date": "20251202",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "15719bfb2dca1685"
