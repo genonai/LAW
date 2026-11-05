@@ -2069,13 +2069,14 @@
   "version_signature": "4bc4630ff2c8eb8f"
  },
  "law:eflaw:000190": {
+  "attempt_run": "01a1ad1b-3f5",
   "attempts": 0,
   "body_stats": {
    "articles": 111,
    "chars": 57762
   },
-  "collected_signature": "46d0970d88392753",
-  "content_hash": "0bb8e56b975cc4670384b6f60757e9b1483b12aa905717bcd6554d707c2a9cb9",
+  "collected_signature": "2466321fc889a5d3",
+  "content_hash": "b97640aa63f9731ef74bd55881f4a0d1a6f884eb44027d83334407a38bc899b7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283201&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "000190",
@@ -2085,8 +2086,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:43:32.342913+00:00",
-  "last_collected_at": "2026-10-20T15:51:52.090125+00:00",
+  "last_checked_at": "2026-11-05T19:06:49.492478+00:00",
+  "last_collected_at": "2026-11-05T19:12:45.597946+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "283201",
@@ -2094,8 +2095,9 @@
   "payload_law_id": "000190",
   "prev_name": null,
   "promulgation_date": "20260203",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2466321fc889a5d3"
  },
  "law:eflaw:000191": {
@@ -18723,13 +18725,14 @@
   "version_signature": "a9ee51f26c8c0d4d"
  },
  "law:eflaw:002044": {
+  "attempt_run": "01a1ad1b-3f3",
   "attempts": 0,
   "body_stats": {
    "articles": 88,
    "chars": 45631
   },
-  "collected_signature": "e0e820e1ff8260c8",
-  "content_hash": "ce1e2353147c5616528268c9c7369a6a37643d8f296536be81952f4b08a20f1f",
+  "collected_signature": "c9838b983938a88d",
+  "content_hash": "567be0da8e8806fd5bc9f2ace61446f8932bc4140477a3431e5fc57aac32fdeb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286829&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "002044",
@@ -18739,8 +18742,8 @@
   "enforcement_date": "20261210",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T18:55:04.394384+00:00",
-  "last_collected_at": "2026-10-02T19:01:17.543331+00:00",
+  "last_checked_at": "2026-11-05T19:06:48.859030+00:00",
+  "last_collected_at": "2026-11-05T19:13:45.160804+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "286829",
@@ -18748,6 +18751,7 @@
   "payload_law_id": "002044",
   "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c9838b983938a88d"
@@ -30708,8 +30712,14 @@
   "version_signature": "070ad2c9d5f1de16"
  },
  "law:eflaw:004124": {
-  "collected_signature": "8ca1a51a3ea2a9a1",
-  "content_hash": "3401ee5713124bdfffa5240ea9608831c4870b0dfeb1cd613e93a313e4a375dd",
+  "attempt_run": "01a1ad1b-3f7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 100,
+   "chars": 46468
+  },
+  "collected_signature": "9c6f542f3204896e",
+  "content_hash": "38f830dcedde66e6d92537d32acdec48915b4fe05a97f545e96c9f4bd15ecdcf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288363&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "004124",
@@ -30717,15 +30727,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8ca1a51a3ea2a9a1",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T10:19:31.769669+00:00",
-  "last_collected_at": "2026-08-24T10:31:28.354518+00:00",
+  "last_checked_at": "2026-11-05T19:06:47.042763+00:00",
+  "last_collected_at": "2026-11-05T19:14:34.939565+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "288363",
   "name": "아동복지법 시행령",
   "payload_law_id": "004124",
+  "prev_name": null,
   "promulgation_date": "20260804",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9c6f542f3204896e"
@@ -75458,9 +75471,14 @@
   "version_signature": "9d12fbe07e63493b"
  },
  "law:eflaw:010294": {
+  "attempt_run": "01a1ad1b-3eb",
   "attempts": 0,
-  "collected_signature": "21b915a54853e2ea",
-  "content_hash": "9a39562b9ee264f4bce1a26c6ad034c87f4ef228a850ccfe6354bedd6521a05d",
+  "body_stats": {
+   "articles": 56,
+   "chars": 27747
+  },
+  "collected_signature": "6975cf30e8685a49",
+  "content_hash": "aa6df20ef303f5969810559c6d0b38814cc2d989bc43c4c58491f6f006fb8d33",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289367&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "010294",
@@ -75468,15 +75486,18 @@
   "doc_type": "법률",
   "emitted_signature": "21b915a54853e2ea",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:29:04.472354+00:00",
-  "last_collected_at": "2026-09-08T16:34:26.284609+00:00",
+  "last_checked_at": "2026-11-05T19:06:50.491598+00:00",
+  "last_collected_at": "2026-11-05T19:11:26.076524+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "문화체육관광부",
   "mst": "289367",
   "name": "아시아문화중심도시 조성에 관한 특별법",
   "payload_law_id": "010294",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "6975cf30e8685a49"
@@ -108196,13 +108217,14 @@
   "version_signature": "2d0c55a57f2b354b"
  },
  "law:eflaw:012574": {
+  "attempt_run": "01a1ad1b-3ef",
   "attempts": 0,
   "body_stats": {
    "articles": 23,
    "chars": 8322
   },
-  "collected_signature": "b79820e906316a12",
-  "content_hash": "525597e7e64f81a694bd932722486d9b7fd967fc4ac7a37e7728df3fb03a16d8",
+  "collected_signature": "1236ee83967632df",
+  "content_hash": "9cfd139ad7a3554c670b9df449c6ec8ecd044bb664073697f4ac00feab3cc423",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289493&type=HTML&mobileYn=&efYd=20270311",
   "doc_domain": "law",
   "doc_id": "012574",
@@ -108212,8 +108234,8 @@
   "enforcement_date": "20270311",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:23:08.026010+00:00",
-  "last_collected_at": "2026-09-15T16:23:54.704323+00:00",
+  "last_checked_at": "2026-11-05T19:06:46.675766+00:00",
+  "last_collected_at": "2026-11-05T19:07:34.464057+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "289493",
@@ -108221,8 +108243,9 @@
   "payload_law_id": "012574",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "1236ee83967632df"
  },
  "law:eflaw:012575": {
@@ -112812,12 +112835,13 @@
   "version_signature": "77225d26ad9221c0"
  },
  "law:eflaw:013103": {
+  "attempt_run": "01a1ad1b-3f9",
   "attempts": 0,
   "body_stats": {
    "articles": 27,
    "chars": 10389
   },
-  "collected_signature": "bee95bb42d349ce4",
+  "collected_signature": "faabd01e5db09446",
   "content_hash": "108671dd0f8c4c5196a6efcf36bef77b0ca486d72f61a2c86c6069618b3de746",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291247&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
@@ -112828,8 +112852,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:43:32.314037+00:00",
-  "last_collected_at": "2026-10-20T15:45:43.200349+00:00",
+  "last_checked_at": "2026-11-05T19:06:47.696691+00:00",
+  "last_collected_at": "2026-11-05T19:08:31.885960+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "291247",
@@ -112837,6 +112861,7 @@
   "payload_law_id": "013103",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "faabd01e5db09446"
