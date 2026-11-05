@@ -2589,9 +2589,14 @@
   "version_signature": "ae8a8a10d8113984"
  },
  "law:eflaw:000243": {
+  "attempt_run": "01a1ac45-501",
   "attempts": 0,
-  "collected_signature": "40bb5f1ad0b254b3",
-  "content_hash": "d10816daa6948e013ee4739db42c66ac46d9a4713d76df10e1f1c25ed2e37436",
+  "body_stats": {
+   "articles": 90,
+   "chars": 58498
+  },
+  "collected_signature": "6a15df8baddf1a68",
+  "content_hash": "b8438c0691d79be5db92594dd034453582e67ca7e5c465c4d2ad045b0012e79d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289169&type=HTML&mobileYn=&efYd=20270309",
   "doc_domain": "law",
   "doc_id": "000243",
@@ -2599,17 +2604,20 @@
   "doc_type": "법률",
   "emitted_signature": "40bb5f1ad0b254b3",
   "enforcement_date": "20270309",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:01:02.759721+00:00",
-  "last_collected_at": "2026-09-08T16:09:06.016922+00:00",
+  "last_checked_at": "2026-11-05T15:13:06.355924+00:00",
+  "last_collected_at": "2026-11-05T15:20:05.618724+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289169",
   "name": "민간임대주택에 관한 특별법",
   "payload_law_id": "000243",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6a15df8baddf1a68"
  },
  "law:eflaw:000248": {
@@ -14473,12 +14481,13 @@
   "version_signature": "0759ce7439a9c0da"
  },
  "law:eflaw:001700": {
+  "attempt_run": "01a1ac45-503",
   "attempts": 0,
   "body_stats": {
    "articles": 527,
    "chars": 80426
   },
-  "collected_signature": "5ddb7b18ff4c6433",
+  "collected_signature": "3f61de57f850468c",
   "content_hash": "bccacdcd523476e0bff8c12920207ee4890d80034b73343283300d23c8c763d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284417&type=HTML&mobileYn=&efYd=20280301",
   "doc_domain": "law",
@@ -14489,8 +14498,8 @@
   "enforcement_date": "20280301",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:30:51.780823+00:00",
-  "last_collected_at": "2026-10-02T17:34:11.101694+00:00",
+  "last_checked_at": "2026-11-05T15:13:09.552816+00:00",
+  "last_collected_at": "2026-11-05T15:16:37.351540+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "284417",
@@ -14498,6 +14507,7 @@
   "payload_law_id": "001700",
   "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3f61de57f850468c"
@@ -32476,14 +32486,14 @@
   "version_signature": "a65511fc68ad4495"
  },
  "law:eflaw:004552": {
-  "attempt_run": "01a17dea-463",
+  "attempt_run": "01a1ac45-50a",
   "attempts": 0,
   "body_stats": {
    "articles": 80,
    "chars": 52389
   },
-  "collected_signature": "7a21f1666e85a967",
-  "content_hash": "88a7b83127782b4d05cf4c7bae7e4655e073058e659aee0a17cff736c9131913",
+  "collected_signature": "ce1f16350a0c055f",
+  "content_hash": "f5dd38752ebec0a8ed2feef10f712e4733e4a1711d871965dce357c2fb4995e4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291499&type=HTML&mobileYn=&efYd=20270428",
   "doc_domain": "law",
   "doc_id": "004552",
@@ -32493,8 +32503,8 @@
   "enforcement_date": "20270428",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:11:08.097001+00:00",
-  "last_collected_at": "2026-10-27T15:12:20.594890+00:00",
+  "last_checked_at": "2026-11-05T15:13:08.085831+00:00",
+  "last_collected_at": "2026-11-05T15:21:25.224753+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "291499",
@@ -54389,13 +54399,13 @@
   "version_signature": "f4e1fa9c9cbb5db4"
  },
  "law:eflaw:007899": {
-  "attempt_run": "01a17dea-46d",
+  "attempt_run": "01a1ac45-506",
   "attempts": 0,
   "body_stats": {
    "articles": 53,
    "chars": 29285
   },
-  "collected_signature": "519ff08917cb1387",
+  "collected_signature": "b3fcc41a8bc4afc3",
   "content_hash": "0a534ca5d8eb355c47bc511d86bb2791c1026a32651990f9515293be8ef84b15",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291515&type=HTML&mobileYn=&efYd=20270428",
   "doc_domain": "law",
@@ -54406,8 +54416,8 @@
   "enforcement_date": "20270428",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:11:09.907074+00:00",
-  "last_collected_at": "2026-10-27T15:15:47.038225+00:00",
+  "last_checked_at": "2026-11-05T15:13:10.651062+00:00",
+  "last_collected_at": "2026-11-05T15:14:10.336625+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "291515",
@@ -61315,8 +61325,14 @@
   "version_signature": "a56a1286add63956"
  },
  "law:eflaw:009290": {
-  "collected_signature": "a34cf81dd5afea4c",
-  "content_hash": "8ac1e31e908d32b40e569573a620f56eb8fdd8e32253949011575402a3e35b50",
+  "attempt_run": "01a1ac45-50c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 313,
+   "chars": 66880
+  },
+  "collected_signature": "b45f04864d29e3ac",
+  "content_hash": "b2b72cfdcc88becde25a6974061686ec9738515441256a562797f3231832b6d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284419&type=HTML&mobileYn=&efYd=20280301",
   "doc_domain": "law",
   "doc_id": "009290",
@@ -61324,15 +61340,18 @@
   "doc_type": "법률",
   "emitted_signature": "a34cf81dd5afea4c",
   "enforcement_date": "20280301",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T13:57:03.876135+00:00",
-  "last_collected_at": "2026-08-23T14:02:04.294419+00:00",
+  "last_checked_at": "2026-11-05T15:13:07.458335+00:00",
+  "last_collected_at": "2026-11-05T15:17:50.031628+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "284419",
   "name": "민사집행법",
   "payload_law_id": "009290",
+  "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "b45f04864d29e3ac"
@@ -70645,13 +70664,14 @@
   "version_signature": "ca29eaf9eb541a76"
  },
  "law:eflaw:010014": {
+  "attempt_run": "01a1ac45-509",
   "attempts": 0,
   "body_stats": {
    "articles": 8,
    "chars": 2558
   },
-  "collected_signature": "d0d81c1e5ef913d5",
-  "content_hash": "4b0ec053af64a5247428d2ec3bb99c7f88cde0bea5bb040399f4ec45fa0d3568",
+  "collected_signature": "d9e08c60a170a1f9",
+  "content_hash": "7f40a9134488c17725fb098f93a6101880ee8670b672a5ef7e876f5296b4607c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291173&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "010014",
@@ -70661,8 +70681,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:11:57.836076+00:00",
-  "last_collected_at": "2026-10-13T15:13:57.436238+00:00",
+  "last_checked_at": "2026-11-05T15:13:06.786636+00:00",
+  "last_collected_at": "2026-11-05T15:13:49.540500+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "291173",
@@ -70670,6 +70690,7 @@
   "payload_law_id": "010014",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d9e08c60a170a1f9"
