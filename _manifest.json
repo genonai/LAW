@@ -18753,13 +18753,14 @@
   "version_signature": "bbd820a2a4a0911f"
  },
  "law:eflaw:002038": {
+  "attempt_run": "01a1adc8-c95",
   "attempts": 0,
   "body_stats": {
    "articles": 34,
    "chars": 17671
   },
-  "collected_signature": "f682d530ade866b6",
-  "content_hash": "83df9bf8fcaea84392a50e458a8178eed271e5ca2870be8c21fdc4efecb95f6e",
+  "collected_signature": "c24e0f9b6c5b1bf6",
+  "content_hash": "11fed0dc21e6a506bfe6641f03908c7d3e51e6eb6ce4b3e9a1fd480adc74b5bb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291161&type=HTML&mobileYn=&efYd=20270414",
   "doc_domain": "law",
   "doc_id": "002038",
@@ -18769,8 +18770,8 @@
   "enforcement_date": "20270414",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T16:08:55.858600+00:00",
-  "last_collected_at": "2026-10-13T16:14:11.542809+00:00",
+  "last_checked_at": "2026-11-05T22:16:20.967081+00:00",
+  "last_collected_at": "2026-11-05T22:21:19.495300+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "291161",
@@ -18778,8 +18779,9 @@
   "payload_law_id": "002038",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c24e0f9b6c5b1bf6"
  },
  "law:eflaw:002039": {
@@ -60453,9 +60455,14 @@
   "version_signature": "9ec1d68a7d107231"
  },
  "law:eflaw:009199": {
+  "attempt_run": "01a1adc8-c97",
   "attempts": 0,
-  "collected_signature": "4ff2307aa77f819c",
-  "content_hash": "c9c54aea499f7bdacda8c8c36d5e3cbb7da71c7e6263615eb407597de5440dbc",
+  "body_stats": {
+   "articles": 100,
+   "chars": 44209
+  },
+  "collected_signature": "c40a79e4f0fe36b0",
+  "content_hash": "4c8e4292f69edb66c58923c7dbd6b1b1c71b15236d673904616ad57c36c6c1ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286423&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "009199",
@@ -60463,16 +60470,19 @@
   "doc_type": "법률",
   "emitted_signature": "4ff2307aa77f819c",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:35:55.021347+00:00",
-  "last_collected_at": "2026-09-03T04:39:04.165917+00:00",
+  "last_checked_at": "2026-11-05T22:16:20.176591+00:00",
+  "last_collected_at": "2026-11-05T22:19:42.729333+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286423",
   "name": "전자정부법",
   "payload_law_id": "009199",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c40a79e4f0fe36b0"
@@ -62425,8 +62435,14 @@
   "version_signature": "99927f131b0b9847"
  },
  "law:eflaw:009338": {
-  "collected_signature": "340ef8178db339ef",
-  "content_hash": "b0361c728c731344d566f787aa111804b0cd0533bc4d8c504035d8d62131331e",
+  "attempt_run": "01a1adc8-c90",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 64,
+   "chars": 20615
+  },
+  "collected_signature": "42c16af2924e5d19",
+  "content_hash": "e8078d4225014ecd59a24d2efc83ea6f3b26a4f7bde479c2004f339d4a23ec3b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288143&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
   "doc_id": "009338",
@@ -62434,15 +62450,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "340ef8178db339ef",
   "enforcement_date": "20270121",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T04:19:06.177717+00:00",
-  "last_collected_at": "2026-08-25T04:24:13.943418+00:00",
+  "last_checked_at": "2026-11-05T22:16:21.964535+00:00",
+  "last_collected_at": "2026-11-05T22:22:03.011226+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "공정거래위원회",
   "mst": "288143",
   "name": "전자상거래 등에서의 소비자보호에 관한 법률 시행령",
   "payload_law_id": "009338",
+  "prev_name": null,
   "promulgation_date": "20260720",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "42c16af2924e5d19"
@@ -68304,13 +68323,14 @@
   "version_signature": "5c2e35bd7e7625fb"
  },
  "law:eflaw:009767": {
+  "attempt_run": "01a1adc8-c92",
   "attempts": 0,
   "body_stats": {
    "articles": 108,
    "chars": 52317
   },
-  "collected_signature": "c1b7d0e4ccf08e7d",
-  "content_hash": "ad838ec65f82815b7cd0e6736a7d9cc7a07628a0965b50842ddcddd00b3e8d81",
+  "collected_signature": "0e3c495d2f1c46af",
+  "content_hash": "0c104940724f694e3a0604a89e4143896536c5a74294182c09a2289735075d55",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286261&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "009767",
@@ -68320,8 +68340,8 @@
   "enforcement_date": "20261127",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T18:57:27.605397+00:00",
-  "last_collected_at": "2026-09-29T18:59:21.486891+00:00",
+  "last_checked_at": "2026-11-05T22:16:19.765718+00:00",
+  "last_collected_at": "2026-11-05T22:23:01.640239+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "286261",
@@ -68329,8 +68349,9 @@
   "payload_law_id": "009767",
   "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "0e3c495d2f1c46af"
  },
  "law:eflaw:009770": {
@@ -69551,8 +69572,14 @@
   "version_signature": "d1b05c91bd04b19d"
  },
  "law:eflaw:009897": {
-  "collected_signature": "26f65e549c6d9828",
-  "content_hash": "701e6fec873bc18514256c325251b40f61e651d39dd5a83df96cc5d2d31742ea",
+  "attempt_run": "01a1adc8-c9b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 70,
+   "chars": 29132
+  },
+  "collected_signature": "ecc79f13b2befed5",
+  "content_hash": "7c739352161bc8ff05500b559561fc9b6b68b57a03c31e6953bc8f29fdb7554d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287019&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "009897",
@@ -69560,15 +69587,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "26f65e549c6d9828",
   "enforcement_date": "20261217",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T04:38:49.241497+00:00",
-  "last_collected_at": "2026-08-25T04:48:04.510934+00:00",
+  "last_checked_at": "2026-11-05T22:16:23.079239+00:00",
+  "last_collected_at": "2026-11-05T22:22:46.426992+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "287019",
   "name": "전통시장 및 상점가 육성을 위한 특별법 시행령",
   "payload_law_id": "009897",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ecc79f13b2befed5"
@@ -88318,13 +88348,14 @@
   "version_signature": "400533cfff3fd7b3"
  },
  "law:eflaw:011153": {
+  "attempt_run": "01a1adc8-c9a",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 12615
   },
-  "collected_signature": "46965dd8ff8c77c3",
-  "content_hash": "3118fca6acddb241b75e80904a936e2a056077e0f6cd29b1375f47c0105c2fda",
+  "collected_signature": "eb05ee11b40c65c0",
+  "content_hash": "cf482e594b71cfaaecf905076ff2860b34185a2180399dbb272987845b6f175b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286889&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "011153",
@@ -88334,8 +88365,8 @@
   "enforcement_date": "20261217",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:58:09.365308+00:00",
-  "last_collected_at": "2026-09-15T16:59:43.151451+00:00",
+  "last_checked_at": "2026-11-05T22:16:24.209922+00:00",
+  "last_collected_at": "2026-11-05T22:18:31.649937+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "농림축산식품부",
   "mst": "286889",
@@ -88343,6 +88374,7 @@
   "payload_law_id": "011153",
   "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "eb05ee11b40c65c0"
