@@ -11928,8 +11928,14 @@
   "version_signature": "64b65db1702693ed"
  },
  "law:eflaw:001471": {
-  "collected_signature": "ba88db753b459b48",
-  "content_hash": "70dc7a6dcf6f7451eb8ff190ee17f5f5d82cf0c2107653349094ca84f32410ad",
+  "attempt_run": "01a1ac5d-f45",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 106,
+   "chars": 41782
+  },
+  "collected_signature": "2e711f19efd2a36b",
+  "content_hash": "95b85f21a904c6b3570e1d42390244e034907a9b6fe9a0ea684e750f42890d26",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286283&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "001471",
@@ -11937,15 +11943,18 @@
   "doc_type": "법률",
   "emitted_signature": "ba88db753b459b48",
   "enforcement_date": "20261127",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T17:26:29.308394+00:00",
-  "last_collected_at": "2026-08-23T17:33:56.917589+00:00",
+  "last_checked_at": "2026-11-05T15:40:03.168805+00:00",
+  "last_collected_at": "2026-11-05T15:48:06.303990+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "286283",
   "name": "벤처기업육성에 관한 특별법",
   "payload_law_id": "001471",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "2e711f19efd2a36b"
@@ -14635,13 +14644,14 @@
   "version_signature": "df8dd87be6d0ca0e"
  },
  "law:eflaw:001708": {
+  "attempt_run": "01a1ac5d-f41",
   "attempts": 0,
   "body_stats": {
    "articles": 177,
    "chars": 42801
   },
-  "collected_signature": "f273d1a96d6f887f",
-  "content_hash": "28f77abe44d369603b825659cdd88b85b0864571e31017bd38c653b203f3daf3",
+  "collected_signature": "7222ab36f0f7a52a",
+  "content_hash": "7223c88e16ff1d42f53ebcdbadd3d96ebc7997fd05e9351ab7954808722df484",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283363&type=HTML&mobileYn=&efYd=20270220",
   "doc_domain": "law",
   "doc_id": "001708",
@@ -14651,8 +14661,8 @@
   "enforcement_date": "20270220",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:52:54.928731+00:00",
-  "last_collected_at": "2026-10-02T17:56:45.923864+00:00",
+  "last_checked_at": "2026-11-05T15:40:04.264606+00:00",
+  "last_collected_at": "2026-11-05T15:42:53.158552+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "283363",
@@ -14660,6 +14670,7 @@
   "payload_law_id": "001708",
   "prev_name": null,
   "promulgation_date": "20260219",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7222ab36f0f7a52a"
@@ -27158,13 +27169,14 @@
   "version_signature": "1dcedb193054f9af"
  },
  "law:eflaw:003608": {
+  "attempt_run": "01a1ac5d-f43",
   "attempts": 0,
   "body_stats": {
    "articles": 269,
    "chars": 318740
   },
-  "collected_signature": "bcbe8fb3a0144372",
-  "content_hash": "683cae1ec471b5e174f2531dce9780c20aa7f91b1992da14f4c6aca9b49a3289",
+  "collected_signature": "26740bb6585c41fb",
+  "content_hash": "acfe0c5fd5953e3dd1e55e39d414473cf5a9d7c876e4e5d7e96058c4b9df185c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283635&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "003608",
@@ -27174,8 +27186,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:40:53.505002+00:00",
-  "last_collected_at": "2026-10-01T16:00:07.139445+00:00",
+  "last_checked_at": "2026-11-05T15:40:01.265163+00:00",
+  "last_collected_at": "2026-11-05T16:26:22.634086+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부",
   "mst": "283635",
@@ -27183,8 +27195,9 @@
   "payload_law_id": "003608",
   "prev_name": null,
   "promulgation_date": "20260227",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "26740bb6585c41fb"
  },
  "law:eflaw:003610": {
@@ -50170,8 +50183,14 @@
   "version_signature": "94eb41d9319a86a7"
  },
  "law:eflaw:007229": {
-  "collected_signature": "f6deb2da314bdee9",
-  "content_hash": "da0f69a5c324420bda42167bb50e932759075b937c0a4b05d0f597e6fef0c6ca",
+  "attempt_run": "01a1ac5d-f4d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 131,
+   "chars": 93448
+  },
+  "collected_signature": "76658a39af497dd7",
+  "content_hash": "8f8b5ca81ab450c51017b28df420d056f246266b5fe695f8e6d7b904096c4527",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284993&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "007229",
@@ -50179,15 +50198,18 @@
   "doc_type": "재정경제부령",
   "emitted_signature": "f6deb2da314bdee9",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T16:23:48.639976+00:00",
-  "last_collected_at": "2026-08-23T16:47:08.175217+00:00",
+  "last_checked_at": "2026-11-05T15:40:02.439349+00:00",
+  "last_collected_at": "2026-11-05T15:56:39.022512+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부",
   "mst": "284993",
   "name": "법인세법 시행규칙",
   "payload_law_id": "007229",
+  "prev_name": null,
   "promulgation_date": "20260320",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "76658a39af497dd7"
@@ -116293,13 +116315,14 @@
   "version_signature": "3fe6632a048528a2"
  },
  "law:eflaw:013679": {
+  "attempt_run": "01a1ac5d-f47",
   "attempts": 0,
   "body_stats": {
    "articles": 86,
    "chars": 43881
   },
-  "collected_signature": "01f715729ee2a22c",
-  "content_hash": "6e954c38f929ee46749f60319aeb4858b2f699847ed09006438c0dd3eefd7941",
+  "collected_signature": "4847603074e65c7c",
+  "content_hash": "700bef35ef1941b46da6c302f35c584a485353b8bdb1b0d2a4f89cac49be75c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290195&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
   "doc_id": "013679",
@@ -116309,8 +116332,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T17:11:52.642933+00:00",
-  "last_collected_at": "2026-09-29T17:18:21.898617+00:00",
+  "last_checked_at": "2026-11-05T15:40:05.467174+00:00",
+  "last_collected_at": "2026-11-05T15:47:07.614066+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290195",
@@ -116318,6 +116341,7 @@
   "payload_law_id": "013679",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4847603074e65c7c"
@@ -118370,8 +118394,14 @@
   "version_signature": "48ba956979d85830"
  },
  "law:eflaw:013828": {
-  "collected_signature": "48f211680efbc1d8",
-  "content_hash": "c4b2043a18a7ff1ffa6a55b48c19b5b4ef60c15f789b3ff5a0f249258d3b3ee8",
+  "attempt_run": "01a1ac5d-f49",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 57,
+   "chars": 43510
+  },
+  "collected_signature": "73c6a883733c7dd0",
+  "content_hash": "e39a65e7d5713c115a4e72cf369b72bbdba25ac02bd7d171ff1fd9da6a0cdc74",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287503&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "013828",
@@ -118379,15 +118409,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "48f211680efbc1d8",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T17:26:28.892387+00:00",
-  "last_collected_at": "2026-08-23T17:34:50.355582+00:00",
+  "last_checked_at": "2026-11-05T15:40:01.664908+00:00",
+  "last_collected_at": "2026-11-05T15:51:30.817555+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "287503",
   "name": "벤처투자 촉진에 관한 법률 시행령",
   "payload_law_id": "013828",
+  "prev_name": null,
   "promulgation_date": "20260630",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "73c6a883733c7dd0"
