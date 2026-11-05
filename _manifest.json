@@ -5601,13 +5601,14 @@
   "version_signature": "bb6a87d7d67fb69f"
  },
  "law:eflaw:000794": {
+  "attempt_run": "01a1ac4d-698",
   "attempts": 0,
   "body_stats": {
    "articles": 145,
    "chars": 74594
   },
-  "collected_signature": "b76e1baaacfab456",
-  "content_hash": "7402a575237a46b84fafe7667e0f0443196e63a38a90abe1829f94180c2f7515",
+  "collected_signature": "73328c0c1e1c5aa3",
+  "content_hash": "0923ce7321d8e00d26b5ee90f6bbdec370806dbda445b32c498ba9893bb66370",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291333&type=HTML&mobileYn=&efYd=20270421",
   "doc_domain": "law",
   "doc_id": "000794",
@@ -5617,8 +5618,8 @@
   "enforcement_date": "20270421",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:30:17.190731+00:00",
-  "last_collected_at": "2026-10-20T15:34:59.826934+00:00",
+  "last_checked_at": "2026-11-05T15:21:59.787583+00:00",
+  "last_collected_at": "2026-11-05T15:26:20.007767+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "291333",
@@ -5626,6 +5627,7 @@
   "payload_law_id": "000794",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "73328c0c1e1c5aa3"
@@ -10696,8 +10698,14 @@
   "version_signature": "29e7f228b177ade3"
  },
  "law:eflaw:001359": {
-  "collected_signature": "5c6b9cd141f5b2eb",
-  "content_hash": "e10132d17240279c2903f6326718b6e1839c2185a89f64bd2588b275689c0288",
+  "attempt_run": "01a1ac4d-690",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 51,
+   "chars": 16997
+  },
+  "collected_signature": "49ed556da091e848",
+  "content_hash": "cc4b6eff608770b1061c3b3b92918bf13bda2a53fc86a29c0e15b14fd02e9d80",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286421&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "001359",
@@ -10705,15 +10713,18 @@
   "doc_type": "법률",
   "emitted_signature": "5c6b9cd141f5b2eb",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T14:03:51.059102+00:00",
-  "last_collected_at": "2026-08-23T14:05:56.192150+00:00",
+  "last_checked_at": "2026-11-05T15:21:58.730309+00:00",
+  "last_collected_at": "2026-11-05T15:24:30.636932+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286421",
   "name": "민원 처리에 관한 법률",
   "payload_law_id": "001359",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "49ed556da091e848"
@@ -72217,13 +72228,14 @@
   "version_signature": "a2107b2ed16c5d9a"
  },
  "law:eflaw:010107": {
+  "attempt_run": "01a1ac4d-697",
   "attempts": 0,
   "body_stats": {
    "articles": 88,
    "chars": 39791
   },
-  "collected_signature": "cc7bd64780b6e28a",
-  "content_hash": "baf3feb8f7bacac3d4069e87ae866856b50e6ea7b2c0be74a0ce44d7604bc8cc",
+  "collected_signature": "f7647e35aca2b92f",
+  "content_hash": "58ba6423d1c478a437d4da5977524ac755013978f071e8b8a261a428bb78669d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288739&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "010107",
@@ -72233,8 +72245,8 @@
   "enforcement_date": "20261112",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:36:19.337503+00:00",
-  "last_collected_at": "2026-10-02T17:42:11.282650+00:00",
+  "last_checked_at": "2026-11-05T15:22:00.938523+00:00",
+  "last_collected_at": "2026-11-05T15:25:49.364633+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국방부,방위사업청,산업통상부",
   "mst": "288739",
@@ -72242,6 +72254,7 @@
   "payload_law_id": "010107",
   "prev_name": null,
   "promulgation_date": "20260811",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "f7647e35aca2b92f"
@@ -100473,13 +100486,14 @@
   "version_signature": "f3008d2493c9a942"
  },
  "law:eflaw:012046": {
+  "attempt_run": "01a1ac4d-695",
   "attempts": 0,
   "body_stats": {
    "articles": 50,
    "chars": 23193
   },
-  "collected_signature": "b342aa75fca7d454",
-  "content_hash": "d02ecf89cf22b1a1b2656b55942084e020b737484328feba0808b9d141d3bed8",
+  "collected_signature": "d38b465b62f89b89",
+  "content_hash": "0fae25c715b018d3401dab7de8e3fb2d368b8bdc6d96b92df1250611846b062d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290147&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
   "doc_id": "012046",
@@ -100489,8 +100503,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T17:36:19.290726+00:00",
-  "last_collected_at": "2026-10-02T17:40:46.165997+00:00",
+  "last_checked_at": "2026-11-05T15:21:57.874655+00:00",
+  "last_collected_at": "2026-11-05T15:25:27.345130+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "290147",
@@ -100498,8 +100512,9 @@
   "payload_law_id": "012046",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "d38b465b62f89b89"
  },
  "law:eflaw:012048": {
@@ -116060,13 +116075,14 @@
   "version_signature": "696e9df5806c02a4"
  },
  "law:eflaw:013668": {
+  "attempt_run": "01a1ac4d-68e",
   "attempts": 0,
   "body_stats": {
    "articles": 32,
    "chars": 15104
   },
-  "collected_signature": "fee5268d52139fc1",
-  "content_hash": "4c1004cec77d408422d392c57a0b7718757145914d14f2e6dfea7b2ee4f84fbc",
+  "collected_signature": "3639ca78c06c4695",
+  "content_hash": "642fa5262edfbca4adf85a7398404c685af88eef5c2883cace4089267095bb09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287981&type=HTML&mobileYn=&efYd=20270108",
   "doc_domain": "law",
   "doc_id": "013668",
@@ -116076,8 +116092,8 @@
   "enforcement_date": "20270108",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:01:54.567924+00:00",
-  "last_collected_at": "2026-10-08T01:04:53.768330+00:00",
+  "last_checked_at": "2026-11-05T15:21:57.039602+00:00",
+  "last_collected_at": "2026-11-05T15:23:35.739191+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국방부,방위사업청",
   "mst": "287981",
@@ -116085,8 +116101,9 @@
   "payload_law_id": "013668",
   "prev_name": null,
   "promulgation_date": "20260707",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "3639ca78c06c4695"
  },
  "law:eflaw:013669": {
@@ -134391,13 +134408,14 @@
   "version_signature": "8b057eb5146c1da5"
  },
  "law:eflaw:014931": {
+  "attempt_run": "01a1ac4d-693",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
    "chars": 12684
   },
-  "collected_signature": "4f63741d794f3122",
-  "content_hash": "19a0f92dc76eac66bc8dde4c0ede34361ea55600a4a3b9d6f6d9dd5dae3fa3df",
+  "collected_signature": "e1ce358b4ec962b9",
+  "content_hash": "35bb053cd78cecfbfe716358de8e269addb68195c855ef739b9ad8518299def2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286823&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "014931",
@@ -134407,8 +134425,8 @@
   "enforcement_date": "20261210",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:36:40.321946+00:00",
-  "last_collected_at": "2026-10-01T15:39:17.391313+00:00",
+  "last_checked_at": "2026-11-05T15:21:57.381200+00:00",
+  "last_collected_at": "2026-11-05T15:24:29.009619+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "방송미디어통신위원회",
   "mst": "286823",
@@ -134416,6 +134434,7 @@
   "payload_law_id": "014931",
   "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "e1ce358b4ec962b9"
