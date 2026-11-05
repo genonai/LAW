@@ -1208,8 +1208,14 @@
   "version_signature": "5c34aa9e8512b409"
  },
  "law:eflaw:000128": {
-  "collected_signature": "819d9990a27a3dd6",
-  "content_hash": "cd8d29bd41eb9a350c5c9548c782b747cfbd189eb2fb672308925f656baed67e",
+  "attempt_run": "01a1ad63-89a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 17628
+  },
+  "collected_signature": "7bb7ee6b5f1cc2ae",
+  "content_hash": "f478ad89e185c842d7f485bc53e5cd36b0ae4f9d140bd4bfabb978474dfffef1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285383&type=HTML&mobileYn=&efYd=20261208",
   "doc_domain": "law",
   "doc_id": "000128",
@@ -1217,15 +1223,18 @@
   "doc_type": "법률",
   "emitted_signature": "819d9990a27a3dd6",
   "enforcement_date": "20261208",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:20:49.076178+00:00",
-  "last_collected_at": "2026-08-24T19:27:05.520605+00:00",
+  "last_checked_at": "2026-11-05T20:25:45.671253+00:00",
+  "last_collected_at": "2026-11-05T20:32:12.067539+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "285383",
   "name": "임금채권보장법",
   "payload_law_id": "000128",
+  "prev_name": null,
   "promulgation_date": "20260407",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7bb7ee6b5f1cc2ae"
@@ -15610,13 +15619,14 @@
   "version_signature": "aeb1d8932ae4e5a1"
  },
  "law:eflaw:001747": {
+  "attempt_run": "01a1ad63-89d",
   "attempts": 0,
   "body_stats": {
    "articles": 206,
    "chars": 140518
   },
-  "collected_signature": "43a7e19b802f44a1",
-  "content_hash": "4ce80d94f66eb29c83c154f4ca51b99466f07d89efca5744dd318e1be1f1edb5",
+  "collected_signature": "d4af268433f5bc72",
+  "content_hash": "2287d6a27695b7e47dad01afbb8e7e11e5585f7a9951e974befaf1f23d5a9359",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280137&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "001747",
@@ -15626,8 +15636,8 @@
   "enforcement_date": "20261203",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:17:24.121571+00:00",
-  "last_collected_at": "2026-10-02T19:27:15.618392+00:00",
+  "last_checked_at": "2026-11-05T20:25:48.752972+00:00",
+  "last_collected_at": "2026-11-05T20:40:46.862249+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "280137",
@@ -15635,8 +15645,9 @@
   "payload_law_id": "001747",
   "prev_name": null,
   "promulgation_date": "20251202",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "d4af268433f5bc72"
  },
  "law:eflaw:001748": {
@@ -32786,12 +32797,13 @@
   "version_signature": "ed5285c4aebec2ed"
  },
  "law:eflaw:004551": {
+  "attempt_run": "01a1ad63-89f",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 17015
   },
-  "collected_signature": "636aa6188ed3f8f1",
+  "collected_signature": "a65511fc68ad4495",
   "content_hash": "e3d7ec4f6801bf4950207820b7602a564ad04c8d82bca0625445130e4e4481ee",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291177&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
@@ -32802,8 +32814,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T15:33:14.751589+00:00",
-  "last_collected_at": "2026-10-13T15:37:47.581688+00:00",
+  "last_checked_at": "2026-11-05T20:25:44.768224+00:00",
+  "last_collected_at": "2026-11-05T20:35:26.448830+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "291177",
@@ -32811,6 +32823,7 @@
   "payload_law_id": "004551",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a65511fc68ad4495"
@@ -33010,8 +33023,14 @@
   "version_signature": "0ca3877c77b8d114"
  },
  "law:eflaw:004590": {
-  "collected_signature": "8c8322bf06d6c8c7",
-  "content_hash": "f9110f8447a59644c14cf3f6991cf325b85d42155264c6031c4919809e7ebf8f",
+  "attempt_run": "01a1ad63-8a4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 65,
+   "chars": 38279
+  },
+  "collected_signature": "a2f919d86315d902",
+  "content_hash": "981ed58efd049cdaf3b498a48976fd9337384221ccff9133c7383d0140124cda",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286479&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "004590",
@@ -33019,15 +33038,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "8c8322bf06d6c8c7",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:48:36.965180+00:00",
-  "last_collected_at": "2026-08-24T20:03:56.403693+00:00",
+  "last_checked_at": "2026-11-05T20:25:47.373549+00:00",
+  "last_collected_at": "2026-11-05T20:41:05.955591+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286479",
   "name": "자동차관리법 시행령",
   "payload_law_id": "004590",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a2f919d86315d902"
@@ -54972,8 +54994,14 @@
   "version_signature": "251616ae8b7b0899"
  },
  "law:eflaw:007939": {
-  "collected_signature": "e0668a0f30d1a6ee",
-  "content_hash": "16cf57bdd95216afba28f505ed12bf0d196223774dcf6625a9a43a0236c34547",
+  "attempt_run": "01a1ad63-8a2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 185,
+   "chars": 93043
+  },
+  "collected_signature": "49af401957518f7e",
+  "content_hash": "52ee17152cd1b7e7a93cffd27da564aeb56e4cede5360e5f7ee2f31696986274",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286869&type=HTML&mobileYn=&efYd=20280606",
   "doc_domain": "law",
   "doc_id": "007939",
@@ -54981,17 +55009,20 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "e0668a0f30d1a6ee",
   "enforcement_date": "20280606",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T19:48:36.346068+00:00",
-  "last_collected_at": "2026-08-24T20:01:18.617182+00:00",
+  "last_checked_at": "2026-11-05T20:25:46.387341+00:00",
+  "last_collected_at": "2026-11-05T20:31:52.062893+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286869",
   "name": "자동차 및 자동차부품의 성능과 기준에 관한 규칙",
   "payload_law_id": "007939",
+  "prev_name": null,
   "promulgation_date": "20260605",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "49af401957518f7e"
  },
  "law:eflaw:007949": {
@@ -78989,13 +79020,14 @@
   "version_signature": "e7cb8b737c692f04"
  },
  "law:eflaw:010513": {
+  "attempt_run": "01a1ad63-898",
   "attempts": 0,
   "body_stats": {
    "articles": 599,
    "chars": 370831
   },
-  "collected_signature": "2a6f42d31b5ca5f7",
-  "content_hash": "977ceb386988a5e3e5cf9c7ecc8d40ac4ef093fd3f223bdaec11c7f8d645d75f",
+  "collected_signature": "da4b166a9a33ca34",
+  "content_hash": "c57bc830180ee690d47ad78a2672b6dce5d931fe69d839b087ca8430a6437044",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285957&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "010513",
@@ -79005,8 +79037,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T19:35:18.117154+00:00",
-  "last_collected_at": "2026-10-02T19:55:49.095879+00:00",
+  "last_checked_at": "2026-11-05T20:25:44.354650+00:00",
+  "last_collected_at": "2026-11-05T21:16:27.049872+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "금융위원회",
   "mst": "285957",
@@ -79014,8 +79046,9 @@
   "payload_law_id": "010513",
   "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "da4b166a9a33ca34"
  },
  "law:eflaw:010514": {
