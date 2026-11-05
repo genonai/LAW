@@ -88014,8 +88014,14 @@
   "version_signature": "32bf452c3ba9f94c"
  },
  "law:eflaw:011168": {
-  "collected_signature": "ab943d2370578136",
-  "content_hash": "829c71e7709243949f343e07f2c6c524577c23aff12eba66d1750734c889b0f6",
+  "attempt_run": "01a1acc5-106",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 18555
+  },
+  "collected_signature": "a68ed0f519c217f5",
+  "content_hash": "c5a552d4ddf282c255b02aea5902c8725f46d4d15f94049b477da0fd1ac25a43",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284445&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "011168",
@@ -88023,15 +88029,18 @@
   "doc_type": "법률",
   "emitted_signature": "ab943d2370578136",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T02:02:55.439093+00:00",
-  "last_collected_at": "2026-08-24T02:04:34.909374+00:00",
+  "last_checked_at": "2026-11-05T17:32:44.254562+00:00",
+  "last_collected_at": "2026-11-05T17:35:27.739889+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284445",
   "name": "석면피해구제법",
   "payload_law_id": "011168",
+  "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a68ed0f519c217f5"
@@ -91297,8 +91306,14 @@
   "version_signature": "90a766a66b08b96d"
  },
  "law:eflaw:011384": {
-  "collected_signature": "a89f36c8a4289506",
-  "content_hash": "770b323529399ef23bbb010504ab599b058efa251beeb82dec5152bb82cc156c",
+  "attempt_run": "01a1acc5-129",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 55,
+   "chars": 24431
+  },
+  "collected_signature": "a41195d7963a7922",
+  "content_hash": "3988baa494bcd068e1002dbbe109c4461c73ecc83f05942ca1b8ebb3669060f1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283371&type=HTML&mobileYn=&efYd=20270220",
   "doc_domain": "law",
   "doc_id": "011384",
@@ -91306,15 +91321,18 @@
   "doc_type": "법률",
   "emitted_signature": "a89f36c8a4289506",
   "enforcement_date": "20270220",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T02:02:55.156143+00:00",
-  "last_collected_at": "2026-08-24T02:06:50.968391+00:00",
+  "last_checked_at": "2026-11-05T17:32:43.299441+00:00",
+  "last_collected_at": "2026-11-05T17:35:47.475519+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "283371",
   "name": "석면안전관리법",
   "payload_law_id": "011384",
+  "prev_name": null,
   "promulgation_date": "20260219",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a41195d7963a7922"
@@ -91957,13 +91975,14 @@
   "version_signature": "7e6c1698ed7e37f2"
  },
  "law:eflaw:011433": {
+  "attempt_run": "01a1acc5-0e1",
   "attempts": 0,
   "body_stats": {
    "articles": 36,
    "chars": 17105
   },
-  "collected_signature": "d6cd7a1471f285d3",
-  "content_hash": "d76eb69aebfa912b0cd61c4d3dd6cfe2626c689bc4dad63983b534b2552fac90",
+  "collected_signature": "e08f7acf5d23f9c0",
+  "content_hash": "4847814f44b1596b1b4eb89400fd45d9ee007b934f79f49178c821aff2a6d30c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291335&type=HTML&mobileYn=&efYd=20270421",
   "doc_domain": "law",
   "doc_id": "011433",
@@ -91973,8 +91992,8 @@
   "enforcement_date": "20270421",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T15:36:38.828895+00:00",
-  "last_collected_at": "2026-10-20T15:38:36.164746+00:00",
+  "last_checked_at": "2026-11-05T17:32:41.881891+00:00",
+  "last_collected_at": "2026-11-05T17:35:15.532969+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "원자력안전위원회",
   "mst": "291335",
@@ -91982,6 +92001,7 @@
   "payload_law_id": "011433",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "e08f7acf5d23f9c0"
@@ -116523,13 +116543,14 @@
   "version_signature": "4847603074e65c7c"
  },
  "law:eflaw:013682": {
+  "attempt_run": "01a1acc5-0df",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
    "chars": 10127
   },
-  "collected_signature": "9feca138637db773",
-  "content_hash": "57414e966ae1f5223d846dd31d319e405a477257957923ab199bb5b51ae260ba",
+  "collected_signature": "80ce31b445662c7b",
+  "content_hash": "84dafaba3d1a85730bfa32221a4e5b488b440ddc1d9a5a2d3844f0cf54210fae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286921&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "013682",
@@ -116539,8 +116560,8 @@
   "enforcement_date": "20261217",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T01:51:49.641685+00:00",
-  "last_collected_at": "2026-09-23T01:52:28.378103+00:00",
+  "last_checked_at": "2026-11-05T17:32:40.453642+00:00",
+  "last_collected_at": "2026-11-05T17:33:29.770535+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산림청",
   "mst": "286921",
@@ -116548,8 +116569,9 @@
   "payload_law_id": "013682",
   "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "80ce31b445662c7b"
  },
  "law:eflaw:013683": {
@@ -122875,9 +122897,14 @@
   "version_signature": "fec40c060a4af7e8"
  },
  "law:eflaw:014130": {
+  "attempt_run": "01a1acc5-144",
   "attempts": 0,
-  "collected_signature": "4d7f2b73631988ca",
-  "content_hash": "39cbb05ef1de3985f17f9c1f708d8a884e29a768543b27f57e136e51ce0bc356",
+  "body_stats": {
+   "articles": 49,
+   "chars": 23216
+  },
+  "collected_signature": "bbdb930e5585724a",
+  "content_hash": "e93b2306c70dcede3347311354489faa9967a38947f67448959db169ab853358",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286649&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "014130",
@@ -122885,16 +122912,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "4d7f2b73631988ca",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T04:02:36.477251+00:00",
-  "last_collected_at": "2026-09-03T04:07:10.227644+00:00",
+  "last_checked_at": "2026-11-05T17:32:45.408228+00:00",
+  "last_collected_at": "2026-11-05T17:36:59.174358+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286649",
   "name": "생활물류서비스산업발전법 시행령",
   "payload_law_id": "014130",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "bbdb930e5585724a"
@@ -122926,13 +122956,14 @@
   "version_signature": "d3981099beed1df5"
  },
  "law:eflaw:014132": {
+  "attempt_run": "01a1acc5-16d",
   "attempts": 0,
   "body_stats": {
    "articles": 18,
    "chars": 6557
   },
-  "collected_signature": "97c73f7a74a18afa",
-  "content_hash": "83e7faedefad55f18bbdea05907662bdebd10c34685b96e4b5e6cfe82789e4b2",
+  "collected_signature": "53cb5475276e2a1d",
+  "content_hash": "215cc438f010cbe0e5acdb28338673fab2b715632ebba8e031fcfc424303393a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286677&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "014132",
@@ -122942,8 +122973,8 @@
   "enforcement_date": "20261203",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T16:16:43.861077+00:00",
-  "last_collected_at": "2026-09-15T16:19:11.317672+00:00",
+  "last_checked_at": "2026-11-05T17:32:46.363107+00:00",
+  "last_collected_at": "2026-11-05T17:35:48.934843+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286677",
@@ -122951,6 +122982,7 @@
   "payload_law_id": "014132",
   "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "53cb5475276e2a1d"
