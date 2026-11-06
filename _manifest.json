@@ -8620,13 +8620,14 @@
   "version_signature": "fdd913b28614ddd9"
  },
  "law:eflaw:001119": {
+  "attempt_run": "01a1aeef-9be",
   "attempts": 0,
   "body_stats": {
    "articles": 4,
    "chars": 628
   },
-  "collected_signature": "b77007b2aa155142",
-  "content_hash": "9fdd21269a4e94869548ac25b168ee3924bfec0d6e46de8ecad088b54c1e7333",
+  "collected_signature": "52bcdfa43a380b35",
+  "content_hash": "1470dcaeb32911677dab41a97a603640ed172bfac8ad35518052de9d46d85d78",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290183&type=HTML&mobileYn=&efYd=20270205",
   "doc_domain": "law",
   "doc_id": "001119",
@@ -8636,8 +8637,8 @@
   "enforcement_date": "20270205",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:56:07.007652+00:00",
-  "last_collected_at": "2026-09-29T19:56:43.140168+00:00",
+  "last_checked_at": "2026-11-06T03:38:23.087579+00:00",
+  "last_collected_at": "2026-11-06T03:39:09.136137+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국방부,법무부",
   "mst": "290183",
@@ -8645,6 +8646,7 @@
   "payload_law_id": "001119",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "52bcdfa43a380b35"
@@ -14632,13 +14634,14 @@
   "version_signature": "4ec08946ac3acd79"
  },
  "law:eflaw:001668": {
+  "attempt_run": "01a1aeef-9c2",
   "attempts": 0,
   "body_stats": {
    "articles": 145,
    "chars": 38128
   },
-  "collected_signature": "5713286b558c1230",
-  "content_hash": "cfca19d27333c3e3f2a488dba79826a4df247adae15ba6096e250e86de134cbb",
+  "collected_signature": "13e4032934078c68",
+  "content_hash": "8571ac8dfee63dd95976203bd3a395ab503275c94a6b7b27249605f91e800182",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280443&type=HTML&mobileYn=&efYd=20261224",
   "doc_domain": "law",
   "doc_id": "001668",
@@ -14648,8 +14651,8 @@
   "enforcement_date": "20261224",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T22:29:23.388361+00:00",
-  "last_collected_at": "2026-10-02T22:30:49.162423+00:00",
+  "last_checked_at": "2026-11-06T03:38:25.803736+00:00",
+  "last_collected_at": "2026-11-06T03:40:13.649572+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "280443",
@@ -14657,6 +14660,7 @@
   "payload_law_id": "001668",
   "prev_name": null,
   "promulgation_date": "20251223",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "13e4032934078c68"
@@ -14724,13 +14728,14 @@
   "version_signature": "e3087a9d5036a219"
  },
  "law:eflaw:001671": {
+  "attempt_run": "01a1aeef-9bf",
   "attempts": 0,
   "body_stats": {
    "articles": 619,
    "chars": 118191
   },
-  "collected_signature": "463d10d9df999dce",
-  "content_hash": "56bc45a069e364926860635fde40456503f30f85701dc91ba8c24fcd08ed5e47",
+  "collected_signature": "813b76029ccc0448",
+  "content_hash": "11a0487376fafd9a5ff1c0f642b24696c3d6198eea9a2f6dfd746a65165992d2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288579&type=HTML&mobileYn=&efYd=20270205",
   "doc_domain": "law",
   "doc_id": "001671",
@@ -14740,8 +14745,8 @@
   "enforcement_date": "20270205",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T22:23:34.990098+00:00",
-  "last_collected_at": "2026-10-02T22:27:28.481587+00:00",
+  "last_checked_at": "2026-11-06T03:38:21.696390+00:00",
+  "last_collected_at": "2026-11-06T03:41:54.364177+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "288579",
@@ -14749,8 +14754,9 @@
   "payload_law_id": "001671",
   "prev_name": null,
   "promulgation_date": "20260804",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "813b76029ccc0448"
  },
  "law:eflaw:001674": {
@@ -42428,13 +42434,14 @@
   "version_signature": "29637479709d5154"
  },
  "law:eflaw:005988": {
+  "attempt_run": "01a1aeef-9c1",
   "attempts": 0,
   "body_stats": {
    "articles": 309,
    "chars": 61732
   },
-  "collected_signature": "14afc21aee616417",
-  "content_hash": "676aa7271a91217c470d34dc2f79765521423615f4c733b8a4d119c3addb14ac",
+  "collected_signature": "275cda6f8c5f9b2a",
+  "content_hash": "df0ea12491619cd8127e8ae1bdcb7e84be235ef02a93ed359b7a935dc0dbd324",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290807&type=HTML&mobileYn=&efYd=20270205",
   "doc_domain": "law",
   "doc_id": "005988",
@@ -42444,8 +42451,8 @@
   "enforcement_date": "20270205",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T22:23:34.929656+00:00",
-  "last_collected_at": "2026-10-02T22:28:50.769249+00:00",
+  "last_checked_at": "2026-11-06T03:38:23.908746+00:00",
+  "last_collected_at": "2026-11-06T03:43:50.488139+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "대법원",
   "mst": "290807",
@@ -42453,8 +42460,9 @@
   "payload_law_id": "005988",
   "prev_name": null,
   "promulgation_date": "20261002",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "275cda6f8c5f9b2a"
  },
  "law:eflaw:005989": {
@@ -88441,12 +88449,13 @@
   "version_signature": "b94adfb43c0cf18f"
  },
  "law:eflaw:011139": {
+  "attempt_run": "01a1aeef-9bb",
   "attempts": 0,
   "body_stats": {
    "articles": 17,
    "chars": 4611
   },
-  "collected_signature": "9111c6b163d76175",
+  "collected_signature": "bfdf13d32f1cb7ea",
   "content_hash": "11916e5e5afd17e4947e49fcf396168d7677ba1bf3bb1e6234c822002c5c92e7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290187&type=HTML&mobileYn=&efYd=20270930",
   "doc_domain": "law",
@@ -88457,8 +88466,8 @@
   "enforcement_date": "20270930",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T22:21:14.464322+00:00",
-  "last_collected_at": "2026-10-02T22:22:01.150663+00:00",
+  "last_checked_at": "2026-11-06T03:38:22.225812+00:00",
+  "last_collected_at": "2026-11-06T03:39:12.755784+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "290187",
@@ -88466,6 +88475,7 @@
   "payload_law_id": "011139",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "bfdf13d32f1cb7ea"
@@ -108209,8 +108219,14 @@
   "version_signature": "ff98a1e27d69ff62"
  },
  "law:eflaw:012492": {
-  "collected_signature": "3bd0b336c5b97aaf",
-  "content_hash": "350b7e43892c6e5dbd31b9eb733548a30ccc5710e7f1847152f13fdb936ebdb2",
+  "attempt_run": "01a1aeef-9b9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 45,
+   "chars": 18319
+  },
+  "collected_signature": "0183958cf55d5a30",
+  "content_hash": "5c44ec4b705d0ce6536280c34a005d4c5eed8bf3b360781f4ed20b430acc15d5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279765&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "012492",
@@ -108218,15 +108234,18 @@
   "doc_type": "법률",
   "emitted_signature": "3bd0b336c5b97aaf",
   "enforcement_date": "20261112",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T11:26:32.930675+00:00",
-  "last_collected_at": "2026-08-26T11:27:33.743331+00:00",
+  "last_checked_at": "2026-11-06T03:38:21.296812+00:00",
+  "last_collected_at": "2026-11-06T03:39:19.335288+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "279765",
   "name": "호스피스ㆍ완화의료 및 임종과정에 있는 환자의 연명의료결정에 관한 법률",
   "payload_law_id": "012492",
+  "prev_name": null,
   "promulgation_date": "20251111",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "0183958cf55d5a30"
