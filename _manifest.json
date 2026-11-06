@@ -18729,13 +18729,13 @@
   "version_signature": "ec35cd8a2126eeff"
  },
  "law:eflaw:002025": {
-  "attempt_run": "01a1ac39-d43",
+  "attempt_run": "01a1b172-959",
   "attempts": 0,
   "body_stats": {
    "articles": 113,
    "chars": 59896
   },
-  "collected_signature": "b110508e4b2a84d7",
+  "collected_signature": "2b12110e14fe7449",
   "content_hash": "ecab1b577a11e191b3ed0d61a2573f867fdd4a41b1dc11fed4fb4d54bd0fb6ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290787&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -18746,8 +18746,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:34.764615+00:00",
-  "last_collected_at": "2026-11-05T15:04:45.573037+00:00",
+  "last_checked_at": "2026-11-06T15:20:39.329187+00:00",
+  "last_collected_at": "2026-11-06T15:26:26.605056+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "290787",
@@ -18757,7 +18757,7 @@
   "promulgation_date": "20260804",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 6,
+  "version_count": 1,
   "version_signature": "2b12110e14fe7449"
  },
  "law:eflaw:002026": {
@@ -49664,8 +49664,14 @@
   "version_signature": "2353ee7e5fbccb14"
  },
  "law:eflaw:007079": {
+  "attempt_run": "01a1b172-95d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 200,
+   "chars": 89774
+  },
   "collected_signature": "755644adf107764a",
-  "content_hash": "c3f741cb6a5d2b8eb13572615857c1510df2337f8474e896e4f1e4f224a1ab74",
+  "content_hash": "3e4482e9b9053a3927705e6bc582ef2bd4c0cda500aa0dba017581416d210227",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289009&type=HTML&mobileYn=&efYd=20260824",
   "doc_domain": "law",
   "doc_id": "007079",
@@ -49673,17 +49679,20 @@
   "doc_type": "행정안전부령",
   "emitted_signature": "755644adf107764a",
   "enforcement_date": "20260824",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:49:23.940708+00:00",
-  "last_collected_at": "2026-08-23T09:09:07.989686+00:00",
+  "last_checked_at": "2026-11-06T15:20:40.785030+00:00",
+  "last_collected_at": "2026-11-06T15:29:36.613579+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "경찰청",
   "mst": "289009",
   "name": "도로교통법 시행규칙",
   "payload_law_id": "007079",
+  "prev_name": null,
   "promulgation_date": "20260824",
-  "status": "pending",
-  "version_count": 3,
+  "sanity_hold": null,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "755644adf107764a"
  },
  "law:eflaw:007080": {
@@ -49932,8 +49941,14 @@
   "version_signature": "43143873a6c8a064"
  },
  "law:eflaw:007099": {
+  "attempt_run": "01a1b172-95f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 17632
+  },
   "collected_signature": "97b5ea2453076712",
-  "content_hash": "23db9755d84dbe4e294f58a24a679fbb46f0f601ca7b101b80a9a3147569a0c4",
+  "content_hash": "78e14410d3653e77b310fa99e658d638e477b6a83a065ae47c72e8aa58ab9e68",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289033&type=HTML&mobileYn=&efYd=20260827",
   "doc_domain": "law",
   "doc_id": "007099",
@@ -49941,16 +49956,19 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "97b5ea2453076712",
   "enforcement_date": "20260827",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T10:15:48.805210+00:00",
-  "last_collected_at": "2026-08-23T10:21:09.449716+00:00",
+  "last_checked_at": "2026-11-06T15:20:39.797797+00:00",
+  "last_collected_at": "2026-11-06T15:23:57.817341+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국토교통부",
   "mst": "289033",
   "name": "도시공원 및 녹지 등에 관한 법률 시행규칙",
   "payload_law_id": "007099",
+  "prev_name": null,
   "promulgation_date": "20260825",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "97b5ea2453076712"
  },
@@ -79276,8 +79294,14 @@
   "version_signature": "1156e162c709053c"
  },
  "law:eflaw:010488": {
+  "attempt_run": "01a1b172-95b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 13958
+  },
   "collected_signature": "258bac6bf6209941",
-  "content_hash": "310659026705eb1f57aed9fd1cf199baa578b991b284a5214f65129622be5d24",
+  "content_hash": "808b098598d11d05798a00b2b2064ab87442b508690fad235349cf0950a9814e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288971&type=HTML&mobileYn=&efYd=20260825",
   "doc_domain": "law",
   "doc_id": "010488",
@@ -79285,16 +79309,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "258bac6bf6209941",
   "enforcement_date": "20260825",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:30:30.220847+00:00",
-  "last_collected_at": "2026-08-23T08:32:07.820079+00:00",
+  "last_checked_at": "2026-11-06T15:20:43.940568+00:00",
+  "last_collected_at": "2026-11-06T15:23:36.388800+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "행정안전부",
   "mst": "288971",
   "name": "대통령기록물 관리에 관한 법률 시행령",
   "payload_law_id": "010488",
+  "prev_name": null,
   "promulgation_date": "20260825",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "258bac6bf6209941"
  },
@@ -86846,14 +86873,14 @@
   "version_signature": "d1085dac70cbbeb4"
  },
  "law:eflaw:011016": {
-  "attempt_run": "01a1ac39-d45",
+  "attempt_run": "01a1b172-961",
   "attempts": 0,
   "body_stats": {
    "articles": 63,
    "chars": 29487
   },
-  "collected_signature": "d0282a528af1caa8",
-  "content_hash": "bfba8823328b18eb28f60d8e9c8ab5007f50116144a93458bdf401f88aac80f5",
+  "collected_signature": "54306075a4f0ded0",
+  "content_hash": "eb95cb7e20d86a059e237a72518bb454600ae0dae07f82ce6e5d0eae1d80e5cb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=255865&type=HTML&mobileYn=&efYd=20250501",
   "doc_domain": "law",
   "doc_id": "011016",
@@ -86863,8 +86890,8 @@
   "enforcement_date": "20250501",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:35.572942+00:00",
-  "last_collected_at": "2026-11-05T15:01:27.221421+00:00",
+  "last_checked_at": "2026-11-06T15:20:41.485059+00:00",
+  "last_collected_at": "2026-11-06T15:26:40.330032+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "해양수산부",
   "mst": "255865",
@@ -86874,7 +86901,7 @@
   "promulgation_date": "20231031",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "54306075a4f0ded0"
  },
  "law:eflaw:011017": {
@@ -134649,13 +134676,13 @@
   "version_signature": "d9efffecdcf7f053"
  },
  "law:eflaw:014819": {
-  "attempt_run": "01a1ac39-d3d",
+  "attempt_run": "01a1b172-962",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 15632
   },
-  "collected_signature": "cc9f9030354cfb66",
+  "collected_signature": "307c5f9f6a785c4a",
   "content_hash": "d2c470501bed07732c338ba8238766d5b8adbed42cd4ded073b161cd570a2814",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268533&type=HTML&mobileYn=&efYd=20260122",
   "doc_domain": "law",
@@ -134666,8 +134693,8 @@
   "enforcement_date": "20260122",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:33.744536+00:00",
-  "last_collected_at": "2026-11-05T15:01:46.454164+00:00",
+  "last_checked_at": "2026-11-06T15:20:42.405594+00:00",
+  "last_collected_at": "2026-11-06T15:22:49.201282+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "268533",
@@ -134677,7 +134704,7 @@
   "promulgation_date": "20250121",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "307c5f9f6a785c4a"
  },
  "law:eflaw:014820": {
