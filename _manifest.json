@@ -496,13 +496,14 @@
   "version_signature": "650b424346e463d3"
  },
  "law:eflaw:000047": {
+  "attempt_run": "01a1aee6-8d3",
   "attempts": 0,
   "body_stats": {
    "articles": 129,
    "chars": 27328
   },
-  "collected_signature": "ab6752a7eed77e68",
-  "content_hash": "0f09b17fabf32d6e8371ea33f95afee566be59dae1a709b9443619e6a830e050",
+  "collected_signature": "25fd63bcc05c0779",
+  "content_hash": "281d0a0c46ffd779273277bb2fc0c0d50d87e5a1355c9bdd4aee423e688e2d23",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289925&type=HTML&mobileYn=&efYd=20261223",
   "doc_domain": "law",
   "doc_id": "000047",
@@ -512,8 +513,8 @@
   "enforcement_date": "20261223",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:46:13.728379+00:00",
-  "last_collected_at": "2026-09-23T02:47:36.435771+00:00",
+  "last_checked_at": "2026-11-06T03:28:27.757660+00:00",
+  "last_collected_at": "2026-11-06T03:30:06.474617+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289925",
@@ -521,6 +522,7 @@
   "payload_law_id": "000047",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "25fd63bcc05c0779"
@@ -93353,8 +93355,14 @@
   "version_signature": "c6a351532308f358"
  },
  "law:eflaw:011449": {
-  "collected_signature": "f3bf1d27984974fa",
-  "content_hash": "e1ac1b57cda74c5f1518ae9bb501245df37b9cb35d286d15b9495e835ecaa633",
+  "attempt_run": "01a1aee6-8d5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 106,
+   "chars": 48836
+  },
+  "collected_signature": "ceecc53e6db0c96f",
+  "content_hash": "15b056154b545e02ec2fdcd878968ff63616411ff9d06be996c347e2fff09a43",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283961&type=HTML&mobileYn=&efYd=20271101",
   "doc_domain": "law",
   "doc_id": "011449",
@@ -93362,15 +93370,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "f3bf1d27984974fa",
   "enforcement_date": "20271101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:20:58.001281+00:00",
-  "last_collected_at": "2026-08-26T08:26:58.604327+00:00",
+  "last_checked_at": "2026-11-06T03:28:30.215191+00:00",
+  "last_collected_at": "2026-11-06T03:33:23.587514+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양경찰청",
   "mst": "283961",
   "name": "해양경찰청 소속 경찰공무원 임용에 관한 규정",
   "payload_law_id": "011449",
+  "prev_name": null,
   "promulgation_date": "20260310",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ceecc53e6db0c96f"
@@ -109186,9 +109197,14 @@
   "version_signature": "7a3efa33ee384abb"
  },
  "law:eflaw:012569": {
+  "attempt_run": "01a1aee6-8de",
   "attempts": 0,
-  "collected_signature": "8c4596d9e66696ff",
-  "content_hash": "aa84a89982316e01f5f5227de04d12eb2a1695aa03b64fa9f184dcf215036f90",
+  "body_stats": {
+   "articles": 44,
+   "chars": 17051
+  },
+  "collected_signature": "71bffd5220ad02b2",
+  "content_hash": "845364c0b54cb8e33631794e625dbd11af61a1893b981938f3d0202b9b3afb2a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289399&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "012569",
@@ -109196,15 +109212,18 @@
   "doc_type": "법률",
   "emitted_signature": "8c4596d9e66696ff",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:30:48.167071+00:00",
-  "last_collected_at": "2026-09-08T18:34:44.051129+00:00",
+  "last_checked_at": "2026-11-06T03:28:28.665814+00:00",
+  "last_collected_at": "2026-11-06T03:32:22.910166+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289399",
   "name": "해양산업클러스터의 지정 및 육성 등에 관한 특별법",
   "payload_law_id": "012569",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "71bffd5220ad02b2"
@@ -110887,13 +110906,14 @@
   "version_signature": "55a96e7e78fabdd2"
  },
  "law:eflaw:012712": {
+  "attempt_run": "01a1aee6-8dc",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
    "chars": 9522
   },
-  "collected_signature": "ba583064f01eec11",
-  "content_hash": "ca84fd11c9f868fda16b374e5e09c6ad95d2d9dd93186974ee44ce0a131c0a31",
+  "collected_signature": "15e29422975af82c",
+  "content_hash": "b5d9cc00d6a9f12ffccf9ffd4cc2aa7be5ee62f532668a2353c9b8bad6ed6819",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289927&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
   "doc_id": "012712",
@@ -110903,8 +110923,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:46:13.530861+00:00",
-  "last_collected_at": "2026-09-23T02:47:26.430646+00:00",
+  "last_checked_at": "2026-11-06T03:28:31.491624+00:00",
+  "last_collected_at": "2026-11-06T03:30:13.941538+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "289927",
@@ -110912,6 +110932,7 @@
   "payload_law_id": "012712",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "15e29422975af82c"
@@ -117026,8 +117047,14 @@
   "version_signature": "eefce8b1aac13944"
  },
  "law:eflaw:013616": {
-  "collected_signature": "66102500c55a5749",
-  "content_hash": "988f17c1b24d6fef99cacf9508bc600dd8811ecc6798cde1aa06945aae794b6d",
+  "attempt_run": "01a1aee6-8d8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 44,
+   "chars": 16552
+  },
+  "collected_signature": "22e421e6fb8d3d59",
+  "content_hash": "e65849712c8e6ef719038e559359133be38ba5fc336f4d5c8d3bc21a45993316",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285945&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "013616",
@@ -117035,15 +117062,18 @@
   "doc_type": "법률",
   "emitted_signature": "66102500c55a5749",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T09:00:31.587612+00:00",
-  "last_collected_at": "2026-08-26T09:05:38.007996+00:00",
+  "last_checked_at": "2026-11-06T03:28:28.145231+00:00",
+  "last_collected_at": "2026-11-06T03:31:08.869242+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양수산부",
   "mst": "285945",
   "name": "해양폐기물 및 해양오염퇴적물 관리법",
   "payload_law_id": "013616",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "22e421e6fb8d3d59"
@@ -119560,8 +119590,14 @@
   "version_signature": "776d2615fe6d76b6"
  },
  "law:eflaw:013803": {
-  "collected_signature": "2d51125d7a96a6ce",
-  "content_hash": "004da370f7d52bae49783c99c8a6c3c550ffa1d28f9feb09b58a382fa3887c9b",
+  "attempt_run": "01a1aee6-8d9",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 83,
+   "chars": 26399
+  },
+  "collected_signature": "31243acbd28ab3ae",
+  "content_hash": "edb889ea827d74ce7d8c2181239f0c3bc3fa8cb13b11075cfd07d8177d918d88",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285247&type=HTML&mobileYn=&efYd=20271101",
   "doc_domain": "law",
   "doc_id": "013803",
@@ -119569,17 +119605,20 @@
   "doc_type": "해양수산부령",
   "emitted_signature": "2d51125d7a96a6ce",
   "enforcement_date": "20271101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T08:20:58.176039+00:00",
-  "last_collected_at": "2026-08-26T08:24:12.493263+00:00",
+  "last_checked_at": "2026-11-06T03:28:29.215322+00:00",
+  "last_collected_at": "2026-11-06T03:32:54.524609+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "해양경찰청",
   "mst": "285247",
   "name": "해양경찰청 소속 경찰공무원 임용에 관한 규정 시행규칙",
   "payload_law_id": "013803",
+  "prev_name": null,
   "promulgation_date": "20260330",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "31243acbd28ab3ae"
  },
  "law:eflaw:013804": {
