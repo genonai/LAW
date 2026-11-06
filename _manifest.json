@@ -6194,8 +6194,14 @@
   "version_signature": "017fee8c0d245290"
  },
  "law:eflaw:000851": {
-  "collected_signature": "d8e79ffd97cc51c0",
-  "content_hash": "081d1de4600e0a16ff3cce91da009f61c488f3978073be1583b40055357d1e84",
+  "attempt_run": "01a1aec4-49f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 72,
+   "chars": 30007
+  },
+  "collected_signature": "1c7513f9f056aaf0",
+  "content_hash": "79083752bf50c216386d7c99196d0e10e6ad5085899c170875a6628eeef08d09",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286439&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "000851",
@@ -6203,17 +6209,20 @@
   "doc_type": "법률",
   "emitted_signature": "d8e79ffd97cc51c0",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:46:16.549587+00:00",
-  "last_collected_at": "2026-08-25T21:48:55.537856+00:00",
+  "last_checked_at": "2026-11-06T02:51:02.692739+00:00",
+  "last_collected_at": "2026-11-06T02:54:40.573654+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "286439",
   "name": "평생교육법",
   "payload_law_id": "000851",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "1c7513f9f056aaf0"
  },
  "law:eflaw:000852": {
@@ -11769,13 +11778,14 @@
   "version_signature": "17f23daa1260ea9b"
  },
  "law:eflaw:001455": {
+  "attempt_run": "01a1aec4-49a",
   "attempts": 0,
   "body_stats": {
    "articles": 298,
    "chars": 111055
   },
-  "collected_signature": "bbe0f0687fcfb6fc",
-  "content_hash": "92d8ea0ea0ffc3f9a07bc09c80ea456dae70575a53db64c0c4327f9ace163b10",
+  "collected_signature": "646a4d48484a9e03",
+  "content_hash": "8d575d4e7f19676f03764ec9f70f079a1eb94b9b1ae44fbea235027fd4b95f62",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289727&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "001455",
@@ -11785,8 +11795,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:55:28.763862+00:00",
-  "last_collected_at": "2026-09-15T18:04:47.900400+00:00",
+  "last_checked_at": "2026-11-06T02:51:06.468638+00:00",
+  "last_collected_at": "2026-11-06T03:00:18.647877+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "지식재산처",
   "mst": "289727",
@@ -11794,6 +11804,7 @@
   "payload_law_id": "001455",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "646a4d48484a9e03"
@@ -16041,13 +16052,14 @@
   "version_signature": "5c7ac3163cba07b5"
  },
  "law:eflaw:001771": {
+  "attempt_run": "01a1aec4-498",
   "attempts": 0,
   "body_stats": {
    "articles": 110,
    "chars": 80730
   },
-  "collected_signature": "a3fc2c4816966836",
-  "content_hash": "f733e87ca77a5306c7bdb8af6379c8f1f9f5fda86fbc636349d20c68b8c84228",
+  "collected_signature": "07113b8e6b0a7f48",
+  "content_hash": "8d1b61a93426d78a9b9528009d1162509ef4ab1584bd04d93f8de5d6796a3c41",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279797&type=HTML&mobileYn=&efYd=20261112",
   "doc_domain": "law",
   "doc_id": "001771",
@@ -16057,8 +16069,8 @@
   "enforcement_date": "20261112",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:05:08.709659+00:00",
-  "last_collected_at": "2026-09-18T18:06:13.991457+00:00",
+  "last_checked_at": "2026-11-06T02:51:02.194373+00:00",
+  "last_collected_at": "2026-11-06T02:59:12.306103+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "279797",
@@ -16066,8 +16078,9 @@
   "payload_law_id": "001771",
   "prev_name": null,
   "promulgation_date": "20251111",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "07113b8e6b0a7f48"
  },
  "law:eflaw:001773": {
@@ -18311,8 +18324,14 @@
   "version_signature": "0c62eb0cd436ad90"
  },
  "law:eflaw:002010": {
-  "collected_signature": "17622b0d60d4b64d",
-  "content_hash": "933e4897d1e858e7b3199e8c76db230d9cefc38376c53ce0c4de99a2e85b6194",
+  "attempt_run": "01a1aec4-4a2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 12,
+   "chars": 4651
+  },
+  "collected_signature": "1a7dc7d752f9a6ee",
+  "content_hash": "af0d1f0d93f3e91b5e6825c8fb28d2161e18ba7f0d74af379102cff6afa49c7b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286103&type=HTML&mobileYn=&efYd=20270520",
   "doc_domain": "law",
   "doc_id": "002010",
@@ -18320,15 +18339,18 @@
   "doc_type": "법률",
   "emitted_signature": "17622b0d60d4b64d",
   "enforcement_date": "20270520",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:54:42.877583+00:00",
-  "last_collected_at": "2026-08-25T21:56:56.560070+00:00",
+  "last_checked_at": "2026-11-06T02:51:03.466896+00:00",
+  "last_collected_at": "2026-11-06T02:52:06.319199+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "286103",
   "name": "폐교재산의 활용촉진을 위한 특별법",
   "payload_law_id": "002010",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "1a7dc7d752f9a6ee"
@@ -37044,13 +37066,14 @@
   "version_signature": "e529efeb34610d54"
  },
  "law:eflaw:005343": {
+  "attempt_run": "01a1aec4-4a4",
   "attempts": 0,
   "body_stats": {
    "articles": 27,
    "chars": 21633
   },
-  "collected_signature": "47444fb09eb2f941",
-  "content_hash": "7b9010fa6409ba493540ae782dee6464ebc42564bdc8de00ead40a9ef285974e",
+  "collected_signature": "4bac2aaa852d1bcd",
+  "content_hash": "a85917b94048d89330c1576bfc73af81bfdb3fa937049726b8ccdd07ecbcfdf6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291085&type=HTML&mobileYn=&efYd=20261221",
   "doc_domain": "law",
   "doc_id": "005343",
@@ -37060,8 +37083,8 @@
   "enforcement_date": "20261221",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T16:08:55.457785+00:00",
-  "last_collected_at": "2026-10-13T16:15:28.346918+00:00",
+  "last_checked_at": "2026-11-06T02:51:04.558479+00:00",
+  "last_collected_at": "2026-11-06T03:00:23.079892+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "지식재산처",
   "mst": "291085",
@@ -37069,6 +37092,7 @@
   "payload_law_id": "005343",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "4bac2aaa852d1bcd"
@@ -128757,9 +128781,14 @@
   "version_signature": "8bca7495b4ced6a5"
  },
  "law:eflaw:014456": {
+  "attempt_run": "01a1aec4-49e",
   "attempts": 0,
-  "collected_signature": "67c69ef5a17a64ec",
-  "content_hash": "16925e28402b2bf040fc8266f9da8c8633bb6e82feffa1f6259f5e712797741f",
+  "body_stats": {
+   "articles": 44,
+   "chars": 19406
+  },
+  "collected_signature": "80a716363dd82b55",
+  "content_hash": "e1712e9dad74155e617dfe81119a24d89e114cfcd4f4e3b4b226a46553b10723",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289393&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "014456",
@@ -128767,15 +128796,18 @@
   "doc_type": "법률",
   "emitted_signature": "67c69ef5a17a64ec",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:25:11.905277+00:00",
-  "last_collected_at": "2026-09-08T18:29:15.775125+00:00",
+  "last_checked_at": "2026-11-06T02:51:05.462604+00:00",
+  "last_collected_at": "2026-11-06T02:59:48.252077+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부,통일부",
   "mst": "289393",
   "name": "평화경제특별구역의 지정 및 운영에 관한 법률",
   "payload_law_id": "014456",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "80a716363dd82b55"
