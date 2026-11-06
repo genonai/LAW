@@ -14018,13 +14018,13 @@
   "version_signature": "7c7d3012701dd769"
  },
  "law:eflaw:001622": {
-  "attempt_run": "01a1ac89-373",
+  "attempt_run": "01a1b1c2-f49",
   "attempts": 0,
   "body_stats": {
    "articles": 174,
    "chars": 93131
   },
-  "collected_signature": "f20b67a287c50b7a",
+  "collected_signature": "7a13e29734807846",
   "content_hash": "5c8986319e1fcd85989903fc6b11477f661572e33bde4bff362042938db9c3c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290783&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -14035,8 +14035,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T16:27:18.151765+00:00",
-  "last_collected_at": "2026-11-05T16:33:29.715369+00:00",
+  "last_checked_at": "2026-11-06T16:48:26.569673+00:00",
+  "last_collected_at": "2026-11-06T16:55:12.807255+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국방부,병무청",
@@ -14047,7 +14047,7 @@
   "promulgation_date": "20260804",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "7a13e29734807846"
  },
  "law:eflaw:001623": {
@@ -15068,13 +15068,13 @@
   "version_signature": "df8dd87be6d0ca0e"
  },
  "law:eflaw:001708": {
-  "attempt_run": "01a1ac5d-f41",
+  "attempt_run": "01a1b1c2-f4e",
   "attempts": 0,
   "body_stats": {
    "articles": 177,
    "chars": 42801
   },
-  "collected_signature": "7222ab36f0f7a52a",
+  "collected_signature": "f273d1a96d6f887f",
   "content_hash": "7223c88e16ff1d42f53ebcdbadd3d96ebc7997fd05e9351ab7954808722df484",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290789&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -15085,8 +15085,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:40:04.264606+00:00",
-  "last_collected_at": "2026-11-05T15:42:53.158552+00:00",
+  "last_checked_at": "2026-11-06T16:48:28.413253+00:00",
+  "last_collected_at": "2026-11-06T16:51:34.862958+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "법무부",
   "mst": "290789",
@@ -15096,7 +15096,7 @@
   "promulgation_date": "20260804",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "f273d1a96d6f887f"
  },
  "law:eflaw:001709": {
@@ -27950,14 +27950,14 @@
   "version_signature": "15833143d05b0379"
  },
  "law:eflaw:003624": {
-  "attempt_run": "01a1ac89-367",
+  "attempt_run": "01a1b1c2-f50",
   "attempts": 0,
   "body_stats": {
    "articles": 21,
    "chars": 5867
   },
-  "collected_signature": "f4d24ab3c98b1921",
-  "content_hash": "2250996f107a0c85fd7136e50e0674f94d26117410255b34d000015e372c483d",
+  "collected_signature": "9b77f5a35b151694",
+  "content_hash": "1780da560ebebda7db6b29c1e4aecfb03143671aca1d7da5f735945ba8c364b8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257265&type=HTML&mobileYn=&efYd=20240101",
   "doc_domain": "law",
   "doc_id": "003624",
@@ -27967,8 +27967,8 @@
   "enforcement_date": "20240101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T16:27:17.484757+00:00",
-  "last_collected_at": "2026-11-05T16:28:45.133221+00:00",
+  "last_checked_at": "2026-11-06T16:48:29.394645+00:00",
+  "last_collected_at": "2026-11-06T16:50:51.227411+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "인사혁신처",
   "mst": "257265",
@@ -27978,12 +27978,18 @@
   "promulgation_date": "20231226",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9b77f5a35b151694"
  },
  "law:eflaw:003625": {
-  "collected_signature": "fb3f39dabaf9802e",
-  "content_hash": "9f204c39b77912cd89585c66bb7623d4bc8c685b759115fad39df36fe788231f",
+  "attempt_run": "01a1b1c2-f53",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 9861
+  },
+  "collected_signature": "6e18cfd6d04b91bc",
+  "content_hash": "feec8b7a366f768fbfa02ec9fd0cd9a284e781af4c7b8e53f7c3eb5e48227b0f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291701&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "003625",
@@ -27991,16 +27997,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "fb3f39dabaf9802e",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T17:47:06.562253+00:00",
-  "last_collected_at": "2026-08-23T17:52:21.818987+00:00",
+  "last_checked_at": "2026-11-06T16:48:27.813753+00:00",
+  "last_collected_at": "2026-11-06T16:49:42.476897+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "병무청,행정안전부",
   "mst": "291701",
   "name": "병무청과 그 소속기관 직제",
   "payload_law_id": "003625",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "6e18cfd6d04b91bc"
  },
@@ -51172,8 +51181,14 @@
   "version_signature": "d761d047cc5d8516"
  },
  "law:eflaw:007245": {
-  "collected_signature": "3b42ccceb9545edb",
-  "content_hash": "5eaa17a7f2e5eb3d0dd09628ae21bff74dd487dba2ae4b87d8340d3eb1bccdd8",
+  "attempt_run": "01a1b1c2-f55",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 55,
+   "chars": 22587
+  },
+  "collected_signature": "11db546060b63e55",
+  "content_hash": "2d72a47777d73a1dcfea911900f3a6881a8f48162e048a5b8974855580e8f0b1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291837&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "007245",
@@ -51181,16 +51196,19 @@
   "doc_type": "국방부령",
   "emitted_signature": "3b42ccceb9545edb",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T17:47:07.878225+00:00",
-  "last_collected_at": "2026-08-23T17:56:47.675780+00:00",
+  "last_checked_at": "2026-11-06T16:48:30.603246+00:00",
+  "last_collected_at": "2026-11-06T16:51:03.431969+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "병무청",
   "mst": "291837",
   "name": "병무청과 그 소속기관 직제 시행규칙",
   "payload_law_id": "007245",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "11db546060b63e55"
  },
@@ -120271,13 +120289,13 @@
   "version_signature": "48ba956979d85830"
  },
  "law:eflaw:013828": {
-  "attempt_run": "01a1ac5d-f49",
+  "attempt_run": "01a1b1c2-f4b",
   "attempts": 0,
   "body_stats": {
    "articles": 57,
    "chars": 43510
   },
-  "collected_signature": "73c6a883733c7dd0",
+  "collected_signature": "48f211680efbc1d8",
   "content_hash": "e39a65e7d5713c115a4e72cf369b72bbdba25ac02bd7d171ff1fd9da6a0cdc74",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287503&type=HTML&mobileYn=&efYd=20260701",
   "doc_domain": "law",
@@ -120288,8 +120306,8 @@
   "enforcement_date": "20260701",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:40:01.664908+00:00",
-  "last_collected_at": "2026-11-05T15:51:30.817555+00:00",
+  "last_checked_at": "2026-11-06T16:48:27.054763+00:00",
+  "last_collected_at": "2026-11-06T16:55:44.875020+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "중소벤처기업부",
   "mst": "287503",
@@ -120299,7 +120317,7 @@
   "promulgation_date": "20260630",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "48f211680efbc1d8"
  },
  "law:eflaw:013830": {
