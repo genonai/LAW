@@ -12177,13 +12177,14 @@
   "version_signature": "53a0deed9699afb8"
  },
  "law:eflaw:001477": {
+  "attempt_run": "01a1ae6d-d6d",
   "attempts": 0,
   "body_stats": {
    "articles": 37,
    "chars": 14395
   },
-  "collected_signature": "02e966973d9c74bb",
-  "content_hash": "3480175781f4bc8e5433b72ea0af7fc00041585968bb2639d4b258093ec874bc",
+  "collected_signature": "d2febc42cc85d6bc",
+  "content_hash": "9ac58835be6740a09cf17e5f0e2137500e9da7720565e80370437bb0d99bce72",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284447&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "001477",
@@ -12193,8 +12194,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:08:36.369649+00:00",
-  "last_collected_at": "2026-09-29T19:10:18.754411+00:00",
+  "last_checked_at": "2026-11-06T01:16:40.091364+00:00",
+  "last_collected_at": "2026-11-06T01:18:42.878600+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "284447",
@@ -12202,8 +12203,9 @@
   "payload_law_id": "001477",
   "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d2febc42cc85d6bc"
  },
  "law:eflaw:001478": {
@@ -16493,9 +16495,14 @@
   "version_signature": "87c7b736f8c81b19"
  },
  "law:eflaw:001809": {
+  "attempt_run": "01a1ae6d-d61",
   "attempts": 0,
-  "collected_signature": "7ab2310043e2d488",
-  "content_hash": "1d17e78d1885c58a9c5f39c50827c12227e2fab8c85c0683aad2884b7fdb1f76",
+  "body_stats": {
+   "articles": 127,
+   "chars": 91679
+  },
+  "collected_signature": "6c0f7e5842bc4ecf",
+  "content_hash": "efcf762fbb32fe7f84fd58829307099d3856b8e301bcfee981bcea7bd907bb92",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289171&type=HTML&mobileYn=&efYd=20270309",
   "doc_domain": "law",
   "doc_id": "001809",
@@ -16503,17 +16510,20 @@
   "doc_type": "법률",
   "emitted_signature": "7ab2310043e2d488",
   "enforcement_date": "20270309",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T17:33:57.151657+00:00",
-  "last_collected_at": "2026-09-08T17:43:24.663455+00:00",
+  "last_checked_at": "2026-11-06T01:16:37.959802+00:00",
+  "last_collected_at": "2026-11-06T01:22:25.177130+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289171",
   "name": "주택법",
   "payload_law_id": "001809",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6c0f7e5842bc4ecf"
  },
  "law:eflaw:001813": {
@@ -59902,13 +59912,14 @@
   "version_signature": "94271f15712c020a"
  },
  "law:eflaw:009145": {
+  "attempt_run": "01a1ae6d-d6b",
   "attempts": 0,
   "body_stats": {
    "articles": 53,
    "chars": 24874
   },
-  "collected_signature": "8afdf51d62699052",
-  "content_hash": "40ba6cb63259451060338c181d146e6ac1accb81f02b853e36bd0e6f3212867c",
+  "collected_signature": "eebc05b8b107ff8e",
+  "content_hash": "a8dab2872b014270640be8663b696b9dd6967212de5cf62bc65fdcbccda915b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290205&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
   "doc_id": "009145",
@@ -59918,8 +59929,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:08:36.541773+00:00",
-  "last_collected_at": "2026-09-29T19:11:02.938133+00:00",
+  "last_checked_at": "2026-11-06T01:16:38.990132+00:00",
+  "last_collected_at": "2026-11-06T01:19:16.199929+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290205",
@@ -59927,6 +59938,7 @@
   "payload_law_id": "009145",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "eebc05b8b107ff8e"
@@ -101542,13 +101554,14 @@
   "version_signature": "379f20202358972e"
  },
  "law:eflaw:012053": {
+  "attempt_run": "01a1ae6d-d5e",
   "attempts": 0,
   "body_stats": {
    "articles": 41,
    "chars": 14149
   },
-  "collected_signature": "aa1853f093c1010d",
-  "content_hash": "0a48c7a64445148de6bfe174ae1919ef9ad885593af4dd9cf18d65a53eff0db4",
+  "collected_signature": "674f401f98b7cb71",
+  "content_hash": "66b8f1e9d7e9c6c06c2779fc43a5c1133c21883a7db7c409d9e9cc7505029717",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290235&type=HTML&mobileYn=&efYd=20270330",
   "doc_domain": "law",
   "doc_id": "012053",
@@ -101558,8 +101571,8 @@
   "enforcement_date": "20270330",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:08:36.376303+00:00",
-  "last_collected_at": "2026-09-29T19:09:43.973261+00:00",
+  "last_checked_at": "2026-11-06T01:16:36.497226+00:00",
+  "last_collected_at": "2026-11-06T01:17:21.231058+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290235",
@@ -101567,6 +101580,7 @@
   "payload_law_id": "012053",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "674f401f98b7cb71"
@@ -129781,9 +129795,14 @@
   "version_signature": "5621d00cdd284f62"
  },
  "law:eflaw:014553": {
+  "attempt_run": "01a1ae6d-d66",
   "attempts": 0,
-  "collected_signature": "b2691388447ce956",
-  "content_hash": "2b36a30c497f8534c2ca093dc4f7a2bb443ced1562ee29f8ac4b44bcf6295243",
+  "body_stats": {
+   "articles": 27,
+   "chars": 14037
+  },
+  "collected_signature": "d31f0a55c49afacc",
+  "content_hash": "48fed62ad59347c6acb78ab883866c55c732c09df1eacdb1d4c3c7617b1543c4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289385&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "014553",
@@ -129791,15 +129810,18 @@
   "doc_type": "법률",
   "emitted_signature": "b2691388447ce956",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:02:45.474001+00:00",
-  "last_collected_at": "2026-09-08T18:06:49.407821+00:00",
+  "last_checked_at": "2026-11-06T01:16:37.103729+00:00",
+  "last_collected_at": "2026-11-06T01:19:57.241241+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "289385",
   "name": "중부내륙연계발전지역 지원에 관한 특별법",
   "payload_law_id": "014553",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d31f0a55c49afacc"
@@ -137765,13 +137787,14 @@
   "version_signature": "10f40aea48b5bc11"
  },
  "law:eflaw:015090": {
+  "attempt_run": "01a1ae6d-d69",
   "attempts": 0,
   "body_stats": {
    "articles": 51,
    "chars": 15948
   },
-  "collected_signature": "e9105df4fb1af46b",
-  "content_hash": "0bc454339f4c02dd0fc35852461e9f469c294e5e24691332ff1553fe626382fc",
+  "collected_signature": "48409e2b7cd1b776",
+  "content_hash": "304df7ab86b226e5ff147a01e6bed2fd2b4e013bd979b72b27ca26e78313fd4c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285131&type=HTML&mobileYn=&efYd=20281002",
   "doc_domain": "law",
   "doc_id": "015090",
@@ -137781,8 +137804,8 @@
   "enforcement_date": "20281002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T21:14:04.775677+00:00",
-  "last_collected_at": "2026-10-02T21:17:17.648853+00:00",
+  "last_checked_at": "2026-11-06T01:16:41.190225+00:00",
+  "last_collected_at": "2026-11-06T01:19:35.542627+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중대범죄수사청",
   "mst": "285131",
@@ -137790,6 +137813,7 @@
   "payload_law_id": "015090",
   "prev_name": null,
   "promulgation_date": "20260324",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "48409e2b7cd1b776"
