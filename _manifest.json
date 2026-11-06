@@ -464,13 +464,13 @@
   "version_signature": "ba0cbf1a75eb24d8"
  },
  "law:eflaw:000041": {
-  "attempt_run": "01a1ad42-ce8",
+  "attempt_run": "01a1b29b-a72",
   "attempts": 0,
   "body_stats": {
    "articles": 45,
    "chars": 14516
   },
-  "collected_signature": "650b424346e463d3",
+  "collected_signature": "ee7fce4b7662de02",
   "content_hash": "828fd4c7e6a98093541e7b90763d66941070dab1be04a50b9fd45389fb6f1a24",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276235&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
@@ -481,8 +481,8 @@
   "enforcement_date": "20260102",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:50:02.082291+00:00",
-  "last_collected_at": "2026-11-05T19:51:49.384802+00:00",
+  "last_checked_at": "2026-11-06T20:45:08.171223+00:00",
+  "last_collected_at": "2026-11-06T20:46:59.555092+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "276235",
@@ -492,7 +492,7 @@
   "promulgation_date": "20251001",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ee7fce4b7662de02"
  },
  "law:eflaw:000047": {
@@ -70700,13 +70700,13 @@
   "version_signature": "d9f9fdd6c9572f62"
  },
  "law:eflaw:009938": {
-  "attempt_run": "01a1ad42-cea",
+  "attempt_run": "01a1b29b-a82",
   "attempts": 0,
   "body_stats": {
    "articles": 55,
    "chars": 24172
   },
-  "collected_signature": "c81e0adb6d62fcc1",
+  "collected_signature": "bccf99be06e308dc",
   "content_hash": "08dac2e9e96da0a98216fdf3f9f4c99d4f40526975510211c60909d3b7fd6723",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289567&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
@@ -70717,8 +70717,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:50:03.280282+00:00",
-  "last_collected_at": "2026-11-05T19:51:45.670801+00:00",
+  "last_checked_at": "2026-11-06T20:45:08.692690+00:00",
+  "last_collected_at": "2026-11-06T20:46:58.762106+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "우주항공청",
   "mst": "289567",
@@ -70728,7 +70728,7 @@
   "promulgation_date": "20260915",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "bccf99be06e308dc"
  },
  "law:eflaw:009939": {
@@ -80969,13 +80969,13 @@
   "version_signature": "3982c8723c6a8e3f"
  },
  "law:eflaw:010587": {
-  "attempt_run": "01a1ad42-ce5",
+  "attempt_run": "01a1b29b-a76",
   "attempts": 0,
   "body_stats": {
    "articles": 9,
    "chars": 1946
   },
-  "collected_signature": "ad376d1c5eeced2c",
+  "collected_signature": "ba717eb668f41818",
   "content_hash": "ba74f77adc82c0f75902f760026fa1305b78d633d534186e913340d75705f6ad",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259391&type=HTML&mobileYn=&efYd=20240527",
   "doc_domain": "law",
@@ -80986,8 +80986,8 @@
   "enforcement_date": "20240527",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:49:59.275768+00:00",
-  "last_collected_at": "2026-11-05T19:50:51.648909+00:00",
+  "last_checked_at": "2026-11-06T20:45:10.088575+00:00",
+  "last_collected_at": "2026-11-06T20:46:29.539846+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "우주항공청",
   "mst": "259391",
@@ -80997,7 +80997,7 @@
   "promulgation_date": "20240126",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ba717eb668f41818"
  },
  "law:eflaw:010588": {
@@ -100148,8 +100148,14 @@
   "version_signature": "12849d652820f952"
  },
  "law:eflaw:011879": {
-  "collected_signature": "e11c6b1d91070b44",
-  "content_hash": "223c65f9560c93be00c8e79cd007e79fd875dcdc469eb466f4567756d0c983a4",
+  "attempt_run": "01a1b29b-a7e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 8738
+  },
+  "collected_signature": "ada2ff2c5c8af04a",
+  "content_hash": "61b0f3c3125dddf5ef89ea23ffd290ffdf7509cbc25aeaa8300dd0fada06b40c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291709&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "011879",
@@ -100157,16 +100163,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "e11c6b1d91070b44",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T14:40:49.188707+00:00",
-  "last_collected_at": "2026-08-24T14:43:59.741945+00:00",
+  "last_checked_at": "2026-11-06T20:45:09.337882+00:00",
+  "last_collected_at": "2026-11-06T20:46:33.074480+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "과학기술정보통신부,행정안전부",
   "mst": "291709",
   "name": "우정사업본부 직제",
   "payload_law_id": "011879",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "ada2ff2c5c8af04a"
  },
@@ -100250,8 +100259,14 @@
   "version_signature": "9475f35c899aa802"
  },
  "law:eflaw:011883": {
-  "collected_signature": "34eeb5e7d605e34a",
-  "content_hash": "45d70ed4c3c6a985b1a22851fc4d9ca4cff1687e63074bab39fd8cf0c1fe04fd",
+  "attempt_run": "01a1b29b-a85",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 20222
+  },
+  "collected_signature": "feee7ef3c2f53ad0",
+  "content_hash": "794f4c1747671eb22e460d831ad88c3207d36daeb96b82ca8a6cd555e30ad7dd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291681&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "011883",
@@ -100259,17 +100274,20 @@
   "doc_type": "과학기술정보통신부령",
   "emitted_signature": "34eeb5e7d605e34a",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T14:40:50.120749+00:00",
-  "last_collected_at": "2026-08-24T14:42:39.974845+00:00",
+  "last_checked_at": "2026-11-06T20:45:12.230318+00:00",
+  "last_collected_at": "2026-11-06T20:46:19.803539+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "291681",
   "name": "우정사업본부 직제 시행규칙",
   "payload_law_id": "011883",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
-  "version_count": 2,
+  "sanity_hold": null,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "feee7ef3c2f53ad0"
  },
  "law:eflaw:011885": {
@@ -108059,13 +108077,13 @@
   "version_signature": "1fd38ef86218ce9e"
  },
  "law:eflaw:012460": {
-  "attempt_run": "01a1ad3e-7cc",
+  "attempt_run": "01a1b29b-a7a",
   "attempts": 0,
   "body_stats": {
    "articles": 10,
    "chars": 2806
   },
-  "collected_signature": "9cc80770c331fc1f",
+  "collected_signature": "21ba621baf94a1fe",
   "content_hash": "24f52419ce745bb2ef769d96fd43d2e4ef2ec6013ec719e64c0a5f548982218f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289883&type=HTML&mobileYn=&efYd=20260915",
   "doc_domain": "law",
@@ -108076,8 +108094,8 @@
   "enforcement_date": "20260915",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:45:16.257105+00:00",
-  "last_collected_at": "2026-11-05T19:46:40.235298+00:00",
+  "last_checked_at": "2026-11-06T20:45:11.486281+00:00",
+  "last_collected_at": "2026-11-06T20:46:57.336337+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국토교통부,해양수산부",
   "mst": "289883",
@@ -108087,7 +108105,7 @@
   "promulgation_date": "20260915",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "21ba621baf94a1fe"
  },
  "law:eflaw:012463": {
