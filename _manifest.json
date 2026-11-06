@@ -21221,13 +21221,14 @@
   "version_signature": "af177fcf4bdd8459"
  },
  "law:eflaw:002370": {
+  "attempt_run": "01a1b165-3c0",
   "attempts": 0,
   "body_stats": {
-   "articles": 31,
-   "chars": 10476
+   "articles": 32,
+   "chars": 11052
   },
-  "collected_signature": "218fef0eac0fbf60",
-  "content_hash": "bbc21e3e1db591c3f11fd323bdb4ddc479d29839b1dcbfaaf994327b42e6c733",
+  "collected_signature": "722a0badc6348e1f",
+  "content_hash": "49b5b80332148c4602e05c7196f4b595ab6ccf4d3e80437b0ac5cea592a236b4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291707&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "002370",
@@ -21237,8 +21238,8 @@
   "enforcement_date": "20261106",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:13:59.589429+00:00",
-  "last_collected_at": "2026-10-01T15:15:58.137071+00:00",
+  "last_checked_at": "2026-11-06T15:06:06.193935+00:00",
+  "last_collected_at": "2026-11-06T15:08:18.469879+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "공정거래위원회,행정안전부",
   "mst": "291707",
@@ -21246,7 +21247,8 @@
   "payload_law_id": "002370",
   "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "722a0badc6348e1f"
  },
@@ -45778,13 +45780,14 @@
   "version_signature": "be5fa301a2442be0"
  },
  "law:eflaw:006355": {
+  "attempt_run": "01a1b165-3b5",
   "attempts": 0,
   "body_stats": {
    "articles": 28,
-   "chars": 30893
+   "chars": 31139
   },
-  "collected_signature": "07040767671edada",
-  "content_hash": "9d65f49fdae9676a925b83577f073a8523a2b7963c7eb016635500f8749310f2",
+  "collected_signature": "e740db28a55a9fd9",
+  "content_hash": "e395135bc6404d9ea227eeb8815ba9570ff1afe0d1e1110e2bc629b95f9f5e43",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291829&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "006355",
@@ -45794,8 +45797,8 @@
   "enforcement_date": "20261106",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T15:13:59.079079+00:00",
-  "last_collected_at": "2026-10-01T15:16:11.254936+00:00",
+  "last_checked_at": "2026-11-06T15:06:04.309172+00:00",
+  "last_collected_at": "2026-11-06T15:08:28.259593+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "공정거래위원회",
   "mst": "291829",
@@ -45803,7 +45806,8 @@
   "payload_law_id": "006355",
   "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "e740db28a55a9fd9"
  },
@@ -67997,8 +68001,14 @@
   "version_signature": "9fbfe6a93331324f"
  },
  "law:eflaw:009724": {
+  "attempt_run": "01a1b165-3bb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 74,
+   "chars": 37346
+  },
   "collected_signature": "6aef928ad221d4df",
-  "content_hash": "533be901c4e5ef4f2a5faaf01288b075fef390168461882bcbb768c411c707d3",
+  "content_hash": "c89e04b44f63d9c3f21460e5c3e9e0e05cbcd6a6190bd3bcad810935e16019d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289013&type=HTML&mobileYn=&efYd=20260824",
   "doc_domain": "law",
   "doc_id": "009724",
@@ -68006,16 +68016,19 @@
   "doc_type": "국토교통부령",
   "emitted_signature": "6aef928ad221d4df",
   "enforcement_date": "20260824",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T12:45:26.617074+00:00",
-  "last_collected_at": "2026-08-22T12:59:28.073823+00:00",
+  "last_checked_at": "2026-11-06T15:06:05.337402+00:00",
+  "last_collected_at": "2026-11-06T15:10:27.794910+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국토교통부",
   "mst": "289013",
   "name": "공공주택 특별법 시행규칙",
   "payload_law_id": "009724",
+  "prev_name": null,
   "promulgation_date": "20260824",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "6aef928ad221d4df"
  },
@@ -138254,8 +138267,14 @@
   "version_signature": "fd09de944ef9e619"
  },
  "law:eflaw:015067": {
+  "attempt_run": "01a1b165-3b7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 14,
+   "chars": 5002
+  },
   "collected_signature": "3d14c9a0a538dbf5",
-  "content_hash": "38b9abfb1ea9fb656b0abb42381bb41cc16b8c6d5813f68c3e55d9aa4227f9aa",
+  "content_hash": "a475358f1f371d84f51965346c204bb8ca5583107914c1c241dd96fe0f716bf3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284453&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "015067",
@@ -138263,16 +138282,19 @@
   "doc_type": "법률",
   "emitted_signature": "3d14c9a0a538dbf5",
   "enforcement_date": "20260918",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T14:01:46.342430+00:00",
-  "last_collected_at": "2026-08-22T14:01:50.235280+00:00",
+  "last_checked_at": "2026-11-06T15:06:09.181338+00:00",
+  "last_collected_at": "2026-11-06T15:07:48.342475+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "고용노동부",
   "mst": "284453",
   "name": "공무직위원회 설치 및 운영에 관한 법률",
   "payload_law_id": "015067",
+  "prev_name": null,
   "promulgation_date": "20260317",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "3d14c9a0a538dbf5"
  },
@@ -140534,13 +140556,14 @@
   "version_signature": "67434a6e5f6722ac"
  },
  "law:eflaw:015208": {
+  "attempt_run": "01a1b165-3ba",
   "attempts": 0,
   "body_stats": {
    "articles": 10,
    "chars": 2321
   },
   "collected_signature": "e8897b3ca74877e2",
-  "content_hash": "cebf2c02ef3a78f0a58d07071f0c2c092a07917b80eb18dde978cf45b27d2fad",
+  "content_hash": "2ecafba0d904ce1953a387de8911f8cb18bbbfdc8964ea22e35042d508b4b6fa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289711&type=HTML&mobileYn=&efYd=20260918",
   "doc_domain": "law",
   "doc_id": "015208",
@@ -140550,8 +140573,8 @@
   "enforcement_date": "20260918",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T15:04:15.050811+00:00",
-  "last_collected_at": "2026-09-15T15:04:17.970040+00:00",
+  "last_checked_at": "2026-11-06T15:06:07.207279+00:00",
+  "last_collected_at": "2026-11-06T15:07:41.290313+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "고용노동부",
   "mst": "289711",
@@ -140559,7 +140582,8 @@
   "payload_law_id": "015208",
   "prev_name": null,
   "promulgation_date": "20260915",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "e8897b3ca74877e2"
  },
@@ -140800,13 +140824,14 @@
   "version_signature": "5fd08653f03a43fd"
  },
  "law:eflaw:015221": {
+  "attempt_run": "01a1b165-3bd",
   "attempts": 0,
   "body_stats": {
    "articles": 52,
    "chars": 30620
   },
   "collected_signature": "e21951f152beb8fc",
-  "content_hash": "5a59c65daed571f057e6086004052e824381e7589f3e9155dd3d9f45819ee621",
+  "content_hash": "4ddb9d3ed624d71fa88605966b02efd8e8a65c009571a95938d158dd553fb100",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290251&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
   "doc_id": "015221",
@@ -140816,8 +140841,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T15:31:35.364333+00:00",
-  "last_collected_at": "2026-09-29T15:31:38.213644+00:00",
+  "last_checked_at": "2026-11-06T15:06:04.761771+00:00",
+  "last_collected_at": "2026-11-06T15:07:46.942532+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "행정안전부",
   "mst": "290251",
@@ -140825,7 +140850,8 @@
   "payload_law_id": "015221",
   "prev_name": null,
   "promulgation_date": "20260929",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "e21951f152beb8fc"
  },
