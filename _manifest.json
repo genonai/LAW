@@ -23288,13 +23288,14 @@
   "version_signature": "023adf6b37265fe4"
  },
  "law:eflaw:002863": {
+  "attempt_run": "01a1b16c-0c0",
   "attempts": 0,
   "body_stats": {
-   "articles": 45,
-   "chars": 18295
+   "articles": 46,
+   "chars": 18881
   },
-  "collected_signature": "652b2e7bf9408cdd",
-  "content_hash": "7cbec0a28d0268f227492801abc88c496f5a179a7b44b7ea3c6f5ff6bdab3291",
+  "collected_signature": "28d85e9d91bdac62",
+  "content_hash": "bad0a6ef3c4f3497100350506d7da61324c5864138af61d3a6701b6d87051981",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291631&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "002863",
@@ -23304,8 +23305,8 @@
   "enforcement_date": "20261106",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T16:39:17.399312+00:00",
-  "last_collected_at": "2026-10-02T16:41:33.359545+00:00",
+  "last_checked_at": "2026-11-06T15:13:31.041286+00:00",
+  "last_collected_at": "2026-11-06T15:15:21.283425+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국방부,행정안전부",
@@ -23314,7 +23315,8 @@
   "payload_law_id": "002863",
   "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "28d85e9d91bdac62"
  },
@@ -47545,13 +47547,14 @@
   "version_signature": "a409cde572d5bf06"
  },
  "law:eflaw:006737": {
+  "attempt_run": "01a1b16c-0cf",
   "attempts": 0,
   "body_stats": {
    "articles": 37,
-   "chars": 43887
+   "chars": 44211
   },
-  "collected_signature": "61766ba6920f2369",
-  "content_hash": "1f1f03f16783a3732a064ab40c83fcd0db1aa3be17b3a2d46f7479b27de748cd",
+  "collected_signature": "9f0d50c150f6106c",
+  "content_hash": "7fce0faa68317d15dd4cda5c02c49ba02714a83a5325be9ae25b738c44e4fd5f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291691&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "006737",
@@ -47561,8 +47564,8 @@
   "enforcement_date": "20261106",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T16:39:17.759241+00:00",
-  "last_collected_at": "2026-10-02T16:41:46.687391+00:00",
+  "last_checked_at": "2026-11-06T15:13:32.971704+00:00",
+  "last_collected_at": "2026-11-06T15:15:17.543109+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국방부",
@@ -47571,7 +47574,8 @@
   "payload_law_id": "006737",
   "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "9f0d50c150f6106c"
  },
@@ -128722,9 +128726,14 @@
   "version_signature": "038c183bfddbc8e9"
  },
  "law:eflaw:014423": {
+  "attempt_run": "01a1b16c-0c8",
   "attempts": 0,
-  "collected_signature": "13c951fd08561e5d",
-  "content_hash": "2976a608a2eaa3350ee4d5289b0311fd436b2c531e04e419829b9592437f4244",
+  "body_stats": {
+   "articles": 36,
+   "chars": 10915
+  },
+  "collected_signature": "c581c7feed6722b0",
+  "content_hash": "1559ca40abf4674cd0b62c09fc37c59de212ea6566f211f3d3861943f1dd2a22",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291635&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "014423",
@@ -128732,17 +128741,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "13c951fd08561e5d",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:59:20.412052+00:00",
-  "last_collected_at": "2026-09-03T03:00:38.027508+00:00",
+  "last_checked_at": "2026-11-06T15:13:35.388154+00:00",
+  "last_collected_at": "2026-11-06T15:15:02.189824+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국가보훈부,행정안전부",
   "mst": "291635",
   "name": "국가보훈부와 그 소속기관 직제",
   "payload_law_id": "014423",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "c581c7feed6722b0"
  },
@@ -129102,9 +129114,14 @@
   "version_signature": "a9104eeba2c4af7d"
  },
  "law:eflaw:014454": {
+  "attempt_run": "01a1b16c-0c4",
   "attempts": 0,
-  "collected_signature": "991432dad5066c48",
-  "content_hash": "0915292f70ba7443333488ceebc2a9556c507da806533c8e2bd42d797a90699c",
+  "body_stats": {
+   "articles": 30,
+   "chars": 22968
+  },
+  "collected_signature": "967f69c31c970a98",
+  "content_hash": "4030735748a1956844f69e71540753542f60de7c5515998a12298abb74edd67a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291851&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "014454",
@@ -129112,17 +129129,20 @@
   "doc_type": "국가보훈부령",
   "emitted_signature": "991432dad5066c48",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T02:59:19.865135+00:00",
-  "last_collected_at": "2026-09-03T02:59:58.697365+00:00",
+  "last_checked_at": "2026-11-06T15:13:31.417185+00:00",
+  "last_collected_at": "2026-11-06T15:14:30.640632+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "국가보훈부",
   "mst": "291851",
   "name": "국가보훈부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "014454",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "967f69c31c970a98"
  },
@@ -138937,8 +138957,14 @@
   "version_signature": "ba6fe1ac4a807faf"
  },
  "law:eflaw:015113": {
+  "attempt_run": "01a1b16c-0cd",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 3494
+  },
   "collected_signature": "56f38d08d8b11ad8",
-  "content_hash": "829579b726ea02d575de7eca8a5891b5439543320c7f60d61b3554adb79cbfe2",
+  "content_hash": "757820060f003d05d0aad4a4c0654b1f1a440674fc0ac7f9a88c5b8e70ace0bc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285637&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "015113",
@@ -138946,16 +138972,19 @@
   "doc_type": "법률",
   "emitted_signature": "56f38d08d8b11ad8",
   "enforcement_date": "20261029",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-22T23:37:42.753426+00:00",
-  "last_collected_at": "2026-08-22T23:37:45.558887+00:00",
+  "last_checked_at": "2026-11-06T15:13:32.060422+00:00",
+  "last_collected_at": "2026-11-06T15:14:15.759985+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "문화체육관광부",
   "mst": "285637",
   "name": "국제문화행사 지원에 관한 법률",
   "payload_law_id": "015113",
+  "prev_name": null,
   "promulgation_date": "20260428",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "56f38d08d8b11ad8"
  },
@@ -141150,14 +141179,14 @@
   "version_signature": "a5e1d644d8fd8dcc"
  },
  "law:eflaw:015236": {
-  "attempt_run": "01a17de0-8ff",
+  "attempt_run": "01a1b16c-0cb",
   "attempts": 0,
   "body_stats": {
    "articles": 8,
    "chars": 2301
   },
   "collected_signature": "bf446b7df7496ca6",
-  "content_hash": "a9742143e966ef2acedbcbf3c94e98e77b395aa51fa618155eb388725befddde",
+  "content_hash": "a9cd9b1a39995c7035500a295bf085072bd4dd3dcff52ae254cbdec2d644254d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291475&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "015236",
@@ -141167,8 +141196,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:00:33.051959+00:00",
-  "last_collected_at": "2026-10-27T15:00:39.781049+00:00",
+  "last_checked_at": "2026-11-06T15:13:34.216525+00:00",
+  "last_collected_at": "2026-11-06T15:14:46.557256+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "문화체육관광부",
   "mst": "291475",
@@ -141177,7 +141206,7 @@
   "prev_name": null,
   "promulgation_date": "20261027",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "bf446b7df7496ca6"
  },
