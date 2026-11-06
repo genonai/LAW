@@ -1981,13 +1981,13 @@
   "version_signature": "a4c280b52514ad02"
  },
  "law:eflaw:000183": {
-  "attempt_run": "01a1ac39-d3f",
+  "attempt_run": "01a1b17b-f68",
   "attempts": 0,
   "body_stats": {
    "articles": 66,
    "chars": 22131
   },
-  "collected_signature": "32585cc5e2386ead",
+  "collected_signature": "14604a903de8fa95",
   "content_hash": "b5cae85be1f7d462120781636114f820b13c88457af4b034565aa03616967298",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286727&type=HTML&mobileYn=&efYd=20260910",
   "doc_domain": "law",
@@ -1998,8 +1998,8 @@
   "enforcement_date": "20260910",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:38.540696+00:00",
-  "last_collected_at": "2026-11-05T15:02:46.236421+00:00",
+  "last_checked_at": "2026-11-06T15:30:53.975859+00:00",
+  "last_collected_at": "2026-11-06T15:32:45.388876+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "보건복지부",
   "mst": "286727",
@@ -2009,7 +2009,7 @@
   "promulgation_date": "20260609",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "14604a903de8fa95"
  },
  "law:eflaw:000184": {
@@ -27028,8 +27028,14 @@
   "version_signature": "c8601ec500cf9781"
  },
  "law:eflaw:003494": {
-  "collected_signature": "43e3be26c27a0a0e",
-  "content_hash": "b8e4e7fde7a77669b973babc1123eed72a324356740d35dec4c3dc6f05dca79e",
+  "attempt_run": "01a1b17b-f6d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 16,
+   "chars": 4638
+  },
+  "collected_signature": "0ef12893e9c9ae34",
+  "content_hash": "407670f079104ec0b9defb0b920af1afc93f8bc0225ef1828247261c5850969d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291643&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "003494",
@@ -27037,16 +27043,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "43e3be26c27a0a0e",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T12:24:37.790673+00:00",
-  "last_collected_at": "2026-08-23T12:28:34.008870+00:00",
+  "last_checked_at": "2026-11-06T15:30:56.906445+00:00",
+  "last_collected_at": "2026-11-06T15:32:00.607674+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "산업통상부,행정안전부",
   "mst": "291643",
   "name": "무역위원회직제",
   "payload_law_id": "003494",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "0ef12893e9c9ae34"
  },
@@ -82326,9 +82335,14 @@
   "version_signature": "2af74ab11f6a990b"
  },
  "law:eflaw:010670": {
+  "attempt_run": "01a1b17b-f6a",
   "attempts": 0,
-  "collected_signature": "1bfc8182b6033626",
-  "content_hash": "985674375c9a3859164f6213869e28b32ae433adbe20a6ad6ec29ccabb9796ea",
+  "body_stats": {
+   "articles": 109,
+   "chars": 30500
+  },
+  "collected_signature": "4f5ddbe3e917996d",
+  "content_hash": "4d555c40ab22597c50ec694d6b7005a7ced7f1406218f7c658809a1b610ceae6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291637&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "010670",
@@ -82336,17 +82350,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "1bfc8182b6033626",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-03T03:43:35.567212+00:00",
-  "last_collected_at": "2026-09-03T03:46:33.911134+00:00",
+  "last_checked_at": "2026-11-06T15:30:57.814011+00:00",
+  "last_collected_at": "2026-11-06T15:33:25.837100+00:00",
   "last_error": "Child Workflow execution failed",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "문화체육관광부,행정안전부",
   "mst": "291637",
   "name": "문화체육관광부와 그 소속기관 직제",
   "payload_law_id": "010670",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "4f5ddbe3e917996d"
  },
@@ -96565,13 +96582,13 @@
   "version_signature": "536aad07c6f8c8b3"
  },
  "law:eflaw:011620": {
-  "attempt_run": "01a1ac39-d4f",
+  "attempt_run": "01a1b17b-f73",
   "attempts": 0,
   "body_stats": {
    "articles": 65,
    "chars": 31882
   },
-  "collected_signature": "6eb0f62f0f1c0643",
+  "collected_signature": "93119c32287c2e2c",
   "content_hash": "b1ea59fabe42631b8817691dd8a8793a347c988e47502541a272f5d9b765bdac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=259037&type=HTML&mobileYn=&efYd=20240724",
   "doc_domain": "law",
@@ -96582,8 +96599,8 @@
   "enforcement_date": "20240724",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:38.174735+00:00",
-  "last_collected_at": "2026-11-05T15:03:17.836087+00:00",
+  "last_checked_at": "2026-11-06T15:30:55.806134+00:00",
+  "last_collected_at": "2026-11-06T15:33:45.189099+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "산림청",
   "mst": "259037",
@@ -96593,7 +96610,7 @@
   "promulgation_date": "20240123",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "93119c32287c2e2c"
  },
  "law:eflaw:011621": {
@@ -101479,13 +101496,13 @@
   "version_signature": "48c2decdb19cf0c3"
  },
  "law:eflaw:012001": {
-  "attempt_run": "01a1ac3e-5d8",
+  "attempt_run": "01a1b17b-f70",
   "attempts": 0,
   "body_stats": {
    "articles": 16,
    "chars": 3892
   },
-  "collected_signature": "4b5b7611028ca54e",
+  "collected_signature": "c51f15a19034f49a",
   "content_hash": "80fa912d655ae2af33c949e64346515811359ebb2991a59b750ff20a05110a49",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=251065&type=HTML&mobileYn=&efYd=20240517",
   "doc_domain": "law",
@@ -101496,8 +101513,8 @@
   "enforcement_date": "20240517",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:05:35.045695+00:00",
-  "last_collected_at": "2026-11-05T15:06:36.056132+00:00",
+  "last_checked_at": "2026-11-06T15:30:54.539964+00:00",
+  "last_collected_at": "2026-11-06T15:32:00.191309+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "문화체육관광부",
   "mst": "251065",
@@ -101507,7 +101524,7 @@
   "promulgation_date": "20230516",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c51f15a19034f49a"
  },
  "law:eflaw:012002": {
@@ -108332,14 +108349,14 @@
   "version_signature": "d0d0ac8f3fb3b62f"
  },
  "law:eflaw:012490": {
-  "attempt_run": "01a1ac39-d41",
+  "attempt_run": "01a1b17b-f75",
   "attempts": 0,
   "body_stats": {
    "articles": 35,
    "chars": 9953
   },
-  "collected_signature": "47e72cc745ab62f1",
-  "content_hash": "910de0443cdd1bfaa9cf386f9cbfe5fe79844bc52d3c34076237c1e7ddf17ad4",
+  "collected_signature": "fe71cc985e9f74b5",
+  "content_hash": "973a991831506df82f6053824a79b821bdab4e19f33eabe58df02686ce93bf19",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268747&type=HTML&mobileYn=&efYd=20250801",
   "doc_domain": "law",
   "doc_id": "012490",
@@ -108349,8 +108366,8 @@
   "enforcement_date": "20250801",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T15:00:34.190011+00:00",
-  "last_collected_at": "2026-11-05T15:01:39.754358+00:00",
+  "last_checked_at": "2026-11-06T15:30:55.093443+00:00",
+  "last_collected_at": "2026-11-06T15:32:41.074394+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "문화체육관광부",
   "mst": "268747",
@@ -108360,7 +108377,7 @@
   "promulgation_date": "20250131",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "fe71cc985e9f74b5"
  },
  "law:eflaw:012491": {
