@@ -5841,13 +5841,14 @@
   "version_signature": "2223d1d212528b12"
  },
  "law:eflaw:000815": {
+  "attempt_run": "01a1aeaf-8fa",
   "attempts": 0,
   "body_stats": {
    "articles": 67,
    "chars": 28781
   },
-  "collected_signature": "698822b48fae1095",
-  "content_hash": "66e93dba9acc1e59f3b5b5badbdba0475d2e4ee40b9794331fe6fa46297d29db",
+  "collected_signature": "5ba42142f927b0cc",
+  "content_hash": "8e9f766d071e2a8edf6706d8ba29188b5435e156a87b330851ce4219ad3be9b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285397&type=HTML&mobileYn=&efYd=20270408",
   "doc_domain": "law",
   "doc_id": "000815",
@@ -5857,8 +5858,8 @@
   "enforcement_date": "20270408",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:29:42.838960+00:00",
-  "last_collected_at": "2026-10-08T01:35:10.331274+00:00",
+  "last_checked_at": "2026-11-06T02:28:25.508696+00:00",
+  "last_collected_at": "2026-11-06T02:32:29.833173+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "285397",
@@ -5866,6 +5867,7 @@
   "payload_law_id": "000815",
   "prev_name": null,
   "promulgation_date": "20260407",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "5ba42142f927b0cc"
@@ -5903,8 +5905,14 @@
   "version_signature": "407fda0879b72998"
  },
  "law:eflaw:000820": {
-  "collected_signature": "fa9c2dbc69477fcd",
-  "content_hash": "197bf0c5e88ca1ac41a5d06abd5f5f7b9037777f7892082073ecee4b11e48b7b",
+  "attempt_run": "01a1aeaf-8f3",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 53,
+   "chars": 18711
+  },
+  "collected_signature": "fd7fac40c20abc59",
+  "content_hash": "1df8f0eb480663c8ef2db8a80d7eb1f0f201ac8121743d04352e68e0bd42faf5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286369&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "000820",
@@ -5912,15 +5920,18 @@
   "doc_type": "법률",
   "emitted_signature": "fa9c2dbc69477fcd",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:39:05.362888+00:00",
-  "last_collected_at": "2026-08-25T18:44:24.002657+00:00",
+  "last_checked_at": "2026-11-06T02:28:26.844581+00:00",
+  "last_collected_at": "2026-11-06T02:31:31.657244+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "문화체육관광부",
   "mst": "286369",
   "name": "체육시설의 설치ㆍ이용에 관한 법률",
   "payload_law_id": "000820",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "fd7fac40c20abc59"
@@ -36134,8 +36145,14 @@
   "version_signature": "9e68ac1be869f27f"
  },
  "law:eflaw:005206": {
-  "collected_signature": "0b7d9985069b1484",
-  "content_hash": "bcd0758b46ff3944d382c47c7e7611122f66ad5bdf26fffe1a319621379347c7",
+  "attempt_run": "01a1aeaf-8f5",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 48,
+   "chars": 11135
+  },
+  "collected_signature": "a7bd842819db6019",
+  "content_hash": "426275839bdf1048cae9194014af8872edb5c068670b10b6888481d5970248b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284883&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "005206",
@@ -36143,17 +36160,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "0b7d9985069b1484",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:04.520860+00:00",
-  "last_collected_at": "2026-08-25T18:26:12.510821+00:00",
+  "last_checked_at": "2026-11-06T02:28:24.745932+00:00",
+  "last_collected_at": "2026-11-06T02:31:27.783411+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "284883",
   "name": "청소년 기본법 시행령",
   "payload_law_id": "005206",
+  "prev_name": null,
   "promulgation_date": "20260324",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "a7bd842819db6019"
  },
  "law:eflaw:005209": {
@@ -67080,8 +67100,14 @@
   "version_signature": "3a1491726f3347e5"
  },
  "law:eflaw:009681": {
-  "collected_signature": "c072e75548dc8d7f",
-  "content_hash": "225fa16325f2a4256ff03afe7954331844ad8585368038fc56d242ea46a2a7b0",
+  "attempt_run": "01a1aeaf-8f7",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 58,
+   "chars": 21283
+  },
+  "collected_signature": "d0c0ed8ca1c3f762",
+  "content_hash": "0bfb4ad6de4f21d0e7f8dc9bfc47ecbf2aa698a7ea7f2ee55f24e079afc48d61",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285871&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "009681",
@@ -67089,15 +67115,18 @@
   "doc_type": "법률",
   "emitted_signature": "c072e75548dc8d7f",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:27:13.904478+00:00",
-  "last_collected_at": "2026-08-25T18:33:24.718140+00:00",
+  "last_checked_at": "2026-11-06T02:28:24.187816+00:00",
+  "last_collected_at": "2026-11-06T02:31:41.937599+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "285871",
   "name": "청소년복지 지원법",
   "payload_law_id": "009681",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d0c0ed8ca1c3f762"
@@ -69752,13 +69781,14 @@
   "version_signature": "f8d2e68be04a13a2"
  },
  "law:eflaw:009908": {
+  "attempt_run": "01a1aeaf-8f0",
   "attempts": 0,
   "body_stats": {
    "articles": 30,
    "chars": 15016
   },
-  "collected_signature": "fb61ddfeda67e207",
-  "content_hash": "388dbf6726728b965ca48c108a0f96d5ed412f3a43067f2c2ec63b5f90263c08",
+  "collected_signature": "42bcf1e902fc5df2",
+  "content_hash": "0cc039abdf4a2a4b4d26070c99948facc85f667096bfd30f02b572e37ad22bd3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289491&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "009908",
@@ -69768,8 +69798,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-13T16:08:55.852263+00:00",
-  "last_collected_at": "2026-10-13T16:14:56.805354+00:00",
+  "last_checked_at": "2026-11-06T02:28:23.710869+00:00",
+  "last_collected_at": "2026-11-06T02:33:00.629728+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "289491",
@@ -69777,6 +69807,7 @@
   "payload_law_id": "009908",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "42bcf1e902fc5df2"
@@ -118453,13 +118484,14 @@
   "version_signature": "e40a74f6a9d041fd"
  },
  "law:eflaw:013751": {
+  "attempt_run": "01a1aeaf-8fe",
   "attempts": 0,
   "body_stats": {
    "articles": 45,
    "chars": 28157
   },
-  "collected_signature": "64ef116a953a7a3c",
-  "content_hash": "a72f6706588c4e2434412dc3b7779c3de0a9995cabfe3213d1b8af2e0f42ec43",
+  "collected_signature": "1f0d7886b286c226",
+  "content_hash": "5bae841f2fc9fa2ce2dcb6f06a93aeed2fcfb01c75d89a8d8c2b4f3884644882",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289983&type=HTML&mobileYn=&efYd=20270919",
   "doc_domain": "law",
   "doc_id": "013751",
@@ -118469,8 +118501,8 @@
   "enforcement_date": "20270919",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:00:40.567628+00:00",
-  "last_collected_at": "2026-09-18T18:04:38.860107+00:00",
+  "last_checked_at": "2026-11-06T02:28:27.696391+00:00",
+  "last_collected_at": "2026-11-06T02:33:44.063433+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "식품의약품안전처",
   "mst": "289983",
@@ -118478,6 +118510,7 @@
   "payload_law_id": "013751",
   "prev_name": null,
   "promulgation_date": "20260918",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "1f0d7886b286c226"
