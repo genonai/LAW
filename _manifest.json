@@ -4066,8 +4066,14 @@
   "version_signature": "308aa56e9d1a751f"
  },
  "law:eflaw:000474": {
+  "attempt_run": "01a1b27d-0f4",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 22365
+  },
   "collected_signature": "f760e6df4fb58d47",
-  "content_hash": "3e12bb54a60a2c31a35a4edbb438302ebd6f6b4b18f8c94a2dc4b7a4401f253c",
+  "content_hash": "bfea42fea2d0720f1a4d8cfbfe326e411408f89b028736b51d897f9d6792bf13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285933&type=HTML&mobileYn=&efYd=20260827",
   "doc_domain": "law",
   "doc_id": "000474",
@@ -4075,16 +4081,19 @@
   "doc_type": "법률",
   "emitted_signature": "f760e6df4fb58d47",
   "enforcement_date": "20260827",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:43:53.610572+00:00",
-  "last_collected_at": "2026-08-26T23:46:52.662807+00:00",
+  "last_checked_at": "2026-11-06T20:11:43.955895+00:00",
+  "last_collected_at": "2026-11-06T20:14:38.736335+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "농림축산식품부",
   "mst": "285933",
   "name": "양곡관리법",
   "payload_law_id": "000474",
+  "prev_name": null,
   "promulgation_date": "20260512",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "f760e6df4fb58d47"
  },
@@ -16373,13 +16382,13 @@
   "version_signature": "12887f98d5159d13"
  },
  "law:eflaw:001783": {
-  "attempt_run": "01a1ad23-437",
+  "attempt_run": "01a1b27d-0f3",
   "attempts": 0,
   "body_stats": {
    "articles": 222,
    "chars": 132358
   },
-  "collected_signature": "ca5e8bba7c0b1a21",
+  "collected_signature": "024f17ed69259d9a",
   "content_hash": "03dcc0c397870ac25c95e59f6d9b41cd1c5ce0cbc245e5ac15a20d6bf524c5e9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285341&type=HTML&mobileYn=&efYd=20261008",
   "doc_domain": "law",
@@ -16390,8 +16399,8 @@
   "enforcement_date": "20261008",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:15:33.876324+00:00",
-  "last_collected_at": "2026-11-05T19:27:39.751400+00:00",
+  "last_checked_at": "2026-11-06T20:11:47.085067+00:00",
+  "last_collected_at": "2026-11-06T20:22:38.643035+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "285341",
@@ -16401,7 +16410,7 @@
   "promulgation_date": "20260407",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 8,
+  "version_count": 1,
   "version_signature": "024f17ed69259d9a"
  },
  "law:eflaw:001784": {
@@ -17058,13 +17067,13 @@
   "version_signature": "6dc19c2855fb87ce"
  },
  "law:eflaw:001849": {
-  "attempt_run": "01a1ad23-435",
+  "attempt_run": "01a1b27d-0ef",
   "attempts": 0,
   "body_stats": {
    "articles": 88,
    "chars": 48703
   },
-  "collected_signature": "691c8973d4b62836",
+  "collected_signature": "a71fa673a73d0e48",
   "content_hash": "369a6c823f77fb2c3824bf976cd2d74dd3d6e447ba7e9c4fa338918cda9a2819",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276549&type=HTML&mobileYn=&efYd=20251128",
   "doc_domain": "law",
@@ -17075,8 +17084,8 @@
   "enforcement_date": "20251128",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:15:32.406238+00:00",
-  "last_collected_at": "2026-11-05T19:19:40.976031+00:00",
+  "last_checked_at": "2026-11-06T20:11:46.048894+00:00",
+  "last_collected_at": "2026-11-06T20:16:25.515522+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "산업통상부",
   "mst": "276549",
@@ -17086,7 +17095,7 @@
   "promulgation_date": "20251001",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a71fa673a73d0e48"
  },
  "law:eflaw:001850": {
@@ -67424,13 +67433,13 @@
   "version_signature": "c9cb08b00f11a005"
  },
  "law:eflaw:009680": {
-  "attempt_run": "01a1ad23-431",
+  "attempt_run": "01a1b27d-0eb",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
    "chars": 16321
   },
-  "collected_signature": "3a1491726f3347e5",
+  "collected_signature": "cefc384537a2419d",
   "content_hash": "05c4aa4043d1fd6c8effb9123ad4b9a72eb377857091e66cf903aca2dab6d9eb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=276767&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
@@ -67441,8 +67450,8 @@
   "enforcement_date": "20251001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:15:32.020971+00:00",
-  "last_collected_at": "2026-11-05T19:16:52.873289+00:00",
+  "last_checked_at": "2026-11-06T20:11:42.939013+00:00",
+  "last_collected_at": "2026-11-06T20:12:45.539881+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "기후에너지환경부",
   "mst": "276767",
@@ -67452,7 +67461,7 @@
   "promulgation_date": "20251001",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cefc384537a2419d"
  },
  "law:eflaw:009681": {
@@ -67511,13 +67520,13 @@
   "version_signature": "ab8184748e810f78"
  },
  "law:eflaw:009683": {
-  "attempt_run": "01a1ad23-439",
+  "attempt_run": "01a1b27d-0f1",
   "attempts": 0,
   "body_stats": {
    "articles": 139,
    "chars": 74624
   },
-  "collected_signature": "5742ccef908cdb34",
+  "collected_signature": "c34086714de44c1d",
   "content_hash": "0fee39f8a1d7e8d07e41bee99453f7462e5343a53afc634792622726136bf756",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279791&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
@@ -67528,8 +67537,8 @@
   "enforcement_date": "20260512",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:15:33.186776+00:00",
-  "last_collected_at": "2026-11-05T19:22:48.126125+00:00",
+  "last_checked_at": "2026-11-06T20:11:43.348893+00:00",
+  "last_collected_at": "2026-11-06T20:18:32.811970+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "기후에너지환경부",
   "mst": "279791",
@@ -67539,7 +67548,7 @@
   "promulgation_date": "20251111",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c34086714de44c1d"
  },
  "law:eflaw:009684": {
@@ -116893,13 +116902,13 @@
   "version_signature": "f83de9d96bb86e25"
  },
  "law:eflaw:013570": {
-  "attempt_run": "01a1ad23-43b",
+  "attempt_run": "01a1b27d-0ed",
   "attempts": 0,
   "body_stats": {
    "articles": 21,
    "chars": 5748
   },
-  "collected_signature": "707d2003752ee746",
+  "collected_signature": "b2c78e87094f36dc",
   "content_hash": "1589eeabbad5fcf7b452629e88e82f655cdf782855728d89b70d226e41501f5b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=272867&type=HTML&mobileYn=&efYd=20260123",
   "doc_domain": "law",
@@ -116910,8 +116919,8 @@
   "enforcement_date": "20260123",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-05T19:15:35.236651+00:00",
-  "last_collected_at": "2026-11-05T19:16:25.770927+00:00",
+  "last_checked_at": "2026-11-06T20:11:44.803670+00:00",
+  "last_collected_at": "2026-11-06T20:12:30.661029+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "농림축산식품부",
   "mst": "272867",
@@ -116921,7 +116930,7 @@
   "promulgation_date": "20250722",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b2c78e87094f36dc"
  },
  "law:eflaw:013571": {
