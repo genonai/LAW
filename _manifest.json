@@ -9430,8 +9430,14 @@
   "version_signature": "a32a1c8978a552b8"
  },
  "law:eflaw:001205": {
-  "collected_signature": "232656057af35dc3",
-  "content_hash": "cd07bb4fc1c92e5e1c03bccdfa0bea56558160b8541d99e482644f7850bd89e0",
+  "attempt_run": "01a1ae74-6eb",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 50,
+   "chars": 16404
+  },
+  "collected_signature": "7e165ba12b3cae9e",
+  "content_hash": "4fddaaa5be98fee0fee8200e045215a6b25b6f62effe25d012ae9c7df42ccd8d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284423&type=HTML&mobileYn=&efYd=20280301",
   "doc_domain": "law",
   "doc_id": "001205",
@@ -9439,15 +9445,18 @@
   "doc_type": "법률",
   "emitted_signature": "232656057af35dc3",
   "enforcement_date": "20280301",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T12:33:45.591590+00:00",
-  "last_collected_at": "2026-08-25T12:34:45.514578+00:00",
+  "last_checked_at": "2026-11-06T01:24:08.493769+00:00",
+  "last_collected_at": "2026-11-06T01:25:49.430447+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "법무부",
   "mst": "284423",
   "name": "중재법",
   "payload_law_id": "001205",
+  "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7e165ba12b3cae9e"
@@ -14281,13 +14290,14 @@
   "version_signature": "7c638a496853333b"
  },
  "law:eflaw:001653": {
+  "attempt_run": "01a1ae74-6e8",
   "attempts": 0,
   "body_stats": {
    "articles": 132,
    "chars": 53782
   },
-  "collected_signature": "b8941bdc80cea10a",
-  "content_hash": "fb02aeaa1d45002a85f1bb7461b1aca13f04867a42d61d2b5c4ab7b3ea073f5b",
+  "collected_signature": "1955aaac4e921661",
+  "content_hash": "971db23a87a323156c8e25c61024e4f3ba6c17fb695be99f16dfe9a9b74c2b67",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286499&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "001653",
@@ -14297,8 +14307,8 @@
   "enforcement_date": "20261203",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-22T15:39:17.461171+00:00",
-  "last_collected_at": "2026-10-22T15:42:36.124951+00:00",
+  "last_checked_at": "2026-11-06T01:23:49.584045+00:00",
+  "last_collected_at": "2026-11-06T01:28:47.448771+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286499",
@@ -14306,6 +14316,7 @@
   "payload_law_id": "001653",
   "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "1955aaac4e921661"
@@ -35281,8 +35292,14 @@
   "version_signature": "d28b05be9b9a4810"
  },
  "law:eflaw:005046": {
-  "collected_signature": "4d1d87486d736c18",
-  "content_hash": "e7fb8929f860919c3223694477e8e8ddb86cf8260756847111de39508199409c",
+  "attempt_run": "01a1ae74-6ee",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 59,
+   "chars": 27528
+  },
+  "collected_signature": "52c1ca061ef51521",
+  "content_hash": "22898060dd0d97a26bc7c578df004e51e981bf4627ee9a56adf50cce112ae431",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288435&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "005046",
@@ -35290,15 +35307,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "4d1d87486d736c18",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T12:55:25.157996+00:00",
-  "last_collected_at": "2026-08-25T13:05:49.227118+00:00",
+  "last_checked_at": "2026-11-06T01:23:52.630311+00:00",
+  "last_collected_at": "2026-11-06T01:29:13.237390+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "288435",
   "name": "지방공무원 보수규정",
   "payload_law_id": "005046",
+  "prev_name": null,
   "promulgation_date": "20260730",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "52c1ca061ef51521"
@@ -35334,8 +35354,14 @@
   "version_signature": "3bf5ab960bd9e6e3"
  },
  "law:eflaw:005050": {
-  "collected_signature": "66416e371af1f542",
-  "content_hash": "7744d8ee86b36a80e4269ef0bb4045ad06cdfd9fd0cbe932c4f43ff10c9b00fc",
+  "attempt_run": "01a1ae74-6ef",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 163,
+   "chars": 99434
+  },
+  "collected_signature": "819c6464ed8a4579",
+  "content_hash": "bccdc1fc6a9122dafd529cbd32dc11580bacfb7f79787ab07ea908cf673c517b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287515&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "005050",
@@ -35343,17 +35369,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "66416e371af1f542",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T12:55:27.499161+00:00",
-  "last_collected_at": "2026-08-25T13:18:35.660214+00:00",
+  "last_checked_at": "2026-11-06T01:24:04.345083+00:00",
+  "last_collected_at": "2026-11-06T01:31:42.575139+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "287515",
   "name": "지방공무원 임용령",
   "payload_law_id": "005050",
+  "prev_name": null,
   "promulgation_date": "20260630",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "819c6464ed8a4579"
  },
  "law:eflaw:005051": {
@@ -82241,8 +82270,14 @@
   "version_signature": "ffb4d4ea71cc92e4"
  },
  "law:eflaw:010710": {
-  "collected_signature": "cebe9b8d01b3251a",
-  "content_hash": "678bdcd3c9bed1f20ef730cf7aad47e7444fe632f0c780de386fda5591067f22",
+  "attempt_run": "01a1ae74-6f1",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 28,
+   "chars": 8965
+  },
+  "collected_signature": "d6ba6b4497fe82e0",
+  "content_hash": "1a58844942952f29a72e3a04e334a1a020f53022e4cd9c23d83f08de254ed2ff",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286247&type=HTML&mobileYn=&efYd=20280527",
   "doc_domain": "law",
   "doc_id": "010710",
@@ -82250,15 +82285,18 @@
   "doc_type": "법률",
   "emitted_signature": "cebe9b8d01b3251a",
   "enforcement_date": "20280527",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T12:35:09.130247+00:00",
-  "last_collected_at": "2026-08-25T12:37:18.902646+00:00",
+  "last_checked_at": "2026-11-06T01:23:59.629251+00:00",
+  "last_collected_at": "2026-11-06T01:25:53.159991+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부",
   "mst": "286247",
   "name": "중증장애인생산품 우선구매 특별법",
   "payload_law_id": "010710",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "d6ba6b4497fe82e0"
@@ -86188,13 +86226,14 @@
   "version_signature": "34ec688c388d6498"
  },
  "law:eflaw:010998": {
+  "attempt_run": "01a1ae74-6f3",
   "attempts": 0,
   "body_stats": {
    "articles": 52,
    "chars": 29140
   },
-  "collected_signature": "0c80eec522cbaa0e",
-  "content_hash": "d0c13ea2af8f9914ec9496d09ef4bda7e4eca1e8aba7beceb363de7273b1e511",
+  "collected_signature": "6953876acf8afef8",
+  "content_hash": "a20aedd8ca340747ca2c79c2c23e24d07389ce3b1ef67355b9806b9e0ead9e89",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290237&type=HTML&mobileYn=&efYd=20261230",
   "doc_domain": "law",
   "doc_id": "010998",
@@ -86204,8 +86243,8 @@
   "enforcement_date": "20261230",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-29T19:08:36.504314+00:00",
-  "last_collected_at": "2026-09-29T19:11:20.082494+00:00",
+  "last_checked_at": "2026-11-06T01:23:56.038667+00:00",
+  "last_collected_at": "2026-11-06T01:28:19.721028+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "290237",
@@ -86213,8 +86252,9 @@
   "payload_law_id": "010998",
   "prev_name": null,
   "promulgation_date": "20260929",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "6953876acf8afef8"
  },
  "law:eflaw:010999": {
