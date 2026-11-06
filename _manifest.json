@@ -1511,13 +1511,14 @@
   "version_signature": "40b26359683bb52b"
  },
  "law:eflaw:000154": {
+  "attempt_run": "01a1aecd-af5",
   "attempts": 0,
   "body_stats": {
    "articles": 49,
    "chars": 20395
   },
-  "collected_signature": "075180b455953260",
-  "content_hash": "65c1c06ea0142f2f05e3b768e3f4f62da5aef7d4c7aed2fc9e765533ff84b3c2",
+  "collected_signature": "9f0b32e6c771970b",
+  "content_hash": "4094b72ec4d9bb48796338d7cd80a5ff19e9e43c5fe0e19f60353c3d90d422ba",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289779&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "000154",
@@ -1527,8 +1528,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:55:28.603157+00:00",
-  "last_collected_at": "2026-09-15T17:58:51.564296+00:00",
+  "last_checked_at": "2026-11-06T03:01:21.767733+00:00",
+  "last_collected_at": "2026-11-06T03:04:16.323924+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "289779",
@@ -1536,6 +1537,7 @@
   "payload_law_id": "000154",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9f0b32e6c771970b"
@@ -6628,8 +6630,14 @@
   "version_signature": "ae8f55d849ecf91d"
  },
  "law:eflaw:000889": {
-  "collected_signature": "9446377c2aa9561f",
-  "content_hash": "c4318e87489d65f8c31eacd0c115a50d2b277eb478311fc49da813c408f15780",
+  "attempt_run": "01a1aecd-aff",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 8635
+  },
+  "collected_signature": "ba52702efbbeb8f9",
+  "content_hash": "5502a775ee40a0955d5f6e356781964e97dbbdb5a89c9972a561c91f50dd58eb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283421&type=HTML&mobileYn=&efYd=20270220",
   "doc_domain": "law",
   "doc_id": "000889",
@@ -6637,17 +6645,20 @@
   "doc_type": "법률",
   "emitted_signature": "9446377c2aa9561f",
   "enforcement_date": "20270220",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T22:47:21.679573+00:00",
-  "last_collected_at": "2026-08-25T22:50:54.232168+00:00",
+  "last_checked_at": "2026-11-06T03:01:18.707656+00:00",
+  "last_collected_at": "2026-11-06T03:03:02.545494+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "283421",
   "name": "학교급식법",
   "payload_law_id": "000889",
+  "prev_name": null,
   "promulgation_date": "20260219",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "ba52702efbbeb8f9"
  },
  "law:eflaw:000890": {
@@ -13439,13 +13450,14 @@
   "version_signature": "138a0e105af9b049"
  },
  "law:eflaw:001590": {
+  "attempt_run": "01a1aecd-af3",
   "attempts": 0,
   "body_stats": {
    "articles": 69,
    "chars": 50176
   },
-  "collected_signature": "2e95c677da905efe",
-  "content_hash": "282f8915f6817dcb7cf3337afd4dfe106110a6e2bf77d2d71a6eefc4223197a3",
+  "collected_signature": "2bd10166e6e53391",
+  "content_hash": "a1536de35873a6efdeb18cd221d4a693127e68bef32419e830c12d75af19054b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289405&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "001590",
@@ -13455,8 +13467,8 @@
   "enforcement_date": "20270909",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T22:03:30.215890+00:00",
-  "last_collected_at": "2026-10-02T22:07:00.211475+00:00",
+  "last_checked_at": "2026-11-06T03:01:18.143114+00:00",
+  "last_collected_at": "2026-11-06T03:05:38.420933+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "공정거래위원회",
   "mst": "289405",
@@ -13464,6 +13476,7 @@
   "payload_law_id": "001590",
   "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "2bd10166e6e53391"
@@ -16797,13 +16810,14 @@
   "version_signature": "8d56c5128b13da51"
  },
  "law:eflaw:001836": {
+  "attempt_run": "01a1aecd-afd",
   "attempts": 0,
   "body_stats": {
    "articles": 104,
    "chars": 48916
   },
-  "collected_signature": "3b113c71319e273b",
-  "content_hash": "164eb95751340e10cbf909fe5af7edea9f4ee8476c0c1dc7e5df40a61479167f",
+  "collected_signature": "7fd537dce7c624ec",
+  "content_hash": "896f0f5057f0e27e13ad05aed540e7a8b33a3833c739cae58df87f162773e451",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284435&type=HTML&mobileYn=&efYd=20270318",
   "doc_domain": "law",
   "doc_id": "001836",
@@ -16813,8 +16827,8 @@
   "enforcement_date": "20270318",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:05:08.904381+00:00",
-  "last_collected_at": "2026-09-18T18:10:04.148804+00:00",
+  "last_checked_at": "2026-11-06T03:01:19.253141+00:00",
+  "last_collected_at": "2026-11-06T03:05:43.553515+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284435",
@@ -16822,6 +16836,7 @@
   "payload_law_id": "001836",
   "prev_name": null,
   "promulgation_date": "20260317",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7fd537dce7c624ec"
@@ -58244,8 +58259,14 @@
   "version_signature": "15ca43ffe1cc5377"
  },
  "law:eflaw:008585": {
-  "collected_signature": "b6e9ee70fa1c7afc",
-  "content_hash": "6d39c2c3d8c975f415e9f383c0d7fb892ae488327e9dabca8042facc69c1382a",
+  "attempt_run": "01a1aecd-af8",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 3188
+  },
+  "collected_signature": "3e748202bc824bf4",
+  "content_hash": "df3651495f0b2c1a604663832ec4b448a6d519daaf005c26edf6202e975f3a36",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287709&type=HTML&mobileYn=&efYd=20270301",
   "doc_domain": "law",
   "doc_id": "008585",
@@ -58253,15 +58274,18 @@
   "doc_type": "교육부령",
   "emitted_signature": "b6e9ee70fa1c7afc",
   "enforcement_date": "20270301",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T22:47:23.554331+00:00",
-  "last_collected_at": "2026-08-25T22:49:32.250408+00:00",
+  "last_checked_at": "2026-11-06T03:01:20.729198+00:00",
+  "last_collected_at": "2026-11-06T03:02:34.096205+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "287709",
   "name": "학교급식법 시행규칙",
   "payload_law_id": "008585",
+  "prev_name": null,
   "promulgation_date": "20260625",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "3e748202bc824bf4"
@@ -58313,13 +58337,14 @@
   "version_signature": "f9341d0e25b4e8f9"
  },
  "law:eflaw:008594": {
+  "attempt_run": "01a1aecd-afb",
   "attempts": 0,
   "body_stats": {
    "articles": 17,
    "chars": 6049
   },
-  "collected_signature": "e4984a47b71da8c9",
-  "content_hash": "e1404132a36e0cb453a11a6c2b51cd0f8b107b8ec8ecbbe302ccebc3e6cece0c",
+  "collected_signature": "24fb2558e17b4947",
+  "content_hash": "8dc29dcb18c51f4a35b94a9cde8380550872d730f1da4f3b6210d2071c3ebad2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291267&type=HTML&mobileYn=&efYd=20270301",
   "doc_domain": "law",
   "doc_id": "008594",
@@ -58329,8 +58354,8 @@
   "enforcement_date": "20270301",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-19T15:00:25.108644+00:00",
-  "last_collected_at": "2026-10-19T15:01:29.830072+00:00",
+  "last_checked_at": "2026-11-06T03:01:22.748579+00:00",
+  "last_collected_at": "2026-11-06T03:03:13.047550+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "291267",
@@ -58338,6 +58363,7 @@
   "payload_law_id": "008594",
   "prev_name": null,
   "promulgation_date": "20261019",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "24fb2558e17b4947"
