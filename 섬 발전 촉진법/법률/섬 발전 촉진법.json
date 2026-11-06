@@ -92,7 +92,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0002",
             "reference_id": "law:섬발전촉진법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -111,7 +113,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0002",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -130,7 +134,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0002",
             "reference_id": "law:섬발전촉진법시행령#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2014.12.30]",
@@ -180,7 +186,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0003",
             "reference_id": "law:국토기본법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토기본법/법률/국토기본법.json"
+            "target_git_path_guess": "국토기본법/법률/국토기본법.json",
+            "target_git_path": "국토기본법/법률/국토기본법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -199,7 +207,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0003",
             "reference_id": "law:국토의계획및이용에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json"
+            "target_git_path_guess": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
+            "target_git_path": "국토의 계획 및 이용에 관한 법률/법률/국토의 계획 및 이용에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -234,7 +244,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0004",
             "reference_id": "law:섬발전촉진법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -253,7 +265,11 @@
             "source_provision_id": "law:섬발전촉진법#JO0004",
             "reference_id": "admrul:개발대상도서지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json"
+            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_git_path": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -274,7 +290,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0004",
             "reference_id": "admrul:개발대상도서지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json"
+            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_git_path": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2020.12.22]",
@@ -311,7 +329,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0005",
             "reference_id": "admrul:개발대상도서지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json"
+            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_git_path": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "internal_ref",
@@ -330,7 +350,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0005",
             "reference_id": "law:섬발전촉진법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -349,7 +371,11 @@
             "source_provision_id": "law:섬발전촉진법#JO0005",
             "reference_id": "admrul:개발대상도서지정#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json"
+            "target_git_path_guess": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_git_path": "개발대상도서 지정/개발대상도서 지정.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2020.12.22]",
@@ -384,7 +410,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0006",
             "reference_id": "law:섬발전촉진법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -419,7 +447,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0007",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -438,7 +468,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0007",
             "reference_id": "law:섬발전촉진법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -473,7 +505,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0008",
             "reference_id": "law:섬발전촉진법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -492,7 +526,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0008",
             "reference_id": "law:섬발전촉진법#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -527,7 +563,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -546,7 +584,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -565,7 +605,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -584,7 +626,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:공공기관의운영에관한법률#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json"
+            "target_git_path_guess": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_git_path": "공공기관의 운영에 관한 법률/법률/공공기관의 운영에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -603,7 +647,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:섬발전촉진법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -622,7 +668,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0009",
             "reference_id": "law:섬발전촉진법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -712,7 +760,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0010",
             "reference_id": "law:섬발전촉진법시행령#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1]",
@@ -792,7 +842,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_02",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -811,7 +863,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_02",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -830,7 +884,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_02",
             "reference_id": "law:중소기업제품구매촉진및판로지원에관한법률#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json"
+            "target_git_path_guess": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_git_path": "중소기업제품 구매촉진 및 판로지원에 관한 법률/법률/중소기업제품 구매촉진 및 판로지원에 관한 법률.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2022.11.15]",
@@ -865,7 +921,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_03",
             "reference_id": "law:선박안전법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -884,7 +942,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_03",
             "reference_id": "law:선박안전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -903,7 +963,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_03",
             "reference_id": "law:선박안전법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "선박안전법/법률/선박안전법.json"
+            "target_git_path_guess": "선박안전법/법률/선박안전법.json",
+            "target_git_path": "선박안전법/법률/선박안전법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -922,7 +984,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0013_03",
             "reference_id": "law:섬발전촉진법시행령#JO0014_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2022.11.15]",
@@ -964,7 +1028,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -983,7 +1049,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1002,7 +1070,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1021,7 +1091,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1040,7 +1112,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:울릉도흑산도등국토외곽먼섬지원특별법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json"
+            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_git_path": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1059,7 +1133,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:울릉도흑산도등국토외곽먼섬지원특별법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json"
+            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_git_path": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1078,7 +1154,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:울릉도흑산도등국토외곽먼섬지원특별법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json"
+            "target_git_path_guess": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_git_path": "울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법/법률/울릉도ㆍ흑산도 등 국토외곽 먼섬 지원 특별법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1097,7 +1175,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1116,7 +1196,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1135,7 +1217,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법시행령#JO0016",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1154,7 +1238,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0014",
             "reference_id": "law:섬발전촉진법시행령#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2009.4.1][제목개정 2020.12.22]",
@@ -1190,7 +1276,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0015",
             "reference_id": "law:섬발전촉진법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+            "target_git_path_guess": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1209,7 +1297,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0015",
             "reference_id": "law:민법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "민법/법률/민법.json"
+            "target_git_path_guess": "민법/법률/민법.json",
+            "target_git_path": "민법/법률/민법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1228,7 +1318,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0015",
             "reference_id": "law:섬발전촉진법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1247,7 +1339,9 @@
             "source_provision_id": "law:섬발전촉진법#JO0015",
             "reference_id": "law:섬발전촉진법시행령#JO0019",
             "target_repo": "LAW",
-            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json"
+            "target_git_path_guess": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_git_path": "섬 발전 촉진법/시행령/섬 발전 촉진법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2020.12.22]",
@@ -1515,5 +1609,6 @@
   ],
   "has_future": true,
   "version_count": 2,
-  "git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json"
+  "git_path": "섬 발전 촉진법/법률/섬 발전 촉진법.json",
+  "_schlpub_id_suffix": "법률"
 }

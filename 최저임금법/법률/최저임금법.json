@@ -96,7 +96,9 @@
             "source_provision_id": "law:최저임금법#JO0002",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -115,7 +117,9 @@
             "source_provision_id": "law:최저임금법#JO0002",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -151,7 +155,9 @@
             "source_provision_id": "law:최저임금법#JO0003",
             "reference_id": "law:선원법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "선원법/법률/선원법.json"
+            "target_git_path_guess": "선원법/법률/선원법.json",
+            "target_git_path": "선원법/법률/선원법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -187,7 +193,9 @@
             "source_provision_id": "law:최저임금법#JO0004",
             "reference_id": "law:최저임금법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -223,7 +231,11 @@
             "source_provision_id": "law:최저임금법#JO0005",
             "reference_id": "admrul:최저임금법제5조에따른단순노무직종근로자지정고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json"
+            "target_git_path_guess": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json",
+            "target_git_path": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -242,7 +254,9 @@
             "source_provision_id": "law:최저임금법#JO0005",
             "reference_id": "law:최저임금법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -263,7 +277,9 @@
             "source_provision_id": "law:최저임금법#JO0005",
             "reference_id": "admrul:최저임금법제5조에따른단순노무직종근로자지정고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json"
+            "target_git_path_guess": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json",
+            "target_git_path": "최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시/최저임금법 제5조에 따른 단순노무직종 근로자 지정 고시.json",
+            "target_source_repository": "ADMRUL"
           },
           {
             "relation_type": "delegation",
@@ -282,7 +298,9 @@
             "source_provision_id": "law:최저임금법#JO0005",
             "reference_id": "law:최저임금법시행령#JO0004",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -318,7 +336,9 @@
             "source_provision_id": "law:최저임금법#JO0005_02",
             "reference_id": "law:최저임금법시행령#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -337,7 +357,9 @@
             "source_provision_id": "law:최저임금법#JO0005_02",
             "reference_id": "law:최저임금법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -356,7 +378,9 @@
             "source_provision_id": "law:최저임금법#JO0005_02",
             "reference_id": "law:최저임금법#JO0005",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -392,7 +416,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -411,7 +437,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -430,7 +458,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -449,7 +479,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:근로기준법#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -468,7 +500,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -487,7 +521,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json"
+            "target_git_path_guess": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_git_path": "여객자동차 운수사업법/법률/여객자동차 운수사업법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -506,7 +542,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법시행령#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_git_path": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -525,7 +563,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_git_path": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -544,7 +584,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_git_path": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -563,7 +605,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:여객자동차운수사업법시행령#JO0003",
             "target_repo": "LAW",
-            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json"
+            "target_git_path_guess": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_git_path": "여객자동차 운수사업법/시행령/여객자동차 운수사업법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -582,7 +626,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:최저임금법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행규칙/최저임금법 시행규칙.json"
+            "target_git_path_guess": "최저임금법/시행규칙/최저임금법 시행규칙.json",
+            "target_git_path": "최저임금법/시행규칙/최저임금법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -601,7 +647,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:최저임금법시행규칙#JO0002",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행규칙/최저임금법 시행규칙.json"
+            "target_git_path_guess": "최저임금법/시행규칙/최저임금법 시행규칙.json",
+            "target_git_path": "최저임금법/시행규칙/최저임금법 시행규칙.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -620,7 +668,9 @@
             "source_provision_id": "law:최저임금법#JO0006",
             "reference_id": "law:최저임금법시행령#JO0005_03",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -656,7 +706,9 @@
             "source_provision_id": "law:최저임금법#JO0006_02",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -675,7 +727,9 @@
             "source_provision_id": "law:최저임금법#JO0006_02",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -694,7 +748,9 @@
             "source_provision_id": "law:최저임금법#JO0006_02",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -713,7 +769,9 @@
             "source_provision_id": "law:최저임금법#JO0006_02",
             "reference_id": "law:근로기준법#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -732,7 +790,9 @@
             "source_provision_id": "law:최저임금법#JO0006_02",
             "reference_id": "law:근로기준법#JO0094",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[본조신설 2018.6.12]",
@@ -768,7 +828,9 @@
             "source_provision_id": "law:최저임금법#JO0007",
             "reference_id": "law:최저임금법시행령#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -787,7 +849,9 @@
             "source_provision_id": "law:최저임금법#JO0007",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -823,7 +887,9 @@
             "source_provision_id": "law:최저임금법#JO0008",
             "reference_id": "law:최저임금법#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -842,7 +908,9 @@
             "source_provision_id": "law:최저임금법#JO0008",
             "reference_id": "law:최저임금법시행령#JO0007",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -878,7 +946,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -897,7 +967,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -916,7 +988,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -935,7 +1009,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -954,7 +1030,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -973,7 +1051,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -992,7 +1072,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법시행령#JO0008",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1011,7 +1093,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법시행령#JO0009",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1030,7 +1114,9 @@
             "source_provision_id": "law:최저임금법#JO0009",
             "reference_id": "law:최저임금법시행령#JO0010",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1066,7 +1152,11 @@
             "source_provision_id": "law:최저임금법#JO0010",
             "reference_id": "admrul:2026년적용최저임금고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json"
+            "target_git_path_guess": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json",
+            "target_git_path": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json",
+            "target_source_repository": "ADMRUL",
+            "target_doc_target": "admrul",
+            "target_doc_kind": "행정규칙"
           },
           {
             "relation_type": "delegation",
@@ -1092,7 +1182,9 @@
             "source_provision_id": "law:최저임금법#JO0010",
             "reference_id": "admrul:2026년적용최저임금고시#DOC",
             "target_repo": "ADMRUL",
-            "target_git_path_guess": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json"
+            "target_git_path_guess": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json",
+            "target_git_path": "2026년 적용 최저임금 고시/2026년 적용 최저임금 고시.json",
+            "target_source_repository": "ADMRUL"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1128,7 +1220,9 @@
             "source_provision_id": "law:최저임금법#JO0011",
             "reference_id": "law:최저임금법시행령#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1196,7 +1290,9 @@
             "source_provision_id": "law:최저임금법#JO0014",
             "reference_id": "law:최저임금법시행령#JO0012",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1215,7 +1311,9 @@
             "source_provision_id": "law:최저임금법#JO0014",
             "reference_id": "law:최저임금법시행령#JO0012_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1234,7 +1332,9 @@
             "source_provision_id": "law:최저임금법#JO0014",
             "reference_id": "law:최저임금법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1286,7 +1386,9 @@
             "source_provision_id": "law:최저임금법#JO0016",
             "reference_id": "law:최저임금법시행령#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1354,7 +1456,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0013",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1373,7 +1477,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1392,7 +1498,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0014",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1411,7 +1519,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0015",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1430,7 +1540,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0017",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1449,7 +1561,9 @@
             "source_provision_id": "law:최저임금법#JO0019",
             "reference_id": "law:최저임금법#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1485,7 +1599,9 @@
             "source_provision_id": "law:최저임금법#JO0020",
             "reference_id": "law:고용노동부와그소속기관직제#JO0031",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json"
+            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_git_path": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1504,7 +1620,9 @@
             "source_provision_id": "law:최저임금법#JO0020",
             "reference_id": "law:고용노동부와그소속기관직제#JO0032",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json"
+            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_git_path": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1523,7 +1641,9 @@
             "source_provision_id": "law:최저임금법#JO0020",
             "reference_id": "law:고용노동부와그소속기관직제#JO0033",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json"
+            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_git_path": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1542,7 +1662,9 @@
             "source_provision_id": "law:최저임금법#JO0020",
             "reference_id": "law:고용노동부와그소속기관직제#JO0034",
             "target_repo": "LAW",
-            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json"
+            "target_git_path_guess": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_git_path": "고용노동부와 그 소속기관 직제/법률/고용노동부와 그 소속기관 직제.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1578,7 +1700,9 @@
             "source_provision_id": "law:최저임금법#JO0021",
             "reference_id": "law:최저임금법시행령#JO0018",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1678,7 +1802,9 @@
             "source_provision_id": "law:최저임금법#JO0026",
             "reference_id": "law:근로기준법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1697,7 +1823,9 @@
             "source_provision_id": "law:최저임금법#JO0026",
             "reference_id": "law:근로기준법#JO0101",
             "target_repo": "LAW",
-            "target_git_path_guess": "근로기준법/법률/근로기준법.json"
+            "target_git_path_guess": "근로기준법/법률/근로기준법.json",
+            "target_git_path": "근로기준법/법률/근로기준법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -1716,7 +1844,9 @@
             "source_provision_id": "law:최저임금법#JO0026",
             "reference_id": "law:사법경찰관리의직무를수행할자와그직무범위에관한법률#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률/법률/사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률.json"
+            "target_git_path_guess": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률/법률/사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률.json",
+            "target_git_path": "사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률/법률/사법경찰관리의 직무를 수행할 자와 그 직무범위에 관한 법률.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -1735,7 +1865,9 @@
             "source_provision_id": "law:최저임금법#JO0026",
             "reference_id": "law:최저임금법시행령#JO0020",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1778,7 +1910,9 @@
             "source_provision_id": "law:최저임금법#JO0026_02",
             "reference_id": "law:최저임금법시행령#JO0021_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1829,7 +1963,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1848,7 +1984,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1867,7 +2005,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1886,7 +2026,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1905,7 +2047,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -1924,7 +2068,9 @@
             "source_provision_id": "law:최저임금법#JO0028",
             "reference_id": "law:최저임금법#JO0006_02",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -1982,7 +2128,9 @@
             "source_provision_id": "law:최저임금법#JO0030",
             "reference_id": "law:최저임금법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2001,7 +2149,9 @@
             "source_provision_id": "law:최저임금법#JO0030",
             "reference_id": "law:최저임금법#JO0028",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -2037,7 +2187,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2056,7 +2208,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법#JO0011",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2075,7 +2229,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법#JO0025",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2094,7 +2250,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "internal_ref",
@@ -2113,7 +2271,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법#JO0026",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/법률/최저임금법.json"
+            "target_git_path_guess": "최저임금법/법률/최저임금법.json",
+            "target_git_path": "최저임금법/법률/최저임금법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "citation",
@@ -2132,7 +2292,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:비송사건절차법#DOC",
             "target_repo": "LAW",
-            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json"
+            "target_git_path_guess": "비송사건절차법/법률/비송사건절차법.json",
+            "target_git_path": "비송사건절차법/법률/비송사건절차법.json",
+            "target_source_repository": "LAW"
           },
           {
             "relation_type": "delegation",
@@ -2151,7 +2313,9 @@
             "source_provision_id": "law:최저임금법#JO0031",
             "reference_id": "law:최저임금법시행령#JO0022",
             "target_repo": "LAW",
-            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json"
+            "target_git_path_guess": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_git_path": "최저임금법/시행령/최저임금법 시행령.json",
+            "target_source_repository": "LAW"
           }
         ],
         "note": "[전문개정 2008.3.21]",
@@ -2403,5 +2567,6 @@
   ],
   "has_future": true,
   "version_count": 2,
-  "git_path": "최저임금법/법률/최저임금법.json"
+  "git_path": "최저임금법/법률/최저임금법.json",
+  "_schlpub_id_suffix": "법률"
 }
