@@ -2519,13 +2519,14 @@
   "version_signature": "040bda038c7a6595"
  },
  "law:eflaw:000236": {
+  "attempt_run": "01a1ae8c-789",
   "attempts": 0,
   "body_stats": {
    "articles": 36,
    "chars": 14078
   },
-  "collected_signature": "b9acda43296821c5",
-  "content_hash": "985d44fee1d3bf02a7d2a76cc16b911fa9cd4a50522a7efa6f279ec2327d4f56",
+  "collected_signature": "9b965adfb76c0d00",
+  "content_hash": "a473889ab8f13788516d537d866dfa98735923d144f7a1b74c243f299830b570",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291217&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
   "doc_id": "000236",
@@ -2535,8 +2536,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:47:41.379986+00:00",
-  "last_collected_at": "2026-10-20T16:50:03.373566+00:00",
+  "last_checked_at": "2026-11-06T01:50:04.556265+00:00",
+  "last_collected_at": "2026-11-06T01:51:26.665068+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,질병관리청",
   "mst": "291217",
@@ -2544,8 +2545,9 @@
   "payload_law_id": "000236",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9b965adfb76c0d00"
  },
  "law:eflaw:000237": {
@@ -15951,8 +15953,14 @@
   "version_signature": "bad5809d04fd7b47"
  },
  "law:eflaw:001765": {
-  "collected_signature": "e4f30196f9f68001",
-  "content_hash": "e288a232322b5635ae31e69cb48c2576f2b654525d06a7aed591bfaf72c3bafa",
+  "attempt_run": "01a1ae8c-77f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 67,
+   "chars": 17996
+  },
+  "collected_signature": "9fd723491665bebe",
+  "content_hash": "1df6be8ef815011c48f2c82c33e1d68069d365ec66ea8d8adb00dc44dc31b3ae",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286819&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "001765",
@@ -15960,15 +15968,18 @@
   "doc_type": "법률",
   "emitted_signature": "e4f30196f9f68001",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:59:29.324046+00:00",
-  "last_collected_at": "2026-08-25T17:02:57.319243+00:00",
+  "last_checked_at": "2026-11-06T01:50:04.098712+00:00",
+  "last_collected_at": "2026-11-06T01:52:19.557248+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "고용노동부",
   "mst": "286819",
   "name": "직업안정법",
   "payload_law_id": "001765",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "9fd723491665bebe"
@@ -101520,8 +101531,14 @@
   "version_signature": "d38b465b62f89b89"
  },
  "law:eflaw:012048": {
-  "collected_signature": "02359d2a3f7641af",
-  "content_hash": "7e2920ac8a829fbaaa79fde25d05c3756e336078703f96f4bf68c592ab146ede",
+  "attempt_run": "01a1ae8c-78b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 42,
+   "chars": 13905
+  },
+  "collected_signature": "b12008167921fe41",
+  "content_hash": "3a1873fa045d5c2c79d03a4543694d32da9e6e98230efd1447ad657a41f9c1b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248595&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "012048",
@@ -101529,17 +101546,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "02359d2a3f7641af",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:10:55.530024+00:00",
-  "last_collected_at": "2026-08-25T16:14:06.943072+00:00",
+  "last_checked_at": "2026-11-06T01:50:05.328478+00:00",
+  "last_collected_at": "2026-11-06T01:52:41.351263+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "248595",
   "name": "지방행정제재ㆍ부과금의 징수 등에 관한 법률 시행령",
   "payload_law_id": "012048",
+  "prev_name": null,
   "promulgation_date": "20230314",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "b12008167921fe41"
  },
  "law:eflaw:012049": {
@@ -118334,8 +118354,14 @@
   "version_signature": "e42d9e8e0a78c802"
  },
  "law:eflaw:013749": {
-  "collected_signature": "84fe3567eeb27fcc",
-  "content_hash": "f3c2ae05180b259c0d54f0d383c2714918a0bf58e7febb402dab5ac1c9334c33",
+  "attempt_run": "01a1ae8c-785",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 24,
+   "chars": 7956
+  },
+  "collected_signature": "b57100cd4144ddeb",
+  "content_hash": "f652a9ea785ca4c286d316e5edea304fe68c53021991df9f3700f2aa6ca1e5bc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286621&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "013749",
@@ -118343,15 +118369,18 @@
   "doc_type": "법률",
   "emitted_signature": "84fe3567eeb27fcc",
   "enforcement_date": "20261203",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:30:40.815559+00:00",
-  "last_collected_at": "2026-08-25T16:33:21.931799+00:00",
+  "last_checked_at": "2026-11-06T01:50:06.377424+00:00",
+  "last_collected_at": "2026-11-06T01:51:40.854436+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "286621",
   "name": "지역사랑상품권 이용 활성화에 관한 법률",
   "payload_law_id": "013749",
+  "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "b57100cd4144ddeb"
@@ -123837,8 +123866,14 @@
   "version_signature": "4872193cb66d0364"
  },
  "law:eflaw:014126": {
-  "collected_signature": "93bee06dd1ea9f2b",
-  "content_hash": "31252c80d281b24fad9c7ca1867c08cdce416b779c923b453113470575049b79",
+  "attempt_run": "01a1ae8c-787",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 16987
+  },
+  "collected_signature": "2e012fb3b8f5a4e5",
+  "content_hash": "a2115ac373deeeba172f35c6ca1c44b2df290d055e52ede017f1d71e37c49b27",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286267&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "014126",
@@ -123846,15 +123881,18 @@
   "doc_type": "법률",
   "emitted_signature": "93bee06dd1ea9f2b",
   "enforcement_date": "20261127",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:39:06.278214+00:00",
-  "last_collected_at": "2026-08-25T16:41:33.905221+00:00",
+  "last_checked_at": "2026-11-06T01:50:07.218288+00:00",
+  "last_collected_at": "2026-11-06T01:52:01.432397+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "중소벤처기업부",
   "mst": "286267",
   "name": "지역중소기업 육성 및 혁신촉진 등에 관한 법률",
   "payload_law_id": "014126",
+  "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "2e012fb3b8f5a4e5"
@@ -124043,13 +124081,14 @@
   "version_signature": "da500fcef46240a3"
  },
  "law:eflaw:014138": {
+  "attempt_run": "01a1ae8c-782",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
    "chars": 11006
   },
-  "collected_signature": "583e96ee51b66d1f",
-  "content_hash": "8811e244fb8474ef5c413f75fe9b816b92d7201dc1838fa2ade4411bce2ab487",
+  "collected_signature": "ee9b94e39d99b40b",
+  "content_hash": "c76c859a312f0250ee47fcfc1299b83e02224094de4651bf6c25887e198d20b5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289547&type=HTML&mobileYn=&efYd=20270316",
   "doc_domain": "law",
   "doc_id": "014138",
@@ -124059,8 +124098,8 @@
   "enforcement_date": "20270316",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-15T17:44:06.371233+00:00",
-  "last_collected_at": "2026-09-15T17:45:11.423155+00:00",
+  "last_checked_at": "2026-11-06T01:50:08.252062+00:00",
+  "last_collected_at": "2026-11-06T01:51:33.033705+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "289547",
@@ -124068,6 +124107,7 @@
   "payload_law_id": "014138",
   "prev_name": null,
   "promulgation_date": "20260915",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ee9b94e39d99b40b"
