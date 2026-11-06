@@ -3792,13 +3792,13 @@
   "version_signature": "24f13667ed3303cf"
  },
  "law:eflaw:000419": {
-  "attempt_run": "01a17e10-7e0",
+  "attempt_run": "01a1aec0-8e3",
   "attempts": 0,
   "body_stats": {
    "articles": 77,
    "chars": 47058
   },
-  "collected_signature": "8623c6599482996b",
+  "collected_signature": "7d3916fb3e84594f",
   "content_hash": "e7bcb5c3d33f6053f6b66dcb41a3eedfecf6874e9ae7b4e2d71e1bb5fdc45c4f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291445&type=HTML&mobileYn=&efYd=20270428",
   "doc_domain": "law",
@@ -3809,8 +3809,8 @@
   "enforcement_date": "20270428",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:52:56.819070+00:00",
-  "last_collected_at": "2026-10-27T15:56:32.767652+00:00",
+  "last_checked_at": "2026-11-06T02:46:59.356412+00:00",
+  "last_collected_at": "2026-11-06T02:47:47.207325+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "농림축산식품부,해양수산부",
   "mst": "291445",
@@ -61417,13 +61417,14 @@
   "version_signature": "337bd9bd835f2ace"
  },
  "law:eflaw:009256": {
+  "attempt_run": "01a1aec0-8e5",
   "attempts": 0,
   "body_stats": {
    "articles": 48,
    "chars": 27878
   },
-  "collected_signature": "7a97cc7cd3ad7fc4",
-  "content_hash": "57b34638fc0e36aef0edd8efcdf16933c7276bba9d7732c43d0a65343b23853b",
+  "collected_signature": "2130ad31941fbdda",
+  "content_hash": "c0e43db98dbd892e2e9b72781bcc9d69081adc416359cf62e18c9fa59b7ffff3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=288765&type=HTML&mobileYn=&efYd=20270219",
   "doc_domain": "law",
   "doc_id": "009256",
@@ -61433,8 +61434,8 @@
   "enforcement_date": "20270219",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T21:59:31.700732+00:00",
-  "last_collected_at": "2026-10-02T22:03:01.442905+00:00",
+  "last_checked_at": "2026-11-06T02:46:58.036792+00:00",
+  "last_collected_at": "2026-11-06T02:50:19.786232+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "금융위원회,법무부",
   "mst": "288765",
@@ -61442,6 +61443,7 @@
   "payload_law_id": "009256",
   "prev_name": null,
   "promulgation_date": "20260818",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "2130ad31941fbdda"
@@ -72458,9 +72460,14 @@
   "version_signature": "1efdd98f6b5e086e"
  },
  "law:eflaw:010071": {
+  "attempt_run": "01a1aec0-8e1",
   "attempts": 0,
-  "collected_signature": "b0e2d0d419d041d3",
-  "content_hash": "f16551eca0d2313ed4205acfc750cd0464f25e0128a8b25927ada712d4e7fc66",
+  "body_stats": {
+   "articles": 29,
+   "chars": 11263
+  },
+  "collected_signature": "053db104edef5085",
+  "content_hash": "ae2d6b234b77f4fd17062a4cb2c17e38cc32dba7b73f31ac174f8c951dfad97c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289517&type=HTML&mobileYn=&efYd=20261209",
   "doc_domain": "law",
   "doc_id": "010071",
@@ -72468,17 +72475,20 @@
   "doc_type": "법률",
   "emitted_signature": "b0e2d0d419d041d3",
   "enforcement_date": "20261209",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:25:12.362233+00:00",
-  "last_collected_at": "2026-09-08T18:26:19.203184+00:00",
+  "last_checked_at": "2026-11-06T02:46:57.558377+00:00",
+  "last_collected_at": "2026-11-06T02:48:00.841551+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289517",
   "name": "토지이용규제 기본법",
   "payload_law_id": "010071",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "053db104edef5085"
  },
  "law:eflaw:010073": {
@@ -101151,8 +101161,14 @@
   "version_signature": "090e659d1f9ceb8c"
  },
  "law:eflaw:012003": {
-  "collected_signature": "8355601e28ec76cd",
-  "content_hash": "10cecb2a99886fc56993816fe98c55667152fbb32bfefc3881a082d33ec1de08",
+  "attempt_run": "01a1aec0-8e6",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 11765
+  },
+  "collected_signature": "c31927d4d50d5147",
+  "content_hash": "9a05d335bd5a4f391a6a7e44f8b4c3793327cefad8bc412f2d5d166ba9ca9955",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285965&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "012003",
@@ -101160,15 +101176,18 @@
   "doc_type": "법률",
   "emitted_signature": "8355601e28ec76cd",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:23:13.832397+00:00",
-  "last_collected_at": "2026-08-25T20:26:13.769828+00:00",
+  "last_checked_at": "2026-11-06T02:47:02.199243+00:00",
+  "last_collected_at": "2026-11-06T02:48:31.345967+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "285965",
   "name": "택시운송사업의 발전에 관한 법률",
   "payload_law_id": "012003",
+  "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "c31927d4d50d5147"
@@ -108122,8 +108141,14 @@
   "version_signature": "a9b00ff81f35e300"
  },
  "law:eflaw:012498": {
-  "collected_signature": "0f01645a610daf52",
-  "content_hash": "e418f21c1b2959e1dbf06b27b37f53bfe65aafb6ec9a525968eca93bd46e9092",
+  "attempt_run": "01a1aec0-8ea",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 15,
+   "chars": 3219
+  },
+  "collected_signature": "131e04b775033936",
+  "content_hash": "f9c83156e2ae0c70f364df5208f8096c5a35694212fe157f587376e1b850b671",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286097&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "012498",
@@ -108131,15 +108156,18 @@
   "doc_type": "법률",
   "emitted_signature": "0f01645a610daf52",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:02:23.035147+00:00",
-  "last_collected_at": "2026-08-25T21:02:37.787506+00:00",
+  "last_checked_at": "2026-11-06T02:46:58.585105+00:00",
+  "last_collected_at": "2026-11-06T02:47:49.665549+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "교육부",
   "mst": "286097",
   "name": "특수외국어 교육 진흥에 관한 법률",
   "payload_law_id": "012498",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "131e04b775033936"
@@ -135003,13 +135031,14 @@
   "version_signature": "c126cd12db7550a1"
  },
  "law:eflaw:014872": {
+  "attempt_run": "01a1aec0-8e8",
   "attempts": 0,
   "body_stats": {
    "articles": 19,
    "chars": 5081
   },
-  "collected_signature": "01b9bff92d7c2a6a",
-  "content_hash": "b1a9bf48c7b5863a427fe8db7cfa3c5ecfd0cad9f52bd62310ba601f99960b22",
+  "collected_signature": "03cc15927c4bf135",
+  "content_hash": "d5057a27ef7b28221d1d2041d987daee06b6ed1eed8178db5319c0ae955d773e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291311&type=HTML&mobileYn=&efYd=20271021",
   "doc_domain": "law",
   "doc_id": "014872",
@@ -135019,8 +135048,8 @@
   "enforcement_date": "20271021",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-20T16:47:41.582997+00:00",
-  "last_collected_at": "2026-10-20T16:48:18.160645+00:00",
+  "last_checked_at": "2026-11-06T02:47:00.637760+00:00",
+  "last_collected_at": "2026-11-06T02:48:02.861783+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "질병관리청",
   "mst": "291311",
@@ -135028,6 +135057,7 @@
   "payload_law_id": "014872",
   "prev_name": null,
   "promulgation_date": "20261020",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "03cc15927c4bf135"
