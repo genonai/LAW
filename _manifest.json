@@ -14236,9 +14236,14 @@
   "version_signature": "52b8a3b45337e956"
  },
  "law:eflaw:001649": {
+  "attempt_run": "01a1ae7c-85b",
   "attempts": 0,
-  "collected_signature": "01abc29edfc62bfa",
-  "content_hash": "354240e753a28e7045a77ae972d7ead3b1b475a2b22ccf8efa0443c2ac0140ba",
+  "body_stats": {
+   "articles": 254,
+   "chars": 164999
+  },
+  "collected_signature": "3af39ec2d18b13d4",
+  "content_hash": "b25ecc4fab6a42e2ed8153c3bbea26f20a9503fb8640f4f7cefbc4009a08e9f3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282559&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "001649",
@@ -14246,17 +14251,20 @@
   "doc_type": "법률",
   "emitted_signature": "01abc29edfc62bfa",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:02:45.770482+00:00",
-  "last_collected_at": "2026-09-08T18:20:00.314547+00:00",
+  "last_checked_at": "2026-11-06T01:32:39.007517+00:00",
+  "last_collected_at": "2026-11-06T01:45:58.486716+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "282559",
   "name": "지방세법",
   "payload_law_id": "001649",
+  "prev_name": null,
   "promulgation_date": "20251231",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "3af39ec2d18b13d4"
  },
  "law:eflaw:001652": {
@@ -14370,13 +14378,14 @@
   "version_signature": "3751289a34f02e84"
  },
  "law:eflaw:001656": {
+  "attempt_run": "01a1ae7c-868",
   "attempts": 0,
   "body_stats": {
    "articles": 220,
    "chars": 67531
   },
-  "collected_signature": "8c3755fed758c61d",
-  "content_hash": "3f10b04e1299a9884acbb22426ce21d14254d55ab51e3edc664b667f1192ca05",
+  "collected_signature": "a5b7962349f2ff1c",
+  "content_hash": "d3b820f96dd657734c137ac5b6b2ac018e79c86731ab7962ad722f5f8d34dd57",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291163&type=HTML&mobileYn=&efYd=20270414",
   "doc_domain": "law",
   "doc_id": "001656",
@@ -14386,8 +14395,8 @@
   "enforcement_date": "20270414",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-15T15:00:16.863016+00:00",
-  "last_collected_at": "2026-10-15T15:02:45.030701+00:00",
+  "last_checked_at": "2026-11-06T01:32:41.675969+00:00",
+  "last_collected_at": "2026-11-06T01:36:13.404292+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "291163",
@@ -14395,8 +14404,9 @@
   "payload_law_id": "001656",
   "prev_name": null,
   "promulgation_date": "20261013",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a5b7962349f2ff1c"
  },
  "law:eflaw:001660": {
@@ -88928,9 +88938,14 @@
   "version_signature": "d94ce5dcad6ffdf7"
  },
  "law:eflaw:011178": {
+  "attempt_run": "01a1ae7c-85d",
   "attempts": 0,
-  "collected_signature": "88f8f7ede220af14",
-  "content_hash": "4e86c2388d26cb384b06f9af2551fe75069db0d92c38e3f2e4b469480f4aeb73",
+  "body_stats": {
+   "articles": 267,
+   "chars": 269597
+  },
+  "collected_signature": "7af407d6df3001a9",
+  "content_hash": "6955b9f9a5b71a5d2d3077cd211bfa9d5f5b10f172ead30bf80e27a2cf5c8d54",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289389&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "011178",
@@ -88938,15 +88953,18 @@
   "doc_type": "법률",
   "emitted_signature": "88f8f7ede220af14",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:02:45.119433+00:00",
-  "last_collected_at": "2026-09-08T18:24:28.311070+00:00",
+  "last_checked_at": "2026-11-06T01:32:43.134526+00:00",
+  "last_collected_at": "2026-11-06T01:49:15.933011+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "289389",
   "name": "지방세특례제한법",
   "payload_law_id": "011178",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7af407d6df3001a9"
@@ -99833,8 +99851,14 @@
   "version_signature": "a16797fcd368af1b"
  },
  "law:eflaw:011896": {
-  "collected_signature": "d386099e86c0e78c",
-  "content_hash": "d6b802fd87b7ddd499204065579bc02ae34b6583a82e8a7d8a1581d170b89774",
+  "attempt_run": "01a1ae7c-866",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 37,
+   "chars": 16972
+  },
+  "collected_signature": "bedb724b5157b63c",
+  "content_hash": "4fa03fc2ed12f02f6f6641bdbe96e073c470ae149225eee936ecda70a23929f5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=248749&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "011896",
@@ -99842,17 +99866,20 @@
   "doc_type": "법률",
   "emitted_signature": "d386099e86c0e78c",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:10:57.295741+00:00",
-  "last_collected_at": "2026-08-25T16:13:56.389237+00:00",
+  "last_checked_at": "2026-11-06T01:32:40.035708+00:00",
+  "last_collected_at": "2026-11-06T01:34:40.732932+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "248749",
   "name": "지방행정제재ㆍ부과금의 징수 등에 관한 법률",
   "payload_law_id": "011896",
+  "prev_name": null,
   "promulgation_date": "20230314",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bedb724b5157b63c"
  },
  "law:eflaw:011897": {
@@ -102724,8 +102751,14 @@
   "version_signature": "5adc032f226251e1"
  },
  "law:eflaw:012130": {
-  "collected_signature": "40639174e0cd753b",
-  "content_hash": "9ebc21a43154c82192707b4abdf0612243f6a315be4fc1d20e263bf2331b1295",
+  "attempt_run": "01a1ae7c-85f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 20,
+   "chars": 3144
+  },
+  "collected_signature": "bf85b462dbd0d042",
+  "content_hash": "59cb2a671a8cc614829b73848e676d56319407a1e7bc65a289ed1964fdbd55b9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=216097&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "012130",
@@ -102733,15 +102766,18 @@
   "doc_type": "행정안전부령",
   "emitted_signature": "40639174e0cd753b",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:10:57.221124+00:00",
-  "last_collected_at": "2026-08-25T16:13:42.255682+00:00",
+  "last_checked_at": "2026-11-06T01:32:39.403622+00:00",
+  "last_collected_at": "2026-11-06T01:33:26.942395+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "행정안전부",
   "mst": "216097",
   "name": "지방행정제재ㆍ부과금의 징수 등에 관한 법률 시행규칙",
   "payload_law_id": "012130",
+  "prev_name": null,
   "promulgation_date": "20200324",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "bf85b462dbd0d042"
@@ -128469,13 +128505,14 @@
   "version_signature": "991432dad5066c48"
  },
  "law:eflaw:014455": {
+  "attempt_run": "01a1ae7c-863",
   "attempts": 0,
   "body_stats": {
    "articles": 101,
    "chars": 43756
   },
-  "collected_signature": "803781a075986c64",
-  "content_hash": "8b8621eb402b3cac6604c5472224a774f50324fac1b77c180268229e8d428d6e",
+  "collected_signature": "8bca7495b4ced6a5",
+  "content_hash": "191836b18c511366dfd505abc6dbcc6b42e8a12bdeea39ec0b1dc82a4d346345",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286503&type=HTML&mobileYn=&efYd=20261203",
   "doc_domain": "law",
   "doc_id": "014455",
@@ -128485,8 +128522,8 @@
   "enforcement_date": "20261203",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-15T15:00:17.173729+00:00",
-  "last_collected_at": "2026-10-15T15:03:28.042613+00:00",
+  "last_checked_at": "2026-11-06T01:32:40.923157+00:00",
+  "last_collected_at": "2026-11-06T01:37:58.189500+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부,기획예산처,산업통상부,행정안전부",
   "mst": "286503",
@@ -128494,8 +128531,9 @@
   "payload_law_id": "014455",
   "prev_name": null,
   "promulgation_date": "20260602",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "8bca7495b4ced6a5"
  },
  "law:eflaw:014456": {
