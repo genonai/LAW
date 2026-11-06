@@ -840,8 +840,14 @@
   "version_signature": "1dbb7c7ac58c5d7b"
  },
  "law:eflaw:000088": {
-  "collected_signature": "f98404427ebb74c0",
-  "content_hash": "97a5f3ac8d0c0a315185a5928cf6d02ae5be03d290c959723a4bd41486224914",
+  "attempt_run": "01a1aeda-941",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 66,
+   "chars": 25041
+  },
+  "collected_signature": "aee7c84e1bb8f5a0",
+  "content_hash": "1cd59d96f1eaef63e305140dbfa09df31ddfd3856429cfabfc0f02050c887673",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286951&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "000088",
@@ -849,9 +855,10 @@
   "doc_type": "법률",
   "emitted_signature": "f98404427ebb74c0",
   "enforcement_date": "20261217",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:31:38.040956+00:00",
-  "last_collected_at": "2026-08-26T23:33:50.385800+00:00",
+  "last_checked_at": "2026-11-06T03:15:23.403462+00:00",
+  "last_collected_at": "2026-11-06T03:17:58.714535+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:26.196352+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
@@ -859,7 +866,9 @@
   "mst": "286951",
   "name": "항공보안법",
   "payload_law_id": "000088",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "aee7c84e1bb8f5a0"
@@ -2002,8 +2011,14 @@
   "version_signature": "32585cc5e2386ead"
  },
  "law:eflaw:000184": {
-  "collected_signature": "5db354eaa09fdd5f",
-  "content_hash": "8604ad4399e1df7590f3588fbfad146fb18e8d5f48cf72c0968ed481d36a0b23",
+  "attempt_run": "01a1aeda-93d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 53,
+   "chars": 18730
+  },
+  "collected_signature": "45e681d58bd150c0",
+  "content_hash": "aa4a958721e48f428516454a5a024eb87b294ca5e5eae262320512893be508d7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286821&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "000184",
@@ -2011,9 +2026,10 @@
   "doc_type": "법률",
   "emitted_signature": "5db354eaa09fdd5f",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T23:31:37.232610+00:00",
-  "last_collected_at": "2026-08-26T23:43:17.643108+00:00",
+  "last_checked_at": "2026-11-06T03:15:25.700866+00:00",
+  "last_collected_at": "2026-11-06T03:17:13.430369+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:26.471052+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
@@ -2021,7 +2037,9 @@
   "mst": "286821",
   "name": "한부모가족지원법",
   "payload_law_id": "000184",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "45e681d58bd150c0"
@@ -3334,8 +3352,14 @@
   "version_signature": "1b139643a735f069"
  },
  "law:eflaw:000325": {
-  "collected_signature": "8182115431a4b764",
-  "content_hash": "36c1e694d0f76af1398bacfb1822221c03af035319f0789cb8006ebbcd28fa7b",
+  "attempt_run": "01a1aeda-93b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 6589
+  },
+  "collected_signature": "83e38dd36ca6e989",
+  "content_hash": "5e0f2bb1daf98a213fc1c205f204657f12008e13bb5d011bab7edf8835a509d9",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286709&type=HTML&mobileYn=&efYd=20261210",
   "doc_domain": "law",
   "doc_id": "000325",
@@ -3343,15 +3367,18 @@
   "doc_type": "법률",
   "emitted_signature": "8182115431a4b764",
   "enforcement_date": "20261210",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T07:33:15.481360+00:00",
-  "last_collected_at": "2026-08-26T07:38:29.866439+00:00",
+  "last_checked_at": "2026-11-06T03:15:22.937725+00:00",
+  "last_collected_at": "2026-11-06T03:16:02.336924+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "우주항공청",
   "mst": "286709",
   "name": "항공우주산업개발 촉진법",
   "payload_law_id": "000325",
+  "prev_name": null,
   "promulgation_date": "20260609",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "83e38dd36ca6e989"
@@ -3433,9 +3460,14 @@
   "version_signature": "f26765c235af2633"
  },
  "law:eflaw:000355": {
+  "attempt_run": "01a1aeda-940",
   "attempts": 0,
-  "collected_signature": "567af7a33013ec0a",
-  "content_hash": "0d20a40fa0246775db64ca622674840a49c9df992ff65f9b4efa4eb80cf58cc9",
+  "body_stats": {
+   "articles": 68,
+   "chars": 36077
+  },
+  "collected_signature": "286c69a19a781775",
+  "content_hash": "f8a1fd2ab6e540b0f8955f5f4474a5726d32a9bd2af2e8ae8e487c725522b484",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289407&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "000355",
@@ -3443,9 +3475,10 @@
   "doc_type": "법률",
   "emitted_signature": "567af7a33013ec0a",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T18:30:48.008735+00:00",
-  "last_collected_at": "2026-09-08T18:33:36.511324+00:00",
+  "last_checked_at": "2026-11-06T03:15:24.859746+00:00",
+  "last_collected_at": "2026-11-06T03:18:09.664952+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:27.020906+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
@@ -3453,7 +3486,9 @@
   "mst": "289407",
   "name": "할부거래에 관한 법률",
   "payload_law_id": "000355",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "286c69a19a781775"
@@ -108735,13 +108770,14 @@
   "version_signature": "98202517b9eca2bb"
  },
  "law:eflaw:012524": {
+  "attempt_run": "01a1aeda-946",
   "attempts": 0,
   "body_stats": {
    "articles": 209,
    "chars": 118384
   },
-  "collected_signature": "5b53115eb46d017b",
-  "content_hash": "b6b05a6dd1608c061d1903170f39dfc9d3dbae7384f83b091aa3e50e785d5a01",
+  "collected_signature": "a6f6145ddf017429",
+  "content_hash": "b50476a9753e4dc3c463e5c1bcb5b00f552fcc666dfb7e7e956ed56617d878c2",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285967&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "012524",
@@ -108751,8 +108787,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-17T15:00:16.457554+00:00",
-  "last_collected_at": "2026-09-17T15:08:40.077698+00:00",
+  "last_checked_at": "2026-11-06T03:15:27.044603+00:00",
+  "last_collected_at": "2026-11-06T03:22:12.258737+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "285967",
@@ -108760,8 +108796,9 @@
   "payload_law_id": "012524",
   "prev_name": null,
   "promulgation_date": "20260512",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 4,
+  "version_count": 1,
   "version_signature": "a6f6145ddf017429"
  },
  "law:eflaw:012525": {
@@ -133471,8 +133508,14 @@
   "version_signature": "7b27b386126b5b72"
  },
  "law:eflaw:014752": {
-  "collected_signature": "32ecab6a1631f95e",
-  "content_hash": "51de142391469ca6969dd724ce3b74032f6e72724e141d866836930a7384caf7",
+  "attempt_run": "01a1aeda-943",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 25,
+   "chars": 5925
+  },
+  "collected_signature": "a8013e20d5f33ebf",
+  "content_hash": "ec28290bc14f2adafa57fd4b056c51d8c406511e9770d3500f0865473f7e5b2e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286113&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014752",
@@ -133480,9 +133523,10 @@
   "doc_type": "법률",
   "emitted_signature": "32ecab6a1631f95e",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T02:23:12.476607+00:00",
-  "last_collected_at": "2026-08-27T02:31:02.193128+00:00",
+  "last_checked_at": "2026-11-06T03:15:23.956227+00:00",
+  "last_collected_at": "2026-11-06T03:16:13.774475+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:46.755820+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
@@ -133490,7 +133534,9 @@
   "mst": "286113",
   "name": "한류산업진흥 기본법",
   "payload_law_id": "014752",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a8013e20d5f33ebf"
