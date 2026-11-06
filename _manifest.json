@@ -13241,13 +13241,14 @@
   "version_signature": "82638ca206a1dfc2"
  },
  "law:eflaw:001584": {
+  "attempt_run": "01a1add6-727",
   "attempts": 0,
   "body_stats": {
    "articles": 462,
    "chars": 502727
   },
-  "collected_signature": "c1bd1e9f97e0aae4",
-  "content_hash": "2c01b81d515d1790fd6603d602a1794ceba1ac09a996297e818fd4968bd52210",
+  "collected_signature": "3c8d9cb7e572064f",
+  "content_hash": "bff45adfe501b22745b27ac1ffdbc366ec7ae2b0aa39243f9d4113e2448273af",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280409&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "001584",
@@ -13257,8 +13258,8 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T17:13:38.034192+00:00",
-  "last_collected_at": "2026-09-18T17:16:44.386774+00:00",
+  "last_checked_at": "2026-11-05T22:31:16.426062+00:00",
+  "last_collected_at": "2026-11-05T22:54:33.156783+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부,행정안전부",
   "mst": "280409",
@@ -13266,8 +13267,9 @@
   "payload_law_id": "001584",
   "prev_name": null,
   "promulgation_date": "20251223",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 9,
+  "version_count": 1,
   "version_signature": "3c8d9cb7e572064f"
  },
  "law:eflaw:001585": {
@@ -34715,13 +34717,14 @@
   "version_signature": "fd6edfe046bb5a99"
  },
  "law:eflaw:004920": {
+  "attempt_run": "01a1add6-72c",
   "attempts": 0,
   "body_stats": {
    "articles": 450,
    "chars": 676324
   },
-  "collected_signature": "814a9053b29bc861",
-  "content_hash": "fb41b5ff5f3b9afa7486439e5fefbab612371b9121c31358e8de54f04f9bdee6",
+  "collected_signature": null,
+  "content_hash": "3e381d18419e29236e7632dc37b752052318a74448c31ffbb89c1b2852e6cde6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283625&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "004920",
@@ -34731,8 +34734,10 @@
   "enforcement_date": "20270101",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-02T20:27:45.150888+00:00",
-  "last_collected_at": "2026-10-02T21:13:08.893172+00:00",
+  "last_checked_at": "2026-11-05T22:31:19.191228+00:00",
+  "last_collected_at": "2026-11-06T01:15:37.036903+00:00",
+  "last_git_error": "git add(작업트리 변경이 스테이징되지 않음) 실패(rc=0) /workspace/law_ai/data/LAW :: 조세특례제한법/시행령 — ",
+  "last_git_error_at": "2026-11-06T01:15:59.061539+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "재정경제부,행정안전부",
   "mst": "283625",
@@ -34740,6 +34745,7 @@
   "payload_law_id": "004920",
   "prev_name": null,
   "promulgation_date": "20260227",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "86d92d43c775855e"
@@ -34871,9 +34877,14 @@
   "version_signature": "f6ac9ce3ef675d11"
  },
  "law:eflaw:004948": {
+  "attempt_run": "01a1add6-730",
   "attempts": 0,
-  "collected_signature": "0b0cad6106ba2f43",
-  "content_hash": "15f7f98e9f2388f9cd3e2be6da7557f4c776a19afea6c32a04580f76033fabce",
+  "body_stats": {
+   "articles": 92,
+   "chars": 45634
+  },
+  "collected_signature": "98684972cba3a53e",
+  "content_hash": "1d6bdde16eb2067ec7127cb1432dd4fd399dfcd31f7bfc0af3a919e3710e6763",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285833&type=HTML&mobileYn=&efYd=20261107",
   "doc_domain": "law",
   "doc_id": "004948",
@@ -34881,15 +34892,18 @@
   "doc_type": "대통령령",
   "emitted_signature": "0b0cad6106ba2f43",
   "enforcement_date": "20261107",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T17:33:55.942623+00:00",
-  "last_collected_at": "2026-09-08T17:41:00.652173+00:00",
+  "last_checked_at": "2026-11-05T22:31:17.090382+00:00",
+  "last_collected_at": "2026-11-05T22:36:48.468120+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "285833",
   "name": "주택건설기준 등에 관한 규정",
   "payload_law_id": "004948",
+  "prev_name": null,
   "promulgation_date": "20260506",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "98684972cba3a53e"
@@ -100751,13 +100765,13 @@
   "version_signature": "40a9f12f8b732f45"
  },
  "law:eflaw:011995": {
-  "attempt_run": "01a17df9-b8f",
+  "attempt_run": "01a1add6-72a",
   "attempts": 0,
   "body_stats": {
    "articles": 27,
    "chars": 8093
   },
-  "collected_signature": "69538490ee631e9a",
+  "collected_signature": "791209b105dc3f6a",
   "content_hash": "aa9e27390cc6df178df8e10a134c62d6ae041027e850b77d272bd0bfaeab326e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291215&type=HTML&mobileYn=&efYd=20270121",
   "doc_domain": "law",
@@ -100768,8 +100782,8 @@
   "enforcement_date": "20270121",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-27T15:28:01.581596+00:00",
-  "last_collected_at": "2026-10-27T15:29:48.965397+00:00",
+  "last_checked_at": "2026-11-05T22:31:15.733203+00:00",
+  "last_collected_at": "2026-11-05T22:32:08.439664+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "291215",
@@ -100779,7 +100793,7 @@
   "promulgation_date": "20261020",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "791209b105dc3f6a"
  },
  "law:eflaw:011996": {
@@ -103888,9 +103902,14 @@
   "version_signature": "6d9cc1b52f3a16cf"
  },
  "law:eflaw:012226": {
+  "attempt_run": "01a1add6-725",
   "attempts": 0,
-  "collected_signature": "7bf9d5c52643eae4",
-  "content_hash": "c97a4b962796824fe7704286eab93d0b95ce98f731167ac8da61b724d3a3ed04",
+  "body_stats": {
+   "articles": 43,
+   "chars": 16482
+  },
+  "collected_signature": "a47cba9e8ace708f",
+  "content_hash": "e3004cf721fe75e4685bd504dd97fe278d26be642f5965c88bf19148bbd03391",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289381&type=HTML&mobileYn=&efYd=20270909",
   "doc_domain": "law",
   "doc_id": "012226",
@@ -103898,15 +103917,18 @@
   "doc_type": "법률",
   "emitted_signature": "7bf9d5c52643eae4",
   "enforcement_date": "20270909",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T17:33:56.449539+00:00",
-  "last_collected_at": "2026-09-08T17:37:13.620987+00:00",
+  "last_checked_at": "2026-11-05T22:31:15.156065+00:00",
+  "last_collected_at": "2026-11-05T22:33:31.515774+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289381",
   "name": "주택도시기금법",
   "payload_law_id": "012226",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "a47cba9e8ace708f"
@@ -108122,8 +108144,14 @@
   "version_signature": "c5e7df5399835423"
  },
  "law:eflaw:012514": {
-  "collected_signature": "4cebc993b363ff96",
-  "content_hash": "bfe4fa89754e93455b841a6686c0cb4733007187ae283767ce0cb871acc33f5a",
+  "attempt_run": "01a1add6-72e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 82,
+   "chars": 40590
+  },
+  "collected_signature": "7a9f037db2027407",
+  "content_hash": "49dfae4b07484c629774bef2fdf918fd8e030e0deb680b865bd34763e42b17c5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283195&type=HTML&mobileYn=&efYd=20270204",
   "doc_domain": "law",
   "doc_id": "012514",
@@ -108131,15 +108159,18 @@
   "doc_type": "법률",
   "emitted_signature": "4cebc993b363ff96",
   "enforcement_date": "20270204",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T10:30:17.786536+00:00",
-  "last_collected_at": "2026-08-25T10:32:25.833199+00:00",
+  "last_checked_at": "2026-11-05T22:31:18.073512+00:00",
+  "last_collected_at": "2026-11-05T22:34:38.650275+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "금융위원회,법무부",
   "mst": "283195",
   "name": "주식ㆍ사채 등의 전자등록에 관한 법률",
   "payload_law_id": "012514",
+  "prev_name": null,
   "promulgation_date": "20260203",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7a9f037db2027407"
