@@ -5871,14 +5871,14 @@
   "version_signature": "5ba42142f927b0cc"
  },
  "law:eflaw:000816": {
-  "attempt_run": "01a18844-be6",
+  "attempt_run": "01a1aea9-790",
   "attempts": 0,
   "body_stats": {
    "articles": 91,
    "chars": 20413
   },
-  "collected_signature": "8fe74013783d913b",
-  "content_hash": "0c3dab0ef2dc60d832378bac5ecfe29e6abbfba474b3e9e44662122a151bab01",
+  "collected_signature": "407fda0879b72998",
+  "content_hash": "12d0b55f0f885e4b3589298e568502d2718e68237eedf2220236ba03a7344edb",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285387&type=HTML&mobileYn=&efYd=20261208",
   "doc_domain": "law",
   "doc_id": "000816",
@@ -5888,8 +5888,8 @@
   "enforcement_date": "20261208",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-29T15:26:09.617138+00:00",
-  "last_collected_at": "2026-10-29T15:27:36.020874+00:00",
+  "last_checked_at": "2026-11-06T02:21:46.655808+00:00",
+  "last_collected_at": "2026-11-06T02:22:50.160422+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "285387",
@@ -5899,7 +5899,7 @@
   "promulgation_date": "20260407",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "407fda0879b72998"
  },
  "law:eflaw:000820": {
@@ -63372,8 +63372,14 @@
   "version_signature": "07dde7aed25e7d62"
  },
  "law:eflaw:009382": {
-  "collected_signature": "4352e8cb5d2dcc19",
-  "content_hash": "67a14517054639e4be78b4da0d7525034f3e34466165a6c1df31127041a389fb",
+  "attempt_run": "01a1aea9-782",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 22,
+   "chars": 8073
+  },
+  "collected_signature": "7c5d21e4f23d32bb",
+  "content_hash": "5198f1dc3e9af45d5e39da80ca84456f4f3f46d17547a4ae244bb5b0412c0ad5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=257775&type=HTML&mobileYn=&efYd=20270101",
   "doc_domain": "law",
   "doc_id": "009382",
@@ -63381,15 +63387,18 @@
   "doc_type": "여성가족부령",
   "emitted_signature": "4352e8cb5d2dcc19",
   "enforcement_date": "20270101",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:21:02.678979+00:00",
-  "last_collected_at": "2026-08-25T18:24:26.038064+00:00",
+  "last_checked_at": "2026-11-06T02:21:44.724744+00:00",
+  "last_collected_at": "2026-11-06T02:23:56.280290+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "성평등가족부",
   "mst": "257775",
   "name": "청소년 기본법 시행규칙",
   "payload_law_id": "009382",
+  "prev_name": null,
   "promulgation_date": "20231228",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "7c5d21e4f23d32bb"
@@ -68384,8 +68393,14 @@
   "version_signature": "42c4ef9e8d26e5cb"
  },
  "law:eflaw:009766": {
-  "collected_signature": "027c1175ca228c83",
-  "content_hash": "ca88aa7f630097be95e9ea01faf45dad3a6753e50870b94d72efa65bd05e4cb4",
+  "attempt_run": "01a1aea9-784",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 150,
+   "chars": 65612
+  },
+  "collected_signature": "5c2e35bd7e7625fb",
+  "content_hash": "acee1c162dac7c6393bc3951ee5d16a771e780c13d99027a6faf9e03ed865679",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286991&type=HTML&mobileYn=&efYd=20261217",
   "doc_domain": "law",
   "doc_id": "009766",
@@ -68393,17 +68408,20 @@
   "doc_type": "법률",
   "emitted_signature": "027c1175ca228c83",
   "enforcement_date": "20261217",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T17:56:45.491502+00:00",
-  "last_collected_at": "2026-08-25T18:06:36.863565+00:00",
+  "last_checked_at": "2026-11-06T02:21:47.657862+00:00",
+  "last_collected_at": "2026-11-06T02:27:33.797030+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "286991",
   "name": "철도안전법",
   "payload_law_id": "009766",
+  "prev_name": null,
   "promulgation_date": "20260616",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "5c2e35bd7e7625fb"
  },
  "law:eflaw:009767": {
@@ -116298,13 +116316,14 @@
   "version_signature": "1975841a93f3128f"
  },
  "law:eflaw:013572": {
+  "attempt_run": "01a1aea9-78c",
   "attempts": 0,
   "body_stats": {
    "articles": 66,
    "chars": 41353
   },
-  "collected_signature": "4fbcdf4e6ded0848",
-  "content_hash": "fc692098b293a50de5ed7e2a123f93935c1f2a24193e320760a9e47b01533c6f",
+  "collected_signature": "2c640e65c2191b0a",
+  "content_hash": "fcf4a23143af848e7456decf92674c301ac9c04365624ce2852770c818ed1ffa",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286171&type=HTML&mobileYn=&efYd=20261127",
   "doc_domain": "law",
   "doc_id": "013572",
@@ -116314,8 +116333,8 @@
   "enforcement_date": "20261127",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:29:42.622102+00:00",
-  "last_collected_at": "2026-10-08T01:34:25.644432+00:00",
+  "last_checked_at": "2026-11-06T02:21:45.226713+00:00",
+  "last_collected_at": "2026-11-06T02:24:57.971742+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "보건복지부,식품의약품안전처",
   "mst": "286171",
@@ -116323,8 +116342,9 @@
   "payload_law_id": "013572",
   "prev_name": null,
   "promulgation_date": "20260526",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "2c640e65c2191b0a"
  },
  "law:eflaw:013573": {
@@ -130459,8 +130479,14 @@
   "version_signature": "bf49f29937c67580"
  },
  "law:eflaw:014590": {
-  "collected_signature": "11c4e7ff1ed2cfe6",
-  "content_hash": "cc9bcc0f095396db9ce3eb1232f4f935fccb9f1cb1ab8ad64dd64cace0785e6d",
+  "attempt_run": "01a1aea9-788",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 17191
+  },
+  "collected_signature": "ff2a94900913ce40",
+  "content_hash": "f2b454a166c04797a1c072d44ac4a390922ac937e68fdf6d4a80358742273594",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286101&type=HTML&mobileYn=&efYd=20270117",
   "doc_domain": "law",
   "doc_id": "014590",
@@ -130468,15 +130494,18 @@
   "doc_type": "법률",
   "emitted_signature": "11c4e7ff1ed2cfe6",
   "enforcement_date": "20270117",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:09:52.115488+00:00",
-  "last_collected_at": "2026-08-25T18:13:13.845801+00:00",
+  "last_checked_at": "2026-11-06T02:21:48.830434+00:00",
+  "last_collected_at": "2026-11-06T02:23:55.395487+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "산업통상부",
   "mst": "286101",
   "name": "첨단산업 인재혁신 특별법",
   "payload_law_id": "014590",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "ff2a94900913ce40"
@@ -130772,12 +130801,13 @@
   "version_signature": "3c072529b0b68898"
  },
  "law:eflaw:014609": {
+  "attempt_run": "01a1aea9-791",
   "attempts": 0,
   "body_stats": {
    "articles": 24,
    "chars": 7429
   },
-  "collected_signature": "cbbdb747466c8a42",
+  "collected_signature": "2ba91b0b462e0a81",
   "content_hash": "770beb735086dfc47927a8dc8773b41c03eaa90394b3ee7bdfe4d9c849ce5caf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289901&type=HTML&mobileYn=&efYd=20270323",
   "doc_domain": "law",
@@ -130788,8 +130818,8 @@
   "enforcement_date": "20270323",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-23T02:40:23.769273+00:00",
-  "last_collected_at": "2026-09-23T02:41:11.964913+00:00",
+  "last_checked_at": "2026-11-06T02:21:45.996138+00:00",
+  "last_collected_at": "2026-11-06T02:22:58.982368+00:00",
   "last_seen_at": "2026-11-05T15:00:31.830990+00:00",
   "ministry": "국토교통부",
   "mst": "289901",
@@ -130797,6 +130827,7 @@
   "payload_law_id": "014609",
   "prev_name": null,
   "promulgation_date": "20260922",
+  "sanity_hold": null,
   "status": "done",
   "version_count": 1,
   "version_signature": "2ba91b0b462e0a81"
