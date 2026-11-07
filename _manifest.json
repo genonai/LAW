@@ -11905,13 +11905,13 @@
   "version_signature": "f62b59160a205610"
  },
  "law:eflaw:001455": {
-  "attempt_run": "01a1aec4-49a",
+  "attempt_run": "01a1b3a4-d6f",
   "attempts": 0,
   "body_stats": {
    "articles": 298,
    "chars": 111055
   },
-  "collected_signature": "646a4d48484a9e03",
+  "collected_signature": "bbe0f0687fcfb6fc",
   "content_hash": "8d575d4e7f19676f03764ec9f70f079a1eb94b9b1ae44fbea235027fd4b95f62",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=279827&type=HTML&mobileYn=&efYd=20251111",
   "doc_domain": "law",
@@ -11922,8 +11922,8 @@
   "enforcement_date": "20251111",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T02:51:06.468638+00:00",
-  "last_collected_at": "2026-11-06T03:00:18.647877+00:00",
+  "last_checked_at": "2026-11-07T01:34:51.186259+00:00",
+  "last_collected_at": "2026-11-07T01:42:06.809612+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "지식재산처",
   "mst": "279827",
@@ -11933,7 +11933,7 @@
   "promulgation_date": "20251111",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "bbe0f0687fcfb6fc"
  },
  "law:eflaw:001457": {
@@ -36955,8 +36955,14 @@
   "version_signature": "c7fdba45e2f9c39f"
  },
  "law:eflaw:005300": {
-  "collected_signature": "bbe06901d4a082a5",
-  "content_hash": "4f9a0e4b87be76a9cc8e0785e2389a478c0ef94020712cf9c5da0d4c3696c8c9",
+  "attempt_run": "01a1b3a4-d66",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 61,
+   "chars": 15856
+  },
+  "collected_signature": "763b6652117bf727",
+  "content_hash": "e5d5c9b1fca346b3e980a233f9e2ace48a9d9f95c42534a112ac5e13283e5a26",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291629&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "005300",
@@ -36964,16 +36970,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "bbe06901d4a082a5",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:52:48.733830+00:00",
-  "last_collected_at": "2026-08-25T20:58:43.667861+00:00",
+  "last_checked_at": "2026-11-07T01:34:47.581552+00:00",
+  "last_collected_at": "2026-11-07T01:37:10.834552+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "통일부,행정안전부",
   "mst": "291629",
   "name": "통일부와 그 소속기관 직제",
   "payload_law_id": "005300",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "763b6652117bf727"
  },
@@ -37259,13 +37268,13 @@
   "version_signature": "e529efeb34610d54"
  },
  "law:eflaw:005343": {
-  "attempt_run": "01a1aec4-4a4",
+  "attempt_run": "01a1b3a4-d65",
   "attempts": 0,
   "body_stats": {
    "articles": 27,
    "chars": 21633
   },
-  "collected_signature": "4bac2aaa852d1bcd",
+  "collected_signature": "47444fb09eb2f941",
   "content_hash": "a85917b94048d89330c1576bfc73af81bfdb3fa937049726b8ccdd07ecbcfdf6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=277553&type=HTML&mobileYn=&efYd=20251001",
   "doc_domain": "law",
@@ -37276,8 +37285,8 @@
   "enforcement_date": "20251001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T02:51:04.558479+00:00",
-  "last_collected_at": "2026-11-06T03:00:23.079892+00:00",
+  "last_checked_at": "2026-11-07T01:34:47.178144+00:00",
+  "last_collected_at": "2026-11-07T01:41:32.342733+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "지식재산처",
   "mst": "277553",
@@ -37287,7 +37296,7 @@
   "promulgation_date": "20251001",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "47444fb09eb2f941"
  },
  "law:eflaw:005348": {
@@ -58149,8 +58158,14 @@
   "version_signature": "ed5c20ac24f20eb0"
  },
  "law:eflaw:008537": {
-  "collected_signature": "9e839876a45b4bba",
-  "content_hash": "dc9e3c343374125e9cf6c08f462af6da9be6d893703376631ac6a06539a13ff3",
+  "attempt_run": "01a1b3a4-d6c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 30292
+  },
+  "collected_signature": "6a4402191d83b15a",
+  "content_hash": "fb4512716f53e0f81ed601cbc116db05994649e639f8370bb15406bf89809c6b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291685&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "008537",
@@ -58158,16 +58173,19 @@
   "doc_type": "통일부령",
   "emitted_signature": "9e839876a45b4bba",
   "enforcement_date": "20261106",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:52:49.532992+00:00",
-  "last_collected_at": "2026-08-25T20:58:16.665331+00:00",
+  "last_checked_at": "2026-11-07T01:34:48.434421+00:00",
+  "last_collected_at": "2026-11-07T01:36:55.674128+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "통일부",
   "mst": "291685",
   "name": "통일부와 그 소속기관 직제 시행규칙",
   "payload_law_id": "008537",
+  "prev_name": null,
   "promulgation_date": "20261106",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "6a4402191d83b15a"
  },
@@ -61733,13 +61751,13 @@
   "version_signature": "337bd9bd835f2ace"
  },
  "law:eflaw:009256": {
-  "attempt_run": "01a1aec0-8e5",
+  "attempt_run": "01a1b3a4-d6a",
   "attempts": 0,
   "body_stats": {
    "articles": 48,
    "chars": 27878
   },
-  "collected_signature": "2130ad31941fbdda",
+  "collected_signature": "7a97cc7cd3ad7fc4",
   "content_hash": "c0e43db98dbd892e2e9b72781bcc9d69081adc416359cf62e18c9fa59b7ffff3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290511&type=HTML&mobileYn=&efYd=20261002",
   "doc_domain": "law",
@@ -61750,8 +61768,8 @@
   "enforcement_date": "20261002",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T02:46:58.036792+00:00",
-  "last_collected_at": "2026-11-06T02:50:19.786232+00:00",
+  "last_checked_at": "2026-11-07T01:34:50.088409+00:00",
+  "last_collected_at": "2026-11-07T01:42:40.954972+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "금융위원회,법무부",
   "mst": "290511",
@@ -61761,7 +61779,7 @@
   "promulgation_date": "20260929",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "7a97cc7cd3ad7fc4"
  },
  "law:eflaw:009258": {
@@ -108671,13 +108689,13 @@
   "version_signature": "a9b00ff81f35e300"
  },
  "law:eflaw:012498": {
-  "attempt_run": "01a1aec0-8ea",
+  "attempt_run": "01a1b3a4-d71",
   "attempts": 0,
   "body_stats": {
    "articles": 15,
    "chars": 3219
   },
-  "collected_signature": "131e04b775033936",
+  "collected_signature": "0f01645a610daf52",
   "content_hash": "f9c83156e2ae0c70f364df5208f8096c5a35694212fe157f587376e1b850b671",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=205801&type=HTML&mobileYn=&efYd=20190619",
   "doc_domain": "law",
@@ -108688,8 +108706,8 @@
   "enforcement_date": "20190619",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T02:46:58.585105+00:00",
-  "last_collected_at": "2026-11-06T02:47:49.665549+00:00",
+  "last_checked_at": "2026-11-07T01:34:49.088393+00:00",
+  "last_collected_at": "2026-11-07T01:35:38.293960+00:00",
   "last_seen_at": "2026-11-06T15:00:26.751065+00:00",
   "ministry": "교육부",
   "mst": "205801",
@@ -108699,7 +108717,7 @@
   "promulgation_date": "20181218",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "0f01645a610daf52"
  },
  "law:eflaw:012499": {
