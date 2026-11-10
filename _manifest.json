@@ -33277,14 +33277,14 @@
   "version_signature": "ed5285c4aebec2ed"
  },
  "law:eflaw:004551": {
-  "attempt_run": "01a1b2b7-695",
+  "attempt_run": "01a1c62c-37e",
   "attempts": 0,
   "body_stats": {
    "articles": 39,
-   "chars": 17015
+   "chars": 17075
   },
-  "collected_signature": "636aa6188ed3f8f1",
-  "content_hash": "e3d7ec4f6801bf4950207820b7602a564ad04c8d82bca0625445130e4e4481ee",
+  "collected_signature": "795b6d5b32140d03",
+  "content_hash": "8b0c5ca5f58d7d9affa02c0373fdecdd0098853f1ca6aa903ef8076824e91f68",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291781&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "004551",
@@ -33294,8 +33294,8 @@
   "enforcement_date": "20261110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T21:15:29.090341+00:00",
-  "last_collected_at": "2026-11-06T21:20:25.445170+00:00",
+  "last_checked_at": "2026-11-10T15:55:50.365236+00:00",
+  "last_collected_at": "2026-11-10T16:01:55.821552+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "고용노동부",
   "mst": "291781",
@@ -33304,8 +33304,8 @@
   "prev_name": null,
   "promulgation_date": "20261110",
   "sanity_hold": null,
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "795b6d5b32140d03"
  },
  "law:eflaw:004552": {
@@ -84166,8 +84166,14 @@
   "version_signature": "5c5d95978128f315"
  },
  "law:eflaw:010777": {
-  "collected_signature": "98c86685035855b4",
-  "content_hash": "c7ae771c3ee1dee6265c625489f1b2d3e3464b541ebb690fbb4a5adcc1a97fdb",
+  "attempt_run": "01a1c62c-37a",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 27,
+   "chars": 6223
+  },
+  "collected_signature": "dd4fb7d81beca3f3",
+  "content_hash": "92e363abc7a326e4c25545ee40c1b4c901569c98e8ba680d2c101e6ce650cc44",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291777&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "010777",
@@ -84175,16 +84181,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "98c86685035855b4",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T12:41:38.324625+00:00",
-  "last_collected_at": "2026-08-24T12:43:01.851518+00:00",
+  "last_checked_at": "2026-11-10T15:55:49.736902+00:00",
+  "last_collected_at": "2026-11-10T15:56:37.656398+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "해양수산부",
   "mst": "291777",
   "name": "여수세계박람회 기념 및 사후활용에 관한 특별법 시행령",
   "payload_law_id": "010777",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd4fb7d81beca3f3"
  },
@@ -98364,13 +98373,14 @@
   "version_signature": "28e8ccd13b00ef1c"
  },
  "law:eflaw:011712": {
+  "attempt_run": "01a1c62c-37b",
   "attempts": 0,
   "body_stats": {
    "articles": 77,
-   "chars": 60005
+   "chars": 60097
   },
-  "collected_signature": "496417fe2af58489",
-  "content_hash": "4b16369fe2fbc20abf8640535f01b71971a21fd635361f5ed617156a7e5677e1",
+  "collected_signature": "fa3c4b14d9687f1c",
+  "content_hash": "35656723551c9fa3b009681171c8a9bad8d3b706d39f3a95d0c1a479ba2d5910",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291779&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "011712",
@@ -98380,8 +98390,8 @@
   "enforcement_date": "20261110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-08T01:20:03.434699+00:00",
-  "last_collected_at": "2026-10-08T01:29:12.489549+00:00",
+  "last_checked_at": "2026-11-10T15:55:52.208807+00:00",
+  "last_collected_at": "2026-11-10T16:07:14.894320+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "기획예산처,기후에너지환경부",
   "mst": "291779",
@@ -98389,7 +98399,8 @@
   "payload_law_id": "011712",
   "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "fa3c4b14d9687f1c"
  },
@@ -99376,9 +99387,14 @@
   "version_signature": "b01cfcf96c82d646"
  },
  "law:eflaw:011794": {
+  "attempt_run": "01a1c62c-374",
   "attempts": 0,
-  "collected_signature": "6ffb306bad78cf08",
-  "content_hash": "966fa19fa0656540cbc5b0dbfe467a50b102a4cd988a3578def8ef9ce4b5525d",
+  "body_stats": {
+   "articles": 164,
+   "chars": 128433
+  },
+  "collected_signature": "3e7b9730f98feda5",
+  "content_hash": "cefc081ba860d9410171f26f5f8c1ff624f1b3a1e6e12b6dcad4c0762bdafa8e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291859&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "011794",
@@ -99386,17 +99402,20 @@
   "doc_type": "총리령",
   "emitted_signature": "6ffb306bad78cf08",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:07:35.806945+00:00",
-  "last_collected_at": "2026-08-27T08:19:49.082558+00:00",
+  "last_checked_at": "2026-11-10T15:55:49.232911+00:00",
+  "last_collected_at": "2026-11-10T16:09:09.464105+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "식품의약품안전처",
   "mst": "291859",
   "name": "의약품 등의 안전에 관한 규칙",
   "payload_law_id": "011794",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
-  "version_count": 2,
+  "sanity_hold": null,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "3e7b9730f98feda5"
  },
  "law:eflaw:011796": {
@@ -100165,8 +100184,14 @@
   "version_signature": "dd62a7c7cacbbc4c"
  },
  "law:eflaw:011866": {
-  "collected_signature": "5eb7dfcf54917c69",
-  "content_hash": "0a2a6e7ebd33f82ed16c1d756b467222e7b2653cb67193c7c69ba164f0262ba5",
+  "attempt_run": "01a1c62c-378",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 41,
+   "chars": 14298
+  },
+  "collected_signature": "5b5bc9b300942c6e",
+  "content_hash": "354456f45b72c5a902b299af5916a5b408ddd1d12d2d7027f1dd44143db349fc",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291775&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "011866",
@@ -100174,16 +100199,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "5eb7dfcf54917c69",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T12:05:22.845588+00:00",
-  "last_collected_at": "2026-08-24T12:07:27.490095+00:00",
+  "last_checked_at": "2026-11-10T15:55:53.806752+00:00",
+  "last_collected_at": "2026-11-10T15:58:57.406575+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "해양수산부",
   "mst": "291775",
   "name": "어촌특화발전 지원 특별법 시행령",
   "payload_law_id": "011866",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "5b5bc9b300942c6e"
  },
@@ -128322,9 +128350,14 @@
   "version_signature": "e718d7e419816d27"
  },
  "law:eflaw:014337": {
+  "attempt_run": "01a1c62c-376",
   "attempts": 0,
-  "collected_signature": "e325c3d5074c44dd",
-  "content_hash": "8c8a1e20c45b97079cf3ef6f478e74c9cee3f01b65ecac16305fedb9e4c2ff66",
+  "body_stats": {
+   "articles": 37,
+   "chars": 14486
+  },
+  "collected_signature": "63323f785f3d27c8",
+  "content_hash": "6ac10983b00721c9bcfa2caa7742728f72d5025d71d5c6eab9e5240a40ce6db0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286129&type=HTML&mobileYn=&efYd=20260519",
   "doc_domain": "law",
   "doc_id": "014337",
@@ -128332,17 +128365,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "e325c3d5074c44dd",
   "enforcement_date": "20260519",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:20:13.691016+00:00",
-  "last_collected_at": "2026-08-27T08:31:43.870681+00:00",
+  "last_checked_at": "2026-11-10T15:55:51.443294+00:00",
+  "last_collected_at": "2026-11-10T16:01:01.464634+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "산림청",
   "mst": "286129",
   "name": "임업ㆍ산림 공익기능 증진을 위한 직접지불제도 운영에 관한 법률 시행령",
   "payload_law_id": "014337",
+  "prev_name": null,
   "promulgation_date": "20260519",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "63323f785f3d27c8"
  },
  "law:eflaw:014338": {
