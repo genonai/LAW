@@ -37003,8 +37003,14 @@
   "version_signature": "8edbea01c39561e1"
  },
  "law:eflaw:005288": {
-  "collected_signature": "1269838a09ac254e",
-  "content_hash": "fc3910771cba4e7822556dfb3254a02dc504f835f25a3d42c3cb7dca43250378",
+  "attempt_run": "01a1c667-a98",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 73,
+   "chars": 35201
+  },
+  "collected_signature": "799bf87966e3a505",
+  "content_hash": "b970cb1be51175e87769d487675ac466b2432557195aea4e33647ffc41f8d6b6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291803&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "005288",
@@ -37012,16 +37018,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "1269838a09ac254e",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:42:28.896919+00:00",
-  "last_collected_at": "2026-08-25T20:46:54.927851+00:00",
+  "last_checked_at": "2026-11-10T17:00:45.094459+00:00",
+  "last_collected_at": "2026-11-10T17:07:10.880591+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국가데이터처",
   "mst": "291803",
   "name": "통계법 시행령",
   "payload_law_id": "005288",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "799bf87966e3a505"
  },
@@ -37523,8 +37532,14 @@
   "version_signature": "cad63c0e715c4839"
  },
  "law:eflaw:005353": {
-  "collected_signature": "f906504f477b63bc",
-  "content_hash": "3610df865615f6f0f7b02fdea863ec742c6d9875693dd75dfef3eed75ae012bc",
+  "attempt_run": "01a1c667-a9b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 72,
+   "chars": 31896
+  },
+  "collected_signature": "aed3f4eb010d3f5e",
+  "content_hash": "643172027d38935e95b2586247d40ce67d619e5217296b17e379790bbdba9568",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=284591&type=HTML&mobileYn=&efYd=20260326",
   "doc_domain": "law",
   "doc_id": "005353",
@@ -37532,17 +37547,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "f906504f477b63bc",
   "enforcement_date": "20260326",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:54:44.352475+00:00",
-  "last_collected_at": "2026-08-25T22:05:46.791359+00:00",
+  "last_checked_at": "2026-11-10T17:00:47.301776+00:00",
+  "last_collected_at": "2026-11-10T17:08:47.156102+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "기후에너지환경부",
   "mst": "284591",
   "name": "폐기물관리법 시행령",
   "payload_law_id": "005353",
+  "prev_name": null,
   "promulgation_date": "20260324",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "aed3f4eb010d3f5e"
  },
  "law:eflaw:005354": {
@@ -101382,8 +101400,14 @@
   "version_signature": "80b3db89570dd7b5"
  },
  "law:eflaw:011941": {
-  "collected_signature": "f584cf6d3fc598ea",
-  "content_hash": "8bceceb6cc27a777affc71e8d6915e8dc405b1be6150ac4c1f844ab39fead26a",
+  "attempt_run": "01a1c667-a96",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 26,
+   "chars": 11452
+  },
+  "collected_signature": "c101632fced0ad93",
+  "content_hash": "fc3e6280216bbf593da75b5e8f7e67567dc855ad1f927e97382a4396d5da8431",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283015&type=HTML&mobileYn=&efYd=20260201",
   "doc_domain": "law",
   "doc_id": "011941",
@@ -101391,17 +101415,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "f584cf6d3fc598ea",
   "enforcement_date": "20260201",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T09:26:07.074619+00:00",
-  "last_collected_at": "2026-08-26T09:30:22.463534+00:00",
+  "last_checked_at": "2026-11-10T17:00:46.220151+00:00",
+  "last_collected_at": "2026-11-10T17:04:31.732368+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "산업통상부",
   "mst": "283015",
   "name": "해외진출기업의 국내복귀 지원에 관한 법률 시행령",
   "payload_law_id": "011941",
+  "prev_name": null,
   "promulgation_date": "20260127",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c101632fced0ad93"
  },
  "law:eflaw:011942": {
@@ -106132,9 +106159,14 @@
   "version_signature": "f6073d043c8ed668"
  },
  "law:eflaw:012298": {
+  "attempt_run": "01a1c667-a9e",
   "attempts": 0,
-  "collected_signature": "4bfcb9c141be0bea",
-  "content_hash": "be1c8d3d4432e980c86c9e3247de045723f6e3c5e6f3815cada6718b06fca95f",
+  "body_stats": {
+   "articles": 25,
+   "chars": 12613
+  },
+  "collected_signature": "f49f3ca8f1411549",
+  "content_hash": "99ad53c98807e70eff82a91dd7a42d53a58b405e41d85a58ffa1d3b076cbad6e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291805&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "012298",
@@ -106142,9 +106174,10 @@
   "doc_type": "대통령령",
   "emitted_signature": "4bfcb9c141be0bea",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T08:39:02.005429+00:00",
-  "last_collected_at": "2026-08-27T08:44:08.840099+00:00",
+  "last_checked_at": "2026-11-10T17:00:45.607372+00:00",
+  "last_collected_at": "2026-11-10T17:04:18.838655+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:25.363038+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
@@ -106152,9 +106185,11 @@
   "mst": "291805",
   "name": "한옥 등 건축자산의 진흥에 관한 법률 시행령",
   "payload_law_id": "012298",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
-  "version_count": 2,
+  "sanity_hold": null,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "f49f3ca8f1411549"
  },
  "law:eflaw:012299": {
@@ -112419,8 +112454,14 @@
   "version_signature": "b929253999fbe494"
  },
  "law:eflaw:012843": {
-  "collected_signature": "e13a0ea812f54203",
-  "content_hash": "3ec2d82c57305b8aa34b360eb715066b5a00debb9b55f7052253ab59aaf7ce8d",
+  "attempt_run": "01a1c667-a9c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 42,
+   "chars": 28157
+  },
+  "collected_signature": "cb95e060e8c405e7",
+  "content_hash": "860cc3d89f9c6b0ef4b1c34ac45a905d23abd2e3096888b143e96166295b41b3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=287495&type=HTML&mobileYn=&efYd=20260709",
   "doc_domain": "law",
   "doc_id": "012843",
@@ -112428,17 +112469,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "e13a0ea812f54203",
   "enforcement_date": "20260709",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T06:54:05.521197+00:00",
-  "last_collected_at": "2026-08-26T07:09:14.812011+00:00",
+  "last_checked_at": "2026-11-10T17:00:48.218854+00:00",
+  "last_collected_at": "2026-11-10T17:09:17.289690+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국토교통부",
   "mst": "287495",
   "name": "항공안전법 시행령",
   "payload_law_id": "012843",
+  "prev_name": null,
   "promulgation_date": "20260630",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 5,
+  "version_count": 1,
   "version_signature": "cb95e060e8c405e7"
  },
  "law:eflaw:012844": {
@@ -134903,13 +134947,14 @@
   "version_signature": "79d4e3f1cf36a96f"
  },
  "law:eflaw:014796": {
+  "attempt_run": "01a1c667-aa1",
   "attempts": 0,
   "body_stats": {
    "articles": 29,
-   "chars": 11178
+   "chars": 11223
   },
-  "collected_signature": "89ed64c3953f396c",
-  "content_hash": "89f3c7b221d83adf50ed4d7837438a95811fd69498a398d8991159c0d441036c",
+  "collected_signature": "930632aa1036223d",
+  "content_hash": "a8037621be45942b7227067ee702f9544dd94dd7f7d592ef87f9ebd641cbc0f1",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291807&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "014796",
@@ -134919,8 +134964,8 @@
   "enforcement_date": "20261110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:18:03.418766+00:00",
-  "last_collected_at": "2026-09-18T18:23:18.905767+00:00",
+  "last_checked_at": "2026-11-10T17:00:49.165976+00:00",
+  "last_collected_at": "2026-11-10T17:05:45.222398+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "해양수산부",
   "mst": "291807",
@@ -134928,7 +134973,8 @@
   "payload_law_id": "014796",
   "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "930632aa1036223d"
  },
