@@ -36948,8 +36948,14 @@
   "version_signature": "0c32a5e41af59907"
  },
  "law:eflaw:005271": {
-  "collected_signature": "42414f1e5a2f2d41",
-  "content_hash": "26e129a17de4f23d74378ccdc1abe896878679f225bc48b107e77be1e5242c09",
+  "attempt_run": "01a1c661-a90",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 35,
+   "chars": 23789
+  },
+  "collected_signature": "dd03bb2ad0bb49c1",
+  "content_hash": "c375db0304841526d97311222dc5056759bffd961e5ca6e6900f69ced4e9a67d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291799&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "005271",
@@ -36957,16 +36963,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "42414f1e5a2f2d41",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:23:13.048465+00:00",
-  "last_collected_at": "2026-08-25T20:31:32.283028+00:00",
+  "last_checked_at": "2026-11-10T16:54:14.878620+00:00",
+  "last_collected_at": "2026-11-10T16:59:37.568744+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국토교통부",
   "mst": "291799",
   "name": "택지개발촉진법 시행령",
   "payload_law_id": "005271",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd03bb2ad0bb49c1"
  },
@@ -75505,8 +75514,14 @@
   "version_signature": "6fa3906a7d8d1153"
  },
  "law:eflaw:010216": {
-  "collected_signature": "6c4fd81e22ce36f7",
-  "content_hash": "fe16ef069c9e9300db9c075861dd56d180168f5eeb3d80eb0dcd76ebb4f59b0a",
+  "attempt_run": "01a1c661-a86",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 30,
+   "chars": 14270
+  },
+  "collected_signature": "052c22e316ecedbb",
+  "content_hash": "dc57a5344fd606a4f0493929178159aa2d9433a5ec4574d19ba427b97265990b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291801&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "010216",
@@ -75514,16 +75529,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "6c4fd81e22ce36f7",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:42:27.388592+00:00",
-  "last_collected_at": "2026-08-25T20:46:19.225165+00:00",
+  "last_checked_at": "2026-11-10T16:54:15.891039+00:00",
+  "last_collected_at": "2026-11-10T16:57:53.405855+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국토교통부",
   "mst": "291801",
   "name": "토지이용규제 기본법 시행령",
   "payload_law_id": "010216",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "052c22e316ecedbb"
  },
@@ -92892,13 +92910,14 @@
   "version_signature": "a89f36c8a4289506"
  },
  "law:eflaw:011385": {
+  "attempt_run": "01a1c661-a8c",
   "attempts": 0,
   "body_stats": {
    "articles": 29,
-   "chars": 14604
+   "chars": 14695
   },
-  "collected_signature": "448e5e6acfbcbe88",
-  "content_hash": "a0690686e3f2d47718cfaf95049d4d35d05b9b9ad3bb40b06ab7f99c105a7dc4",
+  "collected_signature": "591a2a6dada36cdc",
+  "content_hash": "2bb13a01beed928dada96b06a9c94741c75eb0958b91f56f1c906336bc355dcf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291797&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "011385",
@@ -92908,8 +92927,8 @@
   "enforcement_date": "20261110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T18:05:09.086079+00:00",
-  "last_collected_at": "2026-09-18T18:09:16.935078+00:00",
+  "last_checked_at": "2026-11-10T16:54:12.669607+00:00",
+  "last_collected_at": "2026-11-10T16:58:40.174024+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "기후에너지환경부",
   "mst": "291797",
@@ -92917,7 +92936,8 @@
   "payload_law_id": "011385",
   "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "591a2a6dada36cdc"
  },
@@ -103461,8 +103481,14 @@
   "version_signature": "bc410bd73fbc2a15"
  },
  "law:eflaw:012111": {
-  "collected_signature": "774425b1ca7b59bb",
-  "content_hash": "e1f0a9879d4c3d1eb24c913b21dbf2bd10fe011f0d0b162476383111c6286623",
+  "attempt_run": "01a1c661-a88",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 11463
+  },
+  "collected_signature": "39a296ffe9369081",
+  "content_hash": "8d93856c958bdb05e9cbdfdd67eace55750a73fc1d791a27e6cb89eb3154d2ce",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=268935&type=HTML&mobileYn=&efYd=20250131",
   "doc_domain": "law",
   "doc_id": "012111",
@@ -103470,17 +103496,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "774425b1ca7b59bb",
   "enforcement_date": "20250131",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:23:15.010945+00:00",
-  "last_collected_at": "2026-08-25T20:27:10.884941+00:00",
+  "last_checked_at": "2026-11-10T16:54:12.055665+00:00",
+  "last_collected_at": "2026-11-10T16:58:16.299313+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국토교통부",
   "mst": "268935",
   "name": "택시운송사업의 발전에 관한 법률 시행령",
   "payload_law_id": "012111",
+  "prev_name": null,
   "promulgation_date": "20250131",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "39a296ffe9369081"
  },
  "law:eflaw:012112": {
@@ -104843,13 +104872,14 @@
   "version_signature": "ece5d3f799ae5148"
  },
  "law:eflaw:012203": {
+  "attempt_run": "01a1c661-a84",
   "attempts": 0,
   "body_stats": {
    "articles": 76,
-   "chars": 37180
+   "chars": 37227
   },
-  "collected_signature": "565b5e66437ad971",
-  "content_hash": "67581fa1a480a23e08b4f7cedc5879d92bc337a210cfbc27ca6d308752faf776",
+  "collected_signature": "693fd8bd211adf71",
+  "content_hash": "084e11b76f687e1d99261df46f4a107e25d3ebd56cb950deedad2a100c9b4878",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291793&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "012203",
@@ -104859,8 +104889,8 @@
   "enforcement_date": "20261110",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T17:46:54.261306+00:00",
-  "last_collected_at": "2026-09-18T17:51:51.045272+00:00",
+  "last_checked_at": "2026-11-10T16:54:11.583667+00:00",
+  "last_collected_at": "2026-11-10T17:00:20.216375+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "국토교통부",
   "mst": "291793",
@@ -104868,7 +104898,8 @@
   "payload_law_id": "012203",
   "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "693fd8bd211adf71"
  },
@@ -126914,8 +126945,14 @@
   "version_signature": "cff610fbafb5806c"
  },
  "law:eflaw:014244": {
-  "collected_signature": "d7ddd28d652b85d7",
-  "content_hash": "25186453c8d5db96c15e59243cf990ac3bbac308215ed547835ee4bb91e61298",
+  "attempt_run": "01a1c661-a8e",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 21,
+   "chars": 10578
+  },
+  "collected_signature": "db51dfd289dd73d5",
+  "content_hash": "94e0e6da9f25ec2192145135a510afbbc648f33b9bb62218621f1b1a112d5831",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291795&type=HTML&mobileYn=&efYd=20261110",
   "doc_domain": "law",
   "doc_id": "014244",
@@ -126923,16 +126960,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "d7ddd28d652b85d7",
   "enforcement_date": "20261110",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:22:11.184114+00:00",
-  "last_collected_at": "2026-08-25T16:25:05.915718+00:00",
+  "last_checked_at": "2026-11-10T16:54:13.468277+00:00",
+  "last_collected_at": "2026-11-10T16:58:19.748204+00:00",
   "last_seen_at": "2026-11-10T15:00:28.508672+00:00",
   "ministry": "산업통상부",
   "mst": "291795",
   "name": "지역 산업위기 대응 및 지역경제 회복을 위한 특별법 시행령",
   "payload_law_id": "014244",
+  "prev_name": null,
   "promulgation_date": "20261110",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "db51dfd289dd73d5"
  },
