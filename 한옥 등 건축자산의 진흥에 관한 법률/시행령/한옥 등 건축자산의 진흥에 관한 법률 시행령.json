@@ -6164,6 +6164,19 @@
       "source_version_uid": "012298:291805:20261110",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20261110"
+    },
+    {
+      "promulgation_date": "20261110",
+      "promulgation_no": "36817",
+      "addendum_key": "2026111036817",
+      "content": "부칙(건축법 시행령) <제36817호,2026.11.10>\n제1조(시행일) 이 영은 2026년 11월 12일부터 시행한다.\n제2조부터 제4조까지 생략\n제5조(다른 법령의 개정) 한옥 등 건축자산의 진흥에 관한 법률 시행령 일부를 다음과 같이 개정한다.\n별표 2 제3호의 한옥으로 건축하는 건축물(이하 \"한옥 건축물\"이라 한다)에 대한 특례 적용기준란 중 \"「건축법 시행령」 제86조제1항제2호\"를 \"「건축법」 제61조제1항제1호\"로 한다.",
+      "provision_id": "law:한옥등건축자산의진흥에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291717",
+      "source_version_uid": "012298:291717:20261112",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261112",
+      "enforcement_date": "20261112"
     }
   ],
   "appendices": [
@@ -7029,8 +7042,10 @@
   "provision_id": "law:한옥등건축자산의진흥에관한법률시행령#DOC",
   "addendum_provision_id": "law:한옥등건축자산의진흥에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:한옥등건축자산의진흥에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261112"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "한옥 등 건축자산의 진흥에 관한 법률/시행령/한옥 등 건축자산의 진흥에 관한 법률 시행령.json"
 }
