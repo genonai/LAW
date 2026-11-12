@@ -40630,6 +40630,19 @@
       "source_version_uid": "009708:288259:20260722",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260722"
+    },
+    {
+      "promulgation_date": "20261110",
+      "promulgation_no": "36826",
+      "addendum_key": "2026111036826",
+      "content": "부칙(약사법 시행령) <제36826호,2026.11.10>\n제1조(시행일) 이 영은 2026년 11월 12일부터 시행한다. <단서 생략>\n제2조(다른 법령의 개정) 재난 및 안전관리 기본법 시행령 일부를 다음과 같이 개정한다.\n별표 1의4 제13호의 협의 대상 계획란 중 \"「약사법」 제83조의5\"를 \"「약사법」 제83조의8\"로 하고, 같은 호의 협의 시기란 중 \"「약사법」 제83조의5제1항\"을 \"「약사법」 제83조의8제1항\"으로 한다.",
+      "provision_id": "law:재난및안전관리기본법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291821",
+      "source_version_uid": "009708:291821:20261112",
+      "source_revision_type": "타법개정",
+      "version_enforcement_date": "20261112",
+      "enforcement_date": "20261112"
     }
   ],
   "appendices": [
@@ -44966,8 +44979,10 @@
   "provision_id": "law:재난및안전관리기본법시행령#DOC",
   "addendum_provision_id": "law:재난및안전관리기본법시행령#ADDENDUM",
   "amendment_provision_id": "law:재난및안전관리기본법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261112"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "재난 및 안전관리 기본법/시행령/재난 및 안전관리 기본법 시행령.json"
 }
