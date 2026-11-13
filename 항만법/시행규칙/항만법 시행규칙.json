@@ -8925,6 +8925,19 @@
       "source_version_uid": "008651:288183:20260713",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260713"
+    },
+    {
+      "promulgation_date": "20261103",
+      "promulgation_no": "00834",
+      "addendum_key": "2026110300834",
+      "content": "부칙 <제834호,2026.11.3>\n이 규칙은 2026년 11월 13일부터 시행한다.",
+      "provision_id": "law:항만법시행규칙#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291617",
+      "source_version_uid": "008651:291617:20261113",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261113",
+      "enforcement_date": "20261113"
     }
   ],
   "appendices": [
@@ -10151,8 +10164,10 @@
   "provision_id": "law:항만법시행규칙#DOC",
   "addendum_provision_id": "law:항만법시행규칙#ADDENDUM",
   "amendment_provision_id": "law:항만법시행규칙#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261113"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "항만법/시행규칙/항만법 시행규칙.json"
 }
