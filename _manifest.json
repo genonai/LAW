@@ -18116,14 +18116,14 @@
   "version_signature": "6d74a6b14cb1da09"
  },
  "law:eflaw:001987": {
-  "attempt_run": "01a1b24e-7cb",
+  "attempt_run": "01a1da9d-c3e",
   "attempts": 0,
   "body_stats": {
    "articles": 93,
-   "chars": 24340
+   "chars": 24990
   },
-  "collected_signature": "d37005ff3b125853",
-  "content_hash": "593e480934f9ab304acff466b2856fd92e77acd39cce2580fd71d2bc0a6cb6ac",
+  "collected_signature": "cbbd2d13d556b383",
+  "content_hash": "796f9d9b2bc8b70e756d5d5e9e0daf2b692d0f7764d1327c3db6c89825134e8a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285953&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "001987",
@@ -18133,8 +18133,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T19:20:51.189147+00:00",
-  "last_collected_at": "2026-11-06T19:22:46.888972+00:00",
+  "last_checked_at": "2026-11-14T15:12:17.105509+00:00",
+  "last_collected_at": "2026-11-14T15:13:40.243737+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "공정거래위원회",
   "mst": "285953",
@@ -18143,7 +18143,7 @@
   "prev_name": null,
   "promulgation_date": "20260512",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "cbbd2d13d556b383"
  },
@@ -43409,14 +43409,14 @@
   "version_signature": "939b1c86a7d885c1"
  },
  "law:eflaw:006042": {
-  "attempt_run": "01a16947-25f",
+  "attempt_run": "01a1da9d-c36",
   "attempts": 0,
   "body_stats": {
    "articles": 323,
-   "chars": 147213
+   "chars": 147453
   },
-  "collected_signature": "5b8e1dc9dda28449",
-  "content_hash": "d31a454c36cc04889875cd2099e54f47e51cfe5700decbd1aebc37f12ab718f6",
+  "collected_signature": "b5be50e622079cb4",
+  "content_hash": "6e5cbac18b8bf39e40c3390919c4f1fd8c6add8a2e41aad86231e63789078c13",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291949&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "006042",
@@ -43426,8 +43426,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-23T15:00:33.546032+00:00",
-  "last_collected_at": "2026-10-23T15:10:51.142095+00:00",
+  "last_checked_at": "2026-11-14T15:12:14.971315+00:00",
+  "last_collected_at": "2026-11-14T15:21:04.136415+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "중앙선거관리위원회",
   "mst": "291949",
@@ -43436,8 +43436,8 @@
   "prev_name": null,
   "promulgation_date": "20261113",
   "sanity_hold": null,
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "b5be50e622079cb4"
  },
  "law:eflaw:006043": {
@@ -53299,8 +53299,14 @@
   "version_signature": "2217c7ec19474f4b"
  },
  "law:eflaw:007519": {
-  "collected_signature": "4afc504074a8fa06",
-  "content_hash": "9819431d1de294232730fb6686f6d3f578b26a5e51737c4e85c6900cddd80604",
+  "attempt_run": "01a1da9d-c38",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 16,
+   "chars": 5371
+  },
+  "collected_signature": "2f92c0ce03786fd9",
+  "content_hash": "82c192e0f672376e32e94908e7e8599ed2eb492e9b8e494dfd05269540e07d9e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291951&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "007519",
@@ -53308,16 +53314,19 @@
   "doc_type": "중소벤처기업부령",
   "emitted_signature": "4afc504074a8fa06",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T05:49:39.827242+00:00",
-  "last_collected_at": "2026-08-24T05:54:12.183509+00:00",
+  "last_checked_at": "2026-11-14T15:12:15.374241+00:00",
+  "last_collected_at": "2026-11-14T15:17:06.395597+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "공정거래위원회",
   "mst": "291951",
   "name": "소비자생활협동조합법 시행규칙",
   "payload_law_id": "007519",
+  "prev_name": null,
   "promulgation_date": "20261113",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "2f92c0ce03786fd9"
  },
@@ -105512,14 +105521,14 @@
   "version_signature": "d394d90846fc4da2"
  },
  "law:eflaw:012248": {
-  "attempt_run": "01a1b20c-b77",
+  "attempt_run": "01a1da9d-c43",
   "attempts": 0,
   "body_stats": {
    "articles": 64,
-   "chars": 25351
+   "chars": 25416
   },
-  "collected_signature": "02ad07fc9a5e507d",
-  "content_hash": "ad4f01ad5933d9a3c6a52d8251f811d0fac00b0c039cfd3adddd979953a3dffa",
+  "collected_signature": "7090f865d74c5554",
+  "content_hash": "4a65e251f941911c6d7f10524fc995c550880b12c9db38683f1924d8c4050265",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285971&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "012248",
@@ -105529,8 +105538,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T18:09:00.569154+00:00",
-  "last_collected_at": "2026-11-06T18:12:26.850759+00:00",
+  "last_checked_at": "2026-11-14T15:12:16.177951+00:00",
+  "last_collected_at": "2026-11-14T15:16:00.389631+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "해양수산부",
   "mst": "285971",
@@ -105539,7 +105548,7 @@
   "prev_name": null,
   "promulgation_date": "20260512",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "7090f865d74c5554"
  },
@@ -107265,8 +107274,14 @@
   "version_signature": "9da1151f312a8261"
  },
  "law:eflaw:012344": {
-  "collected_signature": "dfdeba9901d3d54e",
-  "content_hash": "301a511fafaf36a197821f507c2f4b2e3a273070615e783d38f2820e27cc5bda",
+  "attempt_run": "01a1da9d-c3c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 43,
+   "chars": 16201
+  },
+  "collected_signature": "a35878c6fb8616c0",
+  "content_hash": "24304b321be2d6923a4093e2f8c57031622b53d3d625d9b3a5f3b9332476642f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291955&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "012344",
@@ -107274,16 +107289,19 @@
   "doc_type": "해양수산부령",
   "emitted_signature": "dfdeba9901d3d54e",
   "enforcement_date": "20261113",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T03:03:21.932008+00:00",
-  "last_collected_at": "2026-08-24T03:06:56.582175+00:00",
+  "last_checked_at": "2026-11-14T15:12:17.611694+00:00",
+  "last_collected_at": "2026-11-14T15:15:58.879062+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "해양수산부",
   "mst": "291955",
   "name": "선박의 입항 및 출항 등에 관한 법률 시행규칙",
   "payload_law_id": "012344",
+  "prev_name": null,
   "promulgation_date": "20261113",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "a35878c6fb8616c0"
  },
@@ -138806,14 +138824,14 @@
   "version_signature": "de675e57fc0ede26"
  },
  "law:eflaw:015039": {
-  "attempt_run": "01a1d06b-688",
+  "attempt_run": "01a1da9d-c41",
   "attempts": 0,
   "body_stats": {
    "articles": 51,
-   "chars": 21255
+   "chars": 21863
   },
-  "collected_signature": "6b34678a9f341c99",
-  "content_hash": "5b71fea6134d49487cdb858451d3effddf91b1e0f33305599dd2bf24adb021ea",
+  "collected_signature": "8164fc622166d84e",
+  "content_hash": "b3a893b27cf8719f8393360a6d9d28844736fb39fa14710c330a53a0287e1848",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291873&type=HTML&mobileYn=&efYd=20261113",
   "doc_domain": "law",
   "doc_id": "015039",
@@ -138823,8 +138841,8 @@
   "enforcement_date": "20261113",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-12T15:41:03.506000+00:00",
-  "last_collected_at": "2026-11-12T15:46:34.652978+00:00",
+  "last_checked_at": "2026-11-14T15:12:19.069061+00:00",
+  "last_collected_at": "2026-11-14T15:18:06.084360+00:00",
   "last_seen_at": "2026-11-14T15:00:28.707122+00:00",
   "ministry": "산림청",
   "mst": "291873",
@@ -138833,7 +138851,7 @@
   "prev_name": null,
   "promulgation_date": "20261112",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8164fc622166d84e"
  },
