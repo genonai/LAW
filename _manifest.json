@@ -31902,8 +31902,14 @@
   "version_signature": "6fc623ee7682a354"
  },
  "law:eflaw:004216": {
-  "collected_signature": "03e759133940cddb",
-  "content_hash": "7724e4235c8f0822b5a1cf52b1eed0862ee57cdfbd86da90d30fbb54b4fe47d1",
+  "attempt_run": "01a1ea11-413",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 70,
+   "chars": 29023
+  },
+  "collected_signature": "90c012d4342faa7b",
+  "content_hash": "7ddf63fffe294f983be0b29b10de27b8f2628f8574a77afe362d70ff1c188000",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291915&type=HTML&mobileYn=&efYd=20261117",
   "doc_domain": "law",
   "doc_id": "004216",
@@ -31911,17 +31917,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "03e759133940cddb",
   "enforcement_date": "20261117",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:24:15.035155+00:00",
-  "last_collected_at": "2026-08-24T13:31:30.228837+00:00",
+  "last_checked_at": "2026-11-17T15:12:45.351760+00:00",
+  "last_collected_at": "2026-11-17T15:18:05.936913+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "교육부",
   "mst": "291915",
   "name": "영유아보육법 시행령",
   "payload_law_id": "004216",
+  "prev_name": null,
   "promulgation_date": "20261117",
-  "status": "pending",
-  "version_count": 2,
+  "sanity_hold": null,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "90c012d4342faa7b"
  },
  "law:eflaw:004217": {
@@ -32286,9 +32295,14 @@
   "version_signature": "6965f89b92e8e2c1"
  },
  "law:eflaw:004291": {
+  "attempt_run": "01a1ea11-41b",
   "attempts": 0,
-  "collected_signature": "023169c512429339",
-  "content_hash": "8026f3a8d17acdf648646c161f4407aaff81c9114e3d3a5c2925aeffc92f5a14",
+  "body_stats": {
+   "articles": 51,
+   "chars": 17260
+  },
+  "collected_signature": "780119c0284717b5",
+  "content_hash": "fa149e5453f19262cafba0b9be7d9914c435193e3cdd39d5c9c745b2126d71e4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=280945&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "004291",
@@ -32296,17 +32310,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "023169c512429339",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-27T06:16:30.369042+00:00",
-  "last_collected_at": "2026-08-27T06:23:56.683815+00:00",
+  "last_checked_at": "2026-11-17T15:12:46.282469+00:00",
+  "last_collected_at": "2026-11-17T15:16:16.876978+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "280945",
   "name": "우정사업 운영에 관한 특례법 시행령",
   "payload_law_id": "004291",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "780119c0284717b5"
  },
  "law:eflaw:004293": {
@@ -70091,8 +70108,14 @@
   "version_signature": "e675760c2014567b"
  },
  "law:eflaw:009874": {
-  "collected_signature": "b77b5e68eaf4ab73",
-  "content_hash": "73eca3629f9625db11e8675a230714d8c1313fdc5a2e17cb9179cbea4dcd57fc",
+  "attempt_run": "01a1ea11-411",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 71,
+   "chars": 25513
+  },
+  "collected_signature": "20458a41e1d02528",
+  "content_hash": "90dc9484494c1e76f1f9a5630aab7fbe1dd23c704e796096aafe903a9829f95e",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285451&type=HTML&mobileYn=&efYd=20260512",
   "doc_domain": "law",
   "doc_id": "009874",
@@ -70100,17 +70123,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "b77b5e68eaf4ab73",
   "enforcement_date": "20260512",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T16:20:22.845515+00:00",
-  "last_collected_at": "2026-08-24T16:27:45.892809+00:00",
+  "last_checked_at": "2026-11-17T15:12:42.076159+00:00",
+  "last_collected_at": "2026-11-17T15:16:27.164577+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "교육부",
   "mst": "285451",
   "name": "유아교육법 시행령",
   "payload_law_id": "009874",
+  "prev_name": null,
   "promulgation_date": "20260414",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "20458a41e1d02528"
  },
  "law:eflaw:009876": {
@@ -94643,9 +94669,14 @@
   "version_signature": "c3bb18315ad19024"
  },
  "law:eflaw:011484": {
+  "attempt_run": "01a1ea11-419",
   "attempts": 0,
-  "collected_signature": "1ef11a2f3d8fb153",
-  "content_hash": "f8f2b7bda78dcd38dce3c7cedef025388024699f5eb8f4a59b0bf02e34f51d6c",
+  "body_stats": {
+   "articles": 215,
+   "chars": 75660
+  },
+  "collected_signature": "6674de2842c59149",
+  "content_hash": "5388d9bef2ed876170e0e57d8163a01f3e8ecadc3cc11858bac0d0bc8c9af988",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289453&type=HTML&mobileYn=&efYd=20260908",
   "doc_domain": "law",
   "doc_id": "011484",
@@ -94653,17 +94684,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "1ef11a2f3d8fb153",
   "enforcement_date": "20260908",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-08T16:41:33.520684+00:00",
-  "last_collected_at": "2026-09-08T16:53:52.193569+00:00",
+  "last_checked_at": "2026-11-17T15:12:44.000070+00:00",
+  "last_collected_at": "2026-11-17T15:25:59.467636+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "원자력안전위원회",
   "mst": "289453",
   "name": "원자력안전법 시행령",
   "payload_law_id": "011484",
+  "prev_name": null,
   "promulgation_date": "20260908",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6674de2842c59149"
  },
  "law:eflaw:011485": {
@@ -100700,14 +100734,14 @@
   "version_signature": "12849d652820f952"
  },
  "law:eflaw:011879": {
-  "attempt_run": "01a1b29b-a7e",
+  "attempt_run": "01a1ea11-416",
   "attempts": 0,
   "body_stats": {
    "articles": 33,
    "chars": 8738
   },
-  "collected_signature": "ada2ff2c5c8af04a",
-  "content_hash": "61b0f3c3125dddf5ef89ea23ffd290ffdf7509cbc25aeaa8300dd0fada06b40c",
+  "collected_signature": "16c71c83d1c8c9f8",
+  "content_hash": "1493820032fec6b1587d8bc4dfce04f434c5a98e37f47fa08985f5ee15f35fbd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291709&type=HTML&mobileYn=&efYd=20261106",
   "doc_domain": "law",
   "doc_id": "011879",
@@ -100717,8 +100751,8 @@
   "enforcement_date": "20261106",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:45:09.337882+00:00",
-  "last_collected_at": "2026-11-06T20:46:33.074480+00:00",
+  "last_checked_at": "2026-11-17T15:12:43.115651+00:00",
+  "last_collected_at": "2026-11-17T15:13:47.062103+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "과학기술정보통신부,행정안전부",
   "mst": "291709",
@@ -100728,18 +100762,18 @@
   "promulgation_date": "20261106",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "16c71c83d1c8c9f8"
  },
  "law:eflaw:011880": {
-  "attempt_run": "01a1b29e-a92",
+  "attempt_run": "01a1ea11-417",
   "attempts": 0,
   "body_stats": {
-   "articles": 175,
-   "chars": 83776
+   "articles": 176,
+   "chars": 85176
   },
-  "collected_signature": "6074ecc75683e3da",
-  "content_hash": "03823b8e5fb39e8f9c76046a128c4c416f98aede54112074c7f2bf8ac6e35aec",
+  "collected_signature": "cfba1994fd396dbb",
+  "content_hash": "9cf7c4d2adff49403ed744f2ac5f95778929cba2c2133c4bce7319a61e7efbde",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=289525&type=HTML&mobileYn=&efYd=20260908",
   "doc_domain": "law",
   "doc_id": "011880",
@@ -100749,8 +100783,8 @@
   "enforcement_date": "20260908",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:48:28.063151+00:00",
-  "last_collected_at": "2026-11-06T20:59:30.203872+00:00",
+  "last_checked_at": "2026-11-17T15:12:42.557520+00:00",
+  "last_collected_at": "2026-11-17T15:26:04.531845+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "원자력안전위원회",
   "mst": "289525",
@@ -100760,7 +100794,7 @@
   "promulgation_date": "20260908",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 3,
+  "version_count": 1,
   "version_signature": "cfba1994fd396dbb"
  },
  "law:eflaw:011881": {
