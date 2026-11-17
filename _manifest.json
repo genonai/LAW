@@ -26127,13 +26127,14 @@
   "version_signature": "aa12b7e0ddfe10dd"
  },
  "law:eflaw:003325": {
+  "attempt_run": "01a1ea1e-70a",
   "attempts": 0,
   "body_stats": {
    "articles": 61,
-   "chars": 21177
+   "chars": 21184
   },
-  "collected_signature": "50739dd352297b29",
-  "content_hash": "63266a8e60c251d02e9336e2827d7eafb29cfc8ba02fc49ea5c6f1526964cc32",
+  "collected_signature": "4f2af4c338fe07c8",
+  "content_hash": "9d720ce7600159d473061767804bcb99842a4ef29efbef997fa87623524bc5e8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291877&type=HTML&mobileYn=&efYd=20261117",
   "doc_domain": "law",
   "doc_id": "003325",
@@ -26143,8 +26144,8 @@
   "enforcement_date": "20261117",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-09-18T17:03:21.215087+00:00",
-  "last_collected_at": "2026-09-18T17:06:12.511421+00:00",
+  "last_checked_at": "2026-11-17T15:27:08.008521+00:00",
+  "last_collected_at": "2026-11-17T15:31:50.796708+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "기후에너지환경부,산업통상부",
   "mst": "291877",
@@ -26155,7 +26156,8 @@
   "payload_law_id": "003325",
   "prev_name": null,
   "promulgation_date": "20261117",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "4f2af4c338fe07c8"
  },
@@ -34396,13 +34398,14 @@
   "version_signature": "434f20c968794b0c"
  },
  "law:eflaw:004708": {
+  "attempt_run": "01a1ea1e-704",
   "attempts": 0,
   "body_stats": {
-   "articles": 153,
-   "chars": 90583
+   "articles": 154,
+   "chars": 90781
   },
-  "collected_signature": "725f116184986a8e",
-  "content_hash": "11bd98dab4a8ed5191be8197344cb6239f360e1c11e542a241140849cc2c872e",
+  "collected_signature": "58e0e34d9b268ca2",
+  "content_hash": "36f2f4ed1bef4e32714aeb3f1b3d5fd818f3b4a0d381ac5c8434b7b908b2da72",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=290813&type=HTML&mobileYn=&efYd=20261001",
   "doc_domain": "law",
   "doc_id": "004708",
@@ -34412,8 +34415,8 @@
   "enforcement_date": "20261001",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T17:24:14.182975+00:00",
-  "last_collected_at": "2026-10-01T17:34:49.491176+00:00",
+  "last_checked_at": "2026-11-17T15:27:06.143678+00:00",
+  "last_collected_at": "2026-11-17T15:35:19.717734+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "과학기술정보통신부,방송미디어통신위원회",
   "mst": "290813",
@@ -34421,8 +34424,9 @@
   "payload_law_id": "004708",
   "prev_name": null,
   "promulgation_date": "20260930",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "58e0e34d9b268ca2"
  },
  "law:eflaw:004717": {
@@ -82805,8 +82809,14 @@
   "version_signature": "69a7994848a2ee84"
  },
  "law:eflaw:010667": {
-  "collected_signature": "d3f424928c64e70e",
-  "content_hash": "ac5bc03b58ba1d108ae1d4cb953112885a35dc8cf3a24dc239965c7badde44f6",
+  "attempt_run": "01a1ea1e-70c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 20,
+   "chars": 4259
+  },
+  "collected_signature": "c2de00dfe7a89bda",
+  "content_hash": "3b1c6fad340c1aa00c6dc52acb526c20034cad70d06c27afa7d85986f8437380",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=227801&type=HTML&mobileYn=&efYd=20210105",
   "doc_domain": "law",
   "doc_id": "010667",
@@ -82814,17 +82824,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "d3f424928c64e70e",
   "enforcement_date": "20210105",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T03:30:31.836837+00:00",
-  "last_collected_at": "2026-08-25T03:38:44.691054+00:00",
+  "last_checked_at": "2026-11-17T15:27:06.653750+00:00",
+  "last_collected_at": "2026-11-17T15:27:44.136340+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "227801",
   "name": "전기통신사업 회계정리 및 보고에 관한 규정",
   "payload_law_id": "010667",
+  "prev_name": null,
   "promulgation_date": "20210105",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "c2de00dfe7a89bda"
  },
  "law:eflaw:010668": {
@@ -88122,8 +88135,14 @@
   "version_signature": "310a71ed3cc74fd7"
  },
  "law:eflaw:011067": {
-  "collected_signature": "35e40b6f5ae91673",
-  "content_hash": "be2082d631b7f4a5a13d9971070d2f6ddec350a5369bcd976fb399e1d3313717",
+  "attempt_run": "01a1ea1e-70f",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 38,
+   "chars": 10469
+  },
+  "collected_signature": "a43cd468ef6ef674",
+  "content_hash": "e0ee386e8403e3b798e648ad132b3feff408c2aa49ecbe217aeb89f2bba4caac",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281429&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "011067",
@@ -88131,17 +88150,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "35e40b6f5ae91673",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T05:36:18.172758+00:00",
-  "last_collected_at": "2026-08-25T05:39:10.518639+00:00",
+  "last_checked_at": "2026-11-17T15:27:07.238444+00:00",
+  "last_collected_at": "2026-11-17T15:29:41.454808+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "281429",
   "name": "정보통신산업 진흥법 시행령",
   "payload_law_id": "011067",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "a43cd468ef6ef674"
  },
  "law:eflaw:011068": {
@@ -125195,8 +125217,14 @@
   "version_signature": "ad54509a319ceb33"
  },
  "law:eflaw:014114": {
-  "collected_signature": "ed9e3dfa2eddfdcb",
-  "content_hash": "448c79992e1d33fde9cc3fb84b32f7b0c7b5c5a08b63aebcbf24452afeb1a929",
+  "attempt_run": "01a1ea1e-711",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 31,
+   "chars": 15002
+  },
+  "collected_signature": "e06ced6b374c548c",
+  "content_hash": "66f18dfc173338c754cfdca49f33b9b81b521566a098a9519b84bb5aad2d2162",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291917&type=HTML&mobileYn=&efYd=20261117",
   "doc_domain": "law",
   "doc_id": "014114",
@@ -125204,16 +125232,19 @@
   "doc_type": "대통령령",
   "emitted_signature": "ed9e3dfa2eddfdcb",
   "enforcement_date": "20261117",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T15:23:56.723100+00:00",
-  "last_collected_at": "2026-08-25T15:26:56.317252+00:00",
+  "last_checked_at": "2026-11-17T15:27:10.391931+00:00",
+  "last_collected_at": "2026-11-17T15:31:03.408687+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "행정안전부",
   "mst": "291917",
   "name": "지방자치단체 보조금 관리에 관한 법률 시행령",
   "payload_law_id": "014114",
+  "prev_name": null,
   "promulgation_date": "20261117",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "e06ced6b374c548c"
  },
@@ -127120,8 +127151,14 @@
   "version_signature": "1dc2f4206a6143b9"
  },
  "law:eflaw:014230": {
-  "collected_signature": "5bf646886ae763ba",
-  "content_hash": "6372fe8e5c2a1a4ab0c5003c6f190f9846f4a8da2a6220681ebaac4558f32eca",
+  "attempt_run": "01a1ea1e-706",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 42,
+   "chars": 17564
+  },
+  "collected_signature": "d91c4323da82a2eb",
+  "content_hash": "eca5e1f6fe788c60066fd3aef6cee278a18b5f626473f12e306749f81b526481",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=281345&type=HTML&mobileYn=&efYd=20260102",
   "doc_domain": "law",
   "doc_id": "014230",
@@ -127129,17 +127166,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "5bf646886ae763ba",
   "enforcement_date": "20260102",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T16:39:08.122981+00:00",
-  "last_collected_at": "2026-08-25T16:41:50.633349+00:00",
+  "last_checked_at": "2026-11-17T15:27:09.083011+00:00",
+  "last_collected_at": "2026-11-17T15:31:51.687003+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "중소벤처기업부",
   "mst": "281345",
   "name": "지역중소기업 육성 및 혁신촉진 등에 관한 법률 시행령",
   "payload_law_id": "014230",
+  "prev_name": null,
   "promulgation_date": "20251230",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "d91c4323da82a2eb"
  },
  "law:eflaw:014236": {
