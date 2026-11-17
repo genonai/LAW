@@ -36817,14 +36817,14 @@
   "version_signature": "89d979311e7c18fe"
  },
  "law:eflaw:005238": {
-  "attempt_run": "01a18844-be3",
+  "attempt_run": "01a1ea26-99d",
   "attempts": 0,
   "body_stats": {
-   "articles": 181,
-   "chars": 96729
+   "articles": 182,
+   "chars": 97251
   },
-  "collected_signature": "68ce7a1a1658c520",
-  "content_hash": "b8151dad9cb9b8b76e7e692cf47002163c12d7148c32dc7806db283d307b5e25",
+  "collected_signature": "cd077ba22a556c23",
+  "content_hash": "dcbf08a739cddac6518513b130ea579e17535e87bac4f57932e64a0174bb3904",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291283&type=HTML&mobileYn=&efYd=20261029",
   "doc_domain": "law",
   "doc_id": "005238",
@@ -36834,8 +36834,8 @@
   "enforcement_date": "20261029",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-29T15:26:10.270055+00:00",
-  "last_collected_at": "2026-10-29T15:33:33.194121+00:00",
+  "last_checked_at": "2026-11-17T15:36:01.329251+00:00",
+  "last_collected_at": "2026-11-17T15:40:24.051966+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "교육부",
   "mst": "291283",
@@ -36845,7 +36845,7 @@
   "promulgation_date": "20261027",
   "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "cd077ba22a556c23"
  },
  "law:eflaw:005239": {
@@ -128593,8 +128593,14 @@
   "version_signature": "a2a4472d1f7569b0"
  },
  "law:eflaw:014321": {
-  "collected_signature": "3691298afa9b2457",
-  "content_hash": "c3c5263667a23641f22ebc11c5b0376ccb6e4437fb5df385330c4cd956d811bf",
+  "attempt_run": "01a1ea26-99c",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 29,
+   "chars": 13083
+  },
+  "collected_signature": "6a98d78dcd987c40",
+  "content_hash": "c3bf4349a6a1d1ec88e5ce21f28c20134a14c4bf6d970a11e2dfb0a22a73f5a0",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=283553&type=HTML&mobileYn=&efYd=20260219",
   "doc_domain": "law",
   "doc_id": "014321",
@@ -128602,17 +128608,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "3691298afa9b2457",
   "enforcement_date": "20260219",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T18:44:54.492539+00:00",
-  "last_collected_at": "2026-08-25T18:49:54.196873+00:00",
+  "last_checked_at": "2026-11-17T15:36:00.993252+00:00",
+  "last_collected_at": "2026-11-17T15:37:21.097142+00:00",
   "last_seen_at": "2026-11-17T15:00:29.006094+00:00",
   "ministry": "문화체육관광부",
   "mst": "283553",
   "name": "체육인 복지법 시행령",
   "payload_law_id": "014321",
+  "prev_name": null,
   "promulgation_date": "20260219",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "6a98d78dcd987c40"
  },
  "law:eflaw:014323": {
