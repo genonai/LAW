@@ -110887,8 +110887,14 @@
   "version_signature": "ee8a304257443dcc"
  },
  "law:eflaw:012631": {
-  "collected_signature": "3eb9de7dcd6ea948",
-  "content_hash": "369279761da2029201a2a2f682ecfe7e632bad677096ba2c1f4e455ad997cdd0",
+  "attempt_run": "01a1f458-bc2",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 10,
+   "chars": 3024
+  },
+  "collected_signature": "9fa375a0e93696e4",
+  "content_hash": "96d23fdbca152cc7d9e7a13d9067a62f97185e907b2d53d85a530af39c4e1184",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=208699&type=HTML&mobileYn=&efYd=20190619",
   "doc_domain": "law",
   "doc_id": "012631",
@@ -110896,17 +110902,20 @@
   "doc_type": "대통령령",
   "emitted_signature": "3eb9de7dcd6ea948",
   "enforcement_date": "20190619",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T21:02:24.026604+00:00",
-  "last_collected_at": "2026-08-25T21:08:24.772476+00:00",
+  "last_checked_at": "2026-11-19T15:06:58.789439+00:00",
+  "last_collected_at": "2026-11-19T15:07:17.455661+00:00",
   "last_seen_at": "2026-11-19T15:00:28.403971+00:00",
   "ministry": "교육부",
   "mst": "208699",
   "name": "특수외국어 교육 진흥에 관한 법률 시행령",
   "payload_law_id": "012631",
+  "prev_name": null,
   "promulgation_date": "20190521",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "9fa375a0e93696e4"
  },
  "law:eflaw:012632": {
