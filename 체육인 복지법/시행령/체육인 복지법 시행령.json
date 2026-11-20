@@ -49,7 +49,7 @@
   "revision_reason": "[일부개정]\n◇ 개정이유 및 주요내용\n체육인에 대한 복지를 강화하기 위해 체육인의 범위를 「국민체육진흥법」에 따른 경기단체가 주관하는 전국 규모의 대회에 출전한 경력이 있는 사람까지 확대하려는 것임.\n<법제처 제공>",
   "body": {
     "format": "articles",
-    "article_count": 28,
+    "article_count": 29,
     "articles": [
       {
         "article_no": "제1조",
@@ -452,6 +452,30 @@
         "article_key": "0004001",
         "images": [],
         "provision_id": "law:체육인복지법시행령#JO0004"
+      },
+      {
+        "article_no": "제4조의2",
+        "article_title": "체육인의 복지증진 및 권리 보호에 필요한 시책의 수립ㆍ시행",
+        "chapter": "",
+        "chapter_path": "",
+        "content": "제4조의2(체육인의 복지증진 및 권리 보호에 필요한 시책의 수립ㆍ시행)\n① 법 제5조제1항에 따른 시책에는 다음 각 호의 사항이 포함돼야 한다.\n1. 체육인의 복지증진 및 권리 보호를 위한 기본방향에 관한 사항\n2. 체육인 복지증진을 위한 사업 및 활동의 활성화에 관한 사항\n3. 체육인이 공정하게 체육활동을 할 수 있는 여건 조성 및 개선에 관한 사항\n4. 그 밖에 체육인의 복지증진 및 권리 보호에 관한 사항\n② 문화체육관광부장관은 관계 중앙행정기관의 장과 협의하여 법 제5조제1항에 따른 시책을 수립하고, 수립한 시책을 관계 중앙행정기관의 장 및 지방자치단체의 장에게 통보해야 한다.\n③ 문화체육관광부장관은 시책의 수립ㆍ시행을 위해 필요한 경우 관계 중앙행정기관의 장 및 지방자치단체의 장에게 협조를 요청할 수 있다.\n④ 지방자치단체의 장은 제2항에 따라 통보받은 시책과 지역의 여건을 고려하여 법 제5조제1항에 따른 시책을 수립ㆍ시행해야 한다.",
+        "enforcement_date": "20261120",
+        "relations": [],
+        "note": "[본조신설 2026.11.17]",
+        "revision_type": "일부개정",
+        "changed": "Y",
+        "article_key": "0004021",
+        "moved": "000000",
+        "images": [],
+        "provision_id": "law:체육인복지법시행령#JO0004_02",
+        "future_only": true,
+        "scheduled": [
+          {
+            "enforcement_date": "20261120",
+            "change": "신설",
+            "content": "제4조의2(체육인의 복지증진 및 권리 보호에 필요한 시책의 수립ㆍ시행)\n① 법 제5조제1항에 따른 시책에는 다음 각 호의 사항이 포함돼야 한다.\n1. 체육인의 복지증진 및 권리 보호를 위한 기본방향에 관한 사항\n2. 체육인 복지증진을 위한 사업 및 활동의 활성화에 관한 사항\n3. 체육인이 공정하게 체육활동을 할 수 있는 여건 조성 및 개선에 관한 사항\n4. 그 밖에 체육인의 복지증진 및 권리 보호에 관한 사항\n② 문화체육관광부장관은 관계 중앙행정기관의 장과 협의하여 법 제5조제1항에 따른 시책을 수립하고, 수립한 시책을 관계 중앙행정기관의 장 및 지방자치단체의 장에게 통보해야 한다.\n③ 문화체육관광부장관은 시책의 수립ㆍ시행을 위해 필요한 경우 관계 중앙행정기관의 장 및 지방자치단체의 장에게 협조를 요청할 수 있다.\n④ 지방자치단체의 장은 제2항에 따라 통보받은 시책과 지역의 여건을 고려하여 법 제5조제1항에 따른 시책을 수립ㆍ시행해야 한다."
+          }
+        ]
       },
       {
         "article_no": "제5조",
@@ -4183,6 +4207,19 @@
       "source_version_uid": "014321:283553:20260219",
       "source_revision_type": "일부개정",
       "version_enforcement_date": "20260219"
+    },
+    {
+      "promulgation_date": "20261117",
+      "promulgation_no": "36838",
+      "addendum_key": "2026111736838",
+      "content": "부칙 <제36838호,2026.11.17>\n이 영은 2026년 11월 20일부터 시행한다.",
+      "provision_id": "law:체육인복지법시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291939",
+      "source_version_uid": "014321:291939:20261120",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261120",
+      "enforcement_date": "20261120"
     }
   ],
   "appendices": [],
@@ -4219,8 +4256,10 @@
   "provision_id": "law:체육인복지법시행령#DOC",
   "addendum_provision_id": "law:체육인복지법시행령#ADDENDUM",
   "amendment_provision_id": "law:체육인복지법시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261120"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "체육인 복지법/시행령/체육인 복지법 시행령.json"
 }
