@@ -58517,8 +58517,14 @@
   "version_signature": "41180105bf624b41"
  },
  "law:eflaw:008508": {
-  "collected_signature": "10ca3ad2ad2bb0dd",
-  "content_hash": "fb227dd84f0816d751b2c38d8f18d61d1f93b5d69db8c41cde615adede07d3cb",
+  "attempt_run": "01a1f9b0-774",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 63,
+   "chars": 22640
+  },
+  "collected_signature": "b72c078e41a84125",
+  "content_hash": "989bd82fcd051deacd944def469277a56e3a0ad5734c64add762872bf8592a58",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=292003&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "008508",
@@ -58526,16 +58532,19 @@
   "doc_type": "기후에너지환경부령",
   "emitted_signature": "10ca3ad2ad2bb0dd",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-25T20:32:05.314385+00:00",
-  "last_collected_at": "2026-08-25T20:38:17.740965+00:00",
+  "last_checked_at": "2026-11-20T16:00:54.473084+00:00",
+  "last_collected_at": "2026-11-20T16:03:52.265982+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "기후에너지환경부",
   "mst": "292003",
   "name": "토양환경보전법 시행규칙",
   "payload_law_id": "008508",
+  "prev_name": null,
   "promulgation_date": "20261120",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "b72c078e41a84125"
  },
@@ -109476,14 +109485,14 @@
   "version_signature": "a9b00ff81f35e300"
  },
  "law:eflaw:012498": {
-  "attempt_run": "01a1b3a4-d71",
+  "attempt_run": "01a1f9b0-77b",
   "attempts": 0,
   "body_stats": {
    "articles": 15,
-   "chars": 3219
+   "chars": 3614
   },
-  "collected_signature": "0f01645a610daf52",
-  "content_hash": "f9c83156e2ae0c70f364df5208f8096c5a35694212fe157f587376e1b850b671",
+  "collected_signature": "131e04b775033936",
+  "content_hash": "278d1b3fc11c87bb36b77131958cb886700852bd78330d2b4d29edb3de2704cf",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286097&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "012498",
@@ -109493,8 +109502,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-07T01:34:49.088393+00:00",
-  "last_collected_at": "2026-11-07T01:35:38.293960+00:00",
+  "last_checked_at": "2026-11-20T16:00:58.850139+00:00",
+  "last_collected_at": "2026-11-20T16:01:42.547852+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "286097",
@@ -109503,7 +109512,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "131e04b775033936"
  },
@@ -110991,14 +111000,14 @@
   "version_signature": "ee8a304257443dcc"
  },
  "law:eflaw:012631": {
-  "attempt_run": "01a1f458-bc2",
+  "attempt_run": "01a1f9b0-779",
   "attempts": 0,
   "body_stats": {
    "articles": 10,
-   "chars": 3024
+   "chars": 3575
   },
-  "collected_signature": "9fa375a0e93696e4",
-  "content_hash": "96d23fdbca152cc7d9e7a13d9067a62f97185e907b2d53d85a530af39c4e1184",
+  "collected_signature": "0236e615eb6788bc",
+  "content_hash": "e49aa5b8ce0ad04f99ef37cbe50099ef4df6508fb5ad08653e618024695038e4",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291975&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "012631",
@@ -111008,8 +111017,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-19T15:06:58.789439+00:00",
-  "last_collected_at": "2026-11-19T15:07:17.455661+00:00",
+  "last_checked_at": "2026-11-20T16:00:57.677608+00:00",
+  "last_collected_at": "2026-11-20T16:01:55.241695+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "291975",
@@ -111018,7 +111027,7 @@
   "prev_name": null,
   "promulgation_date": "20261119",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0236e615eb6788bc"
  },
@@ -112856,14 +112865,14 @@
   "version_signature": "b929253999fbe494"
  },
  "law:eflaw:012843": {
-  "attempt_run": "01a1daf2-322",
+  "attempt_run": "01a1f9b0-776",
   "attempts": 0,
   "body_stats": {
    "articles": 42,
-   "chars": 29910
+   "chars": 28794
   },
-  "collected_signature": "6dbabb171db6b465",
-  "content_hash": "d19260706aececf70c11c81c88bceb07c0bb4b8c88bf3e354a1941caa84dcad2",
+  "collected_signature": "e17be4cf6ec48b76",
+  "content_hash": "bd31fd85644e436b2ac06280a6b556387a60e122c06970c1f8eeff4d6bd577c8",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291977&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "012843",
@@ -112873,8 +112882,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-14T16:44:28.373431+00:00",
-  "last_collected_at": "2026-11-14T16:53:36.797840+00:00",
+  "last_checked_at": "2026-11-20T16:00:56.395524+00:00",
+  "last_collected_at": "2026-11-20T16:07:03.386129+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "국토교통부",
   "mst": "291977",
@@ -112883,8 +112892,8 @@
   "prev_name": null,
   "promulgation_date": "20261120",
   "sanity_hold": null,
-  "status": "pending",
-  "version_count": 4,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "e17be4cf6ec48b76"
  },
  "law:eflaw:012844": {
@@ -112922,14 +112931,14 @@
   "version_signature": "6bc8c1cc3a07e592"
  },
  "law:eflaw:012848": {
-  "attempt_run": "01a1daf2-327",
+  "attempt_run": "01a1f9b0-77f",
   "attempts": 0,
   "body_stats": {
    "articles": 378,
-   "chars": 203468
+   "chars": 203580
   },
-  "collected_signature": "f279f0159402faa9",
-  "content_hash": "6c2413a89ffe49c12adf745138adc403c027c077da61de2de88ab7fd41bcff56",
+  "collected_signature": "069203620c4453b5",
+  "content_hash": "e95a3240f7f947b2260553187c9e4e22b776d8bd8f778113e77e2b4f5beaca3b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=292005&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "012848",
@@ -112939,8 +112948,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-14T16:44:28.761228+00:00",
-  "last_collected_at": "2026-11-14T16:58:47.790934+00:00",
+  "last_checked_at": "2026-11-20T16:00:55.615564+00:00",
+  "last_collected_at": "2026-11-20T16:12:53.539558+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "국토교통부",
   "mst": "292005",
@@ -112949,8 +112958,8 @@
   "prev_name": null,
   "promulgation_date": "20261120",
   "sanity_hold": null,
-  "status": "pending",
-  "version_count": 3,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "069203620c4453b5"
  },
  "law:eflaw:012849": {
@@ -134986,14 +134995,14 @@
   "version_signature": "7b27b386126b5b72"
  },
  "law:eflaw:014752": {
-  "attempt_run": "01a1b3ba-974",
+  "attempt_run": "01a1f9b0-77d",
   "attempts": 0,
   "body_stats": {
    "articles": 25,
-   "chars": 5925
+   "chars": 6404
   },
-  "collected_signature": "32ecab6a1631f95e",
-  "content_hash": "ec28290bc14f2adafa57fd4b056c51d8c406511e9770d3500f0865473f7e5b2e",
+  "collected_signature": "a8013e20d5f33ebf",
+  "content_hash": "6d786f716c38b5b69e1f721ec0819607928e7a5acd40e15de63d33d08d9a1836",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286113&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014752",
@@ -135003,8 +135012,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-07T01:58:36.854507+00:00",
-  "last_collected_at": "2026-11-07T01:59:29.422914+00:00",
+  "last_checked_at": "2026-11-20T16:00:54.950386+00:00",
+  "last_collected_at": "2026-11-20T16:01:24.836214+00:00",
   "last_git_error": "disk-full git 손상 복구: 미커밋 → 재수집",
   "last_git_error_at": "2026-08-26T07:01:46.755820+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
@@ -135015,7 +135024,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "a8013e20d5f33ebf"
  },
