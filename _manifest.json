@@ -6998,14 +6998,14 @@
   "version_signature": "eb50cfe00ea9bcd1"
  },
  "law:eflaw:000900": {
-  "attempt_run": "01a1b390-95b",
+  "attempt_run": "01a1f9a9-056",
   "attempts": 0,
   "body_stats": {
    "articles": 119,
    "chars": 38816
   },
-  "collected_signature": "d00a0fe6c36436d8",
-  "content_hash": "3d8dfdb4ee07417989125a7f9d0bafbf0072cb58e2081ab2980b5641801d6148",
+  "collected_signature": "b1ac2c3cd7d81627",
+  "content_hash": "ce2ce5bb6bc38846830480045dc41ff9ee9dff7f496b224d3b4c4679e8fd5066",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286065&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "000900",
@@ -7015,8 +7015,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-07T01:12:41.674860+00:00",
-  "last_collected_at": "2026-11-07T01:16:50.959299+00:00",
+  "last_checked_at": "2026-11-20T15:52:48.263340+00:00",
+  "last_collected_at": "2026-11-20T15:56:13.832721+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "286065",
@@ -7025,7 +7025,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "b1ac2c3cd7d81627"
  },
@@ -36593,13 +36593,14 @@
   "version_signature": "73978831db855314"
  },
  "law:eflaw:005176": {
+  "attempt_run": "01a1f9a9-04f",
   "attempts": 0,
   "body_stats": {
    "articles": 59,
    "chars": 20939
   },
-  "collected_signature": "4e4aa701ad833ee2",
-  "content_hash": "36a642e82cbe1b4dc544658cffbeeb8faf004661c20133b31521307d698f36cb",
+  "collected_signature": "dd64cf9b178502c6",
+  "content_hash": "eadbdbfcdd16484668511117e8d30d13ec0aa3825cb3919f3a1104f594f22cf5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291985&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "005176",
@@ -36609,8 +36610,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-10-01T17:54:34.312182+00:00",
-  "last_collected_at": "2026-10-01T17:57:53.259986+00:00",
+  "last_checked_at": "2026-11-20T15:52:46.870992+00:00",
+  "last_collected_at": "2026-11-20T15:58:16.407825+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "행정안전부",
   "mst": "291985",
@@ -36618,7 +36619,8 @@
   "payload_law_id": "005176",
   "prev_name": null,
   "promulgation_date": "20261120",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "dd64cf9b178502c6"
  },
@@ -36876,14 +36878,14 @@
   "version_signature": "89d979311e7c18fe"
  },
  "law:eflaw:005238": {
-  "attempt_run": "01a1ea26-99d",
+  "attempt_run": "01a1f9a9-058",
   "attempts": 0,
   "body_stats": {
    "articles": 182,
-   "chars": 97251
+   "chars": 96940
   },
-  "collected_signature": "cd077ba22a556c23",
-  "content_hash": "dcbf08a739cddac6518513b130ea579e17535e87bac4f57932e64a0174bb3904",
+  "collected_signature": "4e2cbdb8b6e7bc76",
+  "content_hash": "f52a47db04d0a3d022a6775fcd7eaa2a76d2d2470c874559eb2350b12708826a",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291935&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "005238",
@@ -36893,8 +36895,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:36:01.329251+00:00",
-  "last_collected_at": "2026-11-17T15:40:24.051966+00:00",
+  "last_checked_at": "2026-11-20T15:52:49.311944+00:00",
+  "last_collected_at": "2026-11-20T16:00:26.030506+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "291935",
@@ -36903,7 +36905,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "4e2cbdb8b6e7bc76"
  },
@@ -89216,14 +89218,14 @@
   "version_signature": "a13dd92a8eaa7106"
  },
  "law:eflaw:011136": {
-  "attempt_run": "01a1b396-74f",
+  "attempt_run": "01a1f9a9-051",
   "attempts": 0,
   "body_stats": {
    "articles": 48,
-   "chars": 21969
+   "chars": 22302
   },
-  "collected_signature": "af9dda3c2e697090",
-  "content_hash": "478700f7a4ddda812a79112830206298f42d03deab843012d2ddb40cd58df94d",
+  "collected_signature": "8b0592213287a876",
+  "content_hash": "1d4a32213aaf9ce734ce8e02344abdf5124b0790921db85f7cd318702f49a67c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286071&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "011136",
@@ -89233,8 +89235,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-07T01:19:07.621868+00:00",
-  "last_collected_at": "2026-11-07T01:23:23.681950+00:00",
+  "last_checked_at": "2026-11-20T15:52:46.432765+00:00",
+  "last_collected_at": "2026-11-20T15:57:30.333124+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "286071",
@@ -89243,7 +89245,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8b0592213287a876"
  },
@@ -125795,14 +125797,14 @@
   "version_signature": "138665a3a7eaa7b7"
  },
  "law:eflaw:014136": {
-  "attempt_run": "01a1d07f-344",
+  "attempt_run": "01a1f9a9-054",
   "attempts": 0,
   "body_stats": {
    "articles": 31,
-   "chars": 8679
+   "chars": 8997
   },
-  "collected_signature": "da500fcef46240a3",
-  "content_hash": "44cde5a6e6f47bd48571bf9f074c1e6ca5a0bd370c8290c099dd47e6fd740c06",
+  "collected_signature": "9b678e34929fa0e1",
+  "content_hash": "c61de9ebce886d6b84e39d5156714adef69c09dc62fd368fcb10c3c099788e92",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286111&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014136",
@@ -125812,8 +125814,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-12T16:02:40.610155+00:00",
-  "last_collected_at": "2026-11-12T16:03:38.881561+00:00",
+  "last_checked_at": "2026-11-20T15:52:47.414286+00:00",
+  "last_collected_at": "2026-11-20T15:53:34.946372+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "문화체육관광부",
   "mst": "286111",
@@ -125822,7 +125824,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9b678e34929fa0e1"
  },
@@ -128786,14 +128788,14 @@
   "version_signature": "a2a4472d1f7569b0"
  },
  "law:eflaw:014321": {
-  "attempt_run": "01a1ea26-99c",
+  "attempt_run": "01a1f9a9-05d",
   "attempts": 0,
   "body_stats": {
    "articles": 29,
    "chars": 13083
   },
-  "collected_signature": "6a98d78dcd987c40",
-  "content_hash": "c3bf4349a6a1d1ec88e5ce21f28c20134a14c4bf6d970a11e2dfb0a22a73f5a0",
+  "collected_signature": "8b72028d89179486",
+  "content_hash": "972adec3ba74e3e254c25c8fc7687085444897dde8eb6401fff59d3a76769b8b",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291939&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014321",
@@ -128803,8 +128805,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:36:00.993252+00:00",
-  "last_collected_at": "2026-11-17T15:37:21.097142+00:00",
+  "last_checked_at": "2026-11-20T15:52:51.004335+00:00",
+  "last_collected_at": "2026-11-20T15:57:18.987288+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "문화체육관광부",
   "mst": "291939",
@@ -128813,7 +128815,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8b72028d89179486"
  },
