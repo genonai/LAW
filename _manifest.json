@@ -232,8 +232,14 @@
   "version_signature": "04c80bc62d83fa6a"
  },
  "law:eflaw:000014": {
-  "collected_signature": "2564fa597861214a",
-  "content_hash": "5eb75a0596135e47527f7e909a6234814211386785ccf5719c0a99da3fcd2419",
+  "attempt_run": "01a1f988-d41",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 9,
+   "chars": 1186
+  },
+  "collected_signature": "20609b13d54733a4",
+  "content_hash": "53d7836a0ce4c7fe6e6d6becdc2bf881375204680b877d0ac13e1fe095cfac5d",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286105&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "000014",
@@ -241,16 +247,19 @@
   "doc_type": "법률",
   "emitted_signature": "2564fa597861214a",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:36:44.764343+00:00",
-  "last_collected_at": "2026-08-23T08:37:17.126041+00:00",
+  "last_checked_at": "2026-11-20T15:17:37.795780+00:00",
+  "last_collected_at": "2026-11-20T15:18:25.224373+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "외교부",
   "mst": "286105",
   "name": "대한민국 재외공관 설치법",
   "payload_law_id": "000014",
+  "prev_name": null,
   "promulgation_date": "20260519",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "20609b13d54733a4"
  },
@@ -2192,14 +2201,14 @@
   "version_signature": "46d0970d88392753"
  },
  "law:eflaw:000191": {
-  "attempt_run": "01a1b292-5d8",
+  "attempt_run": "01a1f988-d39",
   "attempts": 0,
   "body_stats": {
    "articles": 109,
-   "chars": 55851
+   "chars": 56331
   },
-  "collected_signature": "7edde153d6adbba2",
-  "content_hash": "07a409f8d7847a5ba69985db3e77637d45d95637695dfca5c3fd9a4c4e9159f2",
+  "collected_signature": "ec10b05d6a7d3d0d",
+  "content_hash": "678e46b3cc44df14ae7495ed9930ad158224f0ba1fde5e0a55aa5625a38393f5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286057&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "000191",
@@ -2209,8 +2218,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:34:59.384429+00:00",
-  "last_collected_at": "2026-11-06T20:39:07.148726+00:00",
+  "last_checked_at": "2026-11-20T15:17:39.450615+00:00",
+  "last_collected_at": "2026-11-20T15:20:46.059674+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "286057",
@@ -2219,8 +2228,8 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
-  "version_count": 2,
+  "status": "done",
+  "version_count": 1,
   "version_signature": "ec10b05d6a7d3d0d"
  },
  "law:eflaw:000193": {
@@ -7968,8 +7977,14 @@
   "version_signature": "c5e1f750bd958344"
  },
  "law:eflaw:000988": {
-  "collected_signature": "9eae5e76db289bee",
-  "content_hash": "b50ff6b91948b0b2ea5810d652acfa34333e6359eca80982ff1ca10d0b51cb87",
+  "attempt_run": "01a1f988-d3d",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 19,
+   "chars": 3444
+  },
+  "collected_signature": "31c85ac62590ceac",
+  "content_hash": "795bc0e99a7afa384c8e26c25240afb7e590edd2ab1eb4f41545864c95d98277",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286095&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "000988",
@@ -7977,9 +7992,10 @@
   "doc_type": "법률",
   "emitted_signature": "9eae5e76db289bee",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:39:59.091240+00:00",
-  "last_collected_at": "2026-08-23T08:41:01.479586+00:00",
+  "last_checked_at": "2026-11-20T15:17:38.483426+00:00",
+  "last_collected_at": "2026-11-20T15:18:16.336786+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "경찰청",
   "mst": "286095",
@@ -7988,13 +8004,16 @@
    "대한민국재향경우회법"
   ],
   "payload_law_id": "000988",
-  "prev_name": "대한민국재향경우회법",
+  "prev_name": null,
   "promulgation_date": "20260519",
   "rename_pending": {
    "at": "2026-11-20T15:00:37.593304Z",
-   "old": "대한민국재향경우회법"
+   "new_dir": "대한민국재향경찰회법/법률",
+   "old": "대한민국재향경우회법",
+   "old_dir": "대한민국재향경우회법/법률"
   },
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "31c85ac62590ceac"
  },
@@ -79014,8 +79033,14 @@
   "version_signature": "f0897d930061dbea"
  },
  "law:eflaw:010435": {
-  "collected_signature": "d1eb66841f8a709f",
-  "content_hash": "8652b420d26be02366c38a3423aa0f4c5160abcb63ae24e90cd616c4ade9a22a",
+  "attempt_run": "01a1f988-d37",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 33,
+   "chars": 13004
+  },
+  "collected_signature": "2f0b4ad598f757af",
+  "content_hash": "7a0c6efbf578c239e3e35f6c0aae0a125fff70d3fac3588a05083135a6ba4f0f",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285887&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "010435",
@@ -79023,16 +79048,19 @@
   "doc_type": "법률",
   "emitted_signature": "d1eb66841f8a709f",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-23T08:30:29.055601+00:00",
-  "last_collected_at": "2026-08-23T08:31:24.877995+00:00",
+  "last_checked_at": "2026-11-20T15:17:36.564554+00:00",
+  "last_collected_at": "2026-11-20T15:19:07.367790+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "행정안전부",
   "mst": "285887",
   "name": "대통령기록물 관리에 관한 법률",
   "payload_law_id": "010435",
+  "prev_name": null,
   "promulgation_date": "20260519",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "2f0b4ad598f757af"
  },
@@ -79883,14 +79911,14 @@
   "version_signature": "1156e162c709053c"
  },
  "law:eflaw:010488": {
-  "attempt_run": "01a1ea06-18e",
+  "attempt_run": "01a1f988-d3b",
   "attempts": 0,
   "body_stats": {
    "articles": 27,
-   "chars": 13958
+   "chars": 14285
   },
-  "collected_signature": "5b003676081336d3",
-  "content_hash": "f19f1d7ea4c963fe80245b003a1e7a91940af841901b1d1400ba2be148aeee81",
+  "collected_signature": "05138b0f68d5c353",
+  "content_hash": "c528f5b78a2db11cbaf4a7a481cc9a4ffbba4a5538c2ef3787cdb0545c50c723",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291937&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "010488",
@@ -79900,8 +79928,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:00:34.340723+00:00",
-  "last_collected_at": "2026-11-17T15:02:50.643858+00:00",
+  "last_checked_at": "2026-11-20T15:17:40.578872+00:00",
+  "last_collected_at": "2026-11-20T15:19:55.227220+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "행정안전부",
   "mst": "291937",
@@ -79910,7 +79938,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "05138b0f68d5c353"
  },
@@ -131403,14 +131431,14 @@
   "version_signature": "bd21627fb44c104c"
  },
  "law:eflaw:014525": {
-  "attempt_run": "01a1b287-d8d",
+  "attempt_run": "01a1f988-d3f",
   "attempts": 0,
   "body_stats": {
    "articles": 42,
-   "chars": 17135
+   "chars": 18725
   },
-  "collected_signature": "0b2e9f6f0d50b688",
-  "content_hash": "8dbe7723fd0725a306a08c33fa602bd4c46547be8f640ccc5b72b5d5521c688d",
+  "collected_signature": "753bdca6d097a192",
+  "content_hash": "8db26c01685e42e67b2d1cc1f3388c09a56f8752943152a22c01d09551955993",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=286075&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "014525",
@@ -131420,8 +131448,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:23:31.229882+00:00",
-  "last_collected_at": "2026-11-06T20:24:56.831685+00:00",
+  "last_checked_at": "2026-11-20T15:17:36.982256+00:00",
+  "last_collected_at": "2026-11-20T15:19:22.031970+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "286075",
@@ -131430,7 +131458,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "753bdca6d097a192"
  },
