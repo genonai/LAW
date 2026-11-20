@@ -473,14 +473,14 @@
   "version_signature": "ba0cbf1a75eb24d8"
  },
  "law:eflaw:000041": {
-  "attempt_run": "01a1b29b-a72",
+  "attempt_run": "01a1f98c-3a2",
   "attempts": 0,
   "body_stats": {
    "articles": 45,
-   "chars": 14516
+   "chars": 14791
   },
-  "collected_signature": "ee7fce4b7662de02",
-  "content_hash": "828fd4c7e6a98093541e7b90763d66941070dab1be04a50b9fd45389fb6f1a24",
+  "collected_signature": "650b424346e463d3",
+  "content_hash": "53f8fa6d5e2507fa88667ae72e869bc138899a7fe5252e1d4297e9dd81834901",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=285885&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "000041",
@@ -490,8 +490,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:45:08.171223+00:00",
-  "last_collected_at": "2026-11-06T20:46:59.555092+00:00",
+  "last_checked_at": "2026-11-20T15:21:21.069028+00:00",
+  "last_collected_at": "2026-11-20T15:23:16.837519+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "285885",
@@ -500,7 +500,7 @@
   "prev_name": null,
   "promulgation_date": "20260519",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "650b424346e463d3"
  },
@@ -31963,14 +31963,14 @@
   "version_signature": "6fc623ee7682a354"
  },
  "law:eflaw:004216": {
-  "attempt_run": "01a1ea11-413",
+  "attempt_run": "01a1f98c-399",
   "attempts": 0,
   "body_stats": {
    "articles": 70,
-   "chars": 29023
+   "chars": 29017
   },
-  "collected_signature": "90c012d4342faa7b",
-  "content_hash": "7ddf63fffe294f983be0b29b10de27b8f2628f8574a77afe362d70ff1c188000",
+  "collected_signature": "0f814af5a1198039",
+  "content_hash": "6edb6851722294881dfbd9a459421e6296d8dae683c106017b950d8973857f9c",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291915&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "004216",
@@ -31980,8 +31980,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:12:45.351760+00:00",
-  "last_collected_at": "2026-11-17T15:18:05.936913+00:00",
+  "last_checked_at": "2026-11-20T15:21:19.277046+00:00",
+  "last_collected_at": "2026-11-20T15:26:09.313271+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "291915",
@@ -31990,7 +31990,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "0f814af5a1198039"
  },
@@ -32356,14 +32356,14 @@
   "version_signature": "6965f89b92e8e2c1"
  },
  "law:eflaw:004291": {
-  "attempt_run": "01a1ea11-41b",
+  "attempt_run": "01a1f98c-3a1",
   "attempts": 0,
   "body_stats": {
    "articles": 51,
-   "chars": 17260
+   "chars": 17550
   },
-  "collected_signature": "780119c0284717b5",
-  "content_hash": "fa149e5453f19262cafba0b9be7d9914c435193e3cdd39d5c9c745b2126d71e4",
+  "collected_signature": "9810c5d557fe4389",
+  "content_hash": "512a2df16e19e15ad704419fa100d7573fbb6f6e6958ae19db734c6a5b4285a6",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291881&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "004291",
@@ -32373,8 +32373,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:12:46.282469+00:00",
-  "last_collected_at": "2026-11-17T15:16:16.876978+00:00",
+  "last_checked_at": "2026-11-20T15:21:19.780076+00:00",
+  "last_collected_at": "2026-11-20T15:24:47.299850+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "291881",
@@ -32383,7 +32383,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "9810c5d557fe4389"
  },
@@ -54651,8 +54651,14 @@
   "version_signature": "9b341faa38aeeb5e"
  },
  "law:eflaw:007739": {
-  "collected_signature": "eb383de3b986cca9",
-  "content_hash": "b2566a86d68fdefd10e71b6c45c6c6de75cffc299d8ab4889be48b211a8a9866",
+  "attempt_run": "01a1f98c-39b",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 89,
+   "chars": 41590
+  },
+  "collected_signature": "208b1338b73da1e1",
+  "content_hash": "6a0cf7965ed57ede47cf06d718e8dd614ede1ad570c4ba46885d8e9b1820b6f7",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=292009&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "007739",
@@ -54660,16 +54666,19 @@
   "doc_type": "교육부령",
   "emitted_signature": "eb383de3b986cca9",
   "enforcement_date": "20261120",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-24T13:24:14.079235+00:00",
-  "last_collected_at": "2026-08-24T13:33:27.408171+00:00",
+  "last_checked_at": "2026-11-20T15:21:21.780150+00:00",
+  "last_collected_at": "2026-11-20T15:26:40.912015+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "교육부",
   "mst": "292009",
   "name": "영유아보육법 시행규칙",
   "payload_law_id": "007739",
+  "prev_name": null,
   "promulgation_date": "20261120",
-  "status": "pending",
+  "sanity_hold": null,
+  "status": "done",
   "version_count": 1,
   "version_signature": "208b1338b73da1e1"
  },
@@ -100866,14 +100875,14 @@
   "version_signature": "12849d652820f952"
  },
  "law:eflaw:011879": {
-  "attempt_run": "01a1ea11-416",
+  "attempt_run": "01a1f98c-3a4",
   "attempts": 0,
   "body_stats": {
    "articles": 33,
-   "chars": 8738
+   "chars": 8762
   },
-  "collected_signature": "16c71c83d1c8c9f8",
-  "content_hash": "1493820032fec6b1587d8bc4dfce04f434c5a98e37f47fa08985f5ee15f35fbd",
+  "collected_signature": "8aca6f5c259a83dd",
+  "content_hash": "d8f8d38b66ed1e886552e2096ef3585afd11a8ef30a1c2f27729ac5b6d4c13cd",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291883&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "011879",
@@ -100883,8 +100892,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-17T15:12:43.115651+00:00",
-  "last_collected_at": "2026-11-17T15:13:47.062103+00:00",
+  "last_checked_at": "2026-11-20T15:21:23.547787+00:00",
+  "last_collected_at": "2026-11-20T15:22:49.221939+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "과학기술정보통신부,행정안전부",
   "mst": "291883",
@@ -100893,7 +100902,7 @@
   "prev_name": null,
   "promulgation_date": "20261117",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "8aca6f5c259a83dd"
  },
@@ -100977,14 +100986,14 @@
   "version_signature": "9475f35c899aa802"
  },
  "law:eflaw:011883": {
-  "attempt_run": "01a1b29b-a85",
+  "attempt_run": "01a1f98c-39f",
   "attempts": 0,
   "body_stats": {
    "articles": 29,
-   "chars": 20222
+   "chars": 20233
   },
-  "collected_signature": "feee7ef3c2f53ad0",
-  "content_hash": "794f4c1747671eb22e460d831ad88c3207d36daeb96b82ca8a6cd555e30ad7dd",
+  "collected_signature": "21f4e960914ef3a1",
+  "content_hash": "f76f98da2f3503da36c69ea60e29423747c657ccb883d847437a8a1ba1fabbc5",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=291681&type=HTML&mobileYn=&efYd=20261120",
   "doc_domain": "law",
   "doc_id": "011883",
@@ -100994,8 +101003,8 @@
   "enforcement_date": "20261120",
   "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-11-06T20:45:12.230318+00:00",
-  "last_collected_at": "2026-11-06T20:46:19.803539+00:00",
+  "last_checked_at": "2026-11-20T15:21:20.406973+00:00",
+  "last_collected_at": "2026-11-20T15:21:59.135581+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "과학기술정보통신부",
   "mst": "291681",
@@ -101004,7 +101013,7 @@
   "prev_name": null,
   "promulgation_date": "20261106",
   "sanity_hold": null,
-  "status": "pending",
+  "status": "done",
   "version_count": 1,
   "version_signature": "21f4e960914ef3a1"
  },
