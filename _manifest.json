@@ -101821,8 +101821,14 @@
   "version_signature": "5dfdbda557bace68"
  },
  "law:eflaw:011943": {
-  "collected_signature": "729f00f5c30f6e85",
-  "content_hash": "50c660399f628612a5260f97db75c6d987c37622ed63b25a8bc0458956192520",
+  "attempt_run": "01a1f9bc-563",
+  "attempts": 0,
+  "body_stats": {
+   "articles": 11,
+   "chars": 7463
+  },
+  "collected_signature": "31ff54aba298acb7",
+  "content_hash": "783c44f02f35a89803d93c1d07e18a9d4bfb15bfe2ed57e051e6c17da18392d3",
   "detail_link": "/DRF/lawService.do?OC=test&target=eflaw&MST=282773&type=HTML&mobileYn=&efYd=20260108",
   "doc_domain": "law",
   "doc_id": "011943",
@@ -101830,17 +101836,20 @@
   "doc_type": "산업통상부령",
   "emitted_signature": "729f00f5c30f6e85",
   "enforcement_date": "20260108",
+  "export_pending": null,
   "is_active": true,
-  "last_checked_at": "2026-08-26T09:26:06.924510+00:00",
-  "last_collected_at": "2026-08-26T09:28:24.369682+00:00",
+  "last_checked_at": "2026-11-20T16:13:52.305206+00:00",
+  "last_collected_at": "2026-11-20T16:14:16.584110+00:00",
   "last_seen_at": "2026-11-20T15:00:30.102745+00:00",
   "ministry": "산업통상부",
   "mst": "282773",
   "name": "해외진출기업의 국내복귀 지원에 관한 법률 시행규칙",
   "payload_law_id": "011943",
+  "prev_name": null,
   "promulgation_date": "20260108",
+  "sanity_hold": null,
   "status": "done",
-  "version_count": 2,
+  "version_count": 1,
   "version_signature": "31ff54aba298acb7"
  },
  "law:eflaw:011944": {
