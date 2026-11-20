@@ -3024,7 +3024,14 @@
         "changed": "N",
         "article_key": "0013001",
         "images": [],
-        "provision_id": "law:대통령기록물관리에관한법률시행령#JO0013"
+        "provision_id": "law:대통령기록물관리에관한법률시행령#JO0013",
+        "scheduled": [
+          {
+            "enforcement_date": "20261120",
+            "change": "개정",
+            "content": "제13조(개별대통령기록관의 설치ㆍ운영)\n①법 제25조제2항에서 \"대통령령으로 정하는 기준\"이란 다음 각 호와 같다. <개정 2021.3.9>\n1. 건립하고자 하는 건물의 총 면적은 최대 5천 제곱미터 이내일 것\n2. 건립하려는 건물의 부지의 위치는 다음 각 목의 어느 한 지역에 해당되지 아니할 것\n가. 홍수로 인한 상습 침수지역\n나. 화재 및 폭발 위험지역\n3. 시설ㆍ장비 등은 「공공기록물 관리에 관한 법률 시행령」 별표 6에서 정하는 영구기록물관리기관의 시설ㆍ장비 및 환경기준에 따를 것\n② 법 제25조제1항 및 제2항에 따른 개별대통령기록관(이하 \"개별대통령기록관\"이라 한다)의 장은 이 영 제12조제6항에 따른 세부운영계획을 고려하여 매년 다음 연도의 개별대통령기록관 세부운영계획을 수립하여 12월 31일까지 대통령기록관의 장에게 제출해야 한다. <신설 2026.11.17>\n③ 개별대통령기록관의 장은 제2항에 따른 세부운영계획의 전년도 추진실적을 매년 1월 31일까지 대통령기록관의 장에게 제출해야 한다. <신설 2026.11.17>\n④ 제2항 및 제3항에서 규정한 사항 외에 개별대통령기록관의 운영에 필요한 사항은 대통령기록관의 장이 정한다. <신설 2026.11.17>"
+          }
+        ]
       },
       {
         "article_no": "제14조",
@@ -3340,6 +3347,19 @@
       "source_version_uid": "010488:288971:20260825",
       "source_revision_type": "타법개정",
       "version_enforcement_date": "20260825"
+    },
+    {
+      "promulgation_date": "20261117",
+      "promulgation_no": "36837",
+      "addendum_key": "2026111736837",
+      "content": "부칙 <제36837호,2026.11.17>\n이 영은 2026년 11월 20일부터 시행한다.",
+      "provision_id": "law:대통령기록물관리에관한법률시행령#ADDENDUM",
+      "is_future": true,
+      "source_mst": "291937",
+      "source_version_uid": "010488:291937:20261120",
+      "source_revision_type": "일부개정",
+      "version_enforcement_date": "20261120",
+      "enforcement_date": "20261120"
     }
   ],
   "appendices": [],
@@ -3374,8 +3394,10 @@
   "provision_id": "law:대통령기록물관리에관한법률시행령#DOC",
   "addendum_provision_id": "law:대통령기록물관리에관한법률시행령#ADDENDUM",
   "amendment_provision_id": "law:대통령기록물관리에관한법률시행령#AMENDMENT",
-  "future_enforcement_dates": [],
-  "has_future": false,
-  "version_count": 1,
+  "future_enforcement_dates": [
+    "20261120"
+  ],
+  "has_future": true,
+  "version_count": 2,
   "git_path": "대통령기록물 관리에 관한 법률/시행령/대통령기록물 관리에 관한 법률 시행령.json"
 }
